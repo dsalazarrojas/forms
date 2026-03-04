@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Release Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_info
+      label: Study Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      required: true
+    - id: 5
+      name: contact_relationship_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth (mm/dd/yyyy)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_license
+      label: Medical License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: research_institution
+      label: Research Institution Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

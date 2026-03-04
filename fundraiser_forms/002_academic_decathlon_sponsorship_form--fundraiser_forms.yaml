@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Decathlon Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsorship_intro
+      label: Academic Decathlon Sponsorship Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_organization_name
+      label: Organization Name
+      hint: Enter the name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_contact_person
+      label: Contact Person Name
+      hint: Full name of the person who will serve as primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_title
+      label: Contact Person Title
+      hint: Professional title or position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_email
+      label: Contact Email Address
+      hint: Business email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: sponsor_phone
+      label: Contact Phone Number
+      hint: Include area code and extension if applicable
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sponsor_address
+      label: Business Address
+      hint: Street address, city, state, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sponsorship_level
+      label: Desired Sponsorship Level
+      hint: Select the level that corresponds to your commitment
+      type: select_one
+      options:
+      - Platinum - $5000+
+      - Gold - $2500-$4999
+      - Silver - $1000-$2499
+      - Bronze - $500-$999
+      - Friend - $100-$499
+      - Community Supporter - Under $100
+      required: true
+    - id: 9
+      name: sponsorship_amount
+      label: Specific Sponsorship Amount
+      hint: Enter the exact dollar amount you wish to contribute
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How do you plan to make the contribution?
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      - Other
+      required: true
+    - id: 11
+      name: recognition_preferences
+      label: Recognition Preferences
+      hint: How would you like to be recognized? (Select all that apply)
+      type: select_multiple
+      options:
+      - Logo on event banners
+      - Logo in event program
+      - Social media mention
+      - Website listing
+      - Press release mention
+      - Stage acknowledgment
+      - Booth space at event
+      - None
+      required: false
+    - id: 12
+      name: marketing_materials_deadline
+      label: Marketing Materials Deadline
+      hint: When do you need your logo or materials submitted by?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: sponsorship_terms_acknowledged
+      label: Terms and Conditions Acknowledgment
+      hint: Do you acknowledge that sponsorship funds will be used exclusively for
+        Academic Decathlon activities?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - No, I do not acknowledge
+      required: true
+    - id: 14
+      name: sponsor_signature
+      label: Authorized Signature
+      hint: Enter your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date of Signature
+      hint: Date when this agreement is signed
+      type: date
+      options: []
+      required: true

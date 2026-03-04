@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Villain Character Profile
+    pages:
+    - id: 1
+      name: villain_character
+      label: character_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: villain_description
+      label: villain_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: villain_goals
+      label: villain_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: villain_motivation
+      label: villain_motivation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''financial'', ''label'': ''Financial Gain''}'
+      - '{''value'': ''Power'', ''label'': ''Power''}'
+      - '{''value'': ''Revenge'', ''label'': ''Revenge''}'
+      - '{''value'': ''Control'', ''label'': ''Control''}'
+      - '{''value'': ''Mutilation'', ''label'': ''Mutilation''}'
+      required: false
+    - id: 5
+      name: villain_method
+      label: villain_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physical'', ''label'': ''Physical''}'
+      - '{''value'': ''Psychological'', ''label'': ''Psychological''}'
+      - '{''value'': ''Magical'', ''label'': ''Magical''}'
+      - '{''value'': ''Social'', ''label'': ''Social''}'
+      - '{''value'': ''Cyber'', ''label'': ''Cyber''}'
+      required: false
+    - id: 6
+      name: villain_backstory
+      label: villain_backstory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: villain_powers
+      label: villain_powers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: villain_weaknesses
+      label: villain_weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

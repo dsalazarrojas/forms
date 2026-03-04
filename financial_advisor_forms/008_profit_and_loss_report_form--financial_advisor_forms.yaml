@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profit And Loss Report Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: revenue_info
+      label: Revenue Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expenses_info
+      label: Expenses Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense
+      label: Expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Monthly
+      - Annual
+      required: false
+    - id: 10
+      name: frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Financial Summary
+      - Profit and Loss
+      - Balance Sheet
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: note
+      options: []
+      required: false

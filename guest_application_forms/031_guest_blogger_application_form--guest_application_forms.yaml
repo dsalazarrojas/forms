@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Blogger Application Form
+    pages:
+    - id: 1
+      name: guest_application_form
+      label: Fill In This Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: select_one
+      label: What Type Of Influencer Are You?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Fashion''}'
+      - '{''text'': ''Beauty''}'
+      - '{''text'': ''Sports''}'
+      - '{''text'': ''Gaming''}'
+      - '{''text'': ''Food''}'
+      - '{''text'': ''Travel''}'
+      required: true
+    - id: 5
+      name: blog_name
+      label: Blog Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: blog_url
+      label: Blog URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Social Media Links
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Twitter''}'
+      - '{''text'': ''Instagram''}'
+      - '{''text'': ''TikTok''}'
+      required: true
+    - id: 8
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

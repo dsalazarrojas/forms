@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonprofit_donation_audit_form
+    pages:
+    - id: 1
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gift_frequency
+      label: gift_frequency
+      hint: null
+      type: select_one
+      options:
+      - Gift Frequency
+      - One-Time
+      - Recurring
+      required: true
+    - id: 5
+      name: gift_type
+      label: gift_type
+      hint: null
+      type: select_multiple
+      options:
+      - Donation
+      - Other (Specify)
+      required: true
+    - id: 6
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Recurring
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

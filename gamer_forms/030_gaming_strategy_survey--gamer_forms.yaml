@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Strategy Survey
+    pages:
+    - id: 1
+      name: demographics
+      label: gamer_demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platforms
+      label: gaming_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Platforms'': ''PC''}'
+      - '{''Platforms'': ''Console''}'
+      - '{''Platforms'': ''Mobile''}'
+      - '{''Platforms'': ''Browser''}'
+      required: false
+    - id: 3
+      name: genres
+      label: gaming_genres
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Platforms'': ''Action''}'
+      - '{''Platforms'': ''Strategy''}'
+      - '{''Platforms'': ''Role-Playing''}'
+      - '{''Platforms'': ''Sports''}'
+      required: false
+    - id: 4
+      name: strategies
+      label: gamer_strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skills
+      label: skill_ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_age
+      label: player_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: player_email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false

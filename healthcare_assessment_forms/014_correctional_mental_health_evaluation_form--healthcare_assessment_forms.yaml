@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Correctional Mental Health Evaluation Form
+    pages:
+    - id: 1
+      name: correctional_facility
+      label: Correctional Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_last_mental_health_evaluation
+      label: Date Last Mental Health Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: mental_health_problems
+      label: Mental Health Problems
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: mental_status_score
+      label: Mental Status Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: care_coordinator_notes
+      label: Care Coordinator Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mental_health_history
+      label: Mental Health History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mental_status_history
+      label: Mental Status History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: mental_status_notes
+      label: Mental Status Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assessment_tool
+      label: Assessment Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: assessment_tool_score
+      label: Assessment Tool Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: mental_health_goal
+      label: Mental Health Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: mental_health_goal_description
+      label: Mental Health Goal Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: mental_status_risk
+      label: Mental Status Risk
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: corrections_mental_health
+      label: Corrections Mental Health
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: mental_status_outcome
+      label: Mental Status Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: corrections_outcome
+      label: Corrections Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mental_status_recommendation
+      label: Mental Status Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: corrections_recommendation
+      label: Corrections Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: mental_status_conclusion
+      label: Mental Status Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: corrections_conclusion
+      label: Corrections Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true

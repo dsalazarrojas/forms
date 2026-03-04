@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senate Finance Committee Proposal Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: proposal_details
+      label: Proposal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: budget_proposal
+      label: Budget Proposal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: actual_outcome
+      label: Actual Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitter_contact
+      label: Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: committee_recommendation
+      label: Committee Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: other_committee_recommendation
+      label: Other Committee Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: finance_officer
+      label: Finance Officer
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: other_finance_officer
+      label: Other Finance Officer
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: staff_recommendation
+      label: Staff Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: other_staff_recommendation
+      label: Other Staff Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: finance_committee
+      label: Finance Committee
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 21
+      name: other_finance_committee
+      label: Other Finance Committee
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 23
+      name: other_staff
+      label: Other Staff
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 25
+      name: other_submitter
+      label: Other Submitter
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

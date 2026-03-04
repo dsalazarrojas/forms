@@ -1,0 +1,967 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Item Screening Declaration Form
+    pages:
+    - id: 1
+      name: food_item_screening_declaration_form
+      label: Food Item Screening Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: items_to_screen
+      label: item_to_screen
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: item_name_english
+      label: Item Name English
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: food_item_category
+      label: Food Item Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: item_subcategory
+      label: Item Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: item_subcategory_2
+      label: Minimalist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: item_subcategory_2
+      label: Item Subcategory 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: item_subcategory_3
+      label: Item Subcategory 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: item_subcategory_4
+      label: Item Subcategory 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: item_subcategory_5
+      label: Item Subcategory 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: item_subcategory_6
+      label: Item Subcategory 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: item_subcategory_7
+      label: Item Subcategory 7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: item_subcategory_8
+      label: Item Subcategory 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: item_subcategory_9
+      label: Item Subcategory 9
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: item_subcategory_10
+      label: Item Subcategory 10
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: item_subcategory_11
+      label: Item Subcategory 11
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: item_subcategory_12
+      label: Item Subcategory 12
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: item_subcategory_13
+      label: Item Subcategory 13
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: item_subcategory_14
+      label: Item Subcategory 14
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: item_subcategory_15
+      label: Item Subcategory 15
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: item_subcategory_16
+      label: Item Subcategory 16
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: item_subcategory_17
+      label: Item Subcategory 17
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: item_subcategory_18
+      label: Item Subcategory 18
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: item_subcategory_19
+      label: Item Subcategory 19
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: item_subcategory_20
+      label: Item Subcategory 20
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: item_subcategory_21
+      label: Item Subcategory 21
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: item_subcategory_22
+      label: Item Subcategory 22
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: item_subcategory_23
+      label: Item Subcategory 23
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: item_subcategory_24
+      label: Item Subcategory 24
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 33
+      name: item_subcategory_25
+      label: Item Subcategory 25
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 34
+      name: item_subcategory_26
+      label: Item Subcategory 26
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 35
+      name: item_subcategory_27
+      label: Item Subcategory 27
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 36
+      name: item_subcategory_28
+      label: Item Subcategory 28
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 37
+      name: item_subcategory_29
+      label: Item Subcategory 29
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 38
+      name: item_subcategory_30
+      label: Item Subcategory 30
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 39
+      name: item_subcategory_31
+      label: Item Subcategory 31
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 40
+      name: item_subcategory_32
+      label: Item Subcategory 32
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 41
+      name: item_subcategory_33
+      label: Item Subcategory 33
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 42
+      name: item_subcategory_34
+      label: Item Subcategory 34
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 43
+      name: item_subcategory_35
+      label: Item Subcategory 35
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 44
+      name: item_subcategory_36
+      label: Item Subcategory 36
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 45
+      name: item_subcategory_37
+      label: Item Subcategory 37
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 46
+      name: item_subcategory_38
+      label: Item Subcategory 38
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 47
+      name: item_subcategory_39
+      label: Item Subcategory 39
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 48
+      name: item_subcategory_40
+      label: Item Subcategory 40
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 49
+      name: item_subcategory_41
+      label: Item Subcategory 41
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 50
+      name: item_subcategory_42
+      label: Item Subcategory 42
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 51
+      name: item_subcategory_43
+      label: Item Subcategory 43
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 52
+      name: item_subcategory_44
+      label: Item Subcategory 44
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 53
+      name: item_subcategory_45
+      label: Item Subcategory 45
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 54
+      name: item_subcategory_46
+      label: Item Subcategory 46
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 55
+      name: item_subcategory_47
+      label: Item Subcategory 47
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 56
+      name: item_subcategory_48
+      label: Item Subcategory 48
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 57
+      name: item_subcategory_49
+      label: Item Subcategory 49
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 58
+      name: item_subcategory_50
+      label: Item Subcategory 50
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 59
+      name: item_subcategory_51
+      label: Item Subcategory 51
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 60
+      name: item_subcategory_52
+      label: Item Subcategory 52
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 61
+      name: item_subcategory_53
+      label: Item Subcategory 53
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 62
+      name: item_subcategory_54
+      label: Item Subcategory 54
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 63
+      name: item_subcategory_55
+      label: Item Subcategory 55
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 64
+      name: item_subcategory_56
+      label: Item Subcategory 56
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 65
+      name: item_subcategory_57
+      label: Item Subcategory 57
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 66
+      name: item_subcategory_58
+      label: Item Subcategory 58
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 67
+      name: item_subcategory_59
+      label: Item Subcategory 59
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 68
+      name: item_subcategory_60
+      label: Item Subcategory 60
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 69
+      name: item_subcategory_61
+      label: Item Subcategory 61
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 70
+      name: item_subcategory_62
+      label: Item Subcategory 62
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 71
+      name: item_subcategory_63
+      label: Item Subcategory 63
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 72
+      name: item_subcategory_64
+      label: Item Subcategory 64
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 73
+      name: item_subcategory_65
+      label: Item Subcategory 65
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 74
+      name: item_subcategory_66
+      label: Item Subcategory 66
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 75
+      name: item_subcategory_67
+      label: Item Subcategory 67
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 76
+      name: item_subcategory_68
+      label: Item Subcategory 68
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 77
+      name: item_subcategory_69
+      label: Item Subcategory 69
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 78
+      name: item_subcategory_70
+      label: Item Subcategory 70
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 79
+      name: item_subcategory_71
+      label: Item Subcategory 71
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 80
+      name: item_subcategory_72
+      label: Item Subcategory 72
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 81
+      name: item_subcategory_73
+      label: Item Subcategory 73
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 82
+      name: item_subcategory_74
+      label: Item Subcategory 74
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 83
+      name: item_subcategory_75
+      label: Item Subcategory 75
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 84
+      name: item_subcategory_76
+      label: Item Subcategory 76
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 85
+      name: item_subcategory_77
+      label: Item Subcategory 77
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 86
+      name: item_subcategory_78
+      label: Item Subcategory 78
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 87
+      name: item_subcategory_79
+      label: Item Subcategory 79
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 88
+      name: item_subcategory_80
+      label: Item Subcategory 80
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 89
+      name: item_subcategory_81
+      label: Item Subcategory 81
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 90
+      name: item_subcategory_82
+      label: Item Subcategory 82
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 91
+      name: item_subcategory_83
+      label: Item Subcategory 83
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 92
+      name: item_subcategory_84
+      label: Item Subcategory 84
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 93
+      name: item_subcategory_85
+      label: Item Subcategory 85
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 94
+      name: item_subcategory_86
+      label: Item Subcategory 86
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 95
+      name: item_subcategory_87
+      label: Item Subcategory 87
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 96
+      name: item_subcategory_88
+      label: Item Subcategory 88
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 97
+      name: item_subcategory_89
+      label: Item Subcategory 89
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 98
+      name: item_subcategory_90
+      label: Item Subcategory 90
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 99
+      name: item_subcategory_91
+      label: Item Subcategory 91
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 100
+      name: item_subcategory_92
+      label: Item Subcategory 92
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 101
+      name: item_subcategory_93
+      label: Item Subcategory 93
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 102
+      name: item_subcategory_94
+      label: Item Subcategory 94
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 103
+      name: item_subcategory_95
+      label: Item Subcategory 95
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 104
+      name: item_subcategory_96
+      label: Item Subcategory 96
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 105
+      name: item_subcategory_97
+      label: Item Subcategory 97
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 106
+      name: item_subcategory_98
+      label: Item Subcategory 98
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 107
+      name: item_subcategory_99
+      label: Item Subcategory 99
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 108
+      name: item_subcategory_100
+      label: Item Subcategory 100
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

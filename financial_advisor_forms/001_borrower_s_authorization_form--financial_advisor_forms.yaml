@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Borrower's Authorization Form
+    pages:
+    - id: 1
+      name: borrower_full_name
+      label: Borrower Full Name
+      hint: Enter your legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: borrower_address
+      label: Borrower Address
+      hint: Complete mailing address including street, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: borrower_phone
+      label: Borrower Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: borrower_email
+      label: Borrower Email Address
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: Last 4 digits only for security purposes
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: financial_institution_name
+      label: Financial Institution Name
+      hint: Name of the bank or lending institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: loan_account_number
+      label: Loan Account Number
+      hint: Reference number for your loan or account
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorization_type
+      label: Type of Authorization
+      hint: Select the type of information you authorize to be accessed
+      type: select_multiple
+      options:
+      - Account balance information
+      - Payment history
+      - Credit report access
+      - Tax return transcripts
+      - Employment verification
+      - Asset documentation
+      - Communication with third parties
+      required: true
+    - id: 10
+      name: third_party_contacts
+      label: Authorized Third Party Contacts
+      hint: List individuals or entities authorized to receive information
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization_purpose
+      label: Purpose of Authorization
+      hint: Briefly explain why this authorization is being granted
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorization_start_date
+      label: Authorization Start Date
+      hint: When should this authorization become effective
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: authorization_end_date
+      label: Authorization End Date
+      hint: When should this authorization expire
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: borrower_signature
+      label: Borrower Signature
+      hint: Type your full legal name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: witness_name
+      label: Witness Name
+      hint: Optional witness for the authorization
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information or special instructions
+      type: text
+      options: []
+      required: false

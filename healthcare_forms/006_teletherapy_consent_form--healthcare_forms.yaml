@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teletherapy Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_service_type
+      label: Type of Medical Service
+      hint: null
+      type: select_one
+      options:
+      - HIPAA Compliant
+      - Non-HIPAA Compliant
+      - Other
+      required: false
+    - id: 8
+      name: electronic_signature
+      label: Electronic Signature
+      hint: null
+      type: note
+      options: []
+      required: false

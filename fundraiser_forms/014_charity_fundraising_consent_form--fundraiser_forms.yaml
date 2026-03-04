@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fundraising Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_fundraising_activity
+      label: -- Fundraising Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: activity_name
+      label: Name of Fundraising Activity
+      hint: What activity are you participating in
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: activity_date
+      label: Date of Activity
+      hint: When will this take place
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: activity_description
+      label: Description of Activity
+      hint: Brief description of what happens
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_amount
+      label: Fundraising Target Amount
+      hint: How much are you trying to raise
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_data_consent
+      label: -- Data and Communication Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_collection_consent
+      label: I Consent to Data Collection
+      hint: Allow us to collect your information
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: email_updates
+      label: I Want to Receive Email Updates
+      hint: Get updates about the fundraiser
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: phone_contact
+      label: I Consent to Phone Contact
+      hint: Allow contact via phone
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: donation_consent
+      label: I Consent to Being Asked for Donations
+      hint: Understanding you may be contacted for donations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: section_legal_agreements
+      label: -- Legal Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: liability_acknowledgment
+      label: I Acknowledge and Accept Liability Terms
+      hint: Understand liability related to activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: terms_conditions
+      label: I Agree to Terms and Conditions
+      hint: Accept all terms and conditions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: photo_video_consent
+      label: I Consent to Photos and Videos
+      hint: Allow use in promotional materials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: background_check
+      label: I Consent to Background Check
+      hint: If required by organization
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: signature_acknowledgment
+      label: I Confirm I Have Read and Agree to All Terms Above
+      hint: Final confirmation of understanding
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Do Not Confirm
+      required: true

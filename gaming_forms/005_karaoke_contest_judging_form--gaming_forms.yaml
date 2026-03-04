@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: karaoke_contest_judgign
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: score1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: score2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: score3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: score4
+      label: Score 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: song_title
+      label: Song Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: song_genre
+      label: Song Genre
+      hint: null
+      type: select_one
+      options:
+      - Rock
+      - Pop
+      - Hip-Hop
+      required: true
+    - id: 10
+      name: song_length
+      label: Song Length
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 minutes
+      - 3-4 minutes
+      - 5-6 minutes
+      required: true
+    - id: 11
+      name: judge_score
+      label: Judge Score
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true

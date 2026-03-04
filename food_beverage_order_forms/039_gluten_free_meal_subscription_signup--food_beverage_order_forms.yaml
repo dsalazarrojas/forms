@@ -1,0 +1,317 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gluten Free Meal Subscription Signup
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: select_multiple
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      - Washington D.C.
+      - Puerto Rico
+      - Guam
+      - American Samoa
+      - U.S. Virgin Islands
+      - Northern Mariana Islands
+      - American Samoa
+      - District of Columbia
+      - Puerto Rico
+      - U.S. Virgin Islands
+      - Guam
+      - American Samoa
+      - Northern Mariana Islands
+      - District of Columbia
+      required: false
+    - id: 8
+      name: delivery_zip
+      label: Delivery Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Venmo
+      - Other
+      required: false
+    - id: 10
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Every 2 Weeks
+      - Every 4 Weeks
+      required: false
+    - id: 11
+      name: gluten_free
+      label: Gluten Free
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 3 Days
+      - Every 4 Days
+      - Every Week
+      - Every 10 Days
+      - Every 2 Weeks
+      - Every 3 Weeks
+      - Every 4 Weeks
+      - Every 2 Months
+      - Every 3 Months
+      - Every 4 Months
+      - Every 6 Months
+      - Every 8 Months
+      - Every 12 Months
+      required: false
+    - id: 15
+      name: delivery_day_of_week
+      label: Delivery Day of Week
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 16
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Venmo
+      - Other
+      required: false
+    - id: 20
+      name: payment_method_3
+      label: Payment Method 3
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Venmo
+      - Other
+      required: false
+    - id: 21
+      name: payment_method_4
+      label: Payment Method 4
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Venmo
+      - Other
+      required: false
+    - id: 22
+      name: payment_method_5
+      label: Payment Method 5
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay Pal
+      - Apple Pay
+      - Google Pay
+      - Amazon Pay
+      - Venmo
+      - Other
+      required: false
+    - id: 23
+      name: payment_frequency_2
+      label: Payment Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Every 2 Weeks
+      - Every 4 Weeks
+      required: false
+    - id: 24
+      name: payment_frequency_3
+      label: Payment Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Every 2 Weeks
+      - Every 4 Weeks
+      required: false
+    - id: 25
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Cancelled
+      - Pending
+      - Inactive
+      required: false

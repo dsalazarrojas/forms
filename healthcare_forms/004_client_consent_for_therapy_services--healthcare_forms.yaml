@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Consent For Therapy Services
+    pages:
+      - id: 1
+        name: client_name
+        label: Client name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of birth
+        hint: For identification purposes
+        type: date
+        options: []
+        required: false
+      - id: 3
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: Provide a contact in case of emergency
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: therapist_name
+        label: Therapist or clinician name
+        hint: Assigned clinician
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: treatment_description
+        label: Description of therapy services
+        hint: Brief outline of services to be provided
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: confidentiality_limits
+        label: Limits of confidentiality
+        hint: Situations where confidentiality may be broken
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: risks_and_benefits
+        label: Risks and benefits
+        hint: Summary of expected benefits and possible risks
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: consent_to_treatment
+        label: Consent to receive treatment
+        hint: Client agreement to begin therapy
+        type: select_one
+        options:
+          - I consent
+          - I do not consent
+        required: true
+      - id: 9
+        name: data_sharing_consent
+        label: Consent to share information with other providers
+        hint: For care coordination only
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: signature_date
+        label: Signature date
+        hint: Date signed by client
+        type: date
+        options: []
+        required: false

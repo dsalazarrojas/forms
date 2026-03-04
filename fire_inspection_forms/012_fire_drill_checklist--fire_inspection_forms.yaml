@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Drill Checklist
+    pages:
+    - id: 1
+      name: fire_drill_procedures
+      label: fire drill procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_info
+      label: emergency contact info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''label'': ''Manager'', ''value'': ''manager''}'
+      - '{''id'': 2.2, ''label'': ''HR'', ''value'': ''hr''}'
+      - '{''id'': 2.3, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
+      required: false
+    - id: 3
+      name: fire_drill_scheduling
+      label: fire drill scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fire_drill_conducted_by
+      label: fire drill conducted by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
+      - '{''id'': 4.2, ''label'': ''Fire Chief'', ''value'': ''fire_chief''}'
+      - '{''id'': 4.3, ''label'': ''Fire Captain'', ''value'': ''fire_captain''}'
+      required: false
+    - id: 5
+      name: fire_drill_responders
+      label: fire drill responders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5.1, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
+      - '{''id'': 5.2, ''label'': ''Fire Chief'', ''value'': ''fire_chief''}'
+      - '{''id'': 5.3, ''label'': ''Fire Captain'', ''value'': ''fire_captain''}'
+      required: false
+    - id: 6
+      name: fire_drill_responder_training_status
+      label: fire drill responder training status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6.1, ''label'': ''Trained'', ''value'': ''trained''}'
+      - '{''id'': 6.2, ''label'': ''Needs Refresher Training'', ''value'': ''needs_refresher_training''}'
+      - '{''id'': 6.3, ''label'': ''Untrained'', ''value'': ''untrained''}'
+      required: false
+    - id: 7
+      name: fire_drill_procedures_reviewed
+      label: fire drill procedures reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': True, ''value'': True}'
+      - '{''id'': 7.2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: fire_drill_fire_extinguishers
+      label: fire drill fire extinguishers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''Fire Extinguisher A'', ''value'': ''fire_extinguisher_a''}'
+      - '{''id'': 8.2, ''label'': ''Fire Extinguisher B'', ''value'': ''fire_extinguisher_b''}'
+      - '{''id'': 8.3, ''label'': ''Fire Extinguisher C'', ''value'': ''fire_extinguisher_c''}'
+      required: false
+    - id: 9
+      name: fire_drill_evacuation_plan
+      label: fire drill evacuation plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: fire_drill_annual_testing
+      label: fire drill annual testing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: fire_drill_reporting
+      label: fire drill reporting
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11.1, ''label'': True, ''value'': True}'
+      - '{''id'': 11.2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: fire_drill_reporting_frequency
+      label: fire drill reporting frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12.1, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''id'': 12.2, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''id'': 12.3, ''label'': ''Annually'', ''value'': ''annually''}'
+      required: false
+    - id: 13
+      name: fire_drill_testing_method
+      label: fire drill testing method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13.1, ''label'': ''Roll Call'', ''value'': ''roll_call''}'
+      - '{''id'': 13.2, ''label'': ''Written Test'', ''value'': ''written_test''}'
+      - '{''id'': 13.3, ''label'': ''Simulation'', ''value'': ''simulation''}'
+      required: false
+    - id: 14
+      name: fire_drill_testing_frequency
+      label: fire drill testing frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14.1, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''id'': 14.2, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''id'': 14.3, ''label'': ''Annually'', ''value'': ''annually''}'
+      required: false
+    - id: 15
+      name: fire_drill_annual_testing_frequency
+      label: fire drill annual testing frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15.1, ''label'': ''Every 1 year'', ''value'': ''every_1_year''}'
+      - '{''id'': 15.2, ''label'': ''Every 2 years'', ''value'': ''every_2_years''}'
+      - '{''id'': 15.3, ''label'': ''Never'', ''value'': ''never''}'
+      required: false
+    - id: 16
+      name: fire_drill_test_result
+      label: fire drill test result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 16.1, ''label'': ''Passed'', ''value'': ''passed''}'
+      - '{''id'': 16.2, ''label'': ''Failed'', ''value'': ''failed''}'
+      - '{''id'': 16.2, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: false
+    - id: 17
+      name: fire_drill_testing_result
+      label: fire drill testing result
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 17.1, ''label'': ''Pass'', ''value'': ''pass''}'
+      - '{''id'': 17.2, ''label'': ''Fail'', ''value'': ''fail''}'
+      - '{''id'': 17.3, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      required: false
+    - id: 18
+      name: fire_drill_testing_completed
+      label: fire drill testing completed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 18.1, ''label'': True, ''value'': True}'
+      - '{''id'': 18.2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 19
+      name: fire_drill_testing_completed_status
+      label: fire drill testing completed status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 19.1, ''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''id'': 19.2, ''label'': ''Partially Completed'', ''value'': ''partially_completed''}'
+      - '{''id'': 19.3, ''label'': ''Not Completed'', ''value'': ''not_completed''}'
+      required: false
+    - id: 20
+      name: fire_drill_testers
+      label: fire drill testers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20.1, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
+      - '{''id'': 20.2, ''label'': ''Fire Chief'', ''value'': ''fire_chief''}'
+      - '{''id'': 20.3, ''label'': ''Fire Captain'', ''value'': ''fire_captain''}'
+      required: false
+    - id: 21
+      name: fire_drill_testing_status
+      label: fire drill testing status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21.1, ''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''id'': 21.2, ''label'': ''Not Completed'', ''value'': ''not_completed''}'
+      required: false
+    - id: 22
+      name: fire_drill_training_frequency
+      label: fire drill training frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 22.1, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''id'': 22.2, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''id'': 22.3, ''label'': ''Annually'', ''value'': ''annually''}'
+      required: false

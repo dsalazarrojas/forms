@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Tax Information Form In Hindi
+    pages:
+    - id: 1
+      name: income_tax_form_data
+      label: income tax information form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tax_filing_status
+      label: filing status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: tax_residence
+      label: residence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: filing_address
+      label: filing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: business name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: business_type
+      label: business type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: business_address
+      label: business address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_payer_name
+      label: tax payer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_payer_email
+      label: tax payer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: tax_payer_phone
+      label: tax payer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_phone
+      label: business phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tax_payer_id_number
+      label: tax payer id number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax_payer_id_type
+      label: tax payer id type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: tax_payer_date_of_birth
+      label: tax payer date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tax_payer_place_of_birth
+      label: tax payer place of birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: income_amount
+      label: income amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tax_deductible_amount
+      label: tax deductible amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: other_income_sources
+      label: other income sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_income_amounts
+      label: other income amounts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tax_deductions
+      label: tax deductions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tax_exemptions
+      label: tax exemptions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

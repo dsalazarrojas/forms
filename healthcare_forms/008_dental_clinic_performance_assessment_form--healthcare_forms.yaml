@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_clinic_performance_assessment_form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_evaluated
+      label: services_evaluated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_feedback
+      label: patient_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_gathered
+      label: services_gathered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: rating_scale_label
+      label: rating_scale_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false

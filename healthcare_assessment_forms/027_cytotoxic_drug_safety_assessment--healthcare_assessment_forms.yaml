@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: cytotoxic_drug_safety_assessment
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessor
+      label: Assessor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_occurrence
+      label: Date of Occurrence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: drug_type
+      label: Drug Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_measure
+      label: Safety Measure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: drug_administered
+      label: Drug Administered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incidents
+      label: Incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: drag_and_drop
+      label: Drag and Drop
+      hint: null
+      type: text
+      options: []
+      required: false

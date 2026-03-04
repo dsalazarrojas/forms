@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Discount Form
+    pages:
+    - id: 1
+      name: financial_discount_form
+      label: financial_discount_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_business
+      label: store_business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: discount_code
+      label: discount_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discount_type
+      label: discount_type
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - giftcard
+      - other
+      required: false
+    - id: 5
+      name: discount_percent
+      label: discount_percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: max_use_count
+      label: max_use_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: min_use_count
+      label: min_use_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: max_use_percent
+      label: max_use_percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: min_use_percent
+      label: min_use_percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: discount_description
+      label: discount_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_email
+      label: user_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_phone_type
+      label: user_phone_type
+      hint: null
+      type: select_one
+      options:
+      - home
+      - work
+      - cell
+      required: false

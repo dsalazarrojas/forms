@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: gut_health_daily_log
+    pages:
+    - id: 1
+      name: digestive_health
+      label: Daily Digestive Health Check-In
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 2
+      name: daily_routine
+      label: Daily Routine
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bowelmovements
+      label: Bowel Movements
+      hint: Number of bowel movements per day
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: abdominal_pain
+      label: Abdominal Pain
+      hint: Describe any abdominal pain you are experiencing
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bloating
+      label: Bloating
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: gasandbloating
+      label: Gas and Bloating
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: digestive_discomfort
+      label: Digestive Discomfort
+      hint: null
+      type: select_multiple
+      options:
+      - Bloating
+      - Cramping
+      - Diarrhea
+      - Nausea
+      - Vomiting
+      required: false
+    - id: 8
+      name: medications
+      label: Medications
+      hint: List any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Additional notes about your digestive health
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

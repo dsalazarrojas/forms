@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Break Even Analysis Survey
+    pages:
+    - id: 1
+      name: business_info_header
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type or Industry
+      hint: What industry are you in
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: financial_period_header
+      label: -- Financial Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reporting_year
+      label: Reporting Year
+      hint: What year is this analysis for
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fiscal_year_start
+      label: Fiscal Year Start Date
+      hint: When does your fiscal year start
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: fiscal_year_end
+      label: Fiscal Year End Date
+      hint: When does your fiscal year end
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: revenue_analysis_header
+      label: -- Revenue Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_annual_revenue
+      label: Total Annual Revenue
+      hint: Your total revenue for the year
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: revenue_growth_rate
+      label: Revenue Growth Rate Percentage
+      hint: Growth compared to previous year
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: revenue_sources
+      label: Primary Revenue Sources
+      hint: Where your revenue comes from
+      type: select_multiple
+      options:
+      - Product Sales
+      - Service Revenue
+      - Subscription Revenue
+      - Licensing or Royalties
+      - Partnerships or Affiliates
+      - Investment Income
+      - Other Sources
+      required: false
+    - id: 15
+      name: cost_analysis_header
+      label: -- Cost Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fixed_costs_annual
+      label: Total Fixed Costs
+      hint: Annual fixed costs that do not vary
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: variable_costs_annual
+      label: Total Variable Costs
+      hint: Annual costs that vary with production
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: cost_breakdown_header
+      label: -- Cost Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: labor_costs
+      label: Labor and Payroll Costs
+      hint: Total employee and contractor costs
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: materials_costs
+      label: Materials and Supplies Costs
+      hint: Cost of goods and materials
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: overhead_costs
+      label: Overhead and Administrative Costs
+      hint: Rent, utilities, insurance, etc
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: marketing_costs
+      label: Marketing and Advertising Costs
+      hint: Promotional expenses
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: break_even_header
+      label: -- Break-Even Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: break_even_point
+      label: Break-Even Point in Units
+      hint: Number of units needed to break even
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: break_even_revenue
+      label: Break-Even Point in Revenue
+      hint: Revenue needed to break even
+      type: number
+      options: []
+      required: false

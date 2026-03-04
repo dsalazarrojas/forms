@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: For order confirmation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For order and pickup details
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: cake_type
+      label: Cake type
+      hint: Flavor and style
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: size
+      label: Cake size or servings
+      hint: Number of servings
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pickup_date
+      label: Pickup date
+      hint: Date for collection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: decoration_requests
+      label: Decoration requests
+      hint: Special messages or designs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Allergies gluten free or vegan
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Card or cash on pickup
+      type: select_one
+      options:
+      - Card
+      - Cash
+      required: true

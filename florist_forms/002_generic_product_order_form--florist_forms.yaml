@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Product Order Form
+    pages:
+    - id: 1
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_select
+      label: product select
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_comments
+      label: order comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_note
+      label: customer note
+      hint: null
+      type: text
+      options: []
+      required: false

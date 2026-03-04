@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_sports_event_outcome_report_form
+    pages:
+    - id: 1
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_id
+      label: player_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: player_performance
+      label: player_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: audience_size
+      label: audience_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: audience_engagement_level
+      label: audience_engagement_level
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: engagement_comments
+      label: engagement_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_success_rating
+      label: event_success_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: event_success_comments
+      label: event_success_comments
+      hint: null
+      type: text
+      options: []
+      required: false

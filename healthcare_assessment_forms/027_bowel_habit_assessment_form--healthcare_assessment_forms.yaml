@@ -1,0 +1,313 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bowel Habit Assessment Form
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: patient_gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+        required: true
+      - id: 5
+        name: bowel_movement_frequency
+        label: Bowel Movement Frequency
+        hint: How often do you have bowel movements
+        type: select_one
+        options:
+          - More than 3 times per day
+          - 2-3 times per day
+          - Once daily
+          - Every other day
+          - 2-3 times per week
+          - Less than once per week
+        required: true
+      - id: 6
+        name: consistency_type
+        label: Stool Consistency
+        hint: Most common consistency
+        type: select_one
+        options:
+          - Hard lumps (Type 1)
+          - Lumpy sausage (Type 2)
+          - Cracked sausage (Type 3)
+          - Smooth sausage (Type 4)
+          - Soft blobs (Type 5)
+          - Mushy (Type 6)
+          - Watery (Type 7)
+        required: true
+      - id: 7
+        name: straining
+        label: Straining During Bowel Movements
+        hint: How often do you strain
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 8
+        name: feeling_incomplete
+        label: Feeling of Incomplete Evacuation
+        hint: Do you feel evacuation is incomplete
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 9
+        name: bloating
+        label: Bloating or Abdominal Discomfort
+        hint: How often do you experience bloating
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Constantly
+        required: true
+      - id: 10
+        name: blood_in_stool
+        label: Blood in Stool
+        hint: Have you noticed blood
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Frequently
+          - Always
+        required: true
+      - id: 11
+        name: mucus_in_stool
+        label: Mucus in Stool
+        hint: Have you noticed mucus
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Frequently
+        required: true
+      - id: 12
+        name: urgency
+        label: Urgency
+        hint: Do you experience sudden urgency
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 13
+        name: incontinence
+        label: Fecal Incontinence
+        hint: Do you experience any leakage
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 14
+        name: pain_with_bm
+        label: Pain During Bowel Movements
+        hint: Do you experience pain
+        type: select_one
+        options:
+          - Never
+          - Mild
+          - Moderate
+          - Severe
+        required: true
+      - id: 15
+        name: laxative_use
+        label: Laxative Use
+        hint: Do you use laxatives
+        type: select_one
+        options:
+          - Never
+          - Occasionally
+          - Regularly
+          - Daily
+        required: true
+      - id: 16
+        name: laxative_type
+        label: Type of Laxative
+        hint: What type do you use
+        type: select_multiple
+        options:
+          - Fiber supplements
+          - Stool softeners
+          - Osmotic laxatives
+          - Stimulant laxatives
+          - Herbal remedies
+          - Prescription medications
+        required: false
+      - id: 17
+        name: dietary_fiber
+        label: Dietary Fiber Intake
+        hint: How would you describe your fiber intake
+        type: select_one
+        options:
+          - Very low
+          - Low
+          - Moderate
+          - High
+          - Very high
+        required: true
+      - id: 18
+        name: water_intake
+        label: Daily Water Intake
+        hint: How many glasses of water per day
+        type: select_one
+        options:
+          - Less than 4 glasses
+          - 4-6 glasses
+          - 7-8 glasses
+          - More than 8 glasses
+        required: true
+      - id: 19
+        name: exercise_frequency
+        label: Exercise Frequency
+        hint: How often do you exercise
+        type: select_one
+        options:
+          - Never
+          - 1-2 times per week
+          - 3-4 times per week
+          - 5 or more times per week
+          - Daily
+        required: true
+      - id: 20
+        name: stress_level
+        label: Stress Level
+        hint: How would you rate your stress level
+        type: select_one
+        options:
+          - Low
+          - Moderate
+          - High
+          - Very high
+        required: true
+      - id: 21
+        name: medications
+        label: Current Medications
+        hint: List all medications
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: medical_conditions
+        label: Relevant Medical Conditions
+        hint: List any digestive or related conditions
+        type: select_multiple
+        options:
+          - None
+          - IBS
+          - IBD
+          - Crohn disease
+          - Ulcerative colitis
+          - Celiac disease
+          - Diverticulitis
+          - Hemorrhoids
+          - Thyroid disorder
+          - Diabetes
+        required: true
+      - id: 23
+        name: family_history
+        label: Family History
+        hint: Any family history of bowel or digestive issues
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: symptom_duration
+        label: Symptom Duration
+        hint: How long have you had these symptoms
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-4 weeks
+          - 1-3 months
+          - 3-6 months
+          - More than 6 months
+        required: true
+      - id: 25
+        name: symptom_triggers
+        label: Symptom Triggers
+        hint: What seems to trigger your symptoms
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: impact_on_life
+        label: Impact on Daily Life
+        hint: How do symptoms affect your life
+        type: select_one
+        options:
+          - No impact
+          - Mild impact
+          - Moderate impact
+          - Significant impact
+          - Severe impact
+        required: true
+      - id: 27
+        name: previous_treatments
+        label: Previous Treatments
+        hint: Have you sought treatment before
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: treatment_goals
+        label: Treatment Goals
+        hint: What are your goals for treatment
+        type: text
+        options: []
+        required: false

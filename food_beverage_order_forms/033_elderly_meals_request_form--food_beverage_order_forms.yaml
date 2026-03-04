@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elderly Meals Request Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_request
+      label: Meal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meal_options
+      label: Meal Options
+      hint: Select meal type
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: note
+      options: []
+      required: false

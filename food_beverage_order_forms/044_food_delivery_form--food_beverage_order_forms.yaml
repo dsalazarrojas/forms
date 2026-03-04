@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Delivery Form
+    pages:
+    - id: 1
+      name: food_beverage_order
+      label: Food and Beverage Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pickup_address
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions_2
+      label: Extra Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions_3
+      label: More Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Mobile Payment
+      required: false
+    - id: 9
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: card_expiration_date
+      label: Card Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: card_security_code
+      label: Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: xxx-xxxx-xxxx
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Delivered
+      - Failed
+      required: false
+    - id: 17
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_multiple
+      options:
+      - Pickup
+      - Delivery
+      - Pickup and Delivery
+      required: false
+    - id: 18
+      name: pickup_address_2
+      label: Pickup Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 22
+      name: payment_method_2
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Mobile Payment
+      required: false
+    - id: 23
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false

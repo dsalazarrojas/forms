@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletes Support Fundraising Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Full Name
+      hint: Donor's full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: We will use this to send donation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization/Team Name
+      hint: Name of the athletic team or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: athlete_name
+      label: Athlete Name
+      hint: Name of the athlete(s) being supported
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: campaign_goal
+      label: Fundraising Campaign Goal
+      hint: What is the purpose of this fundraising?
+      type: select_one
+      options:
+      - Equipment Purchase
+      - Travel Expenses
+      - Training Programs
+      - Facility Usage
+      - Scholarships
+      - Medical Costs
+      - Other
+      required: true
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount in USD you wish to donate
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Is this a one-time or recurring donation?
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: false
+    - id: 10
+      name: relationship_to_athlete
+      label: Relationship to Athlete/Organization
+      hint: How do you know the athlete or team?
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Coach
+      - Community Member
+      - Business
+      - Alumni
+      - Other
+      required: false
+    - id: 11
+      name: recognition_preference
+      label: Recognition Preference
+      hint: How would you like to be acknowledged?
+      type: select_multiple
+      options:
+      - Public Recognition
+      - Anonymous Donation
+      - Email Thank You
+      - Certificate
+      required: false
+    - id: 12
+      name: address
+      label: Mailing Address
+      hint: Street address for receipt or acknowledgment
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_deductible
+      label: Is your organization tax-exempt?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: false
+    - id: 17
+      name: tax_id
+      label: Tax ID (if applicable)
+      hint: Federal tax ID for tax-exempt organizations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: donor_message
+      label: Message to Athletes
+      hint: Share an encouraging message or words of support
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: newsletter_signup
+      label: Sign me up for updates
+      hint: Would you like to receive campaign updates and newsletters?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: additional_support
+      label: Other Ways to Support
+      hint: Are you interested in volunteering or sponsoring?
+      type: select_multiple
+      options:
+      - Volunteering
+      - Corporate Sponsorship
+      - In-Kind Donations
+      - Event Support
+      required: false

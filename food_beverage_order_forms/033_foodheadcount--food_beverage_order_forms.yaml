@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: FoodHeadcount
+    pages:
+    - id: 1
+      name: artwork_on_top
+      label: Artwork on top
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_many_kids
+      label: How many kids
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: food_beverage
+      label: Food & Beverage
+      hint: null
+      type: select_one
+      options:
+      - Food
+      - Beverage
+      - Food and Beverage
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Redesign Material Order Form
+    pages:
+    - id: 1
+      name: menu_redesign_form
+      label: Menu Redesign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_request_details
+      label: Material Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: Please provide your contact information
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: menu_redesign_material_request
+      label: Menu Redesign Material Request
+      hint: null
+      type: select_one
+      options:
+      - Menu Redesign
+      - Menu Revamp
+      - Menu Revamp
+      - Menu Refresh
+      - Menu Revamp
+      required: false
+    - id: 9
+      name: material_request_quantity
+      label: Material Request Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: material_request_description
+      label: Material Request Description
+      hint: null
+      type: text
+      options: []
+      required: false

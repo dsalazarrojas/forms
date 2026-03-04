@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Planning Consultation Intake Form
+    pages:
+    - id: 1
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: select_one
+      options:
+      - Long-term investing
+      - Short-term savings
+      - Retirement planning
+      - Tax planning
+      required: false
+    - id: 4
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      required: false
+    - id: 5
+      name: financial_net_worth
+      label: Financial Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income_info
+      label: Income Info
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Investments
+      - Rentals
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time employed
+      - Part-time employed
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      required: false

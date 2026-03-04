@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Event Raffle Entry
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For prize notification
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Mailing Address
+      hint: Street address, city, state, ZIP
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ticket_quantity
+      label: Number of Raffle Tickets
+      hint: How many tickets would you like to purchase
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ticket_price
+      label: Ticket Price
+      hint: Price per ticket
+      type: select_one
+      options:
+      - $5 per ticket
+      - $10 per ticket
+      - $20 per ticket
+      - $50 per ticket
+      - $100 per ticket
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for your tickets
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Venmo
+      - Cash at Event
+      - Check
+      required: true
+    - id: 8
+      name: preferred_prize
+      label: Preferred Prize Category
+      hint: If you win, which prize interests you most
+      type: select_one
+      options:
+      - Ballet Performance Tickets
+      - Dance Class Package
+      - Meet and Greet with Dancers
+      - Ballet Merchandise Bundle
+      - VIP Experience Package
+      - No Preference
+      required: false
+    - id: 9
+      name: attending_event
+      label: Will You Attend the Ballet Event
+      hint: Are you planning to attend the fundraiser
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, but I want to support
+      required: true
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any food allergies or restrictions for event catering
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer at future events
+      type: select_one
+      options:
+      - Yes, contact me
+      - Maybe
+      - No thank you
+      required: false
+    - id: 12
+      name: newsletter_signup
+      label: Newsletter Subscription
+      hint: Receive updates about future ballet events
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No thank you
+      required: true
+    - id: 13
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you learn about this raffle
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Email Newsletter
+      - Website
+      - Previous Event
+      - Other
+      required: false
+    - id: 14
+      name: additional_donation
+      label: Additional Donation Amount
+      hint: Would you like to add an extra donation
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional information we should know
+      type: text
+      options: []
+      required: false

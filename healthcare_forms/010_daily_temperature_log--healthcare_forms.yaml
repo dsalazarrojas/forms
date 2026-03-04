@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Temperature Log
+    pages:
+    - id: 1
+      name: date_of_collection
+      label: Date of Collection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Nursing Station 1
+      - Nursing Station 2
+      - Nursing Station 3
+      - Nursing Station 4
+      - Nursing Station 5
+      - Nursing Station 6
+      - Nursing Station 7
+      - Nursing Station 8
+      - Nursing Station 9
+      - Nursing Station 10
+      required: false
+    - id: 6
+      name: temperature_units
+      label: Temperature Units
+      hint: null
+      type: select_one
+      options:
+      - Celsius
+      - Fahrenheit
+      - Kelvin
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

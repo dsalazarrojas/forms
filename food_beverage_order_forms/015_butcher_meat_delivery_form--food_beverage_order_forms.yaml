@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butcher Meat Delivery Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_address
+      label: Delivery Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_date
+      label: Desired Delivery Date
+      hint: When do you need the order
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_time_preference
+      label: Preferred Delivery Time
+      hint: Select time window
+      type: select_one
+      options:
+      - Early Morning - 7am-9am
+      - Morning - 9am-12pm
+      - Afternoon - 12pm-3pm
+      - Late Afternoon - 3pm-6pm
+      - Evening - 6pm-8pm
+      required: true
+    - id: 10
+      name: beef_selection
+      label: Beef Products Ordered
+      hint: Select beef cuts or products
+      type: select_multiple
+      options:
+      - Ground Beef
+      - Ribeye Steaks
+      - Sirloin Steaks
+      - Filet Mignon
+      - Chuck Roast
+      - Brisket
+      - Other
+      required: false
+    - id: 11
+      name: pork_selection
+      label: Pork Products Ordered
+      hint: Select pork cuts or products
+      type: select_multiple
+      options:
+      - Ground Pork
+      - Pork Chops
+      - Pork Tenderloin
+      - Pork Ribs
+      - Pork Belly
+      - Pork Shoulder
+      - Other
+      required: false
+    - id: 12
+      name: chicken_selection
+      label: Chicken Products Ordered
+      hint: Select chicken items
+      type: select_multiple
+      options:
+      - Whole Chicken
+      - Chicken Breasts
+      - Chicken Thighs
+      - Chicken Drumsticks
+      - Chicken Wings
+      - Ground Chicken
+      - Other
+      required: false
+    - id: 13
+      name: specialty_items
+      label: Specialty or Custom Items
+      hint: Any special meat products requested
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quantity_preference
+      label: Order Quantity
+      hint: Approximate total weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: cutting_instructions
+      label: Special Cutting Instructions
+      hint: Any specific preparation needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How should items be packaged
+      type: select_one
+      options:
+      - Standard Butcher Paper
+      - Vacuum Sealed
+      - Individual Portions
+      - Mixed Packaging
+      required: true
+    - id: 17
+      name: total_cost
+      label: Estimated Order Cost
+      hint: Expected total price
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Delivery
+      - Check
+      required: true
+    - id: 19
+      name: special_notes
+      label: Special Notes or Requests
+      hint: Any additional instructions
+      type: text
+      options: []
+      required: false

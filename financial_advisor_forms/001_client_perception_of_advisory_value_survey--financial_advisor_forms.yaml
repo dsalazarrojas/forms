@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Perception Of Advisory Value Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: advisory_services_section
+      label: -- Advisory Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: value_of_services
+      label: How valuable are the advisory services you receive?
+      hint: Rate from 1 (Not Valuable) to 5 (Extremely Valuable)
+      type: select_one
+      options:
+      - 1 - Not Valuable
+      - 2 - Somewhat Valuable
+      - 3 - Moderately Valuable
+      - 4 - Very Valuable
+      - 5 - Extremely Valuable
+      required: true
+    - id: 5
+      name: advisor_expertise
+      label: My advisor demonstrates strong expertise
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 6
+      name: recommendation_likelihood
+      label: How likely are you to recommend this advisor to others?
+      hint: Scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: communication_quality
+      label: Communication quality from your advisor
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: improvements_section
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_improvements
+      label: What could be improved in the advisory services?
+      hint: Optional - share your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_services
+      label: Which additional services would you find valuable?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Tax Optimization
+      - Retirement Planning
+      - Investment Management
+      - Risk Management
+      - Other
+      required: false
+    - id: 11
+      name: advisor_response_time
+      label: How quickly does your advisor respond to inquiries?
+      hint: null
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within 2-3 days
+      - Within a week
+      - More than a week
+      required: true
+    - id: 12
+      name: engagement_frequency
+      label: How often do you engage with your advisor?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - As needed
+      required: true
+    - id: 13
+      name: overall_satisfaction
+      label: Overall satisfaction with advisory services
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 14
+      name: duration_of_service
+      label: How long have you been a client with this advisor?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 15
+      name: contact_preference
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person meeting
+      - Virtual meeting
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments
+      hint: Optional feedback
+      type: text
+      options: []
+      required: false

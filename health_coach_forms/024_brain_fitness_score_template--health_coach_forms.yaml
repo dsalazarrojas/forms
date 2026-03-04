@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brain Fitness Score Template
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For results
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 66+
+        required: true
+      - id: 5
+        name: section_header_memory
+        label: -- Memory Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: memory_recall
+        label: Short-term Memory Recall
+        hint: Ability to remember recent information
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 7
+        name: long_term_memory
+        label: Long-term Memory
+        hint: Ability to remember past events
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 8
+        name: memory_issues
+        label: Experienced Memory Issues
+        hint: Forgetfulness or memory lapses
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Very often
+        required: false
+      - id: 9
+        name: section_header_focus
+        label: -- Focus and Concentration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: concentration_level
+        label: Ability to Concentrate
+        hint: How well can you focus
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 11
+        name: attention_span
+        label: Attention Span
+        hint: How long can you maintain focus
+        type: select_one
+        options:
+          - Extended (2+ hours)
+          - Long (1-2 hours)
+          - Moderate (30-60 minutes)
+          - Short (10-30 minutes)
+          - Very short (less than 10 minutes)
+        required: true
+      - id: 12
+        name: distractions
+        label: Easily Distracted
+        hint: How easily do you lose focus
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 13
+        name: section_header_processing
+        label: -- Processing Speed --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: mental_speed
+        label: Mental Processing Speed
+        hint: How quickly you think
+        type: select_one
+        options:
+          - Very fast
+          - Fast
+          - Average
+          - Slow
+          - Very slow
+        required: true
+      - id: 15
+        name: decision_making
+        label: Decision-Making Speed
+        hint: How quickly you make decisions
+        type: select_one
+        options:
+          - Very quick
+          - Quick
+          - Average
+          - Slow
+          - Very slow
+        required: true
+      - id: 16
+        name: section_header_cognitive
+        label: -- Cognitive Functions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: problem_solving
+        label: Problem-Solving Ability
+        hint: Can you solve complex problems
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 18
+        name: mental_flexibility
+        label: Mental Flexibility
+        hint: Ability to adapt thinking
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 19
+        name: section_header_lifestyle
+        label: -- Lifestyle Factors --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: sleep_quality
+        label: Sleep Quality
+        hint: How well do you sleep
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: false
+      - id: 21
+        name: exercise_frequency
+        label: Exercise Frequency
+        hint: How often you exercise
+        type: select_one
+        options:
+          - Daily
+          - 5-6 times per week
+          - 3-4 times per week
+          - 1-2 times per week
+          - Rarely or never
+        required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Professional Time Tracking
+    pages:
+    - id: 1
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: key_activities
+      label: Key Activities
+      hint: null
+      type: note
+      options: []
+      required: false

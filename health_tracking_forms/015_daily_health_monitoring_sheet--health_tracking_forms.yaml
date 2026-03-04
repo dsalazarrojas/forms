@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Health Monitoring Sheet
+    pages:
+    - id: 1
+      name: daily_health_monitoring_sheet
+      label: Daily Health Monitoring Sheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_status
+      label: health_status
+      hint: Please select your current health status.
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication
+      label: medication
+      hint: Please list your current medications.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pulse
+      label: pulse
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: blood_glucose
+      label: blood_glucose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: blood_cholesterol
+      label: blood_cholesterol
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: body_mass_index
+      label: body_mass_index
+      hint: null
+      type: number
+      options: []
+      required: false

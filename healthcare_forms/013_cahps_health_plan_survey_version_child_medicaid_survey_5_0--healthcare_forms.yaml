@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Health Plan Survey - Child Medicaid 5.0
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Parent/Guardian Information --
+      hint: Please answer the survey based on the child's health plan experience.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_age
+      label: Age of the child covered by the plan
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_child
+      label: Your relationship to the child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Legal Guardian
+      - Other
+      required: true
+    - id: 5
+      name: access_to_pediatrician
+      label: How often was it easy to get an appointment for your child with a primary
+        care doctor?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: pediatric_specialist_access
+      label: How often was it easy to get appointments for your child with specialists?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 7
+      name: plan_customer_service_child
+      label: How often did customer service staff show respect for what you had to
+        say?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 8
+      name: care_coordination_child
+      label: How often did your child's health plan help you coordinate care?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: false
+    - id: 9
+      name: dental_benefits_rating
+      label: How would you rate your child's dental benefits in this plan?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      - Not Covered
+      required: true
+    - id: 10
+      name: plan_info_clarity_parent
+      label: How easy was it to find information about which doctors are in the plan?
+      hint: null
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Easy
+      - Very Easy
+      required: true
+    - id: 11
+      name: child_health_rating
+      label: In general, how would you rate your child's overall health?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: child_plan_rating
+      label: Overall rating of your child's health plan
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 13
+      name: additional_comments_parent
+      label: Any additional comments about your child's health plan?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_completion_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

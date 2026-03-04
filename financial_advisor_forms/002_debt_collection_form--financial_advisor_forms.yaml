@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debt Collection Form
+    pages:
+    - id: 1
+      name: debtor_name
+      label: debtors name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: debtor_address
+      label: debtors address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: debtor_phone
+      label: debtors phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: debtor_email
+      label: debtors email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_contact
+      label: date of last contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount_owed
+      label: amount owed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: employer_name
+      label: employer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employer_address
+      label: employer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_phone
+      label: employer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_email
+      label: employer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

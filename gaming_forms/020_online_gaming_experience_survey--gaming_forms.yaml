@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Gaming Experience Survey
+    pages:
+    - id: 1
+      name: platforms_used
+      label: Platforms Used
+      hint: null
+      type: select_multiple
+      options:
+      - PlayStation
+      - Xbox
+      - Nintendo Switch
+      - PC
+      required: false
+    - id: 2
+      name: average_playtime
+      label: Average Playtime per Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: play_habits
+      label: Play Habits
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: platform_preference
+      label: Preferred Platform
+      hint: Please specify the type of platform you have used.
+      type: select_one
+      options:
+      - PC
+      - Console
+      - Mobile
+      - Browser
+      - Other
+      required: false
+    - id: 7
+      name: favorite_game
+      label: Favorite Game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gaming_community
+      label: Gaming Community
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: platform_usage
+      label: Which platform do you use most frequently?
+      hint: null
+      type: select_one
+      options:
+      - Console
+      - Mobile
+      - PC
+      - Browser
+      - Other
+      required: false

@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Event Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: For event updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Preferred Event Date
+      hint: Select from available dates
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Preferred Event Time
+      hint: Select from available time slots
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: vaccination_status
+      label: Current Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - One dose received
+      - Two doses received
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 8
+      name: vaccine_type_preference
+      label: Vaccine Type Preference
+      hint: If available
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No preference
+      required: false
+    - id: 9
+      name: dose_seeking
+      label: Dose Seeking at This Event
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Third dose (booster)
+      - Additional booster
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: For billing
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_id
+      label: Insurance ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: Pre-existing Medical Conditions
+      hint: That might affect vaccination
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - High blood pressure
+      - Respiratory disease
+      - Immunocompromised
+      - None
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: Especially vaccine components
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_illness
+      label: Currently experiencing fever or illness
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: recent_covid
+      label: Recent COVID-19 infection
+      hint: Within past 3 months
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 18
+      name: transportation_needed
+      label: Transportation assistance needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: language_preference
+      label: Language Preference
+      hint: For event materials and support
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Other
+      required: false
+    - id: 20
+      name: consent
+      label: I consent to receive COVID-19 vaccination at this event
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

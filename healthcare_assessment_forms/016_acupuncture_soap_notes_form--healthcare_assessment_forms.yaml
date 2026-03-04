@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture SOAP Notes Form
+    pages:
+    - id: 1
+      name: session_header
+      label: -- Session Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Date of Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_number
+      label: Session / Visit Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: subjective_header
+      label: -- S - Subjective --
+      hint: Client's report of symptoms and experience
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_concerns_update
+      label: Patient Reported Progress or New Concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: subjective_pain_scale
+      label: Subjective Pain Level (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: objective_header
+      label: -- O - Objective --
+      hint: Practitioner's observations and diagnostic findings
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tongue_diagnosis
+      label: Tongue Diagnosis
+      hint: Color, shape, coating, etc.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pulse_diagnosis
+      label: Pulse Diagnosis
+      hint: Rate, depth, quality, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: physical_observations
+      label: Physical Observations
+      hint: Posture, skin color, range of motion, palpation tenderness
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assessment_header
+      label: -- A - Assessment --
+      hint: TCM Pattern and Clinical Impression
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tcm_diagnosis
+      label: TCM Pattern / Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: clinical_impression
+      label: Clinical Impression / Progress Toward Goals
+      hint: null
+      type: select_one
+      options:
+      - Significant Improvement
+      - Moderate Improvement
+      - Slight Improvement
+      - No Change
+      - Regression
+      required: true
+    - id: 16
+      name: plan_header
+      label: -- P - Plan --
+      hint: Treatment performed and future strategy
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: points_treated
+      label: Acupuncture Points Treated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: needle_technique
+      label: Needle Technique and Retension Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_modalities
+      label: Other Modalities Used
+      hint: null
+      type: select_multiple
+      options:
+      - Cupping
+      - Moxa
+      - Gua Sha
+      - Tui Na
+      - Electro-Acupuncture
+      required: false
+    - id: 20
+      name: future_plan_herbs
+      label: Plan for Next Session / Herbal Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: next_appointment_date
+      label: Next Scheduled Appointment
+      hint: null
+      type: date
+      options: []
+      required: false

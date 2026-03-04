@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular System Assessment
+    pages:
+    - id: 1
+      name: header
+      label: -- Assessment Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient id
+      hint: Internal identifier if available
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: presenting_complaint
+      label: Presenting complaint
+      hint: Main reason for assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: heart_rate
+      label: Heart rate bpm
+      hint: Most recent measured heart rate
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: blood_pressure
+      label: Blood pressure reading
+      hint: Systolic over diastolic
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: peripheral_edema
+      label: Peripheral edema present
+      hint: Swelling in legs or ankles
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: auscultation_findings
+      label: Auscultation findings
+      hint: Murmurs gallops or other sounds
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommended_tests
+      label: Recommended diagnostics
+      hint: E g ECG echocardiogram blood tests
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provisional_diagnosis
+      label: Provisional diagnosis
+      hint: Clinician impression
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: plan_and_follow_up
+      label: Plan and follow up
+      hint: Treatment plan and follow up arrangements
+      type: text
+      options: []
+      required: true

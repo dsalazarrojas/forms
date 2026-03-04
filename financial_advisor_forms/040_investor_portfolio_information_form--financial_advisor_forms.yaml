@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: investor_portfolio_information_form
+    pages:
+    - id: 1
+      name: investor_portfolio_information_form_page_1
+      label: investment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investor_portfolio_information_form_page_2
+      label: portfolio_allocation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: investor_portfolio_information_form_page_2
+      label: investment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false

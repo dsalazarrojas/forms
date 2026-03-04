@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Budget Form
+    pages:
+    - id: 1
+      name: weekly_budget_form_page
+      label: weekly_budget_form_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: weekly_expenses
+      label: weekly_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weekly_income
+      label: weekly_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weekly_goal
+      label: weekly_goal
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - Expenses
+      - Savings
+      - Other
+      required: false
+    - id: 5
+      name: weekly_expense_categories
+      label: weekly_expense_categories
+      hint: null
+      type: select_multiple
+      options:
+      - Housing
+      - Utilities
+      - Transportation
+      - Food
+      - Entertainment
+      - Other
+      required: false
+    - id: 6
+      name: weekly_expense_amount
+      label: weekly_expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weekly_income_sources
+      label: weekly_income_sources
+      hint: null
+      type: select_multiple
+      options:
+      - Paycheck
+      - Interest
+      - Sales
+      - Other
+      required: false
+    - id: 8
+      name: weekly_budget_date
+      label: weekly_budget_date
+      hint: null
+      type: date
+      options: []
+      required: false

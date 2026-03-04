@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pain Assessment Form
+    pages:
+    - id: 1
+      name: pain_assessment_form
+      label: Pain Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: body_area
+      label: Body Area
+      hint: null
+      type: select_one
+      options:
+      - head
+      - neck
+      - back
+      - shoulder
+      required: true
+    - id: 3
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pain_frequency
+      label: Pain Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 6
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pain_description
+      label: Pain Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: pain_reduction
+      label: Pain Reduction
+      hint: null
+      type: select_one
+      options:
+      - Significant
+      - Moderate
+      - Minimal
+      required: true
+    - id: 11
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Physiotherapist
+      required: true
+    - id: 12
+      name: pain_reduction_methods
+      label: Pain Reduction Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Exercise
+      - Rest
+      - Other
+      required: true
+    - id: 13
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_provider
+      label: Follow Up Provider
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Physiotherapist
+      required: true
+    - id: 17
+      name: pain_assessment_date
+      label: Pain Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: pain_assessment_time
+      label: Pain Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      required: true
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by_role
+      label: Submitted By Role
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      required: true
+    - id: 24
+      name: submitted_location
+      label: Submitted Location
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic
+      - Home
+      required: true
+    - id: 25
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

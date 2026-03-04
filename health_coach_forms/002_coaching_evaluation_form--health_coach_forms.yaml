@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Evaluation Form
+    pages:
+    - id: 1
+      name: section_session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: Name of the coach who provided services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: Date when the coaching session occurred
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_duration
+      label: Session Duration - minutes
+      hint: How long was the coaching session
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: coaching_focus
+      label: Primary Focus Area of Coaching
+      hint: What was the main topic or goal
+      type: select_one
+      options:
+      - Fitness
+      - Nutrition
+      - Mental Health
+      - Career Development
+      - Life Coaching
+      - Sports Performance
+      required: true
+    - id: 6
+      name: section_feedback
+      label: -- Feedback and Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: goal_clarity
+      label: Did the coach clearly explain the coaching goals
+      hint: Rate from 1 - not at all to 5 - very clear
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2 - Somewhat unclear
+      - 3 - Neutral
+      - 4 - Clear
+      - 5 - Very clear
+      required: true
+    - id: 8
+      name: coach_knowledge
+      label: Coach Knowledge and Expertise
+      hint: How well did the coach demonstrate subject knowledge
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: communication_quality
+      label: Quality of Communication
+      hint: How well did the coach listen and communicate with you
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: actionable_guidance
+      label: Did you receive actionable guidance and next steps
+      hint: Rate the practicality of recommendations
+      type: select_one
+      options:
+      - 1 - Not applicable
+      - 2 - Vague guidance
+      - 3 - Some guidance
+      - 4 - Clear guidance
+      - 5 - Very clear action plan
+      required: true
+    - id: 11
+      name: value_for_money
+      label: Value for Money
+      hint: Did you feel the session was worth the investment
+      type: select_one
+      options:
+      - 1 - Poor value
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Good value
+      - 5 - Excellent value
+      required: true
+    - id: 12
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with this coaching session
+      type: select_one
+      options:
+      - 1 - Very unsatisfied
+      - 2 - Unsatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very satisfied
+      required: true
+    - id: 13
+      name: section_improvement
+      label: -- Improvement Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: strengths
+      label: What were the coach's greatest strengths
+      hint: Describe what worked well
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvement_areas
+      label: Areas for improvement
+      hint: What could the coach improve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_recommendation
+      label: -- Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: would_recommend
+      label: Would you recommend this coach to others
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - 'No'
+      required: true
+    - id: 18
+      name: recommend_reason
+      label: Brief reason for your recommendation
+      hint: Optional explanation
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_coaching
+      label: Would you book another session with this coach
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false

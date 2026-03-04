@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Search And Filter Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Character Search and Filter --
+      hint: Filter characters by role, alignment, or traits for quick browsing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: role
+      hint: select primary role or class
+      type: select_one
+      options:
+      - Tank
+      - DPS
+      - Healer
+      - Support
+      - Utility
+      required: false
+    - id: 3
+      name: alignment
+      label: alignment
+      hint: moral or faction alignment
+      type: select_one
+      options:
+      - Lawful
+      - Neutral
+      - Chaotic
+      required: false
+    - id: 4
+      name: level_min
+      label: level minimum
+      hint: minimum character level
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: level_max
+      label: level maximum
+      hint: maximum character level
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trait_keywords
+      label: trait keywords
+      hint: comma separated traits to match
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability_status
+      label: availability status
+      hint: is the character active or retired
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 8
+      name: sort_by
+      label: sort by
+      hint: preferred sort order for results
+      type: select_one
+      options:
+      - Name
+      - Level
+      - Role
+      required: false
+    - id: 9
+      name: include_npcs
+      label: include npcs
+      hint: include non player characters in results
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: results_limit
+      label: results limit
+      hint: maximum number of results to return
+      type: number
+      options: []
+      required: false

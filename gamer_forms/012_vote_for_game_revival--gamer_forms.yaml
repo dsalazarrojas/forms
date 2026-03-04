@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote For Game Revival
+    pages:
+    - id: 1
+      name: vote_1
+      label: Vote for Game
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: game_name
+      label: Game Name
+      hint: Enter the game title
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: developer_name
+      label: Developer Name
+      hint: Enter the developer name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: revive_reason
+      label: Reason to Revive
+      hint: Enter your reason
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vote_type
+      label: Vote Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_dev_email
+      label: Game Dev Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: dev_response
+      label: Developer Response
+      hint: null
+      type: text
+      options: []
+      required: false

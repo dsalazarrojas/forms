@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight And Nutrition Log
+    pages:
+    - id: 1
+      name: weight_log
+      label: Weight Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_log
+      label: Food Log
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: exercise_log
+      label: Exercise Log
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: weight_log
+      label: Weight Log
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: goal_weight
+      label: Goal Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: target_date
+      label: Target Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: target_time
+      label: Target Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech/Language Pathology Progress Note
+    pages:
+    - id: 1
+      name: speech_language_pathology_progress_note
+      label: Speech/Language Pathology Progress Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: language_therapist
+      label: Language Therapist
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: speech_therapy_type
+      label: Speech Therapy Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: sessions_completed
+      label: Sessions Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_sessions_required
+      label: Total Sessions Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: appointments_scheduled
+      label: Appointments Scheduled
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: bookings_made
+      label: Bookings Made
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: next_appointment_date
+      label: Next Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false

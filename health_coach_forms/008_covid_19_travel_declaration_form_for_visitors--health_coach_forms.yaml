@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Travel Declaration Form For Visitors
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visitor_passport
+      label: Passport or ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visitor_nationality
+      label: Nationality or Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_section
+      label: -- Travel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: departure_country
+      label: Country of Departure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: departure_date
+      label: Planned Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: travel_stops
+      label: Any stops or connections during travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_mode
+      label: Primary Mode of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Sea/Cruise
+      - Car/Bus
+      - Train
+      - Multiple modes
+      required: true
+    - id: 13
+      name: accommodation_section
+      label: -- Accommodation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accommodation_type
+      label: Type of Accommodation
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Private residence
+      - Airbnb
+      - Resort
+      - Family/Friends home
+      - Other
+      required: true
+    - id: 15
+      name: accommodation_address
+      label: Accommodation Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: accommodation_contact
+      label: Accommodation Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: health_section
+      label: -- Health Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      required: true
+    - id: 19
+      name: vaccination_date
+      label: Date of Last Vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: vaccine_type
+      label: COVID-19 Vaccine Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: symptoms_current
+      label: Currently experiencing COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: symptoms_description
+      label: If yes, describe symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: covid_positive_past
+      label: Tested positive for COVID-19 in past 90 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: covid_positive_date
+      label: Date of positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: declaration_section
+      label: -- Declaration and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: health_truthfulness
+      label: All health information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 27
+      name: quarantine_understanding
+      label: I understand quarantine requirements for my destination
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 28
+      name: testing_requirements
+      label: I will comply with testing requirements if requested
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

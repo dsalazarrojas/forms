@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inherited IRA Distribution Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: beneficiary_name
+      label: Beneficiary Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: beneficiary_phone
+      label: Beneficiary Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inherited_ira_account_number
+      label: Inherited IRA Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inherited_ira_account_type
+      label: Inherited IRA Account Type
+      hint: null
+      type: select_one
+      options:
+      - IRA
+      - Roth
+      - Rollover
+      required: false
+    - id: 7
+      name: inherited_ira_value
+      label: Inherited IRA Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: distribution_method
+      label: Distribution Method
+      hint: null
+      type: select_multiple
+      options:
+      - Checklist
+      - Other
+      required: false
+    - id: 9
+      name: distribution_percentage
+      label: Distribution Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: distribution_date
+      label: Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: distribution_status
+      label: Distribution Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 15
+      name: financial_services
+      label: Financial Services
+      hint: null
+      type: select_one
+      options:
+      - Account Manager Beneficiary Coordinator Financial Planner Financial Advisor
+        Financial Representative Other
+      - Other
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Financial Advisor
+      - Beneficiary
+      - Financial Services Team
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Financial Advisor Financial Services Team
+      - Other
+      required: false
+    - id: 19
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Financial Services Team Beneficiary Financial Advisor
+      - Other
+      required: false
+    - id: 21
+      name: notes_updated
+      label: Notes Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to_name
+      label: Submitted To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_to_phone
+      label: Submitted To Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_to_email
+      label: Submitted To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitted_to_address
+      label: Submitted To Address
+      hint: null
+      type: text
+      options: []
+      required: false

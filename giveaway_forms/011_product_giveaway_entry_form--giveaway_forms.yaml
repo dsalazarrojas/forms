@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Giveaway Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_interested_in
+      label: Product Interested In
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: true
+    - id: 7
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Twitter
+      - Facebook
+      - Instagram
+      required: false
+    - id: 8
+      name: how_did_you_hear
+      label: How did you hear
+      hint: null
+      type: select_one
+      options:
+      - Friend
+      - Online Ad
+      - Social Media
+      - Word of mouth
+      required: false
+    - id: 9
+      name: why_entry
+      label: Why entering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 12
+      name: entry_terms
+      label: Entry Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

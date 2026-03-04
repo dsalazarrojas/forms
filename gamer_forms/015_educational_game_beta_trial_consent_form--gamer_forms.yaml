@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Game Beta Trial Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the participant information sheet
+      - I have not read the participant information sheet
+      - Not Applicable
+      required: true
+    - id: 8
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to participate
+      - I do not agree to participate
+      - Not Applicable
+      required: true
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: researcher_id
+      label: Researcher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_notes
+      label: Researcher Notes
+      hint: null
+      type: note
+      options: []
+      required: false

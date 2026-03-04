@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women's Health Questionnaire
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physical_conditions
+      label: Physical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_records
+      label: Medical Records
+      hint: null
+      type: text
+      options: []
+      required: false

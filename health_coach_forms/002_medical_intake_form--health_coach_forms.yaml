@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Intake Form
+    pages:
+    - id: 1
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: past_surgeries
+      label: past_surgeries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_genetics
+      label: medical_genetics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

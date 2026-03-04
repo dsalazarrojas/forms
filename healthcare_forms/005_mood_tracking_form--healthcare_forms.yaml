@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: mood_tracking_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mood_rating
+      label: mood_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: anxiety_level
+      label: anxiety_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: energy_level
+      label: energy_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: appetite
+      label: appetite
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: social_interaction
+      label: social_interaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''unsure''}'
+      required: false
+    - id: 8
+      name: emotional_state
+      label: emotional_state
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''happy''}'
+      - '{''id'': 2, ''label'': ''sad''}'
+      - '{''id'': 3, ''label'': ''frustrated''}'
+      - '{''id'': 4, ''label'': ''anxious''}'
+      - '{''id'': 5, ''label'': ''angry''}'
+      - '{''id'': 6, ''label'': ''bored''}'
+      - '{''id'': 7, ''label'': ''confused''}'
+      - '{''id'': 8, ''label'': ''other''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: timestamp
+      label: timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: timestamp_date
+      label: timestamp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: mood_scale
+      label: mood_scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: anxiety_scale
+      label: anxiety_scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: energy_scale
+      label: energy_scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: sleep_scale
+      label: sleep_scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

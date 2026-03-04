@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recipe Serving Suggestion Feedback
+    pages:
+    - id: 1
+      name: form_title
+      label: Recipe Serving Suggestion Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Orange
+      - Pear
+      - Other
+      required: false
+    - id: 3
+      name: serving_idea
+      label: How do you like to serve this dish?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plating_idea
+      label: How do you like to plate this dish?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Any comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_contact_info
+      label: Other contact info
+      hint: null
+      type: text
+      options: []
+      required: false

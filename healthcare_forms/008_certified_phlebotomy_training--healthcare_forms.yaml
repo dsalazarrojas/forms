@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certified Phlebotomy Training
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Program Enrollment --
+      hint: Enroll in the Certified Phlebotomy Technician program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant name
+      hint: full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: needed for certification records
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: main communication channel
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: phone for urgent notifications
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education_level
+      label: education level
+      hint: highest completed education
+      type: select_one
+      options:
+      - High school
+      - Associate degree
+      - Bachelor degree
+      - Other
+      required: true
+    - id: 7
+      name: health_clearance
+      label: health clearance
+      hint: documentation of immunizations or clearance
+      type: select_one
+      options:
+      - Provided
+      - Pending
+      - Not required
+      required: true
+    - id: 8
+      name: availability
+      label: availability for hands on sessions
+      hint: days or times available for practical labs
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: emergency contact
+      hint: name and phone for emergencies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement
+      label: program acknowledgement
+      hint: agree to program policies and exam inclusion
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true

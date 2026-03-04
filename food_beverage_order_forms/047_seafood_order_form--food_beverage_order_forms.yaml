@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seafood Order Form
+    pages:
+    - id: 1
+      name: seafooorderform_1
+      label: Seafood Options
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seafooorderform_2
+      label: Seafood Options
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Salmon''}'
+      - '{''value'': ''Shrimp''}'
+      - '{''value'': ''Lobster''}'
+      required: false
+    - id: 3
+      name: seafooorderform_3
+      label: Seafood Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fresh''}'
+      - '{''value'': ''Frozen''}'
+      - '{''value'': ''Canned''}'
+      required: false
+    - id: 4
+      name: seafooorderform_4
+      label: Seafood Quantity
+      hint: How much seafood?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: seafooorderform_5
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: seafooorderform_6
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Transfer''}'
+      required: false
+    - id: 7
+      name: seafooorderform_7
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: seafooorderform_8
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

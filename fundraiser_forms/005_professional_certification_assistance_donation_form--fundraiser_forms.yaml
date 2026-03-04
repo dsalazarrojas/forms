@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_certification_assistance_donation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: amount_donated
+      label: amount_donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose_donation
+      label: purpose_donation
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Certification''}'
+      - '{''option_2'': ''Other''}'
+      required: false
+    - id: 6
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_inquiries
+      label: additional_inquiries
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

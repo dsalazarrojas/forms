@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Abdominal Workout Exercise Log
+    pages:
+    - id: 1
+      name: section_header_session_info
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Name of participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_name
+      label: Trainer name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workout_date
+      label: Date of workout
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: workout_time
+      label: Time of workout
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: total_duration_minutes
+      label: Total workout duration in minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_header_exercises
+      label: -- Exercises Performed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exercise_1_name
+      label: Exercise 1 - Name
+      hint: null
+      type: select_one
+      options:
+      - Crunches
+      - Sit-Ups
+      - Plank
+      - Bicycle Crunches
+      - Leg Raises
+      - Russian Twists
+      - Mountain Climbers
+      required: true
+    - id: 9
+      name: exercise_1_sets
+      label: Exercise 1 - Number of sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: exercise_1_reps
+      label: Exercise 1 - Reps per set (or seconds for holds)
+      hint: For timed exercises like planks, enter seconds
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: exercise_2_name
+      label: Exercise 2 - Name
+      hint: null
+      type: select_one
+      options:
+      - Crunches
+      - Sit-Ups
+      - Plank
+      - Bicycle Crunches
+      - Leg Raises
+      - Russian Twists
+      - Mountain Climbers
+      required: false
+    - id: 12
+      name: exercise_2_sets
+      label: Exercise 2 - Number of sets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: exercise_2_reps
+      label: Exercise 2 - Reps per set (or seconds for holds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: exercise_3_name
+      label: Exercise 3 - Name
+      hint: null
+      type: select_one
+      options:
+      - Crunches
+      - Sit-Ups
+      - Plank
+      - Bicycle Crunches
+      - Leg Raises
+      - Russian Twists
+      - Mountain Climbers
+      required: false
+    - id: 15
+      name: exercise_3_sets
+      label: Exercise 3 - Number of sets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: exercise_3_reps
+      label: Exercise 3 - Reps per set (or seconds for holds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_assessment
+      label: -- Post-Workout Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: intensity_level
+      label: Overall workout intensity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 19
+      name: soreness_level
+      label: Current soreness level (1-10)
+      hint: 1 = No soreness, 10 = Extreme soreness
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Additional notes or observations
+      hint: e.g. form improvements, pain, personal records
+      type: text
+      options: []
+      required: false

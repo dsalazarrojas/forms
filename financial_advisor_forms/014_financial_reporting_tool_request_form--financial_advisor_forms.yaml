@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Reporting Tool Request Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requested_tool
+      label: Requested Tool
+      hint: null
+      type: select_one
+      options:
+      - Financial Reporting Tool 1
+      - Financial Reporting Tool 2
+      - Financial Reporting Tool 3
+      required: false
+    - id: 8
+      name: requested_tool_version
+      label: Requested Tool Version
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Reporting Tool 1
+      - Financial Reporting Tool 2
+      - Financial Reporting Tool 3
+      required: false
+    - id: 9
+      name: report_start_date
+      label: Report Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: report_end_date
+      label: Report End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: report_format
+      label: Report Format
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - PDF
+      required: false
+    - id: 13
+      name: report_delivery_email
+      label: Report Delivery Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: report_delivery_note
+      label: Report Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_comment
+      label: Assigned Tool Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 18
+      name: request_comment
+      label: Request Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_notes
+      label: Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

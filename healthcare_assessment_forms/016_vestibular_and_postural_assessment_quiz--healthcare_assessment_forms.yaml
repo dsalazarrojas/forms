@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vestibular And Postural Assessment Quiz
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vestibular_info
+      label: Vestibular Information
+      hint: null
+      type: select_multiple
+      options:
+      - Vestibular
+      - Balance
+      - Dizziness
+      - Vertigo
+      - Motion
+      required: true
+    - id: 3
+      name: posture_info
+      label: Posture Information
+      hint: null
+      type: select_multiple
+      options:
+      - Posture
+      - Gait
+      - Balance
+      - Coordination
+      - Dizziness
+      required: true
+    - id: 4
+      name: head_movement
+      label: Head Movement
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Eyes
+      - Neck
+      - Shoulders
+      required: false
+    - id: 5
+      name: postural_symptoms
+      label: Postural Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Postural
+      - Symptoms
+      - Symptoms
+      - Nausea
+      - Vomiting
+      - Diarrhea
+      required: true
+    - id: 6
+      name: balance_activities
+      label: Balance Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Balance
+      - Activity
+      - Postural
+      - Exercises
+      - Physical
+      - Activities
+      required: true
+    - id: 7
+      name: postural_positions
+      label: Postural Positions
+      hint: null
+      type: select_multiple
+      options:
+      - Postural
+      - Positions
+      - Standing
+      - Sitting
+      - Lying
+      - Kneeling
+      - Supine
+      - Prone
+      required: false
+    - id: 8
+      name: postural_symptom_frequency
+      label: Postural Symptom Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: true
+    - id: 9
+      name: postural_symptom_severity
+      label: Postural Symptom Severity
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: true
+    - id: 10
+      name: vestibular_symptoms
+      label: Vestibular Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Vestibular
+      - Symptoms
+      - Tinnitus
+      - Dizziness
+      - Hearing
+      - Loss
+      - Balance
+      - Problems
+      required: false
+    - id: 11
+      name: postural_symptoms_severity
+      label: Postural Symptoms Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: postural_symptoms_duration
+      label: Postural Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: postural_symptoms_frequency
+      label: Postural Symptoms Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: postural_symptoms_location
+      label: Postural Symptoms Location
+      hint: null
+      type: select_multiple
+      options:
+      - Right
+      - Left
+      - Center
+      - Front
+      - Back
+      required: false
+    - id: 15
+      name: head_position
+      label: Head Position
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Right
+      - Left
+      - Center
+      - Front
+      - Back
+      required: true
+    - id: 16
+      name: postural_symptoms_severity
+      label: Postural Symptoms Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: postural_symptoms_frequency_1
+      label: Postural Symptoms Frequency 1
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 18
+      name: postural_symptoms_frequency_2
+      label: Postural Symptoms Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 19
+      name: postural_symptoms_frequency_3
+      label: Postural Symptoms Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 20
+      name: postural_symptoms_frequency_4
+      label: Postural Symptoms Frequency 4
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 21
+      name: postural_symptoms_frequency_5
+      label: Postural Symptoms Frequency 5
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 22
+      name: postural_symptoms_location_1
+      label: Postural Symptoms Location 1
+      hint: null
+      type: select_multiple
+      options:
+      - Right
+      - Left
+      - Center
+      - Front
+      - Back
+      required: false
+    - id: 23
+      name: postural_symptoms_location_2
+      label: Postural Symptoms Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - Right
+      - Left
+      - Center
+      - Front
+      - Back
+      required: false
+    - id: 24
+      name: postural_symptoms_location_3
+      label: Postural Symptoms Location 3
+      hint: null
+      type: select_multiple
+      options:
+      - Right
+      - Left
+      - Center
+      - Front
+      - Back
+      required: false
+    - id: 25
+      name: postural_symptoms_location_4
+      label: Postural Symptoms Location 4
+      hint: null
+      type: select_multiple
+      options:
+      - Right
+      - Left
+      - Center
+      - Front
+      - Back
+      required: false

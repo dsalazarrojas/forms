@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Team Workload Feedback Form
+    pages:
+    - id: 1
+      name: healthcare_team
+      label: Healthcare Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: workload
+      label: Workload
+      hint: How much time do you spend on administrative tasks?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: job_support
+      label: Job Support
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither
+      - Strongly Disagree
+      required: false
+    - id: 7
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: work_environment
+      label: Work Environment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Poor
+      required: false
+    - id: 9
+      name: job_satisfaction_rating
+      label: Job Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

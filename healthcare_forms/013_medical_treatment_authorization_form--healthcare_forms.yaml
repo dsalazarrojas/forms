@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Authorization Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_name
+      label: Treatment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: treatment_status
+      label: Treatment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Not Active''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 8
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Nurse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

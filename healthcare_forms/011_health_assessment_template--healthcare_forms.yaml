@@ -1,0 +1,245 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Health Assessment Template
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Allergies''}'
+      - '{''id'': 2, ''label'': ''Medications''}'
+      - '{''id'': 3, ''label'': ''Conditions''}'
+      required: false
+    - id: 3
+      name: current_symptoms
+      label: Current Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Pain''}'
+      - '{''id'': 3, ''label'': ''Fatigue''}'
+      - '{''id'': 4, ''label'': ''Nausea''}'
+      - '{''id'': 5, ''label'': ''Fever''}'
+      required: true
+    - id: 4
+      name: medical_history_conditions
+      label: Medical History Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Hypertension''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''Asthma''}'
+      - '{''id'': 4, ''label'': ''Epilepsy''}'
+      - '{''id'': 5, ''label'': ''Cancer''}'
+      required: true
+    - id: 5
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Family History''}'
+      - '{''id'': 2, ''label'': ''Family History 2''}'
+      - '{''id'': 3, ''label'': ''Family History 3''}'
+      - '{''id'': 4, ''label'': ''Family History 4''}'
+      - '{''id'': 5, ''label'': ''Family History 5''}'
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medications''}'
+      - '{''id'': 2, ''label'': ''Medications 2''}'
+      - '{''id'': 3, ''label'': ''Medications 3''}'
+      - '{''id'': 4, ''label'': ''Medications 4''}'
+      - '{''id'': 5, ''label'': ''Medications 5''}'
+      required: false
+    - id: 7
+      name: social_history
+      label: Social History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Social History''}'
+      - '{''id'': 2, ''label'': ''Social History 2''}'
+      - '{''id'': 3, ''label'': ''Social History 3''}'
+      - '{''id'': 4, ''label'': ''Social History 4''}'
+      - '{''id'': 5, ''label'': ''Social History 5''}'
+      required: false
+    - id: 8
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medical Test 1''}'
+      - '{''id'': 2, ''label'': ''Medical Test 2''}'
+      - '{''id'': 3, ''label'': ''Medical Test 3''}'
+      - '{''id'': 4, ''label'': ''Medical Test 4''}'
+      - '{''id'': 5, ''label'': ''Medical Test 5''}'
+      required: false
+    - id: 9
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medical Procedure 1''}'
+      - '{''id'': 2, ''label'': ''Medical Procedure 2''}'
+      - '{''id'': 3, ''label'': ''Medical Procedure 3''}'
+      - '{''id'': 4, ''label'': ''Medical Procedure 4''}'
+      - '{''id'': 5, ''label'': ''Medical Procedure 5''}'
+      required: false
+    - id: 10
+      name: medical_prognosis
+      label: Medical Prognosis
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_procedure_status
+      label: Medical Procedure Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: false
+    - id: 12
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Resuscitated''}'
+      - '{''id'': 3, ''label'': ''Discharged''}'
+      - '{''id'': 4, ''label'': ''Deceased''}'
+      required: true
+    - id: 13
+      name: patient_status_other
+      label: Patient Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: treatment_plan_status
+      label: Treatment Plan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: false
+    - id: 16
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Completed''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: true
+    - id: 17
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_of_last_contact_time
+      label: Date of Last Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: date_of_last_medication
+      label: Date of Last Medication
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: date_of_last_medication_time
+      label: Date of Last Medication Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: date_of_next_contact
+      label: Date of Next Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_of_next_contact_time
+      label: Date of Next Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: date_of_last_follow_up
+      label: Date of Last Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: date_of_last_follow_up_time
+      label: Date of Last Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: date_of_next_follow_up
+      label: Date of Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false

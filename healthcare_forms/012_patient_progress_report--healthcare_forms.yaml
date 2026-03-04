@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Progress Report
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_info
+      label: Treatment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_outcomes
+      label: Patient Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: patient_progress
+      label: Patient Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: physician_info
+      label: Physician Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_allergies
+      label: Medical History Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_history_surgeries
+      label: Medical History Surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_medical_condition
+      label: Medical History Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_injuries
+      label: Medical History Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_history_family_history
+      label: Medical History Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_social_history
+      label: Medical History Social History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history_illnesses
+      label: Medical History Illnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_vaccinations
+      label: Medical History Vaccinations
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Certificate Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_one
+      options:
+      - employee
+      - self-employed
+      required: false
+    - id: 8
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: income_level
+      label: Income Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: certificate_type
+      label: Certificate Type
+      hint: null
+      type: select_one
+      options:
+      - Form A
+      - Form B
+      required: false
+    - id: 11
+      name: certificate_date
+      label: Certificate Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Certified
+      required: false

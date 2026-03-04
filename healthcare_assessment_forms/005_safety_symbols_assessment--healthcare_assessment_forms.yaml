@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Symbols Assessment
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazard_icon_1
+      label: hazard_icon_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: confidence_level_1
+      label: confidence_level_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: confidence_level_1_hazard_1
+      label: confidence_level_1_hazard_1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: question_1
+      label: question_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_2
+      label: question_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hazard_icon_2
+      label: hazard_icon_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: confidence_level_2
+      label: confidence_level_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: confidence_level_2_hazard_1
+      label: confidence_level_2_hazard_1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

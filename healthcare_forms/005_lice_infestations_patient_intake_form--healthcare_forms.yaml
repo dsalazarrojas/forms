@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: lice_infestations_patient_intake_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: infestation_details
+      label: infestation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: head_lice_info
+      label: head_lice_info
+      hint: null
+      type: select_multiple
+      options:
+      - Lice Infestation
+      - Lice Eggs
+      - Lice Nits
+      required: false
+    - id: 5
+      name: head_lice_treatment
+      label: head_lice_treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Treatment 1
+      - Treatment 2
+      - Treatment 3
+      required: false
+    - id: 6
+      name: body_lice_info
+      label: body_lice_info
+      hint: null
+      type: select_multiple
+      options:
+      - Body Lice
+      - Head Lice
+      - No Lice
+      required: false
+    - id: 7
+      name: body_lice_treatment
+      label: body_lice_treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Treatment 1
+      - Treatment 2
+      - Treatment 3
+      required: false
+    - id: 8
+      name: head_lice_symptoms
+      label: head_lice_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: body_lice_symptoms
+      label: body_lice_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Itching
+      - Blisters
+      - Irritability
+      required: false
+    - id: 10
+      name: treatment_outcome
+      label: treatment_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_comments
+      label: patient_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_comments
+      label: doctor_comments
+      hint: null
+      type: text
+      options: []
+      required: false

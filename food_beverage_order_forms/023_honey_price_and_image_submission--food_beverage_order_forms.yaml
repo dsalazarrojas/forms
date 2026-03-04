@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: honey_price_and_image_submission
+    pages:
+    - id: 1
+      name: user
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: image_alt_text
+      label: Image Alt Text
+      hint: null
+      type: text
+      options: []
+      required: false

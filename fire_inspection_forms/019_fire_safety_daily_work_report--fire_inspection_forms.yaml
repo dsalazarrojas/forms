@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Daily Work Report
+    pages:
+    - id: 1
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: fire_hazards_encountered
+      label: Fire Hazards Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_hazard_prevention
+      label: Fire Hazard Prevention
+      hint: null
+      type: select_one
+      options:
+      - Firewatcher on site
+      - Regular fire watch
+      - Both
+      required: false
+    - id: 4
+      name: fire_supervision
+      label: Fire Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - Chief of the Facility
+      - Assistant prophets
+      - Fire marshal
+      - Fire chief
+      - Fire safety manager
+      required: false
+    - id: 5
+      name: fire_prevention_procedures
+      label: Fire Prevention Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fire_supervision_procedures
+      label: Fire Supervision Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fire_drills
+      label: Fire Drills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fire_safety_meeting
+      label: Fire Safety Meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fire_inspection_completed
+      label: Fire Inspection Completed
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Completed 1/3
+      - Completed 2/3
+      - Completed 3/3
+      required: false
+    - id: 13
+      name: fire_hazards_identified
+      label: Fire Hazards Identified
+      hint: null
+      type: select_multiple
+      options:
+      - Fire alarm system
+      - Fire extinguishers
+      - Fire exit signs
+      - Fire doors
+      - Electrical equipment
+      - Fireworks
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

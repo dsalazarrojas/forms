@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monster Concept Creation Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Monster Concept Creation Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monster_concept_name
+      label: Monster Concept Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: creature_type
+      label: Creature Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dragon
+      - Beast
+      - Monster
+      - Creature
+      required: false
+    - id: 4
+      name: creature_description
+      label: Creature Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: creature_features
+      label: Creature Features
+      hint: null
+      type: select_one
+      options:
+      - Sharp Claws
+      - Sharp Fangs
+      - Sharp Teeth
+      - Scales
+      - Fire Breath
+      - None
+      required: false
+    - id: 6
+      name: creature_abilities
+      label: Creature Abilities
+      hint: null
+      type: select_multiple
+      options:
+      - Super Strength
+      - Super Speed
+      - Super Stamina
+      - None
+      - Super Intelligence
+      required: false
+    - id: 7
+      name: file_upload
+      label: Upload Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: monster_concept_submission
+      label: Monster Concept Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_upload_2
+      label: File Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Request Form
+    pages:
+    - id: 1
+      name: sample_request_form_1
+      label: Sample Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_request_1
+      label: What is the product you are requesting?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_request_2
+      label: What is the service you are requesting?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sample_request_form_3
+      label: What is the example of the product you are looking for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: example_location
+      label: Where are you looking for an example?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: example_location_2
+      label: What type of example?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

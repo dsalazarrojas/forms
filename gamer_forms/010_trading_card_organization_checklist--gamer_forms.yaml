@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trading Card Organization Checklist
+    pages:
+    - id: 1
+      name: card_condition
+      label: card_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Near Mint
+      - Lightly Played
+      - Moderately Played
+      - Heavily Played
+      - Damaged
+      required: false
+    - id: 2
+      name: storage_method
+      label: storage_method
+      hint: null
+      type: select_one
+      options:
+      - Box Top-Loader
+      - Single-Loader
+      - Top Loader
+      - Loose in Booster Box
+      - Loose in Deckbox
+      - Loose
+      required: false
+    - id: 3
+      name: card_storage_goal
+      label: card_storage_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_goal
+      label: organization_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: condition_evaluations
+      label: condition_evaluations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: storage_evaluations
+      label: storage_evaluations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: card_count
+      label: card_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: condition_scale
+      label: condition_scale
+      hint: null
+      type: select_one
+      options:
+      - FNM
+      - Beckon
+      - CGC
+      - CGC:Beckon
+      - None
+      required: false
+    - id: 10
+      name: condition_scale_other
+      label: condition_scale_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: storage_scale
+      label: storage_scale
+      hint: null
+      type: select_one
+      options:
+      - FNM
+      - CGC
+      - CGC:Beckon
+      - None
+      required: false
+    - id: 12
+      name: storage_scale_other
+      label: storage_scale_other
+      hint: null
+      type: text
+      options: []
+      required: false

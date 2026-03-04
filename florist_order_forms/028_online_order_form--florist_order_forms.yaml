@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Order Form
+    pages:
+    - id: 1
+      name: sender_info
+      label: Sender Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sender_email
+      label: Sender Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: sender_phone
+      label: Sender Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: receiver_info
+      label: Receiver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: receiver_name
+      label: Receiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: receiver_email
+      label: Receiver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: receiver_phone
+      label: Receiver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: flowers
+      label: Flowers
+      hint: null
+      type: select_multiple
+      options:
+      - Red Roses
+      - White Lilies
+      - Blue Orchids
+      - Yellow Sunflowers
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

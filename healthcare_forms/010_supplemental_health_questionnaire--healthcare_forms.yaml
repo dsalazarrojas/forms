@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: supplemental_health_questionnaire
+    pages:
+    - id: 1
+      name: screen_questions
+      label: Screen Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_with_infected
+      label: Contact with Infected
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exposure_history
+      label: Exposure History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_history_2
+      label: Travel History 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: travel_restrictions
+      label: Travel Restrictions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: symptoms_2
+      label: Symptoms 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_with_infected_2
+      label: Contact with Infected 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

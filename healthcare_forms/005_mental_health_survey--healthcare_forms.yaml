@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mood_assessment
+      label: mood assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Depressed
+      - Anxious
+      - Angry
+      - Sad
+      - Frustrated
+      - Bodily pain
+      - Fatigue
+      - Confused
+      - Nervous
+      - Ashen
+      required: false
+    - id: 3
+      name: sleep_assessment
+      label: Sleep assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pain_location
+      label: Pain Location
+      hint: null
+      type: select_one
+      options:
+      - Head
+      - Neck
+      - Back
+      - Abdomen
+      - Legs
+      - Arms
+      - Joints
+      - Other
+      required: false

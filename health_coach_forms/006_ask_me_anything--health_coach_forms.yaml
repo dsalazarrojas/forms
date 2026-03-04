@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask Me Anything
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: How should we address you
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For session reminders
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: health_goal
+      label: Primary Health Goal
+      hint: What do you want to achieve
+      type: select_one
+      options:
+      - Weight Loss
+      - Muscle Gain
+      - Better Sleep
+      - Stress Management
+      - Improved Nutrition
+      - Increased Energy
+      - Overall Wellness
+      required: true
+    - id: 4
+      name: current_fitness_level
+      label: Current Fitness Level
+      hint: How would you describe yourself
+      type: select_one
+      options:
+      - Beginner - Just Starting
+      - Intermediate - Some Experience
+      - Advanced - Very Active
+      - Professional - Athlete Level
+      required: true
+    - id: 5
+      name: question_for_coach
+      label: Your Question for the Health Coach
+      hint: What would you like to ask
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: topic_category
+      label: Question Category
+      hint: What area does your question relate to
+      type: select_one
+      options:
+      - Nutrition and Diet
+      - Exercise and Training
+      - Mental Health
+      - Sleep and Recovery
+      - Lifestyle Habits
+      - Medical Concerns
+      - General Wellness
+      required: true
+    - id: 7
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: When would you like to attend
+      type: select_one
+      options:
+      - Morning Session - 9am
+      - Afternoon Session - 2pm
+      - Evening Session - 7pm
+      - Weekend Session - 10am
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food restrictions we should know
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Optional - for personalized advice
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Current Medications or Supplements
+      hint: List any you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sleep_hours
+      label: Average Hours of Sleep Per Night
+      hint: Typical sleep duration
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: water_intake
+      label: Daily Water Intake
+      hint: How many glasses per day
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: exercise_days_per_week
+      label: Exercise Days Per Week
+      hint: How often do you exercise
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stress_level
+      label: Current Stress Level
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_interest
+      label: Interested in One-on-One Coaching
+      hint: Would you like personal sessions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 16
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Optional
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Online Search
+      - Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: consent_recording
+      label: Consent to Session Recording
+      hint: Sessions may be recorded for quality
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

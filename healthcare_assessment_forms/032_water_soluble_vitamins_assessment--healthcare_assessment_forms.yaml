@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Soluble Vitamins Assessment
+    pages:
+    - id: 1
+      name: water_soluble_vitamins_assessment
+      label: What do you take?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vitamins_consumed
+      label: Vitamins
+      hint: null
+      type: select_one
+      options:
+      - Vitamin A
+      - Vitamin D
+      - Vitamin E
+      - Vitamin K
+      required: false
+    - id: 3
+      name: vitamin_a_consumption
+      label: Vitamin A
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vitamin_d_consumption
+      label: Vitamin D
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vitamin_e_consumption
+      label: Vitamin E
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vitamin_k_consumption
+      label: Vitamin K
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: water_soluble_vitamins_symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: water_soluble_vitamins_supplements
+      label: Supplements
+      hint: null
+      type: select_one
+      options:
+      - Multivitamin
+      - Vitamin C
+      - Vitamin E
+      - None
+      required: false
+    - id: 9
+      name: water_soluble_vitamins_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: water_soluble_vitamins_dose
+      label: Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: water_soluble_vitamins_side_effects
+      label: Side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: water_soluble_vitamins_recommendation
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

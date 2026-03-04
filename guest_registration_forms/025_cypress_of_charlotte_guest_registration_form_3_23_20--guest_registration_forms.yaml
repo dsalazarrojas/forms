@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cypress Of Charlotte Guest Registration Form 3.23.20
+    pages:
+    - id: 1
+      name: cypress_of_charlotte_guest_registration_form_3_23_20
+      label: Guest Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: guest_temperature
+      label: Temperature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: temperature_unit
+      label: Temperature Unit
+      hint: null
+      type: select_multiple
+      options:
+      - Celsius
+      - Fahrenheit
+      required: false
+    - id: 8
+      name: guest_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: guest_question
+      label: Do you have any health concerns?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

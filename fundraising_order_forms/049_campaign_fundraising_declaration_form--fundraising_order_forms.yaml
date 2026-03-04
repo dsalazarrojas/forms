@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Fundraising Declaration Form
+    pages:
+    - id: 1
+      name: declaration_committee_header
+      label: -- Committee and Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_committee_name_decl
+      label: Candidate or Committee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treasurer_name_full_decl
+      label: Treasurer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: treasurer_contact_email
+      label: Treasurer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: fundraising_activity_header
+      label: -- Fundraising Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_activity_description_decl
+      label: Description of Fundraising Event or Activity
+      hint: e.g., Gala Dinner, Online Crowdfunding, Direct Mail
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: activity_date_range_decl
+      label: Date(s) of Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_gross_proceeds_decl
+      label: Total Gross Proceeds Raised
+      hint: Amount before expenses
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_activity_expenses_decl
+      label: Total Activity Expenses
+      hint: Cost to run the event
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: net_proceeds_calculated_decl
+      label: Net Proceeds Realized
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: source_of_funds_summary
+      label: Breakdown of Funding Sources
+      hint: Percentage or amount from different categories
+      type: select_multiple
+      options:
+      - Individual Contributions
+      - Corporate Contributions
+      - Political Action Committee (PAC)
+      - Candidate Personal Funds
+      - Small Donor Committee
+      required: true
+    - id: 12
+      name: compliance_acknowledgement_decl
+      label: Compliance Acknowledgment
+      hint: I certify that all funds were raised in accordance with campaign finance
+        laws
+      type: select_one
+      options:
+      - I Acknowledge and Certify
+      - Other
+      required: true
+    - id: 13
+      name: declaration_reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: treasurer_signature_digital_decl
+      label: Treasurer Electronic Signature
+      hint: Please type your full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: auditor_initials_internal_decl
+      label: Auditor Initials (Internal Use)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: filing_id_reference_decl
+      label: Filing Reference ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Maintenance Declaration Form
+    pages:
+    - id: 1
+      name: maintenance_declaration_form
+      label: Maintenance Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_id
+      label: Vehicle ID
+      hint: Enter Vehicle ID (e.g. 1234ABCD)
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_maintenance
+      label: Vehicle Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: MM/DD/YY or YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      required: true
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 8
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Emergency
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Janes
+      - Jimy
+      required: true
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date_time
+      label: Submitted Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mileage_reading
+      label: Mileage Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: mileage_reading_unit
+      label: Mileage Unit
+      hint: Miles or Kilometers
+      type: select_one
+      options:
+      - Miles
+      - Kilometers
+      required: true
+    - id: 21
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Empty
+      - Three-quarters
+      required: false

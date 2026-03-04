@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Program Intake Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: height_unit
+      label: Height Unit
+      hint: null
+      type: select_one
+      options:
+      - ft
+      - in
+      - cm
+      required: true
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_history_condition
+      label: Medical History Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_note
+      label: Medical History Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_method
+      label: Preferred Method
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

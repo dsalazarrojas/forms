@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Reimbursement Form
+    pages:
+    - id: 1
+      name: mileage_reimbursement_form_page
+      label: mileage_reimbursement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reimbursed_amount
+      label: reimbursed_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      - JPY
+      required: false
+    - id: 4
+      name: date_of_travel
+      label: date_of_travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_travel
+      label: time_of_travel
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: travel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mileage_distance
+      label: mileage_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reimbursement_requestor
+      label: reimbursement_requestor
+      hint: null
+      type: select_one
+      options:
+      - Financial Advisor
+      - Manager
+      - HR Representative
+      - Travel Manager
+      required: false
+    - id: 9
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - pending
+      - rejected
+      required: false
+    - id: 10
+      name: notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

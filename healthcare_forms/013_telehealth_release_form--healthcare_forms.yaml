@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: select_one
+      options:
+      - Discharged
+      - Moved
+      - Other
+      required: false
+    - id: 6
+      name: date_of_release
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: doctor_sign_date
+      label: Doctor Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: patient_signature_date
+      label: Date of Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: doctor_sign_date_2
+      label: Date of Doctor Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: doctor_signature_2
+      label: Doctor Signature 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: patient_signature_2
+      label: Patient Signature 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: release_form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

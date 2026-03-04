@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Chiropractic Treatment Intake Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name_and_phone
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_history
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_reason_for_visit
+      label: Primary Reason for Visit
+      hint: What is the main issue you would like us to address?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pain_intensity_level
+      label: Pain Intensity Level
+      hint: Rate your pain from 1 to 10
+      type: select_one
+      options:
+      - 1 - Minimal
+      - 2
+      - 3
+      - 4
+      - 5 - Moderate
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10 - Severe
+      required: true
+    - id: 10
+      name: location_of_discomfort
+      label: Location of Discomfort
+      hint: e.g. Lower back, neck, right shoulder
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: symptoms_experienced
+      label: Symptoms Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Numbness
+      - Tingling
+      - Stiffness
+      - Sharp pain
+      - Dull ache
+      - Dizziness
+      - Headaches
+      required: false
+    - id: 12
+      name: date_symptoms_started
+      label: Date Symptoms Started
+      hint: Approximate date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: previous_chiropractic_care_history
+      label: Previous Chiropractic Care History
+      hint: List previous clinics or dates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_habits
+      label: -- Daily Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: sleep_position
+      label: Sleep Position
+      hint: null
+      type: select_one
+      options:
+      - Back
+      - Side
+      - Stomach
+      - Varies
+      required: false
+    - id: 16
+      name: daily_activity_level
+      label: Daily Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Highly active
+      required: true
+    - id: 17
+      name: section_consent
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: treatment_consent
+      label: Treatment Consent
+      hint: I understand that results are not guaranteed
+      type: select_one
+      options:
+      - I authorize treatment
+      - I do not authorize treatment
+      required: true

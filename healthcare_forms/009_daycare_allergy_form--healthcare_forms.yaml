@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Allergy Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Daycare Allergy Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: all_01_allergy_1_name
+      label: known_allergy_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: all_02_allergy_2_name
+      label: known_allergy_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: all_03_allergy_1_description
+      label: known_allergy_1_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: all_04_allergy_2_description
+      label: known_allergy_2_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: all_05_suspected_allergy_1_name
+      label: suspected_allergy_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: all_06_suspected_allergy_2_name
+      label: suspected_allergy_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: all_07_suspected_allergy_1_description
+      label: suspected_allergy_1_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: all_08_suspected_allergy_2_description
+      label: suspected_allergy_2_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy_09_allergy_status
+      label: allergy_status
+      hint: null
+      type: select_one
+      options:
+      - Known
+      - Suspected
+      required: false
+    - id: 11
+      name: allergy_10_allergy_date_last_recorded
+      label: allergy_date_last_recorded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: allergy_11_allergy_time_last_recorded
+      label: allergy_time_last_recorded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: allergy_12_phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergy_13_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: allergy_14_note
+      label: allergy_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_signature
+      label: form_signature
+      hint: null
+      type: select_one
+      options:
+      - Form Administrator
+      - Caregiver
+      required: false
+    - id: 17
+      name: form_signature_date
+      label: form_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: all_18_allergist
+      label: allergist
+      hint: null
+      type: select_multiple
+      options:
+      - Allergist 1
+      - Allergist 2
+      required: false
+    - id: 19
+      name: form_signature_time
+      label: form_signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: all_19_allergy_2_allergist
+      label: allergy_2_allergist
+      hint: null
+      type: select_multiple
+      options:
+      - Allergist 1
+      - Allergist 2
+      required: false

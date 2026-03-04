@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: XP/FR Points Update Form
+    pages:
+    - id: 1
+      name: user_xp_fr_points_update
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_adjustment
+      label: Reason for Adjustment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_xp_fr_points
+      label: XP/FR Points Adjustment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_adjustment_requested
+      label: Date Adjustment Requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_adjustment_2
+      label: Reason for Adjustment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_contact
+      label: Support Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_email
+      label: Support Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: support_phone
+      label: Support Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: support_notes
+      label: Support Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: operations_notes
+      label: Operations Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hr_notes
+      label: HR Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true

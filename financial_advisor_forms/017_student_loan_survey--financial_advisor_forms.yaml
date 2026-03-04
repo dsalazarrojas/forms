@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Survey
+    pages:
+    - id: 1
+      name: student_loan_survey
+      label: Student Loan Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_loan_survey_questions
+      label: Student Loan Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false

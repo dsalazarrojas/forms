@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: jochefs_buffalo_wings_order_form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_form
+      label: Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_form
+      label: Shipping Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_form
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
+      - Other
+      required: false

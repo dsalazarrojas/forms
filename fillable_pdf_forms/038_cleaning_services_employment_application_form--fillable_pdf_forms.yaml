@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Services Employment Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: social_security
+      label: Social Security Number
+      hint: xxx-xx-xxxx format
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driver_license
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: section_header_employment
+      label: -- Employment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_cleaning_experience
+      label: Previous Cleaning Industry Experience
+      hint: Have you worked in cleaning before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years of Cleaning Experience
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: employment_history
+      label: Previous Employment History
+      hint: List your last 3 jobs
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_skills
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cleaning_skills
+      label: Cleaning Skills
+      hint: Select applicable skills
+      type: select_multiple
+      options:
+      - General House Cleaning
+      - Deep Cleaning
+      - Window Cleaning
+      - Carpet Cleaning
+      - Tile and Grout Cleaning
+      - Commercial Cleaning
+      - Floor Waxing and Polishing
+      - Sanitization
+      required: true
+    - id: 20
+      name: equipment_proficiency
+      label: Equipment Proficiency
+      hint: Select equipment you can operate
+      type: select_multiple
+      options:
+      - Vacuum Cleaner
+      - Pressure Washer
+      - Floor Buffer/Polisher
+      - Carpet Extraction Machine
+      - Steam Cleaner
+      - Industrial Cleaning Equipment
+      required: false
+    - id: 21
+      name: certifications
+      label: Certifications or Training
+      hint: Any relevant certifications?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: available_days
+      label: Available Days of the Week
+      hint: Select all days available
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 24
+      name: available_times
+      label: Available Times
+      hint: null
+      type: select_multiple
+      options:
+      - Early Morning (6-9 AM)
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-8 PM)
+      - Flexible
+      required: true
+    - id: 25
+      name: can_travel
+      label: Can You Travel to Different Job Sites?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: transportation
+      label: Do You Have Reliable Transportation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: section_header_background
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Do you authorize a background check?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: criminal_history
+      label: Do You Have Any Criminal Convictions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: criminal_explanation
+      label: If Yes, Please Explain
+      hint: Description of conviction
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_header_preferences
+      label: -- Job Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: preferred_position
+      label: Preferred Position Type
+      hint: What type of cleaning work?
+      type: select_one
+      options:
+      - Residential Cleaning
+      - Commercial Cleaning
+      - Office Cleaning
+      - No Preference
+      required: true
+    - id: 33
+      name: wage_expectations
+      label: Wage Expectations
+      hint: Hourly rate or salary range
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you want us to know?
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: section_header_agreement
+      label: -- Application Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: agree_application
+      label: I certify that all information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 37
+      name: application_date
+      label: Application Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Loan Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: personal_email
+      label: Email Address
+      hint: Personal email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: personal_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: residential_address
+      label: Residential Address
+      hint: Current home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_at_address
+      label: Years at Current Address
+      hint: How long have you lived there?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: business_name
+      label: Business Name
+      hint: Name of the business
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_structure
+      label: Business Structure
+      hint: Legal structure of business
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corporation
+      - Other
+      required: true
+    - id: 11
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_description
+      label: Project/Loan Purpose
+      hint: Describe what the loan will be used for
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_timeline
+      label: Project Timeline
+      hint: When will the project be completed?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: financial_info_header
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: How much do you need to borrow?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: annual_business_revenue
+      label: Annual Business Revenue
+      hint: Last year's total revenue
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: monthly_business_expenses
+      label: Monthly Business Expenses
+      hint: Average monthly operating costs
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: personal_credit_score
+      label: Estimated Personal Credit Score
+      hint: Approximate FICO score range
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (below 650)
+      - Unknown
+      required: true
+    - id: 19
+      name: personal_monthly_income
+      label: Personal Monthly Income
+      hint: Income from all sources
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: personal_debts
+      label: Total Personal Debt
+      hint: All outstanding debts
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: loan_details_header
+      label: -- Loan Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_loan_term
+      label: Preferred Loan Term
+      hint: How many months to repay?
+      type: select_one
+      options:
+      - 12 months
+      - 24 months
+      - 36 months
+      - 48 months
+      - 60 months
+      - 84 months
+      required: true
+    - id: 23
+      name: collateral_available
+      label: Do you have collateral to offer?
+      hint: Equipment, property, inventory, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: collateral_description
+      label: Description of Collateral
+      hint: What assets can you pledge?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

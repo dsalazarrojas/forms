@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: skyblock_rank_selection_form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - application_types
+      - Other
+      required: false
+    - id: 3
+      name: rank
+      label: rank
+      hint: null
+      type: select_one
+      options:
+      - rank_levels
+      - Other
+      required: false
+    - id: 4
+      name: game_experience
+      label: game_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - roles
+      - Other
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: Please provide your contact information
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_application
+      label: submit_application
+      hint: null
+      type: select_one
+      options:
+      - submit_applications
+      - Other
+      required: false

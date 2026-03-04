@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Market Booth Setup Order Form
+    pages:
+    - id: 1
+      name: setup_dates
+      label: Setup Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: booth_selections
+      label: Booth Selections
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 5
+      name: booth_details
+      label: Booth Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_selections
+      label: Product Selections
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Apple'', ''value'': ''apple''}'
+      - '{''label'': ''Carrot'', ''value'': ''carrot''}'
+      - '{''label'': ''Broccoli'', ''value'': ''broccoli''}'
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      required: false

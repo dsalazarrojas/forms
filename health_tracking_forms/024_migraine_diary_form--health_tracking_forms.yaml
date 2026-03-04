@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Migraine Diary Form
+    pages:
+    - id: 1
+      name: headache_date
+      label: headache_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: headache_severity
+      label: headache_severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_start_time
+      label: medication_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: aura_start_time
+      label: aura_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pain_location
+      label: pain_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pain_description
+      label: pain_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: aura_description
+      label: aura_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: aura_frequency
+      label: aura_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: nausea
+      label: nausea
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: sensitivity_to_light
+      label: sensitivity_to_light
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: sensitivity_to_sound
+      label: sensitivity_to_sound
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: sensitivity_to_smell
+      label: sensitivity_to_smell
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: photophobia
+      label: photophobia
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

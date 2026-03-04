@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Planning Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discharge_nurse
+      label: Discharge Nurse
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Helpful''}'
+      - '{''id'': 2, ''label'': ''Helpful''}'
+      - '{''id'': 3, ''label'': ''Not Helpful''}'
+      - '{''id'': 4, ''label'': ''Very Unhelpful''}'
+      required: false
+    - id: 3
+      name: discharge_planning
+      label: Discharge Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discharge_experience
+      label: Discharge Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: unit
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_spend
+      label: Time Spent in Hospital
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: hospital_rating
+      label: Hospital Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied''}'
+      - '{''id'': 4, ''label'': ''Very Unhappy''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

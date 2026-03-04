@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hair Damage Source Identification Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_damage_source
+      label: Hair Damage Source
+      hint: null
+      type: select_one
+      options:
+      - Chemical Treatment
+      - Physical Damage
+      - Mechanical Stress
+      - Other
+      required: false
+    - id: 3
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fine
+      - Coarse
+      - Medium
+      - Curly
+      - Wavy
+      required: false
+    - id: 4
+      name: chemical_treatment
+      label: Chemical Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Perming
+      - Hair Coloring
+      - Hair Relaxing
+      - Hair straightening
+      - Hair Smoothing
+      required: false
+    - id: 5
+      name: physical_stress
+      label: Physical Stress
+      hint: null
+      type: select_one
+      options:
+      - Tight Hats
+      - Tight Hair Ties
+      - Hot Water
+      - Sun Exposure
+      - Other
+      required: false
+    - id: 6
+      name: mechanical_stress
+      label: Mechanical Stress
+      hint: null
+      type: select_multiple
+      options:
+      - Tight Ponytails
+      - Hair Ties
+      - Hair Clips
+      - Other
+      required: false
+    - id: 7
+      name: other_damage
+      label: Other Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hair_damage_description
+      label: Hair Damage Description
+      hint: Provide a description of hair damage.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Salon Staff
+      - Stylist
+      - Other
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: mm/dd/yyyy format
+      type: date
+      options: []
+      required: false

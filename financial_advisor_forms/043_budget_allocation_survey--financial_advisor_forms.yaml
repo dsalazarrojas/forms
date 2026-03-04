@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Allocation Survey
+    pages:
+    - id: 1
+      name: respondent_department
+      label: Respondent department
+      hint: Department submitting allocation requests
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fiscal_period
+      label: Fiscal period
+      hint: Budget period for allocation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: priority_areas
+      label: Priority areas
+      hint: Top budget priorities for your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requested_amount
+      label: Requested amount
+      hint: Total requested budget for period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: justification
+      label: Justification
+      hint: Reasoning for requested allocation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: impact_if_denied
+      label: Impact if denied
+      hint: Expected impact if allocation not approved
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: alternative_funding
+      label: Alternative funding
+      hint: Other funding sources if available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For follow up questions
+      type: email
+      options: []
+      required: true

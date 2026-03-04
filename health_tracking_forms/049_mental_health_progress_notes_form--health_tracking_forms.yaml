@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_progress_notes_form
+    pages:
+    - id: 1
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_last_session
+      label: Date of Last Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_outcome
+      label: Session Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

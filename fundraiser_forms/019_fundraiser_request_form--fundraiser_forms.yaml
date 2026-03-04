@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Request Form
+    pages:
+    - id: 1
+      name: fundraiser_request_form
+      label: Fundraiser Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Fundraiser Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Describe your fundraising project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Who to contact
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_device_follow_up_form
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient Id
+      hint: Enter patient ID
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: Describe your feedback
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_device_status
+      label: Medical Device Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Non-Active
+      - Pending
+      required: false
+    - id: 10
+      name: device_returned
+      label: Device Returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_comments
+      label: Patient Comments
+      hint: Enter any comments from the patient
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_comments
+      label: Doctor Comments
+      hint: Enter any comments from the doctor
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Non-Active
+      - Pending
+      required: false
+    - id: 15
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: Enter any follow-up comments
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_doctor
+      label: Follow Up Doctor
+      hint: Enter the doctor's name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: true

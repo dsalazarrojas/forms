@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Shelf Audit Order Form
+    pages:
+    - id: 1
+      name: section_header_auditor
+      label: -- Auditor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: auditor_name
+      label: Auditor Name
+      hint: Person conducting the audit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: auditor_id
+      label: Auditor ID or Employee Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: auditor_company
+      label: Auditing Company or Organization
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: auditor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: auditor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_date
+      label: Audit Date
+      hint: When is this audit being conducted?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_store
+      label: -- Store Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: store_name
+      label: Store Name or Location
+      hint: Retail location being audited
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: store_address
+      label: Store Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: store_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: store_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: store_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: store_type
+      label: Type of Store
+      hint: What kind of retail location?
+      type: select_one
+      options:
+      - Supermarket
+      - Convenience store
+      - Gas station
+      - Pharmacy
+      - Warehouse club
+      - Specialty store
+      - Online retailer
+      - Other
+      required: true
+    - id: 15
+      name: store_contact
+      label: Store Manager or Contact Person
+      hint: Name of responsible person
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: store_phone
+      label: Store Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_shelf
+      label: -- Shelf Audit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: section_location
+      label: Shelf Section Location
+      hint: Aisle, end cap, cooler, etc.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shelf_condition
+      label: Overall Shelf Condition
+      hint: What is the state of the shelf?
+      type: select_one
+      options:
+      - Excellent - clean and organized
+      - Good - mostly clean and organized
+      - Fair - some issues noted
+      - Poor - significant problems
+      - Critical - requires immediate attention
+      required: true
+    - id: 20
+      name: facings_count
+      label: Number of Facings
+      hint: How many product facings visible?
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: products_listed
+      label: Beverage Products on Shelf
+      hint: List brands and varieties observed
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: competitor_products
+      label: Competitor Products Present
+      hint: Any competing brands observed?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: out_of_stock
+      label: Out of Stock Items
+      hint: Any SKUs not available?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_quality
+      label: -- Quality and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: product_freshness
+      label: Product Freshness Assessment
+      hint: null
+      type: select_one
+      options:
+      - All products appear fresh
+      - Mostly fresh, minor concerns
+      - Some expired or questionable items
+      - Multiple expired items found
+      - Critical freshness issues
+      required: true
+    - id: 26
+      name: expiration_date_check
+      label: Expiration Date Issues Found
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: pricing_accuracy
+      label: Pricing Accuracy
+      hint: Are shelf prices correct?
+      type: select_one
+      options:
+      - All prices accurate
+      - Most prices accurate
+      - Some discrepancies
+      - Multiple pricing errors
+      - Significant issues
+      required: true
+    - id: 28
+      name: signage_quality
+      label: Quality of Signage and Displays
+      hint: null
+      type: select_one
+      options:
+      - Professional and complete
+      - Good condition
+      - Fair condition
+      - Poor condition
+      - Missing signage
+      required: true
+    - id: 29
+      name: section_header_compliance
+      label: -- Compliance Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: promotion_compliance
+      label: Are Promotions Properly Displayed
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully compliant
+      - Mostly compliant
+      - Some issues
+      - Not compliant
+      - No promotions
+      required: true
+    - id: 31
+      name: product_placement
+      label: Product Placement Issues
+      hint: Wrong location, shelf damage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_observations
+      label: Additional Observations or Notes
+      hint: Any other relevant information?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESG Transition Consulting Network Application
+    pages:
+    - id: 1
+      name: application_form
+      label: ESG Transition Consulting Network Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expertise_areas
+      label: Expertise Areas
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - ESG Transition
+      - ESG Impact
+      - Sustainability
+      - Energy
+      required: false
+    - id: 4
+      name: resume
+      label: Resume
+      hint: Upload your resume as a PDF
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - LinkedIn
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voiding Diary Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: urination_time
+      label: Urination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: urination_volume
+      label: Urination Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pain_rating
+      label: Pain Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: voiding_diary_date
+      label: Voiding Diary Date
+      hint: null
+      type: date
+      options: []
+      required: false

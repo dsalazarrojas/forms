@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Reduction Form
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: mortgage_modify_type
+      label: Mortgage Modification Type
+      hint: null
+      type: select_one
+      options:
+      - Mortgage Modification
+      - Credit Reduction
+      required: true

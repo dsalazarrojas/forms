@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Support Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_contact
+      label: Patient Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Patient Email Address
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Primary emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_name
+      label: Support Program Name
+      hint: Which support program
+      type: select_one
+      options:
+      - Emotional support counseling
+      - Peer support group
+      - Family caregiver support
+      - Nutrition counseling
+      - Financial assistance program
+      - Transportation assistance
+      - Home care support
+      - Palliative care support
+      required: true
+    - id: 9
+      name: program_start_date
+      label: Program Start Date
+      hint: When did support begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: discharge_date
+      label: Discharge Date
+      hint: Date of discharge from program
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: discharge_reason
+      label: Reason for Discharge
+      hint: Why is patient being discharged
+      type: select_one
+      options:
+      - Treatment completed successfully
+      - Patient requested discharge
+      - Transferred to another program
+      - No longer eligible
+      - Relocated
+      - Deceased
+      - Other
+      required: true
+    - id: 12
+      name: discharge_reason_details
+      label: Discharge Details
+      hint: Additional information about discharge
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: goals_achieved
+      label: Were Support Goals Achieved
+      hint: Progress toward goals
+      type: select_one
+      options:
+      - All goals achieved
+      - Most goals achieved
+      - Some goals achieved
+      - Few goals achieved
+      - Goals not met
+      required: true
+    - id: 14
+      name: goals_summary
+      label: Summary of Goals Achieved
+      hint: Brief description of progress
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_status
+      label: Patient Current Status
+      hint: Current health status
+      type: select_one
+      options:
+      - In remission
+      - Active treatment ongoing
+      - Maintenance treatment
+      - Palliative care
+      - Hospice care
+      - Stable condition
+      - Declining condition
+      required: true
+    - id: 16
+      name: follow_up_care_needed
+      label: Is Follow-up Care Needed
+      hint: Does patient need continued care
+      type: select_one
+      options:
+      - Yes - ongoing support required
+      - Yes - periodic check-ins
+      - No - discharge complete
+      - Unsure - needs assessment
+      required: true
+    - id: 17
+      name: follow_up_services
+      label: Recommended Follow-up Services
+      hint: Services patient should continue
+      type: select_multiple
+      options:
+      - Primary care physician
+      - Oncology follow-up
+      - Mental health counseling
+      - Physical therapy
+      - Occupational therapy
+      - Home health care
+      - Community support groups
+      - None required
+      required: true
+    - id: 18
+      name: follow_up_appointment
+      label: Next Follow-up Appointment Date
+      hint: Scheduled appointment if any
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medications_at_discharge
+      label: Current Medications
+      hint: List of current medications
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions for Patient
+      hint: Important care instructions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resources_provided
+      label: Resources Provided at Discharge
+      hint: Materials given to patient
+      type: select_multiple
+      options:
+      - Written care plan
+      - Medication list
+      - Emergency contact information
+      - Support group information
+      - Community resource list
+      - Educational materials
+      - Crisis hotline numbers
+      - None
+      required: true
+    - id: 22
+      name: patient_satisfaction
+      label: Patient Satisfaction with Program
+      hint: How satisfied was patient
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      - Not assessed
+      required: false
+    - id: 23
+      name: caregiver_involvement
+      label: Caregiver Involvement Level
+      hint: Level of caregiver participation
+      type: select_one
+      options:
+      - Highly involved
+      - Moderately involved
+      - Minimally involved
+      - Not involved
+      - No caregiver
+      required: false
+    - id: 24
+      name: discharge_plan_reviewed
+      label: Was Discharge Plan Reviewed with Patient
+      hint: Was plan discussed
+      type: select_one
+      options:
+      - Yes - thoroughly reviewed
+      - Yes - briefly reviewed
+      - No - patient declined
+      - No - other reason
+      required: true
+    - id: 25
+      name: patient_understands_plan
+      label: Does Patient Understand Discharge Plan
+      hint: Patient comprehension
+      type: select_one
+      options:
+      - Yes - fully understands
+      - Partially understands
+      - No - needs clarification
+      - Unable to assess
+      required: true
+    - id: 26
+      name: coordinator_name
+      label: Care Coordinator Name
+      hint: Name of coordinator
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: coordinator_signature_date
+      label: Coordinator Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

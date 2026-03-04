@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bacon Preference Survey
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Bacon Preference Survey --
+      hint: Help us understand your bacon preferences
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      Label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: false
+    - id: 5
+      name: section_consumption
+      label: -- Bacon Consumption Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bacon_consumption_frequency
+      Label: How Often Do You Eat Bacon?
+      hint: null
+      type: select_one
+      options:
+      - Multiple times per week
+      - Weekly
+      - 2-3 times per month
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 7
+      name: bacon_preference
+      Label: Do You Like Bacon?
+      hint: null
+      type: select_one
+      options:
+      - Love it
+      - Like it
+      - Neutral
+      - Dislike it
+      - Do not eat bacon
+      required: true
+    - id: 8
+      name: section_preparation
+      label: -- Bacon Preparation Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bacon_style
+      Label: Preferred Bacon Cooking Style
+      hint: null
+      type: select_one
+      options:
+      - Crispy
+      - Slightly Crispy
+      - Chewy
+      - Soft
+      - No Preference
+      required: true
+    - id: 10
+      name: cooking_method
+      Label: Preferred Cooking Method
+      hint: null
+      type: select_one
+      options:
+      - Oven-baked
+      - Skillet/Pan
+      - Microwave
+      - Grilled
+      - Air Fryer
+      - No Preference
+      required: false
+    - id: 11
+      name: fat_level
+      Label: Preferred Fat Level
+      hint: null
+      type: select_one
+      options:
+      - Extra Fatty
+      - Fatty
+      - Balanced
+      - Lean
+      - Extra Lean
+      required: false
+    - id: 12
+      name: section_variety
+      label: -- Bacon Variety Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_types
+      Label: Types of Bacon You Enjoy
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pork Bacon
+      - Turkey Bacon
+      - Beef Bacon
+      - Plant-based Bacon
+      - Applewood Smoked
+      - Maple Bacon
+      - Thick Cut
+      - Thin Cut
+      required: true
+    - id: 14
+      name: bacon_brands
+      Label: Favorite Bacon Brands
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_serving
+      label: -- Bacon Serving and Meals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: typical_meals
+      Label: Meals Where You Typically Eat Bacon
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      - Salads
+      - Sandwiches
+      - Baked Goods
+      - Pizza
+      required: true
+    - id: 17
+      name: bacon_in_dishes
+      Label: Do You Like Bacon As an Ingredient in Other Dishes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: true
+    - id: 18
+      name: section_dietary
+      label: -- Dietary Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      Label: Do You Have Dietary Restrictions Affecting Bacon Consumption?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Vegetarian
+      - Vegan
+      - Halal
+      - Kosher
+      - Low-Fat Diet
+      - Gluten-Free
+      - Other
+      required: false
+    - id: 20
+      name: section_innovation
+      label: -- Innovation and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: health_conscious
+      Label: How Important is Health/Nutrition When Choosing Bacon?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 22
+      name: sustainability_concern
+      Label: Does Sustainability Influence Your Bacon Purchase?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 23
+      name: willing_try_alternatives
+      Label: Willing to Try Alternative Bacon Products?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 24
+      name: product_suggestions
+      Label: Product Suggestions or Improvements
+      hint: What would make bacon products better?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_completion
+      Label: Thank You for Completing This Survey
+      hint: Your feedback helps us serve you better
+      type: select_one
+      options:
+      - Survey Complete
+      - Other
+      required: true

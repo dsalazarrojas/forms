@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Contact Tracing Form Template
+    pages:
+    - id: 1
+      name: contact_tracing_form
+      label: Contact Tracing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: exposure_details
+      label: Exposure Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_list
+      label: Contact List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: contact_list_name
+      label: Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_list_email
+      label: Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_list_phone
+      label: Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_list_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

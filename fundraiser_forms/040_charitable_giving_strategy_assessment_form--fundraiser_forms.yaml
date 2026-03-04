@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charitable Giving Strategy Assessment Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Giving Strategy Assessment --
+        hint: Assess current giving strategies and donor engagement
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: organization name
+        hint: name of nonprofit or program
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: assessment date
+        hint: date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: donor_segment_focus
+        label: donor segment focus
+        hint: primary donor segments targeted
+        type: select_multiple
+        options:
+          - Major donors
+          - Monthly donors
+          - One time donors
+          - Corporate sponsors
+          - Foundations
+        required: false
+      - id: 5
+        name: key_metrics
+        label: key metrics
+        hint: revenue, retention, acquisition metrics used
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: channels_used
+        label: channels used
+        hint: channels used for donor outreach
+        type: select_multiple
+        options:
+          - Email
+          - Social media
+          - Events
+          - Direct mail
+        required: false
+      - id: 7
+        name: challenges
+        label: challenges
+        hint: biggest obstacles to meeting fundraising goals
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: opportunities
+        label: opportunities
+        hint: opportunities to expand giving or engagement
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: recommended_actions
+        label: recommended actions
+        hint: prioritized next steps for strategy improvement
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: assessor_name
+        label: assessor name
+        hint: person completing this assessment
+        type: text
+        options: []
+        required: true

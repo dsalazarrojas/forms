@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Preservation Equipment Order Form
+    pages:
+    - id: 1
+      name: food_presentation_equipment_order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_preservation_equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Freezer
+      - Dryer
+      - Oven
+      required: true
+    - id: 3
+      name: food_preservation_equipment_model
+      label: equipment_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false

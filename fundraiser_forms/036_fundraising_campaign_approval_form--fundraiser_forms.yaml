@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Campaign Approval Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: Campaign Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_leader
+      label: Campaign Leader
+      hint: Enter the name of the campaign leader
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: campaign_status
+      label: Campaign Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: campaign_budget
+      label: Campaign Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: campaign_location
+      label: Campaign Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_description
+      label: Campaign Description
+      hint: A brief description of the campaign
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: campaign_approval_status
+      label: Campaign Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: campaign_approval_date
+      label: Campaign Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approval_user
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

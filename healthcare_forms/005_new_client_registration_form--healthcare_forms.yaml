@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Client Registration Form
+    pages:
+    - id: 1
+      name: new_client_registration_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_client_registration_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_client_registration_form_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: new_client_registration_form_4
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: new_client_registration_form_5
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_client_registration_form_6
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: new_client_registration_form_7
+      label: expectations_from_coaching_service
+      hint: null
+      type: select_one
+      options:
+      - Coaching
+      - Non-Coaching
+      required: false
+    - id: 8
+      name: new_client_registration_form_8
+      label: consent_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

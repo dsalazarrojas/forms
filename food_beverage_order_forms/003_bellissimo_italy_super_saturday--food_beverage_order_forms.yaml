@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bellissimo Italy Super Saturday
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: For order updates or questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: How would you like to receive your order
+      type: select_one
+      options:
+      - Dine-in
+      - Takeout
+      - Delivery
+      - Catering
+      required: true
+    - id: 5
+      name: pasta_selection
+      label: Pasta Selection
+      hint: Choose your favorite Italian pasta dish
+      type: select_one
+      options:
+      - Spaghetti Carbonara
+      - Fettuccine Alfredo
+      - Penne Arrabbiata
+      - Lasagna Bolognese
+      - Ravioli Ricotta
+      - Linguine alle Vongole
+      - Gnocchi Sorrentina
+      - No pasta
+      required: true
+    - id: 6
+      name: pizza_selection
+      label: Pizza Selection
+      hint: Select your preferred pizza
+      type: select_one
+      options:
+      - Margherita
+      - Pepperoni
+      - Quattro Formaggi
+      - Prosciutto e Funghi
+      - Vegetariana
+      - Diavola
+      - Capricciosa
+      - No pizza
+      required: true
+    - id: 7
+      name: appetizer_selection
+      label: Appetizer Selection
+      hint: Start your meal with these Italian classics
+      type: select_multiple
+      options:
+      - Bruschetta
+      - Caprese Salad
+      - Arancini
+      - Calamari Fritti
+      - Antipasto Platter
+      - Carpaccio
+      - No appetizer
+      required: false
+    - id: 8
+      name: salad_selection
+      label: Salad Selection
+      hint: Fresh salads to complement your meal
+      type: select_one
+      options:
+      - Caesar Salad
+      - Italian Garden Salad
+      - Arugula and Parmesan
+      - Caprese
+      - No salad
+      required: false
+    - id: 9
+      name: beverage_selection
+      label: Beverage Selection
+      hint: Choose your preferred drink
+      type: select_multiple
+      options:
+      - San Pellegrino Sparkling Water
+      - Perrier
+      - Italian Red Wine
+      - Italian White Wine
+      - Prosecco
+      - Espresso
+      - Cappuccino
+      - Soft Drink
+      - Fresh Juice
+      - No beverage
+      required: false
+    - id: 10
+      name: dessert_selection
+      label: Dessert Selection
+      hint: End your meal with something sweet
+      type: select_multiple
+      options:
+      - Tiramisu
+      - Panna Cotta
+      - Cannoli
+      - Gelato
+      - Affogato
+      - Chocolate Lava Cake
+      - No dessert
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Please inform us of any allergies or dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegetarian
+      - Vegan
+      - Nut allergy
+      - Shellfish allergy
+      - Other
+      required: true
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: Any modifications or special instructions for your order
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people will be dining
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: preferred_time
+      label: Preferred Time
+      hint: When would you like your order ready or table reserved
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: preferred_date
+      label: Preferred Date
+      hint: Select the date for your order
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Digital Wallet
+      required: true
+    - id: 17
+      name: promo_code
+      label: Promotional Code
+      hint: Enter any promo or discount code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

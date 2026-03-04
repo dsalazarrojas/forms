@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metabolic Age Assessment
+    pages:
+    - id: 1
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: activity_level
+      label: activity level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''sedentary''}'
+      - '{''value'': ''lightly_active''}'
+      - '{''value'': ''moderately_active''}'
+      - '{''value'': ''very_active''}'
+      required: false
+    - id: 5
+      name: sleep_duration
+      label: sleep duration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''less_than_7''}'
+      - '{''value'': ''7_to_8''}'
+      - '{''value'': ''more_than_8''}'
+      required: false
+    - id: 6
+      name: smoke
+      label: smoke
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 7
+      name: alcohol_consumption
+      label: alcohol consumption
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''light''}'
+      - '{''value'': ''moderate''}'
+      - '{''value'': ''heavy''}'
+      required: false
+    - id: 8
+      name: exercise_days
+      label: exercise days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: metabolic_age
+      label: metabolic age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: estimated_body_mass_index
+      label: estimated body mass index
+      hint: null
+      type: number
+      options: []
+      required: false

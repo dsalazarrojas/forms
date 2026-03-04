@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Biotechnology Assessment
+    pages:
+    - id: 1
+      name: professional_profile_section
+      label: -- Professional Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: professional_name
+      label: Professional Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Name of your current organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years of Experience in Biotechnology
+      hint: How many years of experience do you have in biotechnology
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: biotechnology_specialties_section
+      label: -- Biotechnology Specialties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_specialty
+      label: Primary Specialty Area
+      hint: What is your primary area of expertise in biotechnology
+      type: select_one
+      options:
+      - Pharmaceuticals
+      - Agriculture
+      - Environmental
+      - Industrial
+      - Medical Devices
+      - Diagnostics
+      - Genomics
+      - Synthetic Biology
+      - Other
+      required: true
+    - id: 8
+      name: specialty_areas_expertise
+      label: Specialty Areas of Expertise
+      hint: Which biotechnology areas are you experienced in
+      type: select_multiple
+      options:
+      - Cell culture
+      - Protein purification
+      - Molecular cloning
+      - PCR techniques
+      - Bioinformatics
+      - Fermentation
+      - Downstream processing
+      - Quality assurance
+      - Regulatory affairs
+      required: true
+    - id: 9
+      name: laboratory_techniques_proficiency
+      label: Laboratory Techniques Proficiency
+      hint: Rate your proficiency in advanced laboratory techniques
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: regulatory_compliance_section
+      label: -- Regulatory Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fda_regulations_knowledge
+      label: FDA Regulations Knowledge
+      hint: How familiar are you with FDA regulations for biotechnology products
+      type: select_one
+      options:
+      - Very familiar
+      - Moderately familiar
+      - Slightly familiar
+      - Not familiar
+      required: true
+    - id: 12
+      name: gmp_compliance_experience
+      label: GMP Compliance Experience
+      hint: Do you have experience with Good Manufacturing Practices
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Training only
+      - No experience
+      required: true
+    - id: 13
+      name: intellectual_property_awareness
+      label: Intellectual Property Awareness
+      hint: How familiar are you with IP issues in biotechnology
+      type: select_one
+      options:
+      - Very familiar
+      - Moderately familiar
+      - Slightly familiar
+      - Not familiar
+      required: true
+    - id: 14
+      name: research_development_section
+      label: -- Research and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: r_d_project_leadership
+      label: R&D Project Leadership
+      hint: Have you led biotechnology research and development projects
+      type: select_one
+      options:
+      - Yes, multiple projects
+      - Yes, one project
+      - Assisted on projects
+      - No leadership experience
+      required: true
+    - id: 16
+      name: funding_acquisition_experience
+      label: Funding Acquisition Experience
+      hint: Have you secured funding for biotechnology research
+      type: select_one
+      options:
+      - Federal grants
+      - Private investors
+      - Corporate funding
+      - Venture capital
+      - No experience
+      - Other
+      required: true
+    - id: 17
+      name: publication_record
+      label: Publication Record
+      hint: How many peer-reviewed publications do you have in biotechnology
+      type: select_one
+      options:
+      - None
+      - 1-5
+      - 6-10
+      - 11-20
+      - More than 20
+      required: true
+    - id: 18
+      name: challenges_opportunities_section
+      label: -- Challenges and Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: biggest_challenge
+      label: Biggest Challenge in Biotechnology
+      hint: What do you see as the biggest challenge facing biotechnology today
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emerging_opportunity
+      label: Emerging Opportunity
+      hint: What emerging opportunity excites you most in biotechnology
+      type: text
+      options: []
+      required: false

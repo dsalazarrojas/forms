@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Herbalife Questionnaire
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_fitness_level
+      label: overall fitness level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_health_goal
+      label: overall health goal
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''weight loss''}'
+      - '{''value'': ''muscle gain''}'
+      - '{''value'': ''weight gain''}'
+      - '{''value'': ''health gain''}'
+      - '{''value'': ''weight maintenance''}'
+      - '{''value'': ''muscle maintenance''}'
+      - '{''value'': ''health maintenance''}'
+      required: false
+    - id: 4
+      name: fitness_goals
+      label: fitness goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''weight loss''}'
+      - '{''value'': ''weight gain''}'
+      - '{''value'': ''muscle gain''}'
+      - '{''value'': ''health gain''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

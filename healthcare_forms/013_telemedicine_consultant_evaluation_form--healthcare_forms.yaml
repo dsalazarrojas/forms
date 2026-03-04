@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: telemedicine_consultant_evaluation_form
+    pages:
+    - id: 1
+      name: telemedicine_consultant
+      label: Telemedicine Consultant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: telemedicine_consultant_id
+      label: Telemedicine Consultant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_spent_on_call
+      label: Time Spent on Call
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_spent_on_follow_ups
+      label: Time Spent on Follow-ups
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 1, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair'', ''label'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor'', ''label'': ''Poor''}'
+      required: true
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: likely_to_recommend
+      label: Likely to Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''name'': True, ''label'': True}'
+      - '{''id'': 1, ''name'': False, ''label'': False}'
+      - '{''id'': 2, ''name'': ''Undecided'', ''label'': ''Undecided''}'
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''Less than once a month'', ''label'': ''Less than
+        once a month''}'
+      - '{''id'': 1, ''name'': ''Once a month'', ''label'': ''Once a month''}'
+      - '{''id'': 2, ''name'': ''Multiple times a month'', ''label'': ''Multiple times
+        a month''}'
+      - '{''id'': 3, ''name'': ''More than once a week'', ''label'': ''More than once
+        a week''}'
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''name'': ''Primary Care Physician'', ''label'': ''Primary Care
+        Physician''}'
+      - '{''id'': 1, ''name'': ''Specialist'', ''label'': ''Specialist''}'
+      - '{''id'': 2, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 3, ''name'': ''Multiple'', ''label'': ''Multiple''}'
+      required: false

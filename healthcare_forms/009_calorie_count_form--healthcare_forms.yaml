@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calorie Count Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Patient receiving nutritional guidance
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: Used for nutritional assessment
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_record
+      label: Date of Record
+      hint: Date for this calorie entry
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: meal_type
+      label: Meal Type
+      hint: Which meal this entry represents
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snack
+      required: true
+    - id: 5
+      name: food_items
+      label: Food Items Consumed
+      hint: List items and approximate portions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: calorie_estimate
+      label: Estimated Calories
+      hint: Whole number estimate of calories
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: portion_size
+      label: Portion Size Description
+      hint: Small, medium, large or specific measures
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: water_intake_ml
+      label: Water Intake in Milliliters
+      hint: Amount of water consumed with the meal
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Any clinical notes or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: clinician_comments
+      label: Clinician Comments
+      hint: For dietitian or clinician review
+      type: text
+      options: []
+      required: false

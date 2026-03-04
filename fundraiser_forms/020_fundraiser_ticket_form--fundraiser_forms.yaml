@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Ticket Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: event_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_url
+      label: Event URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: unique_id
+      label: Unique ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_index
+      label: Current Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: prefix
+      label: Prefix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_padding
+      label: Number Padding
+      hint: null
+      type: text
+      options: []
+      required: false

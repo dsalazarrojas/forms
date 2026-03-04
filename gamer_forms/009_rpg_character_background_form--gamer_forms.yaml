@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: RPG Character Background Form
+    pages:
+    - id: 1
+      name: character_name
+      label: character_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One-Shot''}'
+      - '{''id'': 2, ''label'': ''Campaign''}'
+      - '{''id'': 3, ''label'': ''Community Event''}'
+      required: false
+    - id: 4
+      name: character_class
+      label: character_class
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fighter''}'
+      - '{''id'': 2, ''label'': ''Rogue''}'
+      - '{''id'': 3, ''label'': ''Wizard''}'
+      required: false
+    - id: 5
+      name: character_age
+      label: character_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: character_gender
+      label: character_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: character_race
+      label: character_race
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Human''}'
+      - '{''id'': 2, ''label'': ''Elf''}'
+      - '{''id'': 3, ''label'': ''Dwarf''}'
+      required: false
+    - id: 8
+      name: character_alignment
+      label: character_alignment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Chaotic''}'
+      - '{''id'': 2, ''label'': ''Lawful''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Balanced''}'
+      required: false
+    - id: 9
+      name: player_id
+      label: Player ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_master_id
+      label: GM ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: game_master_name
+      label: Game Master
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_master_notes
+      label: Game Master Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: campaign_notes
+      label: Campaign Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: background_note
+      label: Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: background_image
+      label: Background Image
+      hint: null
+      type: text
+      options: []
+      required: false

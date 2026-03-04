@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: ADHD Consultation Form
+    pages:
+    - id: 1
+      name: consultation_header
+      label: -- Consultation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient full name
+      hint: Include preferred name if different
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Used for age related assessment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email address
+      hint: Preferred email for appointment notices
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Best phone number to reach patient or guardian
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: chief_complaint
+      label: Primary concerns
+      hint: Describe main symptoms or difficulties prompting consultation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: symptom_duration
+      label: Duration of symptoms
+      hint: How long have symptoms been present
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current medications
+      hint: Include dose and frequency where applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_history_of_adhd
+      label: Family history of ADHD
+      hint: Select if family history is known
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 10
+      name: previous_evaluations
+      label: Previous evaluations or diagnoses
+      hint: Summarize any prior testing or diagnoses
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: screening_scale_score
+      label: Screening scale score
+      hint: Enter any standardized screening or rating score
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: consent_for_treatment
+      label: Consent for consultation and record sharing
+      hint: Patient or guardian consent for evaluation
+      type: select_one
+      options:
+      - Consent given
+      - Consent declined
+      required: true
+    - id: 13
+      name: clinician_notes
+      label: Clinician notes and initial impressions
+      hint: Observations and recommended next steps
+      type: note
+      options: []
+      required: false

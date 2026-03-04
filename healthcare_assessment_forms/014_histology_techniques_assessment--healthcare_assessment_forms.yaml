@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Histology Techniques Assessment
+    pages:
+    - id: 1
+      name: lab_training_background
+      label: lab training background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_equipment
+      label: lab equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: histology_methods
+      label: histology methods
+      hint: null
+      type: select_multiple
+      options:
+      - Microtome
+      - Tissue sectioning
+      - Embedding and staining
+      - Staining techniques
+      - Imaging and visualization
+      required: false
+    - id: 4
+      name: microscope_quality
+      label: microscope quality
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Old
+      - Very old
+      required: false
+    - id: 5
+      name: sample_preparation
+      label: sample preparation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staining_equipment
+      label: staining equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sectioning
+      label: sectioning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: section_thickness
+      label: section thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: histology_proficiency
+      label: histology proficiency
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Intermediate
+      - Beginner
+      required: false
+    - id: 10
+      name: histology_certification
+      label: histology certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: lab_management
+      label: lab management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lab_supervision
+      label: lab supervision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: histology_training_needs
+      label: histology training needs
+      hint: null
+      type: select_multiple
+      options:
+      - More training needed
+      - No need for more training
+      required: false

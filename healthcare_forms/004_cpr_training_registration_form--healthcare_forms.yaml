@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPR Training Registration Form
+    pages:
+    - id: 1
+      name: header_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Registration confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or School Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: header_course_details
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_level
+      label: CPR Course Level
+      hint: select the appropriate level for your needs
+      type: select_one
+      options:
+      - General Public - Basic
+      - Healthcare Provider - BLS
+      - Professional Rescuer
+      - Instructor Level
+      required: true
+    - id: 9
+      name: training_format
+      label: Preferred Training Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person Classroom
+      - Blended Learning - Online plus Skills Session
+      - Group On-site Training
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Training Date
+      hint: subject to availability
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: referral_source
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Employer
+      - Social Media
+      - Search Engine
+      - Word of Mouth
+      - Other
+      required: false
+    - id: 12
+      name: medical_considerations
+      label: Do you have any physical limitations that might affect your ability to
+        perform chest compressions
+      hint: Please let us know so we can accommodate you
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: certification_acknowledgment
+      label: I understand that certification is valid for 2 years
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

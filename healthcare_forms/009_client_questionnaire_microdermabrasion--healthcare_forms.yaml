@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: CLIENT QUESTIONNAIRE Microdermabrasion
+    pages:
+    - id: 1
+      name: header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact number
+      hint: Best number to reach client
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_type
+      label: Skin type
+      hint: Self assessed skin type category
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      required: false
+    - id: 6
+      name: allergies
+      label: Known allergies
+      hint: Include medication and topical allergies
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_medications
+      label: Current medications
+      hint: Prescription or over the counter
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prior_procedures
+      label: Prior skin procedures
+      hint: List any relevant past treatments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expected_outcome
+      label: Expected outcome
+      hint: What does the client hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_to_treatment
+      label: Consent to treatment
+      hint: Client agreement to proceed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

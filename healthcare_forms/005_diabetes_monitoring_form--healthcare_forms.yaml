@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: diabetes_monitoring_form
+    pages:
+    - id: 1
+      name: blood_sugar
+      label: Blood Sugar
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: diet
+      label: Diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exercise
+      label: Exercise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: blood_sugar_level
+      label: Blood Sugar Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Normal
+      - Low
+      required: true
+    - id: 9
+      name: blood_pressure_unit
+      label: Blood Pressure Unit
+      hint: null
+      type: select_multiple
+      options:
+      - mmHg
+      - mmHg
+      - mmhg
+      required: true
+    - id: 10
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_multiple
+      options:
+      - lbs
+      - kg
+      - lbs
+      required: true
+    - id: 11
+      name: medication_frequency
+      label: Medication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Night
+      - Morning and Night
+      required: true
+    - id: 12
+      name: medication_time
+      label: Medication Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: diet_frequency
+      label: Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: true
+    - id: 14
+      name: exercise_frequency
+      label: Exercise
+      hint: null
+      type: select_multiple
+      options:
+      - 10 minutes
+      - 30 minutes
+      required: true
+    - id: 15
+      name: diet_notes
+      label: Additional Diet Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exercise_notes
+      label: Exercise Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: blood_sugar_frequency
+      label: Blood Sugar Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 20
+      name: blood_sugar_time
+      label: Blood Sugar Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: weight_frequency
+      label: Weight
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 22
+      name: weight_time
+      label: Weight
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: medication_frequency_unit
+      label: Medication Frequency Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medication_time_unit
+      label: Medication Time Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

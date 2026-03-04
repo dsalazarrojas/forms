@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debt Security Evaluation Request Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: debt_type
+      label: Debt Type
+      hint: 'null'
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Loan''}'
+      - '{''id'': 3, ''label'': ''Mortgage''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: loan_amount
+      label: Loan Amount
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: loan_start_date
+      label: Loan Start Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false

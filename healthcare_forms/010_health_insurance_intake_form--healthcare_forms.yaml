@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Intake Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance
+      label: Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Medicare'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Medicaid'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Private Insurance'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: treatments
+      label: Treatments
+      hint: List the treatments you are currently receiving
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cardiology'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Neurology'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Primary Care'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

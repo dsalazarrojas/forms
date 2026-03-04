@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liquor Order Form
+    pages:
+    - id: 1
+      name: liquor_order_form
+      label: Liquor Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: liquor_type_1
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Whiskey''}'
+      - '{''id'': 2, ''label'': ''Vodka''}'
+      - '{''id'': 3, ''label'': ''Rum''}'
+      required: false
+    - id: 3
+      name: liquor_quantity_1
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

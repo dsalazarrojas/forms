@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Developer Asset Support Request Form
+    pages:
+    - id: 1
+      name: game_developer_asset_support_request_form
+      label: Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: game_developer_asset
+      label: Game Developer Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Audio
+      - Video
+      - Image
+      - Text
+      - Model
+      - Scene
+      required: false
+    - id: 5
+      name: asset_location
+      label: Asset Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_version
+      label: Asset Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Unknown
+      required: false
+    - id: 10
+      name: issue_description_details
+      label: Issue Description Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: asset_status_reason
+      label: Asset Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_developer
+      label: Game Developer
+      hint: null
+      type: text
+      options: []
+      required: false

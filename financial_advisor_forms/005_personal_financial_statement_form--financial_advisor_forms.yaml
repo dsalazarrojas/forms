@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Financial Statement Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_last_update
+      label: Date of Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      required: false
+    - id: 5
+      name: asset_1_type
+      label: Asset 1 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Stock
+      - Bond
+      - Real Estate
+      - Business
+      required: false
+    - id: 6
+      name: asset_1_value
+      label: Asset 1 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: asset_2_type
+      label: Asset 2 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Stock
+      - Bond
+      - Real Estate
+      - Business
+      required: false
+    - id: 8
+      name: asset_2_value
+      label: Asset 2 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: liability_1_type
+      label: Liability 1 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Mortgage
+      - Loan
+      - Credit Card
+      - Alimony
+      - Business
+      required: false
+    - id: 10
+      name: liability_1_value
+      label: Liability 1 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: asset_3_type
+      label: Asset 3 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Stock
+      - Bond
+      - Real Estate
+      - Business
+      required: false
+    - id: 12
+      name: asset_3_value
+      label: Asset 3 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: liability_2_type
+      label: Liability 2 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Mortgage
+      - Loan
+      - Credit Card
+      - Alimony
+      - Business
+      required: false
+    - id: 14
+      name: liability_2_value
+      label: Liability 2 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: asset_4_type
+      label: Asset 4 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Stock
+      - Bond
+      - Real Estate
+      - Business
+      required: false
+    - id: 16
+      name: asset_4_value
+      label: Asset 4 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: asset_5_type
+      label: Asset 5 Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Stock
+      - Bond
+      - Real Estate
+      - Business
+      required: false
+    - id: 18
+      name: asset_5_value
+      label: Asset 5 Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: other_asset_type
+      label: Other Asset Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_asset_value
+      label: Other Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: other_liability_type
+      label: Other Liability Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_liability_value
+      label: Other Liability Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

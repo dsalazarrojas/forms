@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Professional Effectiveness Monitoring Form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_professional
+      label: Healthcare Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_rating
+      label: Feedback Rating
+      hint: Select a prophets feedback rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: feedback_notes
+      label: Feedback Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - General Practice
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - General Surgery
+      - Nephrology
+      - Oncology
+      - Ophthalmology
+      - Rheumatology
+      - Urology
+      required: false
+    - id: 8
+      name: feedback_given
+      label: Feedback Given
+      hint: null
+      type: date
+      options: []
+      required: false

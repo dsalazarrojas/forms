@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: game_studio_demo_slot_booking_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: slot_date
+      label: Slot Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: slot_duration
+      label: Slot Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: slot_booking_type
+      label: Slot Booking Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: slot_booking_status
+      label: Slot Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: slot_booking_notes
+      label: Slot Booking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: partner_notes
+      label: Partner Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: slot_booking_details
+      label: Slot Booking Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: demo_status
+      label: Demo Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: partner_comments
+      label: Partner Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: demo_location
+      label: Demo Location
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: demo_equipment
+      label: Demo Equipment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: demo_notes
+      label: Demo Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: demo_status_notes
+      label: Demo Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

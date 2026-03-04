@@ -1,0 +1,335 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animated Feature Elimination Game
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: Full name or username
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 13
+      - 13-17
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 4
+      name: game_round
+      label: Current Round
+      hint: Which round are you voting in
+      type: select_one
+      options:
+      - Round 1 - Opening Bracket
+      - Round 2 - Top 32
+      - Round 3 - Top 16
+      - Round 4 - Quarterfinals
+      - Round 5 - Semifinals
+      - Round 6 - Finals
+      required: true
+    - id: 5
+      name: matchup_number
+      label: Matchup Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feature_option_a
+      label: Option A
+      hint: First animated feature in matchup
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feature_option_b
+      label: Option B
+      hint: Second animated feature in matchup
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: your_vote
+      label: Your Vote
+      hint: Which feature should advance
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 9
+      name: vote_reason
+      label: Why Did You Vote This Way
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_option_a
+      label: Rate Option A
+      hint: 1-10 scale
+      type: select_one
+      options:
+      - 10 - Masterpiece
+      - 9 - Excellent
+      - 8 - Very Good
+      - 7 - Good
+      - 6 - Above Average
+      - 5 - Average
+      - 4 - Below Average
+      - 3 - Poor
+      - 2 - Very Poor
+      - 1 - Terrible
+      required: false
+    - id: 11
+      name: rating_option_b
+      label: Rate Option B
+      hint: 1-10 scale
+      type: select_one
+      options:
+      - 10 - Masterpiece
+      - 9 - Excellent
+      - 8 - Very Good
+      - 7 - Good
+      - 6 - Above Average
+      - 5 - Average
+      - 4 - Below Average
+      - 3 - Poor
+      - 2 - Very Poor
+      - 1 - Terrible
+      required: false
+    - id: 12
+      name: favorite_elements_a
+      label: What Did You Love About Option A
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animation Quality
+      - Story
+      - Characters
+      - Voice Acting
+      - Music and Soundtrack
+      - Humor
+      - Emotional Impact
+      - Visual Style
+      - World Building
+      - Themes and Messages
+      - Nothing
+      - Other
+      required: false
+    - id: 13
+      name: favorite_elements_b
+      label: What Did You Love About Option B
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animation Quality
+      - Story
+      - Characters
+      - Voice Acting
+      - Music and Soundtrack
+      - Humor
+      - Emotional Impact
+      - Visual Style
+      - World Building
+      - Themes and Messages
+      - Nothing
+      - Other
+      required: false
+    - id: 14
+      name: least_favorite_a
+      label: What Could Option A Improve
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pacing
+      - Character Development
+      - Plot
+      - Dialogue
+      - Animation
+      - Sound Design
+      - Ending
+      - Nothing
+      - Other
+      required: false
+    - id: 15
+      name: least_favorite_b
+      label: What Could Option B Improve
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pacing
+      - Character Development
+      - Plot
+      - Dialogue
+      - Animation
+      - Sound Design
+      - Ending
+      - Nothing
+      - Other
+      required: false
+    - id: 16
+      name: overall_favorite
+      label: What Is Your All-Time Favorite Animated Feature
+      hint: Any studio any year
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: favorite_studio
+      label: Favorite Animation Studio
+      hint: null
+      type: select_one
+      options:
+      - Disney
+      - Pixar
+      - DreamWorks
+      - Studio Ghibli
+      - Warner Bros
+      - Illumination
+      - Blue Sky
+      - Laika
+      - Sony Pictures Animation
+      - A24
+      - Other
+      - No Preference
+      required: false
+    - id: 18
+      name: preferred_era
+      label: Preferred Animation Era
+      hint: null
+      type: select_one
+      options:
+      - Classic - Before 1990
+      - Renaissance - 1990s
+      - Early CGI - 2000s
+      - Modern - 2010s
+      - Current - 2020s
+      - No Preference
+      required: false
+    - id: 19
+      name: viewing_frequency
+      label: How Often Do You Watch Animated Features
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Few Times Per Year
+      - Rarely
+      - First Time Participating
+      required: true
+    - id: 20
+      name: game_engagement
+      label: How Did You Hear About This Game
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend Recommendation
+      - Online Community
+      - Website
+      - Email Newsletter
+      - Other
+      required: false
+    - id: 21
+      name: participate_future
+      label: Would You Like to Participate in Future Rounds
+      hint: null
+      type: select_one
+      options:
+      - Yes - All Rounds
+      - Yes - Selected Rounds
+      - Maybe
+      - No
+      required: true
+    - id: 22
+      name: notification_preference
+      label: How Should We Notify You of Next Round
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Discord
+      - No Notifications
+      required: true
+    - id: 23
+      name: suggest_features
+      label: Would You Like to Suggest Features for Future Games
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Have Suggestions
+      - No Thank You
+      required: false
+    - id: 24
+      name: feature_suggestions
+      label: Feature Suggestions
+      hint: List animated features to include
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: game_feedback
+      label: Any Feedback on the Game Format
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: share_results
+      label: May We Share Your Vote Publicly
+      hint: In results summary
+      type: select_one
+      options:
+      - Yes - Share My Vote
+      - Yes - Share Username Only
+      - No - Keep Private
+      required: true
+    - id: 27
+      name: community_participation
+      label: Would You Like to Join Our Community Discussion
+      hint: Forum or chat group
+      type: select_one
+      options:
+      - Yes - Send Me Link
+      - Already a Member
+      - No Thank You
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false

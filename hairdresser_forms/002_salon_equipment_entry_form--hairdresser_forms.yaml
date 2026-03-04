@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: salon_equip_entry_form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_type_id
+      label: equipment_type_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: brand
+      label: brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: false

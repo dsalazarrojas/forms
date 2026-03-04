@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Health Plan Survey - Adult Medicaid 5.0
+    pages:
+      - id: 1
+        name: plan_info_section
+        label: -- Your Health Plan --
+        hint: Please answer based on your experiences with your current Medicaid plan.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: health_plan_name
+        label: Name of your Medicaid health plan
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: enrollment_duration
+        label: How long have you been enrolled in this plan?
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - More than 2 years
+        required: true
+      - id: 4
+        name: specialist_access
+        label: How often was it easy to get appointments with specialists?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 5
+        name: care_speed
+        label: When you needed care right away, how often did you get it as soon as you needed?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 6
+        name: doctor_choice
+        label: Are you satisfied with the number of doctors you can choose from in your plan?
+        hint: null
+        type: select_one
+        options:
+          - Very Dissatisfied
+          - Dissatisfied
+          - Neutral
+          - Satisfied
+          - Very Satisfied
+        required: true
+      - id: 7
+        name: customer_service_experience
+        label: How often did your health plan's customer service give you the information you needed?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 8
+        name: paperwork_ease
+        label: How often were the forms you had to fill out for your plan easy to complete?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 9
+        name: cost_information
+        label: Did the plan provide clear information about how much you would have to pay for care?
+        hint: null
+        type: select_one
+        options:
+          - Yes, always
+          - Mostly
+          - No, it was confusing
+        required: true
+      - id: 10
+        name: coordination_health_records
+        label: Do you feel your plan helps coordinate your care between different doctors?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: false
+      - id: 11
+        name: medication_coverage_rating
+        label: Rating of your plan's prescription drug coverage
+        hint: null
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 12
+        name: health_plan_rating
+        label: Overall rating of your health plan
+        hint: 0 is worst, 10 is best
+        type: select_one
+        options:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 13
+        name: plan_recommendation
+        label: Would you recommend this health plan to your friends or family?
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 14
+        name: feedback_text
+        label: Please provide any specific feedback about your health plan
+        hint: null
+        type: text
+        options: []
+        required: false

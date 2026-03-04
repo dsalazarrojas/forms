@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Winner Update Form
+    pages:
+    - id: 1
+      name: winner_full_name
+      label: Winner Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contest_name
+      label: Contest Name
+      hint: Name of contest won
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contest_date
+      label: Contest Date
+      hint: Date of contest
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: prize_category
+      label: Prize Category
+      hint: Type of prize won
+      type: select_one
+      options:
+      - Cash Prize
+      - Gift Card
+      - Product Package
+      - Experience
+      - Scholarship
+      - Trophy or Award
+      - Other
+      required: true
+    - id: 5
+      name: prize_tier
+      label: Prize Tier
+      hint: Placement achieved
+      type: select_one
+      options:
+      - First Place
+      - Second Place
+      - Third Place
+      - Runner-up
+      - Honorable Mention
+      - Grand Prize
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address for prize delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor
+      required: true
+    - id: 14
+      name: guardian_name
+      label: Guardian Name
+      hint: If minor, parent or guardian name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guardian_contact
+      label: Guardian Contact
+      hint: Parent or guardian email and phone
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_form_required
+      label: Tax Form Required
+      hint: For prizes over $600
+      type: select_one
+      options:
+      - Yes, I will submit
+      - No, not applicable
+      - Unsure
+      required: true
+    - id: 17
+      name: prize_delivery_preference
+      label: Prize Delivery Preference
+      hint: How should we deliver your prize?
+      type: select_one
+      options:
+      - Mail to address
+      - Pick up in person
+      - Digital delivery
+      - Other
+      required: true
+    - id: 18
+      name: publicity_consent
+      label: Publicity Consent
+      hint: May we use your name and photo for promotion?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I prefer privacy
+      required: true
+    - id: 19
+      name: testimonial_willingness
+      label: Testimonial Willingness
+      hint: Would you provide a testimonial?
+      type: select_one
+      options:
+      - Yes, happy to share
+      - Maybe, contact me
+      - No, thank you
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

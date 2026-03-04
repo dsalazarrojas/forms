@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income And Debt Form
+    pages:
+    - id: 1
+      name: income_1
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: income_2
+      label: monthly_earnings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: debt_1
+      label: total_debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: debt_2
+      label: debt_interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: debt_3
+      label: debt_type
+      hint: null
+      type: select_one
+      options:
+      - Credit cards
+      - Loans
+      - Mortgage
+      required: false
+    - id: 6
+      name: debt_4
+      label: debt_5
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Car loan
+      - Personal loan
+      required: false
+    - id: 7
+      name: debt_5
+      label: debt_6
+      hint: null
+      type: select_multiple
+      options:
+      - Credit cards
+      - Loans
+      required: false
+    - id: 8
+      name: debt_7
+      label: debt_8
+      hint: null
+      type: select_one
+      options:
+      - Cash advance
+      - Home equity
+      required: false
+    - id: 9
+      name: debt_9
+      label: debt_10
+      hint: null
+      type: select_multiple
+      options:
+      - Cash advance
+      - Loans
+      required: false
+    - id: 10
+      name: financial_status_1
+      label: financial_status_1
+      hint: null
+      type: select_one
+      options:
+      - Business is profitable
+      - Business is loss-making
+      required: false
+    - id: 11
+      name: income_3
+      label: income_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: income_4
+      label: income_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: income_5
+      label: income_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: debt_11
+      label: debt_11
+      hint: null
+      type: select_multiple
+      options:
+      - Cash advance
+      - Other
+      required: false
+    - id: 15
+      name: income_6
+      label: income_6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: financial_status_2
+      label: financial_status_2
+      hint: null
+      type: select_one
+      options:
+      - Business is growing
+      - Business is not growing
+      required: false

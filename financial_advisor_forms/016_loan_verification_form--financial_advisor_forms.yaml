@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loan Verification Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''employed'', ''label'': ''employed''}'
+      - '{''id'': 12, ''name'': ''unemployed'', ''label'': ''unemployed''}'
+      - '{''id'': 13, ''name'': ''self_employed'', ''label'': ''self_employed''}'
+      required: true
+    - id: 5
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employment_start_date
+      label: employment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: employment_end_date
+      label: employment_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employment_length
+      label: employment_length
+      hint: null
+      type: number
+      options: []
+      required: false

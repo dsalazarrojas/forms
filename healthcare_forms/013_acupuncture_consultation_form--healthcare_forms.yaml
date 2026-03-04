@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Consultation Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Acupuncture Consultation Request --
+      hint: Please complete this form to prepare for your initial consultation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sex
+      label: Biological Sex
+      hint: Required for TCM diagnostic purposes
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: To assess lifestyle and repetitive strain factors
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_profile_header
+      label: -- Health Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_reason
+      label: What is your primary reason for seeking acupuncture?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: secondary_concerns
+      label: Secondary health concerns or symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: energy_levels
+      label: General Energy Levels (1-10)
+      hint: 1 = Very low, 10 = High energy
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Insomnia
+      required: true
+    - id: 11
+      name: stress_levels
+      label: General Stress Levels
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Extreme
+      required: true
+    - id: 12
+      name: systems_review_header
+      label: -- Systems Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: digestive_health
+      label: Digestive Health
+      hint: Describe any issues (bloating, appetite, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: circulation_issues
+      label: Do you experience cold hands or feet?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (Always)
+      - Yes (Sometimes)
+      required: false
+    - id: 15
+      name: current_treatments
+      label: Other therapies or treatments currently receiving
+      hint: e.g. Physio, Chiropractic, Psychotherapy
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_consult_date
+      label: Preferred Date for Consultation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: discovery_source
+      label: How did you hear about our acupuncture services?
+      hint: null
+      type: text
+      options: []
+      required: false

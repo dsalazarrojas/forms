@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Wreath Order Form
+    pages:
+    - id: 1
+      name: holiday_wreath_order_form_page
+      label: Order Wreath
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - FL
+      - GA
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - TN
+      - TX
+      - UT
+      - VA
+      - WA
+      - WI
+      - WV
+      required: false
+    - id: 5
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 7
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Cancel
+      - Save Changes - Preview
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insulin Pump Settings Worksheet
+    pages:
+    - id: 1
+      name: insulin_pump_model
+      label: Insulin Pump Model
+      hint: null
+      type: select_one
+      options:
+      - Medtronic
+      - Animas
+      - Omron
+      - MiniMed 670G
+      - other
+      required: false
+    - id: 2
+      name: basal_settings
+      label: Basal Settings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: basal_rate
+      label: Basal Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: basal_rate_unit
+      label: Basal Rate Unit
+      hint: null
+      type: select_one
+      options:
+      - U/h
+      - U/hour
+      - U/hr
+      - U/Hour
+      required: false
+    - id: 5
+      name: bolus_settings
+      label: Bolus Settings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: bolus_dose
+      label: Bolus Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: bolus_frequency
+      label: Bolus Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 4 hours
+      - Every 6 hours
+      - Every 8 hours
+      - Every 12 hours
+      required: false
+    - id: 8
+      name: bolus_amount
+      label: Bolus Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: bolus_duration
+      label: Bolus Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: basal_insulin_delivery
+      label: Basal Insulin Delivery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: basal_insulin_delivery_time
+      label: Basal Insulin Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: basal_insulin_delivery_frequency
+      label: Basal Insulin Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 4 hours
+      - Every 6 hours
+      - Every 8 hours
+      - Every 12 hours
+      required: false
+    - id: 14
+      name: basal_insulin_delivery_amount
+      label: Basal Insulin Delivery Amount
+      hint: null
+      type: number
+      options: []
+      required: false

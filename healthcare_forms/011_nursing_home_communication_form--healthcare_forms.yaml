@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Home Communication Form
+    pages:
+    - id: 1
+      name: resident_information
+      label: Resident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resident_plan_of_care
+      label: Plan Of Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_plan_of_care_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_care_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider_contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: healthcare_provider_specialization
+      label: Specialization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: configurable_list
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: configurable_list_item
+      label: Item 1
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: fundraising_volunteer_registration_form
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_shirts
+      label: Volunteer Shirts
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''S''}'
+      - '{''label'': ''M''}'
+      - '{''label'': ''L''}'
+      required: false
+    - id: 6
+      name: volunteer_hoodies
+      label: Volunteer Hoodies
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''S''}'
+      - '{''label'': ''M''}'
+      - '{''label'': ''L''}'
+      required: false
+    - id: 7
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_hours_earned
+      label: Volunteer Hours Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_hours_available
+      label: Volunteer Hours Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_hours_conflict
+      label: Volunteer Hours Conflict
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

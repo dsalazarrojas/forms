@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Coffee Blend Quality Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit date
+      hint: Date of tasting
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: blend_tested
+      label: Blend tested
+      hint: Name or code of blend
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: aroma_rating
+      label: Aroma rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: flavor_rating
+      label: Flavor rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: mouthfeel_rating
+      label: Mouthfeel rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: overall_preference
+      label: Overall preference
+      hint: Would you purchase this blend
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 8
+      name: tasting_notes
+      label: Tasting notes
+      hint: Flavors and characteristics observed
+      type: text
+      options: []
+      required: false

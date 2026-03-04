@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noodle Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Noodle Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: noodle_1
+      label: Noodle 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: price_1
+      label: Noodle 1 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: image_1
+      label: Noodle 1 Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: noodle_2
+      label: Noodle 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: price_2
+      label: Noodle 2 Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: image_2
+      label: Noodle 2 Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorize.net
+      - Square
+      - Braintree
+      - Braintree Payments
+      - First Data
+      - CyberSource
+      - CyberSource Payments
+      - Worldpay
+      - Worldpay Payment
+      - Bango
+      - Bango Payments
+      - Bango Gateway
+      - Bango Payment
+      - Stripe
+      - Stripe Payments
+      - Stripe Gateway
+      - Stripe Payment
+      - PayPal
+      - PayPal Payments
+      - PayPal Gateway
+      - PayPal Payment
+      - Authorize.net
+      - Authorize.net Payments
+      - Authorize.net Gateway
+      - Authorize.net Payment
+      - Square
+      - Square Payments
+      - Square Gateway
+      - Square Payment
+      - Braintree
+      - Braintree Payments
+      - Braintree Gateway
+      - Braintree Payment
+      - First Data
+      - First Data Payments
+      - First Data Gateway
+      - First Data Payment
+      - CyberSource
+      - CyberSource Payments
+      - CyberSource Gateway
+      - CyberSource Payment
+      - Worldpay
+      - Worldpay Payments
+      - Worldpay Gateway
+      - Worldpay Payment
+      - Bango
+      - Bango Payments
+      - Bango Gateway
+      - Bango Payment
+      required: false

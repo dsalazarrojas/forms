@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_hygiene_course_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: TrainersName
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_name
+      label: ParticipantsName
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: food_safety_principles
+      label: FoodSafetyPrinciples
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: food_hygiene_practices
+      label: FoodHygienePractices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: training_gaps
+      label: TrainingGaps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: food_safety_procedures
+      label: FoodSafetyProcedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assessment_date
+      label: AssessmentDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_comments
+      label: ParticipantComments
+      hint: null
+      type: text
+      options: []
+      required: false

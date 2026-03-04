@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake For Financial Recovery
+    pages:
+    - id: 1
+      name: header
+      label: -- Financial Recovery Intake --
+      hint: This form collects information to help plan a recovery strategy
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: client full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: For identity verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: Preferred email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact phone
+      hint: Best phone number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: employment status
+      hint: Current employment or income source
+      type: select_one
+      options:
+      - Employed full time
+      - Employed part time
+      - Self employed
+      - Unemployed
+      - Retired
+      required: true
+    - id: 7
+      name: monthly_income
+      label: gross monthly income
+      hint: Estimate in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_debt
+      label: total outstanding debt
+      hint: Total amount owed across accounts
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: primary_goals
+      label: primary goals for financial recovery
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reduce monthly payments
+      - Debt consolidation
+      - Improve credit score
+      - Avoid bankruptcy
+      - Repayment plan
+      required: true
+    - id: 10
+      name: prior_advice_received
+      label: prior financial advice received
+      hint: Has the client worked with a counselor or advisor before
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: preferred_contact_time
+      label: preferred contact time
+      hint: Best time of day for consultations
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: initial_consultation_date
+      label: preferred date for initial consultation
+      hint: Optional desired appointment date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: additional notes
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

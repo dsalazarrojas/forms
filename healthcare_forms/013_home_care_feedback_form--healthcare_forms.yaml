@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Feedback Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: care_provider
+      label: Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: How would you rate the care you received from your care provider?
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: How would you rate the communication with your care provider?
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: feedback_question_3
+      label: What was the response time to your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

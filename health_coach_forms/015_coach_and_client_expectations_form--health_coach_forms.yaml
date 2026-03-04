@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach And Client Expectations Form
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Name
+      hint: Full name of the coach
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: Client contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: coaching_type
+      label: Type of Coaching
+      hint: What type of coaching services
+      type: select_one
+      options:
+      - Health Coaching
+      - Wellness Coaching
+      - Nutrition Coaching
+      - Fitness Coaching
+      - Life Coaching
+      - Career Coaching
+      - Holistic Coaching
+      required: true
+    - id: 8
+      name: session_frequency
+      label: Session Frequency
+      hint: How often will you meet
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed
+      - Intensive Program
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: Length of each session
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - 120 Minutes
+      required: true
+    - id: 10
+      name: session_format
+      label: Session Format
+      hint: How will sessions be conducted
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 11
+      name: coaching_goals
+      label: Primary Coaching Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_responsibilities
+      label: Client Responsibilities
+      hint: What the client agrees to do
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: coach_responsibilities
+      label: Coach Responsibilities
+      hint: What the coach agrees to provide
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: communication_expectations
+      label: Communication Expectations
+      hint: How will you communicate between sessions
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: response_time
+      label: Expected Response Time
+      hint: How quickly should you respond
+      type: select_one
+      options:
+      - Within 24 Hours
+      - Within 48 Hours
+      - Within 72 Hours
+      - Business Days Only
+      - Urgent Only
+      required: true
+    - id: 16
+      name: cancellation_policy
+      label: Cancellation Policy Agreement
+      hint: You understand cancellation terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 17
+      name: cancellation_notice
+      label: Required Cancellation Notice
+      hint: How much notice is required
+      type: select_one
+      options:
+      - 12 Hours
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: When is payment due
+      type: select_one
+      options:
+      - Per Session in Advance
+      - Per Session After
+      - Monthly Package
+      - Quarterly Package
+      - Pay As You Go
+      required: true
+    - id: 19
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Both parties agree to privacy
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 20
+      name: boundaries_understanding
+      label: Professional Boundaries Understood
+      hint: You understand coach-client boundaries
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 21
+      name: progress_tracking
+      label: How Will Progress Be Tracked
+      hint: Method for measuring success
+      type: select_one
+      options:
+      - Regular Assessments
+      - Goal Milestones
+      - Journal Reviews
+      - Check-In Calls
+      - Informal Discussion
+      required: false
+    - id: 22
+      name: homework_expectations
+      label: Homework or Between-Session Work
+      hint: Expectations for work between sessions
+      type: select_one
+      options:
+      - Daily Tasks Expected
+      - Weekly Tasks Expected
+      - Occasional Assignments
+      - Self-Directed Only
+      - No Homework
+      required: true
+    - id: 23
+      name: commitment_level
+      label: Client Commitment Level
+      hint: How committed are you to this process
+      type: select_one
+      options:
+      - Fully Committed
+      - Very Committed
+      - Moderately Committed
+      - Exploring Options
+      required: true
+    - id: 24
+      name: potential_obstacles
+      label: Potential Obstacles to Success
+      hint: What might get in your way
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: support_system
+      label: Support System Available
+      hint: Do you have support outside coaching
+      type: select_one
+      options:
+      - Strong Support System
+      - Some Support
+      - Limited Support
+      - No Support System
+      required: false
+    - id: 26
+      name: start_date
+      label: Coaching Start Date
+      hint: When does coaching begin
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: agreement_duration
+      label: Agreement Duration
+      hint: How long is the coaching relationship
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - Ongoing
+      required: true
+    - id: 28
+      name: both_parties_agree
+      label: Both Parties Agree to Expectations
+      hint: Coach and client both agree
+      type: select_one
+      options:
+      - Yes We Agree
+      - false
+      required: true
+    - id: 29
+      name: signature_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes or Agreements
+      hint: Any other expectations to note
+      type: text
+      options: []
+      required: false

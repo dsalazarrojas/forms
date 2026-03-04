@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Specialist Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac
+      - Pulmonary
+      - Gastrointestinal
+      - Musculoskeletal
+      - Neurologic
+      - Oncologic
+      - Psychiatric
+      - Vascular
+      required: true
+    - id: 3
+      name: referral_info
+      label: Referral Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: surgical_info
+      label: Surgical Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: Patient Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 9
+      name: signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_info
+      label: Healthcare Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature_image
+      label: Patient Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false

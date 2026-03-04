@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: School Lunch Order Form
+    pages:
+    - id: 1
+      name: school_lunch_order_form_page_1
+      label: School Lunch Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_lunch_order_form_page_2
+      label: Select Main Course
+      hint: Choose main course
+      type: select_one
+      options:
+      - '{''label'': ''Grilled Chicken Sandwich'', ''value'': 1}'
+      - '{''label'': ''Pizza'', ''value'': 2}'
+      - '{''label'': ''Salad'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: school_lunch_order_form_page_3
+      label: Select Side
+      hint: Choose side
+      type: select_multiple
+      options:
+      - '{''label'': ''Carrot Sticks'', ''value'': 1}'
+      - '{''label'': ''Chips'', ''value'': 2}'
+      - '{''label'': ''Apple'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: school_lunch_order_form_page_4
+      label: Select Juice
+      hint: Choose juice
+      type: select_one
+      options:
+      - '{''label'': ''Apple'', ''value'': 1}'
+      - '{''label'': ''Orange'', ''value'': 2}'
+      - '{''label'': ''Cranberry'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: school_lunch_order_form_page_5
+      label: Select Fruit
+      hint: Choose fruit
+      type: select_multiple
+      options:
+      - '{''label'': ''Apple'', ''value'': 1}'
+      - '{''label'': ''Banana'', ''value'': 2}'
+      - '{''label'': ''Grapes'', ''value'': 3}'
+      required: false

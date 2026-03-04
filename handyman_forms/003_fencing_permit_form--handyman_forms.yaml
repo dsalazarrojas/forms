@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fencing Permit Form
+    pages:
+    - id: 1
+      name: application_name
+      label: Application Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: permit_type_options
+      label: Permit Type Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: permit_cost
+      label: Permit Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: zoning_regulations
+      label: Zoning Regulations
+      hint: null
+      type: text
+      options: []
+      required: false

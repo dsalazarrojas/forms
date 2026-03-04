@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occupational Therapy Appointment Form
+    pages:
+    - id: 1
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Rescheduled
+      - Canceled
+      required: false
+    - id: 9
+      name: appointment_reason
+      label: Appointment Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Pre-Existing Condition
+      - New Condition
+      - Other
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Insurance
+      - Other
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: therapist_email
+      label: Therapist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: therapist_phone
+      label: Therapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appointment_date_2
+      label: Appointment Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: appointment_time_2
+      label: Appointment Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: payment_method_2
+      label: Payment Method 2
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Insurance
+      - Other
+      required: false
+    - id: 23
+      name: payment_amount_2
+      label: Payment Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

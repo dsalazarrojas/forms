@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Plant Order Form
+    pages:
+    - id: 1
+      name: plant_order_form
+      label: Online Plant Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Info
+      hint: Please enter payment details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plant_details
+      label: Plant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Select payment method
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''paypal'', ''label'': ''PayPal''}'
+      - '{''id'': 7, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 8, ''name'': ''stripe'', ''label'': ''Stripe''}'
+      - '{''id'': 9, ''name'': ''square'', ''label'': ''Square''}'
+      - '{''id'': 10, ''name'': ''authorize_net'', ''label'': ''Authorize.net''}'
+      - '{''id'': 11, ''name'': ''google_pay'', ''label'': ''Google Pay''}'
+      - '{''id'': 12, ''name'': ''apple_pay'', ''label'': ''Apple Pay''}'
+      - '{''id'': 13, ''name'': ''amazon_pay'', ''label'': ''Amazon Pay''}'
+      - '{''id'': 14, ''name'': ''paypal_express_checkout'', ''label'': ''PayPal Express
+        Checkout''}'
+      - '{''id'': 15, ''name'': ''skrill'', ''label'': ''Skrill''}'
+      - '{''id'': 16, ''name'': ''transfer_wise'', ''label'': ''TransferWise''}'
+      - '{''id'': 17, ''name'': ''bank_transfer_euro'', ''label'': ''Bank Transfer
+        Euro''}'
+      - '{''id'': 18, ''name'': ''bank_transfer_usd'', ''label'': ''Bank Transfer
+        USD''}'
+      - '{''id'': 19, ''name'': ''bank_transfer_jpy'', ''label'': ''Bank Transfer
+        JPY''}'
+      - '{''id'': 20, ''name'': ''bank_transfer_cny'', ''label'': ''Bank Transfer
+        CNY''}'
+      - '{''id'': 21, ''name'': ''bank_transfer_cad'', ''label'': ''Bank Transfer
+        CAD''}'
+      - '{''id'': 22, ''name'': ''bank_transfer_aud'', ''label'': ''Bank Transfer
+        AUD''}'
+      - '{''id'': 23, ''name'': ''bank_transfer_gbp'', ''label'': ''Bank Transfer
+        GBP''}'
+      - '{''id'': 24, ''name'': ''bank_transfer_eur'', ''label'': ''Bank Transfer
+        EUR''}'
+      - '{''id'': 25, ''name'': ''bank_transfer_cny'', ''label'': ''Bank Transfer
+        CNY''}'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: Enter address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: plant_name
+      label: Plant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: plant_description
+      label: Plant Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipping_address
+      label: Shipping Address
+      hint: Enter shipping address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipping_city
+      label: Shipping City
+      hint: Enter shipping city
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipping_state
+      label: Shipping State
+      hint: Enter shipping state
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_zipcode
+      label: Shipping Zipcode
+      hint: Enter shipping zipcode
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipping_country
+      label: Shipping Country
+      hint: Enter shipping country
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipping_info
+      label: Shipping Info
+      hint: Enter shipping info
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: plant_image
+      label: Plant Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: note
+      label: Note
+      hint: Enter note
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: email_note
+      label: Email Note
+      hint: Enter email note
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: phone
+      label: Phone
+      hint: Enter phone
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: address
+      label: Address
+      hint: Enter address
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: zip
+      label: Zip
+      hint: Enter zip
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: country
+      label: Country
+      hint: Enter country
+      type: text
+      options: []
+      required: false

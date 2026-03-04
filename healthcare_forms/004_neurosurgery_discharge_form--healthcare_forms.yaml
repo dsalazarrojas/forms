@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neurosurgery Discharge Form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: surgical_procedure
+      label: Surgical Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complications
+      label: Complications
+      hint: null
+      type: select_multiple
+      options:
+      - Complications 1
+      - Complications 2
+      - Complications 3
+      required: false
+    - id: 4
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: surgeon_name
+      label: Surgeon
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: surgical_unit
+      label: Surgical Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: anaesthesia_level
+      label: Anaesthesia Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 9
+      name: anaesthesia_type
+      label: Anaesthesia Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: anaesthesia_dose
+      label: Anaesthesia Dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: facility_licence
+      label: Facility Licence
+      hint: null
+      type: select_one
+      options:
+      - Licence 1
+      - Licence 2
+      - Licence 3
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: fax_number
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent 1
+      - Consent 2
+      - Consent 3
+      required: false
+    - id: 21
+      name: patient_inform
+      label: Patient Inform
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_instructions
+      label: Follow Up Instructions
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up 1
+      - Follow up 2
+      - Follow up 3
+      required: false
+    - id: 23
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

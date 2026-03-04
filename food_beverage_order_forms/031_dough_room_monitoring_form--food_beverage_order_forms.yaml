@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dough Room Monitoring Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Dough_room_monitoring_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: room_temperature
+      label: room_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ingredient_level
+      label: ingredient_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_state
+      label: equipment_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

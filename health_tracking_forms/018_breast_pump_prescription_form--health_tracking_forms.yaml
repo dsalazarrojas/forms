@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Pump Prescription Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_id
+      label: Insurance Member ID
+      hint: Policy or member ID number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: group_number
+      label: Insurance Group Number
+      hint: Group number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prescription_date
+      label: Date of Prescription
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_date_needed
+      label: Date Pump Needed By
+      hint: When does patient need the pump
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: pumping_status
+      label: Current Breastfeeding Status
+      hint: Patient's breastfeeding situation
+      type: select_one
+      options:
+      - Exclusively breastfeeding
+      - Combination breast and formula
+      - Exclusively pumping
+      - Recently started breastfeeding
+      - Returning to work
+      required: true
+    - id: 10
+      name: pump_type_prescribed
+      label: Type of Pump Prescribed
+      hint: Recommended pump category
+      type: select_one
+      options:
+      - Single electric pump
+      - Double electric pump
+      - Hospital-grade pump
+      - Portable pump
+      - Manual pump
+      - Wearable pump
+      required: true
+    - id: 11
+      name: specific_model
+      label: Specific Pump Model
+      hint: If specific model is prescribed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rental_vs_purchase
+      label: Rental or Purchase
+      hint: Is this a rental or purchase
+      type: select_one
+      options:
+      - Rental
+      - Purchase
+      - Insurance will determine
+      required: true
+    - id: 13
+      name: rental_duration
+      label: Rental Duration if Applicable
+      hint: Length of rental period needed
+      type: select_one
+      options:
+      - 1 month
+      - 2 months
+      - 3 months
+      - 6 months
+      - 12 months
+      - As long as needed
+      required: false
+    - id: 14
+      name: medical_necessity
+      label: Medical Necessity Reason
+      hint: Clinical reason for prescription
+      type: select_one
+      options:
+      - Infant unable to breastfeed
+      - Maternal separation from infant
+      - Insufficient milk supply management
+      - Maternal health condition
+      - Returning to work or school
+      - Exclusive pumping choice
+      - Other
+      required: true
+    - id: 15
+      name: accessories_included
+      label: Accessories to Include
+      hint: Select any accessories needed
+      type: select_multiple
+      options:
+      - Extra bottles
+      - Flanges - different sizes
+      - Storage bags
+      - Cooler bag
+      - Replacement tubing
+      - Cleaning kit
+      - Hands-free bra
+      - All standard accessories
+      required: false
+    - id: 16
+      name: flange_size
+      label: Flange Size
+      hint: If known, specify flange size
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supplier_preference
+      label: Preferred Supplier
+      hint: Any supplier preference
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_notes
+      label: Billing Information
+      hint: Special billing instructions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physician_name
+      label: Prescribing Physician Name
+      hint: Name of healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: physician_contact
+      label: Physician Contact Information
+      hint: Phone or fax number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: clinic_name
+      label: Clinic or Practice Name
+      hint: Healthcare facility name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false

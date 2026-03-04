@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_wellness_checkup_form
+    pages:
+    - id: 1
+      name: medical_organization
+      label: Medical Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_doctor
+      label: Medical Doctor
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''doctor1''}'
+      - '{''name'': ''doctor2''}'
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height_in_feet
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''AL''}'
+      - '{''name'': ''AK''}'
+      - '{''name'': ''AZ''}'
+      - '{''name'': ''AR''}'
+      - '{''name'': ''CA''}'
+      - '{''name'': ''CO''}'
+      - '{''name'': ''CT''}'
+      - '{''name'': ''DE''}'
+      - '{''name'': ''FL''}'
+      - '{''name'': ''GA''}'
+      - '{''name'': ''HI''}'
+      - '{''name'': ''ID''}'
+      - '{''name'': ''IL''}'
+      - '{''name'': ''IN''}'
+      - '{''name'': ''IA''}'
+      - '{''name'': ''KS''}'
+      - '{''name'': ''KY''}'
+      - '{''name'': ''LA''}'
+      - '{''name'': ''MA''}'
+      - '{''name'': ''MD''}'
+      - '{''name'': ''ME''}'
+      - '{''name'': ''MI''}'
+      - '{''name'': ''MN''}'
+      - '{''name'': ''MS''}'
+      - '{''name'': ''MO''}'
+      - '{''name'': ''MT''}'
+      - '{''name'': ''NE''}'
+      - '{''name'': ''NV''}'
+      - '{''name'': ''NH''}'
+      - '{''name'': ''NJ''}'
+      - '{''name'': ''NM''}'
+      - '{''name'': ''NY''}'
+      - '{''name'': ''NC''}'
+      - '{''name'': ''OH''}'
+      - '{''name'': ''OK''}'
+      - '{''name'': ''OR''}'
+      - '{''name'': ''PA''}'
+      - '{''name'': ''RI''}'
+      - '{''name'': ''SC''}'
+      - '{''name'': ''SD''}'
+      - '{''name'': ''TN''}'
+      - '{''name'': ''TX''}'
+      - '{''name'': ''UT''}'
+      - '{''name'': ''VA''}'
+      - '{''name'': ''VT''}'
+      - '{''name'': ''WA''}'
+      - '{''name'': ''WI''}'
+      - '{''name'': ''WV''}'
+      - '{''name'': ''WY''}'
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Phone''}'
+      - '{''name'': ''Email''}'
+      - '{''name'': ''Mail''}'
+      required: false
+    - id: 22
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_of_next_appointment
+      label: Date of Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

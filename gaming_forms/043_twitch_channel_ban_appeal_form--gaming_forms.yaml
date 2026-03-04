@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Twitch Channel Ban Appeal Form
+    pages:
+    - id: 1
+      name: channel_details
+      label: What is the channel id for the banned user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_ban
+      label: What was the reason for the ban?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ban_details
+      label: Please describe the ban in detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appeal_details
+      label: Provide an explanation of why the ban was unfair
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: channel_owner_details
+      label: What is your Discord username?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: channel_owner_email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: channel_owner_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: channel_owner_note
+      label: Additional channel owner notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_reason
+      label: Why was the channel banned?
+      hint: null
+      type: select_one
+      options:
+      - Banned for Harassment
+      - Banned for Spamming
+      - Banned for Hateful Speech
+      - Banned for Inactivity
+      - Banned for Inappropriate Content
+      required: false
+    - id: 11
+      name: select_reason_2
+      label: Was this a repeat offender?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: select_reason_3
+      label: Was the ban a result of a moderator?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: date_of_ban
+      label: Date of ban
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_ban
+      label: Time of ban
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: channel_name
+      label: Channel name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: channel_id
+      label: Channel ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: channel_tags
+      label: Channel Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: channel_url
+      label: Channel URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: channel_ban_reasons
+      label: Channel Ban Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: channel_ban_count
+      label: Channel Ban Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: channel_ban_date
+      label: Channel Ban Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: channel_ban_time
+      label: Channel Ban Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: channel_ban_reason
+      label: Channel Ban Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: channel_who_banned
+      label: Who Banned The Channel?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: channel_what_to_do
+      label: What to do after being unbanned?
+      hint: null
+      type: text
+      options: []
+      required: false

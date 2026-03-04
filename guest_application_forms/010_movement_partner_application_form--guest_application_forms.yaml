@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movement Partner Application Form
+    pages:
+    - id: 1
+      name: user_inputs
+      label: user-inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_inputs
+      label: partner-inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motivations
+      label: motivations
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: areas_of_interest
+      label: areas-of-interest
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: collaboration_requests
+      label: collaboration-requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_date
+      label: review-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_time
+      label: review-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: review_comments
+      label: review-comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: review_approvals
+      label: review-approvals
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: review_status
+      label: review-status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: review_actions
+      label: review-actions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: submission-date
+      hint: null
+      type: date
+      options: []
+      required: false

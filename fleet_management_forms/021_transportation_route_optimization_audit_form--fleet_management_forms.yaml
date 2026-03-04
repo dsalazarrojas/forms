@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Route Optimization Audit Form
+    pages:
+    - id: 1
+      name: route_description
+      label: Route Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route_name
+      label: Route Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: route_length
+      label: Route Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: route_distance
+      label: Route Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: route_type
+      label: Route Type
+      hint: null
+      type: select_one
+      options:
+      - Less Than 50 km
+      - 50-100 km
+      - 100-200 km
+      - More than 200 km
+      required: false
+    - id: 6
+      name: route_frequency
+      label: Route Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Less Than 1 time per month
+      - 1 time per month
+      - 2-3 times per month
+      - 4-6 times per month
+      - More than 6 times per month
+      required: false
+    - id: 7
+      name: optimal_route
+      label: Optimal Route
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: route_status
+      label: Route Status
+      hint: null
+      type: select_one
+      options:
+      - Inactive
+      - Active
+      - Cancelled
+      required: true
+    - id: 11
+      name: route_comment
+      label: Route Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: route_vehicles
+      label: Route Vehicles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: route_drivers
+      label: Route Drivers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: route_frequency_notes
+      label: Route Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: route_status_comments
+      label: Route Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: route_optimization_notes
+      label: Route Optimization Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: route_issues
+      label: Route Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: route_improvement_plan
+      label: Route Improvement Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: route_review
+      label: Route Review
+      hint: null
+      type: text
+      options: []
+      required: false

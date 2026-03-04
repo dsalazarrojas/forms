@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Subconscious Tracker Form
+    pages:
+    - id: 1
+      name: daily_thoughts
+      label: Thoughts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vivid_dreams
+      label: Vivid Dreams
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      - '{''label'': ''Other (explain in notes)''}'
+      required: false
+    - id: 3
+      name: anxious_thoughts
+      label: Anxious Thoughts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: daily_activities
+      label: Daily Activities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: wake_time
+      label: Wake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''tag1''}'
+      - '{''label'': ''tag2''}'
+      - '{''label'': ''tag3''}'
+      required: false
+    - id: 9
+      name: tags_other
+      label: Other tags
+      hint: null
+      type: text
+      options: []
+      required: false

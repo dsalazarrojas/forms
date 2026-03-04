@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_business_credit_application_form
+    pages:
+    - id: 1
+      name: business_details
+      label: Business details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_details
+      label: Business owner details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: credit_request
+      label: Credit request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_finances
+      label: Business finances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan term
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''6-12 months''}'
+      - '{''option'': 2, ''label'': ''1-2 years''}'
+      - '{''option'': 3, ''label'': ''2-5 years''}'
+      required: true
+    - id: 7
+      name: interest_rate
+      label: Interest rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_frequency
+      label: Payment frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': 1, ''label'': ''Monthly''}'
+      - '{''option'': 2, ''label'': ''Quarterly''}'
+      - '{''option'': 3, ''label'': ''Semi-annually''}'
+      - '{''option'': 4, ''label'': ''Annually''}'
+      required: true
+    - id: 9
+      name: credit_score
+      label: Credit score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: business_type
+      label: Business type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''Limited liability partnership''}'
+      - '{''option'': 2, ''label'': ''Corporation''}'
+      - '{''option'': 3, ''label'': ''Sole proprietorship''}'
+      - '{''option'': 4, ''label'': ''Partnership''}'
+      required: true
+    - id: 11
+      name: business_age
+      label: Business age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: business_experience
+      label: Business experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: owner_experience
+      label: Owner experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: owner_education
+      label: Owner education
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''High school''}'
+      - '{''option'': 2, ''label'': ''College''}'
+      - '{''option'': 3, ''label'': ''Some college''}'
+      - '{''option'': 4, ''label'': ''Graduate school''}'
+      required: true
+    - id: 15
+      name: owner_address
+      label: Owner address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_email
+      label: Owner email
+      hint: Business owner email address
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: owner_phone
+      label: Owner phone
+      hint: Business owner phone number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: business_email
+      label: Business email
+      hint: Business email address
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: business_phone
+      label: Business phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tax_id
+      label: Tax ID
+      hint: Business tax ID
+      type: select_one
+      options:
+      - '{''option'': 1, ''label'': ''EIN''}'
+      - '{''option'': 2, ''label'': ''SSN''}'
+      required: true
+    - id: 21
+      name: business_location
+      label: Business location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_location
+      label: Owner location
+      hint: null
+      type: text
+      options: []
+      required: false

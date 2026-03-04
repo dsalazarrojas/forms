@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly QAPI Meeting Feedback Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: staff_present
+      label: staff_present
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_questions
+      label: Feedback Questions
+      hint: Please provide clear and concise feedback.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: On a scale of 1-5, how satisfied are you with this quarter's meeting?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meeting_effectiveness
+      label: Meeting Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: Please provide your feedback here.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_item_1
+      label: Action Item 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_item_2
+      label: Action Item 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_item_3
+      label: Action Item 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_item_4
+      label: Action Item 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_item_5
+      label: Action Item 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_item_6
+      label: Action Item 6
+      hint: null
+      type: text
+      options: []
+      required: false

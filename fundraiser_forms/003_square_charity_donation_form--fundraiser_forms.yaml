@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Square Charity Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One Time''}'
+      - '{''value'': ''Ongoing''}'
+      - '{''value'': ''Recurring''}'
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Account''}'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donation_comment
+      label: Donation Comment
+      hint: null
+      type: note
+      options: []
+      required: false

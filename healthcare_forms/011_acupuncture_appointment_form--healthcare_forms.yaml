@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Appointment Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_header
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Initial Assessment and Treatment
+      - Follow-up Treatment
+      - Express Treatment (30 mins)
+      - Cupping Only Session
+      required: true
+    - id: 7
+      name: preferred_practitioner
+      label: Preferred Practitioner
+      hint: null
+      type: select_one
+      options:
+      - No Preference
+      - Dr. Chen
+      - Dr. Smith
+      - Dr. Lee
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: appointment_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: health_summary_header
+      label: -- Brief Health Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_complaint
+      label: Primary Reason for Visit
+      hint: Briefly describe what you would like to address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: symptom_duration
+      label: Duration of Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-6 months
+      - Chronic (Over 6 months)
+      required: true
+    - id: 13
+      name: pain_scale
+      label: Current Pain Level (0-10)
+      hint: 0 = No pain, 10 = Severe pain
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pregnancy_status
+      label: Are you currently pregnant?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 15
+      name: cancellation_policy
+      label: I acknowledge the 24-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - Other
+      required: true

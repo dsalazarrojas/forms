@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: digitalHealthAccessibilityEvaluationForm
+    pages:
+    - id: 1
+      name: userinformation
+      label: User Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: platforminformation
+      label: Platform Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: accessibilitychecklist
+      label: Accessibility Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

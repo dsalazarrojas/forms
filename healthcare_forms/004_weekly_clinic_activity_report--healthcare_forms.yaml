@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Clinic Activity Report
+    pages:
+    - id: 1
+      name: clinic_location
+      label: Clinic Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staffing_notes
+      label: Staffing Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_activity
+      label: Service Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: clinic_notes
+      label: Clinic Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_visits
+      label: Patient Visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'Yes'
+      required: false
+    - id: 8
+      name: lab_ordering
+      label: Lab Ordering
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      required: false
+    - id: 9
+      name: lab_results_due_date
+      label: Lab Results Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lab_results_received_date
+      label: Lab Results Received Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: lab_results_status
+      label: Lab Results Status
+      hint: null
+      type: select_one
+      options:
+      - Not Received
+      - Received
+      required: false
+    - id: 12
+      name: lab_results_note
+      label: Lab Results Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 14
+      name: billing_comments
+      label: Billing Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_due_date
+      label: Billing Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: billing_amount
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: billing_note
+      label: Billing Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Not Paid
+      - In Progress
+      - Paid
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Online Payment
+      required: false
+    - id: 21
+      name: payment_notes
+      label: Payment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_count
+      label: Patient Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: staff_count
+      label: Staff Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

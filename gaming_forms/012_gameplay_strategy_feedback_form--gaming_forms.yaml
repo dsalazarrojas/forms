@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gameplay Strategy Feedback Form
+    pages:
+    - id: 1
+      name: playstyle
+      label: What is your preferred playstyle?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 2
+      name: gamemode
+      label: What game mode do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: performance
+      label: How would you rate your performance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Share any additional comments or feedback.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

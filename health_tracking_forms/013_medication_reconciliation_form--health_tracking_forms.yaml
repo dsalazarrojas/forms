@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Reconciliation Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_name
+      label: medication name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_dose
+      label: medication dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medication_frequency
+      label: medication frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_route
+      label: medication route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_start_date
+      label: medication start date
+      hint: null
+      type: date
+      options: []
+      required: false

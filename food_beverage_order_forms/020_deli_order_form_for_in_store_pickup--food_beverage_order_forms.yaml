@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Deli Order Form For In Store Pickup
+    pages:
+    - id: 1
+      name: main_page
+      label: Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_section_1
+      label: Sandwiches
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3, ''name'': ''turkey-sandwich'', ''label'': ''Turkey Sandwich'',
+        ''required'': True}'
+      - '{''id'': 4, ''name'': ''ham-sandwich'', ''label'': ''Ham Sandwich'', ''required'':
+        False}'
+      - '{''id'': 5, ''name'': ''chicken-sandwich'', ''label'': ''Chicken Sandwich'',
+        ''required'': False}'
+      required: false
+    - id: 3
+      name: main_page_section_2
+      label: Salads
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 7, ''name'': ''garden-salad'', ''label'': ''Garden Salad'', ''required'':
+        True}'
+      - '{''id'': 8, ''name'': ''caesar-salad'', ''label'': ''Caesar Salad'', ''required'':
+        False}'
+      required: false
+    - id: 4
+      name: main_page_section_3
+      label: Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''water'', ''label'': ''Water'', ''required'': False}'
+      - '{''id'': 11, ''name'': ''soda'', ''label'': ''Soda'', ''required'': False}'
+      required: false
+    - id: 5
+      name: main_page_section_4
+      label: Pickup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

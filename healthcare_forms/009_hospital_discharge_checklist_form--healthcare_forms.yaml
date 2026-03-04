@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Checklist Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: prophets_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prophets_date_of_birthday
+      label: patient_date_of_birthday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: discharge_time
+      label: discharge_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medical_status
+      label: medical_status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Critical
+      - Unstable
+      - Unknown
+      required: false
+    - id: 7
+      name: discharge_location
+      label: discharge_location
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Home
+      - Clinic
+      - Other
+      required: false
+    - id: 8
+      name: follow_up_info
+      label: follow_up_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_status
+      label: discharge_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Partial
+      - None
+      - Unknown
+      required: false
+    - id: 10
+      name: discharge_summary
+      label: discharge_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - Medication 1
+      - Medication 2
+      - Medication 3
+      - Other
+      required: false
+    - id: 12
+      name: medical_team
+      label: medical_team
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Therapist
+      - Other
+      required: false
+    - id: 13
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: discharge_destination
+      label: discharge_destination
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Home
+      - Clinic
+      - Other
+      required: false
+    - id: 16
+      name: discharge_destination_other
+      label: discharge_destination_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: discharge_location_other
+      label: discharge_location_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: number
+      options: []
+      required: false

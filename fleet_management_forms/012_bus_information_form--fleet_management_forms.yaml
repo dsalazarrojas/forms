@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Information Form
+    pages:
+    - id: 1
+      name: route_info
+      label: Route Information
+      hint: Details about the bus route
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: route_number
+      label: Route Number
+      hint: Route identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: route_name
+      label: Route Name
+      hint: Name or description of the route
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: route_type
+      label: Route Type
+      hint: Type of route service
+      type: select_one
+      options:
+      - School Route
+      - City Transit
+      - Shuttle Service
+      - Charter
+      - Intercity
+      - Express
+      - Local
+      required: true
+    - id: 5
+      name: start_location
+      label: Start Location
+      hint: Starting point of route
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: end_location
+      label: End Location
+      hint: Final destination
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: schedule_info
+      label: Schedule Information
+      hint: Timing details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: departure_time
+      label: Departure Time
+      hint: First departure time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: arrival_time
+      label: Arrival Time
+      hint: Final arrival time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: frequency
+      label: Service Frequency
+      hint: How often does the bus run
+      type: select_one
+      options:
+      - Every 15 Minutes
+      - Every 30 Minutes
+      - Every Hour
+      - Twice Daily
+      - Once Daily
+      - On Demand
+      required: true
+    - id: 11
+      name: days_of_operation
+      label: Days of Operation
+      hint: Which days does this route operate
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 12
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Bus details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: bus_number
+      label: Bus Number
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bus_model
+      label: Bus Model
+      hint: Make and model
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: bus_year
+      label: Bus Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: seating_capacity
+      label: Seating Capacity
+      hint: Number of seats
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: wheelchair_accessible
+      label: Wheelchair Accessible
+      hint: Is the bus wheelchair accessible
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: driver_info
+      label: Driver Information
+      hint: Assigned driver details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: primary_driver
+      label: Primary Driver
+      hint: Name of primary driver
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: driver_id
+      label: Driver ID
+      hint: Driver employee ID
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: driver_phone
+      label: Driver Phone
+      hint: Contact number for driver
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: backup_driver
+      label: Backup Driver
+      hint: Name of backup driver
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

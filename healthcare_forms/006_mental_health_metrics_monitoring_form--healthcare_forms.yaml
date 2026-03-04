@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_metrics_monitoring_form
+    pages:
+    - id: 1
+      name: client_data
+      label: Client Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_metrics
+      label: Mental Health Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''Anxiety Level'', ''Depression Level'', ''GAD-7'']}'
+      - Other
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: List any of the following symptoms
+      type: select_multiple
+      options:
+      - '{''options'': [''Headaches'', ''Fatigue'', ''Insomnia'', ''Mood Swings'',
+        ''Concentration Problems'', ''Irritability'', ''Anxiety'', ''Depression'',
+        ''Confusion'', ''Dizziness'', ''Suicidal Thoughts'', ''Suicidal Thoughts with
+        Intent to Act'']}'
+      - Other
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Stable'', ''Improved'', ''Deteriorated'']}'
+      - Other
+      required: false
+    - id: 7
+      name: mental_status_2
+      label: Mental Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Stable'', ''Improved'', ''Deteriorated'']}'
+      - Other
+      required: false

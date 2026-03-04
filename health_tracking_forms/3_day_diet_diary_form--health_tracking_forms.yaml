@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3 Day Diet Diary Form
+    pages:
+    - id: 1
+      name: section_header_day1
+      label: "--- Day 1 Diary ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: day1_date
+      label: Date (Day 1)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: day1_meals
+      label: Meals and approximate times (Day 1)
+      hint: "e.g., Breakfast: oats 08:00; Lunch: salad 12:30"
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: day1_total_calories
+      label: Estimated total calories (Day 1)
+      hint: Leave blank if unknown
+      type: integer
+      options: []
+      required: false
+    - id: 5
+      name: day1_water_glasses
+      label: Water (8oz glasses) consumed (Day 1)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 6
+      name: day1_exercise_minutes
+      label: Exercise minutes (Day 1)
+      hint: Structured exercise only
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: section_header_day2
+      label: "--- Day 2 Diary ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: day2_date
+      label: Date (Day 2)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: day2_meals
+      label: Meals and approximate times (Day 2)
+      hint: e.g., Snacks and beverages included
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: day2_total_calories
+      label: Estimated total calories (Day 2)
+      hint: Leave blank if unknown
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: day2_water_glasses
+      label: Water (8oz glasses) consumed (Day 2)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: day2_exercise_minutes
+      label: Exercise minutes (Day 2)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: section_header_day3
+      label: "--- Day 3 Diary ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: day3_date
+      label: Date (Day 3)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: day3_meals
+      label: Meals and approximate times (Day 3)
+      hint: Include beverages and portion sizes
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: day3_total_calories
+      label: Estimated total calories (Day 3)
+      hint: Leave blank if unknown
+      type: integer
+      options: []
+      required: false
+    - id: 17
+      name: day3_water_glasses
+      label: Water (8oz glasses) consumed (Day 3)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: day3_exercise_minutes
+      label: Exercise minutes (Day 3)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 19
+      name: overall_comments
+      label: Overall notes, reactions, or patterns across three days
+      hint: Mention cravings, digestion issues, or energy changes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_to_use
+      label: Consent to use this diary for diet planning
+      hint: Confidential data used by registered dietitians
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true

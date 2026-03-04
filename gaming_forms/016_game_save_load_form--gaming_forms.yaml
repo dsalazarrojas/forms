@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Save Load Form
+    pages:
+    - id: 1
+      name: game_save_load_form_title
+      label: Game Save Load Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''platform1'', ''label'': ''Platform 1''}'
+      - '{''id'': 2, ''name'': ''platform2'', ''label'': ''Platform 2''}'
+      - '{''id'': 3, ''name'': ''platform3'', ''label'': ''Platform 3''}'
+      required: false
+    - id: 4
+      name: game_version
+      label: Game Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: game_version_notes
+      label: Version Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_id
+      label: Player ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: platform_notes
+      label: Platform Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: save_load_status
+      label: Save Load Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''load'', ''label'': ''Load''}'
+      - '{''id'': 2, ''name'': ''save'', ''label'': ''Save''}'
+      - '{''id'': 3, ''name'': ''both'', ''label'': ''Both''}'
+      required: false
+    - id: 10
+      name: game_save_load_request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_save_load_request_notes
+      label: Request Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assignee_name
+      label: Assignee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assignee_id
+      label: Assignee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: game_save_load_form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''completed'', ''label'': ''Completed''}'
+      - '{''id'': 3, ''name'': ''in_progress'', ''label'': ''In Progress''}'
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: custom_form_fields
+      label: Custom Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: game
+      label: Game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: player_name_2
+      label: Player Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: platform_2
+      label: Platform 2
+      hint: null
+      type: text
+      options: []
+      required: false

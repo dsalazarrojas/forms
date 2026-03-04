@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Response Team Recruitment Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: qualification_section
+      label: -- Professional Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: professional_role
+      label: Current Professional Role
+      hint: null
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Pharmacist
+      - Public health official
+      - Community health worker
+      - Medical assistant
+      - Healthcare administrator
+      - Other
+      required: true
+    - id: 8
+      name: license_number
+      label: Professional License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_state
+      label: License State or Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Healthcare Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vaccination_training
+      label: Prior vaccination training or certification
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, several years ago
+      - false
+      required: true
+    - id: 12
+      name: training_description
+      label: Describe vaccination training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: experience_section
+      label: -- COVID-19 Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: covid_exposure
+      label: Direct COVID-19 patient care experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 15
+      name: vaccination_experience
+      label: COVID-19 vaccination administration experience
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: vaccination_count
+      label: If yes, approximately how many vaccinations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: availability_section
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: full_time_availability
+      label: Full-time availability
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Flexible schedule
+      required: true
+    - id: 19
+      name: hours_per_week
+      label: Hours per week available
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: start_date
+      label: Earliest start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: duration_commitment
+      label: Willing to commit for minimum
+      hint: null
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - Ongoing
+      required: true
+    - id: 22
+      name: skills_section
+      label: -- Additional Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: language_proficiency
+      label: Languages spoken fluently
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Vietnamese
+      - Somali
+      - Other
+      required: true
+    - id: 24
+      name: technology_skills
+      label: Comfortable with electronic health records
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some experience
+      required: true
+    - id: 25
+      name: leadership_skills
+      label: Leadership or supervisory experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: references
+      label: Professional references
+      hint: Provide contact names and numbers
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: background_check
+      label: Willing to undergo background check
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ABA Therapy Eligibility Screening
+    pages:
+    - id: 1
+      name: header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full legal name of the child or adult
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Guardian or caregiver name
+      hint: Primary contact for scheduling
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_concerns
+      label: Primary concerns
+      hint: Brief summary of developmental or behavioral concerns
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_services
+      label: Current services or therapies
+      hint: List ongoing therapies or supports
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: eligibility_criteria_met
+      label: Eligibility criteria met
+      hint: Select criteria that apply
+      type: select_multiple
+      options: [Behavioral concerns,Developmental delay,Functional needs,Other]
+      required: true
+    - id: 8
+      name: medical_history
+      label: Relevant medical history
+      hint: Include diagnoses, medications, and allergies
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: Preferred contact method
+      hint: Choose how we should reach you
+      type: select_one
+      options: [Phone,Email,Text]
+      required: true

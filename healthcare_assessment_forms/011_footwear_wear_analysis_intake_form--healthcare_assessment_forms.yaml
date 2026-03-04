@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Footwear Wear Analysis Intake Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pain_report
+      label: Pain Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''front_left_foot'', ''label'': ''Front Left Foot''}'
+      - '{''id'': 2, ''name'': ''back_left_foot'', ''label'': ''Back Left Foot''}'
+      - '{''id'': 3, ''name'': ''front_right_foot'', ''label'': ''Front Right Foot''}'
+      - '{''id'': 4, ''name'': ''back_right_foot'', ''label'': ''Back Right Foot''}'
+      required: false
+    - id: 4
+      name: gait_assessment
+      label: Gait Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: usage_info
+      label: Usage Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''daily_wear'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''occasional_use'', ''label'': ''Occasional''}'
+      - '{''id'': 3, ''name'': ''rarely'', ''label'': ''Rarely''}'
+      required: false
+    - id: 6
+      name: shoe_wear
+      label: Shoe Wear
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: footwear_preferences
+      label: Footwear Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''custom'', ''label'': ''Custom''}'
+      - '{''id'': 2, ''name'': ''stock'', ''label'': ''Stock''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: follow_up_info
+      label: Follow-Up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shoe_fitting_info
+      label: Shoe Fitting Information
+      hint: null
+      type: text
+      options: []
+      required: false

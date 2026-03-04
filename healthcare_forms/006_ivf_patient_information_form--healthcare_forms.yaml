@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: ivf patient information form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergy
+      label: Allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 121, ''label'': ''I have read and understood the consent form''}'
+      - '{''id'': 122}'
+      - '{''id'': 123, ''label'': ''I have not read and understood the consent form''}'
+      required: true
+    - id: 13
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 131, ''label'': ''Gynecologist''}'
+      - '{''id'': 132, ''label'': ''Urologist''}'
+      - '{''id'': 133, ''label'': ''Cardiologist''}'
+      - '{''id'': 134, ''label'': ''Nephrologist''}'
+      - '{''id'': 135, ''label'': ''Gastroenterologist''}'
+      required: true
+    - id: 14
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 141, ''label'': ''Private Insurance''}'
+      - '{''id'': 142, ''label'': ''Public Insurance''}'
+      - '{''id'': 143, ''label'': ''No Insurance''}'
+      required: true
+    - id: 15
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 151, ''label'': ''Ultrasound''}'
+      - '{''id'': 152, ''label'': ''Blood test''}'
+      - '{''id'': 153, ''label'': ''X-ray''}'
+      required: true
+    - id: 16
+      name: blood_group
+      label: Blood Group
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 161, ''label'': ''A''}'
+      - '{''id'': 162, ''label'': ''B''}'
+      - '{''id'': 163, ''label'': ''AB''}'
+      - '{''id'': 164, ''label'': ''O''}'
+      required: true
+    - id: 17
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_specialist_2
+      label: Doctor Specialist 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_specialist_2
+      label: Medical Specialist 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 221, ''label'': ''Gynecologist 2''}'
+      - '{''id'': 222, ''label'': ''Urologist 2''}'
+      - '{''id'': 223, ''label'': ''Cardiologist 2''}'
+      - '{''id'': 224, ''label'': ''Nephrologist 2''}'
+      - '{''id'': 225, ''label'': ''Gastroenterologist 2''}'
+      required: true
+    - id: 23
+      name: medical_test_2
+      label: Medical Test 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 231, ''label'': ''Ultrasound 2''}'
+      - '{''id'': 232, ''label'': ''Blood test 2''}'
+      - '{''id'': 233, ''label'': ''X-ray 2''}'
+      required: true
+    - id: 24
+      name: medical_specialist_3
+      label: Medical Specialist 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_3
+      label: Medical History 3
+      hint: null
+      type: text
+      options: []
+      required: false

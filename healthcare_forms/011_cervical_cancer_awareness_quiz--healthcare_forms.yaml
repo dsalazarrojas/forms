@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cervical Cancer Awareness Quiz
+    pages:
+    - id: 1
+      name: section_intro_info
+      label: -- Awareness Quiz Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email_address
+      label: Participant Email Address
+      hint: For quiz results and educational resources
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: section_quiz_questions
+      label: -- Quiz Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: quiz_hpv_cause
+      label: Is the Human Papillomavirus (HPV) a common cause of cervical cancer?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 6
+      name: quiz_screening_method
+      label: What is the primary screening test for cervical cancer?
+      hint: null
+      type: select_one
+      options:
+      - Mammogram
+      - Pap Smear (Pap Test)
+      - Colonoscopy
+      - Blood Pressure Check
+      required: true
+    - id: 7
+      name: quiz_prevention_vaccine
+      label: Is there a vaccine available to help prevent cervical cancer?
+      hint: null
+      type: select_one
+      options:
+      - Yes, the HPV vaccine
+      - false
+      - Only for other types of cancer
+      required: true
+    - id: 8
+      name: quiz_symptoms_early_stage
+      label: Does cervical cancer always show symptoms in its early stages?
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - No, it is often asymptomatic early on
+      - Only in older adults
+      required: true
+    - id: 9
+      name: quiz_risk_factors
+      label: Which of the following are known risk factors for cervical cancer?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Smoking
+      - Weakened immune system
+      - Long-term use of oral contraceptives
+      - Family history
+      - Lack of regular screening
+      required: true
+    - id: 10
+      name: quiz_screening_age
+      label: At what age should regular cervical cancer screening typically begin?
+      hint: Based on standard medical guidelines
+      type: select_one
+      options:
+      - Age 13
+      - Age 21
+      - Age 35
+      - Age 50
+      required: true
+    - id: 11
+      name: quiz_frequency_pap
+      label: How often is a Pap test generally recommended for most individuals?
+      hint: Assuming normal previous results
+      type: select_one
+      options:
+      - Every Year
+      - Every 3 Years
+      - Every 5 Years
+      - Every 10 Years
+      required: true
+    - id: 12
+      name: section_knowledge_self_assessment
+      label: -- Knowledge Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: self_confidence_rating
+      label: How confident are you in your knowledge of cervical cancer prevention?
+      hint: Rate from 1 (Not confident) to 5 (Very confident)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: interest_in_resources
+      label: Would you like to receive more educational materials?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please send via email
+      - No, thank you
+      required: true
+    - id: 15
+      name: additional_comments_awareness
+      label: Any questions or comments for our health team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quiz_submission_date
+      label: Date of Quiz Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true

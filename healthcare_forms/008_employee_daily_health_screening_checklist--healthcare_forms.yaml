@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Daily Health Screening Checklist
+    pages:
+    - id: 1
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Normal
+      - Sick
+      required: false
+    - id: 4
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - None
+      required: false
+    - id: 5
+      name: contact_with_doctor
+      label: Contact with Doctor
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_with_nurse
+      label: Contact with Nurse
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_medicare_screening
+      label: Last Health Screening
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shift
+      label: Shift
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Both
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

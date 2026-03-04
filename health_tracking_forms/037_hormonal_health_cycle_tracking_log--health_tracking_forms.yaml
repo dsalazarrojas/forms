@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hormonal Health Cycle Tracking Log
+    pages:
+    - id: 1
+      name: first_day_of_cycle
+      label: First Day Of Cycle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: cycle_phase
+      label: Cycle Phase
+      hint: null
+      type: select_one
+      options:
+      - Fertile
+      - Menstrual
+      - Postmenopausal
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: moods
+      label: Moods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exercise_minutes
+      label: Exercise Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stress_level
+      label: Stress Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: first_day_of_last_period
+      label: First Day Of Last Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_period_date
+      label: Last Period Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ideal Weight Information Form
+    pages:
+    - id: 1
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 2
+      name: ideal_weight
+      label: ideal_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: instructions
+      label: instructions
+      hint: null
+      type: note
+      options: []
+      required: false

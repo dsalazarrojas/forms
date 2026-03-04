@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: escape_room_evaluation_form
+    pages:
+    - id: 1
+      name: escape_room_id
+      label: escape_room_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: escape_room_experience
+      label: escape_room_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: difficulty_level
+      label: difficulty_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: player_experience
+      label: player_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: room_clue_quality
+      label: room_clue_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 7
+      name: clue_quality_score
+      label: clue_quality_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: clue_effectiveness
+      label: clue_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: clue_hinting
+      label: clue_hinting
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: room_puzzle_quality
+      label: room_puzzle_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 11
+      name: puzzle_solving_time
+      label: puzzle_solving_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: escape_room_theme
+      label: escape_room_theme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: escape_room_clue_system
+      label: escape_room_clue_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: room_puzzle_difficulty
+      label: room_puzzle_difficulty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: player_suggestion
+      label: player_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: escape_room_staff
+      label: escape_room_staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: escape_room_atmosphere
+      label: escape_room_atmosphere
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: escape_room_value
+      label: escape_room_value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: escape_room_replay_worth
+      label: escape_room_replay_worth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: would_recommend
+      label: would_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: escape_room_replay_cost
+      label: escape_room_replay_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: overall_cost
+      label: overall_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_completion
+      label: form_completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

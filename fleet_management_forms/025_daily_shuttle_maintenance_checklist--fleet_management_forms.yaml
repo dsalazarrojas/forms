@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shuttle Maintenance Checklist
+    pages:
+    - id: 1
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 2
+      name: brakes
+      label: brakes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 3
+      name: lights
+      label: lights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mirrors
+      label: mirrors
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 5
+      name: seatbelts
+      label: seatbelts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 6
+      name: tires
+      label: tires
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: odometer
+      label: odometer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fuel_level
+      label: fuel_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Empty''}'
+      required: true
+    - id: 9
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Gasoline''}'
+      - '{''id'': 2, ''label'': ''Diesel''}'
+      - '{''id'': 3, ''label'': ''Electric''}'
+      required: true
+    - id: 10
+      name: maintenance
+      label: maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: issues
+      label: issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Issue 1''}'
+      - '{''id'': 2, ''label'': ''Issue 2''}'
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 14
+      name: next_maintenance
+      label: next_maintenance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_status_2
+      label: vehicle_status_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 16
+      name: vehicle_status_3
+      label: vehicle_status_3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 17
+      name: vehicle_status_4
+      label: vehicle_status_4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 18
+      name: vehicle_status_5
+      label: vehicle_status_5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 19
+      name: vehicle_status_6
+      label: vehicle_status_6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 20
+      name: vehicle_status_7
+      label: vehicle_status_7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 21
+      name: vehicle_status_8
+      label: vehicle_status_8
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 22
+      name: vehicle_status_9
+      label: vehicle_status_9
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 23
+      name: vehicle_status_10
+      label: vehicle_status_10
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 24
+      name: vehicle_status_11
+      label: vehicle_status_11
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: false
+    - id: 25
+      name: vehicle_status_12
+      label: vehicle_status_12
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Not good''}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true

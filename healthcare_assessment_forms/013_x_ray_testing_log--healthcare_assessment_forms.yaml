@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: x_ray_testing_log
+    pages:
+    - id: 1
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_results
+      label: Test Results
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Test Result 1
+      - Test Result 2
+      - Test Result 3
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: images_documents
+      label: Images/Documents
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      required: false
+    - id: 6
+      name: test_date_1
+      label: Test Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: test_results_1
+      label: Test Results 1
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Test Result 1
+      - Test Result 2
+      required: true
+    - id: 8
+      name: equipment_used_1
+      label: Equipment Used 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: test_date_2
+      label: Test Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: equipment_used_2
+      label: Equipment Used 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_results_2
+      label: Test Results 2
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: images_documents_1
+      label: Images/Documents 1
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: test_date_3
+      label: Test Date 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: test_results_3
+      label: Test Results 3
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: equipment_used_3
+      label: Equipment Used 3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Screening Permission Form
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: screening_type
+      label: Screening Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_screening
+      label: Reason for Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: screening_location
+      label: Screening Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: screening_method
+      label: Screening Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: screening_result
+      label: Screening Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: screening_frequency
+      label: Screening Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screening_status
+      label: Screening Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: screening_comments
+      label: Screening Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

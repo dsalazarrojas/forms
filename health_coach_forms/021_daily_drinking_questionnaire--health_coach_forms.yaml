@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Drinking Questionnaire
+    pages:
+    - id: 1
+      name: '1'
+      label: Daily Drinking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: alcohol_consumption
+      label: How many drinks have you had today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: alcohol_consumption_units
+      label: How many units of alcohol did you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: drinking_days_per_week
+      label: How many days per week do you drink alcohol?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drink_alcohol_to_prophets
+      label: Do you drink more than 7 drinks in one sitting?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: drink_alcohol_to_prophets_hint
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drink_alcohol_with_prophet
+      label: Do you drink with someone else?
+      hint: null
+      type: select_one
+      options:
+      - Alone
+      - With friends
+      - With family
+      - With a partner
+      - With others
+      required: false
+    - id: 8
+      name: have_alcohol_with_food
+      label: Do you drink with food?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: drink_alcohol_to_get_drunk
+      label: Do you drink to get drunk?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: have_problem_drinking
+      label: Do you have any problems with your drinking?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: drink_to_self_care
+      label: Do you drink for self-care?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: drink_to_socialize
+      label: Do you drink to socialize?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: drink_alone
+      label: Do you drink alone?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: alcohol_consumption
+      label: How many drinks do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: alcohol_consumption_units
+      label: How many units of alcohol do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: drinking_days_per_week_hint
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

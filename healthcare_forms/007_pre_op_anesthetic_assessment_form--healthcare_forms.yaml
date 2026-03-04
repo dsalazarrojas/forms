@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Op Anesthetic Assessment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: allergy_info
+      label: allergy_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: anesthetic_history
+      label: anesthetic_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: surgical_history
+      label: surgical_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medication_info
+      label: medication_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lab_results
+      label: lab_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: anesthesia_risks
+      label: anesthesia_risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pre_op_order
+      label: pre_op_order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other_risks
+      label: other_risks
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disease Outbreak Incident Form
+    pages:
+    - id: 1
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disease_info
+      label: Disease Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: outbreak_location
+      label: Outbreak Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_time_note
+      label: Incident Time Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_trace
+      label: Contact Tracing
+      hint: null
+      type: select_multiple
+      options:
+      - Case 1
+      - Case 2
+      - Case 3
+      required: true
+    - id: 9
+      name: disease_type
+      label: Disease Type
+      hint: null
+      type: select_one
+      options:
+      - Common Cold
+      - Influenza
+      - Pneumonia
+      required: true
+    - id: 10
+      name: reporting_provider
+      label: Reporting Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_provider_phone
+      label: Reporting Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_provider_email
+      label: Reporting Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: reporting_provider_address
+      label: Reporting Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Closed
+      required: true
+    - id: 15
+      name: incident_status_note
+      label: Incident Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: incident_location_note
+      label: Incident Location Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_outbreak
+      label: Outbreak
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_outbreak_note
+      label: Outbreak Note
+      hint: null
+      type: text
+      options: []
+      required: false

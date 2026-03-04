@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Innovation Pitch Application Form
+    pages:
+    - id: 1
+      name: game_jam
+      label: Game Jam
+      hint: null
+      type: select_one
+      options:
+      - Game Jam 1
+      - Game Jam 2
+      - Game Jam 3
+      required: false
+    - id: 2
+      name: game_concept
+      label: Game Concept
+      hint: Describe your game concept in 100-200 words.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_files
+      label: Supporting Files
+      hint: Attach any relevant supporting files.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: game_description
+      label: Game Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_jam_submission
+      label: Game Jam Submission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: game_jam_submission_date
+      label: Game Jam Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

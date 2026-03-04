@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milkshake Flavor Preference Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: flavor_picked
+      label: Picked Flavor
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Strawberry
+      - Chocolate
+      - Cookies
+      - Caramel
+      - Hazelnut
+      - Peanut Butter
+      required: false
+    - id: 4
+      name: flavor_preferred
+      label: Preferred Flavor
+      hint: null
+      type: select_multiple
+      options:
+      - Vanilla
+      - Strawberry
+      - Chocolate
+      - Cookies
+      - Caramel
+      - Hazelnut
+      - Peanut Butter
+      required: false
+    - id: 5
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_comment
+      label: Satisfaction Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_offering_interest
+      label: Interest in New Offerings
+      hint: null
+      type: select_multiple
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 8
+      name: new_offering_comment
+      label: New Offering Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_flavor
+      label: Favorite Flavor
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Strawberry
+      - Chocolate
+      - Cookies
+      - Caramel
+      - Hazelnut
+      - Peanut Butter
+      required: false
+    - id: 10
+      name: favorite_flavor_comment
+      label: Favorite Flavor Comment
+      hint: null
+      type: text
+      options: []
+      required: false

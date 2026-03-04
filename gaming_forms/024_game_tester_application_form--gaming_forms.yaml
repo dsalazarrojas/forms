@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Tester Application Form
+    pages:
+    - id: 1
+      name: game_tester_application_form_fields
+      label: game_tester_application_form_fields
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_title
+      label: game_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: game_id
+      label: game_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: game_url
+      label: game_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: platform
+      label: platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''PC''}'
+      - '{''id'': 2, ''label'': ''XBOX''}'
+      - '{''id'': 3, ''label'': ''PS4''}'
+      - '{''id'': 4, ''label'': ''Switch''}'
+      required: true
+    - id: 9
+      name: playtime
+      label: playtime
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Weekdays''}'
+      - '{''id'': 2, ''label'': ''Weekends''}'
+      - '{''id'': 3, ''label'': ''Anytime''}'
+      required: true
+    - id: 12
+      name: preferred_playtime
+      label: preferred_playtime
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      - '{''id'': 4, ''label'': ''German''}'
+      - '{''id'': 5, ''label'': ''Chinese''}'
+      - '{''id'': 6, ''label'': ''Japanese''}'
+      - '{''id'': 7, ''label'': ''Korean''}'
+      - '{''id'': 8, ''label'': ''Russian''}'
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_first_applied
+      label: date_first_applied
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: date_last_applied
+      label: date_last_applied
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: last_played_game
+      label: last_played_game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: most_recently_played_game
+      label: most_recently_played_game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_many_hours_per_week
+      label: how_many_hours_per_week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: how_many_years_playing_games
+      label: how_many_years_playing_games
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: gaming_equipment
+      label: gaming_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: gaming_setup
+      label: gaming_setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: why_are_you_a_good_fit
+      label: why_are_you_a_good_fit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: why_won_t_fit
+      label: why_won_t_fit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: false

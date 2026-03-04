@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Scores Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_score
+      label: Player Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: player_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: player_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I am done'', ''value'': ''done''}'
+      - '{''id'': 2, ''label'': ''Not done'', ''value'': ''not_done''}'
+      required: false
+    - id: 10
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false

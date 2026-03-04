@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: mini_mental_state_examination_mmse_score_recording
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cognitive_screening
+      label: Cognitive Screening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: screening_results
+      label: Screening Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: examiner_name
+      label: Examiner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: examiner_position
+      label: Examiner Position
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

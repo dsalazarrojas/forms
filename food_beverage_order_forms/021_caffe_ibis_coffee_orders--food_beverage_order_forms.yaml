@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caffe Ibis Coffee Orders
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name for order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order issues
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Pickup in store
+      - Curbside pickup
+      - Delivery
+      required: true
+    - id: 5
+      name: coffee_selection
+      label: Coffee Selection
+      hint: Choose your coffee type
+      type: select_one
+      options:
+      - Espresso
+      - Americano
+      - Cappuccino
+      - Latte
+      - Macchiato
+      - Mocha
+      - Drip Coffee
+      - Cold Brew
+      - Iced Coffee
+      required: true
+    - id: 6
+      name: coffee_size
+      label: Coffee Size
+      hint: Select your size
+      type: select_one
+      options:
+      - Small (8 oz)
+      - Medium (12 oz)
+      - Large (16 oz)
+      - Extra Large (20 oz)
+      required: true
+    - id: 7
+      name: milk_preference
+      label: Milk Preference
+      hint: What type of milk
+      type: select_one
+      options:
+      - Whole milk
+      - 2 percent milk
+      - Skim milk
+      - Almond milk
+      - Oat milk
+      - Soy milk
+      - Coconut milk
+      - No milk
+      required: false
+    - id: 8
+      name: sweetness_level
+      label: Sweetness Level
+      hint: How sweet would you like it
+      type: select_one
+      options:
+      - No sugar
+      - Light sugar
+      - Regular sugar
+      - Extra sugar
+      - Sugar substitute
+      required: false
+    - id: 9
+      name: flavor_add_ons
+      label: Flavor Add-ons
+      hint: Any flavor syrups
+      type: select_multiple
+      options:
+      - Vanilla
+      - Caramel
+      - Hazelnut
+      - Mocha
+      - Irish cream
+      - Peppermint
+      - None
+      required: false
+    - id: 10
+      name: temperature
+      label: Temperature
+      hint: How would you like your drink
+      type: select_one
+      options:
+      - Hot
+      - Iced
+      - Extra hot
+      - Kids temperature
+      required: false
+    - id: 11
+      name: quantity
+      label: Quantity
+      hint: How many drinks
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pastry_add_on
+      label: Pastry Add-on
+      hint: Would you like a pastry with your order
+      type: select_one
+      options:
+      - No thanks
+      - Croissant
+      - Muffin
+      - Scone
+      - Cookie
+      - Brownie
+      required: false
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests for your order
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pickup_time
+      label: Preferred Pickup Time
+      hint: When would you like to pick up
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Mobile payment
+      - Loyalty points
+      required: true

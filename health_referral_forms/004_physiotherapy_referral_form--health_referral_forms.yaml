@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiotherapy Referral Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Therapy
+      - Occupational Therapy
+      - Speech Therapy
+      - Other
+      required: false
+    - id: 6
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physiotherapist_name
+      label: Physiotherapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physiotherapist_email
+      label: Physiotherapist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: physiotherapist_phone
+      label: Physiotherapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      - Cancelled
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

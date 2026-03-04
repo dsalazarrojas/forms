@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beck Depression Inventory Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Date of Birth
+      hint: For identification purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Patient age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: sadness
+      label: Sadness
+      hint: How would you describe your sadness over the past two weeks
+      type: select_one
+      options:
+      - I do not feel sad
+      - I feel sad much of the time
+      - I am sad all the time and cannot snap out of it
+      - I am so sad or unhappy that I cannot stand it
+      required: true
+    - id: 7
+      name: pessimism
+      label: Pessimism
+      hint: How do you feel about the future
+      type: select_one
+      options:
+      - I am not discouraged about my future
+      - I feel more discouraged than usual
+      - I do not expect things to work out for me
+      - I feel my future is hopeless and will only get worse
+      required: true
+    - id: 8
+      name: past_failure
+      label: Past Failure
+      hint: How do you view your past
+      type: select_one
+      options:
+      - I do not feel like a failure
+      - I have failed more than I should have
+      - As I look back I see a lot of failures
+      - I feel I am a total failure as a person
+      required: true
+    - id: 9
+      name: loss_of_pleasure
+      label: Loss of Pleasure
+      hint: How is your ability to experience pleasure
+      type: select_one
+      options:
+      - I get as much satisfaction as ever
+      - I do not enjoy things as I used to
+      - I do not get real satisfaction from anything anymore
+      - I am dissatisfied or bored with everything
+      required: true
+    - id: 10
+      name: guilty_feelings
+      label: Guilty Feelings
+      hint: How often do you feel guilty
+      type: select_one
+      options:
+      - I do not feel particularly guilty
+      - I feel guilty over many things I have done
+      - I feel quite guilty and feel bad most of the time
+      - I feel as if I am being punished
+      required: true
+    - id: 11
+      name: punishment_feelings
+      label: Punishment Feelings
+      hint: Do you feel you are being punished
+      type: select_one
+      options:
+      - I do not feel I am being punished
+      - I feel I may be punished
+      - I expect to be punished
+      - I feel I am being punished
+      required: true
+    - id: 12
+      name: self_dislike
+      label: Self-Dislike
+      hint: How do you feel about yourself
+      type: select_one
+      options:
+      - I feel the same about myself as ever
+      - I have lost confidence in myself
+      - I am disappointed in myself
+      - I dislike myself
+      required: true
+    - id: 13
+      name: self_criticalness
+      label: Self-Criticalness
+      hint: How critical are you of yourself
+      type: select_one
+      options:
+      - I do not criticize or blame myself more than usual
+      - I am more critical of myself than usual
+      - I criticize myself for all of my faults
+      - I blame myself for everything bad that happens
+      required: true
+    - id: 14
+      name: suicidal_thoughts
+      label: Suicidal Thoughts or Wishes
+      hint: Have you had thoughts of self-harm
+      type: select_one
+      options:
+      - I do not have any thoughts of killing myself
+      - I have thoughts of killing myself but would not carry them out
+      - I would like to kill myself
+      - I would kill myself if I had the chance
+      required: true
+    - id: 15
+      name: crying
+      label: Crying
+      hint: How often do you cry
+      type: select_one
+      options:
+      - I do not cry any more than usual
+      - I cry more now than I used to
+      - I cry all the time now
+      - I used to be able to cry but now I cannot cry even though I want to
+      required: true
+    - id: 16
+      name: agitation
+      label: Agitation
+      hint: How restless do you feel
+      type: select_one
+      options:
+      - I am no more restless than usual
+      - I feel more restless than usual
+      - I am so restless I have to keep moving
+      - I am so restless I cannot sit still
+      required: true
+    - id: 17
+      name: loss_of_interest
+      label: Loss of Interest
+      hint: How is your interest in other people
+      type: select_one
+      options:
+      - I have not lost interest in other people
+      - I am less interested in other people than I used to be
+      - I have lost most of my interest in other people
+      - I have lost all of my interest in other people
+      required: true
+    - id: 18
+      name: indecisiveness
+      label: Indecisiveness
+      hint: How is your ability to make decisions
+      type: select_one
+      options:
+      - I make decisions about as well as ever
+      - I find it more difficult to make decisions
+      - I have much greater difficulty making decisions
+      - I have trouble making any decisions
+      required: true
+    - id: 19
+      name: worthlessness
+      label: Worthlessness
+      hint: How do you feel about your worth as a person
+      type: select_one
+      options:
+      - I do not feel I am worthless
+      - I do not consider myself as worthwhile as I used to
+      - I feel more worthless compared to others
+      - I feel utterly worthless
+      required: true
+    - id: 20
+      name: loss_of_energy
+      label: Loss of Energy
+      hint: How is your energy level
+      type: select_one
+      options:
+      - I have as much energy as ever
+      - I have less energy than I used to have
+      - I do not have enough energy to do anything
+      - I do not have enough energy to do anything
+      required: true
+    - id: 21
+      name: sleep_changes
+      label: Changes in Sleeping Pattern
+      hint: How has your sleep changed
+      type: select_one
+      options:
+      - I sleep as well as I used to
+      - I sleep somewhat more than usual
+      - I sleep somewhat less than usual
+      - I sleep a lot more or a lot less than usual
+      required: true
+    - id: 22
+      name: irritability
+      label: Irritability
+      hint: How irritable do you feel
+      type: select_one
+      options:
+      - I am no more irritable than usual
+      - I am more irritable than usual
+      - I am much more irritable than usual
+      - I am irritable all the time
+      required: true
+    - id: 23
+      name: appetite_changes
+      label: Changes in Appetite
+      hint: How has your appetite changed
+      type: select_one
+      options:
+      - I have not experienced any change in appetite
+      - My appetite is somewhat less than usual
+      - My appetite is much less than before
+      - I have no appetite at all
+      required: true
+    - id: 24
+      name: concentration_difficulty
+      label: Concentration Difficulty
+      hint: How is your ability to concentrate
+      type: select_one
+      options:
+      - I can concentrate as well as ever
+      - I cannot concentrate as well as usual
+      - It is hard to keep my mind on anything for very long
+      - I find I cannot concentrate on anything
+      required: true
+    - id: 25
+      name: tiredness
+      label: Tiredness or Fatigue
+      hint: How tired do you feel
+      type: select_one
+      options:
+      - I am no more tired than usual
+      - I get more tired than usual
+      - I am too tired to do a lot of the things I used to do
+      - I am too tired to do most of the things I used to do
+      required: true
+    - id: 26
+      name: interest_in_sex
+      label: Loss of Interest in Sex
+      hint: How is your interest in sex
+      type: select_one
+      options:
+      - I have not noticed any recent change in interest in sex
+      - I am less interested in sex than I used to be
+      - I have almost no interest in sex
+      - I have lost interest in sex completely
+      required: true
+    - id: 27
+      name: clinician_notes
+      label: Clinician Notes
+      hint: Additional observations or comments
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: follow_up_recommended
+      label: Follow-Up Recommended
+      hint: Is follow-up recommended
+      type: select_one
+      options:
+      - Yes urgent
+      - Yes routine
+      - No follow-up needed
+      required: true

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paranormal Giveaway Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: entry_date
+      label: Entry date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: favorite_paranormal_genre
+      label: Favorite paranormal genre
+      hint: null
+      type: select_one
+      options:
+      - Horror
+      - Fantasy
+      - Science fiction
+      - Comedy
+      - Mystery
+      - Historical
+      - Romance
+      - Action
+      - Adventure
+      - Crime
+      - Western
+      - Supernatural
+      - Science fiction
+      required: true
+    - id: 8
+      name: how_entered
+      label: How did you enter?
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Online event
+      - Online ad
+      - Other
+      required: false
+    - id: 9
+      name: social_media
+      label: Social media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: online_event
+      label: Online event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: online_ad
+      label: Online ad
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_source
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prize_preferred
+      label: Prize preferred
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Gift Card
+      - Product
+      - Experiential
+      - Experience
+      required: true
+    - id: 14
+      name: prize_value
+      label: Prize value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: prize_category
+      label: Prize category
+      hint: null
+      type: select_one
+      options:
+      - Paranormal book
+      - Paranormal movie
+      - Paranormal TV show
+      - Paranormal video game
+      required: true

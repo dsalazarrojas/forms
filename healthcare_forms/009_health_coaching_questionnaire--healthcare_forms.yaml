@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_coaching_questionnaire
+    pages:
+    - id: 1
+      name: main_page
+      label: main page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''male''}'
+      - '{''label'': ''female''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: height_unit
+      label: height unit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ft''}'
+      - '{''label'': ''in''}'
+      - '{''label'': ''cm''}'
+      - '{''label'': ''meters''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 7
+      name: age_range_start
+      label: age range start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age_range_end
+      label: age range end
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: height_range_start
+      label: height range start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: height_range_end
+      label: height range end
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: weight_range_start
+      label: weight range start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: weight_range_end
+      label: weight range end
+      hint: null
+      type: number
+      options: []
+      required: false

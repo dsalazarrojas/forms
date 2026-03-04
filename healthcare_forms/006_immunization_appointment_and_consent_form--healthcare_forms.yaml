@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: immunization-appointment-and-consent-form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_name
+      label: Parent or Legal Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vaccine_1
+      label: Vaccine
+      hint: null
+      type: select_one
+      options:
+      - Hepatitis B
+      - MMR
+      - Dtap
+      - Hib
+      - MMR
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: dose
+      label: Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: A signature indicating that a parent or legal guardian understands the
+        vaccine information
+      type: note
+      options: []
+      required: false

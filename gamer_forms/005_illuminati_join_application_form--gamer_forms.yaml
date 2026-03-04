@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Illuminati Join Application Form
+    pages:
+    - id: 1
+      name: gamer_info
+      label: what_is_your_gamer_tag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: gamer_tag
+      label: select_your_gamer_tag
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: discord_username
+      label: discord_username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: why_join
+      label: why_do_you_want_to_join
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: moderator_info
+      label: are_you_a_discord_moderator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: moderator_experience
+      label: what_is_your_moderating_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: join_requirements
+      label: how_do_you_accept_the_illuminati_coding_of_your_account
+      hint: null
+      type: text
+      options: []
+      required: true

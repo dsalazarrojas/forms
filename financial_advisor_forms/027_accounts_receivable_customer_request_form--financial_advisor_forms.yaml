@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Receivable Customer Request Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for invoicing
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for payment queries
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Address for invoices
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: invoice_amount
+      label: Invoice amount
+      hint: Amount due from customer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: invoice_due_date
+      label: Invoice due date
+      hint: Payment due date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Payment terms
+      hint: Net 30, Net 60 or other terms
+      type: select_one
+      options:
+      - Net 30
+      - Net 60
+      - Due on receipt
+      required: true
+    - id: 9
+      name: preferred_payment_method
+      label: Preferred payment method
+      hint: How customer intends to pay
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Check
+      required: true
+    - id: 10
+      name: purchase_order_number
+      label: Purchase order number
+      hint: If applicable provide PO number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact person
+      hint: Person responsible for payment processing
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Any special instructions for billing
+      type: text
+      options: []
+      required: false

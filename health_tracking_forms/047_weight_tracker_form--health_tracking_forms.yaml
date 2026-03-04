@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: weight_tracker_form
+    pages:
+    - id: 1
+      name: weight_tracker_form_page_1
+      label: Weight Tracker
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: weight_entry_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight_unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lb
+      - oz
+      - st
+      required: false
+    - id: 5
+      name: weight_entry_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: weight_goal_weight
+      label: Weight Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: weight_goal_unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lb
+      - oz
+      - st
+      required: false
+    - id: 8
+      name: weight_goal_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 9
+      name: weight_history
+      label: Weight History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: weight_graph
+      label: Weight Graph
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: weight_unit_2
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lb
+      - oz
+      - st
+      required: false

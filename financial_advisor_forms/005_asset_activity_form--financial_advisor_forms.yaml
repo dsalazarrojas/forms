@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Activity Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Year for this asset report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_date
+      label: Reporting Date
+      hint: Date of this asset activity report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: What type of asset is this?
+      type: select_one
+      options:
+      - Cash and Cash Equivalents
+      - Accounts Receivable
+      - Inventory
+      - Equipment
+      - Real Estate
+      - Investments
+      - Intangible Assets
+      - Other
+      required: true
+    - id: 5
+      name: asset_description
+      label: Asset Description
+      hint: Detailed description of the asset
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_location
+      label: Asset Location
+      hint: Where is the asset located?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: purchase_date
+      label: Purchase Date
+      hint: When was this asset acquired?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: original_cost
+      label: Original Cost
+      hint: Purchase price of asset
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: accumulated_depreciation
+      label: Accumulated Depreciation
+      hint: Total depreciation to date
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_market_value
+      label: Current Market Value
+      hint: Fair market value as of report date
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: book_value
+      label: Book Value
+      hint: Original cost minus depreciation
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: asset_condition
+      label: Asset Condition
+      hint: Current condition status
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 13
+      name: depreciation_method
+      label: Depreciation Method Used
+      hint: How is depreciation calculated?
+      type: select_one
+      options:
+      - Straight-line
+      - Declining Balance
+      - Units of Production
+      - Sum-of-years Digits
+      - Other
+      required: false
+    - id: 14
+      name: useful_life_years
+      label: Estimated Useful Life (years)
+      hint: Number of years of useful life
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: salvage_value
+      label: Salvage Value
+      hint: Estimated residual value at end of life
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: insurance_coverage
+      label: Insurance Coverage Amount
+      hint: Amount covered by insurance
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: asset_status
+      label: Asset Status
+      hint: Current operational status
+      type: select_one
+      options:
+      - In Use
+      - Idle
+      - Sold or Disposed
+      - Under Maintenance
+      - Held for Sale
+      required: true
+    - id: 18
+      name: recent_activity
+      label: Recent Activity or Changes
+      hint: Any significant changes this period?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_maintenance_date
+      label: Next Scheduled Maintenance
+      hint: Date of next maintenance
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: prepared_by
+      label: Prepared By
+      hint: Name of person preparing this report
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: preparation_date
+      label: Preparation Date
+      hint: Date report was prepared
+      type: date
+      options: []
+      required: true

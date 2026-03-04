@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Donation Form Worldpay Us Payment Form
+    pages:
+    - id: 1
+      name: donor_type
+      label: Donor Type
+      hint: Select your donor classification
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      - Corporation
+      - Foundation
+      - Other
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will send a receipt to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: graduation_year
+      label: Graduation Year
+      hint: Leave blank if not an alumnus
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter your donation amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Select one-time or recurring
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: designation
+      label: Designation
+      hint: Where should your donation be directed
+      type: select_one
+      options:
+      - General Fund
+      - Scholarship Fund
+      - Athletic Programs
+      - Research Initiatives
+      - Campus Development
+      - Alumni Programs
+      - Other
+      required: true
+    - id: 10
+      name: honor_roll
+      label: Honor Roll Recognition
+      hint: Would you like to be recognized in our donor honor roll
+      type: select_one
+      options:
+      - Yes - List my name publicly
+      - Yes - List anonymously
+      - No - Keep my donation private
+      required: true
+    - id: 11
+      name: employer
+      label: Employer Name
+      hint: For matching gift opportunities
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: matching_gift
+      label: Matching Gift Available
+      hint: Does your employer offer matching gifts
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: Select your preferred payment method
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 14
+      name: card_number
+      label: Card Number
+      hint: Enter your card number securely
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: card_expiry
+      label: Card Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cvv
+      label: CVV/Security Code
+      hint: 3 or 4 digit code on back of card
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_city
+      label: Billing City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: billing_state
+      label: Billing State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_zip
+      label: Billing ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: comments
+      label: Additional Comments
+      hint: Any message you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms of donation
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true

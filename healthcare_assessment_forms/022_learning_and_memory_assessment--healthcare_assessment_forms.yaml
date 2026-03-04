@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_and_memory_assessment
+    pages:
+    - id: 1
+      name: background
+      label: Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: self_ratings
+      label: Self-ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: background_question_1
+      label: What is your highest level of education completed?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''High School''}'
+      - '{''id'': 3, ''label'': ''Some college''}'
+      - '{''id'': 4, ''label'': ''College''}'
+      required: true
+    - id: 5
+      name: background_question_2
+      label: Do you have any medical conditions that could impact your learning and
+        memory?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 6
+      name: background_question_3
+      label: What are your current occupation or employment status?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed''}'
+      - '{''id'': 2, ''label'': ''Unemployed''}'
+      - '{''id'': 3, ''label'': ''Retired''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: self_rating_1
+      label: Cognitive status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: self_rating_1_description
+      label: Self-rating 1 description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: self_rating_2
+      label: Self-rating 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: self_rating_2_description
+      label: Self-rating 2 description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: self_rating_3
+      label: Self-rating 3
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: self_rating_3_description
+      label: Self-rating 3 description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: background_question_4
+      label: Do you have any learning or memory concerns or issues youd like to address?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: background_question_5
+      label: How do you think you might benefit from this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: background_question_6
+      label: Do you have any questions or concerns about the process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: background_question_7
+      label: Are there any specific time constraints you have for this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: background_question_8
+      label: Do you have any other questions or concerns about this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: background_question_9
+      label: Do you have any other medical conditions that might impact your participation
+        in this assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: background_question_10
+      label: Do you have any concerns about your privacy?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 20
+      name: background_question_11
+      label: Do you have a preferred time for the assessment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: background_question_12
+      label: Do you have a preferred location for the assessment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Clinic''}'
+      - '{''id'': 2, ''label'': ''Home''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: background_question_13
+      label: How will you be traveling to the assessment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Drive''}'
+      - '{''id'': 2, ''label'': ''Public transportation''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: background_question_14
+      label: Do you have any concerns about your internet connectivity?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 24
+      name: background_question_15
+      label: Do you have any other concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Education Platform Evaluation Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: education_platform
+      label: Education Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: evaluation_form
+      label: Evaluation Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: true
+    - id: 7
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: education_platforms
+      label: Education Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: education_levels
+      label: Education Levels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: true
+    - id: 12
+      name: evaluation_methods
+      label: Evaluation Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Method 1''}'
+      - '{''id'': 2, ''label'': ''Method 2''}'
+      - '{''id'': 3, ''label'': ''Method 3''}'
+      required: true
+    - id: 13
+      name: education_channels
+      label: Education Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Channel 1''}'
+      - '{''id'': 2, ''label'': ''Channel 2''}'
+      - '{''id'': 3, ''label'': ''Channel 3''}'
+      required: true
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Status 1''}'
+      - '{''id'': 2, ''label'': ''Status 2''}'
+      - '{''id'': 3, ''label'': ''Status 3''}'
+      required: true
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: education_planning
+      label: Education Planning
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: education_goals
+      label: Education Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Goal 1''}'
+      - '{''id'': 2, ''label'': ''Goal 2''}'
+      - '{''id'': 3, ''label'': ''Goal 3''}'
+      required: true
+    - id: 20
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Scale 1''}'
+      - '{''id'': 2, ''label'': ''Scale 2''}'
+      - '{''id'': 3, ''label'': ''Scale 3''}'
+      required: true
+    - id: 21
+      name: education_planning_status
+      label: Education Planning Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Status 1''}'
+      - '{''id'': 2, ''label'': ''Status 2''}'
+      - '{''id'': 3, ''label'': ''Status 3''}'
+      required: true
+    - id: 22
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Outcome 1''}'
+      - '{''id'': 2, ''label'': ''Outcome 2''}'
+      - '{''id'': 3, ''label'': ''Outcome 3''}'
+      required: true
+    - id: 23
+      name: education_outcome
+      label: Education Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Outcome 1''}'
+      - '{''id'': 2, ''label'': ''Outcome 2''}'
+      - '{''id'': 3, ''label'': ''Outcome 3''}'
+      required: true
+    - id: 24
+      name: evaluation_results
+      label: Evaluation Results
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

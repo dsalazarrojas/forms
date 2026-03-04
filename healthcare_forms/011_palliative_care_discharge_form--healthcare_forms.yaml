@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_date_of_birth
+      label: patient_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_date_of_death
+      label: patient_date_of_death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_care_team
+      label: patient_care_team
+      hint: null
+      type: select_one
+      options:
+      - Care Team 1
+      - Care Team 2
+      - Care Team 3
+      required: false
+    - id: 5
+      name: care_plan
+      label: care_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discharge_reason
+      label: discharge_reason
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_care_provider
+      label: next_care_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_dosage
+      label: medication_dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: care_location
+      label: care_location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: hospice_name
+      label: hospice_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hospice_address
+      label: hospice_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hospice_phone
+      label: hospice_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hospice_email
+      label: hospice_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: patient_family
+      label: patient_family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_family_relationship
+      label: patient_family_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_of_kin
+      label: next_of_kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_of_kin_phone
+      label: next_of_kin_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_of_kin_email
+      label: next_of_kin_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: patient_medical_record_number
+      label: patient_medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

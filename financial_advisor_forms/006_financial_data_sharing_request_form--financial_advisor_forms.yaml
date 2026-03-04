@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Data Sharing Request Form
+    pages:
+    - id: 1
+      name: financial_data_sharing_request
+      label: financial_data_sharing_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: purpose
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: account_number
+      label: account_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: requested_data
+      label: requested_data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: purpose_of_access
+      label: purpose_of_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: duration_of_access
+      label: duration_of_access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: data_sharing_terms_agreed
+      label: data_sharing_terms_agreed
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: data_sharing_terms_acknowledgement
+      label: data_sharing_terms_acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 14
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Genetics Assessment Form
+    pages:
+    - id: 1
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: genetic_conditions
+      label: Genetic Conditions
+      hint: null
+      type: select_one
+      options:
+      - condition1
+      - condition2
+      - condition3
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: genetic_counselor
+      label: Genetic Counselor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 12
+      name: genetic_testing
+      label: Genetic Testing
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 13
+      name: genetic_testing_result
+      label: Genetic Testing Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: genetic_result_date
+      label: Genetic Result Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_provider
+      label: Medical Record Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: genetic_counselor_note
+      label: Genetic Counselor Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 20
+      name: patient_consent_date
+      label: Patient Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: genetic_counselor_signature
+      label: Genetic Counselor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: clinic_signature
+      label: Clinic Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_review
+      label: Medical Record Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: clinic_note
+      label: Clinic Note
+      hint: null
+      type: text
+      options: []
+      required: false

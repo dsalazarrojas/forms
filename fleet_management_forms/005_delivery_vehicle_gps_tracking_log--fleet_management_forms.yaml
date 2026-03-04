@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: delivery_vehicle_gps_tracking_log
+    pages:
+    - id: 1
+      name: delivery_vehicles
+      label: Delivery Vessels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: distance_traveled
+      label: Distance Traveled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - In Transit
+      - Delivering
+      - Off Route
+      - Unknown
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: gps_coordinates
+      label: GPS Coordinates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '200'
+      - '300'
+      - '400'
+      - '500'
+      - '600'
+      - '700'
+      - '800'
+      required: true
+    - id: 11
+      name: driver_id
+      label: Driver ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: true
+    - id: 12
+      name: start_location
+      label: Start Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      - Location 5
+      - Location 6
+      - Location 7
+      - Location 8
+      - Location 9
+      required: true
+    - id: 13
+      name: end_location
+      label: End Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      - Location 5
+      - Location 6
+      - Location 7
+      - Location 8
+      - Location 9
+      required: true
+    - id: 14
+      name: route_activity
+      label: Route Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: route_outcome
+      label: Route Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: route_note
+      label: Route Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - Truck
+      - Van
+      - Trailer
+      - Tractor
+      required: false
+    - id: 18
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: route_id
+      label: Route ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: driver_rating
+      label: Driver Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 22
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Failed
+      - Cancelled
+      - On Hold
+      required: true
+    - id: 23
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: trip_id
+      label: Trip ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

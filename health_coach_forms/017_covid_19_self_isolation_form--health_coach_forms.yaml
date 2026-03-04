@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Self Isolation Form
+    pages:
+    - id: 1
+      name: isolation_start_date
+      label: Isolation Start Date
+      hint: When did isolation begin
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: expected_end_date
+      label: Expected Isolation End Date
+      hint: When can you return
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_full_name
+      label: Employee Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Work department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Direct manager
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: employee_phone
+      label: Employee Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_email
+      label: Employee Email
+      hint: Work or personal email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: home_address
+      label: Home Address
+      hint: Isolation location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: isolation_reason
+      label: Reason for Self-Isolation
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Tested positive for COVID-19
+      - Experiencing COVID-19 symptoms
+      - Close contact with positive case
+      - Traveling from high-risk area
+      - Waiting for test results
+      - Healthcare provider recommendation
+      - Other
+      required: true
+    - id: 13
+      name: symptom_status
+      label: Are you currently experiencing symptoms
+      hint: Symptom status
+      type: select_one
+      options:
+      - Yes symptomatic
+      - No asymptomatic
+      - Symptoms resolved
+      required: true
+    - id: 14
+      name: symptoms_list
+      label: Which symptoms are you experiencing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 15
+      name: test_date
+      label: COVID-19 Test Date
+      hint: When were you tested
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: test_result
+      label: Test Result
+      hint: If known
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      - Not tested
+      required: false
+    - id: 17
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: Office number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: household_members
+      label: How many people live in your household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: high_risk_household
+      label: Does anyone in your household have high-risk conditions
+      hint: High-risk individuals
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 21
+      name: able_to_isolate_properly
+      label: Are you able to isolate properly at home
+      hint: Separate room and bathroom
+      type: select_one
+      options:
+      - Yes I have a separate room and bathroom
+      - Yes I have a separate room only
+      - No I cannot properly isolate
+      required: true
+    - id: 22
+      name: need_assistance
+      label: Do you need any assistance during isolation
+      hint: Support needs
+      type: select_one
+      options:
+      - No I am fine
+      - Yes food delivery
+      - Yes medical check-ins
+      - Yes mental health support
+      - Yes multiple types of assistance
+      required: true
+    - id: 23
+      name: work_from_home_capability
+      label: Are you able to work from home during isolation
+      hint: Remote work capability
+      type: select_one
+      options:
+      - Yes fully capable
+      - Yes partially capable
+      - No unable to work
+      required: true
+    - id: 24
+      name: daily_checkup_preference
+      label: How would you like to receive daily check-ups
+      hint: Contact method
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Video call
+      - No check-ups needed
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Needs
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: employee_acknowledgment
+      label: I understand I must not return to work until cleared by health authorities
+      hint: Return to work agreement
+      type: select_one
+      options:
+      - Yes I understand and agree
+      - No I do not agree
+      required: true
+    - id: 29
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

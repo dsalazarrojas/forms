@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial KPI Dashboard Setup Application Form
+    pages:
+    - id: 1
+      name: financial_kpi_dashboard_setup_application_form
+      label: Financial KPI Dashboard Setup Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Financial Advisor
+      - Other
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

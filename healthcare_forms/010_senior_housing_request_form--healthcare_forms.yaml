@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: senior-housing-request-form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 3
+      name: housing_needs
+      label: Housing Needs
+      hint: Describe your current housing situation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: housing_preference
+      label: Housing Preference
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      required: true
+    - id: 5
+      name: follow_up_preference
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_notes
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_email
+      label: Property Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: property_phone
+      label: Property Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_manager_notes
+      label: Property Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_visit_date
+      label: Property Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_plan
+      label: Follow Up Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: user_availability
+      label: User Availability
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 20
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Rescheduled
+      - Missed
+      required: true
+    - id: 21
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up_time
+      label: Next Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes_to_user
+      label: Notes to User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

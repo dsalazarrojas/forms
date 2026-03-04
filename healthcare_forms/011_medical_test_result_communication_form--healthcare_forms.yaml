@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Test Result Communication Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: follow_up_instructions
+      label: Follow Up Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_info
+      label: Test Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dr. Smith''}'
+      - '{''label'': ''Dr. Johnson''}'
+      required: true
+    - id: 6
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 7
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Mail''}'
+      required: false
+    - id: 8
+      name: test_result_date
+      label: Test Result Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: test_result_time
+      label: Test Result Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: medical_test_result
+      label: Medical Test Result
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medication 1''}'
+      - '{''label'': ''Medication 2''}'
+      required: false
+    - id: 14
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_contact_number
+      label: Patient Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary''}'
+      - '{''label'': ''Secondary''}'
+      required: false
+    - id: 20
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Parent''}'
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Child''}'
+      required: false
+    - id: 21
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 22
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_follow_up_time
+      label: Next Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: medical_test_type
+      label: Medical Test Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Blood Test''}'
+      - '{''label'': ''Urine Test''}'
+      - '{''label'': ''Imaging''}'
+      required: false
+    - id: 25
+      name: test_result_comments
+      label: Test Result Comments
+      hint: null
+      type: text
+      options: []
+      required: false

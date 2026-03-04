@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_pediatric_patient_registration_form
+    pages:
+    - id: 1
+      name: new_pediatric_patient_registration_form_page_1
+      label: New Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_pediatric_patient_name
+      label: new_patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_pediatric_patient_birthdate
+      label: new_patient_birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: new_pediatric_patient_address
+      label: new_patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_pediatric_patient_phone
+      label: new_patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_pediatric_patient_email
+      label: new_patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: new_pediatric_primary_diagnosis
+      label: new_primary_diagnosis
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: new_pediatric_allergies
+      label: new_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: new_pediatric_medication
+      label: new_medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_pediatric_vaccinations
+      label: new_vaccinations
+      hint: null
+      type: text
+      options: []
+      required: false

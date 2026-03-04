@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Box
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 10
+      name: subscription_frequency
+      label: subscription frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: delivery_frequency
+      label: delivery frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: billing_frequency
+      label: billing frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 17
+      name: billing_cycle
+      label: billing cycle
+      hint: null
+      type: select_one
+      options:
+      - Yearly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 18
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 20
+      name: currency_symbol
+      label: currency symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: subscription_start_date
+      label: subscription start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: subscription_end_date
+      label: subscription end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_and_conditions_agreed
+      label: terms and conditions agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

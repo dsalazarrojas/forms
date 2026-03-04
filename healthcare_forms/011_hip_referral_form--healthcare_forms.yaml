@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hip Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: specialist_info
+      label: Specialist Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: specialist_name
+      label: Specialist Name
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      - Dr. Smith
+      required: true
+    - id: 5
+      name: specialist_phone
+      label: Specialist Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: specialist_email
+      label: Specialist Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: specialist_address
+      label: Specialist Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specialist_fax
+      label: Specialist Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: specialist_license_no
+      label: Specialist License No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: specialist_notes
+      label: Specialist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: specialist_facility
+      label: Specialist Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: true
+    - id: 16
+      name: patient_facility
+      label: Patient Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: true
+    - id: 17
+      name: specialist_date
+      label: Specialist Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: specialist_time
+      label: Specialist Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: patient_date
+      label: Patient Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: patient_time
+      label: Patient Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: specialist_status
+      label: Specialist Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
+    - id: 22
+      name: specialist_status_note
+      label: Specialist Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: patient_status_note
+      label: Patient Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      - User C
+      required: true

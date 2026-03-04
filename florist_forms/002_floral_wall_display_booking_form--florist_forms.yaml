@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floral Wall Display Booking Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_terms
+      label: Accept terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: time
+      options: []
+      required: true

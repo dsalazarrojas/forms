@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Reference Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_purpose
+      label: Purpose of Reference
+      hint: Why do you need this reference
+      type: select_one
+      options:
+      - New Bank Account Opening
+      - Loan Application
+      - Mortgage Application
+      - Rental Application
+      - Employment Verification
+      - Credit Application
+      - Business Partnership
+      - Other
+      required: true
+    - id: 6
+      name: reference_type
+      label: Reference Type
+      hint: What type of reference
+      type: select_one
+      options:
+      - Personal Banking Reference
+      - Business Banking Reference
+      - Credit Reference
+      - Character Reference
+      - Financial Standing Reference
+      required: true
+    - id: 7
+      name: bank_name
+      label: Bank Name
+      hint: Which bank should provide reference
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bank_branch
+      label: Bank Branch
+      hint: Branch location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: account_number
+      label: Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business Checking
+      - Business Savings
+      - Money Market
+      - Investment
+      required: true
+    - id: 11
+      name: account_opening_date
+      label: Account Opening Date
+      hint: When did you open the account
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: average_balance
+      label: Average Balance Range
+      hint: Typical account balance
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$5000
+      - $5000-$10000
+      - $10000-$50000
+      - $50000-$100000
+      - Over $100000
+      required: true
+    - id: 13
+      name: account_standing
+      label: Account Standing
+      hint: Current status
+      type: select_one
+      options:
+      - Excellent Standing
+      - Good Standing
+      - Fair Standing
+      - Poor Standing
+      required: true
+    - id: 14
+      name: overdraft_history
+      label: Overdraft History
+      hint: Any overdrafts
+      type: select_one
+      options:
+      - Never Overdrawn
+      - Rarely Overdrawn
+      - Occasionally Overdrawn
+      - Frequently Overdrawn
+      required: true
+    - id: 15
+      name: loan_history
+      label: Loan History with Bank
+      hint: Have you had loans
+      type: select_one
+      options:
+      - Multiple Loans Paid
+      - One Loan Paid
+      - Current Loan
+      - No Loan History
+      required: false
+    - id: 16
+      name: credit_card_history
+      label: Credit Card History
+      hint: Bank credit cards held
+      type: select_one
+      options:
+      - Current Cardholder
+      - Former Cardholder
+      - Never Had Card
+      required: false
+    - id: 17
+      name: reference_recipient
+      label: Reference Recipient
+      hint: Who should receive this
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recipient_organization
+      label: Recipient Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recipient_email
+      label: Recipient Email
+      hint: Where to send reference
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: authorization
+      label: Authorization
+      hint: Do you authorize this reference
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

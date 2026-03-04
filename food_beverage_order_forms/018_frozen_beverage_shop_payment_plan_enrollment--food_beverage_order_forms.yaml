@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frozen Beverage Shop Payment Plan Enrollment
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_plan
+      label: Customer Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 5
+      name: payment_plan_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_plan_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_plan_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_plan_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_plan_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 10
+      name: customer_plan_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 11
+      name: customer_plan_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 12
+      name: customer_plan_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_plan_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_plan_cancel_reason
+      label: Cancel Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Interested''}'
+      - '{''label'': ''Price''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: customer_plan_cancel_date
+      label: Cancel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: customer_plan_renewal
+      label: Renewal
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: customer_plan_expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: customer_plan_last_payment_date
+      label: Last Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: customer_plan_last_payment_amount
+      label: Last Payment Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_plan_next_payment_date
+      label: Next Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: customer_plan_next_payment_amount
+      label: Next Payment Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_plan_next_payment_status
+      label: Next Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid''}'
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Failed''}'
+      required: false
+    - id: 23
+      name: customer_plan_payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_plan_payment_frequency_date
+      label: Payment Frequency Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: customer_plan_payment_frequency_time
+      label: Payment Frequency Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: customer_plan_customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: customer_plan_admin_notes
+      label: Admin Notes
+      hint: null
+      type: note
+      options: []
+      required: false

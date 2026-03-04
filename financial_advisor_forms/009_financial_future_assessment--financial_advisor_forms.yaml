@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Future Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_goals
+      label: financial_goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: financial_status
+      label: financial_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Financially stable'', ''value'': ''Financially stable''}'
+      - '{''id'': 2, ''label'': ''Financially stable, but some challenges'', ''value'':
+        ''Financially stable, but some challenges''}'
+      - '{''id'': 3, ''label'': ''Not financially stable'', ''value'': ''Not financially
+        stable''}'
+      required: false
+    - id: 4
+      name: financial_goals_duration
+      label: financial_goals_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: financial_income
+      label: financial_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: financial_expenses
+      label: financial_expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: financial_assets
+      label: financial_assets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: financial_future_aims
+      label: financial_future_aims
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: financial_future_obstacles
+      label: financial_future_obstacles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None'', ''value'': ''None''}'
+      - '{''id'': 2, ''label'': ''Financial difficulties'', ''value'': ''Financial
+        difficulties''}'
+      - '{''id'': 3, ''label'': ''Health issues'', ''value'': ''Health issues''}'
+      - '{''id'': 4, ''label'': ''Relationship problems'', ''value'': ''Relationship
+        problems''}'
+      - '{''id'': 5, ''label'': ''Legal issues'', ''value'': ''Legal issues''}'
+      - '{''id'': 6, ''label'': ''Family issues'', ''value'': ''Family issues''}'
+      - '{''id'': 7, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: financial_future_plans
+      label: financial_future_plans
+      hint: null
+      type: text
+      options: []
+      required: false

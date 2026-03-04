@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dungeon Master Session Reservation Form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_details
+      label: Player Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: game_system
+      label: Game System
+      hint: null
+      type: select_one
+      options:
+      - Dungeons & Dragons
+      - Pathfinder
+      - Other
+      required: true
+    - id: 7
+      name: players
+      label: Players
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John Doe'', ''value'': ''john.doe''}'
+      - '{''label'': ''Jane Doe'', ''value'': ''jane.doe''}'
+      - '{''label'': ''Bob Smith'', ''value'': ''bob.smith''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: off_label_consent_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_conducted
+      label: date_conducted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_signed_date
+      label: patient_signed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: physician_signed_date
+      label: physician_signed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: physician_signed_name
+      label: physician_signed_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_dose
+      label: medication_dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_duration
+      label: medication_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_reason_for_use
+      label: medication_reason_for_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_consent
+      label: patient_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: physician_consent
+      label: physician_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_last_administration
+      label: date_of_last_administration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: last_dose_administered
+      label: last_dose_administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_dose_scheduled
+      label: next_dose_scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: patient_informed
+      label: patient_informed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physician_informed
+      label: physician_informed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_form_signed_by
+      label: consent_form_signed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: medication_prescribed_by
+      label: medication_prescribed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: patient_understood
+      label: patient_understood
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: medication_administered_by
+      label: medication_administered_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: physician_comments
+      label: physician_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_comments
+      label: patient_comments
+      hint: null
+      type: text
+      options: []
+      required: false

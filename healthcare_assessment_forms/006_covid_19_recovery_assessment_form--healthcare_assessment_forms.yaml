@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Recovery Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: initial_diagnosis_date
+      label: Initial COVID-19 Diagnosis Date
+      hint: When were you first diagnosed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recovery_start_date
+      label: Recovery Start Date
+      hint: When did you start feeling better
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: current_health_status
+      label: How would you rate your current health status
+      hint: Overall health rating
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: lingering_symptoms
+      label: Are you experiencing any lingering symptoms
+      hint: Long COVID symptoms
+      type: select_multiple
+      options:
+      - Fatigue or tiredness
+      - Difficulty breathing or shortness of breath
+      - Difficulty concentrating or brain fog
+      - Chest pain
+      - Heart palpitations
+      - Joint or muscle pain
+      - Headache
+      - Loss of taste or smell
+      - Sleep problems
+      - Dizziness or lightheadedness
+      - Depression or anxiety
+      - None of the above
+      required: true
+    - id: 11
+      name: symptom_severity
+      label: How severe are your lingering symptoms
+      hint: Impact on daily life
+      type: select_one
+      options:
+      - Not experiencing any symptoms
+      - Very mild - barely noticeable
+      - Mild - noticeable but not bothersome
+      - Moderate - somewhat bothersome
+      - Severe - significantly impacts daily activities
+      - Very severe - unable to perform daily activities
+      required: true
+    - id: 12
+      name: return_to_work_status
+      label: What is your current work status
+      hint: Employment situation
+      type: select_one
+      options:
+      - Returned to work full-time
+      - Returned to work part-time
+      - Working from home full-time
+      - Working from home part-time
+      - On medical leave
+      - Unable to work
+      - Not employed
+      required: true
+    - id: 13
+      name: physical_activity_level
+      label: How would you describe your current physical activity level
+      hint: Activity compared to before illness
+      type: select_one
+      options:
+      - Same as before COVID-19
+      - Slightly reduced
+      - Moderately reduced
+      - Significantly reduced
+      - Unable to be physically active
+      required: true
+    - id: 14
+      name: breathing_exercises
+      label: Are you currently doing breathing exercises or pulmonary rehabilitation
+      hint: Respiratory therapy
+      type: select_one
+      options:
+      - Yes regularly
+      - Yes occasionally
+      - No but recommended
+      - No not needed
+      required: true
+    - id: 15
+      name: mental_health_status
+      label: How has your mental health been since recovery
+      hint: Emotional wellbeing
+      type: select_one
+      options:
+      - Excellent - no concerns
+      - Good - minor concerns
+      - Fair - some concerns
+      - Poor - significant concerns
+      - Very poor - need immediate support
+      required: true
+    - id: 16
+      name: mental_health_support
+      label: Are you receiving any mental health support
+      hint: Counseling or therapy
+      type: select_one
+      options:
+      - Yes regular counseling or therapy
+      - Yes occasional support
+      - No but interested
+      - No not needed
+      required: true
+    - id: 17
+      name: sleep_quality
+      label: How is your sleep quality
+      hint: Sleep patterns
+      type: select_one
+      options:
+      - Excellent - no problems
+      - Good - occasional problems
+      - Fair - frequent problems
+      - Poor - severe problems
+      required: true
+    - id: 18
+      name: appetite_status
+      label: How is your appetite
+      hint: Eating patterns
+      type: select_one
+      options:
+      - Normal
+      - Slightly decreased
+      - Significantly decreased
+      - Slightly increased
+      - Significantly increased
+      required: true
+    - id: 19
+      name: follow_up_appointments
+      label: Have you attended all recommended follow-up appointments
+      hint: Medical follow-up
+      type: select_one
+      options:
+      - Yes all appointments attended
+      - Some appointments attended
+      - No appointments scheduled
+      - No appointments recommended
+      required: true
+    - id: 20
+      name: medications_current
+      label: Are you currently taking any medications for COVID-19 related conditions
+      hint: Current medications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: medication_list
+      label: List current medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: support_system
+      label: Do you have adequate support at home
+      hint: Family or caregiver support
+      type: select_one
+      options:
+      - Yes excellent support
+      - Yes adequate support
+      - Limited support
+      - No support available
+      required: true
+    - id: 23
+      name: additional_health_concerns
+      label: Do you have any additional health concerns you would like to discuss
+      hint: Other medical issues
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_name
+      label: Primary Healthcare Provider Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_comments
+      label: Additional Comments or Concerns
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

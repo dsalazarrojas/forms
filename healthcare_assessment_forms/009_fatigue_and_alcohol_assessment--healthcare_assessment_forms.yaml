@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fatigue and Alcohol Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fatigue_scale
+      label: Fatigue Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 0, ''label'': ''0 - 1''}'
+      - '{''id'': 2, ''value'': 5, ''label'': 5}'
+      - '{''id'': 3, ''value'': 10, ''label'': 10}'
+      - '{''id'': 4, ''value'': 15, ''label'': 15}'
+      - '{''id'': 5, ''value'': 20, ''label'': 20}'
+      - '{''id'': 6, ''value'': 25, ''label'': 25}'
+      required: false
+    - id: 7
+      name: have_alcohol_today
+      label: Have you consumed alcohol today?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': False, ''label'': False}'
+      - '{''id'': 2, ''value'': True, ''label'': True}'
+      required: false
+    - id: 8
+      name: alcohol_consumed
+      label: If yes, how many drinks?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false

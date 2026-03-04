@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_soundproofing_material_order_form
+    pages:
+    - id: 1
+      name: form_header
+      label: restaurant_soundproofing_material_order_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: soundproofing_materials
+      label: soundproofing_materials
+      hint: null
+      type: select_one
+      options:
+      - Acoustic Panels
+      - Soundproofing Material 2
+      - Soundproofing Material 3
+      - Soundproofing Material 4
+      required: true
+    - id: 11
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

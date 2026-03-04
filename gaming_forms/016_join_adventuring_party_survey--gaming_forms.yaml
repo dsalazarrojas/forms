@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: join_adventuring_party_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Join Adventuring Party Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_name
+      label: Party Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_leader
+      label: Party Leader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: adventure_preferences
+      label: Adventure Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: party_type
+      label: Party Type
+      hint: null
+      type: select_one
+      options:
+      - Adventurer
+      - Party
+      - Guild
+      - Alliance
+      - Company
+      required: true
+    - id: 6
+      name: adventure_frequency
+      label: Adventure Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: adventure_length
+      label: Adventure Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: player_notes
+      label: Player Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: save_draft
+      label: Save Draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: clear_fields
+      label: Clear Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: view_draft
+      label: View Draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delete_draft
+      label: Delete Draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: view_survey
+      label: View Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: print_survey
+      label: Print Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: share_survey
+      label: Share Survey
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Arcade Gaming Feedback
+    pages:
+    - id: 1
+      name: player_ratings
+      label: Player Ratings
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
+      required: true
+    - id: 2
+      name: favorite_titles
+      label: Favorite Titles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: feature_ideas
+      label: Feature Ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: player_comment
+      label: Player Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: developer_response
+      label: Developer Response
+      hint: null
+      type: text
+      options: []
+      required: false

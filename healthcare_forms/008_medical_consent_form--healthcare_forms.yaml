@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_consent_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_info
+      label: Treatment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 5
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: medical_treatment_info
+      label: Medical Treatment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider_info
+      label: Medical Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_email
+      label: Medical Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: medical_phone
+      label: Medical Phone
+      hint: null
+      type: text
+      options: []
+      required: false

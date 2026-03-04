@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drinking Water Contamination Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_multiple
+      options:
+      - Ground water
+      - Well
+      - Spring
+      - Tap water
+      - Reservoir
+      required: false
+    - id: 4
+      name: contamination_type
+      label: Contamination Type
+      hint: null
+      type: select_one
+      options:
+      - Bacteria
+      - Viral
+      - Chemical
+      - Radioactive
+      - Heavy Metal
+      - Other
+      required: false
+    - id: 5
+      name: reporting_party
+      label: Reporting Party
+      hint: null
+      type: select_one
+      options:
+      - Water Company
+      - Public Health Official
+      - Community Leader
+      - Other
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: outcome
+      label: Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 17
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_modified
+      label: Date Modified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: false

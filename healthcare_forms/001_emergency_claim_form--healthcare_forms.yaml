@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_claim_form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: claim_description
+      label: claim_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''pending''}'
+      - '{''id'': 2, ''text'': ''approved''}'
+      - '{''id'': 3, ''text'': ''denied''}'
+      required: false
+    - id: 7
+      name: assigned
+      label: assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit_claim
+      label: submit_claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_claim
+      label: confirm_claim
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: insurance_type
+      label: insurance_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''health''}'
+      - '{''id'': 2, ''text'': ''auto''}'
+      - '{''id'': 3, ''text'': ''other''}'
+      required: false
+    - id: 15
+      name: claim_category
+      label: claim_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''injury''}'
+      - '{''id'': 2, ''text'': ''auto''}'
+      - '{''id'': 3, ''text'': ''other''}'
+      required: false
+    - id: 16
+      name: claim_type
+      label: claim_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''injury''}'
+      - '{''id'': 2, ''text'': ''property''}'
+      - '{''id'': 3, ''text'': ''other''}'
+      required: false
+    - id: 17
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: provider_name
+      label: provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: report_number
+      label: report_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''injury''}'
+      - '{''id'': 2, ''text'': ''property''}'
+      - '{''id'': 3, ''text'': ''other''}'
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: upload_proof
+      label: upload_proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: upload_other
+      label: upload_other
+      hint: null
+      type: text
+      options: []
+      required: false

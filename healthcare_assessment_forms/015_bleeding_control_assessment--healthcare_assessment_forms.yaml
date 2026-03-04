@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bleeding Control Assessment
+    pages:
+    - id: 1
+      name: incident_header
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: responder_name
+      label: Responder name
+      hint: Person completing assessment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident date
+      hint: Date of bleeding incident
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident time
+      hint: Time of event
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_age
+      label: Patient age
+      hint: Whole number in years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bleeding_site
+      label: Bleeding site
+      hint: Location on body
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: estimated_blood_loss_ml
+      label: Estimated blood loss ml
+      hint: Approximate volume in milliliters
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: interventions_used
+      label: Interventions used
+      hint: e g direct pressure tourniquet wound packing
+      type: select_multiple
+      options:
+      - Direct pressure
+      - Tourniquet
+      - Wound packing
+      - Hemostatic dressing
+      - Transport to hospital
+      required: true
+    - id: 9
+      name: patient_vitals_notes
+      label: Patient vitals notes
+      hint: Record pulse blood pressure if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: outcome
+      label: Outcome
+      hint: Brief summary of patient outcome at handover
+      type: text
+      options: []
+      required: true

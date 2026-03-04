@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Treatment Record Form
+    pages:
+    - id: 1
+      name: dermal_filler_treatment_record_form
+      label: first_treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_date
+      label: date_of_treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_spent
+      label: time_spent_treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dermal_filler_injection_sites
+      label: injection_sites
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''forehead''}'
+      - '{''id'': 11, ''label'': ''cheek''}'
+      - '{''id'': 12, ''label'': ''nose''}'
+      - '{''id'': 13, ''label'': ''lips''}'
+      required: false
+    - id: 5
+      name: num_injections
+      label: num_injections
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: num_dermal_fillers
+      label: num_dermal_fillers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: num_dermal_filler_sessions
+      label: num_treatment_sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dermal_filler_treatment_notes
+      label: treatment_notes
+      hint: null
+      type: text
+      options: []
+      required: false

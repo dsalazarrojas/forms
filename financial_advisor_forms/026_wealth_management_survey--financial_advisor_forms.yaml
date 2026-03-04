@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Management Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: investment_experience
+      label: How would you rate your current investment experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: risk_tolerance
+      label: What is your risk tolerance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Very aggressive
+      - Moderately aggressive
+      - Conservative
+      - Very conservative
+      required: false
+    - id: 4
+      name: investment_objectives
+      label: What are your top investment objectives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grow wealth over time
+      - Income generation
+      - Income protection
+      - Wealth preservation
+      required: false
+    - id: 5
+      name: financial_goals
+      label: What are your financial goals
+      hint: null
+      type: select_one
+      options:
+      - Retirement planning
+      - Education funding
+      - Major purchase
+      - Other
+      required: false
+    - id: 6
+      name: risk_freezing_point
+      label: What is your risk freezing point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_freezing_point_score
+      label: What is your risk freezing point score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: investment_allocation
+      label: What is your preferred investment allocation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Cash
+      - Alternative investments
+      required: false

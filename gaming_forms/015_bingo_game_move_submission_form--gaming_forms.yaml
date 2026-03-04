@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bingo Game Move Submission Form
+    pages:
+    - id: 1
+      name: player_information
+      label: Player Information
+      hint: Enter player details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_first_name
+      label: First Name
+      hint: Player's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_last_name
+      label: Last Name
+      hint: Player's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: player_id
+      label: Player ID
+      hint: Player card or membership number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: player_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_session
+      label: Game Session
+      hint: Enter game session details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: game_date
+      label: Game Date
+      hint: Date of the bingo game
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: game_time
+      label: Game Time
+      hint: Time of the game session
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: game_number
+      label: Game Number
+      hint: Which game in the session
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: game_type
+      label: Game Type
+      hint: Type of bingo game being played
+      type: select_one
+      options:
+      - Standard 75-Ball
+      - 90-Ball Bingo
+      - Speed Bingo
+      - Bonanza Bingo
+      - Coverall
+      - Four Corners
+      - Custom Game
+      required: true
+    - id: 12
+      name: caller_name
+      label: Caller Name
+      hint: Name of the bingo caller
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: move_details
+      label: Move Details
+      hint: Report your bingo move
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: move_type
+      label: Move Type
+      hint: Type of winning move
+      type: select_one
+      options:
+      - Single Line
+      - Double Line
+      - Triple Line
+      - Four Corners
+      - Full Card Coverall
+      - Blackout
+      - Special Pattern
+      - Early Bird
+      required: true
+    - id: 15
+      name: winning_number
+      label: Last Number Called
+      hint: The number that completed your win
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: card_number
+      label: Bingo Card Number
+      hint: ID number on your winning card
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: winning_pattern
+      label: Winning Pattern
+      hint: Describe the pattern achieved
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: numbers_called_count
+      label: Numbers Called
+      hint: Total numbers called when bingo was achieved
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: verification_status
+      label: Verification Status
+      hint: Has the move been verified
+      type: select_one
+      options:
+      - Pending Verification
+      - Verified by Floor Person
+      - Verified by Supervisor
+      - Disputed
+      required: true
+    - id: 20
+      name: verifier_name
+      label: Verifier Name
+      hint: Name of person who verified
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: prize_information
+      label: Prize Information
+      hint: Prize details for this win
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: prize_amount
+      label: Prize Amount
+      hint: Dollar amount of prize
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: prize_type
+      label: Prize Type
+      hint: Type of prize awarded
+      type: select_one
+      options:
+      - Cash Prize
+      - Gift Card
+      - Merchandise
+      - Free Card Voucher
+      - Progressive Jackpot
+      - Consolation Prize
+      required: false
+    - id: 24
+      name: progressive_jackpot
+      label: Progressive Jackpot
+      hint: Was this a progressive jackpot win
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 25
+      name: witness_information
+      label: Witness Information
+      hint: Were there witnesses to the win
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: witnesses_present
+      label: Witnesses Present
+      hint: Number of witnesses
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: witness_names
+      label: Witness Names
+      hint: Names of witnesses if applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: special_notes
+      label: Special Notes
+      hint: Any additional comments about this move
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: dispute_flag
+      label: Dispute Flag
+      hint: Is there any dispute about this move
+      type: select_one
+      options:
+      - No Dispute
+      - Dispute Raised
+      - Resolved
+      required: true
+    - id: 30
+      name: submission_timestamp
+      label: Submission Time
+      hint: When was this move submitted
+      type: time
+      options: []
+      required: true

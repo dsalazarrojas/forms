@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Professional Screener
+    pages:
+    - id: 1
+      name: screener_form
+      label: Medical Staff Screener
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: Roles
+      hint: null
+      type: select_one
+      options:
+      - General Medicine
+      - Emergency Medicine
+      - Surgical Medicine
+      required: false
+    - id: 3
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Family Medicine
+      - Pediatrics
+      - Cardiology
+      required: false
+    - id: 4
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Lapsed
+      - Expired
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: certifications
+      label: Certifications
+      hint: List any medical certifications held by the staff member
+      type: select_multiple
+      options:
+      - ACLS/BLS
+      - BLS/ACLS
+      - PALS
+      required: false
+    - id: 7
+      name: medical_language
+      label: Medical Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      required: false
+    - id: 8
+      name: medical_credentials
+      label: Medical Credentials
+      hint: null
+      type: select_multiple
+      options:
+      - Board Certified
+      - Board Eligible
+      - Residency Completed
+      required: false

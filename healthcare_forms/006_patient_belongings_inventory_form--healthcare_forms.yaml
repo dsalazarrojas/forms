@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_belongings_inventory_form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: patient_identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: belonging_type
+      label: Belonging_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Wallet''}'
+      - '{''value'': ''Watch''}'
+      - '{''value'': ''Glasses''}'
+      required: false
+    - id: 3
+      name: belonging_description
+      label: description
+      hint: Provide a detailed description of the belonging
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: belonging_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''Missing''}'
+      - '{''value'': ''Damaged''}'
+      required: false
+    - id: 5
+      name: belonging_location
+      label: Location
+      hint: Where the belonging is located
+      type: select_one
+      options:
+      - '{''value'': ''Room''}'
+      - '{''value'': ''Ward''}'
+      - '{''value'': ''Closet''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: belonging_security_measure
+      label: Security_measure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Locked''}'
+      - '{''value'': ''Tagged''}'
+      - '{''value'': ''Identified''}'
+      required: false
+    - id: 7
+      name: belonging_value
+      label: value
+      hint: The value of the belonging
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: patient_contact
+      label: patient_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: belonging_return_date
+      label: returning_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: belonging_remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false

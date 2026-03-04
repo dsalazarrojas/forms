@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Daily Health Screening Form
+    pages:
+    - id: 1
+      name: screening_date
+      label: Screening Date
+      hint: Date of daily health check
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: screening_time
+      label: Screening Time
+      hint: What time are you completing this screening?
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: person_name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: person_id
+      label: ID Number
+      hint: Employee ID, Student ID, or other identifier
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Department
+      hint: Workplace, school, facility name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: temperature
+      label: Body Temperature
+      hint: Enter in Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fever_check
+      label: Do you have a fever (100.4 degrees F or higher)?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Did not check
+      required: true
+    - id: 8
+      name: cough
+      label: Do you have a new or worsening cough?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: true
+    - id: 9
+      name: shortness_of_breath
+      label: Do you have shortness of breath?
+      hint: Difficulty breathing or chest tightness
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: true
+    - id: 10
+      name: loss_taste_smell
+      label: Have you lost your sense of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: true
+    - id: 11
+      name: sore_throat
+      label: Do you have a sore throat?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: false
+    - id: 12
+      name: body_aches
+      label: Do you have body aches or muscle pain?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: false
+    - id: 13
+      name: headache
+      label: Do you have a headache?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: false
+    - id: 14
+      name: fatigue
+      label: Do you feel unusual fatigue or tiredness?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: false
+    - id: 15
+      name: nausea_vomiting
+      label: Do you have nausea or vomiting?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: false
+    - id: 16
+      name: diarrhea
+      label: Do you have diarrhea?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: false
+    - id: 17
+      name: covid_exposure
+      label: Have you been exposed to anyone with COVID-19?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - No exposure
+      - Exposed
+      - Not sure
+      - Prefer not to say
+      required: true
+    - id: 18
+      name: covid_test_positive
+      label: Have you tested positive for COVID-19?
+      hint: In the past 10 days
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Prefer not to say
+      required: true
+    - id: 19
+      name: quarantine_isolation
+      label: Are you currently under quarantine or isolation?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Not sure
+      required: true
+    - id: 20
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to answer
+      required: false
+    - id: 21
+      name: screening_outcome
+      label: Screening Result
+      hint: Based on responses above
+      type: select_one
+      options:
+      - Cleared - May proceed
+      - Refer to health professional
+      - Restrict from facility
+      - Follow-up needed
+      required: true
+    - id: 22
+      name: health_professional_review
+      label: Reviewed by Health Professional
+      hint: Name of person reviewing results
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Additional Notes or Concerns
+      hint: Any relevant health information to report
+      type: text
+      options: []
+      required: false

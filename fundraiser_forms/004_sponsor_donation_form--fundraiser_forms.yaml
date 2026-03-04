@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Donation Form
+    pages:
+    - id: 1
+      name: sponsor_information
+      label: sponsor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: amount_donated
+      label: amount_donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_donated
+      label: date_donated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_donated
+      label: time_donated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_message
+      label: sponsor_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

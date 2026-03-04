@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Care Records Release Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_transfer
+      label: date of transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: signature
+      label: healthcare provider signature
+      hint: Signature of the healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_transfer
+      label: reason for transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_concurrence
+      label: patient concurrence
+      hint: null
+      type: select_one
+      options:
+      - Patient with family member
+      - Patient
+      - Patient and family member
+      required: false
+    - id: 7
+      name: patient_relationship
+      label: patient relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Parent
+      - Other
+      - None
+      required: false
+    - id: 8
+      name: medical_provider
+      label: medical provider
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      - Unknown
+      required: false
+    - id: 9
+      name: patient_demographics
+      label: patient demographics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: authorization
+      label: authorization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: transfer_date
+      label: transfer date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medical_record
+      label: medical record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transfer_method
+      label: transfer method
+      hint: null
+      type: select_multiple
+      options:
+      - Electronic
+      - Fax
+      - Mail
+      - Other
+      - None
+      required: false
+    - id: 15
+      name: transfer_location
+      label: transfer location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transfer_method_details
+      label: transfer method details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transfer_date_time
+      label: transfer date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_number
+      label: medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: healthcare_provider
+      label: healthcare provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_address
+      label: patient address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: transfer_date_time_2
+      label: transfer date and time 2
+      hint: null
+      type: date
+      options: []
+      required: false

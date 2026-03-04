@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Event Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter your email address here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_interest
+      label: Participant Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Halloween
+      - Costume
+      - Pumpkin Carving
+      required: true
+    - id: 9
+      name: participant_treatment
+      label: Participant Treatment
+      hint: null
+      type: select_one
+      options:
+      - Trick or Treat
+      - Attend Event
+      - Stay Away
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

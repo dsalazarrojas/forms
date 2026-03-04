@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: hemiparesis_assessment_survey
+    pages:
+    - id: 1
+      name: symptom_severity
+      label: Symptom Severity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: functional_impact
+      label: Functional Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mobility_needs
+      label: Mobility Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pain_intensity
+      label: Pain Intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emotional_state
+      label: Emotional State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: cognitive_state
+      label: Cognitive State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: social_interactions
+      label: Social Interactions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: mobility_status
+      label: Mobility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: overall_functional_status
+      label: Overall Functional Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: mobility_needs_assistive_aid
+      label: Mobility Needs Assistive Aids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emotional_support_system
+      label: Emotional Support System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

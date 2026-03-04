@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Safety Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: healthcare_provider_name
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider_id
+      label: healthcare_provider_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: patient_age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: patient_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: vaccine_administered
+      label: vaccine_administered
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: vaccine_side_effects
+      label: side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 8
+      name: patient_health_status
+      label: health_status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: patient_covid_status
+      label: covid_status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Suspected
+      - Asymptomatic
+      - Recovered
+      required: true
+    - id: 10
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: survey_time
+      label: survey_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: vaccine_dosage
+      label: dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vaccine_administration_route
+      label: administration_route
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vaccine_type
+      label: vaccine_type
+      hint: null
+      type: select_one
+      options:
+      - Covid-19
+      - Flu
+      - None
+      required: true
+    - id: 18
+      name: patient_health_insurance
+      label: health_insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: patient_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false

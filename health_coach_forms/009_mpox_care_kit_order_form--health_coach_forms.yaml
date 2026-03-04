@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Care Kit Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Kit type
+      hint: null
+      type: select_multiple
+      options:
+      - Standard Kit
+      - Deluxe Kit
+      - Premium Kit
+      required: false
+    - id: 8
+      name: select_one
+      label: Kit size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 9
+      name: select_multiple
+      label: Additional items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 10
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      required: true
+    - id: 11
+      name: billing_plan
+      label: Billing Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Yearly
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 19
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Yearly
+      required: true
+    - id: 20
+      name: product_code
+      label: Product Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      required: true
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      required: true
+    - id: 25
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

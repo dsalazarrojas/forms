@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Detox Program Questionnaire Template
+    pages:
+    - id: 1
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_did_you_feel_before_program
+      label: how_did_you_feel_before_program
+      hint: null
+      type: select_multiple
+      options:
+      - Before Starting the Program
+      - During the Program
+      - After the Program
+      required: true
+    - id: 3
+      name: current_weight
+      label: current_weight
+      hint: Please enter your current weight
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: target_weight_range
+      label: target_weight_range
+      hint: Please enter your target weight range
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: program_length
+      label: program_length
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 2 Month
+      - 3 Month
+      - 4 Month
+      required: true
+    - id: 8
+      name: program_length_range
+      label: program_length_range
+      hint: Please specify how long you have been on the program
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: what_did_you_learn
+      label: what_did_you_learn
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: what_did_you_expect
+      label: what_did_you_expect
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

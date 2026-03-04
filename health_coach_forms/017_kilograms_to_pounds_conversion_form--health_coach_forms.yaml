@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kilograms To Pounds Conversion Form
+    pages:
+    - id: 1
+      name: weight_in_kilograms
+      label: Enter Weight In Kilograms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: select_unit
+      label: Select Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lb
+      - g
+      - oz
+      - lbm
+      - ton
+      required: false
+    - id: 3
+      name: conversion_result
+      label: Kilograms Equivalent In Pounds
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: convert_weight
+      label: Convert Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: result_message
+      label: Result Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: convert_button
+      label: Convert
+      hint: null
+      type: select_one
+      options:
+      - Convert
+      - Reset
+      required: false
+    - id: 7
+      name: weight_in_pounds
+      label: Weight In Pounds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: select_weight_unit
+      label: Select Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      required: false
+    - id: 9
+      name: convert_button_2
+      label: Convert 2
+      hint: null
+      type: select_one
+      options:
+      - Convert
+      - Reset
+      required: false
+    - id: 10
+      name: result_message_2
+      label: Result Message 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: result_message_3
+      label: Result Message 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: convert_result_2
+      label: Convert Result 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

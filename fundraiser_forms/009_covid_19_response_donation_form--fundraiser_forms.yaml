@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Response Donation Form
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: Date of donation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: donor_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly recurring
+      - Annual recurring
+      required: true
+    - id: 12
+      name: donation_designation
+      label: How would you like your donation to be used
+      hint: Fund designation
+      type: select_one
+      options:
+      - Where most needed
+      - COVID-19 relief efforts
+      - Medical supplies and equipment
+      - Community support programs
+      - Food assistance programs
+      - Healthcare worker support
+      - Vaccine distribution
+      - Economic recovery programs
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer (ACH)
+      - Check
+      - Venmo
+      - Cash App
+      - Zelle
+      required: true
+    - id: 14
+      name: credit_card_type
+      label: Credit Card Type
+      hint: Card network
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: 16-digit card number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expiration_date
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cvv
+      label: CVV
+      hint: 3 or 4 digit security code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_address_same
+      label: Is billing address the same as above
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_state
+      label: Billing State
+      hint: State
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employer_match
+      label: Does your employer offer donation matching
+      hint: Employer matching gift
+      type: select_one
+      options:
+      - true
+      - false
+      - I am not sure
+      required: false
+    - id: 24
+      name: honor_roll
+      label: Would you like to be recognized in our donor honor roll
+      hint: Public recognition
+      type: select_one
+      options:
+      - Yes list my name
+      - Yes list anonymously
+      - No keep private
+      required: true
+    - id: 25
+      name: newsletter_signup
+      label: Would you like to receive our newsletter and updates
+      hint: Email updates
+      type: select_one
+      options:
+      - Yes please send updates
+      - No thank you
+      required: true
+    - id: 26
+      name: dedication
+      label: Would you like to dedicate this donation
+      hint: In honor or memory of someone
+      type: select_one
+      options:
+      - No dedication
+      - In honor of someone
+      - In memory of someone
+      required: true
+    - id: 27
+      name: dedication_name
+      label: Dedication Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: dedication_message
+      label: Dedication Message
+      hint: Optional message
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Questions or comments
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_agreement
+      label: I agree to the terms and conditions and understand my donation is tax-deductible
+        to the extent allowed by law
+      hint: Terms agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

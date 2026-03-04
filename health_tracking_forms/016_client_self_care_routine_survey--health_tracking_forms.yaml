@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Self Care Routine Survey
+    pages:
+    - id: 1
+      name: client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - Over 65
+      required: false
+    - id: 6
+      name: wellness_goals_section
+      label: -- Wellness and Health Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_health_status
+      label: How would you rate your current overall health?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: primary_health_goals
+      label: What are your primary health and wellness goals?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weight Management
+      - Stress Reduction
+      - Improve Sleep
+      - Increase Energy
+      - Build Strength
+      - Improve Flexibility
+      - Better Nutrition
+      - Mental Health
+      - Other
+      required: true
+    - id: 9
+      name: current_challenges
+      label: What are your current health or wellness challenges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: self_care_section
+      label: -- Current Self-Care Routine --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: exercise_frequency
+      label: How often do you exercise?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Less than once a week
+      - Once a week
+      - 2-3 times per week
+      - 4-5 times per week
+      - 6-7 times per week
+      required: true
+    - id: 12
+      name: exercise_types
+      label: Types of exercise you do regularly
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Walking
+      - Running
+      - Strength Training
+      - Yoga
+      - Pilates
+      - Swimming
+      - Cycling
+      - Sports
+      - Other
+      required: false
+    - id: 13
+      name: sleep_hours
+      label: Average hours of sleep per night
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sleep_quality
+      label: Quality of your sleep
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 15
+      name: nutrition_section
+      label: -- Nutrition and Diet --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: meal_frequency
+      label: How often do you eat meals per day?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times
+      - 3 times
+      - 4 times
+      - 5+ times
+      required: false
+    - id: 17
+      name: water_intake
+      label: How many glasses of water do you drink daily?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: diet_quality
+      label: How would you rate the quality of your diet?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 19
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions or preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mindfulness_section
+      label: -- Stress Management and Mindfulness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: stress_level
+      label: Current stress level
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 22
+      name: stress_management
+      label: How often do you engage in stress management activities?
+      hint: Meditation, breathing exercises, journaling, etc.
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Weekly
+      - Several times per week
+      - Daily
+      required: true
+    - id: 23
+      name: mindfulness_practices
+      label: Mindfulness or relaxation practices you use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Meditation
+      - Deep Breathing
+      - Yoga
+      - Journaling
+      - Reading
+      - Music
+      - Nature Time
+      - Other
+      required: false
+    - id: 24
+      name: sleep_routine_section
+      label: -- Sleep and Rest Routine --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: bedtime_routine
+      label: Do you have a consistent bedtime routine?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: true
+    - id: 26
+      name: screen_time_before_bed
+      label: How much screen time before sleep?
+      hint: Hours per night
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: self_care_activities
+      label: -- Regular Self-Care Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: favorite_activities
+      label: What self-care activities do you most enjoy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: barriers_to_selfcare
+      label: What barriers prevent you from maintaining self-care routines?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: improvement_areas
+      label: Areas where you would like to improve your self-care
+      hint: null
+      type: text
+      options: []
+      required: false

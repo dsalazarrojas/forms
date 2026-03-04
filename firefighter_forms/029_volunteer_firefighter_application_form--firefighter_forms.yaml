@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Firefighter Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Other
+      required: true
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availability_end
+      label: availability end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_info
+      label: volunteer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_start_date
+      label: volunteer start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_hours
+      label: volunteer hours
+      hint: null
+      type: select_one
+      options:
+      - '2'
+      - '4'
+      - '6'
+      - '8'
+      - '12'
+      required: true
+    - id: 13
+      name: availability_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_certifications
+      label: medical certifications
+      hint: null
+      type: select_multiple
+      options:
+      - CPR Certification
+      - First Aid Certification
+      - EMT Certification
+      - Other
+      required: false
+    - id: 15
+      name: certifications
+      label: certifications
+      hint: null
+      type: select_multiple
+      options:
+      - EMT Certification
+      - Hazmat Certification
+      - First Aid Certification
+      - Other
+      required: false
+    - id: 16
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - EMT
+      - Firefighter
+      - Hazmat
+      - Other
+      required: false
+    - id: 17
+      name: medical_certification
+      label: medical certification
+      hint: null
+      type: select_one
+      options:
+      - None
+      - CPR Certification
+      - First Aid Certification
+      - EMT Certification
+      - Hazmat Certification
+      required: false
+    - id: 18
+      name: firefighter_info
+      label: firefighter info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: firefighter_certifications
+      label: firefighter certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Firefighter I
+      - Firefighter II
+      - Hazmat
+      - Other
+      required: false
+    - id: 20
+      name: firefighter_experience
+      label: firefighter experience
+      hint: null
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1 year or more
+      - Never
+      required: false
+    - id: 21
+      name: volunteer_hours_note
+      label: volunteer hours note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_certification_note
+      label: medical certification note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_certification_type
+      label: medical certification type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Both
+      required: false
+    - id: 24
+      name: firefighter_certification_note
+      label: firefighter certification note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review
+      label: review
+      hint: null
+      type: text
+      options: []
+      required: false

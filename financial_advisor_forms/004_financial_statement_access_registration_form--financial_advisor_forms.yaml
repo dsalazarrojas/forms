@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Statement Access Registration Form
+    pages:
+    - id: 1
+      name: financial_statement_access_registration_form
+      label: Financial Statement Access Registration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Financial Advisor Forms
+      - Financial Services
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Please provide a description for your financial statement access request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_access_request
+      label: Date of Access Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: access_request_type
+      label: Access Request Type
+      hint: null
+      type: select_one
+      options:
+      - Financial Statements
+      - Tax Returns
+      - Other
+      required: true
+    - id: 9
+      name: access_period
+      label: Access Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: access_expiration
+      label: Access Expiration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Union
+      - Other
+      required: true
+    - id: 12
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Other
+      required: true
+    - id: 13
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: address
+      label: Address
+      hint: Please provide your address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: confirm_contact_phone
+      label: Confirm Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: confirm_date_of_birth
+      label: Confirm Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: confirm_date_of_access_request
+      label: Confirm Date of Access Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: confirm_access_request_type
+      label: Confirm Access Request Type
+      hint: null
+      type: select_one
+      options:
+      - Financial Statements
+      - Tax Returns
+      - Other
+      required: true
+    - id: 24
+      name: confirm_access_period
+      label: Confirm Access Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: confirm_access_expiration
+      label: Confirm Access Expiration
+      hint: null
+      type: number
+      options: []
+      required: true

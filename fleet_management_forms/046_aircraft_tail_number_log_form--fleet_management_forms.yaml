@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Tail Number Log Form
+    pages:
+    - id: 1
+      name: log_date
+      label: Log Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tail_number
+      label: Tail Number
+      hint: Aircraft registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: aircraft_make
+      label: Aircraft Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: aircraft_model
+      label: Aircraft Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: serial_number
+      label: Serial Number
+      hint: Manufacturer serial
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: Flight identifier
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: departure_airport
+      label: Departure Airport
+      hint: Origin airport code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: departure_time
+      label: Departure Time
+      hint: Off-block time
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: arrival_airport
+      label: Arrival Airport
+      hint: Destination airport code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: arrival_time
+      label: Arrival Time
+      hint: On-block time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: flight_hours
+      label: Flight Hours
+      hint: Hobbs time
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: cycles
+      label: Flight Cycles
+      hint: Number of takeoff-landing cycles
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: pilot_name
+      label: Pilot in Command
+      hint: PIC name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: pilot_id
+      label: Pilot ID
+      hint: License or employee number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: copilot_name
+      label: Copilot
+      hint: Second in command
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: passengers
+      label: Number of Passengers
+      hint: Total passengers
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: cargo_weight
+      label: Cargo Weight (lbs)
+      hint: Total cargo
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fuel_uplifted
+      label: Fuel Uplifted (gallons)
+      hint: Fuel added
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: fuel_type
+      label: Fuel Type
+      hint: Type of fuel
+      type: select_one
+      options:
+      - Jet A
+      - Jet A-1
+      - Avgas 100LL
+      - Other
+      required: true
+    - id: 20
+      name: departure_fuel
+      label: Fuel at Departure
+      hint: Total fuel on board
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: arrival_fuel
+      label: Fuel at Arrival
+      hint: Remaining fuel
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: fuel_burn
+      label: Fuel Burn (gallons)
+      hint: Total consumed
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: purpose_of_flight
+      label: Purpose of Flight
+      hint: Flight type
+      type: select_one
+      options:
+      - Passenger transport
+      - Cargo
+      - Training
+      - Maintenance ferry
+      - Positioning
+      - Charter
+      - Private
+      - Other
+      required: true
+    - id: 24
+      name: route
+      label: Route
+      hint: Flight path if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: altitude
+      label: Cruising Altitude
+      hint: Flight level
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: weather_conditions
+      label: Weather Conditions
+      hint: General conditions
+      type: select_one
+      options:
+      - VFR
+      - IFR
+      - Mixed
+      required: true
+    - id: 27
+      name: incidents
+      label: Incidents or Issues
+      hint: Any problems encountered
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: maintenance_required
+      label: Maintenance Required
+      hint: Any maintenance needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: aircraft_status
+      label: Aircraft Status After Flight
+      hint: Current condition
+      type: select_one
+      options:
+      - Ready for next flight
+      - Needs servicing
+      - Maintenance required
+      - Grounded
+      required: true
+    - id: 31
+      name: next_scheduled_flight
+      label: Next Scheduled Flight
+      hint: Next assignment
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: parking_location
+      label: Parking Location
+      hint: Where aircraft parked
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: security_status
+      label: Security Status
+      hint: Aircraft secured
+      type: select_one
+      options:
+      - Secured
+      - Guards present
+      - Hangared
+      required: true
+    - id: 34
+      name: logged_by
+      label: Logged By
+      hint: Person making entry
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: log_signature
+      label: Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true

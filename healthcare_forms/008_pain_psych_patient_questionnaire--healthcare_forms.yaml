@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pain Psych Patient Questionnaire
+    pages:
+    - id: 1
+      name: pain_type
+      label: Pain Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pain_characteristics
+      label: Pain Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pain_location
+      label: Pain Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: psychological_history
+      label: Psychological History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pain_impact
+      label: Pain Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pain_frequency
+      label: Pain Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: pain_intensity
+      label: Pain Intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_history_notes
+      label: Medical History Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: psychological_history_notes
+      label: Psychological History Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

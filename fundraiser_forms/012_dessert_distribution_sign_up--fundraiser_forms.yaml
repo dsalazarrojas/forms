@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dessert Distribution Sign Up
+    pages:
+    - id: 1
+      name: main
+      label: dessert_distribution_sign_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: volunteer_info
+      label: volunteer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_email
+      label: volunteer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: dessert_info
+      label: dessert_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dessert_name
+      label: dessert_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer
+      label: volunteer
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Email
+      required: false
+    - id: 9
+      name: volunteer_list
+      label: volunteer_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: dessert
+      label: dessert
+      hint: null
+      type: select_one
+      options:
+      - Cake
+      - Pie
+      - Cookie
+      required: false
+    - id: 11
+      name: quantity_list
+      label: quantity_list
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 12
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

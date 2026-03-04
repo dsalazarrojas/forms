@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Verification Form
+    pages:
+    - id: 1
+      name: physician_verification_form_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physician_verification_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physician_verification_form_specialties
+      label: Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: physician_verification_form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physician_verification_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physician_verification_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: physician_verification_form_license
+      label: License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physician_verification_form_license_state
+      label: License State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physician_verification_form_license_issued
+      label: License Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: physician_verification_form_license_exp
+      label: License Exp
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: physician_verification_form_issued_licenses
+      label: Issued Licenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: physician_verification_form_worked_with
+      label: Worked With
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: physician_verification_form_treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_verification_form_procedure
+      label: Procedure
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Check Up Questionnaire
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Enter your company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Full name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: Email address for follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_size
+      label: Business Size
+      hint: Number of employees in your organization
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: true
+    - id: 6
+      name: fiscal_year_end
+      label: Fiscal Year End Month
+      hint: Select your fiscal year end month
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 7
+      name: revenue_trend
+      label: Revenue Trend - Past 12 Months
+      hint: How has your revenue changed over the past year
+      type: select_one
+      options:
+      - Significant increase
+      - Moderate increase
+      - Stable
+      - Moderate decrease
+      - Significant decrease
+      required: true
+    - id: 8
+      name: profit_margin_range
+      label: Current Profit Margin Range
+      hint: Select your approximate profit margin
+      type: select_one
+      options:
+      - Less than 5 percent
+      - 5-10 percent
+      - 11-20 percent
+      - 21-30 percent
+      - Over 30 percent
+      required: true
+    - id: 9
+      name: cash_flow_status
+      label: Cash Flow Status
+      hint: How would you describe your current cash flow
+      type: select_one
+      options:
+      - Excellent - always positive
+      - Good - mostly positive
+      - Adequate - manageable
+      - Challenging - frequent concerns
+      - Critical - immediate attention needed
+      required: true
+    - id: 10
+      name: debt_to_equity_ratio
+      label: Debt to Equity Ratio
+      hint: Approximate debt to equity ratio percentage
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_satisfaction_score
+      label: Customer Satisfaction Score
+      hint: Rate customer satisfaction on a scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: customer_retention_rate
+      label: Customer Retention Rate
+      hint: Percentage of customers retained over the past year
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: market_position
+      label: Market Position
+      hint: How do you position yourself in the market
+      type: select_one
+      options:
+      - Market leader
+      - Strong competitor
+      - Average performer
+      - Emerging player
+      - Struggling
+      required: true
+    - id: 14
+      name: operational_efficiency_rating
+      label: Operational Efficiency Rating
+      hint: Rate your operational efficiency
+      type: select_one
+      options:
+      - Highly efficient
+      - Above average
+      - Average
+      - Below average
+      - Inefficient
+      required: true
+    - id: 15
+      name: technology_adoption_level
+      label: Technology Adoption Level
+      hint: How would you rate your technology adoption
+      type: select_one
+      options:
+      - Industry leader
+      - Early adopter
+      - Average adopter
+      - Late adopter
+      - Resistant to change
+      required: true
+    - id: 16
+      name: employee_engagement_level
+      label: Employee Engagement Level
+      hint: Rate overall employee engagement
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Moderate
+      - Low
+      - Very low
+      required: true
+    - id: 17
+      name: key_performance_indicators
+      label: Key Performance Indicators Tracked
+      hint: Select all KPIs your business currently tracks
+      type: select_multiple
+      options:
+      - Revenue growth
+      - Profit margins
+      - Customer acquisition cost
+      - Customer lifetime value
+      - Employee productivity
+      - Cash flow
+      - Inventory turnover
+      - None currently
+      required: true
+    - id: 18
+      name: strategic_planning_status
+      label: Strategic Planning Status
+      hint: Do you have a documented strategic plan
+      type: select_one
+      options:
+      - Yes - comprehensive 3-5 year plan
+      - Yes - basic annual plan
+      - In progress
+      - No - planning to create
+      - No - not prioritized
+      required: true
+    - id: 19
+      name: risk_management_practices
+      label: Risk Management Practices
+      hint: Select all risk management practices in place
+      type: select_multiple
+      options:
+      - Insurance coverage
+      - Emergency fund
+      - Diversified revenue streams
+      - Succession planning
+      - Regular audits
+      - Compliance monitoring
+      - None currently
+      required: true
+    - id: 20
+      name: growth_objectives
+      label: Primary Growth Objectives
+      hint: Select your top growth priorities for the next year
+      type: select_multiple
+      options:
+      - Revenue increase
+      - Market expansion
+      - Product development
+      - Team expansion
+      - Process improvement
+      - Technology upgrade
+      - Customer base growth
+      required: true
+    - id: 21
+      name: biggest_challenges
+      label: Biggest Business Challenges
+      hint: What are your current biggest business challenges
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consultation_preferences
+      label: Preferred Consultation Method
+      hint: How would you prefer to receive consultation
+      type: select_one
+      options:
+      - In-person meeting
+      - Video conference
+      - Phone call
+      - Email consultation
+      - Written report only
+      required: false

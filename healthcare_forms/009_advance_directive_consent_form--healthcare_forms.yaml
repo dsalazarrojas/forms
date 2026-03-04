@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advance Directive Consent Form
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Legal full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: advance_directive_section
+      label: -- Advance Directive Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: life_sustaining_treatment_preference
+      label: Life-Sustaining Treatment Preference
+      hint: Do you want life-sustaining treatment if you are terminally ill
+      type: select_one
+      options: ["Yes, all possible measures", "Only measures that offer hope of recovery", "Comfort care only", "No life-sustaining treatment"]
+      required: true
+    - id: 7
+      name: cardiopulmonary_resuscitation_cpr_preference
+      label: Cardiopulmonary Resuscitation (CPR) Preference
+      hint: Do you want CPR if your heart stops beating
+      type: select_one
+      options: ["Yes, perform CPR", "No, do not perform CPR", "Depends on circumstances"]
+      required: true
+    - id: 8
+      name: mechanical_ventilation_preference
+      label: Mechanical Ventilation Preference
+      hint: Do you want to be placed on a breathing machine if needed
+      type: select_one
+      options: ["Yes, if needed", "No, do not use mechanical ventilation", "Only for temporary periods"]
+      required: true
+    - id: 9
+      name: artificial_nutrition_hydration_preference
+      label: Artificial Nutrition and Hydration Preference
+      hint: Do you want to receive food and water through tubes if unable to eat or drink
+      type: select_one
+      options: ["Yes, provide nutrition and hydration", "No, do not provide artificially", "Only temporarily while recovering"]
+      required: true
+    - id: 10
+      name: organ_donation_decision
+      label: Organ Donation Decision
+      hint: Do you wish to donate organs after death
+      type: select_one
+      options: ["Yes, I consent to organ donation", "No, I do not wish to donate", "Family decision", "Don't know"]
+      required: true
+    - id: 11
+      name: healthcare_proxy_section
+      label: -- Healthcare Proxy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_proxy_name
+      label: Healthcare Proxy Name
+      hint: Name of the person designated to make healthcare decisions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: healthcare_proxy_relationship
+      label: Healthcare Proxy Relationship
+      hint: Relationship to the patient
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_proxy_contact
+      label: Healthcare Proxy Contact
+      hint: Phone number and/or address of healthcare proxy
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: alternate_healthcare_proxy
+      label: Alternate Healthcare Proxy
+      hint: Name of alternate person if primary proxy is unavailable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specific_instructions_section
+      label: -- Specific Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: religious_or_spiritual_preferences
+      label: Religious or Spiritual Preferences
+      hint: Any religious or spiritual considerations for care
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_instructions
+      label: Additional Instructions
+      hint: Any other specific instructions for healthcare providers
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this advance directive
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: witness_signature_required
+      label: Witness Signature Required
+      hint: Does this form require witness signatures according to state law
+      type: select_one
+      options: ["Yes", "No", "Unsure"]
+      required: true

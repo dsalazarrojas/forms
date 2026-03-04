@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Feedback Form
+    pages:
+    - id: 1
+      name: game_feedback_form
+      label: Game Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: played_game_mode
+      label: Played Game Mode
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Unknown
+      required: false
+    - id: 6
+      name: player_level
+      label: Player Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: game_system
+      label: Game System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_id
+      label: Player ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: game_id
+      label: Game ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Player
+      - Staff
+      - Unknown
+      required: false
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

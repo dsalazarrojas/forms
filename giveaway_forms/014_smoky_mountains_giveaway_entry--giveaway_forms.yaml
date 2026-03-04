@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: smoky_mountains_giveaway_entry
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: What do you like about the Smoky Mountains?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''scenic_views'', ''label'': ''Scenic views''}'
+      - '{''value'': ''hiking_trails'', ''label'': ''Hiking trails''}'
+      - '{''value'': ''water_falls'', ''label'': ''Water falls''}'
+      required: false
+    - id: 9
+      name: select_multiple
+      label: Select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''scenic_views'', ''label'': ''Scenic views''}'
+      - '{''value'': ''hiking_trails'', ''label'': ''Hiking trails''}'
+      - '{''value'': ''water_falls'', ''label'': ''Water falls''}'
+      required: false

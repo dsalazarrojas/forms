@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health & Lifestyle Questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: height_and_weight
+      label: Height and Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exercise_frequencies
+      label: Exercise Frequencies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diet_and_physical_activity
+      label: Diet and Physical Activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physical_activity_levels
+      label: Physical Activity Levels
+      hint: null
+      type: select_one
+      options:
+      - sedentary
+      - light
+      - moderate
+      - moderate-heavy
+      - very-heavy
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - vegetarian
+      - vegan
+      - gluten-free
+      - lacto-ovo
+      - dairy
+      - meat
+      - none
+      required: false
+    - id: 11
+      name: health_goals
+      label: Health Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: health_concerns
+      label: Health Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false

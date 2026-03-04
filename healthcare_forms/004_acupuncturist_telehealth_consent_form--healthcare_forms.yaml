@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncturist Telehealth Consent Form
+    pages:
+    - id: 1
+      name: telehealth_consent_header
+      label: -- Telehealth Consent for Acupuncture Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: Valid email for telehealth connection details
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: practitioner_name
+      label: Practitioner Name
+      hint: Name of the licensed acupuncturist
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: practitioner_license
+      label: Practitioner License Number
+      hint: Professional license number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: telehealth_date
+      label: Telehealth Session Date
+      hint: Date of scheduled telehealth appointment
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: telehealth_time
+      label: Telehealth Session Time
+      hint: Time of scheduled telehealth appointment
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: technology_requirements_acknowledged
+      label: Technology Requirements Acknowledged
+      hint: Do you have necessary technology for telehealth session?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Need assistance
+      required: true
+    - id: 12
+      name: internet_connection_quality
+      label: Internet Connection Quality
+      hint: How would you rate your internet connection?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: device_used
+      label: Device Used for Session
+      hint: What device will you use for the telehealth session?
+      type: select_one
+      options:
+      - Computer
+      - Tablet
+      - Smartphone
+      - Other
+      required: true
+    - id: 14
+      name: limitations_acknowledged
+      label: Limitations of Telehealth Acknowledged
+      hint: Do you understand the limitations of telehealth compared to in-person
+        visits?
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 15
+      name: privacy_measures
+      label: Privacy Measures During Session
+      hint: How will you ensure privacy during the session?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_procedures_acknowledged
+      label: Emergency Procedures Acknowledged
+      hint: Do you understand what to do in case of an emergency during the session?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to maintain confidentiality of the session?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: consent_to_treatment
+      label: Consent to Telehealth Treatment
+      hint: Do you consent to receive acupuncture consultation via telehealth?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: recording_consent
+      label: Recording Consent
+      hint: Do you consent to the session being recorded for clinical purposes?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only certain portions
+      required: false
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: Practitioner's signature acknowledging consent discussion
+      type: text
+      options: []
+      required: true

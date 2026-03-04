@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Discharge Form
+    pages:
+    - id: 1
+      name: first_visit
+      label: First Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: insurance_info
+      label: prophets Insurance Information
+      hint: null
+      type: select_one
+      options:
+      - Medicaid
+      - Medicare
+      - Private Insurance
+      - Self-Pay
+      required: true
+    - id: 3
+      name: physical_therapy_goals
+      label: Physical Therapy Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve mobility
+      - Reduce pain
+      - Increase strength
+      required: false
+    - id: 4
+      name: physical_therapy_status
+      label: Physical Therapy Status
+      hint: null
+      type: select_one
+      options:
+      - Active Care
+      - Inactive care
+      - No PT
+      required: false
+    - id: 5
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: discharge_readiness
+      label: Readiness for Discharge
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: discharge_reason
+      label: Reason for Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provider_signature
+      label: prophets Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true

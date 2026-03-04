@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Quiz
+    pages:
+    - id: 1
+      name: quiz_form
+      label: Halloween Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: favorite_halloween_movie
+      label: Favorite Halloween Movie
+      hint: Enter your favorite movie
+      type: select_one
+      options:
+      - '{''text'': ''The Exorcist''}'
+      - '{''text'': ''The Conjuring''}'
+      - '{''text'': ''The Ring''}'
+      required: false
+    - id: 6
+      name: favorite_halloween_character
+      label: Favorite Halloween Character
+      hint: Enter your favorite character
+      type: select_multiple
+      options:
+      - '{''text'': ''Ghostface''}'
+      - '{''text'': ''Freddy''}'
+      - '{''text'': ''Michael''}'
+      required: false
+    - id: 7
+      name: how_do_you_know_halloween
+      label: How Do You Know Halloween?
+      hint: When did you start celebrating Halloween?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: goals
+      label: goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: favorite_halloween_thing_to_do
+      label: Favorite Halloween Thing to Do
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Attend a Haunted House''}'
+      - '{''text'': ''Trick or Treat''}'
+      - '{''text'': ''Go to a Costume Party''}'
+      required: false
+    - id: 12
+      name: favorite_halloween_place
+      label: Favorite Halloween Place
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Graveyard''}'
+      - '{''text'': ''Cemetery''}'
+      - '{''text'': ''Abandoned House''}'
+      required: false
+    - id: 13
+      name: favorite_halloween_food
+      label: Favorite Halloween Food
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Pumpkin Pie''}'
+      - '{''text'': ''Candy''}'
+      - '{''text'': ''Spider Cake''}'
+      required: false
+    - id: 14
+      name: favorite_halloween_activity
+      label: Favorite Halloween Activity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Trunk or Treating''}'
+      - '{''text'': ''Carving Pumpkins''}'
+      - '{''text'': ''Playing Horror Movies''}'
+      required: false
+    - id: 15
+      name: best_halloween_ever
+      label: Best Halloween Ever
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Awesome''}'
+      - '{''text'': None}'
+      required: false

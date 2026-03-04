@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Center Fund Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: The amount you donate will go directly to the rehabilitation centers.
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_method
+      label: Donation Method
+      hint: Check the box for the preferred method of donation.
+      type: select_multiple
+      options:
+      - Online
+      - In Person
+      - Mail
+      required: false

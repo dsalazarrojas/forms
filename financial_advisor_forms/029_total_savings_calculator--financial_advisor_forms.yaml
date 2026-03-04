@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Total Savings Calculator
+    pages:
+    - id: 1
+      name: gic_type
+      label: Gic Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Term GIC
+      - Other
+      required: false
+    - id: 2
+      name: years
+      label: Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: months
+      label: Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: monthly_value
+      label: Monthly Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_savings
+      label: Total Amount Saved
+      hint: This is the total amount saved.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - 0.00%
+      - 1.00%
+      - 2.00%
+      required: false
+    - id: 7
+      name: monthly_interest_added
+      label: Monthly Interest Added
+      hint: This is the total monthly interest added.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_savings_calculated
+      label: Total Amount Saved Calculated
+      hint: This is the total amount saved calculated.
+      type: number
+      options: []
+      required: true

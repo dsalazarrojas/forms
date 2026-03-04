@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Availability Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location_section
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: state_residence
+      label: State of Residence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: eligibility_section
+      label: -- Eligibility Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: essential_worker
+      label: Are you an essential worker
+      hint: Grocery, transit, law enforcement, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: essential_worker_type
+      label: If yes, type of essential worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: age_65_plus
+      label: Are you 65 years or older
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: underlying_conditions
+      label: Do you have underlying health conditions
+      hint: Chronic illness, immunocompromised
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: conditions_list
+      label: If yes, specify conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: live_in_facility
+      label: Live in congregate setting
+      hint: Long-term care, group home, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: facility_type
+      label: If yes, type of facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: frontline_worker
+      label: Frontline worker during pandemic
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: health_section
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: current_symptoms
+      label: Currently experiencing COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: positive_test
+      label: Recently tested positive for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: positive_test_date
+      label: If yes, date of positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: prior_vaccine
+      label: Previously vaccinated for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: prior_vaccine_type
+      label: If yes, vaccine type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: vaccine_access_section
+      label: -- Vaccine Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: preferred_provider
+      label: Preferred Vaccination Provider
+      hint: null
+      type: select_one
+      options:
+      - Doctor or clinic
+      - Pharmacy
+      - Health department
+      - Mobile clinic
+      - Community center
+      - No preference
+      required: true
+    - id: 28
+      name: transportation_need
+      label: Need transportation assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: language_preference
+      label: Language Preference
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Vietnamese
+      - Somali
+      - Other
+      required: false
+    - id: 30
+      name: eligibility_status
+      label: Eligibility Status
+      hint: To be determined by healthcare provider
+      type: select_one
+      options:
+      - Eligible - can schedule now
+      - Not yet eligible - will contact
+      - Eligible with restrictions
+      - Ineligible
+      required: false

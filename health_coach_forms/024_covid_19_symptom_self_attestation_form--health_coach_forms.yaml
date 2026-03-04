@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Symptom Self Attestation Form
+    pages:
+    - id: 1
+      name: attestation_date
+      label: Attestation Date
+      hint: Date of attestation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: exposure_date
+      label: Date of COVID-19 Exposure
+      hint: When were you exposed
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: exposure_description
+      label: Describe the Exposure
+      hint: How were you exposed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: symptom_onset_date
+      label: Date Symptoms Began
+      hint: When did symptoms start
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: current_symptoms
+      label: Which symptoms are you experiencing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath or difficulty breathing
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - New loss of taste or smell
+      - Sore throat
+      - Congestion or runny nose
+      - Nausea or vomiting
+      - Diarrhea
+      required: true
+    - id: 15
+      name: symptom_severity
+      label: How severe are your symptoms
+      hint: Impact level
+      type: select_one
+      options:
+      - Mild - can manage at home
+      - Moderate - uncomfortable but manageable
+      - Severe - significant discomfort
+      - Very severe - need medical attention
+      required: true
+    - id: 16
+      name: temperature_reading
+      label: Current Temperature
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: breathing_difficulty
+      label: Are you experiencing difficulty breathing
+      hint: Respiratory symptoms
+      type: select_one
+      options:
+      - false
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 18
+      name: chest_pain
+      label: Are you experiencing chest pain or pressure
+      hint: Chest symptoms
+      type: select_one
+      options:
+      - false
+      - Yes mild
+      - Yes moderate
+      - Yes severe
+      required: true
+    - id: 19
+      name: confusion_symptoms
+      label: Are you experiencing new confusion or inability to wake
+      hint: Neurological symptoms
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 20
+      name: bluish_lips_or_face
+      label: Do you have bluish lips or face
+      hint: Emergency symptom
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Cancer
+      - Chronic kidney disease
+      - COPD
+      - Heart conditions
+      - Obesity
+      - Diabetes
+      - Immunocompromised state
+      - Pregnancy
+      - Sickle cell disease
+      required: true
+    - id: 22
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physician_phone
+      label: Physician Phone
+      hint: Office number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: health_insurance
+      label: Health Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: medical_advice_received
+      label: Have you sought medical advice for your symptoms
+      hint: Medical consultation
+      type: select_one
+      options:
+      - No not yet
+      - Yes spoke with nurse line
+      - Yes spoke with doctor
+      - Yes visited urgent care
+      - Yes visited emergency room
+      required: true
+    - id: 28
+      name: medical_advice_summary
+      label: Summary of Medical Advice Received
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: attestation_statement
+      label: I attest that the information provided is true and accurate to the best
+        of my knowledge
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I attest to this information
+      - No I cannot attest
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

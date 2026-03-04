@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Stock Order Form
+    pages:
+    - id: 1
+      name: order_details_header
+      label: -- Inventory and Stock Ordering --
+      hint: Standardized procurement form for cafe supplies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_reference_num
+      label: Order Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requested_by
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Date of Order
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: priority_level
+      label: Delivery Priority
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Urgent - Low Stock
+      - Critical - Out of Stock
+      required: true
+    - id: 6
+      name: coffee_supplies_header
+      label: -- Coffee and Beverage Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: espresso_beans_kg
+      label: Espresso Beans (Total kg)
+      hint: house blend
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: single_origin_kg
+      label: Single Origin Beans (Total kg)
+      hint: specify origin in notes
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: milk_dairy_liters
+      label: Whole Milk and Skim (Liters)
+      hint: total count
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: milk_alt_liters
+      label: Alternative Milks (Oat/Almond/Soy)
+      hint: total count
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: consumables_header
+      label: -- Consumables and Packaging --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coffee_cups_lids
+      label: Paper Cups and Lids (Sleeves)
+      hint: specify sizes in notes
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sugar_stirrers
+      label: Sugar Packs and Stirrers (Boxes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pastries_bread_header
+      label: -- Food and Bakery Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: croissant_units
+      label: Fresh Croissants (Units)
+      hint: daily delivery
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: bakery_others
+      label: Other Bakery Items
+      hint: list items and quantities
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cleaning_supplies_header
+      label: -- Chemicals and Cleaning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: espresso_cleaner
+      label: Espresso Machine Cleaning Powder (Units)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: general_cleaner
+      label: Multi-surface and Glass Cleaner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: additional_stock_notes
+      label: Specific Instructions for Suppliers
+      hint: e.g. origin preference, delivery window
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: total_estimated_cost
+      label: Estimated Total Cost
+      hint: internal tracking only
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: manager_approval
+      label: Manager Approval
+      hint: name of person approving the order
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broken Appointment Policy Acknowledgement Form
+    pages:
+    - id: 1
+      name: patient_information_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number or patient ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Patient email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: appointment_information_header
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: missed_appointment_date
+      label: Missed Appointment Date
+      hint: Date of the missed appointment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: missed_appointment_time
+      label: Missed Appointment Time
+      hint: Time of the missed appointment
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: appointment_type
+      label: Type of Appointment
+      hint: Type of appointment that was missed
+      type: select_one
+      options:
+      - General Checkup
+      - Follow-up Visit
+      - Consultation
+      - Procedure
+      - Specialist Appointment
+      - Lab Work
+      - Imaging
+      - Other
+      required: true
+    - id: 11
+      name: provider_name
+      label: Provider Name
+      hint: Healthcare provider for the appointment
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reason_for_miss_header
+      label: -- Reason for Miss --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_miss
+      label: Reason for Missing Appointment
+      hint: Please select or describe why the appointment was missed
+      type: select_one
+      options:
+      - Forgot about appointment
+      - Scheduling conflict
+      - Transportation issues
+      - Illness or emergency
+      - Financial concerns
+      - Unable to contact clinic
+      - Other
+      required: true
+    - id: 14
+      name: reason_description
+      label: Additional Details
+      hint: Provide any additional details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_acknowledgement_header
+      label: -- Policy Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: policy_explanation
+      label: Broken Appointment Policy Notice
+      hint: Our practice policy regarding missed appointments
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: missed_appointment_fee
+      label: Missed Appointment Fee
+      hint: A no-show fee may be charged for missed appointments
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: cancellation_notice
+      label: Cancellation Notice Required
+      hint: Please provide at least 24 hours notice for cancellations
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: policy_acknowledged
+      label: I acknowledge the broken appointment policy
+      hint: Check to confirm you understand and accept the policy
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - Other
+      required: true
+    - id: 20
+      name: reschedule_intent
+      label: I wish to reschedule my appointment
+      hint: Select if you would like to reschedule
+      type: select_one
+      options:
+      - Yes please reschedule
+      - No I will call to reschedule
+      required: true
+    - id: 21
+      name: preferred_reschedule_date
+      label: Preferred Reschedule Date
+      hint: Date you would like to reschedule for
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Date Signed
+      hint: Date of this acknowledgement
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: patient_signature
+      label: Patient Signature
+      hint: Sign your name to acknowledge receipt
+      type: text
+      options: []
+      required: true

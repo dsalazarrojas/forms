@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_menu_preference_request_form
+    pages:
+    - id: 1
+      name: main_information
+      label: Main Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_picks
+      label: Menu Picks
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Pie
+      - Banana Split
+      - Burger
+      - Chicken Fajitas
+      - Chicken Fajitas
+      - Chicken Sandwich
+      - Donuts
+      - Grilled Cheese
+      - Ice Cream
+      - Pizza
+      - Salad
+      - Soup
+      required: true
+    - id: 3
+      name: special_requests
+      label: Special Requests
+      hint: Please list any requests or allergies you have, such as vegetarian, vegan,
+        or gluten-free.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Please select a date for the event.
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: Please select a time for the event.
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

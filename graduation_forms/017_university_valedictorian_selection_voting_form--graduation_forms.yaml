@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Valedictorian Selection Voting Form
+    pages:
+    - id: 1
+      name: vote_candidate_1
+      label: Select the first student
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Aiden''}'
+      - '{''name'': ''Bryan''}'
+      - '{''name'': ''Daisy''}'
+      - '{''name'': ''Emily''}'
+      required: false
+    - id: 2
+      name: vote_candidate_2
+      label: Select the second student
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Aiden''}'
+      - '{''name'': ''Bryan''}'
+      - '{''name'': ''Daisy''}'
+      - '{''name'': ''Emily''}'
+      required: false
+    - id: 3
+      name: vote_candidate_3
+      label: Select the third student
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Aiden''}'
+      - '{''name'': ''Bryan''}'
+      - '{''name'': ''Daisy''}'
+      - '{''name'': ''Emily''}'
+      required: false
+    - id: 4
+      name: vote_candidate_4
+      label: Select the fourth student
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Aiden''}'
+      - '{''name'': ''Bryan''}'
+      - '{''name'': ''Daisy''}'
+      - '{''name'': ''Emily''}'
+      required: false
+    - id: 5
+      name: total_votes
+      label: What is the total number of votes cast so far?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vote_candidate_5
+      label: Select the fifth student
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Aiden''}'
+      - '{''name'': ''Bryan''}'
+      - '{''name'': ''Daisy''}'
+      - '{''name'': ''Emily''}'
+      required: false
+    - id: 7
+      name: total_votes_2
+      label: What is the total number of votes cast so far?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: graduation_year
+      label: Graduation year
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Consultation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Why are you seeking cardiology consultation?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: symptom_duration
+      label: How long have you experienced these symptoms?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chest pain or discomfort
+      - Shortness of breath
+      - Heart palpitations
+      - Dizziness or lightheadedness
+      - Fainting spells
+      - Swelling in legs or feet
+      - Fatigue or weakness
+      - Irregular heartbeat
+      - High blood pressure
+      required: true
+    - id: 8
+      name: chest_pain_severity
+      label: Chest Pain Severity (if applicable)
+      hint: Rate on scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: chest_pain_triggers
+      label: What triggers your symptoms?
+      hint: e.g., physical activity, stress, certain foods
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: chest_pain_relief
+      label: What relieves your symptoms?
+      hint: e.g., rest, medication, change in position
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Relevant Medical History
+      hint: Select all applicable conditions
+      type: select_multiple
+      options:
+      - Hypertension
+      - Type 2 Diabetes
+      - Type 1 Diabetes
+      - High Cholesterol
+      - Previous Heart Attack
+      - Heart Failure
+      - Arrhythmia
+      - Stroke or TIA
+      - Kidney Disease
+      - Thyroid Disease
+      required: true
+    - id: 12
+      name: family_heart_history
+      label: Family History of Heart Disease
+      hint: Select if any close relatives have cardiac disease
+      type: select_one
+      options:
+      - Yes - parent, sibling, or child
+      - Yes - grandparent or more distant relative
+      - 'No'
+      - Unknown
+      required: true
+    - id: 13
+      name: current_medications
+      label: Current Medications
+      hint: List all prescription and over-the-counter medications
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medication_allergies
+      label: Medication Allergies
+      hint: List any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Current smoker
+      - Former smoker - quit within past year
+      - Former smoker - quit more than 1 year ago
+      - Never smoked
+      required: true
+    - id: 16
+      name: alcohol_use
+      label: Alcohol Use
+      hint: How many drinks per week?
+      type: select_one
+      options:
+      - None
+      - 1-7 drinks per week
+      - 8-14 drinks per week
+      - 15+ drinks per week
+      required: false
+    - id: 17
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How many days per week do you exercise?
+      type: select_one
+      options:
+      - 0 days per week
+      - 1-2 days per week
+      - 3-4 days per week
+      - 5-6 days per week
+      - Daily
+      required: false
+    - id: 18
+      name: dietary_habits
+      label: Dietary Habits
+      hint: Describe your typical diet
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stress_level
+      label: Stress Level
+      hint: How would you rate your current stress?
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 20
+      name: recent_tests
+      label: Recent Cardiac Tests or Procedures
+      hint: List any tests performed in the past year
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_treatments
+      label: Previous Cardiac Treatments
+      hint: Any surgeries, medications, or interventions?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quality_of_life
+      label: How do your symptoms impact quality of life?
+      hint: Describe limitations on daily activities
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: treatment_goals
+      label: What are your treatment goals?
+      hint: What outcome do you hope to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_information
+      label: Primary Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_to_treatment
+      label: I consent to cardiac evaluation and treatment recommendations
+      hint: Required to proceed
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

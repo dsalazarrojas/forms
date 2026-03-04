@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Broadcasting Donation Form
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: supporter_name
+      label: supporter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporter_email
+      label: supporter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: supporter_phone
+      label: supporter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: currency
+      label: currency
+      hint: null
+      type: select_multiple
+      options:
+      - AUD
+      - USD
+      - EUR
+      - GBP
+      required: false
+    - id: 7
+      name: currency_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: donation frequency
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 9
+      name: supporter_address
+      label: supporter address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporter_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supporter_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporter_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supporter_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporter_notes
+      label: supporter notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supporter_comments
+      label: supporter comments
+      hint: null
+      type: text
+      options: []
+      required: false

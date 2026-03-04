@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Center Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Aetna
+      - Blue Cross
+      - Medicaid
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_insurance_id
+      label: Medical Insurance ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship to the Patient
+      hint: null
+      type: select_one
+      options:
+      - Father
+      - Mother
+      - Brother
+      - Sister
+      - Spouse
+      - Friend
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Alzheimer's
+      - Diabetes
+      - Hypertension
+      required: false
+    - id: 13
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_specialty
+      label: Doctor's Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: doctor_contact
+      label: Doctor's Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_availability
+      label: Doctor's Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature
+      label: Doctor's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: patient_dob
+      label: Patient's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

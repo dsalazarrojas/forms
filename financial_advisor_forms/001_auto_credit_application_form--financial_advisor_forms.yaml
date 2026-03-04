@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Credit Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation details here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: Last 4 digits only for verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Current Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: Select your current employment status
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: true
+    - id: 14
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: annual_income
+      label: Annual Income
+      hint: Gross income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_header_credit
+      label: -- Credit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: credit_score_range
+      label: Estimated Credit Score Range
+      hint: null
+      type: select_one
+      options:
+      - Below 600
+      - 600-649
+      - 650-699
+      - 700-749
+      - 750+
+      required: true
+    - id: 18
+      name: existing_auto_loans
+      label: Do you have existing auto loans?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: vehicle_interest
+      label: What vehicle type interests you?
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Crossover
+      - Other
+      required: true
+    - id: 20
+      name: loan_amount_needed
+      label: Approximate Loan Amount Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: down_payment_available
+      label: Down Payment Available
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: preferred_loan_term
+      label: Preferred Loan Term (months)
+      hint: null
+      type: select_one
+      options:
+      - 24 months
+      - 36 months
+      - 48 months
+      - 60 months
+      - 72 months
+      required: true
+    - id: 23
+      name: authorization
+      label: I authorize credit inquiry
+      hint: Required to proceed with application
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, decline
+      required: true

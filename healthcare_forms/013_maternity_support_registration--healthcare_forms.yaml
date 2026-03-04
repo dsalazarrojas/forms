@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternity Support Registration
+    pages:
+    - id: 1
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: doulas_name
+      label: Doula's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expectant_mothers_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: expectant_mothers_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maternity_status
+      label: Maternity Status
+      hint: null
+      type: select_one
+      options:
+      - Expecting a baby
+      - Pregnant
+      - Just gave birth
+      - Postpartum
+      required: true
+    - id: 6
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false

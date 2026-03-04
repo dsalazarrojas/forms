@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reiki Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reiki_provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reiki_session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reiki_session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reiki_session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: reiki_session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read, understand, and agree to the terms and conditions of this form.
+      - I have not read, understand, or agree to the terms and conditions of this
+        form.
+      required: true
+    - id: 12
+      name: reiki_certification
+      label: Reiki Certification
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: reiki_session_price
+      label: Session Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reiki_session_price_type
+      label: Price Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      required: true
+    - id: 17
+      name: reiki_session_comments
+      label: Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reiki_session_status
+      label: Session Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Pending
+      - Canceled
+      required: true
+    - id: 19
+      name: reiki_provider_comments
+      label: Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reiki_session_outcome
+      label: Session Outcome
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Not Satisfied
+      - Neutral
+      required: true
+    - id: 21
+      name: reiki_session_outcome_comments
+      label: Session Outcome Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reiki_provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reiki_session_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: reiki_session_signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: reiki_session_signature_location
+      label: Signature Location
+      hint: null
+      type: text
+      options: []
+      required: true

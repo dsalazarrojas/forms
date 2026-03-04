@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fund Giving Application Form
+    pages:
+    - id: 1
+      name: non_profit_organization
+      label: non-profit-organization
+      hint: null
+      type: select_multiple
+      options:
+      - ABC Nonprofit
+      - DEF Nonprofit
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_amount
+      label: funding-amount
+      hint: Amount of funding applied for.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: funding_description
+      label: funding-description
+      hint: Please describe why you are requesting funding.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_materials
+      label: supporting-materials
+      hint: Please attach supporting materials as needed, i.e. images, pdfs, etc.
+      type: text
+      options: []
+      required: false

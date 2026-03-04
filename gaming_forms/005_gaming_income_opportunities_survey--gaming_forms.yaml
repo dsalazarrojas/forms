@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Income Opportunities Survey
+    pages:
+    - id: 1
+      name: income_streams
+      label: Income Streams
+      hint: null
+      type: select_one
+      options:
+      - Gaming
+      - Streaming
+      - YouTube
+      - Twitch
+      - Patreon
+      required: false
+    - id: 2
+      name: income_frequency
+      label: How often do you earn money from these streams?
+      hint: null
+      type: select_one
+      options:
+      - Gaming
+      - Streaming
+      - YouTube
+      - Twitch
+      - Patreon
+      required: false
+    - id: 3
+      name: income_amount
+      label: Average monthly income from these streams?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_motivation
+      label: What motivates you to earn money this way?
+      hint: null
+      type: select_multiple
+      options:
+      - Fun
+      - Financial security
+      - Social status
+      - Recognition
+      - Other
+      required: false
+    - id: 5
+      name: other_income_streams
+      label: Other income streams
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: gamer_type
+      label: What type of gamer are you?
+      hint: null
+      type: select_one
+      options:
+      - Mainstream gamer
+      - Esports player
+      - Content creator
+      - Professional gamer
+      - Casual gamer
+      required: false
+    - id: 7
+      name: income_from_twitch
+      label: How often do you earn money from Twitch?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 8
+      name: income_from_youtube
+      label: How often do you earn money from YouTube?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 9
+      name: income_from_twitch_payout
+      label: How much money do you earn per hour from Twitch?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: income_from_youtube_payout
+      label: How much money do you earn per hour from YouTube?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: income_from_streaming
+      label: How much money do you earn per hour from streaming?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: income_from_merchandise
+      label: How much money do you earn per hour from merchandise?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: income_from_prophets
+      label: How much money do you earn per hour from prophets?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: other_streams
+      label: Other streams
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: income_streams_description
+      label: What are some other income streams that you have not listed above?
+      hint: null
+      type: text
+      options: []
+      required: false

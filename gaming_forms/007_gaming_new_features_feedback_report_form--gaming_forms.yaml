@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming New Features Feedback Report Form
+    pages:
+    - id: 1
+      name: player_feedback
+      label: Player Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: gaming_experience
+      label: Gaming Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 3
+      name: new_feature
+      label: New Feature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 4
+      name: feedback_description
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suggest_improvement
+      label: Suggest Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gaming_new_feature_name
+      label: New Feature Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 7
+      name: gaming_new_feature_type
+      label: New Feature Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 8
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gaming_new_feature_impact
+      label: New Feature Impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: gaming_category
+      label: Game Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 11
+      name: gaming_new_feature_frequency
+      label: New Feature Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 12
+      name: gaming_new_feature_importance
+      label: New Feature Importance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 13
+      name: gaming_new_feature_satisfaction
+      label: New Feature Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 14
+      name: gaming_new_feature_confidence
+      label: New Feature Confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 15
+      name: gaming_new_feature_relevance
+      label: New Feature Relevance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 16
+      name: gaming_new_feature_satisfaction_frequency
+      label: New Feature Satisfaction Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 17
+      name: gaming_new_feature_satisfaction_importance
+      label: New Feature Satisfaction Importance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 18
+      name: gaming_new_feature_satisfaction_confidence
+      label: New Feature Satisfaction Confidence
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 19
+      name: gaming_new_feature_satisfaction_relevance
+      label: New Feature Satisfaction Relevance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 20
+      name: gaming_new_feature_satisfaction_average
+      label: New Feature Satisfaction Average
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 21
+      name: gaming_new_feature_satisfaction_max
+      label: New Feature Satisfaction Max
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 22
+      name: gaming_new_feature_satisfaction_min
+      label: New Feature Satisfaction Min
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: false
+    - id: 23
+      name: gaming_new_feature_rating
+      label: New Feature Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: gaming_new_feature_impact_frequency
+      label: New Feature Impact Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true
+    - id: 25
+      name: gaming_new_feature_impact_importance
+      label: New Feature Impact Importance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Health And Family Assessment
+    pages:
+    - id: 1
+      name: health_status
+      label: Health status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: family_history
+      label: family_history
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: lifestyle_factors
+      label: lifestyle_factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: submit_form
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 6
+      name: health_status_date
+      label: health_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: health_status_time
+      label: health_status_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: lifestyle_factors_comments
+      label: lifestyle_factors_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Game Survey
+    pages:
+    - id: 1
+      name: game_preferences
+      label: What is your preferred game genre?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_game
+      label: What is your favorite game?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_frequency
+      label: How often do you play games?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: game_duration
+      label: How long do you play games for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: game_rating
+      label: What is your game rating?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: game_purchase_history
+      label: Have you ever purchased a game?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: game_purchased_games
+      label: What games have you purchased?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: game_purchased_price
+      label: How much did you spend on your most recent game?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: game_purchased_frequency
+      label: How often do you purchase new games?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: game_purchased_platform
+      label: On what platform do you purchase games?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: game_purchased_recommendations
+      label: Do you ask for game recommendations?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: game_purchased_recommended_friends
+      label: From whom do you usually get game recommendations?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: game_purchased_recommended_platform
+      label: On what platform do you usually get game recommendations?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: game_played_on
+      label: What time of day do you usually play games?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: game_played_duration
+      label: How long do you usually play games?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: game_played_frequency
+      label: How often do you play games?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: game_rating_scale
+      label: How would you rate this game?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 18
+      name: game_interest
+      label: What game genres interest you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: game_interest_frequency
+      label: How often do new game releases interest you?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: game_played_with
+      label: With whom do you usually play games?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: game_played_with_frequency
+      label: How often do you play with friends?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: game_played_with_type
+      label: What type of game do you usually play with?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: game_played_with_platform
+      label: On what platform do you usually play with friends?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: game_interests
+      label: What else interests you besides games?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: demographic
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Growth Supplement Daily Use Intake Form
+    pages:
+    - id: 1
+      name: hair_growth_supplement_use
+      label: Daily Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: adherence_level
+      label: Adherence Level
+      hint: Rate your supplement use over the past 24 hours
+      type: select_one
+      options:
+      - 1 - Not taken
+      - 2 - Partially taken
+      - 3 - Taken as directed
+      - 4 - More than directed
+      required: false
+    - id: 3
+      name: side_effects
+      label: Side Effects
+      hint: Describe any side effects experienced while taking the supplement
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall Experience
+      hint: Describe your overall experience with the supplement
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: hair_growth
+      label: Hair Growth
+      hint: Measure your hair growth over the past 24 hours
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: Is there anything you would like to ask or want to discuss about your
+        supplement use or overall experience?
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Course Evaluation Survey
+    pages:
+    - id: 1
+      name: course_overall_satisfaction
+      label: What was your overall satisfaction with the course?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: course_materials
+      label: Were the course materials helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_format
+      label: How would you rate the course format?
+      hint: null
+      type: select_one
+      options:
+      - Very Engaging
+      - Somewhat Engaging
+      - Not Engaging
+      - Not Sure
+      required: false
+    - id: 4
+      name: course_instructions
+      label: Were the course instructions clear?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: course_length
+      label: How many weeks would you recommend the course be?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: course_rating
+      label: Rate this course
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: course_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_institution
+      label: Contact Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_role
+      label: Contact Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_attended
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false

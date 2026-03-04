@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wrestling Match Prediction Survey
+    pages:
+    - id: 1
+      name: match_prediction_form
+      label: Match Prediction Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: match1_picks
+      label: Match 1
+      hint: Select your picks
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: match1_confidence_level
+      label: Confidence Level Match 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: match1_reasoning
+      label: Reasoning For Match 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: match1_confidence_note
+      label: Confidence Note (Match 1)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: match2_picks
+      label: Match 2
+      hint: Select your picks
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: match2_confidence_level
+      label: Confidence Level Match 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: match2_reasoning
+      label: Reasoning For Match 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: match2_confidence_note
+      label: Confidence Note (Match 2)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

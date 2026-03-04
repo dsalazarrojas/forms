@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Auction Registration Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Auction Registration --
+      hint: Register attendees and bidders for the charity auction
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee name
+      hint: full name for registration and bidding
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: confirmations and bidder number
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: contact phone for event day
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: attendee type
+      hint: role at the event
+      type: select_one
+      options:
+      - Guest
+      - Donor
+      - Sponsor
+      - Volunteer
+      required: true
+    - id: 6
+      name: ticket_quantity
+      label: ticket quantity
+      hint: number of tickets to reserve
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bidder_interest
+      label: bidder interest
+      hint: indicate if you intend to bid
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 8
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: indicate any meal restrictions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: how you will pay for tickets or items
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - At door
+      required: true
+    - id: 10
+      name: special_requests
+      label: special requests
+      hint: seating or accessibility needs
+      type: text
+      options: []
+      required: false

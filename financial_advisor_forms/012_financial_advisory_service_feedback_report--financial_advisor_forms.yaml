@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Advisory Service Feedback Report
+    pages:
+    - id: 1
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: How satisfied are you with the service you received?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_advisor_rating
+      label: Service Advisor Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: Please list specific areas of improvement
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: How can we improve the service?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback_question_3
+      label: Is there anything else you would like to tell us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: goals
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: false

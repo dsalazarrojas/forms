@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: admission_date
+      label: Hospital Admission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attending_cardiologist
+      label: Attending Cardiologist
+      hint: Name of the treating cardiologist
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Main cardiac condition treated
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: procedures_performed
+      label: Procedures Performed
+      hint: List all cardiac procedures done during admission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: surgical_interventions
+      label: Surgical or Interventional Treatments
+      hint: e.g., stent placement, bypass, pacemaker implant
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discharge_medications
+      label: Discharge Medications
+      hint: List all medications patient should take at home
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medication_changes
+      label: Changes to Home Medications
+      hint: What has been added, stopped, or modified?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: activity_restrictions
+      label: Activity Restrictions
+      hint: What activities should be limited or avoided?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: exercise_recommendations
+      label: Exercise Recommendations
+      hint: Specific guidance on physical activity
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: diet_restrictions
+      label: Dietary Restrictions or Changes
+      hint: Any specific diet modifications needed?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: weight_monitoring
+      label: Weight Monitoring Instructions
+      hint: Should patient monitor weight? Target range?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: symptoms_watch
+      label: Symptoms to Watch For
+      hint: Red flags requiring immediate medical attention
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_appointment
+      label: Follow-up Cardiology Appointment Scheduled?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes - appointment date:'
+      - 'No - patient to schedule within:'
+      - None required at this time
+      required: true
+    - id: 18
+      name: follow_up_date
+      label: Recommended Follow-up Date
+      hint: When should patient see cardiologist again?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: other_specialist_referrals
+      label: Referrals to Other Specialists
+      hint: Any other doctors patient should see?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cardiac_rehab
+      label: Cardiac Rehabilitation Program Recommended?
+      hint: null
+      type: select_one
+      options:
+      - Yes - enrollment provided
+      - Yes - patient will schedule independently
+      - No - not indicated
+      required: true
+    - id: 21
+      name: patient_instructions
+      label: Special Patient Instructions
+      hint: Additional important discharge instructions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Who should be contacted in case of emergency?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Name and contact information
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_understanding
+      label: Patient Understanding of Discharge Instructions
+      hint: Did patient understand all instructions?
+      type: select_one
+      options:
+      - Yes - understood and acknowledged
+      - Partially - clarification provided
+      - No - additional education needed
+      required: true
+    - id: 26
+      name: medications_compliance
+      label: Medication Adherence Instructions
+      hint: Emphasize importance of taking medications as prescribed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: discharge_summary_provided
+      label: Discharge Summary Provided to Patient
+      hint: null
+      type: select_one
+      options:
+      - Yes - paper and electronic
+      - Yes - paper only
+      - Yes - electronic only
+      - Pending
+      required: true

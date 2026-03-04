@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Hospital Research Wing Donation Form
+    pages:
+    - id: 1
+      name: donatetype
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donortype
+      label: Donor Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donationamount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: paymentmethod
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: paymenyouthree
+      label: Payment Method - Youths Three
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned
+      label: Assigned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: outputfile
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assignedtool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: outputfilename
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: outputfilepath
+      label: Output File Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: paymentprocessor
+      label: Payment Processor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: paymenyouthreeprocessor
+      label: Payment Processor - Youth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: donoracknowledgement
+      label: Donor Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: donoryouthacknowledgement
+      label: Donor Acknowledgement - Youth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: donationdate
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: donoryouthdate
+      label: Donation Date - Youth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: donoracknowledgementemail
+      label: Donor Acknowledgement Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: donoracknowledgementphone
+      label: Donor Acknowledgement Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: donoracknowledgementnote
+      label: Donor Acknowledgement Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: donoracknowledgementfile
+      label: Donor Acknowledgement File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: donoracknowledgementfilename
+      label: Donor Acknowledgement File Name
+      hint: null
+      type: text
+      options: []
+      required: false

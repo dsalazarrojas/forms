@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Diary Form
+    pages:
+    - id: 1
+      name: nutrition_diary_form
+      label: Food Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: daily_habit
+      label: Daily Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: nutrition_diets
+      label: Nutrition Diets
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian Diet
+      - Keto Diet
+      - Omnivore Diet
+      required: false
+    - id: 4
+      name: food_intakes
+      label: Food Intakes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sleep_hours
+      label: Sleep Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exercise
+      label: Exercise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supplements
+      label: Supplements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

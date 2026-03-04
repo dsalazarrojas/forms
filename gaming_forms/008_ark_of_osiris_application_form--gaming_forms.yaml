@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ark Of Osiris Application Form
+    pages:
+    - id: 1
+      name: section_basic_info
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Game Username or Player Name
+      hint: The name you use in Ark of Osiris
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_real_name
+      label: Real Name
+      hint: Optional - for team roster
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: discord_username
+      label: Discord Username
+      hint: For team communication
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_experience
+      label: -- Gaming Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hours_played
+      label: Total Hours Played in Ark of Osiris
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Professional
+      required: true
+    - id: 11
+      name: favorite_class
+      label: Favorite Class or Character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: playstyle
+      label: Primary Playstyle
+      hint: null
+      type: select_one
+      options:
+      - Aggressive - offensive tactics
+      - Balanced - mixed approach
+      - Defensive - protective strategy
+      - Support - team assistance
+      - Solo - independent play
+      required: true
+    - id: 13
+      name: team_experience
+      label: Previous team gaming experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_team
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: team_position
+      label: Position you are applying for
+      hint: null
+      type: select_one
+      options:
+      - Leader
+      - Core member
+      - Substitute
+      - Bench player
+      - Support role
+      - Any position
+      required: true
+    - id: 16
+      name: availability
+      label: Weekly Availability
+      hint: Hours per week you can commit
+      type: select_one
+      options:
+      - 5-10 hours
+      - 10-15 hours
+      - 15-20 hours
+      - 20-30 hours
+      - 30+ hours
+      required: true
+    - id: 17
+      name: timezone
+      label: Your Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: communication_skills
+      label: Communication skills and language proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_goals_alignment
+      label: How your goals align with team objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Information or Comments
+      hint: Tell us why you want to join our team
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutritional Protocol Recommendations Form
+    pages:
+    - id: 1
+      name: user_input1
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select1
+      label: Nutritional Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Normal''}'
+      - '{''id'': 2, ''value'': ''Abnormal''}'
+      required: true
+    - id: 3
+      name: date1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: user_input2
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select2
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Male''}'
+      - '{''id'': 2, ''value'': ''Female''}'
+      required: true
+    - id: 6
+      name: time1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: user_input3
+      label: Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_input4
+      label: Height (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: user_input5
+      label: Blood Pressure (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: user_input6
+      label: Blood Sugar Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_input7
+      label: Blood Sugar Level (target)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: select3
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Diabetes''}'
+      - '{''id'': 2, ''value'': ''Hypertension''}'
+      - '{''id'': 3, ''value'': ''Obesity''}'
+      required: true
+    - id: 13
+      name: user_input8
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_input9
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_input10
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_input11
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_input12
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: select4
+      label: Nutritional Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Normal''}'
+      - '{''id'': 2, ''value'': ''Abnormal''}'
+      required: true
+    - id: 19
+      name: select5
+      label: Medical Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Normal''}'
+      - '{''id'': 2, ''value'': ''Abnormal''}'
+      required: true
+    - id: 20
+      name: user_input13
+      label: Blood Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_input14
+      label: Blood Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_input15
+      label: Blood Pressure (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: user_input16
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: user_input17
+      label: Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: user_input18
+      label: Body Mass Index (BMI)
+      hint: null
+      type: number
+      options: []
+      required: false

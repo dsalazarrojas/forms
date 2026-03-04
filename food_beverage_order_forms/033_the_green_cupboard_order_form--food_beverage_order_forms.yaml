@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: The Green Cupboard Order Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: cutoff_date
+      label: Cutoff Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: min_order
+      label: Min Order
+      hint: '500'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_one
+      options:
+      - Nuvali villages
+      - Sta.Rosa Villages
+      - Laguna via Lalamove
+      required: true
+    - id: 5
+      name: delivery_fee
+      label: Delivery Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_items
+      label: Order Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_instructions
+      label: Order Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: total_order
+      label: Total Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Delivered
+      - Pending
+      - Cancel
+      required: true
+    - id: 18
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Not Paid
+      required: true
+    - id: 21
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_person
+      label: Payment Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

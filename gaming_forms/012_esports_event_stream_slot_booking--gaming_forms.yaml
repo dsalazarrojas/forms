@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: esports_event_stream_slot_booking
+    pages:
+    - id: 1
+      name: stream_slot_booking
+      label: Book Stream Slot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: platform
+      label: Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Solo
+      - Mixed
+      required: false
+    - id: 7
+      name: slot_duration
+      label: Slot Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: false
+    - id: 8
+      name: event_schedule
+      label: Event Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: streamer_name
+      label: Streamer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: streamer_email
+      label: Streamer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: streamer_phone
+      label: Streamer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 18
+      name: stream_status
+      label: Stream Status
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Pending
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Haircare Consultation Improvement Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_questions
+      label: Rating Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: note_to_self
+      label: Note to Self
+      hint: Note to Self
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_for_follow_up
+      label: Email for Follow up
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_consultation
+      label: Date of Consultation
+      hint: Date of Consultation
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_consultation
+      label: Time of Consultation
+      hint: Time of Consultation
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note_to_salon
+      label: Note to Salon
+      hint: Note to Salon
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional Comments
+      type: note
+      options: []
+      required: false

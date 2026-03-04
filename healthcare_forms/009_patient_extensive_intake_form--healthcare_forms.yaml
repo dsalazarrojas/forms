@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_extensive_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: middle_name
+      label: middle_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_death_certified
+      label: Date of Death Certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pulse_rate
+      label: Pulse Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: breathing_rate
+      label: Breathing Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: height_in_inches
+      label: Height in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weight_lbs
+      label: Weight in Lbs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Acne
+      - Diabetes
+      - High Blood Pressure
+      - High Cholesterol
+      - Heart Disease
+      - Stroke
+      - Cancer
+      - Asthma
+      - Allergies
+      - Anemia
+      - Alzheimer's
+      - Arthritis
+      - Bronchitis
+      - COPD
+      - Chronic Back Pain
+      - Chronic Fatigue Syndrome
+      - Chronic Liver Disease
+      - Colorectal Cancer
+      - Dementia
+      - Depression
+      - Diabetes (Type 1)
+      - Diabetes (Type 2)
+      - Fibromyalgia
+      - Gout
+      - Hyperactivity Disorder
+      - Hypertension
+      - Insomnia
+      - Migraine
+      - Multiple Sclerosis
+      - Osteoporosis
+      - Osteoarthritis
+      - Parkinson's
+      - Peripheral Neuropathy
+      - Psoriasis
+      - Rheumatoid Arthritis
+      - Scoliosis
+      - Spinal Stenosis
+      - Thrombocytopenia
+      - Tinnitus
+      - Tumors
+      - Ulcers
+      - Urinary Tract Infection
+      - Vasculitis
+      - Vitamin Deficiency
+      - Vitamin B12 Deficiency
+      - Vitamin C Deficiency
+      - Vitamin D Deficiency
+      - Vitamin Niacin Deficiency
+      - Vitamin P Deficiency
+      - Vitamin B12 Deficiency
+      required: false
+    - id: 18
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Family History
+      - Current Medical History
+      - Past Medical History
+      - Surgical History
+      - Medication History
+      - Family History
+      - Social History
+      - Surgical History
+      required: false
+    - id: 21
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_relationship_status
+      label: Patient Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      - Separated
+      - In a Relationship
+      - In a Domestic Partnership
+      - In a Civil Union
+      - In a Common Law Marriage
+      - In a Same-Sex Relationship
+      - In a Different Legal Jurisdiction
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship_status
+      label: Emergency Contact Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Partner
+      - Friend
+      - Child
+      - Parent
+      - Other
+      required: false
+    - id: 25
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_relationship_status_2
+      label: Emergency Contact Relationship Status 2
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Partner
+      - Friend
+      - Child
+      - Parent
+      - Other
+      required: false

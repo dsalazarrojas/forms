@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: IdentityVerificationForm
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employment_info
+      label: Employment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_info_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: employment_info_employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_info_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employment_info_employment_date
+      label: Employment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: identity_verification
+      label: Identity Verification
+      hint: Please enter your identity verification document upload link
+      type: select_multiple
+      options:
+      - Upload ID Card
+      - Upload Passport
+      - Upload Driving License
+      required: false
+    - id: 11
+      name: identity_verification_document
+      label: Document
+      hint: null
+      type: text
+      options: []
+      required: false

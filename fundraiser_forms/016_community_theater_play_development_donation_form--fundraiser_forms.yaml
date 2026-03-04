@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Theater Play Development Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor full name
+      hint: Name for recognition and receipts
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor email address
+      hint: For receipt and communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation amount
+      hint: Enter numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_designation
+      label: Designation
+      hint: Specify play development or general fund
+      type: select_one
+      options:
+      - Play development
+      - Production costs
+      - Scholarships
+      - General fund
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Choose payment type
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Bank transfer
+      required: true
+    - id: 6
+      name: acknowledgment_preference
+      label: Acknowledgement preference
+      hint: How would you like to be acknowledged
+      type: select_one
+      options:
+      - Public recognition
+      - Anonymous
+      - Private letter
+      required: false
+    - id: 7
+      name: comments
+      label: Comments or dedication
+      hint: Optional message for the program
+      type: text
+      options: []
+      required: false

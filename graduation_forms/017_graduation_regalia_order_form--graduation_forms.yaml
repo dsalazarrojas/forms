@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Regalia Order Form
+    pages:
+    - id: 1
+      name: graduation_regalia_order_form
+      label: Graduation Regalia Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: graduation_sizing_details
+      label: graduation_sizing_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_type
+      label: delivery_type
+      hint: null
+      type: select_one
+      options:
+      - Delivery to Store
+      - Delivery to Campus Store
+      - Pickup
+      - Pickup in person
+      required: false
+    - id: 4
+      name: store_id
+      label: store_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: regalia_order
+      label: regalia_order
+      hint: null
+      type: select_multiple
+      options:
+      - Cap and Gown
+      - Hood and Cap
+      - Hood and Scabbard
+      - Regalia Set
+      required: false
+    - id: 7
+      name: regalia_color
+      label: regalia_color
+      hint: null
+      type: select_multiple
+      options:
+      - Gold
+      - Silver
+      - Other
+      required: false
+    - id: 8
+      name: regalia_size
+      label: regalia_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: regalia_cost
+      label: regalia_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Other
+      required: false
+    - id: 11
+      name: payment_method_type
+      label: payment_method_type
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Donation Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alumni_id
+      label: Alumni ID Number
+      hint: If known, otherwise leave blank
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: If this donation is for a specific event
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 6
+      name: in_honor_of
+      label: In Honor or Memory Of
+      hint: Enter the name of the person being honored
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: To send a physical tax receipt
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: donor_notes
+      label: Notes for the Alumni Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_thank_you
+      label: -- Thank You for Your Support --
+      hint: Your contribution makes a difference
+      type: note
+      options: []
+      required: false

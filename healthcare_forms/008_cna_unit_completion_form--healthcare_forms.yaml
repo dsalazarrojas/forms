@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNA Unit Completion Form
+    pages:
+    - id: 1
+      name: cna_name
+      label: CNA Name
+      hint: Full name of the Certified Nursing Assistant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift_time
+      label: Shift Time
+      hint: null
+      type: select_one
+      options:
+      - Day Shift - 7am to 3pm
+      - Evening Shift - 3pm to 11pm
+      - Night Shift - 11pm to 7am
+      - Other
+      required: true
+    - id: 5
+      name: unit_name
+      label: Unit Name
+      hint: Healthcare unit or department name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervising Nurse
+      hint: Name of RN supervisor on duty
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patients_assigned
+      label: Number of Patients Assigned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vital_signs_monitoring
+      label: Vital Signs Monitoring Completed
+      hint: Were all vital signs documented?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      - N/A
+      required: true
+    - id: 9
+      name: bathing_hygiene
+      label: Bathing and Personal Hygiene Tasks
+      hint: Were patient hygiene tasks completed?
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      - Deferred
+      - N/A
+      required: false
+    - id: 10
+      name: toileting_support
+      label: Toileting and Incontinence Care
+      hint: Were all toileting needs addressed?
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      - Deferred
+      - N/A
+      required: false
+    - id: 11
+      name: ambulation_assistance
+      label: Ambulation and Movement Assistance
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      - Deferred
+      - N/A
+      required: false
+    - id: 12
+      name: meal_assistance
+      label: Meal Assistance and Feeding
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partially Completed
+      - Deferred
+      - N/A
+      required: false
+    - id: 13
+      name: comfort_measures
+      label: Comfort Measures Provided
+      hint: Were patients made comfortable?
+      type: select_one
+      options:
+      - 'Yes'
+      - Partially
+      - 'No'
+      - N/A
+      required: false
+    - id: 14
+      name: incident_occurred
+      label: Were any incidents reported during shift?
+      hint: null
+      type: select_one
+      options:
+      - No incidents
+      - Minor incident
+      - Significant incident
+      - Serious incident
+      required: true
+    - id: 15
+      name: incident_description
+      label: Incident Description
+      hint: If yes, describe what occurred
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_issues
+      label: Any Equipment or Supply Issues
+      hint: Problems encountered during shift
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_comments
+      label: Supervisor Comments or Observations
+      hint: Feedback from supervising nurse
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shift_completion_time
+      label: Shift Completion Time
+      hint: What time did you complete your shift?
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: handoff_communication
+      label: Handoff Communication Completed
+      hint: Did you communicate with next shift staff?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: false
+    - id: 20
+      name: cna_signature_date
+      label: Form Completion Date
+      hint: Date this form was completed
+      type: date
+      options: []
+      required: true

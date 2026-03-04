@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pioneer Station
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gamer_name
+      label: Gamer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gamer_level
+      label: Gamer Level
+      hint: Select level of gaming experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 4
+      name: gamer_hours_played
+      label: Gamer Hours Played
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gamer_hours_played_hints
+      label: Gamer Hours Played Hints
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gamer_notes
+      label: Gamer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: smoke_detector_inspection_form
+    pages:
+    - id: 1
+      name: fire_safety_system
+      label: Fire Safety System
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_location
+      label: Building Location
+      hint: null
+      type: select_multiple
+      options:
+      - Building Main Hall
+      - Building 2
+      - Building 3
+      - etc.
+      required: false
+    - id: 3
+      name: smoke_detector_type
+      label: Smoke Detector Type
+      hint: null
+      type: select_one
+      options:
+      - Fire Alarm
+      - Heat Detector
+      - Dual
+      required: true
+    - id: 4
+      name: installed_locations
+      label: Installed Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Basement
+      - Upper floor
+      - Lower floor
+      required: true
+    - id: 5
+      name: smoke_detector_functional
+      label: Smoke Detector Functional
+      hint: null
+      type: select_one
+      options:
+      - Functional
+      - Non-Functional
+      required: true
+    - id: 6
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Alarm System
+      - None
+      required: true
+    - id: 7
+      name: fire_safety_plan
+      label: Fire Safety Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: building_height
+      label: Building Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: smoke_detector_location
+      label: Smoke Detector Location
+      hint: null
+      type: select_one
+      options:
+      - Ground Floor
+      - Middle Floor
+      - Upper Floor
+      required: true
+    - id: 10
+      name: fire_safety_system_cert
+      label: Fire Safety System Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - None
+      required: true
+    - id: 11
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: certification_time
+      label: Certification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fire_safety_system_status
+      label: Fire Safety System Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Need to be inspected
+      - Not working
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false
+    - id: 22
+      name: fire_safety_system_notes
+      label: Fire Safety System Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: smoke_detector_inspection_form_comments
+      label: Smoke Detector Inspection Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: smoke_detector_inspection_form_notes
+      label: Smoke Detector Inspection Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fire_safety_system_comments
+      label: Fire Safety System Comments
+      hint: null
+      type: text
+      options: []
+      required: false

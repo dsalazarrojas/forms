@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Healing Progress Evaluation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wound_info
+      label: wound details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: evaluation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wound_size
+      label: wound size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wound_depth
+      label: wound depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tissue_type
+      label: tissue type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Serous''}'
+      - '{''id'': 3, ''label'': ''Purulent''}'
+      required: false
+    - id: 8
+      name: bleeding
+      label: bleeding
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 9
+      name: edema
+      label: edema
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 10
+      name: pain_level
+      label: pain level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''mild''}'
+      - '{''id'': 3, ''label'': ''moderate''}'
+      - '{''id'': 4, ''label'': ''severe''}'
+      required: false
+    - id: 11
+      name: redness
+      label: redness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 12
+      name: swelling
+      label: swelling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 13
+      name: odor
+      label: odor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 14
+      name: redness_intensity
+      label: redness intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: pain_intensity
+      label: pain intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_instructions
+      label: follow up instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: wound_location
+      label: wound location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''head and neck''}'
+      - '{''id'': 3, ''label'': ''upper back''}'
+      - '{''id'': 4, ''label'': ''lower back''}'
+      - '{''id'': 5, ''label'': ''abdomen''}'
+      required: false
+    - id: 19
+      name: assessment_date
+      label: assessment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: assessment_time
+      label: assessment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: wound_stage
+      label: wound stage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''unhealed''}'
+      - '{''id'': 3, ''label'': ''healing''}'
+      - '{''id'': 4, ''label'': ''closed''}'
+      required: false
+    - id: 22
+      name: patient_condition
+      label: patient condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''stable''}'
+      - '{''id'': 3, ''label'': ''improving''}'
+      - '{''id'': 4, ''label'': ''deteriorating''}'
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: follow up status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: follow up time
+      hint: null
+      type: time
+      options: []
+      required: false

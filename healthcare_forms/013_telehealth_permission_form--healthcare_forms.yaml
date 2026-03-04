@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Permission Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_provider_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: select_one
+      options:
+      - I am a licensed healthcare provider.
+      - I am not a licensed healthcare provider.
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_call
+      label: Reason for Call
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: healthcare_provider_title
+      label: Healthcare Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: telehealth_permission
+      label: Telehealth Permission
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms of the telehealth consent form
+      - I do not have the authority to sign for another provider
+      required: true
+    - id: 12
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_signature_note
+      label: Patient Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_provider_signature_note
+      label: Healthcare Provider Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: consent_to_share
+      label: Consent to Share
+      hint: null
+      type: select_one
+      options:
+      - Yes, share all records
+      - No, share only with healthcare team
+      required: true

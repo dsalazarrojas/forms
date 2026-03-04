@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orphanage Donation Form
+    pages:
+    - id: 1
+      name: orphanage_donation_form
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: true
+    - id: 3
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''One-time''}'
+      - '{''id'': 2, ''label'': ''Monthly''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: true
+    - id: 4
+      name: donor_address
+      label: donor_address
+      hint: Please provide your home address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: donor_phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_notes
+      label: donation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      required: true
+    - id: 9
+      name: donor_name
+      label: donor_name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donor_message
+      label: donor_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_notes
+      label: donor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: donor_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: donor_other_notes
+      label: other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donor_other_amount
+      label: other_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: donor_other_frequency
+      label: other_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      required: false
+    - id: 16
+      name: donor_other_method
+      label: other_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      required: false
+    - id: 17
+      name: orphanage_name
+      label: orphanage_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: orphanage_address
+      label: orphanage_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: orphanage_email
+      label: orphanage_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: orphanage_phone
+      label: orphanage_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: orphanage_notes
+      label: orphanage_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: orphanage_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: orphanage_other_notes
+      label: other_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: orphanage_other_amount
+      label: other_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: orphanage_other_frequency
+      label: other_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Check''}'
+      required: false

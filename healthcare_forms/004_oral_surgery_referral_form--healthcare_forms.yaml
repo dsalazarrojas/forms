@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral Surgery Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: doctor_referring
+      label: Doctor Referring
+      hint: null
+      type: select_one
+      options:
+      - Dr. John Doe
+      - Dr. Jane Doe
+      required: false
+    - id: 4
+      name: patient_gender
+      label: gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: patient_condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_surgery_type
+      label: type_of_surgery
+      hint: null
+      type: select_one
+      options:
+      - Dental
+      - Oral
+      - Maxillofacial
+      required: false
+    - id: 7
+      name: patient_surgery_date
+      label: surgery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: patient_surgery_time
+      label: surgery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false

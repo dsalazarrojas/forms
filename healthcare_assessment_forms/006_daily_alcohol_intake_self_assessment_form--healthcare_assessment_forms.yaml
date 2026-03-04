@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Alcohol Intake Self Assessment Form
+    pages:
+    - id: 1
+      name: intake_questionnaire
+      label: Intake Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: alcohol_consumption_today
+      label: alcohol_consumption_today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: alcohol_consumption_yesterday
+      label: alcohol_consumption_yesterday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: how_much_drinking
+      label: how_much_drinking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: drinking_frequency
+      label: drinking_frequency
+      hint: null
+      type: select_one
+      options:
+      - Beer
+      - Wine
+      - Spirits
+      - Other
+      required: false
+    - id: 6
+      name: drinking_frequency_other
+      label: drinking_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_drinking
+      label: reason_for_drinking
+      hint: null
+      type: select_multiple
+      options:
+      - To relax
+      - To socialize
+      - To celebrate
+      - Other
+      required: false
+    - id: 8
+      name: reason_for_drinking_other
+      label: reason_for_drinking_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_risk_factors
+      label: health_risk_factors
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: health_risk_factors_other
+      label: health_risk_factors_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: select_one
+      options:
+      - Hypertension
+      - Normal
+      - None
+      required: false
+    - id: 12
+      name: blood_pressure_other
+      label: blood_pressure_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: alcohol_consumption_frequency
+      label: alcohol_consumption_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 14
+      name: alcohol_consumption_frequency_other
+      label: alcohol_consumption_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: have_always_consumed_alcohol
+      label: have_always_consumed_alcohol
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 16
+      name: have_always_consumed_alcohol_other
+      label: have_always_consumed_alcohol_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: do_you_feel_guilty_about_your_consumption
+      label: do_you_feel_guilty_about_your_consumption
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Rarely
+      required: false
+    - id: 18
+      name: do_you_feel_guilty_about_your_consumption_other
+      label: do_you_feel_guilty_about_your_consumption_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: do_you_feel_guilty_about_your_consumption_frequency
+      label: do_you_feel_guilty_about_your_consumption_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 20
+      name: do_you_feel_guilty_about_your_consumption_frequency_other
+      label: do_you_feel_guilty_about_your_consumption_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: have_also_consumed_others
+      label: have_also_consumed_others
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: have_also_consumed_others_other
+      label: have_also_consumed_others_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: have_also_consumed_others_frequency
+      label: have_also_consumed_others_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 24
+      name: have_also_consumed_others_frequency_other
+      label: have_also_consumed_others_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: have_also_consumed_others_frequency_other_2
+      label: have_also_consumed_others_frequency_other_2
+      hint: null
+      type: text
+      options: []
+      required: false

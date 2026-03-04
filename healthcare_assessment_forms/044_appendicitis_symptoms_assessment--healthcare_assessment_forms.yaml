@@ -1,0 +1,512 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appendicitis Symptoms Assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessment_time
+      label: Assessment Time
+      hint: Time of assessment
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Main reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pain_section
+      label: -- Pain Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pain_location
+      label: Where is your pain located
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Upper right abdomen
+      - Lower right abdomen
+      - Upper left abdomen
+      - Lower left abdomen
+      - Around the navel
+      - Entire abdomen
+      - Back
+      - Shoulder
+      - Other
+      required: true
+    - id: 9
+      name: pain_onset
+      label: When did the pain start
+      hint: Time of onset
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pain_progression
+      label: How has the pain progressed
+      hint: Pain pattern
+      type: select_one
+      options:
+      - Started mild, getting worse
+      - Started severe, staying same
+      - Started around navel, moved to lower right
+      - Constant since onset
+      - Comes and goes
+      - Other
+      required: true
+    - id: 11
+      name: pain_severity
+      label: Pain Severity
+      hint: Rate from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pain_character
+      label: What type of pain is it
+      hint: Pain description
+      type: select_one
+      options:
+      - Sharp
+      - Dull
+      - Cramping
+      - Burning
+      - Stabbing
+      - Aching
+      - Throbbing
+      - Other
+      required: true
+    - id: 13
+      name: pain_radiation
+      label: Does the pain radiate
+      hint: Does it spread
+      type: select_one
+      options:
+      - No, stays in one place
+      - Yes, to the back
+      - Yes, to the shoulder
+      - Yes, to the groin
+      - Yes, elsewhere
+      required: true
+    - id: 14
+      name: aggravating_factors
+      label: What makes the pain worse
+      hint: Aggravating factors
+      type: select_multiple
+      options:
+      - Movement
+      - Coughing
+      - Sneezing
+      - Deep breathing
+      - Eating
+      - Walking
+      - Nothing makes it worse
+      - Other
+      required: true
+    - id: 15
+      name: relieving_factors
+      label: What makes the pain better
+      hint: Relieving factors
+      type: select_multiple
+      options:
+      - Nothing helps
+      - Lying still
+      - Lying on side
+      - Heat
+      - Medication
+      - Vomiting
+      - Other
+      required: true
+    - id: 16
+      name: associated_symptoms_section
+      label: -- Associated Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: nausea
+      label: Do you have nausea
+      hint: Feeling sick to stomach
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: vomiting
+      label: Have you been vomiting
+      hint: Vomiting episodes
+      type: select_one
+      options:
+      - false
+      - Yes, once
+      - Yes, 2 to 3 times
+      - Yes, 4 or more times
+      required: true
+    - id: 19
+      name: vomit_description
+      label: Vomit Description
+      hint: Color and content
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: appetite
+      label: How is your appetite
+      hint: Change in appetite
+      type: select_one
+      options:
+      - Normal
+      - Decreased
+      - No appetite
+      - Nauseated by food
+      required: true
+    - id: 21
+      name: fever
+      label: Do you have a fever
+      hint: Elevated temperature
+      type: select_one
+      options:
+      - false
+      - Yes, low grade
+      - Yes, high grade
+      - Not sure
+      required: true
+    - id: 22
+      name: temperature_reading
+      label: Temperature Reading
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: bowel_movements
+      label: Bowel Movement Changes
+      hint: Any changes
+      type: select_one
+      options:
+      - Normal
+      - Constipation
+      - Diarrhea
+      - Unable to pass gas
+      - Other
+      required: true
+    - id: 24
+      name: urinary_symptoms
+      label: Urinary Symptoms
+      hint: Any urinary issues
+      type: select_one
+      options:
+      - None
+      - Frequent urination
+      - Painful urination
+      - Dark urine
+      - Blood in urine
+      required: true
+    - id: 25
+      name: abdominal_swelling
+      label: Do you have abdominal swelling
+      hint: Bloating or distension
+      type: select_one
+      options:
+      - false
+      - Yes, mild
+      - Yes, moderate
+      - Yes, severe
+      required: true
+    - id: 26
+      name: inability_to_pass_gas
+      label: Are you able to pass gas
+      hint: Flatulence
+      type: select_one
+      options:
+      - Yes, normally
+      - Yes, but decreased
+      - No, unable
+      required: true
+    - id: 27
+      name: medical_history_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: previous_appendicitis
+      label: Have you had appendicitis before
+      hint: Previous episodes
+      type: select_one
+      options:
+      - false
+      - true
+      - Had appendix removed
+      required: true
+    - id: 29
+      name: previous_abdominal_surgeries
+      label: Previous abdominal surgeries
+      hint: Surgical history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 30
+      name: surgery_details
+      label: Surgery Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Any allergies
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing conditions
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: pregnancy_status
+      label: Could you be pregnant
+      hint: If applicable
+      type: select_one
+      options:
+      - Not applicable
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 35
+      name: menstrual_history
+      label: Last Menstrual Period
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 36
+      name: vital_signs_section
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: blood_pressure
+      label: Blood Pressure
+      hint: If measured
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: heart_rate
+      label: Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: If measured
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: physical_exam_section
+      label: -- Physical Exam Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: rebound_tenderness
+      label: Rebound Tenderness
+      hint: Pain on release
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Not tested
+      required: true
+    - id: 43
+      name: guarding
+      label: Abdominal Guarding
+      hint: Muscle rigidity
+      type: select_one
+      options:
+      - None
+      - Voluntary
+      - Involuntary
+      - Rigid
+      required: true
+    - id: 44
+      name: mcburney_point
+      label: McBurney Point Tenderness
+      hint: Lower right quadrant
+      type: select_one
+      options:
+      - Tender
+      - Not tender
+      - Not tested
+      required: true
+    - id: 45
+      name: rovsigns
+      label: Rovsing Sign
+      hint: Pain in RLQ when pressing LLQ
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Not tested
+      required: false
+    - id: 46
+      name: psoas_sign
+      label: Psoas Sign
+      hint: Pain with hip extension
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Not tested
+      required: false
+    - id: 47
+      name: obturator_sign
+      label: Obturator Sign
+      hint: Pain with internal rotation
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Not tested
+      required: false
+    - id: 48
+      name: assessment_section
+      label: -- Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: appendicitis_likelihood
+      label: Likelihood of Appendicitis
+      hint: Clinical assessment
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Possible
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 50
+      name: differential_diagnosis
+      label: Differential Diagnosis
+      hint: Other possible causes
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: recommended_action
+      label: Recommended Action
+      hint: Next steps
+      type: select_one
+      options:
+      - Emergency surgery consult
+      - CT scan
+      - Ultrasound
+      - Lab work
+      - Observation
+      - Discharge with follow-up
+      - Other
+      required: true
+    - id: 52
+      name: triage_level
+      label: Triage Level
+      hint: Urgency
+      type: select_one
+      options:
+      - Immediate
+      - Urgent
+      - Semi-urgent
+      - Non-urgent
+      required: true
+    - id: 53
+      name: assessor_name
+      label: Assessor Name
+      hint: Healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 54
+      name: assessor_credentials
+      label: Assessor Credentials
+      hint: Professional title
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: assessment_complete_time
+      label: Assessment Completion Time
+      hint: Time completed
+      type: time
+      options: []
+      required: true

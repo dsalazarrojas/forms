@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Consent For Clinic Services During COVID 19 Pandemic
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: appointment_date
+        label: Appointment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: section_screening
+        label: -- Health Screening Questionnaire --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: fever_check
+        label: Have you had a fever or chills in the last 14 days?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 5
+        name: shortness_of_breath
+        label: Have you experienced any shortness of breath or difficulty breathing?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 6
+        name: cough_check
+        label: Have you had a new or worsening cough in the last 14 days?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 7
+        name: contact_check
+        label: Have you been in close contact with anyone with a confirmed COVID-19 case?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 8
+        name: travel_check
+        label: Have you travelled outside the country in the last 14 days?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: section_protocol
+        label: -- Clinic Protocol Acknowledgment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: toilet_facility_ack
+        label: I understand that toilet facilities are currently not available
+        hint: null
+        type: select_one
+        options: [Yes, I understand]
+        required: true
+      - id: 11
+        name: refreshments_ack
+        label: I will bring my own refreshments for during and post treatment
+        hint: null
+        type: select_one
+        options: [Yes, I understand]
+        required: true
+      - id: 12
+        name: wait_outside_ack
+        label: I will wait to be let in to avoid unnecessary contact with surfaces
+        hint: null
+        type: select_one
+        options: [Yes, I understand]
+        required: true
+      - id: 13
+        name: consent_treatment
+        label: I consent to receiving treatment during the pandemic period
+        hint: null
+        type: select_one
+        options: [Yes, I consent]
+        required: true
+      - id: 14
+        name: digital_signature
+        label: Signature - Type Full Name
+        hint: null
+        type: text
+        options: []
+        required: true

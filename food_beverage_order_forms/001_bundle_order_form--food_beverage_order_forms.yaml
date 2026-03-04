@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bundle Order Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer full name
+      hint: Enter the full name of the person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Provide an email for order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Preferred delivery date
+      hint: Select a preferred delivery date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: bundle_selection
+      label: Bundle selection
+      hint: Choose one bundle from the list
+      type: select_one
+      options:
+      - Breakfast bundle
+      - Lunch bundle
+      - Snack bundle
+      - Beverage bundle
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of bundles required
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: additional_items
+      label: Additional items
+      hint: Select any additional items needed
+      type: select_multiple
+      options:
+      - Cutlery set
+      - Napkins
+      - Disposable plates
+      - Delivery assistance
+      required: false
+    - id: 9
+      name: delivery_address
+      label: Delivery address
+      hint: Full delivery address including unit or suite number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: billing_method
+      label: Billing method
+      hint: Choose how you will pay for the order
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - Cash on delivery
+      required: true
+    - id: 11
+      name: special_instructions
+      label: Special instructions
+      hint: Any delivery or packaging requests
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agree_terms
+      label: Agree to terms
+      hint: Confirm you agree to our ordering terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mothers Day Meal Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Take-out
+      - Eat in
+      required: true
+    - id: 4
+      name: meal_name
+      label: Meal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meal_price
+      label: Meal Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: meal_quantity
+      label: Meal Quantity
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meal_notes
+      label: Meal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meal_instructions
+      label: Meal Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Processing
+      - Done
+      required: false
+    - id: 11
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_name
+      label: Delivery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_phone
+      label: Delivery Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_instructions_delivery
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Arrived
+      - On time
+      - Late
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      required: false
+    - id: 21
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 22
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false

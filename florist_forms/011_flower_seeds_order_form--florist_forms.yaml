@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: flower_seeds_order_form
+    pages:
+    - id: 1
+      name: main_info
+      label: Main Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seeds_selection
+      label: Seeds Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false

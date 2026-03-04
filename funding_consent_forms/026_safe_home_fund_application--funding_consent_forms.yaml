@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safe Home Fund Application
+    pages:
+    - id: 1
+      name: home_safety_improvement
+      label: Home Safety Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_type
+      label: Type of Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: home_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: need_improvement
+      label: Need for Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requested_improvement
+      label: Requested Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: improvement_status
+      label: Improvement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: note
+      options: []
+      required: false

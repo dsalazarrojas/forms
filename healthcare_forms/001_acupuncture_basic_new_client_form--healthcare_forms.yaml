@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Basic New Client Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: We will use this to send appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_complaint
+      label: What is your primary health concern?
+      hint: Description of main reason for treatment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: symptom_duration
+      label: How long have you experienced these symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 to 4 weeks
+      - 1 to 3 months
+      - 3 to 6 months
+      - More than 6 months
+      required: true
+    - id: 8
+      name: current_medications
+      label: Current Medications
+      hint: List any medications or supplements you are taking
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_acupuncture
+      label: Have you received acupuncture treatment before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, years ago
+      - No, first time
+      required: true
+    - id: 10
+      name: health_history
+      label: Do you have any chronic health conditions?
+      hint: Such as diabetes, hypertension, heart disease, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: surgical_history
+      label: Have you had any surgeries?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: allergies
+      label: Do you have any allergies?
+      hint: Include medication and environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pregnancy_status
+      label: Are you currently pregnant or nursing?
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - No, neither
+      required: true
+    - id: 14
+      name: referred_by
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Friend or family recommendation
+      - Online search
+      - Insurance provider directory
+      - Healthcare provider referral
+      - Other
+      required: false
+    - id: 15
+      name: insurance_information
+      label: Insurance Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent_treatment
+      label: I consent to acupuncture treatment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 19
+      name: acknowledge_risks
+      label: I acknowledge the risks and benefits of acupuncture have been explained
+        to me
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

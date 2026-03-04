@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Weather Record
+    pages:
+    - id: 1
+      name: daily_weather_record
+      label: Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      required: true
+    - id: 4
+      name: temperature
+      label: Temperature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Temp 1''}'
+      - '{''label'': ''Temp 2''}'
+      - '{''label'': ''Temp 3''}'
+      required: false
+    - id: 5
+      name: temperature_scale
+      label: Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Celsius''}'
+      - '{''label'': ''Fahrenheit''}'
+      required: true
+    - id: 6
+      name: weather_conditions
+      label: Weather
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sunny''}'
+      - '{''label'': ''Cloudy''}'
+      - '{''label'': ''Rainy''}'
+      required: false
+    - id: 7
+      name: wind
+      label: Wind
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Calm''}'
+      - '{''label'': ''Gentle''}'
+      - '{''label'': ''Strong''}'
+      required: false
+    - id: 8
+      name: humidity
+      label: Humidity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

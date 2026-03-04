@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esports Event Licensing Application Form
+    pages:
+    - id: 1
+      name: event_title
+      label: event title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_organizer
+      label: event organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_details
+      label: event details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_venue
+      label: event venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_licensing_fee
+      label: event licensing fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: event_license_type
+      label: event license type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: event_license_status
+      label: event license status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: event_license_start_date
+      label: event license start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_license_end_date
+      label: event license end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_license_number
+      label: event license number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: event_license_status_description
+      label: event license status description
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: event_license_organizer_name
+      label: event license organizer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_license_organizer_email
+      label: event license organizer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: event_license_organizer_phone
+      label: event license organizer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_license_organizer_address
+      label: event license organizer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_license_notes
+      label: event license notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_prophets
+      label: event prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: event_streamer
+      label: event streamer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: event_staff
+      label: event staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: event_safety_plan
+      label: event safety plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: event_medical_plan
+      label: event medical plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: event_emergencies
+      label: event emergencies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: event_venue_capacity
+      label: event venue capacity
+      hint: null
+      type: number
+      options: []
+      required: false

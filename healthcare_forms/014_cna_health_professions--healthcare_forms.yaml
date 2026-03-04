@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CNA Health Professions
+    pages:
+      - id: 1
+        name: student_name
+        label: Student name
+        hint: Full name as registered
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: program_site
+        label: Program site
+        hint: Campus or clinical site
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: cohort_start_date
+        label: Cohort start date
+        hint: Start date of training
+        type: date
+        options: []
+        required: false
+      - id: 4
+        name: certifications
+        label: Certifications held
+        hint: List any current certifications
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: health_clearance
+        label: Health clearance status
+        hint: Fit for clinical placement
+        type: select_one
+        options:
+          - Cleared
+          - Pending
+          - Not cleared
+        required: true
+      - id: 6
+        name: immunizations
+        label: Immunizations
+        hint: Record of required immunizations
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone number
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: clinical_availability
+        label: Clinical availability
+        hint: Days and times available for placement
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: instructor_notes
+        label: Instructor notes
+        hint: Internal notes for program staff
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Date form completed
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Certification Of Vaccination Status
+    pages:
+    - id: 1
+      name: vaccination_status_1
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - COVID-19 Vaccinated
+      - Not Yet Vaccinated
+      - Partially Vaccinated
+      required: false
+    - id: 2
+      name: date_of_vaccination_1
+      label: Date of Vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vaccine_dose_1
+      label: Vaccine Dose Number
+      hint: null
+      type: select_multiple
+      options:
+      - 1st dose
+      - 2nd dose
+      - 3rd dose
+      required: false
+    - id: 4
+      name: vaccine_manufacturer_1
+      label: Vaccine Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson & Johnson
+      required: false
+    - id: 5
+      name: vaccine_lot_1
+      label: Vaccine Lot Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id_1
+      label: Employee ID Number
+      hint: null
+      type: number
+      options: []
+      required: false

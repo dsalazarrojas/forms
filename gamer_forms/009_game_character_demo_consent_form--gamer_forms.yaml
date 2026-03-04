@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: game_character_demo_consent_form
+    pages:
+    - id: 1
+      name: creator_details
+      label: Creator Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permission_level
+      label: Permission Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Public''}'
+      - '{''id'': 2, ''label'': ''Private''}'
+      - '{''id'': 3, ''label'': ''Restricted''}'
+      required: false
+    - id: 4
+      name: demo_usage
+      label: Demo Usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Events''}'
+      - '{''id'': 2, ''label'': ''Showcases''}'
+      - '{''id'': 3, ''label'': ''Development Projects''}'
+      - '{''id'': 4, ''label'': ''Online Presence''}'
+      required: true
+    - id: 5
+      name: additional_permission_notes
+      label: Additional Permission Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: creator_signature
+      label: Creator Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false

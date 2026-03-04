@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_authorization_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parents_names
+      label: Parents Names
+      hint: Enter names of both parents or guardians
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: treatment_type
+      label: Treatment Type
+      hint: Please select the type of treatment you will be providing
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: treatment_details
+      label: Treatment Details
+      hint: Provide any additional information about the treatment
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: Please list all types of consents given
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter name and phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: List medical history of child patient
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: List any allergies or medical conditions of child patient
+      type: text
+      options: []
+      required: false

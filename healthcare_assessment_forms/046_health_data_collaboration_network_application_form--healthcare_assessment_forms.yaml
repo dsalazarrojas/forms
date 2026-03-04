@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_data_collaboration_network_application_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: organization_type
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Provider
+      - Research Organization
+      - Pharmaceutical Company
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: health_data_interests
+      label: Health Data Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: upload_health_data
+      label: Upload Health Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: consent_notes
+      label: Consent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: upload_consent
+      label: Upload Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false

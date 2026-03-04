@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Game Team Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gaming_experience
+      label: Gaming Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Casual''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: true
+    - id: 3
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: List your available days and times
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability_days
+      label: Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: List the names of your team members
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability_hours
+      label: Hours
+      hint: List the time of day
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game
+      label: Game
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''League of Legends''}'
+      - '{''id'': 2, ''label'': ''Fortnite''}'
+      - '{''id'': 3, ''label'': ''Overwatch''}'
+      required: false
+    - id: 10
+      name: game_experience
+      label: Game Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Casual''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 11
+      name: availability_time
+      label: Availability Time
+      hint: 9 hours in 24 hours format
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''America/Los_Angeles''}'
+      - '{''id'': 2, ''label'': ''New York''}'
+      - '{''id'': 3, ''label'': ''Tokyo''}'
+      required: false
+    - id: 13
+      name: availability_duration
+      label: Availability Duration
+      hint: 9 hours in 24 hours format
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: availability_frequency
+      label: Availability Frequency
+      hint: 1-100 hours in 24 hours format
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: bio
+      label: Bio
+      hint: Briefly describe yourself
+      type: text
+      options: []
+      required: false

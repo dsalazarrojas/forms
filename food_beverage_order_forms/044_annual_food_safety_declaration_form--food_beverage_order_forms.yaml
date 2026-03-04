@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Food Safety Declaration Form
+    pages:
+    - id: 1
+      name: provider_info_header
+      label: -- Food Service Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of food service business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Food Service Business
+      hint: Restaurant, catering, food truck, etc.
+      type: select_one
+      options:
+      - Restaurant
+      - Catering Company
+      - Food Truck
+      - Cafe or Coffee Shop
+      - Bakery
+      - Grocery or Food Retail
+      - Food Processing Facility
+      - School Cafeteria
+      - Hospital or Healthcare Food Service
+      - Other
+      required: true
+    - id: 4
+      name: license_number
+      label: Food Service License Number
+      hint: Government license number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_info_header
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_location
+      label: Facility Address
+      hint: Physical location of facility
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: last_inspection_date
+      label: Date of Last Health Inspection
+      hint: Most recent inspection date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: inspection_passed
+      label: Passed Most Recent Inspection
+      hint: Did you pass the last inspection
+      type: select_one
+      options:
+      - Yes, passed
+      - Yes, passed with notes
+      - Failed, corrected
+      - Pending inspection
+      - No inspection yet
+      required: false
+    - id: 12
+      name: food_safety_header
+      label: -- Food Safety Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: training_certification
+      label: Food Safety Training Certification
+      hint: Staff food safety certifications
+      type: select_multiple
+      options:
+      - Food Handler Certification
+      - ServSafe Certification
+      - HACCP Training
+      - Advanced Food Safety
+      - No Certifications
+      required: false
+    - id: 14
+      name: practices_compliance
+      label: Compliance with Food Safety Practices
+      hint: Are you following standards
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Non-Compliant
+      required: true
+    - id: 15
+      name: storage_practices
+      label: Food Storage and Temperature Control
+      hint: Proper storage and temperature monitoring
+      type: select_one
+      options:
+      - Excellent - Fully implemented
+      - Good - Mostly implemented
+      - Adequate - Basic implementation
+      - Poor - Needs improvement
+      - Inadequate - Major concerns
+      required: true
+    - id: 16
+      name: sanitation_cleaning
+      label: Sanitation and Cleaning Procedures
+      hint: Regular cleaning and sanitation
+      type: select_one
+      options:
+      - Excellent - Rigorous program
+      - Good - Regular procedures
+      - Adequate - Basic procedures
+      - Poor - Inconsistent
+      - Inadequate - Major issues
+      required: true
+    - id: 17
+      name: allergen_management
+      label: Allergen Management
+      hint: How you handle food allergens
+      type: select_one
+      options:
+      - Excellent - Comprehensive program
+      - Good - Good procedures
+      - Adequate - Basic procedures
+      - Poor - Limited procedures
+      - Inadequate - Major gaps
+      required: true
+    - id: 18
+      name: allergen_declaration
+      label: Food Allergen Information Available
+      hint: Do you provide allergen information
+      type: select_one
+      options:
+      - Yes, comprehensive disclosure
+      - Yes, partial disclosure
+      - Limited information provided
+      - No information provided
+      - Not applicable
+      required: false
+    - id: 19
+      name: recalls_header
+      label: -- Recalls and Incidents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: recalls_incidents
+      label: Food Recalls or Safety Incidents
+      hint: Any recalls or incidents this year
+      type: select_one
+      options:
+      - No recalls or incidents
+      - Minor incident reported and corrected
+      - Multiple incidents reported
+      - Recall handled properly
+      - Pending investigation
+      required: true
+    - id: 21
+      name: incident_description
+      label: Description of Incidents if Any
+      hint: Details about any incidents
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: How were issues resolved
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: declaration_header
+      label: -- Declaration and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: commitment_statement
+      label: Commitment to Food Safety Standards
+      hint: Do you commit to maintaining standards
+      type: select_one
+      options:
+      - Yes, fully committed
+      - Yes, mostly committed
+      - Neutral
+      - Limited commitment
+      - No commitment
+      required: true
+    - id: 25
+      name: signature_name
+      label: Name of Authorized Signatory
+      hint: Person authorized to sign this declaration
+      type: text
+      options: []
+      required: true

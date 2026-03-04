@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Prescription Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: eye_condition
+      label: eye_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prescription_number
+      label: prescription_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prescription_details
+      label: prescription_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: followup_appointment
+      label: followup_appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: eye_pressure
+      label: eye_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: medication_instructions
+      label: medication_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: doctor_note
+      label: doctor_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: followup_date
+      label: followup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: next_followup
+      label: next_followup
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_city
+      label: patient_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_state
+      label: patient_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_zip
+      label: patient_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_country
+      label: patient_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_address
+      label: doctor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: followup_time
+      label: followup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: prescription_type
+      label: prescription_type
+      hint: null
+      type: select_one
+      options:
+      - none
+      - one-time
+      - ongoing
+      required: true
+    - id: 25
+      name: prescription_duration
+      label: prescription_duration
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_screening_communication_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - healthcare_forms
+      - other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 9
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patient_zip
+      label: Patient Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: patient_health_conditions
+      label: Patient Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: health_screening_result
+      label: Health Screening Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - unsure
+      required: false
+    - id: 23
+      name: follow_up_recommendation
+      label: Follow Up Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - pending
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

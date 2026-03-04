@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Exercise Reminder
+    pages:
+    - id: 1
+      name: exercise_date
+      label: exercise_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: exercise_type
+      label: exercise_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: workout_duration
+      label: workout_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exercise_intensity
+      label: exercise_intensity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Experience Feedback Survey
+    pages:
+    - id: 1
+      name: player_experience_survey
+      label: Player Experience Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall satisfaction
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: game_features
+      label: Game Features
+      hint: null
+      type: select_multiple
+      options:
+      - Game balance
+      - Story
+      - Artwork
+      - Soundtrack
+      required: false
+    - id: 4
+      name: usability_experience
+      label: Usability Experience
+      hint: Rate your experience with the game's interface and controls
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: game_length
+      label: Game Length
+      hint: How long did you play for?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: replay_value
+      label: Replay Value
+      hint: How many times do you want to play again?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: game_name
+      label: Game Name
+      hint: What is the name of the game?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false

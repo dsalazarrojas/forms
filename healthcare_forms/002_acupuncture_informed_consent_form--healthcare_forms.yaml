@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Informed Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Acupuncture Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: Valid email for contact
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: treatment_date
+      label: Treatment Date
+      hint: Date of scheduled acupuncture session
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: practitioner_name
+      label: Practitioner Name
+      hint: Name of the licensed acupuncturist
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment_description
+      label: Description of Treatment
+      hint: Type of acupuncture treatment to be performed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: treatment_risks
+      label: Understanding of Risks
+      hint: Do you understand the potential risks of acupuncture?
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 11
+      name: common_side_effects
+      label: Common Side Effects Acknowledged
+      hint: Check all side effects you acknowledge
+      type: select_multiple
+      options:
+      - Temporary soreness
+      - Minor bleeding
+      - Bruising
+      - Fatigue
+      - Dizziness
+      - Nausea
+      required: true
+    - id: 12
+      name: serious_risks_acknowledged
+      label: Serious Risks Acknowledged
+      hint: Do you acknowledge rare but serious risks?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Existing Medical Conditions
+      hint: List any medical conditions that may affect treatment
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: List all medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: List any known allergies to medications or materials
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you pregnant or could you be pregnant?
+      type: select_one
+      options:
+      - Not pregnant
+      - Pregnant
+      - Could be pregnant
+      - Prefer not to answer
+      required: false
+    - id: 17
+      name: consent_given
+      label: Consent Given
+      hint: Do you give consent for the acupuncture treatment?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 18
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: patient_signature
+      label: Patient Signature
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: Practitioner's signature acknowledging consent discussion
+      type: text
+      options: []
+      required: true

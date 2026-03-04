@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Tap Line Cleaning Order Form
+    pages:
+    - id: 1
+      name: section_header_requestor
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Name of Requestor
+      hint: Person placing the cleaning order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_title
+      label: Position or Title
+      hint: Your role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Date of Request
+      hint: When is this being submitted?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_location
+      label: -- Establishment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: establishment_name
+      label: Establishment Name
+      hint: Bar, restaurant, or venue
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: establishment_address
+      label: Establishment Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: establishment_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: establishment_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: establishment_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_tap
+      label: -- Tap Line Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tap_line_system
+      label: Type of Tap Line System
+      hint: What system do you have?
+      type: select_one
+      options:
+      - Draft beer only
+      - Draft beer and wine
+      - Multi-beverage system
+      - Soda fountain system
+      - Cocktail dispenser
+      - Other
+      required: true
+    - id: 15
+      name: number_of_taps
+      label: Number of Taps or Lines
+      hint: Total number of tap lines
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: line_length
+      label: Approximate Line Length
+      hint: Feet of tubing to be cleaned
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: last_cleaning_date
+      label: Date of Last Professional Cleaning
+      hint: When was it last serviced?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: cleaning_frequency
+      label: Desired Cleaning Frequency
+      hint: How often should it be cleaned?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      - Custom schedule
+      required: true
+    - id: 19
+      name: section_header_issues
+      label: -- Issues or Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_issues
+      label: Current Issues with Tap Lines
+      hint: Any problems with flow, taste, or cleanliness?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pressure_problems
+      label: Are There Pressure or Flow Issues
+      hint: null
+      type: select_one
+      options:
+      - Yes, significant problems
+      - Yes, minor issues
+      - No problems
+      - Not sure
+      required: true
+    - id: 22
+      name: taste_issues
+      label: Any Off-Taste or Flavor Issues
+      hint: Unusual taste in beverages?
+      type: select_one
+      options:
+      - Yes, significant issues
+      - Yes, minor issues
+      - No issues noticed
+      - Not sure
+      required: true
+    - id: 23
+      name: contamination_risk
+      label: Risk of Contamination or Growth
+      hint: Any visible buildup or mold?
+      type: select_one
+      options:
+      - Possible contamination visible
+      - Some buildup observed
+      - Appears clean
+      - Unknown
+      required: true
+    - id: 24
+      name: section_header_maintenance
+      label: -- Maintenance Contract --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: service_contract
+      label: Do You Have a Service Contract
+      hint: null
+      type: select_one
+      options:
+      - Yes, active contract
+      - Yes, expired contract
+      - No contract
+      - Unknown
+      required: true
+    - id: 26
+      name: contract_provider
+      label: Current Service Provider
+      hint: Company or vendor name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_scheduling
+      label: -- Service Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: preferred_date
+      label: Preferred Cleaning Date
+      hint: When do you want service?
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: preferred_time
+      label: Preferred Time for Service
+      hint: Best time to work on system?
+      type: select_one
+      options:
+      - Before opening
+      - After closing
+      - Off-hours (evening)
+      - Any time - business is closed
+      - Flexible
+      required: true
+    - id: 30
+      name: downtime_tolerance
+      label: Acceptable Downtime
+      hint: How long can service be unavailable?
+      type: select_one
+      options:
+      - Under 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4+ hours
+      - Overnight is fine
+      - No downtime - needs redundancy
+      required: true
+    - id: 31
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: special_cleaning_needs
+      label: Special Cleaning Needs or Requirements
+      hint: Any unique specifications?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: access_instructions
+      label: Access Instructions or Building Notes
+      hint: How to access the tap system?
+      type: text
+      options: []
+      required: false

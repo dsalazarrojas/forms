@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Quiz
+    pages:
+    - id: 1
+      name: training_to_become
+      label: training to become
+      hint: null
+      type: select_one
+      options:
+      - First Aid Responder
+      - Healthcare Professional
+      - Other
+      required: false
+    - id: 2
+      name: healthcare_professional
+      label: healthcare professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provide_first_aids
+      label: provide first aid
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_aids_to_provide
+      label: first aids to provide
+      hint: null
+      type: select_multiple
+      options:
+      - CPR
+      - Bleeding
+      - Burns
+      - Other
+      required: false
+    - id: 5
+      name: cpr_training
+      label: cpr training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bleeding_training
+      label: bleeding training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: burn_training
+      label: burn training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: first_aid_certification
+      label: first aid certification
+      hint: null
+      type: select_one
+      options:
+      - Certified First Aid Responder
+      - In Progress
+      - None
+      required: false
+    - id: 9
+      name: quiz_yourself
+      label: quiz yourself
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: provide_to_others
+      label: provide to others
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: first_aids_to_provide_others
+      label: first aids to provide others
+      hint: null
+      type: select_multiple
+      options:
+      - CPR
+      - Bleeding
+      - Burns
+      - Other
+      required: false
+    - id: 12
+      name: other_first_aids
+      label: other first aids
+      hint: null
+      type: text
+      options: []
+      required: false

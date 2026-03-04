@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Details And CT Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: clinical_header
+      label: -- Clinical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: admission_date
+      label: Hospital Admission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: symptoms_onset
+      label: Date Symptoms Onset
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: presenting_symptoms
+      label: Presenting Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Dyspnea
+      - Fatigue
+      - Myalgia
+      - Sore Throat
+      - Other
+      required: true
+    - id: 13
+      name: comorbidities
+      label: Comorbidities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - Asthma
+      - COPD
+      - Immunosuppression
+      - Cancer
+      - Other
+      required: false
+    - id: 14
+      name: oxygen_requirement
+      label: Oxygen Requirement
+      hint: null
+      type: select_one
+      options:
+      - Room Air
+      - Supplemental Oxygen
+      - High Flow
+      - Mechanical Ventilation
+      required: true
+    - id: 15
+      name: oxygen_saturation
+      label: Current Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: ct_header
+      label: -- CT Scan Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ct_performed
+      label: CT Scan Performed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: ct_date
+      label: CT Scan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: ct_type
+      label: Type of CT Scan
+      hint: null
+      type: select_one
+      options:
+      - Chest High Resolution
+      - Abdomen
+      - Head
+      - Pulmonary Angiography
+      - Other
+      required: false
+    - id: 20
+      name: ct_findings
+      label: CT Findings
+      hint: null
+      type: select_multiple
+      options:
+      - Ground Glass Opacities
+      - Consolidation
+      - Pneumothorax
+      - Pulmonary Embolism
+      - Normal
+      - Other
+      required: false
+    - id: 21
+      name: ct_severity
+      label: CT Severity Assessment
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Mild
+      - Moderate
+      - Severe
+      - Critical
+      required: false
+    - id: 22
+      name: lab_header
+      label: -- Laboratory Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: covid_test_result
+      label: COVID-19 Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      required: true
+    - id: 24
+      name: test_date
+      label: COVID-19 Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Clinical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

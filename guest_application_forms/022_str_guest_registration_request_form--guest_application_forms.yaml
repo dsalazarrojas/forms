@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: str_guest_registration_request_form
+    pages:
+    - id: 1
+      name: guest_info
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: id_copy
+      label: id_scan_copy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: id_number
+      label: id_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: agree_to_house_rules
+      label: agree_to_house_rules
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement
+      label: agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement_time
+      label: agreement_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: upload_id
+      label: upload_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: upload_id_type
+      label: id_type
+      hint: null
+      type: select_one
+      options:
+      - id_type_options
+      - Other
+      required: true
+    - id: 13
+      name: upload_id_number
+      label: id_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: upload_id_expire
+      label: id_expire
+      hint: null
+      type: select_one
+      options:
+      - id_expire_options
+      - Other
+      required: false
+    - id: 15
+      name: upload_id_expire
+      label: id_expire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: upload_id_scan
+      label: id_scan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: upload_id_scan_type
+      label: id_scan_type
+      hint: null
+      type: select_one
+      options:
+      - upload_id_scan_type
+      - Other
+      required: true
+    - id: 18
+      name: terms
+      label: terms
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Teaching Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: faculty
+      label: Faculty
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Jones
+      - Dr. Johnson
+      - Dr. Davis
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: number
+      options: []
+      required: false

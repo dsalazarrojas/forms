@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Habit Tracker Setup Form
+    pages:
+    - id: 1
+      name: setup_date
+      label: Setup Date
+      hint: Date of habit tracker setup
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: habit_category
+      label: Habit Category
+      hint: What category of habit are you tracking?
+      type: select_one
+      options:
+      - Daily routines
+      - Hygiene habits
+      - Study habits
+      - Behavior goals
+      - Health and wellness
+      - Social skills
+      - Other
+      required: true
+    - id: 10
+      name: primary_habit_goal
+      label: Primary Habit Goal
+      hint: Describe the main habit you want to track
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: habit_frequency
+      label: Habit Frequency
+      hint: How often should this habit be performed?
+      type: select_one
+      options:
+      - Multiple times per day
+      - Once daily
+      - Weekly
+      - Weekdays only
+      - Weekends only
+      - Custom schedule
+      required: true
+    - id: 12
+      name: tracking_start_date
+      label: Tracking Start Date
+      hint: When should habit tracking begin?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: tracking_end_date
+      label: Tracking End Date
+      hint: When should habit tracking end? (optional)
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reward_system
+      label: Reward System
+      hint: Will you use a reward system for habit completion?
+      type: select_one
+      options:
+      - Yes, sticker chart
+      - Yes, point system
+      - Yes, privilege-based
+      - Yes, tangible rewards
+      - No rewards planned
+      - Undecided
+      required: true
+    - id: 15
+      name: tracking_method_preference
+      label: Tracking Method Preference
+      hint: How would you prefer to track habits?
+      type: select_one
+      options:
+      - Digital app
+      - Printable chart
+      - Physical calendar
+      - Journal or logbook
+      - Whiteboard
+      - Other
+      required: true
+    - id: 16
+      name: reminder_preferences
+      label: Reminder Preferences
+      hint: How would you like to receive reminders?
+      type: select_multiple
+      options:
+      - Email reminders
+      - Text message reminders
+      - App notifications
+      - Calendar alerts
+      - No reminders needed
+      required: true
+    - id: 17
+      name: who_will_track
+      label: Who Will Track the Habit
+      hint: Select all who will be responsible for tracking
+      type: select_multiple
+      options:
+      - Child independently
+      - Child with parent supervision
+      - Parent primarily
+      - Teacher or caregiver
+      - Multiple caregivers
+      required: true
+    - id: 18
+      name: potential_challenges
+      label: Potential Challenges
+      hint: What challenges do you anticipate in tracking this habit?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_needed
+      label: Support Needed
+      hint: What support or resources would help you succeed?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_habit_attempts
+      label: Previous Habit Tracking Attempts
+      hint: Have you tried tracking habits before?
+      type: select_one
+      options:
+      - Yes, successfully
+      - Yes, but struggled
+      - No, this is our first time
+      required: true
+    - id: 21
+      name: additional_goals
+      label: Additional Goals or Habits to Track
+      hint: List any additional habits you would like to track
+      type: text
+      options: []
+      required: false

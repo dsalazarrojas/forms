@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Report Consent Form
+    pages:
+    - id: 1
+      name: consent_header_section
+      label: -- Consent Form Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: research_study_title
+      label: Research Study or Case Report Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_date
+      label: Date of Consent
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: research_institution
+      label: Research Institution or Healthcare Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: participant_mrn
+      label: Medical Record Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_contact
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: study_information_section
+      label: -- Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: study_purpose
+      label: Purpose of the Study or Case Report
+      hint: Explain in lay terms what this is about
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: investigator_contact
+      label: Investigator Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: study_duration
+      label: Expected Duration of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: data_collection_section
+      label: -- Data Collection and Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: data_types
+      label: Types of Information to be Collected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical History
+      - Laboratory Results
+      - Imaging Studies
+      - Genetic Information
+      - Psychological Data
+      - Treatment Information
+      - Outcome Data
+      - Other
+      required: true
+    - id: 17
+      name: data_usage
+      label: How Will Your Data Be Used?
+      hint: Explain the planned use of information
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: publication_intent
+      label: Will Results Be Published?
+      hint: null
+      type: select_one
+      options:
+      - Yes, in medical journals
+      - Yes, in conference presentations
+      - Yes, in other formats
+      - Undecided
+      - 'No'
+      required: true
+    - id: 19
+      name: confidentiality_section
+      label: -- Confidentiality and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: privacy_protection
+      label: How Will Privacy Be Protected?
+      hint: Explain safeguards in place
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: identifier_removal
+      label: Will Personal Identifiers Be Removed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely de-identified
+      - Yes, coded identifier only
+      - No, identifiable information will be retained
+      - Not sure
+      required: true
+    - id: 22
+      name: data_storage
+      label: How Will Data Be Stored and Protected?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consent_acknowledgment_section
+      label: -- Consent Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: understood_information
+      label: I have read and understood this consent form
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I have questions
+      required: true
+    - id: 25
+      name: voluntary_participation
+      label: I voluntarily agree to participate in this study
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

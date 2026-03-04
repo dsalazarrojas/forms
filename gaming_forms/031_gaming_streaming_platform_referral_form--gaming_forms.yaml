@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Streaming Platform Referral Form
+    pages:
+    - id: 1
+      name: creator_info
+      label: Creator Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: streaming_platform
+      label: Streaming Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: creator_name
+      label: Creator Name
+      hint: Enter creator name in full
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_link
+      label: Referral Link
+      hint: Enter referral link
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: creator_tags
+      label: Creator Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

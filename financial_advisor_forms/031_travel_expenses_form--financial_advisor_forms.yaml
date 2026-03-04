@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Expenses Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mode_of_transportation
+      label: Mode of Transport
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Car''}'
+      - '{''id'': 2, ''name'': ''Airplane''}'
+      - '{''id'': 3, ''name'': ''Bus''}'
+      required: false
+    - id: 5
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reimbursement_claim
+      label: Reimbursement Claim
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''HR''}'
+      - '{''id'': 3, ''name'': ''Accounting''}'
+      required: true
+    - id: 9
+      name: travel_expense_date
+      label: Travel Expense Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true
+    - id: 13
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submittor
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Business''}'
+      - '{''id'': 2, ''name'': ''Personal''}'
+      - '{''id'': 3, ''name'': ''Company''}'
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true
+    - id: 24
+      name: travel_class
+      label: Travel Class
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Business''}'
+      - '{''id'': 2, ''name'': ''Personal''}'
+      - '{''id'': 3, ''name'': ''Company''}'
+      required: false
+    - id: 25
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true

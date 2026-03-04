@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meditation Habit Tracker
+    pages:
+    - id: 1
+      name: daily_sessions
+      label: Daily Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mindfulness_focus
+      label: Mindfulness Focus
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Focusing on breath''}'
+      - '{''label'': ''Not focusing on breath''}'
+      - '{''label'': ''Mindful movement''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: true
+    - id: 4
+      name: meditation_date
+      label: Date
+      hint: The date of the meditation session
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meditation_time
+      label: Time
+      hint: The time of the meditation session
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meditation_type
+      label: Type of Meditation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mindfulness meditation''}'
+      - '{''label'': ''Loving-Kindness meditation''}'
+      - '{''label'': ''Movement meditation''}'
+      - '{''label'': ''Guided meditation''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: true
+    - id: 9
+      name: session_goal
+      label: Session Goal
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Reduce stress''}'
+      - '{''label'': ''Increase focus''}'
+      - '{''label'': ''Improve mood''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 10
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 11
+      name: consistency
+      label: Consistency
+      hint: How consistent are you with this meditation practice?
+      type: select_one
+      options:
+      - '{''label'': ''Very consistent''}'
+      - '{''label'': ''Moderately consistent''}'
+      - '{''label'': ''Somewhat inconsistent''}'
+      - '{''label'': ''Not at all consistent''}'
+      required: true
+    - id: 12
+      name: progress
+      label: Progress
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Made progress''}'
+      - '{''label'': "Didn''t make progress"}'
+      - '{''label'': ''Neutral''}'
+      required: true
+    - id: 13
+      name: obstacles
+      label: Obstacles
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lack of time''}'
+      - '{''label'': ''Distractions''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 14
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Reduced stress''}'
+      - '{''label'': ''Improved focus''}'
+      - '{''label'': ''Improved mood''}'
+      - '{''label'': ''Improved sleep''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Myself''}'
+      - '{''label'': ''A coach or therapist''}'
+      - '{''label'': ''Someone I know''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 20
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Myself''}'
+      - '{''label'': ''A coach or therapist''}'
+      - '{''label'': ''Someone I know''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_by
+      label: Follow-up by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_time
+      label: Follow-up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_at
+      label: Follow-up at
+      hint: null
+      type: date
+      options: []
+      required: false

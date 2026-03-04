@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Stock Reconciliation Order Form
+    pages:
+    - id: 1
+      name: section_header_location
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location_name
+      label: Location or Establishment Name
+      hint: Bar, restaurant, or hospitality venue
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Person responsible for inventory
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: manager_phone
+      label: Manager Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reconciliation_date
+      label: Reconciliation Date
+      hint: When is this count being done?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reconciliation_time
+      label: Reconciliation Time
+      hint: What time is the count?
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: section_header_alcoholic
+      label: -- Alcoholic Beverages Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vodka_count
+      label: Vodka Bottles - Current Count
+      hint: Number of bottles in stock
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: gin_count
+      label: Gin Bottles - Current Count
+      hint: Number of bottles in stock
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rum_count
+      label: Rum Bottles - Current Count
+      hint: Number of bottles in stock
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: whiskey_count
+      label: Whiskey Bottles - Current Count
+      hint: Number of bottles in stock
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tequila_count
+      label: Tequila Bottles - Current Count
+      hint: Number of bottles in stock
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: wine_count
+      label: Wine Bottles - Current Count
+      hint: Total wine bottles
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: beer_count
+      label: Beer Cases or Units - Current Count
+      hint: Number of beer units
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_header_expected
+      label: -- Expected vs Actual Discrepancies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vodka_expected
+      label: Vodka Expected Count
+      hint: What should inventory be per records?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vodka_variance
+      label: Vodka Variance or Notes
+      hint: Discrepancies or issues?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: gin_expected
+      label: Gin Expected Count
+      hint: What should inventory be per records?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: gin_variance
+      label: Gin Variance or Notes
+      hint: Discrepancies or issues?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: whiskey_expected
+      label: Whiskey Expected Count
+      hint: What should inventory be per records?
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: whiskey_variance
+      label: Whiskey Variance or Notes
+      hint: Discrepancies or issues?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_nonalcoholic
+      label: -- Non-Alcoholic Beverages Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: soda_count
+      label: Soda or Soft Drinks - Stock Level
+      hint: Inventory level or quantity
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: juice_count
+      label: Juices - Stock Level
+      hint: Inventory level or quantity
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: water_count
+      label: Water - Stock Level
+      hint: Bottled water units
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: coffee_tea_status
+      label: Coffee and Tea Supplies - Status
+      hint: Adequate, low, or out
+      type: select_one
+      options:
+      - Fully stocked
+      - Adequate
+      - Low stock
+      - Out of stock
+      required: false
+    - id: 28
+      name: section_header_missing
+      label: -- Damage and Loss Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: damaged_items
+      label: Damaged or Broken Items
+      hint: List any damaged beverages
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: expired_items
+      label: Expired Items Found
+      hint: Any items past expiration?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: unexplained_loss
+      label: Unexplained Loss or Shrinkage
+      hint: Discrepancies that cannot be explained
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_header_replenishment
+      label: -- Replenishment Orders --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: reorder_needed
+      label: Items Requiring Reorder
+      hint: List products that need replenishing
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: urgent_orders
+      label: Items Needed Urgently
+      hint: What do you need ASAP?
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: supplier_contact
+      label: Preferred Supplier Contact
+      hint: Name or phone of usual supplier
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other inventory observations?
+      type: text
+      options: []
+      required: false

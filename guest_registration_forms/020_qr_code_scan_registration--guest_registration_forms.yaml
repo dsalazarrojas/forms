@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: qrcode_scan_registration
+    pages:
+    - id: 1
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: qr_code
+      label: QR Code
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12345, ''label'': ''Example 1''}'
+      - '{''value'': 67890, ''label'': ''Example 2''}'
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Submit'', ''label'': ''Submit''}'
+      - '{''value'': ''Cancel'', ''label'': ''Cancel''}'
+      required: true

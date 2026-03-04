@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Services Intake Form
+    pages:
+    - id: 1
+      name: loan_type
+      label: loan type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: credit_score
+      label: credit score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: income_level
+      label: income level
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: employment_length
+      label: employment length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: income_source
+      label: income source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employment_history
+      label: employment history
+      hint: null
+      type: text
+      options: []
+      required: false

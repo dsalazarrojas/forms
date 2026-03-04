@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Description And Photo Submission
+    pages:
+    - id: 1
+      name: vendor_info_header
+      label: -- Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Catering Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_email
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: vendor_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_service_profile
+      label: -- Service Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: catering_specialty
+      label: Primary Catering Specialty
+      hint: null
+      type: select_one
+      options:
+      - Traditional/Continental
+      - Italian and Mediterranean
+      - Asian Fusion
+      - BBQ and Smoked Meats
+      - Vegan/Plant-Based
+      - Dessert and Bakery
+      required: true
+    - id: 8
+      name: years_in_business
+      label: Years in Operation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: business_description
+      label: Brief Description of Services
+      hint: Describe your style, mission, and unique offerings
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: menu_highlights
+      label: Sample Menu Description
+      hint: List 3 to 5 signature dishes
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_submission_instruction
+      label: Please ensure you have high-resolution images of your food and setup
+      hint: We will provide a secure upload link once this form is reviewed
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: section_online_presence
+      label: -- Online Presence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: website_url
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: instagram_handle
+      label: Instagram or Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_logistics
+      label: -- Operational Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: base_location
+      label: Service Area (Cities/Regions Covered)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: price_range_category
+      label: Typical Price Range per Guest
+      hint: null
+      type: select_one
+      options:
+      - $ - Budget Friendly ($10-25)
+      - $$ - Mid Range ($26-50)
+      - $$$ - Premium ($51-100)
+      - $$$$ - Luxury ($100+)
+      required: true
+    - id: 18
+      name: availability_status
+      label: Currently accepting new bookings
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Limited
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_vendor_notes
+      label: Any other information for event planners
+      hint: null
+      type: text
+      options: []
+      required: false

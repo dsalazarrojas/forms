@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curbside Halloween Event Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: How do you want to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Phone Number
+      - Email Address
+      required: false
+    - id: 3
+      name: event_participation
+      label: Are you attending the Curbside Halloween event?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_completion
+      label: Do not forget to pick up your goodies at the assigned pickup time
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date_time
+      label: Date and Time of the Curbside Halloween event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_location
+      label: Curbside Halloween event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 14
+      name: participant_interests
+      label: What interests the participant?
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Sports
+      - Music
+      - Dance
+      - Theater
+      - Other
+      required: false
+    - id: 15
+      name: participant_allergies
+      label: What allergies does the participant have?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Milk
+      - Eggs
+      - Fish
+      - Shellfish
+      - Peanuts
+      - Tree Nuts
+      - Soy
+      - Other
+      required: false
+    - id: 16
+      name: participant_diet
+      label: What diet does the participant follow?
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
+      required: false
+    - id: 17
+      name: participant_medical_conditions
+      label: What medical conditions does the participant have?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Diabetes
+      - Epilepsy
+      - Autism
+      - ADHD
+      - Other
+      required: false
+    - id: 18
+      name: participant_special_requests
+      label: Are there any special requests?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_special_skills
+      label: What special skills does the participant have?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Cooking
+      - Music
+      - Art
+      - Dance
+      - Theater
+      - Other
+      required: false
+    - id: 20
+      name: participant_education
+      label: What education does the participant have?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High school
+      - College
+      - University
+      - Other
+      required: false
+    - id: 21
+      name: participant_employed
+      label: What is the participant's employment status?
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Unemployed
+      - Other
+      required: false
+    - id: 22
+      name: participant_income
+      label: What is the participant's income range?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 20,000
+      - 20,000-49,999
+      - 50,000-69,999
+      - 70,000-99,999
+      - More than 100,000
+      required: false
+    - id: 23
+      name: participant_hobbies
+      label: What are the participant's hobbies?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Reading
+      - Writing
+      - Hiking
+      - Traveling
+      - Music
+      - Other
+      required: false
+    - id: 24
+      name: participant_languages
+      label: What languages does the participant speak?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      - Other
+      required: false
+    - id: 25
+      name: participant_social_media
+      label: What is the participant's social media presence?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - Other
+      - All of the above
+      required: false

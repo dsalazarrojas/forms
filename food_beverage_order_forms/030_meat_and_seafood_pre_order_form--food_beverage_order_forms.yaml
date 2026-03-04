@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meat And Seafood Pre Order Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: meat_items
+      label: Meat Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Beef''}'
+      - '{''id'': 2, ''name'': ''Pork''}'
+      - '{''id'': 3, ''name'': ''Lamb''}'
+      required: true
+    - id: 9
+      name: seafood_items
+      label: Seafood Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Shrimp''}'
+      - '{''id'': 2, ''name'': ''Salmon''}'
+      - '{''id'': 3, ''name'': ''Crab''}'
+      required: true
+    - id: 10
+      name: meat_quantities
+      label: Meat Quantities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: seafood_quantities
+      label: Seafood Quantities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Client Group Session Intake Form
+    pages:
+    - id: 1
+      name: new_client_group_session_intake_form_client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_client_group_session_intake_form_health_history
+      label: Health History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: new_client_group_session_intake_form_consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

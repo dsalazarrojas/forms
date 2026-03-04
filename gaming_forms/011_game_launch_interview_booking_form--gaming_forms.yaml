@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Launch Interview Booking Form
+    pages:
+    - id: 1
+      name: game_launch_interview_booking_form
+      label: What is your role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: media_inquiries
+      label: Media Inquiries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: interview_preferences
+      label: Interview Preferences
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_interview
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: game_launch_details
+      label: Game Launch Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: is_influencer
+      label: Are you an Influencer?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: is_media
+      label: Are you a Media?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_interview
+      label: Confirm Interview
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: game_launch_interview_booking_form_submitted
+      label: Game Launch Interview Booking Form Submitted
+      hint: null
+      type: note
+      options: []
+      required: false

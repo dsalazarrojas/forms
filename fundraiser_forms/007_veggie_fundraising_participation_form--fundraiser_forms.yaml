@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: veggie_fundraising_participation_form
+    pages:
+    - id: 1
+      name: veggie_fundraiser
+      label: Veggie Fundraiser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_or_pickup
+      label: delivery_or_pickup
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Delivery''}'
+      - '{''label'': ''Pickup''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: delivery_details
+      label: delivery_details
+      hint: Address, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_date
+      label: Pickup
+      hint: Date to pick up
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pickup_time
+      label: Pickup
+      hint: Time to pick up
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_interest
+      label: volunteer_interest
+      hint: Are you interested in volunteering?
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': ''Maybe''}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: volunteer_details
+      label: volunteer_details
+      hint: Shifts and availability
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output
+      label: Output
+      hint: Output
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: output_details
+      label: output_details
+      hint: More details
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_location
+      label: output_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Local Pickup''}'
+      - '{''label'': ''Local Delivery''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: output_method
+      label: output_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Self Pickup''}'
+      - '{''label'': ''Drop-off at a local office''}'
+      - '{''label'': ''Delivery to home''}'
+      required: false
+    - id: 14
+      name: output_address
+      label: output_address
+      hint: Address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: output_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: output_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_details2
+      label: delivery_details2
+      hint: Delivery or pickup name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_details3
+      label: delivery_details3
+      hint: Delivery or pickup date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: delivery_details4
+      label: delivery_details4
+      hint: Time to pick up
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: delivery_details5
+      label: delivery_details5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 22
+      name: delivery_details6
+      label: delivery_details6
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: delivery_details7
+      label: delivery_details7
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: delivery_details8
+      label: delivery_details8
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: delivery_details9
+      label: delivery_details9
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

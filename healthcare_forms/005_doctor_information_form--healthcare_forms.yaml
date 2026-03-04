@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: doctor information form
+    pages:
+    - id: 1
+      name: page_one
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_two
+      label: specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_two
+      label: contact info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: page_two
+      label: contact info
+      hint: Please enter your phone number and email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: page_one
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: page_one
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: page_one
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: page_three
+      label: medical school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_three
+      label: years practicing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_three
+      label: medical license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: page_three
+      label: medical school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: page_three
+      label: board certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: page_three
+      label: specialties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: page_three
+      label: medical group
+      hint: null
+      type: text
+      options: []
+      required: false

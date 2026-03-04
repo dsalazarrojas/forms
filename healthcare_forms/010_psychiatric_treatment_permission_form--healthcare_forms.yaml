@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: psychiatric_treatment_permission_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''medication''}'
+      - '{''value'': ''therapy''}'
+      - '{''value'': ''hospitalization''}'
+      required: false
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dr. Smith''}'
+      - '{''value'': ''Dr. Johnson''}'
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''medication''}'
+      - '{''value'': ''hospitalization''}'
+      - '{''value'': ''therapy''}'
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_organization
+      label: Healthcare Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''home''}'
+      - '{''value'': ''hospital''}'
+      - '{''value'': ''clinic''}'
+      required: false
+    - id: 17
+      name: healthcare_provider_contact
+      label: Healthcare Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_relationship
+      label: Patient Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 20
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_number_2
+      label: Contact Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_2
+      label: Healthcare Provider 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dr. Smith''}'
+      - '{''value'': ''Dr. Johnson''}'
+      required: false
+    - id: 25
+      name: consent_2
+      label: Consent 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''medication''}'
+      - '{''value'': ''hospitalization''}'
+      - '{''value'': ''therapy''}'
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Hospital Waste Management Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_training
+      label: staff training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: staff_training_challenge
+      label: staff training challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waste_management_practices
+      label: Waste management practices
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Non-Medical
+      - Both
+      required: false
+    - id: 5
+      name: waste_management_challenges
+      label: Waste management challenges
+      hint: null
+      type: select_one
+      options:
+      - Lack of resources
+      - Lack of knowledge
+      - Other
+      required: false
+    - id: 6
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_waste_management_practices
+      label: Current waste management practices
+      hint: null
+      type: select_multiple
+      options:
+      - Biomedical waste
+      - Non-biodegradable plastics
+      - Hazardous waste
+      - Both
+      required: false
+    - id: 8
+      name: waste_sorting
+      label: Waste sorting
+      hint: null
+      type: select_one
+      options:
+      - Manual sorting
+      - Automated sorting
+      required: false
+    - id: 9
+      name: waste_disposal
+      label: Waste disposal
+      hint: null
+      type: select_one
+      options:
+      - Landfill
+      - Incineration
+      - Recycling
+      - Other
+      required: false
+    - id: 10
+      name: staff_training_level
+      label: Staff training level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sustainability_practices
+      label: Sustainability practices
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not implemented
+      - Partially implemented
+      - Unknown
+      required: false
+    - id: 12
+      name: continuous_improvement_plan
+      label: Continuous improvement plan
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not implemented
+      - Partially implemented
+      - Unknown
+      required: false

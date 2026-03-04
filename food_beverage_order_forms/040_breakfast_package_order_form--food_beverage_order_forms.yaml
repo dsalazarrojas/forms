@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Package Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: If ordering for a company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: Preferred delivery time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: package_type
+      label: Package Type
+      hint: Select your breakfast package
+      type: select_one
+      options:
+      - Continental Package
+      - Hot Breakfast Package
+      - Healthy Start Package
+      - Executive Package
+      - Team Celebration Package
+      - Custom Package
+      required: true
+    - id: 8
+      name: number_of_people
+      label: Number of People
+      hint: How many people will this serve
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: continental_includes
+      label: Continental Package Includes
+      hint: Items in continental package
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: pastries
+      label: Assorted Pastries
+      hint: Croissants, muffins, danishes
+      type: select_one
+      options:
+      - Yes, Include
+      - No, Exclude
+      required: false
+    - id: 11
+      name: fresh_fruit
+      label: Fresh Fruit Platter
+      hint: Seasonal fresh fruit
+      type: select_one
+      options:
+      - Yes, Include
+      - No, Exclude
+      required: false
+    - id: 12
+      name: hot_package_includes
+      label: Hot Package Includes
+      hint: Items in hot breakfast package
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: hot_entree
+      label: Hot Entree Selection
+      hint: Choose your main hot item
+      type: select_one
+      options:
+      - Scrambled Eggs
+      - Breakfast Tacos
+      - Quiche
+      - Breakfast Casserole
+      - Make Your Own Omelette Station
+      required: false
+    - id: 14
+      name: breakfast_meats
+      label: Breakfast Meats
+      hint: Choose your meats
+      type: select_multiple
+      options:
+      - Bacon
+      - Sausage Links
+      - Sausage Patties
+      - Ham
+      - None
+      required: false
+    - id: 15
+      name: beverages_included
+      label: Beverages Included
+      hint: Select beverages
+      type: select_multiple
+      options:
+      - Coffee
+      - Decaf Coffee
+      - Assorted Teas
+      - Orange Juice
+      - Apple Juice
+      - Water Bottles
+      - None
+      required: true
+    - id: 16
+      name: dietary_accommodations
+      label: Dietary Accommodations
+      hint: Any special dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian Options
+      - Vegan Options
+      - Gluten-Free Options
+      - Dairy-Free Options
+      - Nut-Free Options
+      required: true
+    - id: 17
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: setup_requirements
+      label: Setup Requirements
+      hint: Do you need setup service
+      type: select_one
+      options:
+      - Yes, Full Setup
+      - Drop-Off Only
+      - Self-Setup
+      required: true
+    - id: 19
+      name: serving_supplies
+      label: Serving Supplies
+      hint: Do you need plates and utensils
+      type: select_one
+      options:
+      - Yes, Include Supplies
+      - No, We Have Supplies
+      required: true
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Company Invoice
+      - Purchase Order
+      - Cash
+      required: true
+    - id: 22
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept our terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

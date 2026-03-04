@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adolescence And Puberty Assessment
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the participant full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: grade_or_age_group
+      label: Grade or age group
+      hint: Indicate school grade or age range
+      type: select_one
+      options:
+      - Under 10
+      - 10 to 12
+      - 13 to 15
+      - 16 to 18
+      required: true
+    - id: 5
+      name: current_symptoms_or_concerns
+      label: Puberty related concerns or symptoms
+      hint: Briefly describe any physical or emotional changes
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: menstruation_status
+      label: Menstruation status
+      hint: Leave blank if not applicable
+      type: select_one
+      options:
+      - Not yet started
+      - Started and regular
+      - Started and irregular
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: emotional_wellbeing
+      label: Emotional wellbeing rating
+      hint: Rate overall mood in the last 2 weeks
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 8
+      name: body_image_concerns
+      label: Body image concerns
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Weight concerns
+      - Skin changes
+      - Height concerns
+      - Hair changes
+      - None
+      required: false
+    - id: 9
+      name: parental_consent
+      label: Parental consent obtained
+      hint: Required for participants under 18
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for clinician or counselor
+      type: text
+      options: []
+      required: false

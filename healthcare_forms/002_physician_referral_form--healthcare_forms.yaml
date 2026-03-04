@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physician_email
+      label: Physician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referring_physician
+      label: Referring Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referring_reason
+      label: Referring Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_referral
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: physician_specialty
+      label: Physician Specialty
+      hint: null
+      type: select_one
+      options:
+      - Anesthesiologist
+      - Cardiologist
+      - Dermatologist
+      - Endocrinologist
+      - General Practitioner
+      - Neurologist
+      - Ophthalmologist
+      - Pain Specialist
+      - Pediatrician
+      - Radiologist
+      required: false
+    - id: 9
+      name: referring_doctor_name
+      label: Referring Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

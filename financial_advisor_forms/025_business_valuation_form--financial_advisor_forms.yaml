@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Valuation Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: Business Owner Name
+      hint: Full name of primary owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Owner Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: valuation_date
+      label: Valuation Date
+      hint: Date for which valuation is requested
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: valuation_purpose
+      label: Purpose of Valuation
+      hint: Why is this valuation needed?
+      type: select_one
+      options:
+      - Sale of business
+      - Loan application
+      - Investment or fundraising
+      - Acquisition
+      - Insurance purposes
+      - Tax planning
+      - Partnership evaluation
+      - Estate planning
+      required: true
+    - id: 7
+      name: business_type
+      label: Type of Business
+      hint: Nature of the business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry_sector
+      label: Industry Sector
+      hint: What sector or industry?
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail
+      - Services
+      - Technology
+      - Healthcare
+      - Finance
+      - Real Estate
+      - Hospitality
+      - Other
+      required: true
+    - id: 9
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has the business been operating?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current workforce
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: last_fiscal_year_revenue
+      label: Last Fiscal Year Revenue
+      hint: Annual revenue in USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: current_year_revenue_projection
+      label: Current Year Revenue Projection
+      hint: Estimated revenue for current year
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: net_income
+      label: Last Fiscal Year Net Income
+      hint: Profit after expenses
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: ebitda
+      label: EBITDA (Last Fiscal Year)
+      hint: Earnings before interest, taxes, depreciation, amortization
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_assets
+      label: Total Assets
+      hint: Value of all business assets
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_liabilities
+      label: Total Liabilities
+      hint: Total debts and obligations
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: owner_equity
+      label: Owner Equity or Net Worth
+      hint: Assets minus liabilities
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: customer_concentration
+      label: Customer Concentration Risk
+      hint: Percentage from top customer
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: growth_rate
+      label: Historical Growth Rate
+      hint: Average annual growth percentage
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: market_conditions
+      label: Current Market Conditions and Outlook
+      hint: Assessment of industry trends
+      type: text
+      options: []
+      required: false

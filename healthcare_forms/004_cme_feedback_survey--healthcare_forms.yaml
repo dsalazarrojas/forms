@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CME Feedback Survey
+    pages:
+      - id: 1
+        name: event_name
+        label: CME Event Name
+        hint: Name of the Continuing Medical Education program you attended
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: event_date
+        label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: participant_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: professional_credential
+        label: Professional Credential
+        hint: Your medical license type
+        type: select_one
+        options:
+          - MD
+          - DO
+          - RN
+          - PA
+          - NP
+          - DDS
+          - DMD
+          - Other
+        required: true
+      - id: 5
+        name: specialty
+        label: Medical Specialty
+        hint: Your primary specialty
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: contact_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 7
+        name: content_relevance
+        label: How relevant was the content to your practice?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Not Relevant"
+          - "2 - Somewhat Relevant"
+          - "3 - Relevant"
+          - "4 - Very Relevant"
+          - "5 - Extremely Relevant"
+        required: true
+      - id: 8
+        name: content_quality
+        label: How would you rate the overall quality of content?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 9
+        name: instructor_effectiveness
+        label: How effective were the instructors?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Not Effective"
+          - "2 - Somewhat Effective"
+          - "3 - Effective"
+          - "4 - Very Effective"
+          - "5 - Extremely Effective"
+        required: true
+      - id: 10
+        name: presentation_clarity
+        label: Was the presentation clear and well-organized?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Very Unclear"
+          - "2 - Unclear"
+          - "3 - Adequate"
+          - "4 - Clear"
+          - "5 - Very Clear"
+        required: true
+      - id: 11
+        name: learning_objectives_met
+        label: Were the learning objectives met?
+        hint: null
+        type: select_one
+        options:
+          - "Fully met"
+          - "Mostly met"
+          - "Partially met"
+          - "Minimally met"
+          - "Not met"
+        required: true
+      - id: 12
+        name: knowledge_gained
+        label: What new knowledge did you gain?
+        hint: Describe key takeaways from this program
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: applicability
+        label: How will you apply this knowledge in your practice?
+        hint: Describe intended implementation
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: venue_quality
+        label: How would you rate the venue and facilities?
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: false
+      - id: 15
+        name: materials_quality
+        label: Quality of educational materials provided
+        hint: Rate on a scale of 1-5
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: false
+      - id: 16
+        name: improvement_suggestions
+        label: What could be improved for future programs?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: topics_of_interest
+        label: Topics you would like to see in future programs
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: attend_future
+        label: Would you attend future programs from this provider?
+        hint: null
+        type: select_one
+        options:
+          - "Definitely yes"
+          - "Probably yes"
+          - "Maybe"
+          - "Probably not"
+          - "Definitely not"
+        required: false

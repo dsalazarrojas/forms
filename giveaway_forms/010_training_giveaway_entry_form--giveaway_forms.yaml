@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Giveaway Entry Form
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time of completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_provider
+      label: Training provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_name
+      label: Course name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: I understand the terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 10
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false

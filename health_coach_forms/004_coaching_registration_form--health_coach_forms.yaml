@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Registration Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Your primary email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number for class updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_birth
+      label: Date of Birth
+      hint: Required for liability purposes
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: section_program
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: program_type
+      label: Which program are you registering for
+      hint: Select the coaching or class type
+      type: select_one
+      options:
+      - Personal Training
+      - Group Fitness Classes
+      - Sports Training
+      - Nutrition Coaching
+      - Wellness Program
+      required: true
+    - id: 10
+      name: start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: commitment_length
+      label: Program Commitment Length
+      hint: How long do you plan to participate
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - 6 months
+      - 12 months
+      - Open-ended
+      required: true
+    - id: 12
+      name: section_experience
+      label: -- Experience and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: experience_level
+      label: Your experience level
+      hint: Rate your current fitness or skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 14
+      name: fitness_goals
+      label: What are your main fitness or performance goals
+      hint: Select primary goal
+      type: select_one
+      options:
+      - Weight loss
+      - Muscle gain
+      - Improve flexibility
+      - Increase strength
+      - Performance enhancement
+      - General wellness
+      required: true
+    - id: 15
+      name: specific_goals
+      label: Specific goals or challenges
+      hint: Describe in detail what you want to achieve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_health
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Do you have any medical conditions or injuries
+      hint: This helps us modify programs appropriately
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Are you currently taking any medications
+      hint: Inform us of relevant medications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: physician_clearance
+      label: Do you have medical clearance for exercise
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: section_agreement
+      label: -- Terms and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: liability_waiver
+      label: I agree to the liability waiver
+      hint: You must accept to register
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true

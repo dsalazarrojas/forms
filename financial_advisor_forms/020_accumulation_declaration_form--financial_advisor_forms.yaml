@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accumulation Declaration Form
+    pages:
+    - id: 1
+      name: declarant_name
+      label: Declarant Name
+      hint: Full name of the individual or authorized representative of the organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: declarant_type
+      label: Type of Declarant
+      hint: Individual or organization making the declaration
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - Partnership
+      - Trust
+      - Non-profit Organization
+      - Other
+      required: true
+    - id: 3
+      name: social_security_tax_id
+      label: Social Security Number or Tax ID
+      hint: SSN for individuals or EIN for organizations
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Complete residential or business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for contact regarding this declaration
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: declaration_period
+      label: Declaration Period
+      hint: Time period covered by this accumulation declaration
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_asset_value
+      label: Total Asset Value
+      hint: Total value of accumulated assets during the declaration period
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: asset_categories
+      label: Asset Categories
+      hint: Select all categories of assets being declared
+      type: select_multiple
+      options:
+      - Real Estate
+      - Stocks and Securities
+      - Bank Accounts
+      - Retirement Accounts
+      - Business Interests
+      - Personal Property
+      - Investment Funds
+      - Cryptocurrency
+      - Other
+      required: true
+    - id: 10
+      name: source_of_funds
+      label: Source of Accumulated Funds
+      hint: Primary source of the accumulated assets
+      type: select_one
+      options:
+      - Employment Income
+      - Investment Returns
+      - Business Income
+      - Gifts/Inheritance
+      - Sale of Assets
+      - Other
+      required: true
+    - id: 11
+      name: accumulation_rate
+      label: Accumulation Rate
+      hint: How would you characterize the rate of asset accumulation
+      type: select_one
+      options:
+      - Consistent monthly
+      - Irregular
+      - Lump sum
+      - Seasonal
+      - Other
+      required: true
+    - id: 12
+      name: financial_institution
+      label: Primary Financial Institution
+      hint: Name of the primary financial institution where assets are held
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: certified_by
+      label: Certified By
+      hint: Name of the financial advisor or professional certifying this declaration
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: declaration_date
+      label: Declaration Date
+      hint: Date when this declaration is signed
+      type: date
+      options: []
+      required: true

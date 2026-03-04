@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Endowment Form
+    pages:
+    - id: 1
+      name: section_donor_information
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation amount
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_type
+      label: Donation type
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Annual
+      required: true
+    - id: 5
+      name: designation
+      label: Designation of funds
+      hint: Specify fund or program
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Choose payment method
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Bank transfer
+      required: true
+    - id: 7
+      name: receipt_email
+      label: Receipt email
+      hint: Email for donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: recognition_preference
+      label: Recognition preference
+      hint: How would you like to be recognized
+      type: select_one
+      options:
+      - Anonymous
+      - Name displayed
+      - Name and gift amount
+      required: false
+    - id: 9
+      name: comments
+      label: Additional notes
+      hint: Optional information about the gift
+      type: text
+      options: []
+      required: false

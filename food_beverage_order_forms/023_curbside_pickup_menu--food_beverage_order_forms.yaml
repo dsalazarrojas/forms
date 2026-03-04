@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curbside Pickup Menu
+    pages:
+    - id: 1
+      name: meal_type
+      label: Meal Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grilled
+      - Baked
+      - Fried
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: date
+      options: []
+      required: false

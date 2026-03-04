@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: frequency
+      label: Frequency of Donation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One-time'', ''label'': ''One-time''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''Annually'', ''label'': ''Annually''}'
+      required: true
+    - id: 3
+      name: campaign
+      label: Which Campaign?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Campaign 1'', ''label'': ''Campaign 1''}'
+      - '{''value'': ''Campaign 2'', ''label'': ''Campaign 2''}'
+      - '{''value'': ''Campaign 3'', ''label'': ''Campaign 3''}'
+      required: true
+    - id: 4
+      name: amount_frequency_relationship
+      label: Amount and Frequency Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One-time Donations'', ''label'': ''One-time Donations''}'
+      - '{''value'': ''Recurring Donations (e.g., monthly, annuity)'', ''label'':
+        ''Recurring Donations (e.g., monthly, annuity)''}'
+      required: true
+    - id: 5
+      name: gift_frequency
+      label: Gift Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''One-time'', ''label'': ''One-time''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''Annually'', ''label'': ''Annually''}'
+      required: false
+    - id: 6
+      name: gift_purpose
+      label: Gift Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_frequency_description
+      label: Gift Frequency Description
+      hint: null
+      type: text
+      options: []
+      required: false

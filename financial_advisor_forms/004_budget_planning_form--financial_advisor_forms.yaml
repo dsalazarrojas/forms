@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Planning Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: planning_period
+      label: Budget Planning Period
+      hint: Time period for this budget
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: Your current employment status
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Student
+      - Other
+      required: true
+    - id: 7
+      name: monthly_income
+      label: Total Monthly Income
+      hint: Combined monthly income after taxes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: income_sources
+      label: Income Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Salary/Wages
+      - Business Income
+      - Investments
+      - Rental Income
+      - Government Benefits
+      - Pension
+      - Child Support/Alimony
+      - Other
+      required: true
+    - id: 9
+      name: housing_expense
+      label: Monthly Housing Expense
+      hint: Rent or mortgage payment
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: utilities_expense
+      label: Monthly Utilities
+      hint: Electricity, water, gas, internet
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: groceries_expense
+      label: Monthly Groceries
+      hint: Food and household items
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: transportation_expense
+      label: Monthly Transportation
+      hint: Car payment, fuel, insurance, public transit
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: insurance_expense
+      label: Monthly Insurance
+      hint: Health, life, other insurance premiums
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: debt_payments
+      label: Monthly Debt Payments
+      hint: Credit cards, loans, etc.
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: entertainment_expense
+      label: Monthly Entertainment
+      hint: Dining out, subscriptions, hobbies
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: savings_contribution
+      label: Monthly Savings Contribution
+      hint: Amount allocated to savings
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: financial_goals
+      label: Financial Goals
+      hint: Select your primary goals
+      type: select_multiple
+      options:
+      - Emergency Fund
+      - Retirement Savings
+      - Home Purchase
+      - Debt Reduction
+      - Education Funding
+      - Investment Growth
+      - Vacation/Travel
+      - Major Purchase
+      required: true
+    - id: 18
+      name: budget_challenges
+      label: Budget Challenges
+      hint: Areas where you struggle most
+      type: select_multiple
+      options:
+      - Overspending on Dining
+      - Impulse Purchases
+      - Irregular Income
+      - High Fixed Expenses
+      - Lack of Tracking
+      - Unexpected Expenses
+      - Debt Management
+      - None
+      required: false
+    - id: 19
+      name: previous_budgeting
+      label: Previous Budgeting Experience
+      hint: Have you used a budget before
+      type: select_one
+      options:
+      - Yes - Currently Budgeting
+      - Yes - Tried Before
+      - No - First Time
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other financial information to share
+      type: text
+      options: []
+      required: false

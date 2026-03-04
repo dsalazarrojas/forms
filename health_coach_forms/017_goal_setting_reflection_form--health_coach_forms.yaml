@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Goal Setting Reflection Form
+    pages:
+    - id: 1
+      name: introduction
+      label: What brings you here
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: What are your current goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: progress
+      label: What progress have you made
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: challenges
+      label: What challenges did you face
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: next_steps
+      label: What are your next steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reflections
+      label: Additional Reflections
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: future_planning
+      label: What do you want to do next
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up Questions
+      hint: null
+      type: note
+      options: []
+      required: false

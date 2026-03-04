@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Money Order Refund Request Form
+    pages:
+    - id: 1
+      name: money_order_details
+      label: Money Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''Money Order'', ''value'': ''Money Order''}'
+      - '{''id'': 11, ''name'': ''Other Financial Instrument'', ''value'': ''Other
+        Financial Instrument''}'
+      - '{''id'': 12, ''name'': ''Unknown'', ''value'': ''Unknown''}'
+      required: false
+    - id: 3
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_requisition
+      label: Date of Requisition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: branch_name
+      label: Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_refund
+      label: Reason for Refund
+      hint: null
+      type: text
+      options: []
+      required: false

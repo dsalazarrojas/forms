@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_platform_user_feedback_survey
+    pages:
+    - id: 1
+      name: player_satisfaction
+      label: how_satisfied_with_gaming_platform
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 2
+      name: recommended_games
+      label: what_games_do_you_enjoy-playing
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Adventure
+      - Role-playing
+      - Sports
+      - Strategy
+      required: false
+    - id: 3
+      name: improvement_opportunities
+      label: what_improvement_opportunities_do_you_have
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_with_updates
+      label: how_satisfied_with_updates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_features
+      label: how_satisfied_with_features
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_with_service
+      label: how_satisfied_with_service
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 7
+      name: player_recommendations
+      label: what_do_you_recommend_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_satisfaction_2
+      label: what_do_you_like_most
+      hint: null
+      type: text
+      options: []
+      required: false

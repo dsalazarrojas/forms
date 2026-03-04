@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Obsessive Compulsive Disorder (OCD) Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: symptoms_frequency
+      label: symptoms_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_in_suffering_from_symptoms
+      label: time_in_suffering_from_symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: severity_of_symptoms
+      label: severity_of_symptoms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency_of_symptoms
+      label: frequency_of_symptoms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_in_suffering_from_symptoms_2
+      label: time_in_suffering_from_symptoms_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact_on_lifestyle
+      label: impact_on_lifestyle
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 8
+      name: impact_on_relationships
+      label: impact_on_relationships
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 9
+      name: impact_on_work_or_school
+      label: impact_on_work_or_school
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 10
+      name: treatment_status
+      label: treatment_status
+      hint: null
+      type: select_one
+      options:
+      - Currently seeking treatment
+      - Recently sought treatment
+      - Have never sought treatment
+      - Currently in treatment
+      required: false
+    - id: 11
+      name: treatment_planned
+      label: treatment_planned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment_goals
+      label: treatment_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_status
+      label: medication_status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medication_details
+      label: medication_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: therapy_status
+      label: therapy_status
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Other
+      required: false
+    - id: 17
+      name: therapy_frequency
+      label: therapy_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 18
+      name: therapy_type
+      label: therapy_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: therapist_name
+      label: therapist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: therapist_contact
+      label: therapist_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: therapist_notes
+      label: therapist_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: followup_date
+      label: followup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: followup_time
+      label: followup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: followup_location
+      label: followup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

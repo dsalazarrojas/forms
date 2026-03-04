@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Awareness Survey
+    pages:
+    - id: 1
+      name: coronavirus_awareness_survey_1
+      label: What are your thoughts about the risk of coronavirus?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coronaviruses_prevention_1
+      label: What do you think is the biggest risk factor?
+      hint: null
+      type: select_one
+      options:
+      - Airborne transmission
+      - Close contact with someone
+      - Touching contaminated surfaces
+      - Other
+      required: false
+    - id: 3
+      name: coronaviruses_prevention_2
+      label: Have you ever been in contact with a person with coronavirus?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, in a hospital setting
+      - Yes, in a community setting
+      - Yes, in a social event
+      - Yes, in other settings
+      - 'No'
+      required: false
+    - id: 4
+      name: coronavirus_prevention_3
+      label: How long do you think the risk of transmission is?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: coronavirus_prevention_4
+      label: What time of day do you think the risk of transmission is higher?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: coronaviruses_prevention_5
+      label: Do you know how to prevent the transmission of coronaviruses?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coronaviruses_prevention_6
+      label: What is your preferred prevention method?
+      hint: null
+      type: select_one
+      options:
+      - Mask usage
+      - Social distancing
+      - Handwashing
+      - Other
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Fund Switch Request Form
+    pages:
+    - id: 1
+      name: switch_request
+      label: Switch Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_investment
+      label: Current Investment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason_for_switch
+      label: Reason for Switch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_investment
+      label: New Investment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: investment_amount
+      label: Investment Amount
+      hint: Please enter the amount you would like to switch.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: Select the date of the transfer
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: advisor
+      label: Advisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: advisor_email
+      label: Advisor Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Data Capture Assessment
+    pages:
+    - id: 1
+      name: health_data_capture_assessment
+      label: Health Data Capture Assessment
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_assessment_forms
+      label: Healthcare Assessment Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: collect_health_intake_details
+      label: Collect health intake details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lifestyle_insights
+      label: Lifestyle insights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: collect_lifestyle_insights
+      label: Collect lifestyle insights
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: 'null'
+      type: select_one
+      options:
+      - 'null'
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: clinics
+      label: Clinics
+      hint: null
+      type: select_multiple
+      options:
+      - 'null'
+      - Primary
+      - Secondary
+      required: false
+    - id: 8
+      name: wellness_providers
+      label: Wellness providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'null'
+      - Primary
+      - Secondary
+      required: false
+    - id: 9
+      name: care_teams
+      label: Care teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'null'
+      - Primary
+      - Secondary
+      required: false

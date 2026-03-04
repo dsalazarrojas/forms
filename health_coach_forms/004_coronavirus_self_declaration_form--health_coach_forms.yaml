@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Self Declaration Form
+    pages:
+    - id: 1
+      name: coronavirus_self_declaration_form_employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coronavirus_symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - COVID-19 symptoms
+      - Fever
+      - Cough
+      - Sore Throat
+      - Runny Nose
+      - Headache
+      - Fatigue
+      - Loss of Taste or Smell
+      - Diarrhea
+      - Nausea or Vomiting
+      - Difficulty Breathing
+      required: false
+    - id: 3
+      name: coronavirus_symptom_frequency
+      label: Symptom Frequency
+      hint: null
+      type: select_one
+      options:
+      - Within the last 2 days
+      - Within the last week
+      - Within the last 2 weeks
+      - Never
+      required: false
+    - id: 4
+      name: coronavirus_symptom_location
+      label: Symptom Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coronavirus_self_declarations_form_hipaa
+      label: HIPAA
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: coronavirus_self_declaration_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coronavirus_self_declaration_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit and sign
+      - Do not submit
+      required: false

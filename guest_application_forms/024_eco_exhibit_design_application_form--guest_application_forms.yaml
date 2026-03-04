@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Exhibit Design Application Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: proposal_title
+      label: Proposal Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proposal_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exhibit_type
+      label: Exhibit Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned
+      label: Assigned
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

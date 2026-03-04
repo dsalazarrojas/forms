@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Treat Bag Request Form
+    pages:
+    - id: 1
+      name: trick_or_treat_bag_request
+      label: Trick or Treat Bag Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_name
+      label: Childs Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_name
+      label: Parents Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 10
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: true
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: assigned_shift
+      label: Assigned Shift
+      hint: null
+      type: select_one
+      options:
+      - 8:00am - 4:00pm
+      - 4:00pm - 12:00am
+      required: true
+    - id: 14
+      name: assigned_technician_notes
+      label: Assigned Technician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false

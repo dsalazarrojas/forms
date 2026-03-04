@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialist Referral Assessment
+    pages:
+    - id: 1
+      name: main_page
+      label: Referral Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: specialist_referral_form_fields_1
+      label: Specialist
+      hint: null
+      type: select_one
+      options:
+      - Allergist
+      - Cardiologist
+      - Dentist
+      - ENT Specialist
+      - Endocrinologist
+      - General Practitioner
+      - Gastroenterologist
+      - Ophthalmologist
+      - Orthodontist
+      - Physiotherapist
+      - Pulmonologist
+      - Surgeon
+      - Urologist
+      - Other
+      required: true
+    - id: 3
+      name: specialist_referral_form_fields_2
+      label: Condition
+      hint: Describe the referral reason.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: specialist_referral_form_fields_3
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: specialist_referral_form_fields_4
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: specialist_referral_form_fields_5
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: specialist_referral_form_fields_6
+      label: Referring Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - Allergist
+      - Cardiologist
+      - Dentist
+      - ENT Specialist
+      - Endocrinologist
+      - General Practitioner
+      - Gastroenterologist
+      - Ophthalmologist
+      - Orthodontist
+      - Physiotherapist
+      - Pulmonologist
+      - Surgeon
+      - Urologist
+      - Other
+      required: true
+    - id: 8
+      name: specialist_referral_form_fields_7
+      label: Referral Date
+      hint: Date of the referral.
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: specialist_referral_form_fields_8
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: specialist_referral_form_fields_9
+      label: Referral Reason
+      hint: Reason for referral.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specialist_referral_form_fields_10
+      label: Referring Specialist's Comment
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: specialist_referral_form_fields_11
+      label: Referring Specialist's Reason
+      hint: Reason for referral.
+      type: select_one
+      options:
+      - Referral for Specialist's opinion
+      - Patient's request
+      - Doctor's request
+      required: true
+    - id: 13
+      name: specialist_referral_form_fields_12
+      label: Referral Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: specialist_referral_form_fields_13
+      label: Referral Outcome
+      hint: Outcome of the referral.
+      type: select_one
+      options:
+      - Successful
+      - Failed
+      - Unknown
+      required: true
+    - id: 15
+      name: specialist_referral_form_fields_14
+      label: Referring Specialist's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: specialist_referral_form_fields_15
+      label: Referring Specialist's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: specialist_referral_form_fields_16
+      label: Referring Specialist's Title
+      hint: Referring Specialist's title.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specialist_referral_form_fields_17
+      label: Referring Specialist's Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: specialist_referral_form_fields_18
+      label: Referring Specialist's Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: specialist_referral_form_fields_19
+      label: Referring Specialist's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: specialist_referral_form_fields_20
+      label: Referring Specialist's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: specialist_referral_form_fields_21
+      label: Patient's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: specialist_referral_form_fields_22
+      label: Patient's Date of Birth
+      hint: Date of the patient's birth.
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: specialist_referral_form_fields_23
+      label: Patient's Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: specialist_referral_form_fields_24
+      label: Patient's ID Number
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wooden Straw Order Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shake_size
+      label: shake_size
+      hint: Choose from 12 oz, 16 oz, 20 oz
+      type: select_one
+      options:
+      - 12 oz
+      - 16 oz
+      - 20 oz
+      required: false
+    - id: 6
+      name: tea_type
+      label: tea_type
+      hint: Choose from Black, Green, Oolong, White
+      type: select_one
+      options:
+      - Black
+      - Green
+      - Oolong
+      - White
+      required: false
+    - id: 7
+      name: protein_amount
+      label: protein_amount
+      hint: Choose from 15 g, 20 g, 25 g
+      type: select_one
+      options:
+      - 15 g
+      - 20 g
+      - 25 g
+      required: false

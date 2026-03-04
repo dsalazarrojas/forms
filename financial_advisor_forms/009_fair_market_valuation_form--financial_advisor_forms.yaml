@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fair Market Valuation Form
+    pages:
+    - id: 1
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comparable_sales
+      label: Comparable Sales
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comparable_rental_data
+      label: Comparable Rental Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comparable_rental_rate
+      label: Comparable Rental Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: comparable_rental_period
+      label: Comparable Rental Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comparable_sold_price
+      label: Comparable Sold Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comparable_sold_date
+      label: Comparable Sold Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: property_use_other
+      label: Other Property Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_neighbouring_land_use
+      label: Property Neighbouring Land Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: property_neighbouring_land_use_other
+      label: Other Neighbouring Land Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_neighbouring_waterfront_use
+      label: Property Neighbouring Waterfront Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: property_neighbouring_waterfront_use_other
+      label: Other Neighbouring Waterfront Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_neighbouring_parking_use
+      label: Property Neighbouring Parking Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: property_neighbouring_parking_use_other
+      label: Other Neighbouring Parking Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_neighbouring_public_space_use
+      label: Property Neighbouring Public Space Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: property_neighbouring_public_space_use_other
+      label: Other Neighbouring Public Space Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_neighbouring_other_use
+      label: Property Neighbouring Other Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

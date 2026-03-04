@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Medical History
+    pages:
+    - id: 1
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: health_card_number
+      label: health_card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone_number
+      label: emergency_contact_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: illnesses
+      label: illnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_sports_injuries
+      label: previous_sports_injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_history_of_heart_disease_or_stroke
+      label: family_history_of_heart_disease_or_stroke
+      hint: null
+      type: select_multiple
+      options:
+      - Heart disease
+      - Stroke
+      required: false
+    - id: 11
+      name: have_all_organs
+      label: have_all_organs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: have_family_history_of_heart_disease_or_stroke
+      label: have_family_history_of_heart_disease_or_stroke
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: have_all_your_organs
+      label: have_all_your_organs
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

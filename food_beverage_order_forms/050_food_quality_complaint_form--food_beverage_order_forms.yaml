@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Quality Complaint Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complaint_details
+      label: Complaint Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_date
+      label: Complaint Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: product_issue
+      label: Product Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: complaint_message
+      label: Complaint Message
+      hint: null
+      type: text
+      options: []
+      required: true

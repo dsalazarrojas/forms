@@ -1,0 +1,450 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Loan Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ssn
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For loan communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: residence_status
+      label: Residence Status
+      hint: Your housing situation
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with family
+      - Other
+      required: true
+    - id: 13
+      name: monthly_housing_payment
+      label: Monthly Housing Payment
+      hint: Rent or mortgage amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: time_at_address
+      label: Time at Current Address
+      hint: How long have you lived here?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - Over 10 years
+      required: true
+    - id: 15
+      name: employment_information
+      label: Employment Information
+      hint: Your employment details
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: employment_status
+      label: Employment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Retired
+      - Unemployed
+      - Disabled
+      required: true
+    - id: 17
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time_employed
+      label: Time with Employer
+      hint: How long employed?
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months - 1 year
+      - 1-3 years
+      - 3-5 years
+      - Over 5 years
+      required: true
+    - id: 20
+      name: annual_income
+      label: Annual Income
+      hint: Gross annual income
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $40,000
+      - $40,001 - $60,000
+      - $60,001 - $80,000
+      - $80,001 - $100,000
+      - $100,001 - $150,000
+      - Over $150,000
+      required: true
+    - id: 21
+      name: additional_income
+      label: Additional Income
+      hint: Other income sources
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: income_source
+      label: Additional Income Source
+      hint: Source of additional income
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: vehicle_price
+      label: Vehicle Purchase Price
+      hint: Total price
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: Current miles
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: new_or_used
+      label: Vehicle Condition
+      hint: New or used?
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      required: true
+    - id: 31
+      name: loan_details
+      label: Loan Details
+      hint: Your loan preferences
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: Amount you need to borrow
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: down_payment
+      label: Down Payment Amount
+      hint: Amount you can put down
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: down_payment_source
+      label: Down Payment Source
+      hint: Where is the down payment from?
+      type: select_one
+      options:
+      - Savings
+      - Trade-in vehicle
+      - Gift from family
+      - Bonus/Commission
+      - Other
+      required: true
+    - id: 35
+      name: loan_term_preference
+      label: Loan Term Preference
+      hint: Desired loan length
+      type: select_one
+      options:
+      - 36 months
+      - 48 months
+      - 60 months
+      - 72 months
+      - 84 months
+      - No preference
+      required: true
+    - id: 36
+      name: trade_in_vehicle
+      label: Trade-In Vehicle
+      hint: Do you have a trade-in?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: trade_in_year
+      label: Trade-In Year
+      hint: Year of trade-in
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: trade_in_make
+      label: Trade-In Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: trade_in_model
+      label: Trade-In Model
+      hint: Model
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: trade_in_mileage
+      label: Trade-In Mileage
+      hint: Current miles
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: financial_information
+      label: Financial Information
+      hint: Your financial details
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: checking_account
+      label: Checking Account
+      hint: Do you have a checking account?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 43
+      name: savings_account
+      label: Savings Account
+      hint: Do you have a savings account?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 44
+      name: monthly_debt_obligations
+      label: Monthly Debt Obligations
+      hint: Total monthly debt payments
+      type: number
+      options: []
+      required: true
+    - id: 45
+      name: existing_loans
+      label: Existing Loans
+      hint: Do you have existing loans?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: bankruptcy_history
+      label: Bankruptcy History
+      hint: Any bankruptcies filed?
+      type: select_one
+      options:
+      - false
+      - Yes - within 3 years
+      - Yes - over 3 years ago
+      required: true
+    - id: 47
+      name: credit_score_estimate
+      label: Estimated Credit Score
+      hint: Your estimated score range
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (600-649)
+      - Very Poor (under 600)
+      - Unknown
+      required: true
+    - id: 48
+      name: references
+      label: Personal References
+      hint: Reference information
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to the terms?
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree
+      required: true
+    - id: 55
+      name: application_date
+      label: Application Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

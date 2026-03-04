@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Collection Giveaway Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_collection
+      label: -- Clothing Collection Preferences --
+      hint: What styles interest you
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: style_preference
+      label: Your Style Preference
+      hint: What type of clothing do you prefer
+      type: select_one
+      options:
+      - Classic and timeless
+      - Contemporary and trendy
+      - Casual and comfortable
+      - Professional and formal
+      - Sporty and athletic
+      - Eclectic and mixed
+      - Other
+      required: true
+    - id: 6
+      name: clothing_categories
+      label: Which clothing categories interest you most
+      hint: null
+      type: select_multiple
+      options:
+      - Everyday wear
+      - Work wardrobe
+      - Evening wear
+      - Casual weekend
+      - Athletic wear
+      - Accessories
+      - Outerwear
+      - Seasonal items
+      required: true
+    - id: 7
+      name: size_range
+      label: Your Size Range
+      hint: null
+      type: select_one
+      options:
+      - XS to S
+      - S to M
+      - M to L
+      - L to XL
+      - XL to XXL
+      - Multiple sizes
+      required: true
+    - id: 8
+      name: color_preference
+      label: Preferred Colors or Patterns
+      hint: Colors or styles you prefer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_brand
+      label: -- Brand and Designer Preferences --
+      hint: Brand preferences
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: brand_interests
+      label: Are you interested in specific brands or designers
+      hint: null
+      type: select_one
+      options:
+      - Yes, have favorites
+      - Open to any quality brands
+      - No specific preference
+      - Looking for affordable options
+      required: true
+    - id: 11
+      name: favorite_brands
+      label: List any favorite brands
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_condition
+      label: -- Condition and Quality --
+      hint: What condition are you looking for
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: condition_preference
+      label: Preferred Condition of Items
+      hint: null
+      type: select_one
+      options:
+      - Like new or gently used
+      - Good condition acceptable
+      - Will accept vintage or worn
+      - Any condition
+      required: true
+    - id: 14
+      name: quality_expectations
+      label: Quality expectations for giveaway items
+      hint: null
+      type: select_one
+      options:
+      - High quality, excellent brands
+      - Good quality, reliable brands
+      - Any quality acceptable
+      - Budget-friendly options
+      required: true
+    - id: 15
+      name: section_special
+      label: -- Special Requests --
+      hint: Any special items you are seeking
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: seeking_specific_items
+      label: Are you seeking any specific items
+      hint: Dress, suit, seasonal items, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_occasions
+      label: Do you need clothing for special occasions
+      hint: null
+      type: select_one
+      options:
+      - Yes, job interview
+      - Yes, wedding or formal event
+      - Yes, professional development
+      - No, general wardrobe
+      required: true
+    - id: 18
+      name: section_impact
+      label: -- Impact and Purpose --
+      hint: How will the clothing help you
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: purpose_of_clothing
+      label: How will these clothes benefit you
+      hint: null
+      type: select_one
+      options:
+      - Career transition or job search
+      - Building professional wardrobe
+      - Updating personal style
+      - Expanding existing closet
+      - Special event preparation
+      - Other reason
+      required: true
+    - id: 20
+      name: confidence_impact
+      label: How important is having quality clothing to your confidence
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not particularly important
+      required: true
+    - id: 21
+      name: section_logistics
+      label: -- Logistics and Preferences --
+      hint: Delivery and pickup options
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: pickup_preference
+      label: Preferred pickup method
+      hint: null
+      type: select_one
+      options:
+      - In-person pickup
+      - Local delivery
+      - Shipping to address
+      - Flexible
+      required: true
+    - id: 23
+      name: availability_dates
+      label: When are you available for pickup or delivery
+      hint: Dates or timeframe
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_preferences
+      label: Any additional preferences or requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_communication
+      label: May we contact you about this giveaway opportunity
+      hint: null
+      type: select_one
+      options:
+      - Yes, please contact
+      - By email only
+      - By phone only
+      - No further contact
+      required: true

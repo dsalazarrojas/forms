@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wound_characteristics
+      label: Wound Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wound_location
+      label: Wound Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wound_size
+      label: Wound Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wound_depth
+      label: Wound Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wound_surface
+      label: Wound Surface
+      hint: null
+      type: select_one
+      options:
+      - Slender
+      - Lobulated
+      - Fissured
+      - Eschar
+      - Pus-filled
+      - Fibrinous
+      - Ulcerated
+      - Other
+      required: false
+    - id: 8
+      name: wound_edges
+      label: Wound Edges
+      hint: null
+      type: select_multiple
+      options:
+      - Rolled
+      - Everted
+      - Everted with Rolling
+      - Everted with Rolling and Splaying
+      - Splayed
+      required: false
+    - id: 9
+      name: wound_base
+      label: Wound Base
+      hint: null
+      type: select_one
+      options:
+      - Intact
+      - Everted
+      - Rolled
+      - Splayed
+      - Other
+      required: false
+    - id: 10
+      name: wound_base_color
+      label: Wound Base Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Pink
+      - Blue
+      - Yellow
+      - Purple
+      - Other
+      required: false
+    - id: 11
+      name: wound_base_color_other
+      label: Wound Base Color Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: wound_treatment_plan
+      label: Wound Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: wound_rehabilitation_plan
+      label: Wound Rehabilitation Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: wound_complications
+      label: Wound Complications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: wound_complications_other
+      label: Wound Complications Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: wound_care
+      label: Wound Care
+      hint: null
+      type: select_one
+      options:
+      - Frequent dressing changes
+      - Infrequent dressing changes
+      - No dressing
+      required: false
+    - id: 19
+      name: wound_care_other
+      label: Wound Care Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: wound_vaccinations
+      label: Wound Vaccinations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: wound_vaccinations_other
+      label: Wound Vaccinations Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: wound_medications
+      label: Wound Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: wound_medications_other
+      label: Wound Medications Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: wound_notes
+      label: Wound Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: wound_comments
+      label: Wound Comments
+      hint: null
+      type: text
+      options: []
+      required: false

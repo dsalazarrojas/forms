@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Equipment Loan Request Form
+    pages:
+    - id: 1
+      name: loan_request
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_requested
+      label: loan_dates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''today''}'
+      - '{''id'': 2, ''name'': ''yesterday''}'
+      - '{''id'': 3, ''name'': ''tomorrow''}'
+      required: false
+    - id: 3
+      name: reason_for_loan
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: borrower_details
+      label: details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

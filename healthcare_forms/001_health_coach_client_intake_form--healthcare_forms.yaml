@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Coach Client Intake Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_goals
+      label: Health Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - Ace inhibitor
+      - Beta-blocker
+      - Calcium channel blocker
+      - Diuretic
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Acute
+      - Chronic
+      - Congenital
+      - Genetic
+      required: true
+    - id: 6
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_professionals
+      label: Medical Professionals
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiologist
+      - Dentist
+      - Endocrinologist
+      required: true
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Medication
+      - Food
+      required: false
+    - id: 10
+      name: medical_questions
+      label: Medical Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_info
+      label: Emergency Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Weekly Check In Form
+    pages:
+    - id: 1
+      name: weekly_workout_plan
+      label: Weekly Workout Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weekly_progress
+      label: Weekly Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Weight Loss
+      - Strength Gain
+      - Increased Endurance
+      - Improved Flexibility
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workout_type
+      label: Workout Type
+      hint: null
+      type: select_one
+      options:
+      - Running
+      - Weightlifting
+      - Cardio
+      - Yoga
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-4 times a week
+      - 1-2 times a week
+      - Rarely
+      - Don't know
+      required: false
+    - id: 9
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: intensity
+      label: Intensity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 11
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 12
+      name: motivation
+      label: Motivation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false

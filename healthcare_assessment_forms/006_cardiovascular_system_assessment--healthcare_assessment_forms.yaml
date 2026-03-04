@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular System Assessment
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Primary reason for cardiovascular assessment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: symptom_onset
+      label: Symptom Onset
+      hint: When did symptoms first begin
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_symptoms
+      label: Current Cardiovascular Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chest pain or angina
+      - Shortness of breath (dyspnea)
+      - Palpitations
+      - Syncope (fainting)
+      - Presyncope (near-fainting)
+      - Lower extremity edema
+      - Claudication (leg pain when walking)
+      - Orthopnea (difficulty breathing when lying flat)
+      - Paroxysmal nocturnal dyspnea
+      - Fatigue
+      - Dizziness
+      - None
+      required: true
+    - id: 8
+      name: symptom_severity
+      label: Symptom Severity
+      hint: Overall impact on daily activities
+      type: select_one
+      options:
+      - Mild - no limitation
+      - Moderate - slight limitation
+      - Moderate - marked limitation
+      - Severe - unable to perform activities
+      required: true
+    - id: 9
+      name: vital_signs_systolic_bp
+      label: Systolic Blood Pressure
+      hint: mmHg
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vital_signs_diastolic_bp
+      label: Diastolic Blood Pressure
+      hint: mmHg
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vital_signs_heart_rate
+      label: Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vital_signs_respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vital_signs_oxygen_saturation
+      label: Oxygen Saturation
+      hint: Percentage on room air
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: cardiac_exam_findings
+      label: Cardiac Examination Findings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Regular rate and rhythm
+      - Irregular rhythm
+      - S1 normal
+      - S2 normal
+      - S3 gallop
+      - S4 gallop
+      - Systolic murmur
+      - Diastolic murmur
+      - Click or snap
+      - Rub
+      - Not assessed
+      required: true
+    - id: 15
+      name: vascular_exam_findings
+      label: Vascular Examination Findings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pulses symmetric
+      - Diminished pulses
+      - Absent pulses
+      - Bruit present
+      - Varicose veins
+      - Edema
+      - Cyanosis
+      - Clubbing
+      - Normal capillary refill
+      - Delayed capillary refill
+      - Not assessed
+      required: true
+    - id: 16
+      name: ecg_results
+      label: ECG Results
+      hint: Most recent electrocardiogram findings
+      type: select_one
+      options:
+      - Normal sinus rhythm
+      - Atrial fibrillation
+      - Atrial flutter
+      - Supraventricular tachycardia
+      - Ventricular tachycardia
+      - Bradycardia
+      - Heart block
+      - ST elevation
+      - ST depression
+      - T wave abnormalities
+      - Not performed
+      required: true
+    - id: 17
+      name: echocardiogram_results
+      label: Echocardiogram Results
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cardiac_risk_factors
+      label: Cardiac Risk Factors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hypertension
+      - Hyperlipidemia
+      - Diabetes mellitus
+      - Current smoker
+      - Former smoker
+      - Obesity (BMI over 30)
+      - Sedentary lifestyle
+      - Family history of premature CVD
+      - Age (men over 45, women over 55)
+      - Chronic kidney disease
+      - Sleep apnea
+      - None identified
+      required: true
+    - id: 19
+      name: current_cardiac_medications
+      label: Current Cardiac Medications
+      hint: List all heart-related medications
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: previous_cardiac_procedures
+      label: Previous Cardiac Procedures
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardiac catheterization
+      - Percutaneous coronary intervention (PCI)
+      - Coronary artery bypass graft (CABG)
+      - Pacemaker insertion
+      - ICD insertion
+      - Ablation
+      - Valve repair or replacement
+      - None
+      required: true
+    - id: 21
+      name: functional_status
+      label: Functional Status (NYHA Class)
+      hint: New York Heart Association classification
+      type: select_one
+      options:
+      - Class I - No limitation
+      - Class II - Slight limitation
+      - Class III - Marked limitation
+      - Class IV - Unable to carry on activity without symptoms
+      - Not classified
+      required: true
+    - id: 22
+      name: assessment_provider
+      label: Assessment Provider Name
+      hint: Healthcare professional conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: provider_credentials
+      label: Provider Credentials
+      hint: MD, DO, NP, PA, etc.
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_recommended
+      label: Follow-up Recommended
+      hint: null
+      type: select_one
+      options:
+      - Routine follow-up (6-12 months)
+      - Follow-up in 3-6 months
+      - Follow-up in 1-3 months
+      - Follow-up in 2-4 weeks
+      - Urgent follow-up (within 1 week)
+      - Immediate referral needed
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Clinical Notes
+      hint: Any other relevant findings
+      type: text
+      options: []
+      required: false

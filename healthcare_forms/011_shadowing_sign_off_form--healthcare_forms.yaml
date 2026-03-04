@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shadowing Sign Off Form
+    pages:
+    - id: 1
+      name: shadowing_sign_off_form_1
+      label: shadowing_experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shadowing_sign_off_form_2
+      label: shadowing_supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shadowing_sign_off_form_3
+      label: shadowing_site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shadowing_sign_off_form_4
+      label: shadowing_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: shadowing_sign_off_form_5
+      label: shadowing_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: shadowing_supervisor_signature
+      label: shadowing_supervisor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shadowing_shadowing_experience
+      label: shadowing_shadowing_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: shadowing_agreed_to_terms
+      label: shadowing_agreed_to_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 9
+      name: shadowing_comments
+      label: shadowing_comments
+      hint: null
+      type: note
+      options: []
+      required: false

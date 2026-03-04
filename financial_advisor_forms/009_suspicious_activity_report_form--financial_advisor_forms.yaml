@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suspicious Activity Report Form
+    pages:
+    - id: 1
+      name: suspicious_activity_report_form
+      label: Suspicious activity report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: select_one
+      options:
+      - First name
+      - Middle name
+      - Last name
+      - Organization
+      - Other
+      required: false
+    - id: 3
+      name: date_of_report
+      label: Date of report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description_of_suspicious_activity
+      label: Description of suspicious activity
+      hint: Provide details regarding the suspicious activity.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Bank
+      - Office
+      - Home
+      - Other
+      required: false
+    - id: 9
+      name: suspicious_activity_type
+      label: Type of suspicious activity
+      hint: null
+      type: select_one
+      options:
+      - Suspicious activity 1
+      - Suspicious activity 2
+      - Suspicious activity 3
+      - Suspicious activity 4
+      - Suspicious activity 5
+      required: false
+    - id: 10
+      name: description_of_suspicious_activity_2
+      label: Description of suspicious activity 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_financing_application_form
+    pages:
+    - id: 1
+      name: home_financing_application
+      label: Home Financing Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Employed''}'
+      - '{''id'': 2, ''name'': ''Self-Employed''}'
+      - '{''id'': 3, ''name'': ''Unemployed''}'
+      - '{''id'': 4, ''name'': ''Retired''}'
+      - '{''id'': 5, ''name'': ''Disabled''}'
+      - '{''id'': 6, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: income_frequency
+      label: How often do you receive income?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monthly''}'
+      - '{''id'': 2, ''name'': ''Quarterly''}'
+      - '{''id'': 3, ''name'': ''Annually''}'
+      - '{''id'': 4, ''name'': ''Never''}'
+      required: false
+    - id: 6
+      name: employment_history
+      label: Employment History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: co_borrowers
+      label: Co-Borrowers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Family''}'
+      - '{''id'': 3, ''name'': ''Others''}'
+      required: false
+    - id: 8
+      name: property_type
+      label: Type of property
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Primary Residence''}'
+      - '{''id'': 2, ''name'': ''Second Home''}'
+      - '{''id'': 3, ''name'': ''Investment Property''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 9
+      name: property_type_other
+      label: Please describe the type of property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: desired_funding
+      label: Desired Amount of Financing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: co_applicants
+      label: Co-Applicants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Family''}'
+      - '{''id'': 3, ''name'': ''Others''}'
+      required: false
+    - id: 13
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_city_state
+      label: Property City/State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_zip
+      label: Property Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: property_sqft
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: property_age
+      label: Property Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      - '{''id'': 5, ''name'': ''N/A''}'
+      required: false
+    - id: 21
+      name: income_verification
+      label: Income Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: credit_score_other
+      label: If other, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_verification
+      label: Employment Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: co_borrower_credit_score
+      label: Co-Borrower Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      - '{''id'': 5, ''name'': ''N/A''}'
+      required: false
+    - id: 25
+      name: co_borrower_credit_score_other
+      label: If other, please describe
+      hint: null
+      type: text
+      options: []
+      required: false

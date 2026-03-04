@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Job Competency Evaluation
+    pages:
+    - id: 1
+      name: driver_job_competency
+      label: driver_job_competency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fleet_management
+      label: fleet_management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: standardize_evaluations
+      label: standardize_evaluations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_feedback
+      label: document_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manage_submission_records
+      label: manage_submission_records
+      hint: null
+      type: text
+      options: []
+      required: false

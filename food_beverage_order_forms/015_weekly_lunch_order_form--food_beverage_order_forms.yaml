@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Lunch Order Form
+    pages:
+    - id: 1
+      name: name
+      label: Weekly Lunch Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order
+      label: Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Monday: 0'
+      - 'Tuesday: 1'
+      - 'Wednesday: 1'
+      - 'Thursday: 1'
+      - 'Friday: 1'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: food
+      label: Food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool A
+      - Tool B
+      - Tool C
+      - Tool D
+      required: false

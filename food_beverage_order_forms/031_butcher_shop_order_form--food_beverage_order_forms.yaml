@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butcher Shop Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_type
+      label: Order Type
+      hint: Pickup or delivery?
+      type: select_one
+      options:
+      - Pickup at shop
+      - Home delivery
+      - Business delivery
+      - Other arrangement
+      required: true
+    - id: 8
+      name: pickup_date
+      label: Preferred Pickup or Delivery Date
+      hint: When do you need the order?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: pickup_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 12:00 PM - 2:00 PM
+      - 2:00 PM - 4:00 PM
+      - 4:00 PM - 6:00 PM
+      - 6:00 PM - 8:00 PM
+      required: true
+    - id: 10
+      name: beef_selection
+      label: Beef Products
+      hint: Select beef items you want
+      type: select_multiple
+      options:
+      - Ground beef
+      - Steak - T-bone
+      - Steak - Ribeye
+      - Steak - New York Strip
+      - Sirloin
+      - Roast
+      - Brisket
+      - Short ribs
+      required: false
+    - id: 11
+      name: pork_selection
+      label: Pork Products
+      hint: Select pork items you want
+      type: select_multiple
+      options:
+      - Pork chops
+      - Pork loin
+      - Ground pork
+      - Pork ribs
+      - Pork shoulder
+      - Bacon
+      - Ham
+      - Sausage
+      required: false
+    - id: 12
+      name: chicken_selection
+      label: Chicken Products
+      hint: Select chicken items you want
+      type: select_multiple
+      options:
+      - Whole chicken
+      - Chicken breasts
+      - Chicken thighs
+      - Chicken legs
+      - Drumsticks
+      - Ground chicken
+      required: false
+    - id: 13
+      name: specialty_meats
+      label: Specialty or Other Meats
+      hint: Select specialty items available
+      type: select_multiple
+      options:
+      - Lamb
+      - Turkey
+      - Duck
+      - Veal
+      - Game meats
+      - Custom specialty
+      required: false
+    - id: 14
+      name: prepared_items
+      label: Prepared Items
+      hint: Select prepared products available
+      type: select_multiple
+      options:
+      - Marinated meats
+      - Seasoned ground meat
+      - Pre-cut portions
+      - Special sausages
+      - Specialty blends
+      required: false
+    - id: 15
+      name: quantity_details
+      label: Order Details and Quantities
+      hint: Specify cuts, weights, and quantities needed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Thickness, marinade, packaging, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_preferences
+      label: Dietary or Quality Preferences
+      hint: Grass-fed, organic, pasture-raised, etc.
+      type: select_multiple
+      options:
+      - Grass-fed beef
+      - Organic
+      - Pasture-raised
+      - No antibiotics
+      - No preference
+      required: false
+    - id: 18
+      name: estimated_total
+      label: Estimated Order Total
+      hint: Approximate cost
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit card online
+      - Cash at pickup
+      - Check
+      - Bank transfer
+      - Debit card
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

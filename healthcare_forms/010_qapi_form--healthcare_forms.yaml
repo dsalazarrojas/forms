@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: qapi_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_id_number
+      label: patient_id_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: patient_date_of_visit
+      label: patient_date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_chart_number
+      label: medical_chart_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visit_start_time
+      label: visit_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: visit_end_time
+      label: visit_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stop Payment Form Template
+    pages:
+    - id: 1
+      name: form_title
+      label: Stop Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_number
+      label: Customer Service Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_service_email
+      label: Customer Service Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_service_phone
+      label: Customer Service Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_service_address
+      label: Customer Service Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false

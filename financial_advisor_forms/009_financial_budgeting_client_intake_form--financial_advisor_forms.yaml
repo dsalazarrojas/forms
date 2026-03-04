@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Budgeting Client Intake Form
+    pages:
+    - id: 1
+      name: income
+      label: income
+      hint: null
+      type: select_multiple
+      options:
+      - salary
+      - investment
+      - other
+      - alimony
+      required: false
+    - id: 2
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - employed
+      - unemployed
+      - student
+      - self employed
+      required: false
+    - id: 3
+      name: monthly_income
+      label: monthly_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: monthly_expenses
+      label: monthly_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: debt_total
+      label: debt_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: debt_goal
+      label: debt_goal
+      hint: null
+      type: select_one
+      options:
+      - short term goal
+      - long term goal
+      - payoff entire debt
+      required: false
+    - id: 7
+      name: emergency_fund
+      label: emergency_fund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_goal
+      label: financial_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: income_expenses
+      label: income_expenses
+      hint: null
+      type: select_multiple
+      options:
+      - credit card
+      - rent
+      - loans
+      required: false
+    - id: 10
+      name: financial_institution
+      label: financial_institution
+      hint: null
+      type: select_multiple
+      options:
+      - bank
+      - credit union
+      - non-profit credit union
+      - community bank
+      required: false
+    - id: 11
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_one
+      options:
+      - salary
+      - investment
+      - other
+      - alimony
+      - inheritance
+      - pension
+      required: false
+    - id: 12
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - biweekly
+      - monthly
+      - annually
+      required: false

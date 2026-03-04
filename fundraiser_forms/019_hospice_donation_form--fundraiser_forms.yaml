@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Donation Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purpose_donation
+      label: Purpose of Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name_of_hospice
+      label: Name of Hospice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_of_hospice
+      label: Address of Hospice
+      hint: null
+      type: text
+      options: []
+      required: false

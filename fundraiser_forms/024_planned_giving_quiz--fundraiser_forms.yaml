@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: planned_giving_quiz
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gift_preferences
+      label: Planned Gift Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''label'': ''Securities'', ''value'': ''securities''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: gift_amount
+      label: Planned Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Mail'', ''value'': ''mail''}'
+      required: true
+    - id: 6
+      name: best_contact_method
+      label: Best Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Mail'', ''value'': ''mail''}'
+      required: true
+    - id: 7
+      name: planned_gift
+      label: Planned Gift
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 8
+      name: follow_up_info
+      label: Follow-up Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up_phone
+      label: Follow-up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_email
+      label: Follow-up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_mail
+      label: Follow-up Mail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: planned_giving_info
+      label: Planned Giving Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_follow_up_info
+      label: Additional Follow-up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_other
+      label: Other Follow-up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_other_info
+      label: Other Follow-up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_other_method
+      label: Other Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Mail'', ''value'': ''mail''}'
+      required: true
+    - id: 20
+      name: follow_up_other_method_info
+      label: Other Follow-up Method Info
+      hint: null
+      type: text
+      options: []
+      required: false

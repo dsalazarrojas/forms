@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: insurance provider
+      hint: null
+      type: select_one
+      options:
+      - Aetna
+      - Blue Cross
+      - Blue Shield
+      required: false
+    - id: 8
+      name: insurance_plan
+      label: insurance plan
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Premium
+      - Gold
+      required: false
+    - id: 9
+      name: medical_group
+      label: medical group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Provider
+      - Agent
+      required: false
+    - id: 12
+      name: submitted_date
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_time
+      label: submitted time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Pending
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: reviewed
+      label: reviewed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reviewed_by
+      label: reviewed by
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Provider
+      - Agent
+      required: false

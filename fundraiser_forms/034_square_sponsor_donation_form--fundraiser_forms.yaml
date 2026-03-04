@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: square_sponsor_donation_form
+    pages:
+    - id: 1
+      name: square_sponsor_donation_form_page
+      label: square_sponsor_donation_form_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: donation_type
+      label: donation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_of_donation
+      label: date_of_donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_donation
+      label: time_of_donation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

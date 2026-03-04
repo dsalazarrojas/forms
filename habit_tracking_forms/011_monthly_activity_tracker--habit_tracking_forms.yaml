@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_activity_tracker
+    pages:
+    - id: 1
+      name: monthly_activity_goal
+      label: Monthly Activity Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reflection
+      label: Reflection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_review
+      label: Team Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

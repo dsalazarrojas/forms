@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Package Delivery Form
+    pages:
+    - id: 1
+      name: package_details
+      label: package_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: package_prophets
+      label: package_prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: package_quantity
+      label: package_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_packages
+      label: total_packages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: package_value
+      label: package_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

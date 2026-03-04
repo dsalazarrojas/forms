@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tuition Waiver Form
+    pages:
+    - id: 1
+      name: application_info
+      label: Apply For Tuition Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: tuition_amount
+      label: Tuition Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: reason_for_waiver
+      label: Reason For Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

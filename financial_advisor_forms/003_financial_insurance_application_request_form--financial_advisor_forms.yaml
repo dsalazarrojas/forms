@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Insurance Application Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: select_multiple
+      options:
+      - 123-456-7890
+      - 098-765-4321
+      required: false
+    - id: 6
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Health
+      - Auto
+      - Life
+      required: false
+    - id: 8
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false

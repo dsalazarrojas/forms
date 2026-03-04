@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Day Meal Planning Survey
+    pages:
+    - id: 1
+      name: game_day_meal_planning_survey_title
+      label: Game Day Meal Planning Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: headcount
+      label: Headcount
+      hint: How many guests are you planning to bring?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contribution_commitments
+      label: Contribution Commitments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: game_day_meal_planning_survey_description
+      label: Game Day Meal Planning Survey Description
+      hint: null
+      type: text
+      options: []
+      required: false

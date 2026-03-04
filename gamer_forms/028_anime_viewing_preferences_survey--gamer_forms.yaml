@@ -1,0 +1,254 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anime Viewing Preferences Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For survey communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age Group
+      hint: Your age range
+      type: select_one
+      options:
+      - Under 13
+      - 13-18
+      - 19-25
+      - 26-35
+      - 36-50
+      - 50+
+      required: false
+    - id: 5
+      name: viewing_habits_header
+      label: -- Viewing Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: weekly_hours
+      label: Hours of Anime You Watch Per Week
+      hint: Approximate weekly viewing time
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20+ hours
+      - Varies widely
+      required: true
+    - id: 7
+      name: preferred_format
+      label: Preferred Viewing Format
+      hint: How you prefer to watch
+      type: select_one
+      options:
+      - Dubbed English
+      - Subtitled Japanese
+      - Either dub or sub
+      - No preference
+      required: true
+    - id: 8
+      name: viewing_source_header
+      label: -- Viewing Sources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: streaming_platforms
+      label: Streaming Platforms You Use
+      hint: Select all you subscribe to
+      type: select_multiple
+      options:
+      - Netflix
+      - Crunchyroll
+      - Hulu
+      - Amazon Prime Video
+      - Funimation
+      - HBO Max
+      - Disney Plus
+      - Other Streaming Service
+      required: false
+    - id: 10
+      name: other_sources
+      label: Other Ways You Watch Anime
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cable or Broadcast TV
+      - Purchased DVD or Blu-ray
+      - Anime Convention Events
+      - Free ad-supported sites
+      - Friend or Family sharing
+      - Cinema or Theater screenings
+      - Other methods
+      required: false
+    - id: 11
+      name: genre_preferences_header
+      label: -- Genre Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: favorite_genres
+      label: Top 3 Favorite Genres
+      hint: Select your three favorite genres
+      type: select_multiple
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Fantasy
+      - Horror
+      - Mystery
+      - Romance
+      - Sci-Fi
+      - Slice of Life
+      - Sports
+      - Supernatural
+      required: true
+    - id: 13
+      name: disliked_genres
+      label: Genres You Dislike
+      hint: What you prefer to avoid
+      type: select_multiple
+      options:
+      - Gore and Violence
+      - Ecchi or Fanservice
+      - Extremely Dark Themes
+      - Slow-paced Stories
+      - Heavy Dialogue
+      - Psychological Horror
+      - Slice of Life
+      - Romance
+      required: false
+    - id: 14
+      name: content_preferences_header
+      label: -- Content Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: series_length
+      label: Preferred Series Length
+      hint: How many episodes you prefer
+      type: select_one
+      options:
+      - Single Season (13 episodes)
+      - Two Seasons (24-26 episodes)
+      - Long-running (50+ episodes)
+      - Movies Preferred
+      - No preference
+      required: true
+    - id: 16
+      name: story_type
+      label: Preferred Story Type
+      hint: What kind of plot
+      type: select_multiple
+      options:
+      - Standalone Stories
+      - Ongoing Plot
+      - Multiple Story Arcs
+      - Slice of Life Narrative
+      - Mystery to Solve
+      - Character Driven
+      required: false
+    - id: 17
+      name: pacing_preference
+      label: Preferred Pacing
+      hint: How fast or slow
+      type: select_one
+      options:
+      - Fast-paced Action
+      - Medium Pacing
+      - Slow and Contemplative
+      - Varies by Story
+      - No preference
+      required: false
+    - id: 18
+      name: recommendations_header
+      label: -- Content Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: current_watching
+      label: What anime are you currently watching
+      hint: List any current series
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommendation_interest
+      label: Would you like personalized recommendations
+      hint: Can we suggest anime for you
+      type: select_one
+      options:
+      - Yes, I want recommendations
+      - Maybe, depends on match
+      - No thank you
+      required: true
+    - id: 21
+      name: special_interests_header
+      label: -- Special Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: special_content_interests
+      label: Special Content Interests
+      hint: Select any special interests
+      type: select_multiple
+      options:
+      - LGBTQ plus representation
+      - Strong Female Characters
+      - Complex Male Characters
+      - Diverse Casting
+      - Cultural Representation
+      - Mental Health Themes
+      - Environmental Themes
+      - Educational Content
+      required: false
+    - id: 23
+      name: additional_feedback
+      label: Additional Feedback or Suggestions
+      hint: Any comments about anime selection
+      type: text
+      options: []
+      required: false

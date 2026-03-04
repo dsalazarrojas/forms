@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flower Shop Order Form
+    pages:
+    - id: 1
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Pick-up
+      - Delivery
+      required: false
+    - id: 3
+      name: flower_type
+      label: Flower Type
+      hint: null
+      type: select_multiple
+      options:
+      - Roses
+      - Daisies
+      - Lilies
+      - Tulips
+      required: false
+    - id: 4
+      name: number_of_flowers
+      label: Number of Flowers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

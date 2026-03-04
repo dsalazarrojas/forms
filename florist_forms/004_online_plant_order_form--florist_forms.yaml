@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Plant Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_page
+      label: Payment info
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: plant_page
+      label: Plants
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: plant_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: Payment gateway
+      hint: null
+      type: select_one
+      options:
+      - gateway1
+      - gateway2
+      - gateway3
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_time
+      label: Order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: order_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_notes
+      label: Customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_submitted
+      label: Order submitted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

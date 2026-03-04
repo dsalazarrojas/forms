@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Information
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: surgical_history
+      label: Surgical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Neurology
+      - Dermatology
+      - General Medicine
+      - Urology
+      - Ophthalmology
+      - Cardiology
+      - General Surgery
+      - Pulmonology
+      - Neurosurgery
+      required: false
+    - id: 22
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - General Medicine
+      - Cardiology
+      - Neurology
+      - Dermatology
+      - Urology
+      - Ophthalmology
+      - General Surgery
+      - Pulmonology
+      - Neurosurgery
+      required: false
+    - id: 23
+      name: medical_providers
+      label: Medical Providers
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - General Medicine
+      - Dermatology
+      - Neurology
+      - Urology
+      - Ophthalmology
+      - General Surgery
+      required: false
+    - id: 24
+      name: patient_caregivers
+      label: Patient Caregivers
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Family
+      - Friend
+      - Neighbor
+      - Other
+      required: false
+    - id: 25
+      name: patient_caregiver_relationship
+      label: Patient Caregiver Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Caregiver
+      - Secondary Caregiver
+      - Tertiary Caregiver
+      required: false

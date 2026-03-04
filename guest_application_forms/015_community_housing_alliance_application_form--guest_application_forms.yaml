@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Housing Alliance Application Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant full name
+      hint: Full legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For eligibility and records
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For notifications and follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: household_size
+      label: Household size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: current_address
+      label: Current address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: housing_needs
+      label: Description of housing needs
+      hint: Describe needs and preferences
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: income_source
+      label: Primary income source
+      hint: Employment, benefits, other
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: Consent to share information with partners
+      hint: Agree to share application data for placement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

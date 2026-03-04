@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Qualification Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Financial Client Qualification Form
+      hint: Help us understand your financial situation to provide appropriate advisory
+        services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic Partnership
+      required: true
+    - id: 8
+      name: number_of_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employer
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Business Owner
+      - Retired
+      - Unemployed
+      - Student
+      required: true
+    - id: 12
+      name: annual_income
+      label: Annual Income Range
+      hint: null
+      type: select_one
+      options:
+      - Under $50000
+      - $50000-$74999
+      - $75000-$99999
+      - $100000-$149999
+      - $150000-$199999
+      - $200000-$499999
+      - $500000-$999999
+      - $1000000+
+      required: true
+    - id: 13
+      name: income_sources
+      label: Sources of Income
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Salary or Wages
+      - Business Income
+      - Investments
+      - Rental Properties
+      - Retirement Accounts
+      - Social Security
+      - Inheritance
+      - Other
+      required: true
+    - id: 14
+      name: net_worth
+      label: Estimated Net Worth
+      hint: Assets minus liabilities
+      type: select_one
+      options:
+      - Under $100000
+      - $100000-$249999
+      - $250000-$499999
+      - $500000-$999999
+      - $1000000-$4999999
+      - $5000000+
+      required: false
+    - id: 15
+      name: liquid_assets
+      label: Liquid Assets Available for Investment
+      hint: null
+      type: select_one
+      options:
+      - Under $10000
+      - $10000-$49999
+      - $50000-$99999
+      - $100000-$249999
+      - $250000-$499999
+      - $500000+
+      required: true
+    - id: 16
+      name: current_debts
+      label: Total Current Debts
+      hint: Excluding mortgage
+      type: select_one
+      options:
+      - None
+      - Under $10000
+      - $10000-$49999
+      - $50000-$99999
+      - $100000-$249999
+      - Over $250000
+      required: false
+    - id: 17
+      name: debt_types
+      label: Types of Debt
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Credit Cards
+      - Student Loans
+      - Auto Loans
+      - Personal Loans
+      - Business Loans
+      - Other
+      required: false
+    - id: 18
+      name: home_ownership
+      label: Home Ownership Status
+      hint: null
+      type: select_one
+      options:
+      - Own Outright
+      - Own with Mortgage
+      - Renting
+      - Living with Family
+      - Other
+      required: false
+    - id: 19
+      name: investment_experience
+      label: Investment Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner - Little to No Experience
+      - Intermediate - Some Experience
+      - Advanced - Significant Experience
+      - Expert - Professional Level
+      required: true
+    - id: 20
+      name: investment_types_owned
+      label: Current Investment Holdings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Stocks
+      - Bonds
+      - Mutual Funds
+      - ETFs
+      - Real Estate
+      - Cryptocurrency
+      - Commodities
+      - Retirement Accounts
+      - Other
+      required: false
+    - id: 21
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How comfortable are you with investment risk
+      type: select_one
+      options:
+      - Conservative - Preserve Capital
+      - Moderately Conservative
+      - Moderate - Balanced
+      - Moderately Aggressive
+      - Aggressive - High Growth
+      required: true
+    - id: 22
+      name: investment_goals
+      label: Primary Investment Goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Retirement Planning
+      - Wealth Accumulation
+      - Income Generation
+      - Education Funding
+      - Home Purchase
+      - Business Investment
+      - Estate Planning
+      - Tax Optimization
+      - Other
+      required: true
+    - id: 23
+      name: investment_timeframe
+      label: Investment Time Horizon
+      hint: null
+      type: select_one
+      options:
+      - Short-term - Less than 3 years
+      - Medium-term - 3 to 10 years
+      - Long-term - 10+ years
+      required: true
+    - id: 24
+      name: financial_services_needed
+      label: Financial Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Investment Management
+      - Retirement Planning
+      - Tax Planning
+      - Estate Planning
+      - Insurance Planning
+      - Debt Management
+      - Business Planning
+      - Other
+      required: true
+    - id: 25
+      name: current_advisor
+      label: Do You Currently Work with a Financial Advisor
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Previously Did
+      required: true
+    - id: 26
+      name: why_seeking_advisor
+      label: Why Are You Seeking a Financial Advisor Now
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Online Search
+      - Social Media
+      - Seminar or Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

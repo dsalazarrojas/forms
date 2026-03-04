@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Shift Report Checklist
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Penicillin''}'
+      - '{''label'': ''Latex''}'
+      - '{''label'': ''Shellfish''}'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Abnormal''}'
+      required: false
+    - id: 7
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stable''}'
+      - '{''label'': ''Unstable''}'
+      required: true
+    - id: 8
+      name: nurse_signature
+      label: Nurse Signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Signature''}'
+      - Other
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medications_administered
+      label: Medications Administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: vital_signs_2
+      label: Blood Pressure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: blood_oxygen_saturation
+      label: Oxygen Saturation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''90-100''}'
+      - '{''label'': ''< 90''}'
+      required: false
+    - id: 15
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: patient_age
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Aspirin''}'
+      - '{''label'': ''Penicillin''}'
+      required: false
+    - id: 22
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Abnormal''}'
+      required: false
+    - id: 23
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stable''}'
+      - '{''label'': ''Unstable''}'
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true

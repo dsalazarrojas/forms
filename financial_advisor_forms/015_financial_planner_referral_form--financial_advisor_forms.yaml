@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Planner Referral Form
+    pages:
+    - id: 1
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_planner_details
+      label: financial_planner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_financial_details
+      label: client_financial_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_method
+      label: referral_method
+      hint: null
+      type: select_multiple
+      options:
+      - Client Request
+      - Social Media
+      - Word of Mouth
+      - Google Search
+      - Referral from Another Financial Planner
+      - Other (Please specify)
+      required: false
+    - id: 6
+      name: financial_planner_referral_rate
+      label: financial_planner_referral_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: referral_fee
+      label: referral_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: other_financial_services
+      label: other_financial_services
+      hint: null
+      type: select_multiple
+      options:
+      - Investment Management
+      - Tax Planning
+      - Financial Planning
+      - Financial Planning and Investment
+      - Trust and Estate Planning
+      - Retirement Planning
+      - Insurance Planning
+      - Other (Please specify)
+      required: false
+    - id: 9
+      name: other_financial_services_other
+      label: other_financial_services_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

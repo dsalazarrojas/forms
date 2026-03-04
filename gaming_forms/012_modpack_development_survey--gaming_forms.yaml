@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Modpack Development Survey
+    pages:
+    - id: 1
+      name: modpack_development_survey
+      label: Modpack Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: modpack_development_challenge
+      label: Development Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: modpack_feature_ideas
+      label: Future Feature Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: modpack_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: modpack_dev_comments
+      label: Development Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: modpack_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

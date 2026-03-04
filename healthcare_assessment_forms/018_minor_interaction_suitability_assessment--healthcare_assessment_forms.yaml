@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minor Interaction Suitability Assessment
+    pages:
+    - id: 1
+      name: adult_minor_interaction
+      label: Adult Minor Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_interaction
+      label: Date Interaction Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_interaction
+      label: Time Interaction Occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location_interaction
+      label: Location Interaction Occurred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: false
+    - id: 6
+      name: safety_precautions
+      label: Safety Precautions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: youth_response
+      label: Youth Response
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: adult_response
+      label: Adult Response
+      hint: null
+      type: note
+      options: []
+      required: false

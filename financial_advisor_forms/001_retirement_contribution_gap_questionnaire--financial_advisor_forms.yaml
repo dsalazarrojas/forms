@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: retirement_contribution_gap_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_institution
+      label: financial_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: retirement_goal
+      label: retirement_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: retirement_age
+      label: retirement_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: current_retirement_plan
+      label: current_retirement_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_institution_type
+      label: financial_institution_type
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Union
+      - Brokerage
+      required: false
+    - id: 7
+      name: financial_institution_institutional
+      label: financial_institution_institutional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_investment
+      label: current_investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: retirement_contribution
+      label: retirement_contribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: retirement_savings_gaps
+      label: retirement_savings_gaps
+      hint: null
+      type: select_multiple
+      options:
+      - Income
+      - Other
+      - Health
+      - Disability
+      required: false
+    - id: 11
+      name: retirement_savings_strategy
+      label: retirement_savings_strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: retirement_savings_gaps_summary
+      label: retirement_savings_gaps_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: time
+      options: []
+      required: false

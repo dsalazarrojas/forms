@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guild Battle Reservation Form
+    pages:
+    - id: 1
+      name: match_date
+      label: Match Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: match_time
+      label: Match Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: guild_name
+      label: Guild Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: opponent_name
+      label: Opponent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_mode
+      label: Game Mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Raid''}'
+      - '{''value'': ''Raid Boss''}'
+      - '{''value'': ''PvP''}'
+      required: false
+    - id: 6
+      name: player_count
+      label: Player Count
+      hint: null
+      type: number
+      options: []
+      required: false

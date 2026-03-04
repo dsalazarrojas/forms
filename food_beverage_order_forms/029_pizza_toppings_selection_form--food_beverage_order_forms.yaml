@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pizza Toppings Selection Form
+    pages:
+    - id: 1
+      name: pizza_toppings_selection_form
+      label: Topping 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pizza_toppings_selection_form_toppings
+      label: Select Toppings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pizza_toppings_selection_form_toppings_2
+      label: Select Toppings 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''topping_1'', ''label'': ''Cheese'', ''type'': ''option''}'
+      - '{''id'': 5, ''name'': ''topping_2'', ''label'': ''Pepperoni'', ''type'':
+        ''option''}'
+      - '{''id'': 6, ''name'': ''topping_3'', ''label'': ''Mushroom'', ''type'': ''option''}'
+      - '{''id'': 7, ''name'': ''topping_4'', ''label'': ''Onions'', ''type'': ''option''}'
+      - '{''id'': 8, ''name'': ''topping_5'', ''label'': ''Bacon'', ''type'': ''option''}'
+      required: false
+    - id: 4
+      name: note
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

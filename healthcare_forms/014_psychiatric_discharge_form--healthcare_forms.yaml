@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychiatric Discharge Form
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_outcome
+      label: Treatment Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Improved''}'
+      - '{''value'': ''Partially Improved''}'
+      - '{''value'': ''Stable''}'
+      - '{''value'': ''Worse''}'
+      required: false
+    - id: 4
+      name: medication_treatment
+      label: Medication Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Antipsychotic Medication''}'
+      - '{''value'': ''Antidepressant Medication''}'
+      - '{''value'': ''Mood Stabilizer''}'
+      required: true
+    - id: 5
+      name: follow_up_info
+      label: Follow-up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_provider
+      label: Next Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: discharge_comments
+      label: Discharge Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: discharge_signature
+      label: Discharge Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Provider''}'
+      - '{''value'': ''Family Member''}'
+      required: true
+    - id: 10
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: follow_up_contact_info
+      label: Follow-up Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-person''}'
+      required: true
+    - id: 12
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false

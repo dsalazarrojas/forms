@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Flower Order Form
+    pages:
+    - id: 1
+      name: online_flower_order_form
+      label: Flower Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Tulip
+      - Rose
+      - Lilac
+      - Carnation
+      - Sunflower
+      - Orchid
+      - Gerbera
+      - Hyacinth
+      - Daisy
+      - Lily
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chit Fund Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: employment_information
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Retired
+      - Unemployed
+      - Student
+      - Other
+      required: true
+    - id: 16
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: company_name
+      label: Company or Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: annual_income
+      label: Annual Income Range
+      hint: null
+      type: select_one
+      options:
+      - Less than 25000 dollars
+      - 25000-50000 dollars
+      - 50000-100000 dollars
+      - 100000-250000 dollars
+      - 250000+ dollars
+      required: true
+    - id: 19
+      name: chit_fund_details
+      label: -- Chit Fund Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: chit_amount
+      label: Desired Chit Fund Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: chit_tenure
+      label: Chit Fund Tenure
+      hint: In months
+      type: select_one
+      options:
+      - 6 months
+      - 12 months
+      - 18 months
+      - 24 months
+      - 36 months
+      required: true
+    - id: 22
+      name: monthly_contribution
+      label: Monthly Contribution Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: financial_information
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: existing_loans
+      label: Do you have existing loans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: purpose_of_fund
+      label: Purpose of Chit Fund
+      hint: null
+      type: select_one
+      options:
+      - Business investment
+      - Home improvement
+      - Education
+      - Medical expenses
+      - Personal use
+      - Other
+      required: true

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_outcome_measure_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_status
+      label: Mental Health Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_status_date
+      label: Date
+      hint: Date of Mental Health Status
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: mental_health_scale
+      label: Mental Health Scale
+      hint: Please choose one of the scales provided
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Scale 1''}'
+      - '{''id'': 2, ''label'': ''Scale 2''}'
+      - '{''id'': 3, ''label'': ''Scale 3''}'
+      - '{''id'': 4, ''label'': ''Scale 4''}'
+      - '{''id'': 5, ''label'': ''Scale 5''}'
+      required: false
+    - id: 5
+      name: mental_health_rating
+      label: Mental Health Rating
+      hint: Please rate your mental health status
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_comments
+      label: Comments
+      hint: Please provide comments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scale_1_frequency
+      label: Scale 1 Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Low''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''High''}'
+      - '{''id'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 8
+      name: scale_2_frequency
+      label: Scale 2 Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Low''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''High''}'
+      - '{''id'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 9
+      name: scale_3_frequency
+      label: Scale 3 Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Low''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''High''}'
+      - '{''id'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 10
+      name: scale_4_frequency
+      label: Scale 4 Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Low''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''High''}'
+      - '{''id'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 11
+      name: scale_5_frequency
+      label: Scale 5 Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Low''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''High''}'
+      - '{''id'': 5, ''label'': ''Very High''}'
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow up
+      hint: Please select the follow up date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_time
+      label: Follow up Time
+      hint: Please select the follow up time
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: mental_health_counseling_session
+      label: Mental Health Counseling Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: mental_health_status_comments
+      label: Mental Health Status Comments
+      hint: Please provide comments on mental health status
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_outcome_measure
+      label: Mental Health Outcome Measure
+      hint: Please provide outcome measure value
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: mental_health_outcome
+      label: Mental Health Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: mental_health_outcome_comments
+      label: Mental Health Outcome Comments
+      hint: Please provide outcome comments
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mental_health_follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: mental_health_follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: mental_health_status_change
+      label: Mental Health Status Change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: mental_health_status_comments
+      label: Mental Health Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mental_health_outcome_measures
+      label: Mental Health Outcome Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: mental_health_counseling_session
+      label: Mental Health Counseling Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: mental_health_status_rating
+      label: Mental Health Status Rating
+      hint: null
+      type: number
+      options: []
+      required: false

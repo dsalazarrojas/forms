@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Referral Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mental_health_issue
+      label: Mental Health Issue
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Substance Abuse
+      - Trauma
+      required: true
+    - id: 4
+      name: health_professional
+      label: Health Professional
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: client_age
+      label: Client Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: client_gender
+      label: Client Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 10
+      name: client_ethnicity
+      label: Client Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      required: false
+    - id: 11
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: mental_health_professional_notes
+      label: Mental Health Professional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_appointments
+      label: Follow Up Appointments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

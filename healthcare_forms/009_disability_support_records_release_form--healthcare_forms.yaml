@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability Support Records Release Form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: disability_type
+      label: Disability Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Disability 1''}'
+      - '{''label'': ''Disability 2''}'
+      - '{''label'': ''Disability 3''}'
+      required: false
+    - id: 3
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: date
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time of Release
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: records_type
+      label: Type of Records
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Records 1''}'
+      - '{''label'': ''Records 2''}'
+      required: false
+    - id: 7
+      name: recipient
+      label: Recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_signature
+      label: Confirm Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: confirm_recipient
+      label: Confirm Recipient
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 16
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: confirm_recipient_email
+      label: Confirm Recipient Email
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

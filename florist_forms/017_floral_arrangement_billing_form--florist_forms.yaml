@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floral Arrangement Billing Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_info
+      label: billing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_charges
+      label: service_charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: subtotal
+      label: subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 8
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tax_amount
+      label: tax_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_amount
+      label: total_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

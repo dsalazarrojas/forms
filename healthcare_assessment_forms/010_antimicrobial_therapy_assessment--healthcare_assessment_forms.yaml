@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antimicrobial Therapy Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_medical_record
+      label: Patient medical record number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_name
+      label: Clinical reviewer name
+      hint: Pharmacist or physician
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: admission_date
+      label: Date of admission or therapy start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: infection_site
+      label: Site of infection
+      hint: null
+      type: select_one
+      options:
+      - Bloodstream
+      - Respiratory
+      - Urinary tract
+      - Wound or surgical site
+      - Intra-abdominal
+      - Meningitis
+      - Bone or joint
+      - Other
+      required: true
+    - id: 7
+      name: culture_obtained
+      label: Was culture obtained before antibiotics started?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 8
+      name: culture_results_available
+      label: Culture and sensitivity results available?
+      hint: null
+      type: select_one
+      options:
+      - Yes, organism identified
+      - Yes, no organism grown
+      - Pending
+      - Not available
+      required: true
+    - id: 9
+      name: organism_identified
+      label: Organism identified
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: susceptibility_results
+      label: Susceptibility results for current agent
+      hint: null
+      type: select_one
+      options:
+      - Susceptible
+      - Intermediate
+      - Resistant
+      - Not tested
+      - Not applicable
+      required: false
+    - id: 11
+      name: current_antimicrobial
+      label: Current antimicrobial agent(s)
+      hint: Drug name and dose
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: therapy_duration
+      label: Days of current therapy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: indication_appropriate
+      label: Is the indication for therapy appropriate?
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly appropriate
+      - Probably appropriate
+      - Questionable
+      - Not appropriate
+      required: true
+    - id: 14
+      name: agent_appropriate
+      label: Is the antimicrobial agent appropriate for infection?
+      hint: Based on organism and site
+      type: select_one
+      options:
+      - Yes, optimal choice
+      - Yes, acceptable alternative
+      - Questionable
+      - Not appropriate
+      - Need more information
+      required: true
+    - id: 15
+      name: dosage_appropriate
+      label: Is dosage appropriate?
+      hint: Considering renal function
+      type: select_one
+      options:
+      - Yes, appropriate
+      - Needs adjustment
+      - Too low
+      - Too high
+      - Inadequate information
+      required: true
+    - id: 16
+      name: frequency_appropriate
+      label: Is dosing frequency appropriate?
+      hint: null
+      type: select_one
+      options:
+      - Yes, appropriate
+      - Needs adjustment
+      - Too frequent
+      - Not frequent enough
+      required: true
+    - id: 17
+      name: de_escalation_candidate
+      label: Is patient a candidate for de-escalation?
+      hint: Narrower spectrum or oral formulation
+      type: select_one
+      options:
+      - Yes, recommend de-escalation
+      - Maybe, clinical response pending
+      - No, appropriate as-is
+      - No, escalation may be needed
+      required: true
+    - id: 18
+      name: de_escalation_recommendation
+      label: De-escalation recommendation if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: drug_interactions
+      label: Are there significant drug interactions?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significant interaction
+      - Yes, minor interaction
+      - No known interactions
+      - Not assessed
+      required: true
+    - id: 20
+      name: patient_tolerating
+      label: Patient tolerating therapy well?
+      hint: null
+      type: select_one
+      options:
+      - Yes, no adverse effects
+      - Mostly well, minor issues
+      - Significant side effects
+      - Serious adverse event
+      required: true
+    - id: 21
+      name: clinical_response
+      label: Clinical response to therapy
+      hint: null
+      type: select_one
+      options:
+      - Excellent improvement
+      - Good improvement
+      - Partial response
+      - No improvement
+      - Worsening condition
+      required: true
+    - id: 22
+      name: planned_duration
+      label: Planned total duration of therapy
+      hint: Estimated number of days
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: stewardship_recommendations
+      label: Stewardship recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_recommended
+      label: Follow-up assessment recommended?
+      hint: null
+      type: select_one
+      options:
+      - Yes, repeat assessment in 2-3 days
+      - Yes, at completion of therapy
+      - No, current plan acceptable
+      - Urgent review needed
+      required: true

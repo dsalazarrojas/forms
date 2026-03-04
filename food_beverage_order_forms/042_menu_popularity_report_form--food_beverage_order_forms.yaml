@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Popularity Report Form
+    pages:
+    - id: 1
+      name: menu_popularity_report_form
+      label: Menu Popularity Report Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: month
+      label: month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 3
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: dish_name
+      label: dish_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_quantity
+      label: sales_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: sales_value
+      label: sales_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: average_price
+      label: average_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_revenue
+      label: total_revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: menu_items
+      label: menu_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: dish_popularity
+      label: dish_popularity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: staff_insights
+      label: staff_insights
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: centralized_data_collection
+      label: centralized_data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

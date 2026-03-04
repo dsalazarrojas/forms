@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Service Renewal Form
+    pages:
+    - id: 1
+      name: health_service_renewal_form_data
+      label: Health Service Renewal Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_renewal_period
+      label: Preferred Renewal Period
+      hint: Select a preferred renewal period
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: Select start date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: Select end date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: renewal_notes
+      label: Renewal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_dob
+      label: Date of Birth
+      hint: Select date of birth
+      type: date
+      options: []
+      required: false

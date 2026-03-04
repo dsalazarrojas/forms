@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Credit Payment Receipt
+    pages:
+    - id: 1
+      name: receipt_number
+      label: Receipt Number
+      hint: Auto-generated or manual entry
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: Healthcare provider or business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: provider_address
+      label: Provider Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: provider_phone
+      label: Provider Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: Cardholder name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: For electronic receipt
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: care_credit_account_last_four
+      label: CareCredit Account Last Four Digits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: transaction_id
+      label: Transaction ID
+      hint: Confirmation number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: service_description
+      label: Description of Services
+      hint: Brief description of services rendered
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: service_category
+      label: Service Category
+      hint: null
+      type: select_one
+      options:
+      - Medical Services
+      - Dental Services
+      - Vision Services
+      - Veterinary Services
+      - Cosmetic Procedures
+      - Hearing Services
+      - Other Healthcare Services
+      required: true
+    - id: 17
+      name: subtotal_amount
+      label: Subtotal Amount
+      hint: Before any discounts or adjustments
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: discount_amount
+      label: Discount Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount Paid
+      hint: Final amount charged
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_plan_selected
+      label: Payment Plan Selected
+      hint: null
+      type: select_one
+      options:
+      - No interest if paid in full (6 months)
+      - No interest if paid in full (12 months)
+      - No interest if paid in full (18 months)
+      - No interest if paid in full (24 months)
+      - Extended payment plan
+      - Paid in full at time of service
+      required: true
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Approved and Processed
+      - Pending
+      - Declined
+      - Partial Payment
+      required: true
+    - id: 23
+      name: amount_financed
+      label: Amount Financed
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: down_payment
+      label: Down Payment
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: monthly_payment
+      label: Estimated Monthly Payment
+      hint: If on payment plan
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: promotional_period_end
+      label: Promotional Period End Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: terms_acknowledged
+      label: Patient Acknowledges Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: receipt_delivery_method
+      label: Receipt Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Print
+      - Both
+      - Patient Portal
+      required: true
+    - id: 29
+      name: processed_by
+      label: Processed By
+      hint: Staff name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Optional
+      type: text
+      options: []
+      required: false

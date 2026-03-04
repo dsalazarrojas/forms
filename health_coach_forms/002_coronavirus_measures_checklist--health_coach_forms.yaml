@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_measures_checklist
+    pages:
+    - id: 1
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: recent_travel
+      label: recent_travel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: exposure
+      label: exposure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: symptoms_date
+      label: symptoms_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: temperature_taken_at
+      label: temperature_taken_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: symptoms_description
+      label: symptoms_description
+      hint: null
+      type: text
+      options: []
+      required: false

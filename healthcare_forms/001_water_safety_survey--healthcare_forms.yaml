@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Water Safety Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is your job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: watercraft_page
+      label: Watercraft experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lifeguard''}'
+      - '{''label'': ''Scuba diver''}'
+      - '{''label'': ''Boat operator''}'
+      - '{''label'': ''Teacher''}'
+      required: true
+    - id: 3
+      name: lifesaving_page
+      label: Lifesaving skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''CPR''}'
+      - '{''label'': ''First aid''}'
+      - '{''label'': ''Lifesaving''}'
+      required: true
+    - id: 4
+      name: waterconditions_page
+      label: Water conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waterhazard_page
+      label: Water hazards
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strong current''}'
+      - '{''label'': ''Steep drop''}'
+      - '{''label'': ''Underwater hazard''}'
+      required: true
+    - id: 6
+      name: rescue_page
+      label: Rescue techniques
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Floating''}'
+      - '{''label'': ''Swimming rescue''}'
+      - '{''label'': ''Boating rescue''}'
+      required: true
+    - id: 7
+      name: waterhealth_page
+      label: Waterborne illness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: surveycompletion_page
+      label: Survey completion
+      hint: null
+      type: date
+      options: []
+      required: false

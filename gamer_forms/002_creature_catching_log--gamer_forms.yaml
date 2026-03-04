@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creature Catching Log
+    pages:
+    - id: 1
+      name: creature_catching_log_form
+      label: creature catching log form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: species
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''species 1''}'
+      - '{''value'': ''species 2''}'
+      - '{''value'': ''species 3''}'
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: details
+      label: details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_url
+      label: photo url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: observation
+      label: observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: species_id
+      label: species id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: species_type
+      label: species type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''type 1''}'
+      - '{''value'': ''type 2''}'
+      - '{''value'': ''type 3''}'
+      required: false

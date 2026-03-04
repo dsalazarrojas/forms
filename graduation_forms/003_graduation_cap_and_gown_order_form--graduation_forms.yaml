@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Cap And Gown Order Form
+    pages:
+    - id: 1
+      name: graduation_cap_and_gown_order_form_page
+      label: graduation_cap_and_gown_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: size_selection_page
+      label: select_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Cap Size'': ''S''}'
+      - '{''Cap Size'': ''M''}'
+      - '{''Cap Size'': ''L''}'
+      required: false
+    - id: 3
+      name: accessory_selection_page
+      label: select_accessory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Cap Color'': ''Black''}'
+      - '{''Cap Color'': ''Navy''}'
+      - '{''Cap Color'': ''Red''}'
+      required: false
+    - id: 4
+      name: graduation_gown_page
+      label: graduation_gown_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_info_page
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_info_form
+      label: student_info_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit_page
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Optimization Program Contact Form
+    pages:
+    - id: 1
+      name: form_contact_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_program_interest
+      label: What financial program are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Retirement
+      - College Savings
+      - Investment
+      - Tax Planning
+      - Estate Planning
+      required: true
+    - id: 6
+      name: form_questions_or_comments
+      label: Questions or comments
+      hint: null
+      type: text
+      options: []
+      required: true

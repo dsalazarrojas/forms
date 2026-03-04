@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Development Onboarding Form
+    pages:
+    - id: 1
+      name: network_development_onboarding_project
+      label: Network Development Onboarding Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_team
+      label: Project Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Active''}'
+      - '{''option2'': ''Inactive''}'
+      - '{''option3'': ''Closed''}'
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''High''}'
+      - '{''option2'': ''Low''}'
+      - '{''option3'': ''Medium''}'
+      required: false

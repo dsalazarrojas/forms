@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Connect With Our Gaming Brand
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gamer_tag
+      label: Gamer Tag / Alias
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_platform
+      label: Your Primary Gaming Platform
+      hint: null
+      type: select_one
+      options:
+      - PC
+      - PlayStation
+      - Xbox
+      - Nintendo Switch
+      - Mobile (iOS/Android)
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We'll use this to reach out
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_connection_type
+      label: -- Why are you reaching out? --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - General Community Question
+      - Brand Partnership / Sponsorship
+      - Content Creator / Streamer Program
+      - Bug Report / Technical Feedback
+      - Media / Press Inquiry
+      required: true
+    - id: 7
+      name: social_links
+      label: Social Media / Streaming Links
+      hint: e.g. Twitch, YouTube, Twitter
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_interests
+      label: -- Your Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: game_genres
+      label: Preferred Game Genres
+      hint: Select your favorites
+      type: select_multiple
+      options:
+      - FPS (First Person Shooter)
+      - RPG (Role Playing Game)
+      - MOBA
+      - Strategy / RTS
+      - Simulation
+      - Indie
+      required: false
+    - id: 10
+      name: newsletter_subscription
+      label: Would you like to receive brand updates and early access news?
+      hint: null
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - Not at this time
+      required: true
+    - id: 11
+      name: message_body
+      label: Your Message to Us
+      hint: Tell us more about how we can connect
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_terms
+      label: -- Final Step --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: privacy_consent
+      label: I consent to the processing of my data for communication purposes
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 14
+      name: age_verification
+      label: I confirm that I am at least 13 years of age
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halal Investment Consultation Booking
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_interests
+      label: Client Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: financial_advisor
+      label: Financial Advisor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Advisor 1''}'
+      - '{''id'': 12, ''label'': ''Advisor 2''}'
+      - '{''id'': 13, ''label'': ''Advisor 3''}'
+      - '{''id'': 14, ''label'': ''Advisor 4''}'
+      - '{''id'': 15, ''label'': ''Advisor 5''}'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''label'': ''Email 1''}'
+      - '{''id'': 21, ''label'': ''Email 2''}'
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 23, ''label'': ''Phone 1''}'
+      - '{''id'': 24, ''label'': ''Phone 2''}'
+      required: false
+    - id: 16
+      name: terms
+      label: Terms of Service
+      hint: Please review our terms of service before proceeding.
+      type: note
+      options: []
+      required: false

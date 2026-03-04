@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: family_tree_development
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: birth_place
+      label: Birth Place
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relation_type
+      label: Relation Type
+      hint: null
+      type: select_one
+      options:
+      - Brother
+      - Sister
+      - Parent
+      - Child
+      required: true
+    - id: 6
+      name: family_member_name
+      label: Family Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: family_member_age
+      label: Family Member Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: family_member_gender
+      label: Family Member Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 9
+      name: family_member_marriage_status
+      label: Family Member Marriage Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      required: false
+    - id: 10
+      name: family_member_contact_preference
+      label: Family Member Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - None
+      required: false
+    - id: 11
+      name: family_member_notes
+      label: Family Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false

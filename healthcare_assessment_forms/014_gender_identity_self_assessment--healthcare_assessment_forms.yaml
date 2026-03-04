@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Identity Self Assessment
+    pages:
+    - id: 1
+      name: gender_identity_form
+      label: Gender Identity Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender_spectrum
+      label: Gender Spectrum
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non Binary
+      - Agender
+      - Androgenus
+      - Androgyne
+      - Bigender
+      - Cis
+      - Genderqueer
+      - Gender Variant
+      - Genderfluid
+      - Gender Non Binary
+      - Intersex
+      - Two-Spirit
+      - Trans Man
+      - Trans Woman
+      - Transgender
+      - Pangender
+      - Neutrois
+      - Gender Critical
+      - Third Gender
+      - Gender Neutral
+      - Genderless
+      - Cis Man
+      - Cis Woman
+      - Other
+      required: false
+    - id: 3
+      name: gender_label
+      label: Gender Label
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non Binary
+      - Other
+      required: false
+    - id: 4
+      name: gender_label_other
+      label: Other Gender Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sex_at_birth
+      label: Sex At Birth
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: sex_assigned_at_birth
+      label: Sex Assigned At Birth
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: sex_identity
+      label: Sex Identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 8
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: how_do_you_identify
+      label: How Do You Identify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: gender_feeling
+      label: Gender Feeling
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Neutral
+      required: false
+    - id: 13
+      name: gender_identity_important
+      label: Gender Identity Important
+      hint: null
+      type: select_one
+      options:
+      - Very
+      - Somewhat
+      - Not Very
+      required: false
+    - id: 14
+      name: gender_feeling_important
+      label: Gender Feeling Important
+      hint: null
+      type: select_one
+      options:
+      - Very
+      - Somewhat
+      - Not Very
+      required: false
+    - id: 15
+      name: how_do_you_feel_about_your_self
+      label: How Do You Feel About Yourself
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Neutral
+      required: false
+    - id: 16
+      name: how_do_you_feel_about_your_gender
+      label: How Do You Feel About Your Gender
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Angry
+      - Neutral
+      required: false
+    - id: 17
+      name: what_does_gender_mean_to_you
+      label: What Does Gender Mean To You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: do_you_feel_like_your_body_is_in_conformity_with_your_gender
+      label: Do You Feel Like Your Body Is In Conformity With Your Gender
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 19
+      name: do_you_feel_like_your_body_is_inconform_to_your_gender
+      label: Do You Feel Like Your Body Is Inconform To Your Gender
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 20
+      name: do_you_have_any_other_comments_about_your_gender_identity
+      label: Do You Have Any Other Comments About Your Gender Identity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: do_you_feel_safe_in_your_body
+      label: Do You Feel Safe In Your Body
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 22
+      name: do_you_feel_attractive_in_your_body
+      label: Do You Feel Attractive In Your Body
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 23
+      name: do_you_feel_confident_in_your_body
+      label: Do You Feel Confident In Your Body
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 24
+      name: do_you_feel_comfortable_in_your_body
+      label: Do You Feel Comfortable In Your Body
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 25
+      name: do_you_feel_attractive_to_others
+      label: Do You Feel Attractive To Others
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false

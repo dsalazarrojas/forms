@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Coaching Service Agreement
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: terms
+      label: terms
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: false
+    - id: 4
+      name: e_signature
+      label: e_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: terms_2
+      label: terms_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_details_2
+      label: client_details_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_details_3
+      label: client_details_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

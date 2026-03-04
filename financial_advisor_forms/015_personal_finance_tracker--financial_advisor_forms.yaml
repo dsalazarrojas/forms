@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_finance_tracker
+    pages:
+    - id: 1
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expenses
+      label: expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: savings
+      label: savings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_type
+      label: income_type
+      hint: null
+      type: select_one
+      options:
+      - income
+      - expenses
+      - savings
+      required: false
+    - id: 5
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - weekly
+      - bi_weekly
+      - monthly
+      required: false
+    - id: 6
+      name: expenses_type
+      label: expenses_type
+      hint: null
+      type: select_one
+      options:
+      - fixed
+      - variable
+      - unknown
+      required: false
+    - id: 7
+      name: income_date
+      label: income_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expenses_date
+      label: expenses_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: savings_type
+      label: savings_type
+      hint: null
+      type: select_one
+      options:
+      - savings
+      - investment
+      - unknown
+      required: false
+    - id: 10
+      name: savings_frequency
+      label: savings_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - quarterly
+      - yearly
+      required: false
+    - id: 11
+      name: income_goal
+      label: income_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: savings_goal
+      label: savings_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: expenses_goal
+      label: expenses_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: income_target
+      label: income_target
+      hint: null
+      type: select_one
+      options:
+      - low
+      - high
+      - medium
+      required: false
+    - id: 15
+      name: expenses_target
+      label: expenses_target
+      hint: null
+      type: select_one
+      options:
+      - low
+      - high
+      - medium
+      required: false
+    - id: 16
+      name: savings_target
+      label: savings_target
+      hint: null
+      type: select_one
+      options:
+      - low
+      - high
+      - medium
+      required: false
+    - id: 17
+      name: income_status
+      label: income_status
+      hint: null
+      type: select_one
+      options:
+      - on_track
+      - off_track
+      - unknown
+      required: false
+    - id: 18
+      name: expenses_status
+      label: expenses_status
+      hint: null
+      type: select_one
+      options:
+      - on_track
+      - off_track
+      - unknown
+      required: false
+    - id: 19
+      name: savings_status
+      label: savings_status
+      hint: null
+      type: select_one
+      options:
+      - on_track
+      - off_track
+      - unknown
+      required: false
+    - id: 20
+      name: income_comment
+      label: income_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: expenses_comment
+      label: expenses_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: savings_comment
+      label: savings_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - not_submitted
+      - pending_review
+      required: false

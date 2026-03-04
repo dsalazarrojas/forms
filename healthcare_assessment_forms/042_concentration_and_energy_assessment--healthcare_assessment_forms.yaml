@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concentration And Energy Assessment
+    pages:
+      - id: 1
+        name: section_assessment_intro
+        label: -- Assessment Intro --
+        hint: Evaluate concentration and energy levels for health screening
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: assessment_date
+        label: Assessment date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: sleep_quality
+        label: Sleep quality
+        hint: Self rated sleep in past week
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 5
+        name: daily_energy_levels
+        label: Daily energy levels
+        hint: Typical daily energy rating
+        type: select_one
+        options: [High, Moderate, Low]
+        required: true
+      - id: 6
+        name: concentration_ability
+        label: Concentration ability
+        hint: Ability to focus during tasks
+        type: select_one
+        options: [Strong, Adequate, Poor]
+        required: true
+      - id: 7
+        name: factors_affecting_energy
+        label: Factors affecting energy
+        hint: Medications, stress, diet, or other factors
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommendations
+        label: Recommendations
+        hint: Suggested interventions or referrals
+        type: text
+        options: []
+        required: false

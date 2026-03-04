@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Document Request Form
+    pages:
+    - id: 1
+      name: financial_document_request_form
+      label: Financial Document Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tax Return''}'
+      - '{''label'': ''Bank Statement''}'
+      - '{''label'': ''Identification Document''}'
+      required: true
+    - id: 3
+      name: document_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_address
+      label: Document Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file_uploaded
+      label: File Uploaded
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_type
+      label: File Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: financial_institution_id
+      label: Financial Institution ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: file_status
+      label: File Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Failed''}'
+      required: true
+    - id: 18
+      name: file_comments
+      label: File Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jim''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''John''}'
+      required: true
+    - id: 24
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

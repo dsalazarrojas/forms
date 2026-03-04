@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Campaign Approval Form
+    pages:
+    - id: 1
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_budget
+      label: campaign_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: campaign_goal
+      label: campaign_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: campaign_start_date
+      label: campaign_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: campaign_end_date
+      label: campaign_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Joe''}'
+      required: false
+    - id: 7
+      name: project_coordinator
+      label: project_coordinator
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Alice''}'
+      - '{''value'': ''Bob''}'
+      - '{''value'': ''Steve''}'
+      required: false
+    - id: 8
+      name: endorser
+      label: endorser
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mike''}'
+      - '{''value'': ''Sue''}'
+      - '{''value'': ''Jane''}'
+      required: false
+    - id: 9
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''art''}'
+      - '{''value'': ''music''}'
+      - '{''value'': ''tech''}'
+      required: false
+    - id: 10
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 11
+      name: funding_amount
+      label: funding_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: funding_target
+      label: funding_target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: project_owners
+      label: project_owners
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Joe''}'
+      required: false
+    - id: 14
+      name: backers
+      label: backers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mike''}'
+      - '{''value'': ''Bob''}'
+      - '{''value'': ''Steve''}'
+      required: false
+    - id: 15
+      name: campaign_status
+      label: campaign_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 16
+      name: campaign_type
+      label: campaign_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''art''}'
+      - '{''value'': ''music''}'
+      - '{''value'': ''tech''}'
+      required: false
+    - id: 17
+      name: project_lead
+      label: project_lead
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Joe''}'
+      required: false
+    - id: 18
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: campaign_description
+      label: campaign_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_address
+      label: project_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_phone_number
+      label: project_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_email
+      label: project_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: project_website
+      label: project_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: project_image
+      label: project_image
+      hint: null
+      type: text
+      options: []
+      required: false

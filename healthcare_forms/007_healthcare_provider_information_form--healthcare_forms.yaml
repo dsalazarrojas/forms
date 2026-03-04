@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Cardiology
+      - Dermatology
+      required: true
+    - id: 6
+      name: clinic
+      label: Clinic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hospital
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tele_health
+      label: Tele-Health
+      hint: null
+      type: select_multiple
+      options:
+      - In person
+      - Phone
+      - Video
+      required: false
+    - id: 9
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true

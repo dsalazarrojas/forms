@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Strength Recovery Habit Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_health_routine
+      label: nail_health_routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_use
+      label: product_use
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: recovery_habits
+      label: recovery_habits
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: nail_strength_routine
+      label: nail_strength_routine
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: duration
+      hint: null
+      type: time
+      options: []
+      required: false

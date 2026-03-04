@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Medical History Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_info_weight
+      label: Weight
+      hint: ประกิ
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: personal_info_allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: personal_info_illnesses
+      label: Illnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: personal_info_operations
+      label: Operations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: healthy_habits
+      label: Healthy Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: unhealthy_habits
+      label: Unhealthy Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

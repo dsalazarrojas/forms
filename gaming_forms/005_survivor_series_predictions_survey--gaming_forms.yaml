@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: survivor_series_predictions_survey
+    pages:
+    - id: 1
+      name: match_predictions
+      label: match_predictions
+      hint: null
+      type: select_multiple
+      options:
+      - Predictions 1
+      - Predictions 2
+      - Predictions 3
+      required: false
+    - id: 2
+      name: team_picks
+      label: team_picks
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      required: false
+    - id: 3
+      name: game_picks
+      label: game_picks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fan_picks
+      label: fan_picks
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: false
+    - id: 5
+      name: match_id
+      label: match_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: game_id
+      label: game_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_time
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

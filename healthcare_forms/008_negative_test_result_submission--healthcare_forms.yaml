@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Negative Test Result Submission
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_result
+      label: Test Result
+      hint: Upload your test result document here.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_tested
+      label: Date Tested
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_tested
+      label: Time Tested
+      hint: "12 hour format (ex. 12:00 PM)"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: What type of test was done?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''PCR''}'
+      - '{''id'': 2, ''name'': ''Rapid Antigen''}'
+      - '{''id'': 3, ''name'': ''Rapid Antibody''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_result_upload
+      label: Test Result Upload
+      hint: Upload your test result document here.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_result_upload_type
+      label: Test Result Upload Type
+      hint: What type of file did you upload?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Lab Results''}'
+      - '{''id'': 2, ''name'': ''Positive Test Results''}'
+      - '{''id'': 3, ''name'': ''Negative Test Results''}'
+      required: false
+    - id: 10
+      name: test_result_file
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

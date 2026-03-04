@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: application_id
+      label: Application ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rank
+      label: Rank
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Select Two
+      - Select Three
+      required: true
+    - id: 4
+      name: server
+      label: Server
+      hint: null
+      type: select_multiple
+      options:
+      - Server A
+      - Server B
+      - Server C
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

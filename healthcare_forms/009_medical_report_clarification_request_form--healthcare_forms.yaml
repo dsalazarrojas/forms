@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Report Clarification Request Form
+    pages:
+    - id: 1
+      name: request_medical_report_clarification
+      label: request_medical_report_clarification
+      hint: null
+      type: select_multiple
+      options:
+      - Requested date of report
+      - Requested medical professional
+      - Type of report or document
+      - Type of information requested
+      required: true
+    - id: 2
+      name: date_of_report
+      label: date_of_report
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_professional
+      label: medical_professional
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Specialist
+      - Surgeon
+      required: true
+    - id: 4
+      name: type_of_report
+      label: type_of_report
+      hint: null
+      type: select_multiple
+      options:
+      - Lab Results
+      - Medical Records
+      - Test Results
+      required: false
+    - id: 5
+      name: type_of_info
+      label: type_of_info_requested
+      hint: null
+      type: select_multiple
+      options:
+      - General Information
+      - Specific Question
+      - Test Results
+      required: false
+    - id: 6
+      name: medical_report_attachment
+      label: medical_report_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments_section
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_sign_off
+      label: medical_sign_off
+      hint: null
+      type: text
+      options: []
+      required: false

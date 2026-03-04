@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapist Recommendation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: Enter patient contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: treatment_goals
+      label: Treatment Goals
+      hint: Describe the patient's treatment goals
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: therapist_referral
+      label: Therapist Referral
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dr. Smith''}'
+      - '{''value'': ''Dr. Johnson''}'
+      - '{''value'': ''Dr. Doe''}'
+      required: false
+    - id: 7
+      name: treatment_plan
+      label: Treatment Plan
+      hint: Describe the treatment plan
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: therapist_notes
+      label: Therapist Notes
+      hint: Enter any additional therapist notes
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Medicare''}'
+      - '{''value'': ''Medicaid''}'
+      - '{''value'': ''Private Insurance''}'
+      required: false
+    - id: 17
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

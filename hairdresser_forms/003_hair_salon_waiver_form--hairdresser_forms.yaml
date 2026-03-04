@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Salon Waiver Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_information
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Coloring
+      - Style
+      - Chemical Treatment
+      - Hair Removal
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_details_service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_details_service_time
+      label: Service Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: liability_release
+      label: Liability Release
+      hint: This waiver will be used to release your salon from any liabilities related
+        to the provided hair service.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: liability_release_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: liability_release_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_confirmation
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: email_confirmation_label
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_confirmation
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirmation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Sent
+      - Failed
+      required: false
+    - id: 21
+      name: note_1
+      label: Note 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: note_3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: note_4
+      label: Note 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: note_5
+      label: Note 5
+      hint: null
+      type: note
+      options: []
+      required: false

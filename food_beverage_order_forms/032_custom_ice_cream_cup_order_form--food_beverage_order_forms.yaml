@@ -1,0 +1,55 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Custom Ice Cream Cup Order Form
+    pages:
+    - id: 1
+      name: ice_cream_flavors
+      label: Flavors
+      hint: Select one or more flavors
+      type: select_multiple
+      options:
+      - vanilla
+      - strawberry
+      - chocolate
+      - cookiesandcream
+      required: false
+    - id: 2
+      name: cup_size
+      label: Size
+      hint: None
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 3
+      name: toppings
+      label: Toppings
+      hint: None
+      type: select_multiple
+      options:
+      - chocolate chips
+      - whipped cream
+      - sprinkles
+      - nuts
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

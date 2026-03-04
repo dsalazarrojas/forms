@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Engagement Fund Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: donation_total
+      label: Donation Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: fund_use
+      label: Fund Use
+      hint: null
+      type: select_one
+      options:
+      - Mpox Prevention
+      - Mpox Education
+      - Public Health Response
+      required: true
+    - id: 5
+      name: donor_message
+      label: Donor Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: prophets_name
+      label: Prophet's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prophets_phone
+      label: Prophet's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: prophets_email
+      label: Prophet's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true

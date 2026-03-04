@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Delivery Time Selection
+    pages:
+    - id: 1
+      name: business_name
+      label: Business or Organization Name
+      hint: Name of the business ordering breakfast
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of the person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone number for order confirmation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: Email for order updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_of_people
+      label: Number of People to Feed
+      hint: How many people will be eating
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select any special diets needed
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut-free
+      - Kosher
+      - Halal
+      - No restrictions
+      required: false
+    - id: 8
+      name: breakfast_date
+      label: Breakfast Delivery Date
+      hint: Date when you need breakfast delivered
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: What time should breakfast arrive
+      type: select_one
+      options:
+      - 6 AM - 7 AM
+      - 7 AM - 8 AM
+      - 8 AM - 9 AM
+      - 9 AM - 10 AM
+      - 10 AM - 11 AM
+      - 11 AM - 12 PM
+      required: true
+    - id: 10
+      name: service_level
+      label: Service Level
+      hint: Type of breakfast service
+      type: select_one
+      options:
+      - Drop-off only
+      - Drop-off with setup
+      - Full catering service
+      - Buffet style
+      - Individual boxes
+      required: true
+    - id: 11
+      name: breakfast_package
+      label: Breakfast Package Selection
+      hint: Choose your breakfast package
+      type: select_one
+      options:
+      - Continental - Light
+      - Classic - Standard
+      - Deluxe - Premium
+      - Custom menu
+      - Build your own
+      required: true
+    - id: 12
+      name: beverages_included
+      label: Beverages Included
+      hint: Select beverages for the group
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Orange juice
+      - Other juices
+      - Water
+      - Milk
+      - Yogurt
+      required: false
+    - id: 13
+      name: special_menu_items
+      label: Special Menu Items to Include
+      hint: Any specific items you want
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: setup_location
+      label: Setup Location Details
+      hint: Where should breakfast be set up
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: serving_ware_preference
+      label: Serving Ware Preference
+      hint: How items should be served
+      type: select_one
+      options:
+      - Disposable serving ware
+      - Reusable serving ware
+      - Individual boxes
+      - Combination
+      required: false
+    - id: 16
+      name: budget_per_person
+      label: Estimated Budget Per Person
+      hint: Budget range in USD
+      type: select_one
+      options:
+      - Under 5
+      - 5 - 10
+      - 10 - 15
+      - 15 - 20
+      - 20+
+      required: false
+    - id: 17
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recurring_order
+      label: Is this a recurring order
+      hint: Do you need this regularly
+      type: select_one
+      options:
+      - One-time order
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Other schedule
+      required: false

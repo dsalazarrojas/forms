@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coarc Employer Survey 2017
+    pages:
+    - id: 1
+      name: section_employer_info
+      label: -- Employer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employer_name
+      label: Employer Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your name - immediate supervisor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_title
+      label: Supervisor Title
+      hint: Your position in organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_graduate_info
+      label: -- Graduate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: graduate_name
+      label: Graduate Name
+      hint: Name of the graduate employee
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: graduation_year
+      label: Graduation Year
+      hint: Year graduate completed program
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: employment_duration
+      label: Employment Duration with this Graduate
+      hint: How long have they worked for you
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-3 years
+      - More than 3 years
+      required: true
+    - id: 11
+      name: section_competency
+      label: -- Clinical Competency Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: clinical_skills
+      label: Clinical skills competency
+      hint: Rate from 1 - poor to 5 - excellent
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: equipment_knowledge
+      label: Equipment and technology knowledge
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: safety_practices
+      label: Safety practices and protocols adherence
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: patient_care
+      label: Patient care and communication
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 16
+      name: section_professional
+      label: -- Professional Qualities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: problem_solving
+      label: Problem-solving ability
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: teamwork
+      label: Teamwork and collaboration
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 19
+      name: responsibility
+      label: Responsibility and dependability
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 20
+      name: professionalism
+      label: Professional demeanor and ethics
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below Average
+      - 3 - Average
+      - 4 - Above Average
+      - 5 - Excellent
+      required: true
+    - id: 21
+      name: section_program_feedback
+      label: -- Program Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: program_preparedness
+      label: Graduate was prepared for this position
+      hint: Rate from 1 - poor to 5 - excellent
+      type: select_one
+      options:
+      - 1 - Poorly prepared
+      - 2 - Somewhat prepared
+      - 3 - Adequately prepared
+      - 4 - Well prepared
+      - 5 - Excellently prepared
+      required: true
+    - id: 23
+      name: program_strengths
+      label: Program strengths
+      hint: What did the program do well
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: program_improvements
+      label: Areas for program improvement
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback for the program
+      type: text
+      options: []
+      required: false

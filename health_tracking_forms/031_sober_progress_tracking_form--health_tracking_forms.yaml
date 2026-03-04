@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: sober_progress_tracking_form
+    pages:
+    - id: 1
+      name: sobriety_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: days_sob
+      label: days_sob
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: mood_today
+      label: mood_today
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Stressed
+      - Anxious
+      - Calm
+      - Relaxed
+      required: true
+    - id: 4
+      name: challenges_today
+      label: challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: progress_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Emotional
+      - Relationship
+      - Spiritual
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sobriety_goals
+      label: sobriety_goals
+      hint: null
+      type: number
+      options: []
+      required: false

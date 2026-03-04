@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smoke Alarm Authorization Form
+    pages:
+    - id: 1
+      name: owner_contact_information
+      label: Owner Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: smoke_alarm_details
+      label: Smoke Alarm Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenant_contact_information
+      label: Tenant Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: smoke_alarm_certificate
+      label: Smoke Alarm Certificate
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_department_verification
+      label: Fire Department Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_info
+      label: Building Information
+      hint: Please provide the address of the building where the smoke alarm system
+        will be installed.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: smoke_alarm_type
+      label: Smoke Alarm Type
+      hint: null
+      type: select_one
+      options:
+      - 10A
+      - 10B
+      - 10C
+      - 11A
+      - 11B
+      - 11C
+      - 12A
+      - 12B
+      - 12C
+      required: false
+    - id: 9
+      name: date_installed
+      label: Date Installed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_installed
+      label: Time Installed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: Please include your email address so we can get in touch with you.
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: Please include your phone number so we can get in touch with you.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

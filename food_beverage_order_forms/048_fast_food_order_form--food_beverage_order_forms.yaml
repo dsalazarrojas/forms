@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fast Food Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_type
+      label: Order type
+      hint: null
+      type: select_one
+      options:
+      - Burgers
+      - Pizza
+      - Salads
+      - Fries
+      required: false
+    - id: 4
+      name: quantity_burgers
+      label: Quantity of burgers
+      hint: How many burgers do you want?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity_pizza
+      label: Quantity of pizza
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: quantity_salads
+      label: Quantity of salads
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Cashier
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: first_name_2
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

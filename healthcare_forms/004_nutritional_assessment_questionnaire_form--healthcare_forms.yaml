@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutritional Assessment Questionnaire Form
+    pages:
+    - id: 1
+      name: blood_sugar
+      label: Blood Sugar Levels
+      hint: null
+      type: select_one
+      options:
+      - 1 - Normal
+      - 2 - High
+      - 3 - Low
+      required: false
+    - id: 2
+      name: fatty_acid
+      label: Fatty Acid Levels
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Normal
+      - 2 - High
+      - 3 - Low
+      required: false
+    - id: 3
+      name: inflammation
+      label: Inflammation Levels
+      hint: null
+      type: select_one
+      options:
+      - 1 - Normal
+      - 2 - High
+      - 3 - Low
+      required: false
+    - id: 4
+      name: toxicity
+      label: Toxicity
+      hint: null
+      type: select_one
+      options:
+      - 1 - Normal
+      - 2 - High
+      - 3 - Low
+      required: false
+    - id: 5
+      name: eating_habits
+      label: Eating Habits
+      hint: null
+      type: select_one
+      options:
+      - 1 - 1-2 meals per day
+      - 2 - 3-5 meals per day
+      - 3 - Less than 1 meal per day
+      required: false
+    - id: 6
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: body_mass_index
+      label: Body Mass Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cholesterol
+      label: Cholesterol
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: blood_glucose
+      label: Blood Glucose
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screening Checklist For Visitors And Employees
+    pages:
+    - id: 1
+      name: visitor_info
+      label: Visitor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_declaration
+      label: Health Declaration
+      hint: Please select all of the following that apply
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore Throat
+      - Runny Nose
+      - Stomach problems
+      - Other
+      required: false
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: screening_questions
+      label: Screening Questions
+      hint: Select all of the following that apply
+      type: select_multiple
+      options:
+      - Have you traveled internationally in the past 14 days?
+      - Have you had close contact with an individual confirmed to have COVID-19 in
+        the last 14 days?
+      - Have you been in a crowded area where social distancing is not possible?
+      - Have you experienced symptoms of respiratory illness, such as cough or shortness
+        of breath?
+      required: false
+    - id: 7
+      name: screening_answers
+      label: Screening Answers
+      hint: Please answer yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: visitor_signoff
+      label: Visitor Signoff
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_signoff
+      label: Employee Signoff
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

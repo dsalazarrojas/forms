@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Recognition Wall Inclusion Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Donor Recognition Wall Inclusion Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description_help
+      label: Description Help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donoressure_include
+      label: Display Donors
+      hint: null
+      type: select_multiple
+      options:
+      - Donors will have a wall of recognition on the main website
+      - Donors will have a listing in the donor newsletter
+      - Donors will have a special thank you letter
+      - Donors will receive a social media shoutout
+      - Donors will receive a call or email from our team to thank them
+      - Donors will be acknowledged in our annual report
+      - Donors will be recognized in an event program
+      - Donors will be acknowledged in a press release
+      required: false
+    - id: 6
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

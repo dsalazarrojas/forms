@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Equipment Checklist
+    pages:
+    - id: 1
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: null
+      type: select_one
+      options:
+      - Fire Extinguisher
+      - Standpipe
+      - Wet Chemical
+      required: true
+    - id: 4
+      name: sprinkler_systems
+      label: Sprinkler Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: exit_signs
+      label: Exit Signs
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Green
+      - Yellow
+      required: true
+    - id: 6
+      name: fire_alarm_systems
+      label: Fire Alarm Systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_extinguishers_hydrants
+      label: Fire Extinguishers Hydrants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: emergency_power_generators
+      label: Emergency Power Generators
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_safety_equipment_2
+      label: Fire Safety Equipment 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: health-care-outreach-material-delivery-form
+    pages:
+    - id: 1
+      name: user_info
+      label: user-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_delivery_method
+      label: material-delivery-method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Postal Mail''}'
+      required: false
+    - id: 3
+      name: email_address
+      label: email-address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_delivery
+      label: date-of-delivery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_delivery
+      label: time-of-delivery
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: material_name
+      label: material-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: material_description
+      label: material-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: material_file
+      label: material-file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: material_url
+      label: material-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: patient-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_age
+      label: patient-age
+      hint: null
+      type: number
+      options: []
+      required: false

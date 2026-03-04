@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Staff Competency Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_unit
+      label: Healthcare Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clinic''}'
+      - '{''label'': ''Hospital''}'
+      required: true
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: competency_assessed
+      label: Competency Assessed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Leadership''}'
+      - '{''label'': ''Problem Solving''}'
+      required: true
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_by
+      label: Evaluation By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Form''}'
+      - '{''label'': ''Survey''}'
+      - '{''label'': ''Quiz''}'
+      required: true
+    - id: 10
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: ratings_1_to_5
+      label: Ratings 1 to 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: ratings_1_to_5_2
+      label: Ratings 1 to 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: ratings_1_to_5_3
+      label: Ratings 1 to 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: ratings_6_to_10
+      label: Ratings 6 to 10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: ratings_6_to_10_2
+      label: Ratings 6 to 10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: ratings_6_to_10_3
+      label: Ratings 6 to 10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: competency_assessed_2
+      label: Competency Assessed 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Communication''}'
+      - '{''label'': ''Leadership''}'
+      - '{''label'': ''Problem Solving''}'
+      required: true
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: comments_2
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_2
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_date_2
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time_2
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

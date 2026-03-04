@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antimicrobial Stewardship Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_date
+      label: Monitoring date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Healthcare facility name
+      hint: Hospital or clinic
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: monitoring_personnel
+      label: Person conducting monitoring
+      hint: Name of stewardship team member
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_count_monitored
+      label: Number of patient records reviewed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: inappropriate_use_detected
+      label: Inappropriate antimicrobial use detected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: inappropriate_prescribing_types
+      label: Types of inappropriate prescribing detected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Broad spectrum without indication
+      - Unnecessary combination therapy
+      - Wrong drug for organism
+      - Duration too long
+      - Dosage incorrect
+      - Drug interaction
+      - None detected
+      required: true
+    - id: 8
+      name: culture_results_compliance
+      label: Were cultures obtained before prescribing?
+      hint: Percent of cases with proper cultures
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: de_escalation_opportunities
+      label: De-escalation opportunities identified
+      hint: Cases where narrower spectrum would be appropriate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: escalation_cases
+      label: Cases requiring escalation to broader spectrum
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: resistant_organisms_detected
+      label: Resistant organisms detected during period
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - MRSA
+      - VRE
+      - ESBL
+      - Pseudomonas
+      - C difficile
+      - Acinetobacter
+      - None detected
+      required: false
+    - id: 12
+      name: clinician_acceptance_rate
+      label: Percent of clinicians accepting stewardship recommendations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: prescriber_education_conducted
+      label: Prescriber education sessions conducted
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple sessions
+      - Yes, at least one session
+      - false
+      required: true
+    - id: 14
+      name: education_topics
+      label: Topics covered in education
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Culture and sensitivity testing
+      - De-escalation strategies
+      - Duration guidelines
+      - Resistance patterns
+      - Cost management
+      - Other
+      required: false
+    - id: 15
+      name: protocol_compliance
+      label: Overall compliance with institutional protocols
+      hint: Estimated percentage
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: antibiotic_expenditure
+      label: Estimated antimicrobial expenditure this period
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: expenditure_trend
+      label: Trend in antimicrobial expenditure
+      hint: Compared to previous period
+      type: select_one
+      options:
+      - Increased significantly
+      - Increased slightly
+      - No change
+      - Decreased slightly
+      - Decreased significantly
+      required: true
+    - id: 18
+      name: adverse_events
+      label: Adverse events related to antimicrobial use
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: treatment_failures
+      label: Clinical failures due to inappropriate therapy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: recommendations_next_period
+      label: Recommendations for next monitoring period
+      hint: null
+      type: text
+      options: []
+      required: false

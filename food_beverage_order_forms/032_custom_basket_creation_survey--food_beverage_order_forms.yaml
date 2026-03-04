@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Basket Creation Survey
+    pages:
+    - id: 1
+      name: custom_basket_creation_survey_1
+      label: What would you like to know about your gift recipient?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_recipient_details
+      label: Gift recipient details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: basket_details
+      label: Basket details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gift_item_details
+      label: Gift item details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: gift_card_details
+      label: Gift card details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gift_card_message
+      label: Gift card message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_info
+      label: Shipping information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: Shipping method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stop Payment Form
+    pages:
+    - id: 1
+      name: stop_payment_form
+      label: Stop Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: The account number to be stopped.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_stopping_payment
+      label: Reason for Stopping Payment
+      hint: A brief description for the reason of payment stop.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: Date the payment will be stopped.
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: The amount of the payment.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: Type of the account to be stopped.
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit Card
+      required: false
+    - id: 7
+      name: account_type_2
+      label: Account Type
+      hint: Type of the account to be stopped.
+      type: select_multiple
+      options:
+      - Checking
+      - Savings
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: Contact Information for the client.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Email of the client.
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Phone number of the client.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_payment_stop
+      label: Confirm Payment Stop
+      hint: Confirm the payment stop.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: confirm_payment_stop_2
+      label: Confirm Payment Stop
+      hint: Confirm the payment stop.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

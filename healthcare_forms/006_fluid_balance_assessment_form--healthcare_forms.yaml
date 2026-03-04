@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fluid Balance Assessment Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fluid_balance_assessment_form_patient_weight
+      label: Fluid Balance Assessment Form - Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fluid_balance_assessment_form_intake
+      label: Fluid Balance Assessment Form - Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fluid_balance_assessment_form_output
+      label: Fluid Balance Assessment Form - Output
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vital_signs_fluid_balance_assessment_form
+      label: Vital Signs - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: false
+    - id: 7
+      name: vital_signs_fluid_balance_assessment_form_bp
+      label: Vital Signs - Blood Pressure - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vital_signs_fluid_balance_assessment_form_temp
+      label: Vital Signs - Temperature - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - <20
+      - <25
+      - <30
+      required: false
+    - id: 9
+      name: vital_signs_fluid_balance_assessment_form_pupil_size
+      label: Vital Signs - Pupil Size - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vital_signs_fluid_balance_assessment_form_heart_rate
+      label: Vital Signs - Heart Rate - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: vital_signs_fluid_balance_assessment_form_respiratory_rate
+      label: Vital Signs - Respiratory Rate - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: medical_history_fluid_balance_assessment_form
+      label: Medical History - Fluid Balance Assessment Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medications_fluid_balance_assessment_form
+      label: Medications - Fluid Balance Assessment Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: allergies_fluid_balance_assessment_form
+      label: Allergies - Fluid Balance Assessment Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: fluid_balance_assessment_form_notes
+      label: Fluid Balance Assessment Form - Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fluid_balance_assessment_form_comments
+      label: Fluid Balance Assessment Form - Comments
+      hint: null
+      type: text
+      options: []
+      required: false

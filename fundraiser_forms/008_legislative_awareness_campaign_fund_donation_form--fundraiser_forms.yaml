@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legislative Awareness Campaign Fund Donation Form
+    pages:
+    - id: 1
+      name: campaign_id
+      label: Campaign ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: donor_name
+      hint: Donor name is required
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      - Check
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donor_organization
+      label: donor_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: credit_card_num
+      label: credit_card_num
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cvv
+      label: cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exp_date
+      label: exp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: exp_month
+      label: exp_month
+      hint: null
+      type: select_one
+      options:
+      - Jan
+      - Feb
+      - Mar
+      - Apr
+      - May
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Oct
+      - Nov
+      - Dec
+      required: false

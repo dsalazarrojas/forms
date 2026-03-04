@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Order Form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card'', ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''PayPal'', ''label'': ''PayPal''}'
+      - '{''id'': 3, ''name'': ''Bank Transfers'', ''label'': ''Bank Transfers''}'
+      - '{''id'': 4, ''name'': ''Online Order'', ''label'': ''Online Order''}'
+      required: false
+    - id: 10
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false

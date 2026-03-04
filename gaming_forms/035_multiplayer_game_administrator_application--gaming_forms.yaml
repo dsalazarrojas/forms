@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiplayer Game Administrator Application
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: moderator_name
+      label: Moderator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''admin'', ''label'': ''Admin''}'
+      - '{''id'': 2, ''name'': ''moderator'', ''label'': ''Moderator''}'
+      - '{''id'': 3, ''name'': ''staff'', ''label'': ''Staff''}'
+      required: false
+    - id: 6
+      name: application_link
+      label: Application Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
+      - '{''id'': 2, ''name'': ''reset'', ''label'': ''Reset''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

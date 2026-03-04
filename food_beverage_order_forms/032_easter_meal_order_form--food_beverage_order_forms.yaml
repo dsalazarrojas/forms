@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_meal_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: easter_meal_choice
+      label: Choose an Easter Meal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''Meal A''}'
+      - '{''id'': 12, ''name'': ''Meal B''}'
+      - '{''id'': 13, ''name'': ''Meal C''}'
+      required: true
+    - id: 3
+      name: date_night
+      label: Date Night
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_night
+      label: Time Night
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: easter_theme
+      label: Easter Theme
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''Spring''}'
+      - '{''id'': 22, ''name'': ''Easter''}'
+      - '{''id'': 23, ''name'': ''Summer''}'
+      required: true
+    - id: 7
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_comments_other
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_notes
+      label: Delivery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_comments
+      label: Delivery Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''name'': ''In Progress prophets''}'
+      - '{''id'': 32, ''name'': ''In Progress wizards''}'
+      - '{''id'': 33, ''name'': ''In Progress heroes''}'
+      required: true
+    - id: 20
+      name: delivery_time_urgent
+      label: Urgent Delivery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 34, ''name'': 10}'
+      - '{''id'': 35, ''name'': 20}'
+      - '{''id'': 36, ''name'': 30}'
+      required: false
+    - id: 21
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false

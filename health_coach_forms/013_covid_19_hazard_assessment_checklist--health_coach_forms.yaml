@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Hazard Assessment Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazard_identification
+      label: Hazard Identification
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: prevention
+      label: Prevention
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature2
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature3
+      label: Supervisor 2 Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hazard
+      label: Hazard Identified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: risk
+      label: Risk Level Identified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: action
+      label: Corrective Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prevention_method
+      label: Method of Prevention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prevention_effectiveness
+      label: Prevention Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_effectiveness
+      label: Training Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false

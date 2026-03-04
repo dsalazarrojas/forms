@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Records Release Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True, ''value'': True}'
+      - '{''id'': 2, ''text'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Dr. Smith''}'
+      - '{''id'': 2, ''text'': ''Dr. Jones''}'
+      - '{''id'': 3, ''text'': ''Dr. Doe''}'
+      required: false
+    - id: 9
+      name: authorized_parties
+      label: Authorized Parties
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Mother''}'
+      - '{''id'': 2, ''text'': ''Father''}'
+      - '{''id'': 3, ''text'': ''Spouse''}'
+      required: false
+    - id: 10
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_signature
+      label: Time of Signature
+      hint: null
+      type: time
+      options: []
+      required: false

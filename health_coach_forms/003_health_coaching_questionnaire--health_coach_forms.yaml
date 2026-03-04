@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Coaching Questionnaire
+    pages:
+    - id: 1
+      name: health_concerns
+      label: General Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_coaching_goals
+      label: Health Coaching Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions (Check all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - hypertension
+      - diabetes
+      - heart_disease
+      - other
+      required: false
+    - id: 4
+      name: sleep_patters
+      label: Sleep Patterns
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise_frequently
+      label: Exercise Frequently
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 6
+      name: healthy_diet
+      label: Healthy Diet
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 7
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - current_smoker
+      - former_smoker
+      - non_smoker
+      required: false
+    - id: 8
+      name: stress_management
+      label: Stress Management
+      hint: null
+      type: select_multiple
+      options:
+      - medication
+      - mindfulness
+      - other
+      required: false
+    - id: 9
+      name: mental_awareness
+      label: Mental Health Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: physical_awareness
+      label: Physical Health Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: goal_setting
+      label: Goal Setting
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 12
+      name: health_monitoring
+      label: Health Monitoring
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 13
+      name: health_finance
+      label: Health Finances
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 15
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false

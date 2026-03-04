@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Storage Condition Review Request Form
+    pages:
+    - id: 1
+      name: material_storage_condition_request
+      label: Material Storage Condition Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: condition_request_date
+      label: Condition Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 7
+      name: review_request_comments
+      label: Review Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

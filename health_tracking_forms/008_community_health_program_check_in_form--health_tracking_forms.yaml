@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Program Check In Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name as on record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For patient identification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile or landline number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_weight_kg
+      label: Current weight in kilograms
+      hint: Enter numeric value
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: current_blood_pressure
+      label: Current blood pressure reading
+      hint: Enter systolic over diastolic if known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_concern
+      label: Primary health concern today
+      hint: Brief description of reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: symptoms_present
+      label: Symptoms present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Other
+      required: false
+    - id: 9
+      name: medication_list
+      label: Current medications
+      hint: Name and dosage if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_care
+      label: Consent to receive services
+      hint: Agreement to receive program services
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

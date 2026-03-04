@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Tracker Form
+    pages:
+    - id: 1
+      name: sleep_tracker_form
+      label: sleep_tracker_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sleep_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: sleep_end_date
+      label: end_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sleep_end_time
+      label: end_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sleep_duration
+      label: sleep_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sleep_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sleep_frequency
+      label: sleep_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: sleep_frequency_hint
+      label: frequency_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sleep_start_location
+      label: start_location
+      hint: null
+      type: select_multiple
+      options:
+      - Bed
+      - Couch
+      - Chair
+      - Car
+      - Other
+      required: false
+    - id: 12
+      name: sleep_start_location_hint
+      label: location_hint
+      hint: Please specify the location where you started sleeping.
+      type: text
+      options: []
+      required: false

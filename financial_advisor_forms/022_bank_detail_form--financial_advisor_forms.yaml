@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Detail Form - Transaction Checklist
+    pages:
+    - id: 1
+      name: advisor_info_header
+      label: -- Advisor and Batch Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisor_name
+      label: Financial Advisor / Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: transaction_date
+      label: Date of Transaction
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: batch_id
+      label: Batch or Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_details_header
+      label: -- Customer Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_account_name
+      label: Customer Account Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_number
+      label: Customer Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: id_verified
+      label: Identity Verified
+      hint: Check if government ID was presented and verified
+      type: select_one
+      options:
+      - Yes - ID Verified
+      - No - Existing Customer (Known)
+      - No - Third Party Verification
+      required: true
+    - id: 10
+      name: exchange_details_header
+      label: -- Cash and Check Exchange Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_cash_deposit
+      label: Total Cash Amount
+      hint: Sum of all physical currency
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: check_count
+      label: Number of Checks
+      hint: Total count of physical checks being processed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_check_amount
+      label: Total Check Value
+      hint: Sum of all check amounts
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: transaction_type
+      label: Primary Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Deposit
+      - Withdrawal Request
+      - Check Exchange / Cashing
+      - Account Transfer
+      - Wire Transfer Setup
+      required: true
+    - id: 15
+      name: large_transaction_header
+      label: -- Compliance and Anti-Money Laundering (AML) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: over_10k_flag
+      label: Is this transaction over $10,000?
+      hint: CTR (Currency Transaction Report) required if yes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: source_of_funds
+      label: Declared Source of Funds
+      hint: Required for large or unusual transactions
+      type: select_one
+      options:
+      - Employment Income
+      - Sale of Asset
+      - Gift / Inheritance
+      - Business Revenue
+      - Other
+      required: true
+    - id: 18
+      name: internal_notes
+      label: Internal Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_approval_needed
+      label: Does this require supervisor override?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - Limits exceeded
+      - Yes - Out-of-state check
+      required: true

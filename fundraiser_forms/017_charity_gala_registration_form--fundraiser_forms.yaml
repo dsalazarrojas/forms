@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Gala Registration Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guest_count
+      label: Number of Guests
+      hint: How many tickets needed
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_names
+      label: Names of Guests
+      hint: List all attendees
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Special meal needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_gala_details
+      label: -- Gala Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: gala_name
+      label: Which Gala Are You Attending
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: gala_date
+      label: Gala Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: ticket_type
+      label: Ticket Type
+      hint: Individual or couple tickets
+      type: select_one
+      options:
+      - Individual
+      - Couple
+      - Group of 4
+      - Table of 8
+      - VIP
+      required: true
+    - id: 15
+      name: ticket_quantity
+      label: Number of Tickets
+      hint: How many tickets
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_preferences
+      label: -- Seating and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: seating_preference
+      label: Seating Preference
+      hint: Any table preferences
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Wheelchair access, hearing assistance, etc
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: price_per_ticket
+      label: Price Per Ticket
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_amount
+      label: Total Amount Due
+      hint: Calculated total
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_donation
+      label: Additional Donation Amount
+      hint: Want to give more
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

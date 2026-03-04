@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Cardiac Life Support (ACLS) Survey
+    pages:
+    - id: 1
+      name: healthcare_professional_info_section
+      label: -- Healthcare Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: professional_name
+      label: Professional Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_license_number
+      label: Professional License Number
+      hint: Your medical license or certification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_role
+      label: Job Role
+      hint: Your current position in healthcare
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Paramedic
+      - EMT
+      - Resident
+      - Medical Student
+      - Other
+      required: true
+    - id: 5
+      name: years_practice
+      label: Years in Practice
+      hint: How many years have you been practicing in healthcare
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: acls_certification_section
+      label: -- ACLS Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: acls_certified
+      label: ACLS Certified
+      hint: Are you currently certified in ACLS
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Certification expired
+      - Never certified
+      required: true
+    - id: 8
+      name: last_certification_date
+      label: Last Certification Date
+      hint: When was your last ACLS certification
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: certification_expiry_date
+      label: Certification Expiry Date
+      hint: When does your ACLS certification expire
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: acls_knowledge_assessment_section
+      label: -- ACLS Knowledge Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cardiac_arrest_protocol_knowledge
+      label: Cardiac Arrest Protocol Knowledge
+      hint: How confident are you in managing cardiac arrest protocols
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      - Not applicable
+      required: true
+    - id: 12
+      name: medication_administration_knowledge
+      label: Medication Administration Knowledge
+      hint: How familiar are you with ACLS medications and dosages
+      type: select_one
+      options:
+      - Very familiar
+      - Familiar
+      - Somewhat familiar
+      - Not familiar
+      - Not applicable
+      required: true
+    - id: 13
+      name: rhythm_recognition_ability
+      label: Rhythm Recognition Ability
+      hint: How proficient are you at recognizing cardiac rhythms
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Competent
+      - Developing
+      - Novice
+      required: true
+    - id: 14
+      name: airway_management_skills
+      label: Airway Management Skills
+      hint: How skilled are you in advanced airway management
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Competent
+      - Developing
+      - Novice
+      required: true
+    - id: 15
+      name: clinical_scenario_section
+      label: -- Clinical Scenario Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: cardiac_emergency_response_confidence
+      label: Cardiac Emergency Response Confidence
+      hint: How confident are you in responding to cardiac emergencies
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not confident
+      - Avoid these situations
+      required: true
+    - id: 17
+      name: team_leadership_ability
+      label: Team Leadership Ability
+      hint: How comfortable are you leading a resuscitation team
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Somewhat comfortable
+      - Uncomfortable
+      - Avoid leadership roles
+      required: true
+    - id: 18
+      name: continuing_education_section
+      label: -- Continuing Education Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: training_update_frequency
+      label: Training Update Frequency
+      hint: How often do you participate in ACLS training updates
+      type: select_one
+      options:
+      - Annually
+      - Every 2 years
+      - Every 3 years
+      - Irregularly
+      - Never
+      required: true
+    - id: 20
+      name: training_improvement_suggestions
+      label: Training Improvement Suggestions
+      hint: What would improve ACLS training effectiveness
+      type: text
+      options: []
+      required: false

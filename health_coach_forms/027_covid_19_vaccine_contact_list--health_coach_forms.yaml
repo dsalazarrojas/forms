@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Contact List
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For vaccine availability notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65-74
+      - 75+
+      required: false
+    - id: 14
+      name: occupation
+      label: Occupation or Profession
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: eligibility_section
+      label: -- Eligibility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: healthcare_worker
+      label: Are you a healthcare worker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: essential_worker
+      label: Are you an essential worker
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: essential_worker_type
+      label: If yes, type of essential worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: high_risk_condition
+      label: Do you have high-risk health conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: condition_description
+      label: If yes, describe conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: live_with_vulnerable
+      label: Live with vulnerable or high-risk individuals
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: vaccination_section
+      label: -- Vaccination Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      required: false
+    - id: 24
+      name: preferred_schedule
+      label: Preferred Appointment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekday morning
+      - Weekday afternoon
+      - Weekend morning
+      - Weekend afternoon
+      - Flexible
+      required: false
+    - id: 25
+      name: preferred_location
+      label: Preferred Location Type
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Pharmacy
+      - Mobile unit
+      - Hospital
+      - No preference
+      required: false
+    - id: 26
+      name: transportation_need
+      label: Need transportation assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: accessibility_needs
+      label: Accessibility accommodations needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: language_preference
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Vietnamese
+      - Somali
+      - Other
+      required: false
+    - id: 29
+      name: consent_section
+      label: -- Notification Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: contact_consent
+      label: I consent to be contacted about vaccine availability
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

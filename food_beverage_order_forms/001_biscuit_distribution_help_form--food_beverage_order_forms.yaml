@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biscuit Distribution Help Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: Provide contact information for delivery
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Full name
+      hint: First and last name of recipient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email address
+      hint: For delivery updates
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: delivery_address
+      label: Delivery address
+      hint: Full street address including unit or apartment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: household_size
+      label: Household size
+      hint: Number of people in household for portioning
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: biscuit_preferences
+      label: Biscuit preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plain
+      - Chocolate
+      - Oat and Honey
+      - Gluten Free
+      - Vegan
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: Any allergies or restrictions to note
+      type: select_multiple
+      options:
+      - None
+      - Nuts
+      - Dairy
+      - Gluten
+      - Soy
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Preferred delivery date
+      hint: Select a date for delivery
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: delivery_window
+      label: Preferred delivery time window
+      hint: Morning, afternoon or evening
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional notes
+      hint: Any special instructions for delivery
+      type: text
+      options: []
+      required: false

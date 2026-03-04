@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Level Design Checklist
+    pages:
+    - id: 1
+      name: level_design
+      label: Level Design
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: gameplay_evaluation
+      label: Gameplay Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_visuals
+      label: Game Visuals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: player_guidance
+      label: Player Guidance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: level_testing
+      label: Level Testing
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: game_level_description
+      label: Game Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gameplay_balance
+      label: Gameplay Balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

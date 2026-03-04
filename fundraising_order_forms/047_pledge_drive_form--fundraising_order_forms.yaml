@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pledge Drive Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pledge_amount
+      label: Pledge Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pledge_type
+      label: Pledge Type
+      hint: null
+      type: select_multiple
+      options:
+      - Pledge for Event
+      - Pledge for Organization
+      - Pledge for Initiative
+      required: true
+    - id: 7
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      - Monthly
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: frequency_start_date
+      label: Frequency Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: frequency_end_date
+      label: Frequency End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: donation_start_date
+      label: Donation Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: donation_end_date
+      label: Donation End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: frequency_donation_start_date
+      label: Frequency Donation Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: frequency_donation_end_date
+      label: Frequency Donation End Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ride Tracking Log Form
+    pages:
+    - id: 1
+      name: ride_tracking_log_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: route_map
+      label: Route Map
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trip_time
+      label: Trip Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trip_distance
+      label: Trip Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: trip_notes
+      label: Trip Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ride_status
+      label: Ride Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: trip_duration
+      label: Trip Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: total_fuel_used
+      label: Total Fuel Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: fuel_consumption_rate
+      label: Fuel Consumption Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: ride_location
+      label: Ride Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ride_start_time
+      label: Ride Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: ride_end_time
+      label: Ride End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: total_miles_covered
+      label: Total Miles Covered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

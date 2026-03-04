@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Technology Accessibility Evaluation Form
+    pages:
+    - id: 1
+      name: technology_title
+      label: Medical Technology Accessibility Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: technology_type
+      label: Technology Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: assess_barriers
+      label: Assess Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: collect_feedback
+      label: Collect Staff Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technology_rating
+      label: Technology Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: technology_comment
+      label: Technology Comment
+      hint: null
+      type: text
+      options: []
+      required: false

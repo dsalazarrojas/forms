@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Sponsor Donation Form
+    pages:
+    - id: 1
+      name: sponsor_info
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor name
+      hint: Organization or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Name of sponsor contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For sponsorship coordination
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sponsorship_amount
+      label: Sponsorship amount
+      hint: Enter numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sponsorship_level
+      label: Sponsorship level
+      hint: Select appropriate tier
+      type: select_one
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      - Platinum
+      required: true
+    - id: 7
+      name: benefits_requested
+      label: Benefits requested
+      hint: Checklist of sponsor benefits
+      type: select_multiple
+      options:
+      - Logo on website
+      - Event signage
+      - Speaking opportunity
+      - Booth space
+      required: false
+    - id: 8
+      name: invoicing_required
+      label: Invoicing required
+      hint: Need an invoice for payment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Additional sponsor instructions
+      type: text
+      options: []
+      required: false

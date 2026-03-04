@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Green Energy Transition Evaluation Form
+    pages:
+    - id: 1
+      name: hospital_green_energy_transition_evaluation_form_page_1
+      label: Sustainability Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hospital_green_energy_transition_evaluation_form_page_2
+      label: Current Energy Usage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: hospital_green_energy_transition_evaluation_form_page_2
+      label: energy_consumption_by_department
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 4
+      name: hospital_green_energy_transition_evaluation_form_page_2
+      label: energy_consumption_by_department
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: hospital_green_energy_transition_evaluation_form_page_3
+      label: Renewable Energy Options
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: hospital_green_energy_transition_evaluation_form_page_4
+      label: Energy Savings
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: hospital_green_energy_transition_evaluation_form_page_5
+      label: energy_savings_in_dollars
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: hospital_green_energy_transition_evaluation_form_page_6
+      label: energy_savings_in_dollars
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Milkshake Machine Feedback Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: survey_intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: machine_performance
+      label: how_did_the_machine_perform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 3
+      name: taste
+      label: how_was_the_taste
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Too_Sweet''}'
+      - '{''id'': 2, ''label'': ''Too_Salty''}'
+      - '{''id'': 3, ''label'': ''Just_Right''}'
+      required: false
+    - id: 4
+      name: customer_service
+      label: how_was_the_customer_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 5
+      name: issues_encountered
+      label: were_there_any_issues_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Machine_Failed_To_Dispense''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: product_quality
+      label: how_was_the_product_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 7
+      name: machine_condition
+      label: what_is_the_condition_of_the_machine
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Dirty''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Clean''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: any_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

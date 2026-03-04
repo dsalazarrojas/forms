@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Report Form Template
+    pages:
+    - id: 1
+      name: patient_demographics_section
+      label: -- Patient Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_years
+      label: Age (years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hospital_admission_date
+      label: Hospital Admission Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: clinical_presentation_section
+      label: -- Clinical Presentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Primary reason for visit or admission
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_onset
+      label: Date of Symptom Onset
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: presenting_symptoms
+      label: Presenting Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Pain
+      - Swelling
+      - Weakness
+      - Fatigue
+      - Nausea
+      - Shortness of Breath
+      - Other
+      required: true
+    - id: 12
+      name: symptom_duration
+      label: Duration of Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: severity_scale
+      label: Symptom Severity
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Critical
+      required: true
+    - id: 14
+      name: past_medical_history_section
+      label: -- Past Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: significant_medical_history
+      label: Significant Past Medical History
+      hint: List relevant conditions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: List all medications patient is taking
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies or Adverse Reactions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: diagnostic_findings_section
+      label: -- Diagnostic Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: physical_examination_findings
+      label: Physical Examination Findings
+      hint: Describe relevant clinical findings
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: laboratory_tests
+      label: Laboratory Test Results
+      hint: List key lab findings with values
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: imaging_studies
+      label: Imaging Studies Performed
+      hint: List imaging and results
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: diagnosis_section
+      label: -- Diagnosis and Treatment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: diagnosis
+      label: Final Diagnosis or Case Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: treatment_provided
+      label: Treatment Provided
+      hint: Describe interventions and medications
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_one
+      options:
+      - Recovered fully
+      - Improved
+      - Stable
+      - Worsened
+      - Deceased
+      - Unknown
+      required: true

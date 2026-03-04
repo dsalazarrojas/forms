@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recipe Submission Form
+    pages:
+    - id: 1
+      name: recipe_submission_form
+      label: Submit a Recipe
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ingredient
+      label: ingredient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: ingredient quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cooking_method
+      label: cooking_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cooking_time
+      label: cooking_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

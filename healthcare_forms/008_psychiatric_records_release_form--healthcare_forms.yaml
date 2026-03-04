@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychiatric Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_professional
+      label: Healthcare Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Professional
+      - Authorized Individual
+      - Authorized Organization
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - Confidential
+      - Non-Confidential
+      - All
+      required: false
+    - id: 7
+      name: record_type
+      label: Record Type
+      hint: null
+      type: select_one
+      options:
+      - Mental Health Record
+      - Physical Health Record
+      - Medical History
+      required: false
+    - id: 8
+      name: record_range
+      label: Record Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: authorization_expiration_date
+      label: Authorization Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

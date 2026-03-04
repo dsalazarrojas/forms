@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oncology Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_family_history
+      label: Patient Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_support
+      label: Social Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: lab_tests
+      label: Lab Tests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: imaging_studies
+      label: Imaging Studies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: patient_care_goals
+      label: Patient Care Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_care
+      label: Follow-up Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_appointment_time
+      label: Next Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: healthcare_provider_phone
+      label: Healthcare Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_email
+      label: Healthcare Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: discharge_summary
+      label: Discharge Summary
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waist Hip Ratio Calculator
+    pages:
+    - id: 1
+      name: measurement1_height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: measurement1_weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: measurement1_hip
+      label: hip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: measurement1_waist
+      label: waist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: calculation
+      label: Calculation
+      hint: null
+      type: select_one
+      options:
+      - Waist to Hip Ratio
+      - Hip to Waist Ratio
+      - Waist to Hip
+      required: true
+    - id: 6
+      name: calculation_results
+      label: Results
+      hint: null
+      type: select_multiple
+      options:
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Very high risk
+      required: false
+    - id: 7
+      name: health_risk
+      label: Health Risk
+      hint: null
+      type: text
+      options: []
+      required: false

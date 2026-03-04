@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_business_fund_donation_form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One-time''}'
+      - '{''id'': 2, ''label'': ''Recurring''}'
+      required: true
+    - id: 3
+      name: donation_frequency_other
+      label: Other
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: frequency_other
+      label: Frequency Other
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_city
+      label: City
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_zip
+      label: ZIP
+      hint: Enter a value
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: business_phone
+      label: Phone
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_fax
+      label: Fax
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: Enter a value
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_title
+      label: Title
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Phone
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Email
+      hint: Enter a value
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small Business''}'
+      - '{''id'': 2, ''label'': ''Medium Business''}'
+      - '{''id'': 3, ''label'': ''Large Business''}'
+      required: true
+    - id: 16
+      name: business_description
+      label: Description
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Check''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: Enter a value
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I agree''}'
+      - '{''id'': 2, ''label'': ''I do not agree''}'
+      required: true
+    - id: 20
+      name: donation_date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: donation_time
+      label: Time
+      hint: "12:HH/HH"
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: donation_note
+      label: Note
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_email
+      label: Confirm Email
+      hint: Enter a value
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Continue to Application Form''}'
+      - '{''id'': 2, ''label'': ''Finish''}'
+      required: true

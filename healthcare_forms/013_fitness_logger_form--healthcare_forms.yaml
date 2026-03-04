@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Logger Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fitness_goals
+      label: fitness_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      - Goal 4
+      - Goal 5
+      required: false
+    - id: 6
+      name: workouts_completed
+      label: workouts_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress_photos
+      label: progress_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Cardio
+      - Strength Training
+      - Endurance
+      - Flexibility
+      required: false
+    - id: 12
+      name: exercises_completed
+      label: exercises_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: weight_lifting_frequencies
+      label: weight_lifting_frequencies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cardio_frequencies
+      label: cardio_frequencies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: flexibility_frequencies
+      label: flexibility_frequencies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: progress_photos
+      label: progress_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: exercise_completed
+      label: exercise_completed
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 19
+      name: workout_completed
+      label: workout_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_level
+      label: training_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 21
+      name: client_id
+      label: client_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fitness_level
+      label: fitness_level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 23
+      name: client_status
+      label: client_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: date_last_update
+      label: date_last_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time_last_update
+      label: time_last_update
+      hint: null
+      type: time
+      options: []
+      required: false

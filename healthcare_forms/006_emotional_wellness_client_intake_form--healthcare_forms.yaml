@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Wellness Client Intake Form
+    pages:
+    - id: 1
+      name: client_information
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emotional_wellness_history
+      label: emotional_wellness_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals_and_objectives
+      label: goals_and_objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_history
+      label: mental_health_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: substance_use
+      label: substance_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: medical_conditions
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_conditions
+      label: mental_health_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_dosage
+      label: medication_dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medication_frequency
+      label: medication_frequency
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_side_effects_list
+      label: medication_side_effects_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mental_health_providers
+      label: mental_health_providers
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      - Provider 4
+      - Provider 5
+      required: false
+    - id: 19
+      name: mental_health_specialties
+      label: mental_health_specialties
+      hint: null
+      type: select_one
+      options:
+      - Specialty 1
+      - Specialty 2
+      - Specialty 3
+      - Specialty 4
+      - Specialty 5
+      required: false
+    - id: 20
+      name: mental_health_providers_list
+      label: mental_health_providers_list
+      hint: null
+      type: select_multiple
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      - Provider 4
+      - Provider 5
+      required: false
+    - id: 21
+      name: mental_health_specialties_list
+      label: mental_health_specialties_list
+      hint: null
+      type: select_multiple
+      options:
+      - Specialty 1
+      - Specialty 2
+      - Specialty 3
+      - Specialty 4
+      - Specialty 5
+      required: false
+    - id: 22
+      name: emergency_contact_relationship_status
+      label: emergency_contact_relationship_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      - Status 4
+      - Status 5
+      required: false
+    - id: 23
+      name: medication_effectiveness
+      label: medication_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Effectiveness 1
+      - Effectiveness 2
+      - Effectiveness 3
+      - Effectiveness 4
+      - Effectiveness 5
+      required: false
+    - id: 24
+      name: medication_effectiveness_list
+      label: medication_effectiveness_list
+      hint: null
+      type: select_multiple
+      options:
+      - Effectiveness 1
+      - Effectiveness 2
+      - Effectiveness 3
+      - Effectiveness 4
+      - Effectiveness 5
+      required: false
+    - id: 25
+      name: date_last_medication_administered
+      label: date_last_medication_administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: time_last_medication_administered
+      label: time_last_medication_administered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 27
+      name: date_next_medication_administered
+      label: date_next_medication_administered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: time_next_medication_administered
+      label: time_next_medication_administered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: dosage_last_medication_administered
+      label: dosage_last_medication_administered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: dosage_next_medication_administered
+      label: dosage_next_medication_administered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 33
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: date_last_contact
+      label: date_last_contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: time_last_contact
+      label: time_last_contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 36
+      name: date_next_contact
+      label: date_next_contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: time_next_contact
+      label: time_next_contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 38
+      name: note_last_contact
+      label: note_last_contact
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Credit Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '[''employed'', ''student'', ''retired'']'
+      - '[''unemployed'']'
+      required: false
+    - id: 8
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - part-time
+      - full-time
+      - freelance
+      - self-employed
+      required: false
+    - id: 9
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_one
+      options:
+      - '700'
+      - '780'
+      - '850'
+      - '920'
+      required: false
+    - id: 11
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 6-month
+      - 12-month
+      - 24-month
+      - 36-month
+      required: false
+    - id: 13
+      name: credit_history
+      label: Credit History
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 14
+      name: employment_length
+      label: Employment Length
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      required: false
+    - id: 15
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - high_school
+      - college
+      - some_college
+      - bachelor
+      required: false
+    - id: 16
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - annual
+      - quarterly
+      - bi_annual
+      required: false
+    - id: 17
+      name: bank_name
+      label: Bank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false

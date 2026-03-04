@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question1
+      label: How would you rate your overall experience at the clinic?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Very Satisfied''}'
+      - '{''label'': ''2 - Somewhat Satisfied''}'
+      - '{''label'': ''3 - Neutral''}'
+      - '{''label'': ''4 - Somewhat Dissatisfied''}'
+      - '{''label'': ''5 - Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: question2
+      label: How would you rate your doctor's communication skills?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Excellent''}'
+      - '{''label'': ''2 - Good''}'
+      - '{''label'': ''3 - Fair''}'
+      - '{''label'': ''4 - Poor''}'
+      required: false
+    - id: 6
+      name: question3
+      label: How would you rate the cleanliness of the clinic?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1 - Very Clean''}'
+      - '{''label'': ''2 - Somewhat Clean''}'
+      - '{''label'': ''3 - Neutral''}'
+      - '{''label'': ''4 - Somewhat Dirty''}'
+      - '{''label'': ''5 - Very Dirty''}'
+      required: false
+    - id: 7
+      name: question4
+      label: Would you recommend this clinic to a friend or family member?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question5
+      label: When did you visit the clinic?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question6
+      label: What time did you visit the clinic?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: question7
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: question8
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false

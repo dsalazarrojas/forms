@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: PRP Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_details
+      label: Treatment Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hipaa_consent
+      label: HIPAA Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_phone
+      label: Patient Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: medical_provider
+      label: Medical Provider
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: 'null'
+      type: note
+      options: []
+      required: false

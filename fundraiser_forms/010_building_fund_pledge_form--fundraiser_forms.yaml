@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Fund Pledge Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: Full name of pledging supporter
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Email Address
+      hint: For pledge confirmations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State or Province
+      hint: State abbreviation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pledge_amount
+      label: Pledge Amount
+      hint: How much do you pledge
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: currency
+      label: Currency
+      hint: Donation currency
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      required: true
+    - id: 10
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Bank Transfer
+      - Online Payment
+      - Installments
+      required: true
+    - id: 11
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When will you pay
+      type: select_one
+      options:
+      - Single Payment
+      - Monthly Installments
+      - Quarterly Installments
+      - Annual Installments
+      - Over 2-3 Years
+      required: false
+    - id: 12
+      name: tax_deductible
+      label: Tax Deductible Status
+      hint: Are you requesting receipt
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: organization_name
+      label: Organization or Company Name
+      hint: If pledging on behalf of organization
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: building_project_name
+      label: Building Project Name
+      hint: Which project is this pledge for
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: anonymous_donation
+      label: Make Donation Anonymous
+      hint: Do you want anonymity
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: recognition
+      label: Recognition Preference
+      hint: How should we recognize your contribution
+      type: select_one
+      options:
+      - In Public
+      - In Private
+      - In Newsletter
+      - No Recognition
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Information
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false

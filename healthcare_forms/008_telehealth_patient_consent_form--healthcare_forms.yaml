@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Patient Consent Form
+    pages:
+    - id: 1
+      name: telehealth_patient_consent_form
+      label: patient_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: telehealth_services
+      label: telehealth_services
+      hint: null
+      type: select_one
+      options:
+      - telehealth_services_1
+      - telehealth_services_2
+      required: false
+    - id: 3
+      name: telehealth_services_1
+      label: telehealth_services_1
+      hint: null
+      type: select_multiple
+      options:
+      - telehealth_services_2
+      - telehealth_services_3
+      required: false
+    - id: 4
+      name: telehealth_services_2
+      label: telehealth_services_2
+      hint: null
+      type: select_multiple
+      options:
+      - telehealth_services_3
+      - telehealth_services_4
+      required: false
+    - id: 5
+      name: telehealth_services_3
+      label: telehealth_services_3
+      hint: null
+      type: select_multiple
+      options:
+      - telehealth_services_4
+      - telehealth_services_5
+      required: false
+    - id: 6
+      name: telehealth_services_4
+      label: telehealth_services_4
+      hint: null
+      type: select_multiple
+      options:
+      - telehealth_services_5
+      - Other
+      required: false
+    - id: 7
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false

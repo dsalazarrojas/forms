@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funds Request Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: Enter your name and address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: institution_details
+      label: Institution Details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''public''}'
+      - private
+      - non_profit
+      required: false
+    - id: 4
+      name: financial_details
+      label: Financial Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''salary''}'
+      - benefits
+      - travel
+      - equipment
+      - training
+      - software
+      required: false
+    - id: 5
+      name: time_period
+      label: Time Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

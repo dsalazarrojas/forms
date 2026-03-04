@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Pressure Log Form
+    pages:
+    - id: 1
+      name: log_intro
+      label: -- Daily Blood Pressure Log --
+      hint: Track your blood pressure readings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: log_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: morning_systolic
+      label: Morning Systolic (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: morning_diastolic
+      label: Morning Diastolic (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: morning_pulse
+      label: Morning Pulse (bpm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: afternoon_systolic
+      label: Afternoon Systolic (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: afternoon_diastolic
+      label: Afternoon Diastolic (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: afternoon_pulse
+      label: Afternoon Pulse (bpm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: evening_systolic
+      label: Evening Systolic (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: evening_diastolic
+      label: Evening Diastolic (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: evening_pulse
+      label: Evening Pulse (bpm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medication_taken
+      label: Medications Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: activity_level
+      label: Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Light
+      - Moderate
+      - Vigorous
+      required: false
+    - id: 16
+      name: stress_level
+      label: Stress Level (1-10)
+      hint: 1=Low, 10=High
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 18
+      name: diet_notes
+      label: Diet Notes (salt intake, etc.)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: symptoms
+      label: Symptoms or Health Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: log_submission_date
+      label: Log Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Consumption Survey
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: Unique identifier for this survey
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: Current occupation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: alcohol_consumption_frequency
+      label: How Often Do You Drink Alcohol?
+      hint: Average frequency
+      type: select_one
+      options:
+      - Never
+      - Less than once a month
+      - 1-3 times per month
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
+      - Daily
+      required: true
+    - id: 7
+      name: typical_drinks_per occasion
+      label: Typical Number of Drinks Per Occasion
+      hint: Average drinks when you do drink
+      type: select_one
+      options:
+      - 1 drink
+      - 2 drinks
+      - 3-4 drinks
+      - 5-6 drinks
+      - 7-9 drinks
+      - 10 or more drinks
+      required: true
+    - id: 8
+      name: preferred_alcohol_type
+      label: Preferred Type of Alcohol
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beer
+      - Wine
+      - Spirits/Liquor
+      - Cocktails
+      - Hard seltzer
+      - Cider
+      - Other
+      required: false
+    - id: 9
+      name: drinking_location
+      label: Where Do You Usually Drink?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - At home
+      - At a friend's house
+      - Bar/Pub
+      - Restaurant
+      - Club/Nightclub
+      - Outdoor events
+      - Sports venue
+      - Other
+      required: false
+    - id: 10
+      name: drinking_companions
+      label: Who Do You Usually Drink With?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Alone
+      - Spouse/Partner
+      - Friends
+      - Family
+      - Colleagues/Coworkers
+      - Strangers
+      required: false
+    - id: 11
+      name: binge_drinking_frequency
+      label: Binge Drinking Frequency
+      hint: 5+ drinks for men, 4+ for women in 2 hours
+      type: select_one
+      options:
+      - Never
+      - Less than monthly
+      - Monthly
+      - Weekly
+      - Daily or almost daily
+      required: true
+    - id: 12
+      name: alcohol_spending_monthly
+      label: Monthly Alcohol Spending
+      hint: Approximate amount spent per month
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $101-$200
+      - $201-$400
+      - Over $400
+      required: false
+    - id: 13
+      name: health_impact_awareness
+      label: Awareness of Health Impact
+      hint: Are you aware of alcohol health effects?
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 14
+      name: attempted_to_reduce_consumption
+      label: Have You Tried to Reduce Consumption?
+      hint: In the past year
+      type: select_one
+      options:
+      - Yes, successfully
+      - Yes, but unsuccessful
+      - No, never tried
+      - No, don't want to reduce
+      required: false
+    - id: 15
+      name: alcohol_related_problems
+      label: Alcohol-Related Problems Experienced
+      hint: Select all that apply in past year
+      type: select_multiple
+      options:
+      - None
+      - Missed work/school
+      - Relationship problems
+      - Legal issues
+      - Health problems
+      - Financial difficulties
+      - Memory blackouts
+      - Accidents/injuries
+      required: false
+    - id: 16
+      name: family_history_alcoholism
+      label: Family History of Alcoholism
+      hint: Any family history?
+      type: select_one
+      options:
+      - Yes, immediate family
+      - Yes, extended family
+      - No known history
+      - Unknown
+      required: false
+    - id: 17
+      name: stress_drinking_correlation
+      label: Do You Drink When Stressed?
+      hint: Connection between stress and drinking
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: sleep_impact
+      label: Does Alcohol Affect Your Sleep?
+      hint: Impact on sleep quality
+      type: select_one
+      options:
+      - Significantly negatively
+      - Somewhat negatively
+      - No effect
+      - Somewhat positively
+      - Significantly positively
+      required: false
+    - id: 19
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often do you exercise?
+      type: select_one
+      options:
+      - Daily
+      - 4-6 times per week
+      - 2-3 times per week
+      - Once a week
+      - Rarely
+      - Never
+      required: false
+    - id: 20
+      name: overall_health_rating
+      label: Overall Health Rating
+      hint: Rate your current health
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: willingness_to_change
+      label: Willingness to Change Drinking Habits
+      hint: Open to making changes?
+      type: select_one
+      options:
+      - Very willing
+      - Somewhat willing
+      - Neutral
+      - Somewhat unwilling
+      - Very unwilling
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

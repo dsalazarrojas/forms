@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_caution_report_form
+    pages:
+    - id: 1
+      name: player_id
+      label: Player ID
+      hint: Player ID
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: screenshot_url
+      label: Screenshot URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_reason
+      label: Report Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_message
+      label: Player Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: moderator_message
+      label: Moderator Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_reported
+      label: Time Reported
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      required: false
+    - id: 12
+      name: close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: moderator_name
+      label: Moderator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: moderator_note
+      label: Moderator Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_id
+      label: Report ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: close_reason
+      label: Close Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolved
+      label: Resolved
+      hint: null
+      type: select_one
+      options:
+      - option6
+      - option7
+      required: true
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false

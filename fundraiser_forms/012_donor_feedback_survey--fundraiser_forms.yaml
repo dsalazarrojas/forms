@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Feedback Survey
+    pages:
+    - id: 1
+      name: donor_experience
+      label: Overall experience with our organization
+      hint: How would you rate your overall experience with our organization?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: donation_amount
+      label: How much have you given to our organization in the past 5 years?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: preferred_contact_method
+      label: What is your preferred contact method?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Phone''}'
+      - Email
+      - Mail
+      - In-person
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with our fundraising efforts?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: suggestions
+      label: Do you have any suggestions for our organization?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

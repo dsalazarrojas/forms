@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calendar Pinup Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_name
+      label: Stage Name
+      hint: Professional name if different
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 18 years or older
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am under 18
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: height
+      label: Height
+      hint: Your height
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: measurements
+      label: Measurements
+      hint: Optional body measurements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hair_color
+      label: Hair Color
+      hint: Current hair color
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: eye_color
+      label: Eye Color
+      hint: Your eye color
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: modeling_experience
+      label: Modeling Experience
+      hint: Describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_pinup_experience
+      label: Pinup Modeling Experience
+      hint: Have you done pinup work before
+      type: select_one
+      options:
+      - Yes, professional
+      - Yes, amateur
+      - No, but interested
+      - No experience
+      required: true
+    - id: 17
+      name: portfolio_url
+      label: Portfolio URL
+      hint: Link to your portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram or other relevant accounts
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_upload_note
+      label: Photo Submission
+      hint: Please prepare headshot and full-body photos
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: availability
+      label: Availability
+      hint: When are you available for shoots
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - Flexible schedule
+      - Specific dates only
+      required: false
+    - id: 21
+      name: calendar_year
+      label: Calendar Year Applying For
+      hint: Which year's calendar
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - Either
+      required: true
+    - id: 22
+      name: theme_preference
+      label: Theme Preference
+      hint: Any preferred theme or style
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comfort_level
+      label: Comfort Level
+      hint: What types of shoots are you comfortable with
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agency_representation
+      label: Agency Representation
+      hint: Are you represented by an agency
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: agency_name
+      label: Agency Name
+      hint: If yes, which agency
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about this opportunity
+      type: select_one
+      options:
+      - Social media
+      - Website
+      - Referral
+      - Previous calendar
+      - Model search
+      - Other
+      required: false
+    - id: 27
+      name: why_interested
+      label: Why Are You Interested
+      hint: Tell us why you want to be in our calendar
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

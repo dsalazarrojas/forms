@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: discord-staff-application-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: discord_username
+      label: Discord Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: application_form_url
+      label: Application Form URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_played
+      label: Role Played
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: why_discord
+      label: Why Discord
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available on most days
+      - Available on most weeks
+      - Available on most months
+      required: true
+    - id: 8
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: why_us
+      label: Why us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 12
+      name: timezone
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: discord_rank
+      label: Discord Rank
+      hint: null
+      type: select_one
+      options:
+      - Moderator
+      - Community Manager
+      - Administrator
+      - None of the above
+      required: true
+    - id: 15
+      name: discord_position
+      label: Discord Position
+      hint: null
+      type: select_multiple
+      options:
+      - Server Owner
+      - Server Co-Owner
+      - Moderator
+      - Community Manager
+      - Administrator
+      required: false

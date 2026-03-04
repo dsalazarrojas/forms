@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Care Model Redesign Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For contact regarding application
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Name of your healthcare organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Hospital
+      - Primary Care Clinic
+      - Specialty Practice
+      - Community Health Center
+      - Integrated Health System
+      - Academic Medical Center
+      - Rural Health Clinic
+      - Other
+      required: true
+    - id: 8
+      name: organization_size
+      label: Organization Size
+      hint: Number of providers
+      type: select_one
+      options:
+      - 1-5 providers
+      - 6-20 providers
+      - 21-50 providers
+      - 51-100 providers
+      - Over 100 providers
+      required: true
+    - id: 9
+      name: patient_population
+      label: Patient Population Served
+      hint: Approximate number of patients
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-50000
+      - Over 50000
+      required: true
+    - id: 10
+      name: section_organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: chronic_conditions_focus
+      label: Chronic Conditions of Focus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - COPD
+      - Asthma
+      - Chronic Kidney Disease
+      - Mental Health Conditions
+      - Obesity
+      - Arthritis
+      - Multiple Conditions
+      required: true
+    - id: 12
+      name: current_care_model
+      label: Current Care Model
+      hint: What model do you currently use
+      type: select_one
+      options:
+      - Traditional fee-for-service
+      - Patient-Centered Medical Home
+      - Accountable Care Organization
+      - Integrated Care Model
+      - No formal model
+      - Other
+      required: true
+    - id: 13
+      name: redesign_experience
+      label: Previous Redesign Experience
+      hint: Have you done care redesign before
+      type: select_one
+      options:
+      - No first time
+      - Yes small projects
+      - Yes moderate experience
+      - Yes extensive experience
+      required: true
+    - id: 14
+      name: section_current_state
+      label: -- Current State --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: motivation_for_application
+      label: Motivation for Application
+      hint: Why do you want to participate
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: primary_goals
+      label: Primary Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Improve patient outcomes
+      - Reduce costs
+      - Enhance patient experience
+      - Improve provider satisfaction
+      - Meet regulatory requirements
+      - Gain competitive advantage
+      - Address health disparities
+      - Other
+      required: true
+    - id: 17
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What specific outcomes do you expect
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_goals
+      label: -- Goals and Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: team_readiness
+      label: Team Readiness
+      hint: How ready is your team
+      type: select_one
+      options:
+      - Very ready and motivated
+      - Somewhat ready
+      - Need more preparation
+      - Early stages of discussion
+      required: true
+    - id: 20
+      name: leadership_support
+      label: Leadership Support
+      hint: Level of executive support
+      type: select_one
+      options:
+      - Full executive commitment
+      - Moderate support
+      - Limited support
+      - Unsure
+      required: true
+    - id: 21
+      name: resources_available
+      label: Resources Available
+      hint: What resources can you commit
+      type: select_multiple
+      options:
+      - Dedicated staff time
+      - IT support
+      - Data analytics support
+      - Quality improvement expertise
+      - Financial investment
+      - Training time
+      - Limited resources
+      required: true
+    - id: 22
+      name: section_readiness
+      label: -- Readiness Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you plan to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 1-3 months
+      - Within 3-6 months
+      - Within 6-12 months
+      required: true
+    - id: 24
+      name: potential_barriers
+      label: Potential Barriers
+      hint: What challenges do you anticipate
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_support_needed
+      label: Additional Support Needed
+      hint: What help do you need
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_implementation
+      label: -- Implementation Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: how_heard
+      label: How Did You Hear About This Program
+      hint: null
+      type: select_one
+      options:
+      - Professional Organization
+      - Colleague Referral
+      - Website
+      - Conference
+      - Email Newsletter
+      - Other
+      required: true
+    - id: 28
+      name: agree_commitment
+      label: Commitment Agreement
+      hint: I commit to participating fully
+      type: select_one
+      options:
+      - Yes I agree
+      - No I cannot commit
+      required: true

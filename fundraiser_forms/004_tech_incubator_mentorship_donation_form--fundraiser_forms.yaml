@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Incubator Mentorship Donation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: Enter your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Enter your email
+      hint: Enter your work email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: Donation frequency
+      hint: Select your donation frequency
+      type: select_one
+      options:
+      - One-time
+      - Recurring (weekly)
+      - Recurring (monthly)
+      - Recurring (quarterly)
+      - Recurring (yearly)
+      required: false
+    - id: 5
+      name: comments
+      label: Additional comments
+      hint: Any other information about your donation?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

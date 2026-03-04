@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Intelligence Grant Application Form
+    pages:
+    - id: 1
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grant_amount_requested
+      label: grant_amount_requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - completed
+      - ongoing
+      required: true
+    - id: 14
+      name: grant_type
+      label: grant_type
+      hint: null
+      type: select_multiple
+      options:
+      - energy_efficiency
+      - renewable_energy
+      - energy_storage
+      - energy_distribution
+      required: true
+    - id: 15
+      name: grant_amount_justification
+      label: grant_amount_justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_implementation_date
+      label: project_implementation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: project_completion_date
+      label: project_completion_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: grant_recipient
+      label: grant_recipient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: grant_agency
+      label: grant_agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: grant_program
+      label: grant_program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: grant_funding_source
+      label: grant_funding_source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: project_location_description
+      label: project_location_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: grant_application_submission
+      label: grant_application_submission
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - pending
+      - approved
+      - declined
+      required: true
+    - id: 24
+      name: grant_review_comments
+      label: grant_review_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: grant_reviewer
+      label: grant_reviewer
+      hint: null
+      type: text
+      options: []
+      required: true

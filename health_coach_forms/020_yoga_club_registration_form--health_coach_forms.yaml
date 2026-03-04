@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Club Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Required for scheduling
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 5
+      name: type_of_yoga
+      label: Type of Yoga
+      hint: null
+      type: select_one
+      options:
+      - Hatha Yoga
+      - Ashtanga Yoga
+      - Vinyasa Yoga
+      - Restorative Yoga
+      - Yin Yoga
+      required: true
+    - id: 6
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: class_frequency
+      label: Class Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 8
+      name: class_schedule
+      label: Class Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: 24hr format
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: 24hr format
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

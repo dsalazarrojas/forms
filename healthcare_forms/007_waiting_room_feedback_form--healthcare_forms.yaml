@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: waiting_room_feedback_form
+    pages:
+    - id: 1
+      name: waiting_room_feedback
+      label: waiting_room_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: waiting_room_environment
+      label: overall_wait_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: waiting_room_staff
+      label: staff_interaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: waiting_room_services
+      label: services_offered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: waiting_room_amenities
+      label: amenities_available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

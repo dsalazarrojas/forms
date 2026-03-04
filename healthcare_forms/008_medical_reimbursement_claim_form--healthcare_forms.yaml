@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claimant_contact_information
+      label: Claimant Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claimant_city
+      label: Claimant City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claimant_state
+      label: Claimant State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: claimant_zip
+      label: Claimant Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claimant_dob
+      label: Claimant DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: claimant_policy_number
+      label: Claimant Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: claimant_group_plan
+      label: Claimant Group Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: claimant_date_of_service
+      label: Claimant Date Of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: claimant_date_of_service_end
+      label: Claimant Date Of Service End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: claimant_amount
+      label: Claimant Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: claimant_currency
+      label: Claimant Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: claimant_description
+      label: Claimant Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: claimant_provider_signature
+      label: Claimant Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: insurance_provider_signature
+      label: Insurance Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: claimant_relationship
+      label: Claimant Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: claimant_other_information
+      label: Claimant Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Claimant Name
+      - Claimant Contact Information
+      - Claimant Medical Provider
+      - Claimant Policy Number
+      - Claimant Group Plan
+      - Claimant Date Of Service
+      - Claimant Date Of Service End
+      - Claimant Amount
+      - Claimant Claimant Description
+      required: true

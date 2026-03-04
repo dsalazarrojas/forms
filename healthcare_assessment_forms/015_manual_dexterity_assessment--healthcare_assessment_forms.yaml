@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: manual-dexterity-assessment
+    pages:
+    - id: 1
+      name: task_performance
+      label: Task Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: task_history
+      label: Task History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false

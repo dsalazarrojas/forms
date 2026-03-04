@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Coaching Client Plan Adherence Check In
+    pages:
+    - id: 1
+      name: health_coaching_client_plan_adherence_check_in
+      label: Client Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_plan_adherence_details
+      label: Progress Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: current_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: progress_photos
+      label: Progress Photos
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_session_date
+      label: Next Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_session_time
+      label: Next Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_agree
+      label: Client Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 12
+      name: follow_up_reminders
+      label: Follow Up Reminders
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Every week
+      - Every 2 weeks
+      - Every 4 weeks
+      required: false

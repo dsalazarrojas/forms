@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Color Consultation Form
+    pages:
+    - id: 1
+      name: hair_color_consultation_form
+      label: Hair Color Consultation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hair_color_consultation_form_hair_color
+      label: hair_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: hair_color_consultation_form_hair_type
+      label: hair_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: hair_color_consultation_form_appointment
+      label: appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: hair_color_consultation_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: hair_color_consultation_form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hair_color_consultation_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: hair_color_consultation_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hair_color_consultation_form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: hair_color_consultation_form_assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

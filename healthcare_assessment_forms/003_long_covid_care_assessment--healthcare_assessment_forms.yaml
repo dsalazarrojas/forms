@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: long_covid_care_assessment
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Fatigue
+      - Loss of taste and smell
+      - Loss of appetite
+      - Muscle and joint pain
+      - Confusion or disorientation
+      - Difficulty concentrating or memory problems
+      - Headache
+      - Sore throat
+      - Cough
+      - Difficulty breathing
+      - Chest pain or pressure
+      required: true
+    - id: 3
+      name: care_needs
+      label: Care needs
+      hint: null
+      type: select_one
+      options:
+      - Clinic
+      - Rehabilitation program
+      - Patient support services
+      required: true
+    - id: 4
+      name: other_needs
+      label: Other care needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_support
+      label: Patient support services
+      hint: null
+      type: text
+      options: []
+      required: false

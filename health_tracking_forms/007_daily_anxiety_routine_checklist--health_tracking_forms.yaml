@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Anxiety Routine Checklist
+    pages:
+    - id: 1
+      name: anxiety_levels
+      label: anxiety_levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: mood
+      label: mood
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Happy''}'
+      - '{''label'': ''Sad''}'
+      required: false
+    - id: 3
+      name: sleep_quality
+      label: sleep_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: coping_strategies
+      label: coping_strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: triggers
+      label: triggers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: anxiety_routine
+      label: anxiety_routine
+      hint: Describe your daily anxiety routine.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_professional
+      label: mental_health_professional
+      hint: If you have a mental health professional, who is it?
+      type: text
+      options: []
+      required: false

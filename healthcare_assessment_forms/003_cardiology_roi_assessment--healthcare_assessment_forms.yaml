@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology ROI Assessment
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Hospital or clinic name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Outpatient Clinic
+      - Cardiology Practice
+      - Multi-specialty Group
+      - Academic Medical Center
+      - Community Health Center
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department Being Assessed
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Cardiovascular Surgery
+      - Cardiac Catheterization Lab
+      - Electrophysiology
+      - Cardiac Rehabilitation
+      - Emergency Cardiology
+      - Multiple Departments
+      required: true
+    - id: 5
+      name: annual_patient_volume
+      label: Annual Cardiology Patient Volume
+      hint: Approximate number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: current_technology_investment
+      label: Current Technology Investment Level
+      hint: Annual spending on cardiology technology
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1 million
+      - $1 million - $5 million
+      - Over $5 million
+      required: true
+    - id: 7
+      name: roi_metrics_tracked
+      label: ROI Metrics Currently Tracked
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Patient outcomes
+      - Readmission rates
+      - Procedure success rates
+      - Patient satisfaction scores
+      - Cost per procedure
+      - Equipment utilization rates
+      - Staff productivity
+      - Revenue per physician
+      - None currently tracked
+      required: true
+    - id: 8
+      name: patient_satisfaction_score
+      label: Current Patient Satisfaction Score
+      hint: Percentage if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: readmission_rate
+      label: 30-Day Readmission Rate
+      hint: Percentage for cardiac patients
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: average_length_of_stay
+      label: Average Length of Stay
+      hint: In days for cardiac patients
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: procedure_volume_trend
+      label: Procedure Volume Trend
+      hint: Over the past 12 months
+      type: select_one
+      options:
+      - Increasing significantly
+      - Increasing slightly
+      - Stable
+      - Decreasing slightly
+      - Decreasing significantly
+      required: true
+    - id: 12
+      name: staff_satisfaction
+      label: Staff Satisfaction Level
+      hint: Cardiology department staff
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 13
+      name: quality_improvement_initiatives
+      label: Active Quality Improvement Initiatives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - ACC Chest Pain MI Registry
+      - NCDR CathPCI Registry
+      - Get With The Guidelines - Heart Failure
+      - Internal quality program
+      - None currently
+      required: true
+    - id: 14
+      name: technology_gaps
+      label: Identified Technology Gaps
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronic health records integration
+      - Remote patient monitoring
+      - Advanced imaging systems
+      - Data analytics platform
+      - Patient engagement tools
+      - Telehealth capabilities
+      - Workflow automation
+      - No significant gaps
+      required: true
+    - id: 15
+      name: budget_constraints
+      label: Budget Constraints for New Investments
+      hint: null
+      type: select_one
+      options:
+      - No constraints
+      - Minor constraints
+      - Moderate constraints
+      - Significant constraints
+      - Unable to invest at this time
+      required: true
+    - id: 16
+      name: expected_roi_timeframe
+      label: Expected ROI Timeframe
+      hint: For new investments
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-3 years
+      - 3+ years
+      required: true
+    - id: 17
+      name: priority_areas
+      label: Priority Investment Areas
+      hint: Select top 3 priorities
+      type: select_multiple
+      options:
+      - Diagnostic equipment
+      - Treatment technology
+      - Patient monitoring systems
+      - Data management systems
+      - Staff training and development
+      - Patient experience improvements
+      - Operational efficiency tools
+      - Research capabilities
+      required: true
+    - id: 18
+      name: competitive_position
+      label: Competitive Position in Market
+      hint: null
+      type: select_one
+      options:
+      - Market leader
+      - Strong competitor
+      - Average
+      - Below average
+      - Struggling
+      required: true
+    - id: 19
+      name: assessment_contact_name
+      label: Assessment Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: assessment_contact_title
+      label: Assessment Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

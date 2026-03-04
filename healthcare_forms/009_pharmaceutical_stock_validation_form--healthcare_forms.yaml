@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmaceutical_stock_validation_form
+    pages:
+    - id: 1
+      name: pharmacy_details
+      label: Pharmacy
+      hint: Pharmacy details
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stock_date
+      label: Stock Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stock_quantity
+      label: Stock Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: stock_status
+      label: Stock Status
+      hint: Active/Inactive
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: stock_type
+      label: Stock Type
+      hint: null
+      type: select_one
+      options:
+      - Prescription
+      - Over-the-counter
+      required: false
+    - id: 7
+      name: stock_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: storage_condition
+      label: Storage Condition
+      hint: Good/Used
+      type: select_multiple
+      options:
+      - Good
+      - Used
+      required: false
+    - id: 9
+      name: stock_date_time
+      label: Stock Date/Time
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: batch_number
+      label: Batch Number
+      hint: '123456'
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: batch_date
+      label: Batch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: stock_number
+      label: Stock Number
+      hint: '001'
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: expiration_date_time
+      label: Expiration Date/Time
+      hint: "YYYY-MM-DD HH:MM:SS"
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: expiration_date_time_format
+      label: Expiration Date/Time Format
+      hint: null
+      type: select_one
+      options:
+      - YYYY-MM-DD
+      - DD/MM/YY
+      required: false
+    - id: 15
+      name: storage_condition_note
+      label: Storage Condition Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stock_status_note
+      label: Stock Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stock_location_note
+      label: Location Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stock_type_note
+      label: Stock Type Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: batch_number_note
+      label: Batch Number Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: batch_date_note
+      label: Batch Date Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stock_number_note
+      label: Stock Number Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: expiration_date_note
+      label: Expiration Date Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: expiration_date_time_note
+      label: Expiration Date/Time Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stock_date_note
+      label: Stock Date Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stock_quantity_note
+      label: Stock Quantity Note
+      hint: null
+      type: text
+      options: []
+      required: false

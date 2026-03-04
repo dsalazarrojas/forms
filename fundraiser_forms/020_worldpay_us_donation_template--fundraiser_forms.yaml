@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: WorldPay US Donation Template
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recurring_donation_frequency
+      label: Frequency of Donations
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - One-time
+      required: false
+    - id: 3
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: donation_fees
+      label: Donation Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_address_1
+      label: Billing Address 1
+      hint: null
+      type: text
+      options: []
+      required: false

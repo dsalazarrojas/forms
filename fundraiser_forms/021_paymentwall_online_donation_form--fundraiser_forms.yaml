@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paymentwall Online Donation Form
+    pages:
+    - id: 1
+      name: paymentwall_online_donation_form
+      label: complete_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: paymentwall_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: paymentwall_products
+      label: products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: paymentwall_contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: paymentwall_type_of_donation
+      label: type_of_donation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: paymentwall_comment
+      label: comment_box
+      hint: null
+      type: note
+      options: []
+      required: false

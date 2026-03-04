@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hearing And Eyecare Assessment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hearing_assessment
+      label: Hearing Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: visual_acuity
+      label: Visual Acuity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: hearing_test_results
+      label: Hearing Test Results
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Abnormal''}'
+      required: false
+    - id: 5
+      name: eyecare_referrals
+      label: Eyecare Referrals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: other_eyecare_referrals
+      label: Other Eyecare Referrals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Family Doctor''}'
+      - '{''id'': 3, ''label'': ''Specialist''}'
+      required: false
+    - id: 7
+      name: hearing_and_eyecare_recommendations
+      label: Hearing and Eyecare Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

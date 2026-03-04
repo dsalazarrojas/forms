@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: salon_consultation_form
+    pages:
+    - id: 1
+      name: salon_consultation_form
+      label: salon_consultation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_type
+      label: hair_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''curly'', ''label'': ''Curly''}'
+      - '{''id'': 2, ''name'': ''straight'', ''label'': ''Straight''}'
+      - '{''id'': 3, ''name'': ''wavy'', ''label'': ''Wavy''}'
+      required: false
+    - id: 3
+      name: hair_texture
+      label: hair_texture
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fine'', ''label'': ''Fine''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''coarse'', ''label'': ''Coarse''}'
+      required: false
+    - id: 4
+      name: preferred_style
+      label: preferred_style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''bob'', ''label'': ''Bob''}'
+      - '{''id'': 2, ''name'': ''pixie'', ''label'': ''Pixie''}'
+      - '{''id'': 3, ''name'': ''pixie_cut'', ''label'': ''Pixie Cut''}'
+      required: false
+    - id: 5
+      name: preferred_length
+      label: preferred_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_problem_area
+      label: hair_problem_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''roots'', ''label'': ''Roots''}'
+      - '{''id'': 2, ''name'': ''length'', ''label'': ''Length''}'
+      - '{''id'': 3, ''name'': ''color'', ''label'': ''Color''}'
+      required: false
+    - id: 7
+      name: preferred_color
+      label: preferred_color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''natural'', ''label'': ''Natural''}'
+      - '{''id'': 2, ''name'': ''artificial'', ''label'': ''Artificial''}'
+      - '{''id'': 3, ''name'': ''balayage'', ''label'': ''Balayage''}'
+      required: false
+    - id: 8
+      name: face_shape
+      label: face_shape
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''round'', ''label'': ''Round''}'
+      - '{''id'': 2, ''name'': ''oval'', ''label'': ''Oval''}'
+      - '{''id'': 3, ''name'': ''heart'', ''label'': ''Heart''}'
+      required: false
+    - id: 9
+      name: neck_shape
+      label: neck_shape
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''oval'', ''label'': ''Oval''}'
+      - '{''id'': 2, ''name'': ''heart'', ''label'': ''Heart''}'
+      - '{''id'': 3, ''name'': ''square'', ''label'': ''Square''}'
+      required: false
+    - id: 10
+      name: skin_tone
+      label: skin_tone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''olive'', ''label'': ''Olive''}'
+      required: false
+    - id: 11
+      name: eye_color
+      label: eye_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''blue'', ''label'': ''Blue''}'
+      - '{''id'': 2, ''name'': ''brown'', ''label'': ''Brown''}'
+      - '{''id'': 3, ''name'': ''green'', ''label'': ''Green''}'
+      required: false
+    - id: 12
+      name: hair_problem
+      label: hair_problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skin_condition
+      label: skin_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergy
+      label: allergy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 15
+      name: treatment_preferences
+      label: treatment_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consultation_complete
+      label: consultation_complete
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 18
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 19
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: category_id
+      label: category_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

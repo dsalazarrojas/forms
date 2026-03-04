@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safe Sleep Post Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Safe Sleep Post Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_age
+      label: Parent Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: is_child_in_home
+      label: Is Child In Home
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: is_breastfeeding_mom
+      label: Is Breastfeeding Mom
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sleep_practices
+      label: Sleep Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safe_sleep_message
+      label: Safe Sleep Message
+      hint: null
+      type: text
+      options: []
+      required: false

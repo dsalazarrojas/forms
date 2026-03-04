@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Assessment Survey
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Enter the full legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: industry_type
+      label: Industry Type
+      hint: Select the primary industry your organization operates in
+      type: select_one
+      options:
+      - Healthcare
+      - Technology
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 3
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total number of full-time and part-time employees
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: years_in_operation
+      label: Years in Operation
+      hint: How many years has your organization been operating
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: annual_revenue_range
+      label: Annual Revenue Range
+      hint: Select your organization annual revenue bracket
+      type: select_one
+      options:
+      - Under $500K
+      - $500K - $1M
+      - $1M - $5M
+      - $5M - $10M
+      - $10M - $50M
+      - Over $50M
+      required: true
+    - id: 6
+      name: organizational_structure
+      label: Organizational Structure
+      hint: How would you describe your current organizational structure
+      type: select_one
+      options:
+      - Flat hierarchy
+      - Traditional hierarchy
+      - Matrix structure
+      - Divisional structure
+      - Team-based structure
+      required: true
+    - id: 7
+      name: employee_satisfaction_rating
+      label: Employee Satisfaction Rating
+      hint: Rate overall employee satisfaction on a scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: turnover_rate
+      label: Annual Employee Turnover Rate
+      hint: Approximate percentage of employees who left in the past year
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: health_safety_concerns
+      label: Primary Health and Safety Concerns
+      hint: Select all areas of concern regarding employee health and safety
+      type: select_multiple
+      options:
+      - Workplace ergonomics
+      - Mental health support
+      - Physical safety equipment
+      - Stress management
+      - Work-life balance
+      - Healthcare benefits
+      - None identified
+      required: true
+    - id: 10
+      name: current_health_programs
+      label: Current Employee Health Programs
+      hint: Select all health programs currently offered
+      type: select_multiple
+      options:
+      - Health insurance
+      - Wellness programs
+      - Mental health counseling
+      - Fitness subsidies
+      - Health screenings
+      - Smoking cessation
+      - None
+      required: true
+    - id: 11
+      name: absenteeism_rate
+      label: Average Monthly Absenteeism Rate
+      hint: Percentage of workdays missed due to illness or other reasons
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: productivity_challenges
+      label: Main Productivity Challenges
+      hint: Select the top challenges affecting productivity
+      type: select_multiple
+      options:
+      - Lack of resources
+      - Poor communication
+      - Inadequate training
+      - Health-related absences
+      - Low morale
+      - Technology issues
+      - Management problems
+      required: true
+    - id: 13
+      name: training_budget_percentage
+      label: Training Budget as Percentage of Payroll
+      hint: What percentage of payroll is allocated to training and development
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: leadership_development_programs
+      label: Leadership Development Programs Available
+      hint: Does your organization offer leadership development
+      type: select_one
+      options:
+      - Yes - comprehensive program
+      - Yes - basic program
+      - No - planning to implement
+      - No - not planned
+      required: true
+    - id: 15
+      name: work_environment_rating
+      label: Work Environment Rating
+      hint: Rate the overall work environment quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: diversity_inclusion_initiatives
+      label: Diversity and Inclusion Initiatives
+      hint: Select all initiatives currently in place
+      type: select_multiple
+      options:
+      - Diversity training
+      - Inclusive hiring practices
+      - Employee resource groups
+      - Mentorship programs
+      - Accessibility accommodations
+      - None currently
+      required: true
+    - id: 17
+      name: technology_infrastructure_rating
+      label: Technology Infrastructure Rating
+      hint: How would you rate your current technology systems
+      type: select_one
+      options:
+      - State-of-the-art
+      - Above average
+      - Adequate
+      - Below average
+      - Outdated
+      required: true
+    - id: 18
+      name: compliance_audit_date
+      label: Last Compliance Audit Date
+      hint: When was your last regulatory compliance audit conducted
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: improvement_priorities
+      label: Top Improvement Priorities
+      hint: Select the top three areas needing immediate improvement
+      type: select_multiple
+      options:
+      - Employee engagement
+      - Health and wellness programs
+      - Technology upgrades
+      - Process optimization
+      - Leadership development
+      - Communication systems
+      - Performance management
+      - Culture transformation
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Please share any additional information about your organizational health
+      type: text
+      options: []
+      required: false

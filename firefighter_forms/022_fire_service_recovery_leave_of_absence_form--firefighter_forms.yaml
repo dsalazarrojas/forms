@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Service Recovery Leave Of Absence Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fire_number
+      label: Fire Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''less_than_1_week'', ''label'': ''Less than 1 week''}'
+      - '{''name'': ''1_2_weeks'', ''label'': ''1-2 weeks''}'
+      - '{''name'': ''3_4_weeks'', ''label'': ''3-4 weeks''}'
+      - '{''name'': ''more_than_4_weeks'', ''label'': ''More than 4 weeks''}'
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''administration'', ''label'': ''Administration''}'
+      - '{''name'': ''fire'', ''label'': ''Fire''}'
+      - '{''name'': ''operations'', ''label'': ''Operations''}'
+      required: true
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''bereavement'', ''label'': ''Bereavement''}'
+      - '{''name'': ''court'', ''label'': ''Court''}'
+      - '{''name'': ''doctor'', ''label'': ''Doctor''}'
+      - '{''name'': ''family'', ''label'': ''Family''}'
+      - '{''name'': ''jury'', ''label'': ''Jury''}'
+      - '{''name'': ''other'', ''label'': ''Other''}'
+      required: true

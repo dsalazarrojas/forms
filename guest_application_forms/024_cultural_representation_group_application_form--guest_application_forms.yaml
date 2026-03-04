@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Representation Group Application Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 12, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 13, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''label'': ''Option 1'', ''value'': ''value1''}'
+      - '{''id'': 15, ''label'': ''Option 2'', ''value'': ''value2''}'
+      - '{''id'': 16, ''label'': ''Option 3'', ''value'': ''value3''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

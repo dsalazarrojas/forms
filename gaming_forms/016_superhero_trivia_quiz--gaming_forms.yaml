@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superhero Trivia Quiz
+    pages:
+    - id: 1
+      name: intro
+      label: super_trivia_quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: superhero_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: score
+      label: trivia_quiz_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: favorite
+      label: favorite_superhero
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: answer1
+      label: answer1
+      hint: null
+      type: select_multiple
+      options:
+      - Super Man
+      - Batman
+      - Superman
+      required: true
+    - id: 7
+      name: answer2
+      label: answer2
+      hint: null
+      type: select_multiple
+      options:
+      - Captain America
+      - Captain Marvel
+      - Captain Marvel
+      required: false
+    - id: 8
+      name: answer3
+      label: answer3
+      hint: null
+      type: select_multiple
+      options:
+      - Wonder Woman
+      - Wonder Girl
+      - Wonder Woman
+      required: true
+    - id: 9
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school
+      label: participant_school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: teacher
+      label: participant_teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: class
+      label: participant_class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: date
+      label: participant_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: participant_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: participant_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_school
+      label: submitter_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_teacher
+      label: submitter_teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_class
+      label: submitter_class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

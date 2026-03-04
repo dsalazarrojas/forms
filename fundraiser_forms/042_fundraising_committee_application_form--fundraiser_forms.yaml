@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Committee Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Staff
+      - Student
+      required: false
+    - id: 5
+      name: volunteer_committee
+      label: Volunteer Committee
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Teacher
+      - School Admin
+      required: false
+    - id: 6
+      name: volunteer_committee_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_grade_level
+      label: School Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_committee_meets
+      label: Time Committee Meets
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: time_committee_meets_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_hours_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: committee_chair_name
+      label: Committee Chair Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: committee_chair_email
+      label: Committee Chair Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: committee_chair_title
+      label: Committee Chair Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: committee_chair_phone
+      label: Committee Chair Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: committee_chair_volunteer_hours
+      label: Committee Chair Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: school_district
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_district_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: committee_chair_additional_comments
+      label: Committee Chair Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

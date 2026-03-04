@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Truck Inspection Form
+    pages:
+    - id: 1
+      name: form_truck_license
+      label: Food Truck License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_length_unit
+      label: Vehicle Length Unit
+      hint: null
+      type: select_one
+      options:
+      - inches
+      - feet
+      - meters
+      required: false
+    - id: 7
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: engine_model
+      label: Engine Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year_unit
+      label: Vehicle Year Unit
+      hint: null
+      type: select_one
+      options:
+      - years
+      - months
+      - weeks
+      required: false
+    - id: 13
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Empty
+      - Not Applicable
+      required: false
+    - id: 14
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gas
+      - Diesel
+      - Hybrid
+      required: false
+    - id: 15
+      name: food_truck_registration
+      label: Food Truck Registration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: driver_experience
+      label: Driver Experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: food_license
+      label: Food License
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: food_truck_inspection_form
+      label: Food Truck Inspection Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

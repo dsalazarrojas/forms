@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Florist Sales Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: customer phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: order type
+      hint: null
+      type: select_one
+      options:
+      - birthday
+      - valentines
+      - anniversary
+      required: false
+    - id: 6
+      name: delivery_date
+      label: delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: delivery time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_note
+      label: order note
+      hint: null
+      type: note
+      options: []
+      required: false

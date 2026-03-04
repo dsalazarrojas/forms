@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult New Patient Enrollment Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: home_address
+      label: Home Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: Enter your city, state, and zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name of your emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone Number
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of your health insurance company
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_physician
+      label: Current Primary Physician
+      hint: Name of your current primary care physician
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: List any chronic conditions or diseases you have
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications_currently_taking
+      label: Medications Currently Taking
+      hint: List all medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: List any known allergies to medications, foods, or environmental factors
+      type: text
+      options: []
+      required: false

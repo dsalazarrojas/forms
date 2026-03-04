@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Place Your Cafe Order --
+      hint: Pre-order for fast pickup or delivery
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: for order updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Pickup - ASAP
+      - Pickup - Scheduled
+      - Dine-in
+      - Local Delivery
+      required: true
+    - id: 5
+      name: scheduled_time
+      label: Scheduled Time for Order
+      hint: if applicable
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: beverage_section_header
+      label: -- Beverages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: espresso_drinks
+      label: Select Coffee (Hot/Cold)
+      hint: null
+      type: select_multiple
+      options:
+      - Espresso
+      - Americano
+      - Latte
+      - Cappuccino
+      - Flat White
+      - Mocha
+      - Cold Brew
+      required: false
+    - id: 8
+      name: milk_preference
+      label: Milk Preference
+      hint: null
+      type: select_one
+      options:
+      - Whole Milk
+      - Skim Milk
+      - Oat Milk
+      - Almond Milk
+      - Soy Milk
+      - No Milk
+      required: true
+    - id: 9
+      name: sweetness_level
+      label: Sweetness / Syrup Add-ons
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vanilla
+      - Caramel
+      - Hazelnut
+      - Sugar (1 pack)
+      - Sugar (2 packs)
+      - Honey
+      required: false
+    - id: 10
+      name: non_coffee_drinks
+      label: Non-Coffee Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - English Breakfast Tea
+      - Green Tea
+      - Chai Latte
+      - Hot Chocolate
+      - Fresh Juice
+      - Smoothies
+      required: false
+    - id: 11
+      name: food_section_header
+      label: -- Food and Snacks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: breakfast_items
+      label: Breakfast Options
+      hint: available until 11am
+      type: select_multiple
+      options:
+      - Avocado Toast
+      - Egg and Bacon Roll
+      - Granola Bowl
+      - Croissant
+      - Muffin
+      required: false
+    - id: 13
+      name: lunch_items
+      label: Lunch Options
+      hint: available from 11am
+      type: select_multiple
+      options:
+      - Chicken Pesto Panini
+      - Quinoa Salad
+      - Soup of the Day
+      - Roast Beef Sandwich
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Order Notes or Dietary Requirements
+      hint: e.g. Extra hot, no onions, gluten-free bread
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_header
+      label: -- Payment and Total --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: total_estimated
+      label: Estimated Total
+      hint: payment will be processed at checkout
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method_pref
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Pay Online (Card)
+      - Pay in Store
+      - Apple/Google Pay
+      required: true
+    - id: 18
+      name: loyalty_number
+      label: Loyalty Program Member Number
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirmation_email
+      label: Email for Order Confirmation
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree Online Donation Form
+    pages:
+    - id: 1
+      name: section_header_donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_company
+      label: Company or Organization
+      hint: Your organization name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_donation_amount
+      label: -- Donation Amount --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_type
+      label: Donation Type
+      hint: Select donation option
+      type: select_one
+      options:
+      - Preset amount
+      - Custom amount
+      - Matching gift
+      required: true
+    - id: 8
+      name: preset_amount
+      label: Select Preset Amount
+      hint: Choose a suggested amount
+      type: select_one
+      options:
+      - 25 dollars
+      - 50 dollars
+      - 100 dollars
+      - 250 dollars
+      - 500 dollars
+      - 1000 dollars
+      - Other amount
+      required: false
+    - id: 9
+      name: custom_amount
+      label: Custom Donation Amount
+      hint: Enter any amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recurring_donation
+      label: Make This a Recurring Donation
+      hint: Support our cause regularly
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly recurring
+      - Annual recurring
+      required: true
+    - id: 11
+      name: section_header_impact
+      label: -- Donation Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: program_support
+      label: Program to Support
+      hint: What should your donation fund
+      type: select_one
+      options:
+      - General operating fund
+      - Education programs
+      - Healthcare initiatives
+      - Emergency relief
+      - Scholarship fund
+      - Research
+      - Community projects
+      - Other
+      required: false
+    - id: 13
+      name: impact_awareness
+      label: Impact Awareness
+      hint: Understand donation impact
+      type: select_one
+      options:
+      - Yes, I want impact updates
+      - No, just process donation
+      required: false
+    - id: 14
+      name: section_header_recognition
+      label: -- Recognition and Tributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tribute_type
+      label: Donate in Honor or Memory of
+      hint: Optional tribute donation
+      type: select_one
+      options:
+      - General donation
+      - In honor of someone
+      - In memory of someone
+      - Corporate matching gift
+      required: false
+    - id: 16
+      name: tribute_name
+      label: Honoree Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: tax_receipt
+      label: Receive Tax Receipt
+      hint: For tax deduction purposes
+      type: select_one
+      options:
+      - Yes, send receipt
+      - No receipt needed
+      required: false
+    - id: 19
+      name: newsletter
+      label: Subscribe to Newsletter
+      hint: Receive updates about our work
+      type: select_one
+      options:
+      - Yes, subscribe
+      - No, unsubscribe
+      required: false
+    - id: 20
+      name: anonymous
+      label: Anonymous Donation
+      hint: Hide donor name
+      type: select_one
+      options:
+      - Public donation
+      - Anonymous donation
+      required: false
+    - id: 21
+      name: donation_final
+      label: I authorize this donation
+      hint: Check to complete donation
+      type: select_one
+      options:
+      - Authorize donation
+      - Cancel
+      required: true

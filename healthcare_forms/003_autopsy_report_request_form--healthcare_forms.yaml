@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autopsy Report Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person requesting the report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_relationship
+      label: Requestor Relationship to Decedent
+      hint: Relationship for authorization purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_contact_phone
+      label: Requestor Contact Phone
+      hint: Best number to reach the requestor
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requestor_email
+      label: Requestor Email
+      hint: Email for sending digital copies if allowed
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: decedent_full_name
+      label: Decedent Full Name
+      hint: Full legal name as recorded
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: decedent_date_of_birth
+      label: Decedent Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: decedent_date_of_death
+      label: Decedent Date of Death
+      hint: Date of death
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: case_number
+      label: Case Number
+      hint: Provide hospital or coroner case identifier if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_purpose
+      label: Purpose of Report Request
+      hint: For example legal, genealogical, insurance
+      type: select_one
+      options:
+      - Legal
+      - Insurance
+      - Family record
+      - Research
+      - Other
+      required: true
+    - id: 10
+      name: copy_delivery_method
+      label: Copy Delivery Method
+      hint: How would you like to receive the report
+      type: select_one
+      options:
+      - Electronic email
+      - Physical mail
+      - In person pickup
+      required: true
+    - id: 11
+      name: authorization_signature
+      label: Authorization Name
+      hint: Typed full name serves as authorization
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

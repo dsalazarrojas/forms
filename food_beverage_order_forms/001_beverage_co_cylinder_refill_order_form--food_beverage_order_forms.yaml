@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage CO₂ Cylinder Refill Order Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company or Business Name
+      hint: Your organization's official name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of the person placing this order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Delivery Address
+      hint: Full street address for cylinder delivery or pickup
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cylinder_type
+      label: Cylinder Size
+      hint: Select the size of CO₂ cylinder you need
+      type: select_one
+      options:
+      - 5 lb cylinder
+      - 10 lb cylinder
+      - 20 lb cylinder
+      - 50 lb cylinder
+      - 100 lb cylinder
+      required: true
+    - id: 9
+      name: quantity
+      label: Number of Cylinders
+      hint: How many cylinders do you need?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: delivery_method
+      label: Delivery Method
+      hint: Choose how you want to receive your order
+      type: select_one
+      options:
+      - Delivery to location
+      - Pickup at warehouse
+      - Courier service
+      required: true
+    - id: 11
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need the cylinders?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_header_account
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: account_number
+      label: Customer Account Number
+      hint: Leave blank if this is your first order
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_supplier
+      label: Previous CO₂ Supplier
+      hint: If applicable, enter your previous supplier name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pricing_option
+      label: Pricing Preference
+      hint: Choose your preferred pricing arrangement
+      type: select_one
+      options:
+      - Standard pricing
+      - Volume discount
+      - Subscription plan
+      - Custom quote
+      required: true
+    - id: 16
+      name: section_header_usage
+      label: -- Usage Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: monthly_usage
+      label: Estimated Monthly Usage (cylinders)
+      hint: How many cylinders do you typically use per month?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: business_type
+      label: Type of Business
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Restaurant or cafe
+      - Bar or nightclub
+      - Retail beverage store
+      - Gas supplier/distributor
+      - Other
+      required: true
+    - id: 19
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information about your order?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Halloween Cosplay Contest Entry Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Virtual Halloween Cosplay Contest Entry Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Halloween Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: Please describe your costume in 200-400 words.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: name
+      label: name
+      hint: Please enter your name.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_image
+      label: submission-image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submission_video
+      label: submission-video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_link
+      label: submission-link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

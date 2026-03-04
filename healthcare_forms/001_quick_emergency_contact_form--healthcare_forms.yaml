@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: quick_emergency_contact_form
+    pages:
+    - id: 1
+      name: emergency_contact_form
+      label: Emergency Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: contact
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone Number
+      - Mobile
+      - Address
+      - City
+      - State
+      - Zip
+      required: false
+    - id: 3
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Patient
+      - Family Member
+      - Friend
+      - Other
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name_phone
+      label: Emergency Contact Phone
+      hint: Enter the phone number of the emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name_email
+      label: Emergency Contact Email
+      hint: Enter the email of the emergency contact
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name_relationship
+      label: Relationship
+      hint: Relationship to the emergency contact
+      type: select_one
+      options:
+      - Family
+      - Friend
+      - Coworker
+      - Other
+      required: false
+    - id: 8
+      name: emergency_contact_name_relationship_others
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_name_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Activity Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: activity_page
+      label: Activity Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Running''}'
+      - '{''value'': ''Hiking''}'
+      - '{''value'': ''Biking''}'
+      required: false
+    - id: 3
+      name: preference_page
+      label: Activity Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Evening''}'
+      - '{''value'': ''Afternoon''}'
+      required: false
+    - id: 4
+      name: time_page
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date_page
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: frequency_page
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: availability_page
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Sunday''}'
+      required: false
+    - id: 8
+      name: duration_page
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: end_page
+      label: End
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: note_page
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

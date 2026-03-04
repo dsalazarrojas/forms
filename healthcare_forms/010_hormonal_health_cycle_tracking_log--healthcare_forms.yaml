@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hormonal Health Cycle Tracking Log
+    pages:
+    - id: 1
+      name: daily_cycle_phases
+      label: Daily Cycle Phases
+      hint: null
+      type: select_one
+      options:
+      - Menstruation
+      - Follicular
+      - Ovulation
+      - Menopause
+      - Postmenopause
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Bloating
+      - Cramps
+      - Moodiness
+      - Breast Tenderness
+      - Fatigue
+      required: false
+    - id: 3
+      name: moods
+      label: Moods
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Sad
+      - Frustrated
+      - Angry
+      - Tired
+      required: false
+    - id: 4
+      name: sleep
+      label: Sleep
+      hint: Hours of sleep
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise
+      label: Exercise
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: medication
+      label: Medication
+      hint: Name of medication
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: water_intake
+      label: Water Intake
+      hint: Water intake in cups
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: diet
+      label: Diet
+      hint: List of food consumed today
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: menstruation_date
+      label: Menstruation Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_period_date
+      label: Last Period Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_period_date
+      label: Next Period Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: current_menstruation_cycle_length
+      label: Menstruation Cycle Length
+      hint: Days
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: symptoms_frequency
+      label: Symptoms Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Stressful
+      - Busy
+      - Fatigued
+      required: false

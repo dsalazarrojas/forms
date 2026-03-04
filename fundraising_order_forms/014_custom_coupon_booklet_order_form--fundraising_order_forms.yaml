@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Coupon Booklet Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Custom Coupon Booklet Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Booklet 1''}'
+      - '{''id'': 2, ''label'': ''Booklet 2''}'
+      - '{''id'': 3, ''label'': ''Booklet 3''}'
+      required: true
+    - id: 6
+      name: shipping
+      label: Shipping
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Standard''}'
+      - '{''id'': 2, ''label'': ''Express''}'
+      - '{''id'': 3, ''label'': ''UPS''}'
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: custom_product
+      label: Custom Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: custom_booklet_type
+      label: Custom Booklet Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: custom_booklet_color
+      label: Custom Booklet Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: custom_booklet_size
+      label: Custom Booklet Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A3''}'
+      - '{''id'': 2, ''label'': ''Letter''}'
+      - '{''id'': 3, ''label'': ''Legal''}'
+      - '{''id'': 4, ''label'': ''Tabloid''}'
+      required: false
+    - id: 23
+      name: custom_booklet_layout
+      label: Custom Booklet Layout
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''2-up''}'
+      - '{''id'': 2, ''label'': ''3-up''}'
+      - '{''id'': 3, ''label'': ''4-up''}'
+      required: false
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms_agreement
+      label: Payment Terms Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Accept''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: true

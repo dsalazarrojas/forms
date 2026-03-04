@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Villain Character Profile
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: alias
+      label: Alias
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: real_name
+      label: Real Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: species
+      label: Species
+      hint: null
+      type: select_multiple
+      options:
+      - Human
+      - Alien
+      - Robot
+      - Monster
+      required: true
+    - id: 6
+      name: powers
+      label: Powers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weaknesses
+      label: Weaknesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

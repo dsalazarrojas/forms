@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eating Disorders Recovery Coaching Request
+    pages:
+    - id: 1
+      name: client_background
+      label: Client Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: What are your goals?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coaching_inquiries
+      label: Coaching Inquiries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recovery_coach
+      label: Recovery Coach
+      hint: null
+      type: select_one
+      options:
+      - Eating Disorder Recovery Coach
+      - General Wellness Coach
+      - Mental Health Coach
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: other_recovery_coach
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

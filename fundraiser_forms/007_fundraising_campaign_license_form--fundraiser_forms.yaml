@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: fundraising_campaign_license_form
+    pages:
+    - id: 1
+      name: fundraising_campaign
+      label: Fundraising Campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: license_start
+      label: License Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: license_end
+      label: License End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Non Profit
+      - Charity
+      - Association
+      - Foundation
+      - Organization
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

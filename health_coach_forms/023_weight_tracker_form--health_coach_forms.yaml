@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Tracker Form
+    pages:
+    - id: 1
+      name: user_weight
+      label: user_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: weight_tracker
+      label: weight_tracker
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tracker_frequency
+      label: tracker_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: tracker_unit
+      label: tracker_unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lbs
+      - oz
+      required: false
+    - id: 5
+      name: tracker_goal
+      label: tracker_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tracker_target
+      label: tracker_target
+      hint: null
+      type: number
+      options: []
+      required: false

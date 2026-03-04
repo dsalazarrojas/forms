@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: guest-house-registration-form
+    pages:
+    - id: 1
+      name: guest_house_name
+      label: guest-house-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_username
+      label: owner-username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: property_location
+      label: property-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: owner-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: property-type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Villa
+      - House
+      - Other
+      required: false
+    - id: 7
+      name: rooms
+      label: rooms
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: price_per_night
+      label: price-per-night
+      hint: Price per night
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: checkin_date
+      label: checkin-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: checkout_date
+      label: checkout-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: property_description
+      label: property-description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising License Request Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Art
+      - Literature
+      - Music
+      - Theater
+      - Dance
+      - Film
+      - Other
+      required: false
+    - id: 7
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Non Profit
+      - For-Profit
+      - Non Profit - Non-Profit
+      - For-Profit - For-Profit
+      required: false
+    - id: 10
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Revoked
+      required: false
+    - id: 11
+      name: license_expires
+      label: License Expires On
+      hint: null
+      type: date
+      options: []
+      required: false

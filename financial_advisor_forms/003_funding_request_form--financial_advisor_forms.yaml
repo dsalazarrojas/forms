@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funding Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funding_amount
+      label: Funding amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: funding_type
+      label: Funding type
+      hint: null
+      type: select_one
+      options:
+      - Option 2
+      - Another Option 2
+      required: false
+    - id: 8
+      name: funding_reason
+      label: Funding reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: funding_status
+      label: Funding status
+      hint: null
+      type: select_multiple
+      options:
+      - In progress
+      - Completed
+      - Pending
+      required: false

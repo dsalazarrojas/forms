@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spell Card Creation Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Spell Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: effects_text
+      label: Effects
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: casting_requirements
+      label: Casting Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rarity
+      label: Rarity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': ''Common''}'
+      - '{''id'': 4.2, ''label'': ''Uncommon''}'
+      - '{''id'': 4.3, ''label'': ''Rare''}'
+      - '{''id'': 4.4, ''label'': ''Legendary''}'
+      required: true
+    - id: 5
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: image_url
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: effects_select
+      label: Effects Select
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: effects_select_other
+      label: Other Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

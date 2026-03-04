@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: reflexology_consultation_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: health_problem
+      label: Health Problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: field_8
+      label: Field 8
+      hint: null
+      type: text
+      options: []
+      required: false

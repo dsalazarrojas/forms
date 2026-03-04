@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Awareness Course Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Affiliation
+      hint: Company, school, or organization name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: professional_background
+      label: Professional Background
+      hint: Healthcare, education, business, other
+      type: select_one
+      options:
+      - Healthcare Professional
+      - Educator
+      - Business Professional
+      - Government Official
+      - Non-profit Staff
+      - Student
+      - Other
+      required: true
+    - id: 7
+      name: course_start_date
+      label: Preferred Course Start Date
+      hint: When would you like to begin?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: course_format
+      label: Preferred Learning Format
+      hint: null
+      type: select_one
+      options:
+      - Online Synchronous
+      - Online Asynchronous
+      - In-person
+      - Hybrid
+      - No preference
+      required: true
+    - id: 9
+      name: time_commitment
+      label: Hours Per Week You Can Commit
+      hint: Estimated availability for coursework
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: learning_objectives
+      label: What do you hope to learn from this course?
+      hint: Describe your learning goals
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_covid_training
+      label: Previous COVID-19 Training or Education
+      hint: Have you taken any related courses?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 12
+      name: training_topics_completed
+      label: Topics You Have Studied Before
+      hint: If yes, what did you learn about?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: specific_interests
+      label: Specific Areas of Interest
+      hint: Select all topics that interest you
+      type: select_multiple
+      options:
+      - COVID-19 Transmission and Prevention
+      - Vaccination Information and Safety
+      - Treatment Options and Therapeutics
+      - Long-term Health Effects
+      - Mental Health and Wellness
+      - Public Health Policies
+      - Workplace Safety Protocols
+      - Community Education
+      required: false
+    - id: 14
+      name: professional_application
+      label: How Will You Apply This Knowledge Professionally?
+      hint: Describe your intended use
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reach_others
+      label: Will You Share This Knowledge with Others?
+      hint: In your organization or community
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Maybe
+      - 'No'
+      required: false
+    - id: 16
+      name: technology_access
+      label: Access to Required Technology
+      hint: Do you have reliable internet and equipment?
+      type: select_one
+      options:
+      - 'Yes'
+      - Mostly
+      - Limited access
+      - 'No'
+      required: true
+    - id: 17
+      name: language_preference
+      label: Preferred Language of Instruction
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations you may need?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: questions_concerns
+      label: Questions or Concerns About the Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: commitment_agreement
+      label: I commit to completing this course and actively participating
+      hint: Acknowledge your commitment
+      type: select_one
+      options:
+      - Yes, I commit
+      - Uncertain
+      - No, I cannot commit
+      required: true
+    - id: 21
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

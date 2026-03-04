@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Graduation Checklist Form
+    pages:
+    - id: 1
+      name: graduation_form_fields
+      label: Graduation Form Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: graduation_date
+      label: Graduation Date
+      hint: Enter your expected graduation date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: graduation_status
+      label: Graduation Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Eligible
+      - Ineligible
+      - Not Applied
+      required: false
+    - id: 7
+      name: submitted_documents
+      label: Submitted Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Transcript
+      - GPA Report
+      - Diploma
+      - Certificate
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Advisor
+      - Dean
+      - Other
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

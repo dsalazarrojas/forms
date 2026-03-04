@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Statement Approval Form
+    pages:
+    - id: 1
+      name: financial_statement_form
+      label: financial_statement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_financial_statement
+      label: date_of_financial_statement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: approved_by_label
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approved_by_email
+      label: approved_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: financial_statement_attachment
+      label: financial_statement_attachment
+      hint: null
+      type: text
+      options: []
+      required: false

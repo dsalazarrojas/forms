@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Plan Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any existing medical conditions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: List any allergies
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: List any current medications
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: Time of consent
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: provider_info
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_facility
+      label: Treatment Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: text
+      options: []
+      required: false

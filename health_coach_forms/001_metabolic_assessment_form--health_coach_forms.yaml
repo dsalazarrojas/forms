@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metabolic Assessment Form
+    pages:
+    - id: 1
+      name: metabolic_assessment_form_page
+      label: metabolic_assessment_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: metabolic_rate_question
+      label: rate_at_which_you_burn_calories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: metabolic_burning_rate
+      label: metabolic_burning_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exercise_frequency
+      label: how_much_time_do_you_spend_exercising
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: sleep_hours
+      label: how_much_sleep_do_you_get
+      hint: null
+      type: number
+      options: []
+      required: false

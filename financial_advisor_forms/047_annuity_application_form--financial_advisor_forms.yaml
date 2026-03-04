@@ -1,0 +1,314 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annuity Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Applicant full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: social_security
+      label: Social Security Number
+      hint: SSN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: citizenship_status
+      label: Citizenship Status
+      hint: Are you a US citizen?
+      type: select_one
+      options:
+      - US Citizen
+      - US Resident Alien
+      - Non-Resident Alien
+      required: true
+    - id: 8
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 9
+      name: spouse_name
+      label: Spouse Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spouse_dob
+      label: Spouse Date of Birth
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: beneficiary_name
+      label: Primary Beneficiary
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: beneficiary_relationship
+      label: Beneficiary Relationship
+      hint: Relationship to you
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Other Family
+      - Trust
+      - Other
+      required: true
+    - id: 13
+      name: beneficiary_percentage
+      label: Beneficiary Percentage
+      hint: Percentage allocation
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: annuity_type
+      label: Annuity Type
+      hint: Select type
+      type: select_one
+      options:
+      - Fixed Annuity
+      - Variable Annuity
+      - Indexed Annuity
+      - Immediate Annuity
+      - Deferred Annuity
+      - Longevity Annuity
+      required: true
+    - id: 15
+      name: premium_amount
+      label: Premium Amount
+      hint: Investment amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often?
+      type: select_one
+      options:
+      - Single Premium
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 17
+      name: payout_option
+      label: Payout Option
+      hint: How to receive payments?
+      type: select_one
+      options:
+      - Life Only
+      - Life with Period Certain
+      - Joint and Survivor
+      - Systematic Withdrawal
+      - Lump Sum
+      required: true
+    - id: 18
+      name: payout_start_date
+      label: Payout Start Date
+      hint: When to begin?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: employment_status
+      label: Employment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Retired
+      - Unemployed
+      - Disabled
+      - Homemaker
+      - Student
+      required: true
+    - id: 20
+      name: annual_income
+      label: Annual Income
+      hint: Approximate income
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000-$50,000
+      - $50,001-$75,000
+      - $75,001-$100,000
+      - $100,001-$200,000
+      - Over $200,000
+      required: true
+    - id: 21
+      name: net_worth
+      label: Net Worth
+      hint: Excluding home
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000-$100,000
+      - $100,001-$250,000
+      - $250,001-$500,000
+      - $500,001-$1,000,000
+      - Over $1,000,000
+      required: true
+    - id: 22
+      name: investment_experience
+      label: Investment Experience
+      hint: Your experience level
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 23
+      name: investment_objective
+      label: Investment Objective
+      hint: Primary goal
+      type: select_one
+      options:
+      - Income
+      - Growth
+      - Preservation
+      - Tax Deferral
+      - Legacy Planning
+      required: true
+    - id: 24
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: Your comfort level
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      required: true
+    - id: 25
+      name: existing_annuities
+      label: Existing Annuities
+      hint: Do you own other annuities?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: like_kind_exchange
+      label: Like-Kind Exchange
+      hint: Is this a 1035 exchange?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: insurance_producer
+      label: Insurance Producer
+      hint: Agent name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: producer_license
+      label: Producer License Number
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: suitability_review
+      label: Suitability Review
+      hint: Has suitability been reviewed?
+      type: select_one
+      options:
+      - Yes, Completed
+      - Pending
+      required: true
+    - id: 30
+      name: disclosures_read
+      label: Disclosures Read
+      hint: Have you read all disclosures?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - false
+      required: true
+    - id: 32
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

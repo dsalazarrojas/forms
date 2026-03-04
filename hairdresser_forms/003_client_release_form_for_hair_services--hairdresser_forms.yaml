@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Release Form For Hair Services
+    pages:
+    - id: 1
+      name: client_information_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: hair_condition_section
+      label: -- Hair Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hair_type
+      label: Current hair type
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Combination
+      required: true
+    - id: 8
+      name: hair_condition
+      label: Current hair condition
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Dry
+      - Oily
+      - Damaged
+      - Colored/Processed
+      required: true
+    - id: 9
+      name: scalp_sensitivity
+      label: Scalp sensitivity
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 10
+      name: allergies_section
+      label: -- Allergies and Sensitivities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: known_allergies
+      label: Known allergies to hair products
+      hint: List any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergic_reactions
+      label: Have you had allergic reactions to hair services before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 13
+      name: medications
+      label: Are you taking medications that may affect hair services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: treatments_section
+      label: -- Planned Treatments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: planned_services
+      label: Services you are requesting
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cut
+      - Color
+      - Perm
+      - Relaxer
+      - Straightening
+      - Extensions
+      - Styling
+      - Other
+      required: true
+    - id: 16
+      name: first_time_service
+      label: Is this your first time getting this service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: release_acknowledgment
+      label: I understand and accept the risks associated with these hair services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: waiver_agreement
+      label: I agree that the salon is not responsible for any adverse reactions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional notes or concerns
+      hint: Optional
+      type: text
+      options: []
+      required: false

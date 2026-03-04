@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazardous Material Handling Checklist Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_job_title
+      label: Employee Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_hazmat_handling
+      label: Date of Hazmat Handling
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: quantity_hazmat_handled
+      label: Quantity of Hazmat Handled
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: location_of_handling
+      label: Location of Handling
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: personal_protection_equipment_used
+      label: Personal Protection Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - Respiratory protection
+      - Gloves
+      - Safety glasses
+      - Face shield
+      required: true
+    - id: 8
+      name: spill_procedure_followed
+      label: Spill Procedure Followed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: spill_containment_procedure_followed
+      label: Spill Containment Procedure Followed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: spill_clean_up_procedure_followed
+      label: Spill Clean Up Procedure Followed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: personal_protection_equipment_in_good_working_condition
+      label: Personal Protection Equipment in Good Working Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Respiratory protection
+      - Gloves
+      - Safety glasses
+      - Face shield
+      - Head protection
+      - Face protection
+      - Foot protection
+      - Hand protection
+      required: true

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Case Review Acknowledgement Form
+    pages:
+    - id: 1
+      name: patient_case_review_acknowledgement
+      label: Patient Case Review Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''I understand the case review process''}'
+      - '{''option2'': ''I do not understand the case review process''}'
+      - '{''option3'': ''Other (please specify)''}'
+      required: true
+    - id: 2
+      name: acknowledgement_of_case_review_process
+      label: Acknowledgement of Case Review Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_case_review_conference_call
+      label: Patient Case Review Conference Call
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''I would like to schedule a conference call with the patient''}'
+      - '{''option2'': ''I have already scheduled a conference call with the patient''}'
+      - '{''option3'': ''I do not need to schedule a conference call with the patient''}'
+      required: true
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Phone calls''}'
+      - '{''option2'': ''Email''}'
+      - '{''option3'': ''Text messages''}'
+      required: true
+    - id: 7
+      name: language_preferences
+      label: Language Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''English''}'
+      - '{''option2'': ''Spanish''}'
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

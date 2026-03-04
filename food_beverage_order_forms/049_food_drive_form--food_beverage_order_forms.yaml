@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Drive Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: food
+      label: Food
+      hint: null
+      type: select_multiple
+      options:
+      - Bread
+      - Fruits
+      - Vegetables
+      - Proteins
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: toiletries
+      label: Toiletries
+      hint: null
+      type: select_multiple
+      options:
+      - Toothbrush
+      - Toothpaste
+      - Shampoo
+      - Soap
+      required: true
+    - id: 7
+      name: baby_items
+      label: Baby items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: app_sync
+      label: Sync submissions with 100+ apps
+      hint: null
+      type: note
+      options: []
+      required: true

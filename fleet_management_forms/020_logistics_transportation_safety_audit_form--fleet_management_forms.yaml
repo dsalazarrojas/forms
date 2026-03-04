@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Transportation Safety Audit Form
+    pages:
+    - id: 1
+      name: fleet_manager
+      label: Fleet Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Truck
+      - Tractor
+      - Tractor Trailer
+      required: false
+    - id: 4
+      name: safety_check_date
+      label: Safety Check Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: safety_check_location
+      label: Safety Check Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_check_notes
+      label: Safety Check Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: vehicle_status_note
+      label: Vehicle Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: safety_check_note
+      label: Safety Check Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: carrier_info
+      label: Carrier Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: driver_phone_number
+      label: Driver Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: carrier_signature
+      label: Carrier Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: fleet_inspector
+      label: Fleet Inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_model
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: safety_check_status
+      label: Safety Check Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: safety_check_status_note
+      label: Safety Check Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

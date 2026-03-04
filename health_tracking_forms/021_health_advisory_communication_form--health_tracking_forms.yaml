@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Advisory Communication Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: health_status
+      label: Health Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: health_advisory
+      label: Health Advisory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_info
+      label: Follow-up Info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dr. Smith''}'
+      - '{''value'': ''Dr. Johnson''}'
+      - '{''value'': ''Dr. Lee''}'
+      required: true
+    - id: 10
+      name: medical_team_note
+      label: Medical Team Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_signature
+      label: Healthcare Provider Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_zip
+      label: Patient Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_country
+      label: Patient Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

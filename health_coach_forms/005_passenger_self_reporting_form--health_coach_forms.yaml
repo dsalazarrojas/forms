@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Self Reporting Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: Have you travelled in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': ''Yes''}'
+      - '{''value'': False, ''label'': ''No''}'
+      required: false

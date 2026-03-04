@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Equipment Calibration Request Form
+    pages:
+    - id: 1
+      name: gamer_equipment_calibration_request_form_data
+      label: Gamer Equipment Calibration Request Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_type
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Gaming Console
+      - PC Component
+      required: false
+    - id: 3
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: game_version
+      label: Game Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: calibration_frequency
+      label: Calibration Frequency
+      hint: How often does the equipment need to be calibrated?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 6
+      name: calibration_location
+      label: Calibration Location
+      hint: Where does the calibration need to be performed?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Complete
+      required: false
+    - id: 8
+      name: calibration_notes
+      label: Calibration Notes
+      hint: Additional notes about the calibration
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: gamer_equipment_calibration_request_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

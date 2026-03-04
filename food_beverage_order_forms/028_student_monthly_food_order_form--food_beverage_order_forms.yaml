@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Monthly Food Order Form
+    pages:
+    - id: 1
+      name: meal_plan
+      label: Student Meal Plan
+      hint: null
+      type: select_one
+      options:
+      - Burger
+      - Salad
+      - Soup
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: food_preferences
+      label: Food Preferences
+      hint: List any food allergies or preferences (e.g., gluten-free, vegan)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: meal_plan_id
+      label: Meal Plan ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: meal_plan
+      label: Select Meal Plan
+      hint: null
+      type: select_one
+      options:
+      - Regular Meal Plan
+      - Premium Meal Plan
+      - Diet Meal Plan
+      required: false
+    - id: 8
+      name: meal_plan_description
+      label: Meal Plan Description
+      hint: null
+      type: text
+      options: []
+      required: false

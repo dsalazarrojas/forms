@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: mobile_game_daily_check_in_tracker
+    pages:
+    - id: 1
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mobile Game''}'
+      - '{''id'': 2, ''name'': ''PC Game''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: platform
+      label: Platform
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Console''}'
+      - '{''id'': 2, ''name'': ''PC''}'
+      - '{''id'': 3, ''name'': ''Mobile''}'
+      - '{''id'': 4, ''name'': ''Online''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: play_time
+      label: Play Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: streak
+      label: Streak
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: progress
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: played_today
+      label: Played Today
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Takeout Subscription Sign Up
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None, ''label'': ''Option 1''}'
+      - '{''option2'': None, ''label'': ''Option 2''}'
+      - '{''option3'': None, ''label'': ''Option 3''}'
+      required: false
+    - id: 10
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None, ''label'': ''Option 1''}'
+      - '{''option2'': None, ''label'': ''Option 2''}'
+      required: false
+    - id: 11
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None, ''label'': ''Option 1''}'
+      - '{''option2'': None, ''label'': ''Option 2''}'
+      required: false
+    - id: 12
+      name: delivery_window
+      label: Delivery Window
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None, ''label'': ''Option 1''}'
+      - '{''option2'': None, ''label'': ''Option 2''}'
+      required: false

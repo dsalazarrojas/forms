@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respiratory Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: respiratory_symptoms
+      label: Respiratory Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergy_list
+      label: Allergy List
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_medications_list
+      label: Current Medications List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: respiratory_status
+      label: Respiratory Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: respiratory_rate_units
+      label: Respiratory Rate Units
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 14
+      name: respiratory_rate_value
+      label: Respiratory Rate Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: breathing_rate
+      label: Breathing Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: breathing_rate_units
+      label: Breathing Rate Units
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 17
+      name: breathing_rate_value
+      label: Breathing Rate Value
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: oxygen_flow
+      label: Oxygen Flow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: oxygen_flow_value
+      label: Oxygen Flow Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_list
+      label: Medical Condition List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: respiratory_condition
+      label: Respiratory Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: respiratory_condition_other
+      label: Respiratory Condition Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: respiratory_status_other
+      label: Respiratory Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

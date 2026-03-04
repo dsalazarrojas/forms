@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Whole Chicken Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: whole_chicken_count
+      label: whole_chicken_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: side_of_chicken
+      label: side_of_chicken
+      hint: null
+      type: select_one
+      options:
+      - left
+      - right
+      - breast
+      - leg
+      - wing
+      required: false
+    - id: 4
+      name: sauce
+      label: sauce
+      hint: null
+      type: select_multiple
+      options:
+      - bbq
+      - ranch
+      - honey mustard
+      - buffalo
+      required: false
+    - id: 5
+      name: pick_up_time
+      label: pick_up_time
+      hint: null
+      type: date
+      options: []
+      required: false

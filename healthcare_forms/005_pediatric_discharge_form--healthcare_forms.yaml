@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Discharge Form
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_care
+      label: Follow-Up Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medications_dosage
+      label: Medications Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false

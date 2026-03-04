@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neoplasia Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tumor_info
+      label: Tumor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_info
+      label: Treatment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_info
+      label: Medication Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: neoplasm_info
+      label: Neoplasm Info
+      hint: null
+      type: text
+      options: []
+      required: false

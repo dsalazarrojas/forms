@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Survey
+    pages:
+    - id: 1
+      name: general_health
+      label: General Health
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: anxiety_depression
+      label: Anxiety and Depression
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Depression
+      - Neither
+      required: false
+    - id: 3
+      name: self_care
+      label: Self-Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_support
+      label: Social Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mental_health_professional_help
+      label: Mental Health Professional Help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_professional_name
+      label: Mental Health Professional Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knee Pain Treatment Options Survey
+    pages:
+    - id: 1
+      name: treatment_options
+      label: Treatment options
+      hint: null
+      type: select_multiple
+      options:
+      - Physical therapy
+      - Medications
+      - Surgeries
+      required: false
+    - id: 2
+      name: pain_level
+      label: Pain level
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: current_treatment
+      label: Current treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_experience
+      label: Patient experience
+      hint: Describe your experience with your current treatment
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_treatment
+      label: Preferred treatment
+      hint: null
+      type: select_one
+      options:
+      - Physical prophets
+      - Medicine
+      - Surgery
+      required: false
+    - id: 6
+      name: treatment_outcome
+      label: Treatment outcome
+      hint: null
+      type: select_one
+      options:
+      - Effective
+      - Ineffective
+      - Unknown
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow up
+      hint: Date of follow up appointment
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next steps
+      hint: null
+      type: select_multiple
+      options:
+      - Continue with current treatment
+      - Switch to new treatment
+      - Stop current treatment
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: Follow up date
+      hint: Date of follow up appointment
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_doctor
+      label: Follow up doctor
+      hint: null
+      type: select_one
+      options:
+      - Primary care physician
+      - Specialist
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medication_side_effects
+      label: Medication side effects
+      hint: List any side effects from medications
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: surgery_risks
+      label: Surgery risks
+      hint: List any risks associated with surgery
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: surgery_success_rate
+      label: Surgery success rate
+      hint: Success rate of surgery
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: patient_satisfaction
+      label: Patient satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: follow_up_nurse
+      label: Follow up nurse
+      hint: Who will follow up with patient after surgery
+      type: select_one
+      options:
+      - Nurse Practitioner
+      - Physician Assistant
+      required: false
+    - id: 18
+      name: follow_up_location
+      label: Follow up location
+      hint: Where will follow up take place after surgery
+      type: select_one
+      options:
+      - Clinic
+      - Hospital
+      required: false
+    - id: 19
+      name: treatment_duration
+      label: Treatment duration
+      hint: Number of treatment sessions
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: medication_dosage
+      label: Medication dosage
+      hint: Dosage of medication per session
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: medication_frequency
+      label: Medication frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Twice a day
+      required: false
+    - id: 22
+      name: surgery_type
+      label: Surgery type
+      hint: null
+      type: select_one
+      options:
+      - Arthroscopic
+      - Open surgical
+      required: false
+    - id: 23
+      name: follow_up_duration
+      label: Follow up duration
+      hint: Length of follow up appointment
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_timeframe
+      label: Follow up timeframe
+      hint: Follow up appointment time frame
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_provider
+      label: Follow up provider
+      hint: Follow up provider after surgery
+      type: select_one
+      options:
+      - Physician
+      - Nurse Practitioner
+      required: false

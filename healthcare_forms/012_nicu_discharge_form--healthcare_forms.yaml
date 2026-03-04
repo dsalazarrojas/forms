@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: NICU Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mother_name
+      label: mother_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: mother_name_phone
+      label: mother_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mother_name_email
+      label: mother_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_instructions
+      label: follow_up_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_instructions
+      label: medication_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discharge_diagnosis
+      label: discharge_diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Acute respiratory distress syndrome
+      - Pneumonia
+      - Sepsis
+      - Other
+      - None
+      required: false
+    - id: 12
+      name: discharge_diagnosis_other
+      label: other_diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_visit
+      label: follow_up_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_doctor_phone
+      label: follow_up_doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_doctor
+      label: follow_up_doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_doctor_phone
+      label: follow_up_doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_doctor_email
+      label: follow_up_doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_doctor_other
+      label: follow_up_doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_doctor_other_phone
+      label: follow_up_doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_doctor_other_email
+      label: follow_up_doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_doctor_other_phone
+      label: follow_up_doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hospital_location
+      label: hospital_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: follow_up_doctor_phone_2
+      label: follow_up_doctor_2_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_doctor_email_2
+      label: follow_up_doctor_2_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_doctor_phone_2
+      label: follow_up_doctor_2
+      hint: null
+      type: text
+      options: []
+      required: false

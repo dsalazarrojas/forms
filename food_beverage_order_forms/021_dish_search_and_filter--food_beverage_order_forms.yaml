@@ -1,0 +1,151 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: dish_search_and_filter
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_preferences
+      label: search_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Meat-lover
+      required: true
+    - id: 3
+      name: ingredient_1
+      label: favorite_ingredient_1
+      hint: null
+      type: select_one
+      options:
+      - Chicken
+      - Beef
+      - Fish
+      required: false
+    - id: 4
+      name: cooking_method
+      label: cooking_method
+      hint: null
+      type: select_one
+      options:
+      - Grilling
+      - Baking
+      - Searing
+      required: false
+    - id: 5
+      name: diet_type
+      label: diet_type
+      hint: null
+      type: select_one
+      options:
+      - Keto
+      - Low-Carb
+      - Gluten-Free
+      required: false
+    - id: 6
+      name: recipe_filters_1
+      label: recipe_filters_1
+      hint: null
+      type: select_multiple
+      options:
+      - Savory
+      - Sweet
+      - Savory-Sweet
+      required: false
+    - id: 7
+      name: recipe_filters_2
+      label: recipe_filters_2
+      hint: null
+      type: select_multiple
+      options:
+      - Quick-Service
+      - Slow-Cooker
+      - One-Pot
+      required: false
+    - id: 8
+      name: meal_type
+      label: meal_type
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 9
+      name: cuisine
+      label: cuisine
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: serving_size
+      label: serving_size
+      hint: null
+      type: select_one
+      options:
+      - Serves 1-2
+      - Serves 3-4
+      - Serves 5+
+      required: false
+    - id: 11
+      name: cooking_time
+      label: cooking_time
+      hint: null
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      required: false
+    - id: 12
+      name: difficulty_level
+      label: difficulty_level
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: false
+    - id: 13
+      name: dish_name
+      label: dish_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: ingredients
+      label: ingredients
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

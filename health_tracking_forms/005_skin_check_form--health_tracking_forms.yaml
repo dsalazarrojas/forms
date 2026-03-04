@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Check Form
+    pages:
+    - id: 1
+      name: skin_concerns
+      label: Skin concerns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skin_concerns_important
+      label: Which is the most important concern?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 4
+      name: date_last_examined
+      label: Date last examined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_last_examined
+      label: Time last examined
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: skin_findings
+      label: Skin findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skin_findings_important
+      label: Most important finding
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 8
+      name: treatment_planned
+      label: Treatment planned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_next_examined
+      label: Date next examined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_next_examined
+      label: Time next examined
+      hint: null
+      type: time
+      options: []
+      required: false

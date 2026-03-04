@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: massage_consent_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: massage_type
+      label: Massage Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: consent
+      label: I hereby consent to
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: therapist_license
+      label: Therapist License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: massage_location
+      label: Massage Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: massage_time
+      label: Massage Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

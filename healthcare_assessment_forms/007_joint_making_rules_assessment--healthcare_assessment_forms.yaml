@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joint Making Rules Assessment
+    pages:
+    - id: 1
+      name: joint_making_rules_assessment
+      label: What are the most important rules when making joints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wood_awareness
+      label: Wood awareness and preparation
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: glue_selection
+      label: Glue selection
+      hint: null
+      type: select_multiple
+      options:
+      - PVA
+      - Epoxy
+      - Polyurethane
+      - Acrylic
+      required: false
+    - id: 4
+      name: glue_application
+      label: Glue application techniques
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confidence_woodworking_joints
+      label: Confidence in woodworking joints
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: confidence_joints_technique
+      label: Confidence in joints technique
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: confidence_joint_construction
+      label: Confidence in joint construction
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: written_explanations
+      label: Written explanations
+      hint: Please explain the reasons for your answer.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

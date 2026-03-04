@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interests
+      label: interests
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Arts
+      - Hobbies
+      required: true
+    - id: 10
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - Spanish
+      - English
+      - Italian
+      - French
+      - German
+      required: true
+    - id: 11
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Artist
+      - Engineer
+      - Scientist
+      required: true
+    - id: 12
+      name: job
+      label: job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: position
+      label: position
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Worker
+      required: false
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      required: false
+    - id: 16
+      name: subdepartment
+      label: subdepartment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - Head of Department
+      - Manager
+      - Supervisor
+      required: false
+    - id: 18
+      name: team
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Team
+      - Marketing Team
+      - Engineering Team
+      required: true
+    - id: 19
+      name: team2
+      label: team2
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Team
+      - Marketing Team
+      - Engineering Team
+      - Development Team
+      required: false
+    - id: 20
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: job2
+      label: job2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job3
+      label: job3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_coach_assessment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coaching_certification
+      label: Coaching certification
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not certified
+      - Certified, but in training
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Years of experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: prophets_and_pioneers_id
+      label: Prophets & Pioneers ID
+      hint: null
+      type: number
+      options: []
+      required: false

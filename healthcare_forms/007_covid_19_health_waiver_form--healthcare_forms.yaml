@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Health Waiver Form
+    pages:
+    - id: 1
+      name: section_patient_identification
+      label: -- Patient Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_vaccine_interest
+      label: -- COVID-19 Vaccine Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_interest
+      label: Are you interested in receiving the COVID-19 vaccine?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, maybe
+      - No, not at this time
+      - Unsure
+      required: true
+    - id: 9
+      name: vaccine_reason
+      label: What is the primary reason for your decision?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_health_status
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: known_allergies
+      label: Do you have allergies to vaccine components?
+      hint: null
+      type: select_one
+      options:
+      - No known allergies
+      - Allergies to eggs
+      - Allergies to gelatin
+      - Other allergies
+      required: true
+    - id: 12
+      name: allergies_detail
+      label: Please describe your allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: chronic_conditions
+      label: Do you have any chronic health conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart disease
+      - Lung disease
+      - Kidney disease
+      - Liver disease
+      - Cancer
+      - Immunocompromised
+      - None
+      required: true
+    - id: 14
+      name: medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Are you currently pregnant or breastfeeding?
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - false
+      - Yes, pregnant
+      - Yes, breastfeeding
+      required: true
+    - id: 16
+      name: section_acknowledgment
+      label: -- Acknowledgment and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: read_information
+      label: I have read and received information about the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: understand_risks
+      label: I understand the potential benefits and risks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: waiver_acceptance
+      label: I waive any liability and accept responsibility for my health decision
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Do not accept
+      required: true
+    - id: 20
+      name: waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: witness_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false

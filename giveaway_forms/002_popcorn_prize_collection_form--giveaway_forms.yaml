@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Popcorn Prize Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prize_details
+      label: Prize Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: winner_confirmation
+      label: Winner Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I am the winner
+      - I am not the winner
+      required: true
+    - id: 7
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup at store
+      - Ship to winner
+      - Other (please describe)
+      required: false
+    - id: 8
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true

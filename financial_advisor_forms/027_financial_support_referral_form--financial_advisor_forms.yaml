@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Support Referral Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: financial_assistance_program
+      label: Financial Assistance Program
+      hint: null
+      type: select_multiple
+      options:
+      - Social Services
+      - Financial Aid
+      - Other
+      required: false
+    - id: 6
+      name: financial_assistance_program_other
+      label: Other Financial Assistance Program
+      hint: null
+      type: text
+      options: []
+      required: false

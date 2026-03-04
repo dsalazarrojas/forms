@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Speed Questionnaire
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visual_symptoms
+      label: Visual Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Dry eye
+      - Blurred vision
+      - Flashes
+      - Double vision
+      - Redness
+      - Eye pain
+      - Halos
+      - Pulsating light
+      - Difficulty seeing at night
+      - Difficulty driving
+      required: false
+    - id: 3
+      name: visual_acuity
+      label: Visual Acuity
+      hint: null
+      type: select_one
+      options:
+      - 20/20
+      - 20/25
+      - 20/30
+      - 20/35
+      - 20/40
+      - 20/45
+      - 20/50
+      - 20/60
+      - 20/70
+      - 20/80
+      - 20/100
+      required: false
+    - id: 4
+      name: tear_reflex
+      label: Tear Reflex
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Diminished
+      - Absent
+      required: false
+    - id: 5
+      name: tear_breakup
+      label: Tear Breakup
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Minimal
+      - Present
+      required: false
+    - id: 6
+      name: photocephalos
+      label: Photocephalos
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Minimal
+      - Present
+      required: false
+    - id: 7
+      name: tear_distribution
+      label: Tear Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Minimal
+      - Present
+      required: false
+    - id: 8
+      name: tear_quality
+      label: Tear Quality
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: tear_stability
+      label: Tear Stability
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Stable
+      - Unstable
+      required: false
+    - id: 10
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Favorable
+      - Favorable with limitations
+      - Unfavorable
+      required: false

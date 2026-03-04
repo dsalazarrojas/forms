@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Profit Margin Calculator
+    pages:
+    - id: 1
+      name: revenue
+      label: revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: cost_of_goods_sold
+      label: cost_of_goods_sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: operating_expenses
+      label: operating_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: other_expenses
+      label: other_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: net_profit
+      label: net_profit
+      hint: null
+      type: select_multiple
+      options:
+      - Net Profit
+      - Operating Loss
+      - Operating Profit
+      required: false
+    - id: 6
+      name: calculation_type
+      label: calculation_type
+      hint: null
+      type: select_one
+      options:
+      - Gross Profit
+      - Gross Profit Margin
+      - Operating Profit Margin
+      required: false
+    - id: 7
+      name: calculation
+      label: calculation
+      hint: null
+      type: note
+      options: []
+      required: false

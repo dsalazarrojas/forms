@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Event Time Off Form
+    pages:
+    - id: 1
+      name: event_title
+      label: Fundraising Event Time Off Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time_off_start_date
+      label: Time Off Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_off_end_date
+      label: Time Off End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_off_time
+      label: Time Off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - Charity
+      - Donation
+      required: false
+    - id: 10
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      required: false
+    - id: 11
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false

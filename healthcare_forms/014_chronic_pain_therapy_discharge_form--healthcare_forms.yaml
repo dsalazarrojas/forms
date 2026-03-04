@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Therapy Discharge Form
+    pages:
+    - id: 1
+      name: header_administrative
+      label: -- Administrative Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: therapist_name
+      label: Lead Therapist/Clinician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: header_summary
+      label: -- Treatment Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: initial_pain_score
+      label: Pain Score at Admission (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: discharge_pain_score
+      label: Pain Score at Discharge (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: primary_goals_achieved
+      label: Were the primary treatment goals achieved?
+      hint: null
+      type: select_one
+      options:
+      - Fully Achieved
+      - Partially Achieved
+      - Not Achieved
+      required: true
+    - id: 10
+      name: functional_improvement_summary
+      label: Summary of Functional Improvements
+      hint: Describe changes in mobility, activity, or daily living
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: header_discharge_plan
+      label: -- Discharge Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: discharge_reason
+      label: Reason for Discharge
+      hint: null
+      type: select_one
+      options:
+      - Goals Met
+      - Patient Withdrew
+      - Maximum Benefit Reached
+      - Transfer of Care
+      - Insurance Limitations
+      required: true
+    - id: 13
+      name: home_exercise_program
+      label: Home Exercise Program Provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 14
+      name: follow_up_recommendations
+      label: Recommendations for Follow-up Care
+      hint: e.g., Return in 6 months, follow up with PCP, continue aquatic therapy
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: equipment_dispensed
+      label: Equipment or Supplies Dispensed at Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_understanding_confirmed
+      label: Patient confirms understanding of discharge instructions
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hormone Therapy Informed Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: therapy_prophets
+      label: Therapy Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 1mg
+      - 1.25mg
+      - 1.5mg
+      - 2mg
+      - 4mg
+      required: true
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

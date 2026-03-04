@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Dispenser Filter Order Form
+    pages:
+    - id: 1
+      name: section_header_business
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Your restaurant, cafe, or facility name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Restaurant
+      - Cafe or coffee shop
+      - Hotel
+      - Office facility
+      - Retail location
+      - Event venue
+      - Other
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person Name
+      hint: Name of the person placing this order
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For order confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: For order updates and delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_dispenser
+      label: -- Dispenser Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dispenser_model
+      label: Dispenser Model Number
+      hint: Check your dispenser for the model number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dispenser_brand
+      label: Dispenser Brand
+      hint: Manufacturer or brand name
+      type: select_one
+      options:
+      - Cornelius
+      - Fettle
+      - Elkay
+      - Sunroc
+      - Waterlogic
+      - Brita
+      - Other
+      required: true
+    - id: 10
+      name: number_of_dispensers
+      label: Number of Dispensers to Service
+      hint: How many dispensers need filters?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_filter
+      label: -- Filter Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: filter_type
+      label: Filter Type
+      hint: What type of filter do you need?
+      type: select_one
+      options:
+      - Sediment filter
+      - Carbon filter
+      - Reverse osmosis membrane
+      - Mineral filter
+      - UV filter
+      - Multi-stage filter cartridge
+      - Unsure - need recommendation
+      required: true
+    - id: 13
+      name: filter_size
+      label: Filter Size or Micron Rating
+      hint: Standard or custom size?
+      type: select_one
+      options:
+      - Standard replacement
+      - 1 micron
+      - 5 micron
+      - 20 micron
+      - 100 micron
+      - Other
+      required: true
+    - id: 14
+      name: quantity
+      label: Quantity to Order
+      hint: How many filter units do you need?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: filter_replacement_schedule
+      label: Typical Filter Replacement Frequency
+      hint: How often do you replace filters?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Every 6 months
+      - Annually
+      - As needed
+      required: false
+    - id: 16
+      name: section_header_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should filters be shipped?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive the order?
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Next business day
+      - Local pickup
+      - Will arrange pickup
+      required: true
+    - id: 19
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When do you need the filters?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: section_header_account
+      label: -- Account & Special Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: customer_account
+      label: Customer Account Number
+      hint: Leave blank if new customer
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_contract
+      label: Do you have a Service Contract
+      hint: null
+      type: select_one
+      options:
+      - Yes, monthly service
+      - Yes, quarterly service
+      - No, order as needed
+      - Not sure
+      required: false
+    - id: 23
+      name: installation_needed
+      label: Do You Need Installation Assistance
+      hint: null
+      type: select_one
+      options:
+      - Yes, professional installation
+      - No, we will install
+      - Not sure
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Additional Notes
+      hint: Any other information about your order?
+      type: text
+      options: []
+      required: false

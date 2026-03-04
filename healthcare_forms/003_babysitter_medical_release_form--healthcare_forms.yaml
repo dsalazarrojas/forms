@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Medical Release Form
+    pages:
+      - id: 1
+        name: section_child_info
+        label: -- Child Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: child_date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: child_allergies
+        label: Known Allergies
+        hint: Food, medication, environmental, etc.
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: medical_conditions
+        label: Medical Conditions or Special Needs
+        hint: Asthma, diabetes, seizures, etc.
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: current_medications
+        label: Current Medications
+        hint: Include medication names and dosages
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_parent_info
+        label: -- Parent/Guardian Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: parent_name
+        label: Parent/Guardian Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: parent_phone
+        label: Primary Contact Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 10
+        name: secondary_contact_phone
+        label: Secondary Contact Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 11
+        name: parent_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 12
+        name: section_medical
+        label: -- Medical Authorization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: physician_name
+        label: Child's Physician Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: physician_phone
+        label: Physician Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 15
+        name: insurance_provider
+        label: Insurance Provider
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: policy_number
+        label: Insurance Policy Number
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: emergency_procedures
+        label: Special Emergency Procedures or Treatments
+        hint: EpiPen use, inhaler administration, etc.
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: hospital_preference
+        Label: Preferred Hospital or Medical Facility
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: section_authorization
+        label: -- Medical Release Authorization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: emergency_medical_auth
+        label: Do You Authorize Emergency Medical Treatment?
+        hint: In case of life-threatening emergency
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 21
+        name: babysitter_medication_auth
+        Label: May the Babysitter Administer Medications?
+        hint: Including prescribed medications as directed
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 22
+        name: parent_signature_date
+        Label: Date of Authorization
+        hint: null
+        type: date
+        options: []
+        required: true

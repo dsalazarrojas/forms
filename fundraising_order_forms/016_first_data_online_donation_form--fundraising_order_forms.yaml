@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: first_data_online_donation_form
+    pages:
+    - id: 1
+      name: donation_information
+      label: donation_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_information
+      label: donor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_type
+      label: donation_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: gift_frequency
+      label: gift_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: gift_amount
+      label: gift_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gift_frequency
+      label: gift_frequency_2
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: donor_contact
+      label: donor_contact
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

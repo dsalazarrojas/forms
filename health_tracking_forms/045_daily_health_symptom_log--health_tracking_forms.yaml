@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Health Symptom Log
+    pages:
+    - id: 1
+      name: symptom_log
+      label: Symptom Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_status_1
+      label: Morning Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Very good''}'
+      - '{''id'': 3, ''label'': ''Good''}'
+      - '{''id'': 4, ''label'': ''Fair''}'
+      - '{''id'': 5, ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: medication_log_1
+      label: Morning Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vital_signs_1
+      label: Morning Vital Signs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: symptom_log_1
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fever''}'
+      - '{''id'': 2, ''label'': ''Cough''}'
+      - '{''id'': 3, ''label'': ''Fatigue''}'
+      - '{''id'': 4, ''label'': ''Sore throat''}'
+      - '{''id'': 5, ''label'': ''Headache''}'
+      - '{''id'': 6, ''label'': ''Nausea''}'
+      - '{''id'': 7, ''label'': ''Diarrhea''}'
+      required: false
+    - id: 6
+      name: symptom_log_2
+      label: Evening Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fever''}'
+      - '{''id'': 2, ''label'': ''Cough''}'
+      - '{''id'': 3, ''label'': ''Fatigue''}'
+      - '{''id'': 4, ''label'': ''Sore throat''}'
+      - '{''id'': 5, ''label'': ''Headache''}'
+      - '{''id'': 6, ''label'': ''Nausea''}'
+      - '{''id'': 7, ''label'': ''Diarrhea''}'
+      required: false
+    - id: 7
+      name: health_status_2
+      label: Evening Health Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Very good''}'
+      - '{''id'': 3, ''label'': ''Good''}'
+      - '{''id'': 4, ''label'': ''Fair''}'
+      - '{''id'': 5, ''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: medication_log_2
+      label: Evening Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vital_signs_2
+      label: Evening Vital Signs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sleep_quality
+      label: Sleep Quality
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: wake_up_time
+      label: Wake Up Time
+      hint: In hours since midnight
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: exercise_log_1
+      label: Exercise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: doctor_visit_1
+      label: Doctor Visit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 15
+      name: doctor_name_1
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_phone_1
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_location_1
+      label: Doctor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_department_1
+      label: Doctor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_appointment_1
+      label: Doctor Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: doctor_notes_1
+      label: Doctor Notes
+      hint: null
+      type: note
+      options: []
+      required: false

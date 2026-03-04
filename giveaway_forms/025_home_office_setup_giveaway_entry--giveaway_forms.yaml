@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Office Setup Giveaway Entry
+    pages:
+    - id: 1
+      name: entry_form
+      label: Home Office Setup Giveaway Entry Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_from_home
+      label: Work From Home
+      hint: null
+      type: select_one
+      options:
+      - Home Office
+      - Remote
+      - Other
+      - Undisclosed
+      required: false
+    - id: 6
+      name: work_from_home_why
+      label: Why
+      hint: null
+      type: select_one
+      options:
+      - Home Office
+      - Remote
+      - Other
+      - Undisclosed
+      required: false
+    - id: 7
+      name: work_from_home_insights
+      label: Insights
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interested
+      label: Interested
+      hint: null
+      type: select_multiple
+      options:
+      - Interested
+      - Somewhat
+      - Not Interested
+      required: true
+    - id: 9
+      name: preferred_work_from_home_setup
+      label: Preferred
+      hint: null
+      type: select_multiple
+      options:
+      - Ergonomic Office Furniture
+      - Standing Desk
+      - Headset
+      - External Monitor
+      - White Noise Cancellation
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

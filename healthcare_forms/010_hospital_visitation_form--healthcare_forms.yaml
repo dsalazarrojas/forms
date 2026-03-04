@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Visitation Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_visitors
+      label: Authorized Visitors
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Mary
+      - Jane
+      required: false
+    - id: 3
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: visit_comments
+      label: Visit Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - healthy
+      - sick
+      - critical
+      required: false
+    - id: 9
+      name: visit_status
+      label: Visit Status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - denied
+      - pending
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

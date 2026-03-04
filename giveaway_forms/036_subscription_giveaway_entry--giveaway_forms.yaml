@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: subscription_giveaway_entry
+    pages:
+    - id: 1
+      name: entry_form
+      label: entry_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan
+      label: plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''plan_a'', ''value'': ''Plan A''}'
+      - '{''id'': 2, ''name'': ''plan_b'', ''value'': ''Plan B''}'
+      - '{''id'': 3, ''name'': ''plan_c'', ''value'': ''Plan C''}'
+      required: false
+    - id: 3
+      name: plan_a_details
+      label: plan_a_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plan_b_details
+      label: plan_b_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plan_c_details
+      label: plan_c_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: channel
+      label: channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''channel_a'', ''value'': ''Channel A''}'
+      - '{''id'': 2, ''name'': ''channel_b'', ''value'': ''Channel B''}'
+      required: false
+    - id: 7
+      name: channel_a_details
+      label: channel_a_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: channel_b_details
+      label: channel_b_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

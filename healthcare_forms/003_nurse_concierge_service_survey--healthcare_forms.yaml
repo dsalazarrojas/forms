@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Concierge Service Survey
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nursing_service
+      label: Nursing Service
+      hint: Select a service
+      type: select_one
+      options:
+      - Nurse to Nurse Visit
+      - Nurse to Patient Visit
+      - Nurse to Family Visit
+      - Nurse to Family Member Visit
+      required: false
+    - id: 3
+      name: care_quality
+      label: Care Quality
+      hint: Rate the quality of care provided
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: nurse_compassion
+      label: Nurse Compassion
+      hint: Rate the level of compassion provided by nurses
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 5
+      name: patient_safety
+      label: Patient Safety
+      hint: Check if patient felt safe during care
+      type: select_multiple
+      options:
+      - Very Safe
+      - Somewhat Safe
+      - Not Very Safe
+      - Not Safe
+      required: false
+    - id: 6
+      name: nurse_effectiveness
+      label: Nurse Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Very Strong
+      - Somewhat Strong
+      - Not Very Strong
+      - Not Strong
+      required: false
+    - id: 8
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: How would you like to be contacted?
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Mail
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_visit
+      label: Time of Visit
+      hint: AM/PM
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: length_of_visit
+      label: Length of Visit
+      hint: How long was the visit
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: nurse_id
+      label: Nurse ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: age
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: gender
+      label: Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

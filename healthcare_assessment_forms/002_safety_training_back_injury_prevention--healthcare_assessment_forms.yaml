@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Safety Training: Back Injury Prevention'
+    pages:
+    - id: 1
+      name: training_attendance
+      label: Training Attendance
+      hint: Record attendance for all trainees
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lifting_principles
+      label: Safe Lifting Principles
+      hint: Rate understanding of safe lifting principles
+      type: select_multiple
+      options:
+      - Proper lifting techniques
+      - Back safety principles
+      - Hazardous materials handling
+      required: true
+    - id: 3
+      name: back_injury_concerns
+      label: Back Injury Concerns
+      hint: Record any back injury concerns
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: back_injury_concerns_how_to_prevent
+      label: How to Prevent Back Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trainee_comments
+      label: Trainee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trainer_comments
+      label: Trainer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_manager_comments
+      label: Safety Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: back_injury_reporting_status
+      label: Back Injury Reporting Status
+      hint: null
+      type: select_one
+      options:
+      - Reported
+      - Not reported
+      - Not sure
+      required: true
+    - id: 9
+      name: date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trainer_role
+      label: Trainer Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trainer_notes
+      label: Trainer Notes
+      hint: null
+      type: text
+      options: []
+      required: false

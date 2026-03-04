@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_supplies_usage_report_form
+    pages:
+    - id: 1
+      name: usage_report
+      label: Usage Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: products_used
+      label: Products Used
+      hint: List the products used
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: products_to_restock
+      label: Products to Restock
+      hint: List the products that need to be restocked
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: truck_number
+      label: Truck Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false

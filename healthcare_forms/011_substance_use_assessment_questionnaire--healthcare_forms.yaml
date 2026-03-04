@@ -1,0 +1,151 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Substance Use Assessment Questionnaire
+    pages:
+    - id: 1
+      name: patient_identification
+      label: patient_identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: use_history
+      label: has_the_patient_ever_used_any_substance
+      hint: null
+      type: select_multiple
+      options:
+      - Illicit
+      - Prescription
+      - Non-prescription
+      - Recreational
+      - Over-the-counter
+      - Other
+      required: false
+    - id: 3
+      name: substance_types_used
+      label: which_substances
+      hint: null
+      type: select_multiple
+      options:
+      - Alcohol
+      - Benzodiazepine
+      - Cannabis
+      - Caffeine
+      - Cocaine
+      - Heroin
+      - Inhalants
+      - Nicotine
+      - Prescription
+      - Prescription opioid
+      - Stimulants
+      - Tobacco
+      required: false
+    - id: 4
+      name: use_frequency
+      label: how_often_used
+      hint: null
+      type: select_one
+      options:
+      - 1-5 times a month
+      - Several times a week
+      - Several times a month
+      - Several times a year
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: use_start_date
+      label: started_substance_use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: use_stop_date
+      label: last_used_substance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_attention
+      label: medical_attention_needed
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: mental_health_attention
+      label: mental_health_attention_needed
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 9
+      name: legal_attention
+      label: legal_attention_needed
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 10
+      name: medical_provider_info
+      label: medical_provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_family
+      label: patient_family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_contact
+      label: patient_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_number
+      label: patient_number
+      hint: null
+      type: text
+      options: []
+      required: false

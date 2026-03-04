@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_lending_consent_form
+    pages:
+    - id: 1
+      name: borrower_details
+      label: Borrower Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: loan_amount
+      label: Loan Amount
+      hint: ประก
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collateral_type
+      label: Collateral Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: collateral_value
+      label: Collateral Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: loan_purpose
+      label: Loan Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: employment_income_verification
+      label: Employment Income Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: bank_statement_verification
+      label: Bank Statement Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

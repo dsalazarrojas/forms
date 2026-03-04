@@ -1,0 +1,303 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cold Food Production Assessment
+    pages:
+      - id: 1
+        name: facility_name
+        label: Facility Name
+        hint: Name of food production facility
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: facility_address
+        label: Facility Address
+        hint: Complete street address
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this assessment
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: assessor_name
+        label: Assessor Name
+        hint: Name of person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assessor_title
+        label: Assessor Title
+        hint: Job title or role
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: facility_type
+        label: Type of Food Production Facility
+        hint: Select the facility category
+        type: select_one
+        options:
+          - Commercial Kitchen
+          - Food Processing Plant
+          - Dairy Facility
+          - Meat Processing
+          - Seafood Processing
+          - Frozen Food Manufacturing
+          - Beverage Production
+          - Bakery
+        required: true
+      - id: 7
+        name: cold_storage_types
+        label: Cold Storage Types On-Site
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Walk-in Refrigerator
+          - Walk-in Freezer
+          - Reach-in Refrigerator
+          - Reach-in Freezer
+          - Blast Chiller
+          - Cold Room
+          - Freezer Tunnel
+        required: true
+      - id: 8
+        name: refrigerator_temperature
+        label: Refrigerator Temperature Range
+        hint: Current temperature setting in °F
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: freezer_temperature
+        label: Freezer Temperature Range
+        hint: Current temperature setting in °F
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: temperature_monitoring
+        label: Temperature Monitoring Frequency
+        hint: How often are temperatures checked
+        type: select_one
+        options:
+          - Continuous Automated
+          - Every Hour
+          - Every 2 Hours
+          - Every 4 Hours
+          - Twice Daily
+          - Once Daily
+          - Weekly
+        required: true
+      - id: 11
+        name: monitoring_method
+        label: Temperature Monitoring Method
+        hint: How temperatures are recorded
+        type: select_multiple
+        options:
+          - Digital Data Loggers
+          - Analog Thermometers
+          - Digital Thermometers
+          - Infrared Sensors
+          - Manual Log Sheets
+          - Automated Alert System
+        required: true
+      - id: 12
+        name: hygiene_practices
+        label: Hygiene Practices Observed
+        hint: Select all observed practices
+        type: select_multiple
+        options:
+          - Hand Washing Stations
+          - Sanitizer Dispensers
+          - Hair Nets Required
+          - Gloves Required
+          - Protective Clothing
+          - Foot Baths
+          - Air Showers
+        required: true
+      - id: 13
+        name: cleaning_schedule
+        label: Cleaning Schedule Frequency
+        hint: How often is cold storage cleaned
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Quarterly
+          - As Needed
+        required: true
+      - id: 14
+        name: pest_control
+        label: Pest Control Measures
+        hint: Select pest control methods in use
+        type: select_multiple
+        options:
+          - Traps
+          - Bait Stations
+          - Air Curtains
+          - Sealed Entry Points
+          - Regular Inspections
+          - Professional Service
+          - None
+        required: true
+      - id: 15
+        name: product_storage
+        label: Product Storage Organization
+        hint: How products are organized
+        type: select_one
+        options:
+          - By Product Type
+          - By Temperature Requirement
+          - By Production Date
+          - By Expiration Date
+          - FIFO System
+          - Mixed Storage
+        required: true
+      - id: 16
+        name: cross_contamination_prevention
+        label: Cross-Contamination Prevention Measures
+        hint: Select measures in place
+        type: select_multiple
+        options:
+          - Separate Storage Areas
+          - Color-Coded Equipment
+          - Physical Barriers
+          - Dedicated Tools
+          - Staff Training
+          - Signage
+        required: true
+      - id: 17
+        name: employee_training
+        label: Employee Food Safety Training Status
+        hint: Training completion status
+        type: select_one
+        options:
+          - All Staff Certified
+          - Most Staff Certified
+          - Some Staff Certified
+          - Training In Progress
+          - No Formal Training
+        required: true
+      - id: 18
+        name: haccp_plan
+        label: HACCP Plan Status
+        hint: Hazard Analysis Critical Control Point
+        type: select_one
+        options:
+          - Implemented and Active
+          - In Development
+          - Planned
+          - Not Required
+          - Not Aware
+        required: true
+      - id: 19
+        name: backup_power
+        label: Backup Power System
+        hint: Emergency power for cold storage
+        type: select_one
+        options:
+          - Generator On-Site
+          - Battery Backup
+          - Dual Power Supply
+          - No Backup System
+        required: true
+      - id: 20
+        name: alarm_systems
+        label: Temperature Alarm Systems
+        hint: Alert systems for temperature deviations
+        type: select_multiple
+        options:
+          - Audible Alarm
+          - Visual Alarm
+          - SMS Alerts
+          - Email Alerts
+          - Phone Call Alerts
+          - None
+        required: true
+      - id: 21
+        name: maintenance_schedule
+        label: Equipment Maintenance Schedule
+        hint: How often is equipment serviced
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Semi-Annually
+          - Annually
+          - As Needed
+          - No Schedule
+        required: true
+      - id: 22
+        name: last_inspection_date
+        label: Last Health Inspection Date
+        hint: Date of most recent inspection
+        type: date
+        options: []
+        required: false
+      - id: 23
+        name: inspection_result
+        label: Last Inspection Result
+        hint: Outcome of last inspection
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Unsatisfactory
+          - Not Inspected
+        required: true
+      - id: 24
+        name: non_compliance_issues
+        label: Current Non-Compliance Issues
+        hint: List any known issues
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: corrective_actions
+        label: Corrective Actions Needed
+        hint: Actions required to address issues
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: overall_assessment
+        label: Overall Facility Assessment Rating
+        hint: Your overall evaluation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 27
+        name: assessor_comments
+        label: Assessor Additional Comments
+        hint: Any other observations or recommendations
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_consent_form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: Financial Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_section_2
+      label: Patient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_section_3
+      label: Medical Practitioner Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: form_section_4
+      label: Fees Paid To
+      hint: null
+      type: select_multiple
+      options:
+      - Practitioner
+      - Client
+      - Other
+      required: true
+    - id: 5
+      name: form_section_5
+      label: Fee Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_section_6
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Bank Transfer
+      required: true
+    - id: 7
+      name: form_section_7
+      label: Signature of Practitioner
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: signature_of_practitioner
+      label: Signature of Practitioner
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: signature_of_patient
+      label: Signature of Patient
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_section_10
+      label: Financial Practitioner Signature
+      hint: null
+      type: select_one
+      options:
+      - Form 2
+      - Form 3
+      required: true
+    - id: 11
+      name: form_section_11
+      label: Fee Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: form_section_12
+      label: Date of Acknowledgement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_section_13
+      label: Fee Acknowledgement Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_section_14
+      label: Medical Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_section_15
+      label: Medical Practitioner Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_section_16
+      label: Medical Practitioner Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_section_17
+      label: Medical Practitioner Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_section_18
+      label: Medical Practitioner License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_section_19
+      label: Medical Practitioner Certification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_section_20
+      label: Medical Practitioner License Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: form_section_21
+      label: Medical Practitioner License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: form_section_22
+      label: Medical Practitioner License Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: form_section_23
+      label: Medical Practitioner Fee Schedule
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: form_section_24
+      label: form_section_24
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_section_25
+      label: signature_of_practitioner_2
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Waste Log
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: waste_type
+      label: Waste type
+      hint: null
+      type: select_multiple
+      options:
+      - Food waste
+      - Liquid waste
+      - Organic waste
+      - Plastic waste
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false

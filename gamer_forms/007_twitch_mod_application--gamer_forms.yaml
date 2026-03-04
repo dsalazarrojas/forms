@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Twitch Mod Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: twitch_username
+      label: Twitch Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: how_long_have_you_been_streaming_on_twitch
+      label: How long have you been streaming on Twitch?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: what_games_do_you_streamer
+      label: What games do you stream?
+      hint: List the games you've played on Twitch.
+      type: select_multiple
+      options:
+      - Apex Legends
+      - Fortnite
+      - League of Legends
+      - Overwatch
+      required: true
+    - id: 9
+      name: why_do_you_want_to_become_a_moderator
+      label: Why do you want to become a moderator?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: what_would_you_like_to_do_as_a_moderator
+      label: What would you like to do as a moderator?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: how_many_months_per_year_do_you_plan_to_mod_on_twitch
+      label: How many months per year do you plan to mod on Twitch?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Weekend evenings
+      - Weekdays
+      required: true
+    - id: 13
+      name: availability_time
+      label: Availability time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: what_would_you_like_to_gain_more_experience_with
+      label: What would you like to gain more experience with?
+      hint: null
+      type: select_multiple
+      options:
+      - Moderation
+      - Streaming
+      - Chat management
+      - Leadership
+      required: true
+    - id: 15
+      name: how_do_you_plan_to_improve_twitch_as_a_platform
+      label: How do you plan to improve Twitch as a platform?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: have_you_been_banned_from_twitch
+      label: Have you been banned from Twitch?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: why_were_you_banned_from_twitch
+      label: Why were you banned from Twitch?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: what_is_your_twitch_rank
+      label: What is your current rank?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: what_is_your_current_twitch_status
+      label: What is your current status?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: what_is_your_current_twitch_id
+      label: What is your current ID number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_long_have_you_been_muted_on_twitch
+      label: How long have you been muted on Twitch?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than a month
+      - A month or more
+      required: false
+    - id: 22
+      name: have_you_been_timeouted_on_twitch
+      label: Have you been timed outed on Twitch?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than a week
+      - A week or more
+      required: false
+    - id: 23
+      name: have_you_been_banned_from_another_twitch_streamer
+      label: Have you been banned from another Twitch streamer's channel?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 'True'
+      required: false
+    - id: 24
+      name: have_you_been_kicked_from_another_twitch_streamer
+      label: Have you been kicked from another Twitch streamer's channel?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 'True'
+      required: false
+    - id: 25
+      name: have_you_been_terminated_from_another_twitch_streamer
+      label: Have you been terminated from another Twitch streamer's channel?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - 'True'
+      required: false

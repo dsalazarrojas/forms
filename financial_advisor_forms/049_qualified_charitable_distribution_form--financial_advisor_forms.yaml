@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Qualified Charitable Distribution Form
+    pages:
+    - id: 1
+      name: donor_identification
+      label: donor_identification
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: charitable_organization
+      label: charitable_organization
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      required: false
+    - id: 3
+      name: gift_frequency
+      label: gift_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Reoccurring
+      required: false
+    - id: 4
+      name: gift_date
+      label: gift_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gift_amount
+      label: gift_amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Independence Assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physical_function
+      label: Physical Function
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cognitive_function
+      label: Cognitive Function
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: daily_activities
+      label: Daily Activities
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Independent''}'
+      - '{''id'': 2, ''label'': ''Dependent''}'
+      - '{''id'': 3, ''label'': ''Partially Dependent''}'
+      - '{''id'': 4, ''label'': ''Unable to perform''}'
+      required: false
+    - id: 6
+      name: social_interaction
+      label: Social Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Often''}'
+      - '{''id'': 2, ''label'': ''Often''}'
+      - '{''id'': 3, ''label'': ''Sometimes''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      - '{''id'': 5, ''label'': ''Never''}'
+      required: false
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

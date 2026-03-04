@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: W4 Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer_ident_number
+      label: Employer Identifier Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer_ident_type
+      label: Employer Identifier Type
+      hint: null
+      type: select_one
+      options:
+      - SSN
+      - EIN
+      - ITIN
+      - ITIN/SSN
+      required: false
+    - id: 5
+      name: w4_option
+      label: W-4 Option
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 6
+      name: w4_option_explain
+      label: W-4 Option Explain
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_sign_date
+      label: Employee Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_sign
+      label: Employee Sign
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: w_4_form
+      label: W-4 Form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_signing
+      label: Date Of Signing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: year
+      label: Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_sign_date
+      label: Employer Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: employer_sign
+      label: Employer Sign
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employee_w_4_option
+      label: Employee W-4 Option
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 17
+      name: employee_w_4_explain
+      label: Employee W-4 Explain
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: employer_w_4_option
+      label: Employer W-4 Option
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 19
+      name: employer_w_4_explain
+      label: Employer W-4 Explain
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: file_upload_w4
+      label: File Upload (W-4 Form)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: file_upload_w4_cert
+      label: File Upload (W-4 Certificate)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_cert
+      label: Employee Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employer_cert
+      label: Employer Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

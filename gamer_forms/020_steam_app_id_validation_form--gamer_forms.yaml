@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: steam_app_id_validation_form
+    pages:
+    - id: 1
+      name: steam_app_id
+      label: Steam App Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: profile_link
+      label: profile_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: profile_image
+      label: profile_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evidence
+      label: evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: game_id
+      label: game_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: steam_tag
+      label: steam_tag
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: game_name
+      label: game_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game_tag
+      label: game_tag
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: validation_request_details
+      label: validation_request_details
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,381 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anime Viewing Preferences Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 13
+      - 13-17
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 or older
+      required: true
+    - id: 4
+      name: location
+      label: General Location
+      hint: Country or region
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: viewing_frequency
+      label: How Often Do You Watch Anime
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several Times Per Week
+      - Weekly
+      - Few Times Per Month
+      - Rarely
+      required: true
+    - id: 6
+      name: hours_per_week
+      label: Hours Spent Watching Per Week
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-5 hours
+      - 6-10 hours
+      - 11-20 hours
+      - Over 20 hours
+      required: true
+    - id: 7
+      name: favorite_genres
+      label: Favorite Genres
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Action
+      - Adventure
+      - Comedy
+      - Drama
+      - Fantasy
+      - Horror
+      - Mystery
+      - Romance
+      - Sci-Fi
+      - Slice of Life
+      - Sports
+      - Supernatural
+      - Thriller
+      - Mecha
+      - Isekai
+      - Shojo
+      - Shonen
+      - Seinen
+      - Josei
+      - Other
+      required: true
+    - id: 8
+      name: least_favorite_genres
+      label: Least Favorite Genres
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Action
+      - Adventure
+      - Comedy
+      - Drama
+      - Fantasy
+      - Horror
+      - Mystery
+      - Romance
+      - Sci-Fi
+      - Slice of Life
+      - Sports
+      - Supernatural
+      - Thriller
+      - Mecha
+      - Isekai
+      - Shojo
+      - Shonen
+      - Seinen
+      - Josei
+      - None
+      required: false
+    - id: 9
+      name: viewing_platforms
+      label: Where Do You Watch Anime
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Crunchyroll
+      - Funimation
+      - Netflix
+      - Hulu
+      - Amazon Prime Video
+      - Disney Plus
+      - HIDIVE
+      - YouTube
+      - Illegal Streaming Sites
+      - Physical Media - Blu-ray or DVD
+      - TV Broadcast
+      - Other
+      required: true
+    - id: 10
+      name: primary_platform
+      label: Primary Streaming Platform
+      hint: Most used platform
+      type: select_one
+      options:
+      - Crunchyroll
+      - Funimation
+      - Netflix
+      - Hulu
+      - Amazon Prime Video
+      - Disney Plus
+      - HIDIVE
+      - Multiple Platforms
+      - Other
+      required: true
+    - id: 11
+      name: subscription_spending
+      label: Monthly Spending on Anime Subscriptions
+      hint: In dollars
+      type: select_one
+      options:
+      - $0 - Free Only
+      - $1-$10
+      - $11-$20
+      - $21-$30
+      - Over $30
+      required: true
+    - id: 12
+      name: viewing_language
+      label: Preferred Audio Language
+      hint: null
+      type: select_one
+      options:
+      - Japanese with Subtitles
+      - English Dub
+      - Other Language Dub
+      - No Preference
+      required: true
+    - id: 13
+      name: subtitle_preference
+      label: Subtitle Preferences
+      hint: null
+      type: select_one
+      options:
+      - Always Use Subtitles
+      - Sometimes Use Subtitles
+      - Never Use Subtitles
+      required: true
+    - id: 14
+      name: viewing_device
+      label: Primary Viewing Device
+      hint: null
+      type: select_one
+      options:
+      - Computer or Laptop
+      - Smart TV
+      - Tablet
+      - Smartphone
+      - Gaming Console
+      - Streaming Device
+      required: true
+    - id: 15
+      name: viewing_habits
+      label: Viewing Habits
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Binge Watch Entire Seasons
+      - Watch Weekly as Released
+      - Rewatch Favorites
+      - Watch with Friends
+      - Watch Alone
+      - Background Watching
+      - Focused Watching
+      - Other
+      required: true
+    - id: 16
+      name: social_viewing
+      label: Do You Participate in Watch Parties or Clubs
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - No But Interested
+      - No - Prefer Solo
+      required: true
+    - id: 17
+      name: community_involvement
+      label: Anime Community Involvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Online Forums
+      - Social Media Groups
+      - Discord Servers
+      - Reddit
+      - Local Clubs
+      - Conventions
+      - Cosplay
+      - Fan Art
+      - Fan Fiction
+      - None
+      required: true
+    - id: 18
+      name: favorite_studios
+      label: Favorite Animation Studios
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Studio Ghibli
+      - Toei Animation
+      - Madhouse
+      - Sunrise
+      - Kyoto Animation
+      - MAPPA
+      - Wit Studio
+      - Bones
+      - A-1 Pictures
+      - Pierrot
+      - Other
+      - No Preference
+      required: false
+    - id: 19
+      name: all-time_favorites
+      label: Top 3 All-Time Favorite Anime
+      hint: List your favorites
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: currently_watching
+      label: What Are You Currently Watching
+      hint: List current series
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upcoming_interest
+      label: Upcoming Anime You Are Excited About
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: merchandise_purchase
+      label: Do You Purchase Anime Merchandise
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 23
+      name: merchandise_types
+      label: What Merchandise Do You Buy
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Figures
+      - Plushies
+      - Posters
+      - Clothing
+      - Manga
+      - Light Novels
+      - Soundtracks
+      - Keychains
+      - Accessories
+      - None
+      - Other
+      required: false
+    - id: 24
+      name: event_interest
+      label: Would You Attend Anime Events
+      hint: Screenings conventions etc
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Maybe
+      - No
+      required: true
+    - id: 25
+      name: event_preferences
+      label: Preferred Event Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Watch Parties
+      - Conventions
+      - Premieres
+      - Meet and Greets
+      - Panel Discussions
+      - Cosplay Events
+      - Gaming Tournaments
+      - Other
+      required: false
+    - id: 26
+      name: recommendations
+      label: Do You Share Anime Recommendations
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 27
+      name: discovery_method
+      label: How Do You Discover New Anime
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friends
+      - Social Media
+      - Streaming Recommendations
+      - Reddit
+      - YouTube
+      - Anime News Sites
+      - Conventions
+      - Random Browsing
+      - Other
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false

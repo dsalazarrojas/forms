@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Registration And Waiver Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Allergies''}'
+      - '{''label'': ''High Blood Pressure''}'
+      - '{''label'': ''High Cholesterol''}'
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''Epilepsy''}'
+      - '{''label'': ''Severe Headaches''}'
+      - '{''label'': ''Severe Migraines''}'
+      - '{''label'': ''Seizures''}'
+      - '{''label'': ''Asthma''}'
+      - '{''label'': ''Chronic Back Pain''}'
+      required: false
+    - id: 3
+      name: waiver
+      label: Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Spouse''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_profession
+      label: Medical Profession
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Provided''}'
+      - '{''label'': ''Not Provided''}'
+      required: false
+    - id: 11
+      name: yoga_experience
+      label: Yoga Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: emergency_note
+      label: Emergency Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: patient_medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctors
+      label: Doctors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Doctor 1''}'
+      - '{''id'': 2, ''label'': ''Doctor 2''}'
+      - '{''id'': 3, ''label'': ''Doctor 3''}'
+      required: false
+    - id: 9
+      name: hospitalization_length
+      label: Hospitalization Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 11
+      name: patient_diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_treatment_history
+      label: Treatment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: patient_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: doctors
+      label: Doctors
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Doctor 1''}'
+      - '{''id'': 2, ''label'': ''Doctor 2''}'
+      - '{''id'': 3, ''label'': ''Doctor 3''}'
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Guest Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Guest Application Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: logo
+      label: Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_file
+      label: Form File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: note
+      options: []
+      required: false

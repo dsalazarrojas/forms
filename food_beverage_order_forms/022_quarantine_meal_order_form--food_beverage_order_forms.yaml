@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarantine Meal Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: meal_request_date
+      label: Meal Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: food_request
+      label: Food Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: select_meal
+      label: Select Meal
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Burger
+      - Pizza
+      - Salad
+      - Sandwich
+      - Soup
+      required: true
+    - id: 9
+      name: select_food_type
+      label: Select Food Type
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Non-Food
+      required: true
+    - id: 10
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: select_delivery_method
+      label: Select Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Delivery
+      - Pickup
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Waiting
+      - Cancelled
+      required: false
+    - id: 20
+      name: select_staff
+      label: Select Staff
+      hint: null
+      type: select_one
+      options:
+      - Staff 1
+      - Staff 2
+      - Staff 3
+      - Staff 4
+      - Staff 5
+      - Staff 6
+      - Staff 7
+      - Staff 8
+      - Staff 9
+      required: false
+    - id: 21
+      name: order_notes_2
+      label: Order Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_comments_2
+      label: Order Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: select_service
+      label: Select Service
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      - Service 4
+      - Service 5
+      - Service 6
+      required: false
+    - id: 25
+      name: select_service_2
+      label: Select Service 2
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      - Service 4
+      - Service 5
+      - Service 6
+      required: false

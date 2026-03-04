@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Monitoring Form
+    pages:
+    - id: 1
+      name: monitoring_header_section
+      label: -- Monitoring Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_date
+      label: Monitoring Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: financial_advisor
+      label: Financial Advisor or Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: monitoring_period_section
+      label: -- Reporting Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: period_start
+      label: Period Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: period_end
+      label: Period End Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: opening_balance_section
+      label: -- Opening Balance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: opening_cash_balance
+      label: Opening Cash Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: checking_accounts
+      label: Checking Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: savings_accounts
+      label: Savings Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cash_transactions_section
+      label: -- Cash Transactions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_receipts
+      label: Total Cash Receipts
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sales_income
+      label: Sales or Service Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: receivables_collected
+      label: Receivables Collected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: other_receipts
+      label: Other Cash Receipts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cash_disbursements_section
+      label: -- Cash Disbursements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_payments
+      label: Total Cash Payments
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: operating_payments
+      label: Operating Expense Payments
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payroll_payments
+      label: Payroll Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vendor_payments
+      label: Vendor or Supplier Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: closing_balance_section
+      label: -- Closing Balance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: closing_cash_balance
+      label: Closing Cash Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: net_change
+      label: Net Change in Cash
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: monitoring_notes
+      label: Monitoring Notes and Observations
+      hint: Any issues or concerns to note
+      type: text
+      options: []
+      required: false

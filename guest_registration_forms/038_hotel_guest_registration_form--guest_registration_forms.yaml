@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_guest_registration_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reservation_notes
+      label: reservation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: room_rate
+      label: room_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: reservation_source
+      label: reservation_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: checkin
+      label: checkin
+      hint: null
+      type: time
+      options: []
+      required: false

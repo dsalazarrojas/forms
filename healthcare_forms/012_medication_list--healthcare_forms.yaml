@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication List
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: Medical Record
+      hint: 5 digits
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dosage_instructions
+      label: Dosage Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: duration_of_use
+      label: Duration of Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medication_list_item
+      label: Medication List Item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: dosage_form
+      label: Dosage Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: route_of_administration
+      label: Route of Administration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: frequency_of_administration
+      label: Frequency of Administration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication_strength
+      label: Medication Strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_form
+      label: Medication Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: start_dose
+      label: Start Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_id
+      label: Medication ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_staff_id
+      label: Medical Staff ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

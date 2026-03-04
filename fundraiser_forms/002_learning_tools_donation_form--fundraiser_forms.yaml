@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Tools Donation Form
+    pages:
+    - id: 1
+      name: form_submission_details
+      label: Form Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - Recurring
+      - One-Time
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_donated
+      label: Time Donated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submission_comments
+      label: Form Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: in_kind_donation
+      label: In-Kind Donation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: in_kind_description
+      label: In-Kind Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donor_email
+      label: Donor E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: in_kind_item
+      label: In-Kind Item
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 18
+      name: in_kind_value
+      label: In-Kind Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: donor_comments
+      label: Donor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: in_kind_receipt
+      label: In-Kind Receipt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: donor_signature
+      label: Donor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - Handwritten
+      - E-Signed
+      required: false

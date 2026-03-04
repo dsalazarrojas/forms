@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wrestling Event Guest Pass Application
+    pages:
+    - id: 1
+      name: general_information
+      label: general information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: enter your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: affiliation
+      label: affiliation
+      hint: enter your affiliation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dates_of_attendance
+      label: dates of attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rules_acknowledgment
+      label: rules acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: phone number
+      hint: enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: additional notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Club
+      - Promotion
+      required: true
+    - id: 12
+      name: rule_acknowledgment_2
+      label: rule acknowledgment 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: emergency_services
+      label: emergency services
+      hint: null
+      type: select_multiple
+      options:
+      - First aid
+      - Emergency services
+      - Security
+      required: false

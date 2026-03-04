@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Budget Request Form
+    pages:
+    - id: 1
+      name: header_request_details
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Name of Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_ministry
+      label: Department or Ministry
+      hint: null
+      type: select_one
+      options:
+      - Children's Ministry
+      - Youth Ministry
+      - Worship Arts
+      - Outreach/Missions
+      - Facilities/Maintenance
+      - Administration
+      - Hospitality
+      required: true
+    - id: 4
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: header_budget_info
+      label: -- Budget Item Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_name
+      label: Name of Item or Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_description
+      label: Detailed Description and Purpose
+      hint: How does this support the church mission?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_category
+      label: Budget Category
+      hint: null
+      type: select_one
+      options:
+      - Supplies/Materials
+      - Equipment Purchase
+      - Event/Program Costs
+      - Travel/Training
+      - Professional Services
+      - Repairs
+      required: true
+    - id: 9
+      name: requested_amount
+      label: Total Amount Requested ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vendor_info
+      label: Recommended Vendor (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High (Essential)
+      - Medium (Important)
+      - Low (Desirable)
+      required: true
+    - id: 12
+      name: date_needed
+      label: Date Funds are Needed By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: recurring_expense
+      label: Is this a recurring expense?
+      hint: null
+      type: select_one
+      options:
+      - One-time Expense
+      - Monthly Recurring
+      - Yearly Recurring
+      required: true
+    - id: 14
+      name: documentation_attachment
+      label: Quote or Invoice Attached?
+      hint: Please ensure documentation is submitted to the office
+      type: select_one
+      options:
+      - true
+      - No - Will provide later
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments for Finance Committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_approval_requested
+      label: Has your ministry lead approved this request?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Not Yet
+      required: true

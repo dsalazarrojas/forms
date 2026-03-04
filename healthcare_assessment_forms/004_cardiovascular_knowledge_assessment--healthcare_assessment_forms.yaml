@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Knowledge Assessment
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Optional - for tracking purposes
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: For receiving results
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: participant_role
+        label: Your Role
+        hint: null
+        type: select_one
+        options:
+          - Patient
+          - Healthcare Student
+          - Healthcare Professional
+          - General Public
+          - Caregiver
+          - Other
+        required: true
+      - id: 5
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 6
+        name: education_level
+        label: Education Level
+        hint: Highest level completed
+        type: select_one
+        options:
+          - Less than high school
+          - High school diploma
+          - Some college
+          - Associate degree
+          - Bachelor's degree
+          - Graduate degree
+        required: false
+      - id: 7
+        name: prior_heart_education
+        label: Prior Heart Health Education
+        hint: Have you received formal education about heart health
+        type: select_one
+        options:
+          - Yes - comprehensive
+          - Yes - basic
+          - No - but interested
+          - No - not interested
+        required: true
+      - id: 8
+        name: question_1
+        label: What is considered a normal blood pressure reading
+        hint: Select the best answer
+        type: select_one
+        options:
+          - 140/90 mmHg or higher
+          - 120/80 mmHg or lower
+          - 100/60 mmHg
+          - 160/100 mmHg
+          - I do not know
+        required: true
+      - id: 9
+        name: question_2
+        label: Which of the following is NOT a risk factor for heart disease
+        hint: Select one
+        type: select_one
+        options:
+          - High blood pressure
+          - Regular exercise
+          - Smoking
+          - High cholesterol
+          - Diabetes
+        required: true
+      - id: 10
+        name: question_3
+        label: How many minutes of moderate exercise is recommended per week for heart health
+        hint: Select the best answer
+        type: select_one
+        options:
+          - 30 minutes
+          - 60 minutes
+          - 150 minutes
+          - 300 minutes
+          - I do not know
+        required: true
+      - id: 11
+        name: question_4
+        label: What does LDL cholesterol represent
+        hint: Select one
+        type: select_one
+        options:
+          - Good cholesterol
+          - Bad cholesterol
+          - Total cholesterol
+          - Triglycerides
+          - I do not know
+        required: true
+      - id: 12
+        name: question_5
+        label: Which symptom is commonly associated with a heart attack
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Chest pain or discomfort
+          - Shortness of breath
+          - Pain in arm, neck, or jaw
+          - Nausea
+          - All of the above
+        required: true
+      - id: 13
+        name: question_6
+        label: What is atrial fibrillation
+        hint: Select the best description
+        type: select_one
+        options:
+          - A type of heart valve disease
+          - An irregular and often rapid heart rate
+          - A blockage in coronary arteries
+          - A congenital heart defect
+          - I do not know
+        required: true
+      - id: 14
+        name: question_7
+        label: Which diet is most recommended for heart health
+        hint: Select one
+        type: select_one
+        options:
+          - High protein diet
+          - Ketogenic diet
+          - Mediterranean diet
+          - Low carb diet
+          - I do not know
+        required: true
+      - id: 15
+        name: question_8
+        label: True or False - Stress can contribute to heart disease
+        hint: Select one
+        type: select_one
+        options:
+          - True
+          - False
+        required: true
+      - id: 16
+        name: question_9
+        label: What is the primary function of the heart
+        hint: Select one
+        type: select_one
+        options:
+          - To produce hormones
+          - To pump blood throughout the body
+          - To filter waste from blood
+          - To aid in digestion
+          - I do not know
+        required: true
+      - id: 17
+        name: question_10
+        label: Which of the following can help prevent heart disease
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Maintaining a healthy weight
+          - Not smoking
+          - Managing stress
+          - Regular physical activity
+          - Eating a balanced diet
+          - All of the above
+        required: true
+      - id: 18
+        name: confidence_level
+        label: How Confident Do You Feel About Your Heart Health Knowledge
+        hint: Before taking this assessment
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 19
+        name: topics_of_interest
+        label: Which Heart Health Topics Would You Like to Learn More About
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Nutrition and diet
+          - Exercise recommendations
+          - Medication management
+          - Risk factors and prevention
+          - Understanding test results
+          - Lifestyle modifications
+          - Warning signs of heart problems
+          - Managing existing conditions
+        required: false
+      - id: 20
+        name: additional_feedback
+        label: Additional Comments or Questions
+        hint: Optional
+        type: text
+        options: []
+        required: false

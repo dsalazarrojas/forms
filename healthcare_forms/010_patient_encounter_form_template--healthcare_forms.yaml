@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Encounter Form Template
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: physician
+      label: Physician
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Dr. Smith''}'
+      - '{''id'': 2, ''name'': ''Dr. Lee''}'
+      - '{''id'': 3, ''name'': ''Dr. Johnson''}'
+      required: true
+    - id: 4
+      name: patient_id
+      label: Medical ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: history_of_present_illness
+      label: History of Present Illness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: physical_exam
+      label: Physical Exam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Penicillin''}'
+      - '{''id'': 2, ''name'': ''Polysaccharide''}'
+      required: true
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Atenolol''}'
+      - '{''id'': 2, ''name'': ''Metoprolol''}'
+      required: true
+    - id: 10
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''CBC''}'
+      - '{''id'': 2, ''name'': ''Chem 12''}'
+      required: true
+    - id: 11
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Influenza''}'
+      - '{''id'': 2, ''name'': ''Pneumonia''}'
+      - '{''id'': 3, ''name'': ''Bronchitis''}'
+      required: true
+    - id: 12
+      name: treatment
+      label: Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Antivirus''}'
+      - '{''id'': 2, ''name'': ''Antibiotik''}'
+      - '{''id'': 3, ''name'': ''Rest''}'
+      required: true
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: next_visit
+      label: Next Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: next_visit_time
+      label: Next Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''ECG''}'
+      - '{''id'': 2, ''name'': ''Ultrasound''}'
+      required: true
+    - id: 18
+      name: radiology
+      label: Radiology Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''MRI''}'
+      - '{''id'': 2, ''name'': ''CT''}'
+      required: true
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: radiology_results
+      label: Radiology Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: social_history
+      label: Social History
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Fundraising Campaign Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_name
+      label: Fundraising Campaign Name
+      hint: Name of the campaign
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: campaign_date
+      label: Campaign Date
+      hint: When the campaign runs
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_campaign_details
+      label: -- Campaign Details --
+      hint: Information about the campaign
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: campaign_type
+      label: Type of Campaign
+      hint: What kind of fundraiser
+      type: select_one
+      options:
+      - Donation Drive
+      - Event
+      - Online Campaign
+      - Merchandise Sales
+      - Sponsorship
+      - Other
+      required: true
+    - id: 9
+      name: campaign_description
+      label: Campaign Description
+      hint: Brief description of the campaign
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: campaign_goal
+      label: Campaign Fundraising Goal
+      hint: Target amount to raise
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_participation_consent
+      label: -- Participation Consent --
+      hint: Your agreement to participate
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consent_participate
+      label: I Consent to Participate in This Campaign
+      hint: Agree to campaign participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: participation_role
+      label: Your Role in Campaign
+      hint: How you will participate
+      type: select_one
+      options:
+      - Participant
+      - Volunteer
+      - Donor
+      - Sponsor
+      - Organizer
+      - Other
+      required: true
+    - id: 14
+      name: section_privacy_consent
+      label: -- Privacy and Data Consent --
+      hint: How your information will be used
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: consent_contact
+      label: Consent to Contact
+      hint: We may contact you about the campaign
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: consent_sharing
+      label: Consent to Share Contact Information with Partners
+      hint: Your info shared with partner organizations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: consent_newsletter
+      label: Consent to Future Communications
+      hint: Receive future campaign updates
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: section_photo_consent
+      label: -- Photo and Media Consent --
+      hint: Permission to use your likeness
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: consent_photography
+      label: Consent to Photography
+      hint: Allow photos of you at events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: consent_video
+      label: Consent to Video Recording
+      hint: Allow video of you for campaign
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: consent_social_media
+      label: Consent to Social Media Use
+      hint: Share photos on social media
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: consent_testimonial
+      label: Consent to Use as Testimonial
+      hint: Allow us to share your story
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: section_release
+      label: -- Release and Liability --
+      hint: Legal acknowledgments
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: consent_waiver
+      label: I Acknowledge Waiver of Liability
+      hint: Understand and accept liability waiver
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: consent_terms
+      label: I Agree to Campaign Terms and Conditions
+      hint: Accept all terms of participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

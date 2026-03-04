@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Flight Operations Report
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: actual_flight_time
+      label: Actual Flight Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: scheduled_arrival_time
+      label: Scheduled Arrival Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delay_reason
+      label: Delay Reason
+      hint: null
+      type: select_one
+      options:
+      - Delay
+      - Cancel
+      - Cancellation
+      - Ground Delay
+      - Weather
+      - Air Traffic
+      - Other
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_arrival_time_diff
+      label: Scheduled Arrival Time Difference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: actual_arrival_time
+      label: Actual Arrival Time
+      hint: null
+      type: select_one
+      options:
+      - 01h00
+      - 02h00
+      - 03h00
+      - 04h00
+      - 05h00
+      - 06h00
+      - 07h00
+      - 08h00
+      - 09h00
+      - 10h00
+      - 11h00
+      - 12h00
+      - 13h00
+      - 14h00
+      - 15h00
+      - 16h00
+      - 17h00
+      - 18h00
+      - 19h00
+      - 20h00
+      - 21h00
+      - 22h00
+      - 23h00
+      - 00h00
+      required: false
+    - id: 9
+      name: flight_details_diff
+      label: Flight Details Difference
+      hint: null
+      type: select_multiple
+      options:
+      - Departure Delay
+      - Landing Delay
+      - Departure and Landing Delay
+      - No Delay
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: flight_no
+      label: Flight No
+      hint: null
+      type: text
+      options: []
+      required: false

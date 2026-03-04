@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: MSQ Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pain_frequency
+      label: Pain Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: migraine_frequency
+      label: Migraine Frequency
+      hint: null
+      type: select_one
+      options:
+      - Migraine 1-2 times a week
+      - Migraine 3-4 times a week
+      - Migraine 5 or more times a week
+      required: false
+    - id: 4
+      name: migraine_severity
+      label: Migraine Severity
+      hint: null
+      type: select_one
+      options:
+      - Slightly
+      - Moderate
+      - Severe
+      required: false
+    - id: 5
+      name: disability
+      label: disability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_interference
+      label: Work Interference
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: social_activities
+      label: Social Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: emotional_impact
+      label: Emotional Impact
+      hint: null
+      type: select_one
+      options:
+      - Slightly
+      - Moderate
+      - Severe
+      required: false
+    - id: 9
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: medical_conditions_details
+      label: Medical Conditions Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions_other
+      label: Other Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergy
+      label: Allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false

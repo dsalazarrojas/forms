@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cotc Nursing Information Meeting
+    pages:
+    - id: 1
+      name: meeting_title
+      label: meeting_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: registration_time
+      label: registration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: which_one
+      hint: null
+      type: select_one
+      options:
+      - option_one
+      - option_two
+      - option_three
+      required: false
+    - id: 8
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option_one
+      - option_two
+      - option_three
+      - option_four
+      required: false
+    - id: 9
+      name: required_field
+      label: required_field
+      hint: This field is required
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: non_required_field
+      label: non_required_field
+      hint: null
+      type: text
+      options: []
+      required: false

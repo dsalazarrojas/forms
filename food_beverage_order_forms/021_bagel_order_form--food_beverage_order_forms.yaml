@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bagel Order Form
+    pages:
+      - id: 1
+        name: section_customer
+        label: -- Customer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: customer_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: section_order
+        label: -- Bagel Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: bagel_types
+        Label: Bagel Types (Select Quantities)
+        hint: Select varieties you want to order
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: plain_bagels
+        Label: Plain Bagels - Quantity
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 8
+        name: everything_bagels
+        Label: Everything Bagels - Quantity
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 9
+        name: sesame_bagels
+        Label: Sesame Bagels - Quantity
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 10
+        name: poppy_bagels
+        Label: Poppy Seed Bagels - Quantity
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 11
+        name: onion_bagels
+        Label: Onion Bagels - Quantity
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 12
+        name: garlic_bagels
+        Label: Garlic Bagels - Quantity
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 13
+        name: sweet_bagels
+        Label: Sweet Varieties - Quantity
+        hint: Cinnamon raisin, blueberry, etc.
+        type: integer
+        options: []
+        required: false
+      - id: 14
+        name: section_spreads
+        label: -- Spread and Toppings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: spread_preference
+        Label: Spread Preference
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Cream Cheese
+          - Butter
+          - Lox/Smoked Salmon
+          - Hummus
+          - Peanut Butter
+          - Jam
+          - Honey
+          - None
+        required: false
+      - id: 16
+        name: cream_cheese_type
+        Label: Cream Cheese Type (if selected)
+        hint: null
+        type: select_one
+        options:
+          - Plain
+          - Herb and Garlic
+          - Everything
+          - Lox
+          - Vegetable
+          - Honey Walnut
+          - Other
+        required: false
+      - id: 17
+        name: toasting_preference
+        Label: Bagel Toasting Preference
+        hint: null
+        type: select_one
+        options:
+          - Not Toasted
+          - Lightly Toasted
+          - Medium Toast
+          - Well Toasted
+        required: true
+      - id: 18
+        name: section_delivery
+        label: -- Delivery Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: delivery_date
+        Label: Desired Delivery Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 20
+        name: delivery_time
+        Label: Preferred Delivery Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 21
+        name: delivery_address
+        Label: Delivery Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: special_instructions
+        Label: Special Instructions or Dietary Needs
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: order_total
+        Label: Order Total (Calculated)
+        hint: null
+        type: decimal
+        options: []
+        required: false
+      - id: 24
+        name: payment_method
+        Label: Payment Method
+        hint: null
+        type: select_one
+        options:
+          - Credit Card
+          - Debit Card
+          - Cash on Delivery
+          - PayPal
+        required: true
+      - id: 25
+        name: order_confirmation
+        Label: I Confirm This Order is Accurate and Complete
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

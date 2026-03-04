@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shake Order Form
+    pages:
+    - id: 1
+      name: shake_order_form
+      label: Shake Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shake_name
+      label: Shake Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shake_type
+      label: shake-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shake_ice
+      label: shake_ice
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shake_flavor
+      label: shake-flavor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shake_toppings
+      label: shake-toppings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shake_sugar
+      label: shake-sugar
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: shake_additional_notes
+      label: shake additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: tabletop_game_feedback_form
+    pages:
+    - id: 1
+      name: game_info
+      label: Gameplay
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 2
+      name: ratings
+      label: Ratings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: game_improvements
+      label: Game Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: game_id
+      label: Game ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: player_comments
+      label: Player Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter player email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: game_version
+      label: Game Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: player_type
+      label: Player Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: player_platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 17
+      name: player_devices
+      label: Devices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: feedback_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: player_comments_2
+      label: More Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: game_developer
+      label: Game Developer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: game_developer_email
+      label: Game Developer Email
+      hint: null
+      type: email
+      options: []
+      required: false

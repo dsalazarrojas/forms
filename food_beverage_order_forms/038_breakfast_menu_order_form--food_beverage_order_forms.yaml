@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Menu Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date for this order
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: order_time
+      label: Order Time
+      hint: Time for this order
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: dining_option
+      label: Dining Option
+      hint: How will you dine
+      type: select_one
+      options:
+      - Dine-In
+      - Takeout
+      - Delivery
+      - Drive-Through
+      required: true
+    - id: 7
+      name: table_number
+      label: Table Number
+      hint: If dining in
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entree_selection
+      label: Entree Selection
+      hint: Choose your main dish
+      type: select_one
+      options:
+      - Pancakes
+      - Waffles
+      - French Toast
+      - Omelette
+      - Eggs Benedict
+      - Breakfast Burrito
+      - Avocado Toast
+      - Breakfast Sandwich
+      - Crepes
+      - Full English Breakfast
+      required: true
+    - id: 9
+      name: entree_customization
+      label: Entree Customization
+      hint: Any modifications to your entree
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: side_selection
+      label: Side Selection
+      hint: Choose your sides
+      type: select_multiple
+      options:
+      - Bacon
+      - Sausage
+      - Hash Browns
+      - Home Fries
+      - Fresh Fruit
+      - Yogurt Parfait
+      - Coleslaw
+      - Baked Beans
+      - Grilled Tomatoes
+      - Mushrooms
+      required: true
+    - id: 11
+      name: bread_selection
+      label: Bread Selection
+      hint: Choose your bread
+      type: select_one
+      options:
+      - Toast
+      - Biscuit
+      - English Muffin
+      - Croissant
+      - Bagel
+      - No Bread
+      required: true
+    - id: 12
+      name: beverage_selection
+      label: Beverage Selection
+      hint: Choose your drinks
+      type: select_multiple
+      options:
+      - Coffee
+      - Decaf Coffee
+      - Tea
+      - Orange Juice
+      - Apple Juice
+      - Grapefruit Juice
+      - Milk
+      - Hot Chocolate
+      - Smoothie
+      - Water
+      required: true
+    - id: 13
+      name: coffee_customization
+      label: Coffee Customization
+      hint: How do you like your coffee
+      type: select_one
+      options:
+      - Black
+      - With Cream
+      - With Milk
+      - With Non-Dairy Milk
+      - With Sugar
+      - With Sweetener
+      - Custom
+      required: false
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Egg-Free
+      - Low-Sodium
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: Number of identical orders
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Mobile Payment
+      - Room Charge
+      required: true
+    - id: 18
+      name: loyalty_number
+      label: Loyalty Program Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: feedback
+      label: Feedback or Comments
+      hint: Any feedback for us
+      type: text
+      options: []
+      required: false

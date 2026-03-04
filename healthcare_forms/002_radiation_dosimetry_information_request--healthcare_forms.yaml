@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiation Dosimetry Information Request
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: radiation_exposure_date
+      label: Radiation Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: radiation_exposure_time
+      label: Radiation Exposure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: radiation_dose
+      label: Radiation Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: radiation_source
+      label: Radiation Source
+      hint: null
+      type: select_one
+      options:
+      - Source 1
+      - Source 2
+      - Source 3
+      required: false
+    - id: 7
+      name: radiation_type
+      label: Radiation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: radiation_exposure_location
+      label: Radiation Exposure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: radiation_exposure_direction
+      label: Radiation Exposure Direction
+      hint: null
+      type: text
+      options: []
+      required: false

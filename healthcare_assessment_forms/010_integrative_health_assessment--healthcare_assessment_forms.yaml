@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Integrative Health Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None of the above''}'
+      - '{''id'': 2, ''label'': ''High blood pressure''}'
+      - '{''id'': 3, ''label'': ''Diabetes''}'
+      - '{''id'': 4, ''label'': ''Heart disease''}'
+      - '{''id'': 5, ''label'': ''Other'', ''options'': []}'
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: wellness_goals
+      label: Wellness Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''General health''}'
+      - '{''id'': 2, ''label'': ''Weight loss''}'
+      - '{''id'': 3, ''label'': ''Stress management''}'
+      - '{''id'': 4, ''label'': ''Sleep''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      - '{''id'': 6, ''label'': ''Spiritual growth''}'
+      - '{''id'': 7, ''label'': ''Nutrition''}'
+      - '{''id'': 8, ''label'': ''Mindfulness''}'
+      required: false
+    - id: 9
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': False}'
+      - '{''id'': 2, ''label'': True}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      - '{''id'': 4, ''label'': ''Private''}'
+      - '{''id'': 5, ''label'': ''Group''}'
+      required: false
+    - id: 10
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: primary_care_provider
+      label: Primary Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: primary_phone
+      label: Primary Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_phone_2
+      label: Doctor's Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_name_2
+      label: Doctor's Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

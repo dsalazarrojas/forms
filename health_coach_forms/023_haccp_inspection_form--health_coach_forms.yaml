@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: HACCP Inspection Form
+    pages:
+    - id: 1
+      name: haccp_inspection_1
+      label: Food Safety Protocols
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: food_storage
+      label: Food Storage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: haccp_inspection_2
+      label: Hazard Analysis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: temperature
+      label: Temperature Control
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - 'Water Quality: Acceptable'
+      - 'Water Quality: Unacceptable'
+      required: true
+    - id: 6
+      name: equipment_cleaning
+      label: Equipment Cleaning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: chemical_use
+      label: Chemical Use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_training
+      label: Employee Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: first_aid
+      label: First Aid Kit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: waste_disposal
+      label: Waste Disposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: food_labeling
+      label: Food Labeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: pest_control
+      label: Pest Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Pest Control: Acceptable'
+      - 'Pest Control: Unacceptable'
+      required: true
+    - id: 14
+      name: supplier_control
+      label: Supplier Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Supplier Control: Acceptable'
+      - 'Supplier Control: Unacceptable'
+      required: true
+    - id: 15
+      name: employee_hydration
+      label: Employee Hydration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_break
+      label: Employee Break Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: employee_ppe
+      label: Employee PPE
+      hint: null
+      type: select_multiple
+      options:
+      - 'Employee PPE: Acceptable'
+      - 'Employee PPE: Unacceptable'
+      required: true
+    - id: 18
+      name: employee_wash
+      label: Employee Hand Washing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: food_storage_area
+      label: Food Storage Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: food_receiving
+      label: Food Receiving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: food_handling
+      label: Food Handling
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: food_preparation
+      label: Food Preparation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: food_service
+      label: Food Service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: food_removal
+      label: Food Removal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: employee_hvac
+      label: Employee HVAC
+      hint: null
+      type: text
+      options: []
+      required: true

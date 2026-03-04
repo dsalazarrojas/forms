@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Consent Validation Form
+    pages:
+    - id: 1
+      name: patient_consent_validation_form_page_1
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_consent_validation_form_page_2
+      label: Medical Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_consent_validation_form_page_3
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false

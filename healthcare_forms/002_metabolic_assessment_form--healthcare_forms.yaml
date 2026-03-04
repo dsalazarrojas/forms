@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: metabolic_assessment_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: height_unit
+      label: height_unit
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - in
+      - ft
+      - mm
+      required: true
+    - id: 6
+      name: weight_unit
+      label: weight_unit
+      hint: null
+      type: select_one
+      options:
+      - lb
+      - kg
+      - g
+      - oz
+      required: true
+    - id: 7
+      name: metabolic_rate
+      label: metabolic_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - follow_up
+      - follow_up_call
+      required: true

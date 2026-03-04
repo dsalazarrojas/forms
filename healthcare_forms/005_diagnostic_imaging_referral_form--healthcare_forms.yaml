@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: diagnostic_imaging_referral_form
+    pages:
+    - id: 1
+      name: provider_information
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: imaging_services
+      label: Imaging Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referring_physician
+      label: Referring Physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: imaging_request
+      label: Imaging Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: clinical_finding
+      label: Clinical Finding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_medical_records
+      label: Patient Medical Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: imaging_modality
+      label: Imaging Modality
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: radiologist_review
+      label: Radiologist Review
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      - Label 4
+      required: false
+    - id: 12
+      name: final_imaging_recommendation
+      label: Final Imaging Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 13
+      name: imaging_recommendation_date
+      label: Imaging Recommendation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: imaging_report
+      label: Imaging Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: clinical_imaging_recommendation
+      label: Clinical Imaging Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

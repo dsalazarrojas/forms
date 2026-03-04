@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Screening Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: 'null'
+      type: select_multiple
+      options:
+      - '{''option1'': ''value1''}'
+      - '{''option2'': ''value2''}'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_date2
+      label: Medical History Date 2
+      hint: null
+      type: time
+      options: []
+      required: false

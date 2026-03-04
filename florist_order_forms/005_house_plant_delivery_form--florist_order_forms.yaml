@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Plant Delivery Form
+    pages:
+    - id: 1
+      name: house_plant_order
+      label: House Plant Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: house_plant_details
+      label: house_plant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: plant_quantity
+      label: plant_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Card''}'
+      - '{''label'': ''Paypal''}'
+      required: false
+    - id: 10
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: house_plant_price
+      label: house_plant_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: house_plant_discount
+      label: house_plant_discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: house_plant_tax
+      label: house_plant_tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''Paypal''}'
+      required: false

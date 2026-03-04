@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Shot Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date for Booster
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: primary_vaccine_type
+      label: Primary Vaccine Type Received
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Other
+      required: true
+    - id: 8
+      name: primary_vaccine_date_1
+      label: Date of First Dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: primary_vaccine_date_2
+      label: Date of Second Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vaccination_location
+      label: Where were you vaccinated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_side_effects
+      label: Side effects from primary vaccination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: booster_interest
+      label: Do you want to receive a booster shot?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 13
+      name: booster_hesitation
+      label: Reasons for hesitation if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_health_status
+      label: Current Health Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: chronic_conditions
+      label: Chronic Health Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart disease
+      - Lung disease
+      - Kidney disease
+      - Immunocompromised
+      - None
+      required: true
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies
+      hint: Especially vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: covid_history
+      label: Have you had COVID-19 since vaccination?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 19
+      name: covid_recovery_date
+      label: If yes, when were you infected?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: consent_confirmed
+      label: I consent to receive the booster shot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

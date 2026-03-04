@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Wait Time Complaint Form
+    pages:
+    - id: 1
+      name: complaint_submission_date
+      label: Date of Complaint Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visit_incident_date
+      label: Date of Incident
+      hint: When did the wait time issue occur?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visit_time
+      label: Time of Visit
+      hint: Approximate time of day
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: bar_name
+      label: Bar Name
+      hint: Name of establishment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bar_location
+      label: Bar Location/Address
+      hint: Where is the bar located?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Type of Service
+      hint: What were you ordering?
+      type: select_one
+      options:
+      - Drink Service
+      - Food Service
+      - Both Food and Drink
+      - Payment Processing
+      required: true
+    - id: 10
+      name: wait_time_duration
+      label: Actual Wait Time (minutes)
+      hint: How long did you wait?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: wait_time_expected
+      label: Expected Wait Time (minutes)
+      hint: How long should it have been?
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: wait_time_excessive
+      label: Was Wait Time Excessive?
+      hint: null
+      type: select_one
+      options:
+      - Extremely Excessive
+      - Very Excessive
+      - Somewhat Excessive
+      - Reasonable but Longer Than Expected
+      required: true
+    - id: 13
+      name: bar_crowdedness
+      label: How Crowded Was the Bar?
+      hint: What was the occupancy level?
+      type: select_one
+      options:
+      - Empty
+      - Quiet
+      - Moderately Busy
+      - Very Busy
+      - Extremely Crowded
+      required: true
+    - id: 14
+      name: staff_availability
+      label: Number of Staff Members Visible
+      hint: How many staff were working?
+      type: select_one
+      options:
+      - No Staff Visible
+      - 1-2 Staff Members
+      - 3-4 Staff Members
+      - 5+ Staff Members
+      - Difficult to Count
+      required: false
+    - id: 15
+      name: staff_efficiency
+      label: Staff Appeared Busy
+      hint: Were staff members actively working?
+      type: select_one
+      options:
+      - Yes - All Appeared Busy
+      - Mostly Appeared Busy
+      - Some Appeared Busy
+      - No - Staff Not Busy
+      - Unclear
+      required: false
+    - id: 16
+      name: other_customers_waiting
+      label: Other Customers Waiting
+      hint: Were other people also waiting?
+      type: select_one
+      options:
+      - Yes - Long Line
+      - Yes - Several Waiting
+      - Few Others Waiting
+      - No Others Waiting
+      required: false
+    - id: 17
+      name: wait_communication
+      label: Was Wait Time Communicated?
+      hint: Did staff tell you how long?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat - Vague Information
+      required: false
+    - id: 18
+      name: ordeal_consequences
+      label: How Did the Wait Affect You?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Missed the Event
+      - Left Without Service
+      - Bad Experience Ruined Evening
+      - Disappointed
+      - Would Not Return
+      - Told Others About Bad Service
+      - Requested Refund
+      required: false
+    - id: 19
+      name: specific_issues
+      label: Specific Issues Contributing to Wait
+      hint: Why was service slow?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suggestions_improvement
+      label: Suggestions for Improvement
+      hint: How could service be improved?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: compensation_desired
+      label: Desired Compensation
+      hint: Drink credit, refund, discount?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_contact
+      label: Preferred Contact Method for Response
+      hint: How should we respond?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Mail
+      - No Response Needed
+      required: false

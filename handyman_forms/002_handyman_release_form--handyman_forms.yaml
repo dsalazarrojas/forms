@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handymans Release Form
+    pages:
+    - id: 1
+      name: handymans_name
+      label: handymans name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: task_description
+      label: task description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: date of service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: handymans_signature
+      label: handymans signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: notary_signature
+      label: notary signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: notary_name
+      label: notary name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_signed_notary
+      label: date signed notary
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: date_notary_certified
+      label: date notary certified
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: name_of_handymans_license
+      label: name of handymans license
+      hint: null
+      type: select_one
+      options:
+      - Handyman's License
+      - Other
+      required: true
+    - id: 17
+      name: handyman_license_number
+      label: handyman license number
+      hint: null
+      type: select_multiple
+      options:
+      - Handyman's License
+      - Handyman's License
+      - Handyman's License
+      required: true
+    - id: 18
+      name: handyman_license_status
+      label: handyman license status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: date_license_issued
+      label: date license issued
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: expiration_date
+      label: expiration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: address_of_employer
+      label: address of employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: name_of_employer
+      label: name of employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employer_phone
+      label: employer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employer_email
+      label: employer email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employer_address
+      label: employer address
+      hint: null
+      type: text
+      options: []
+      required: false

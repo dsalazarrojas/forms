@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: fundraising_campaign_records_release_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_id
+      label: campaign_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: campaign_type
+      label: campaign_type
+      hint: null
+      type: select_multiple
+      options:
+      - Fundraising
+      - Awareness
+      - Other
+      required: false
+    - id: 5
+      name: campaign_date
+      label: campaign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: campaign_start_date
+      label: campaign_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campaign_end_date
+      label: campaign_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: fundraising_goal
+      label: fundraising_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: campaign_budget
+      label: campaign_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_note
+      label: participant_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: organization_email
+      label: organization_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: organization_phone
+      label: organization_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_note
+      label: organization_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: campaign_status
+      label: campaign_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

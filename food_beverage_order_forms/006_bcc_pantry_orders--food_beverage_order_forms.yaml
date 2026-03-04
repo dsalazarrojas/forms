@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: BCC Pantry Orders
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: Full name of member placing order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_id
+      label: Member ID Number
+      hint: Your membership identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number for questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_date
+      label: Preferred Pickup Date
+      hint: When will you collect your order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: grain_items
+      label: Grain Items Needed
+      hint: Select grains you wish to order
+      type: select_multiple
+      options:
+      - Rice
+      - Pasta
+      - Bread
+      - Flour
+      - Oats
+      - Quinoa
+      - None
+      required: true
+    - id: 8
+      name: protein_items
+      label: Protein Items Needed
+      hint: Select protein items
+      type: select_multiple
+      options:
+      - Canned tuna
+      - Canned chicken
+      - Beans
+      - Lentils
+      - Peanut butter
+      - Eggs
+      - None
+      required: true
+    - id: 9
+      name: dairy_items
+      label: Dairy Items Needed
+      hint: Select dairy products
+      type: select_multiple
+      options:
+      - Milk
+      - Cheese
+      - Yogurt
+      - Butter
+      - None
+      required: true
+    - id: 10
+      name: produce_items
+      label: Fresh Produce Needed
+      hint: Select fruits and vegetables
+      type: select_multiple
+      options:
+      - Apples
+      - Bananas
+      - Oranges
+      - Potatoes
+      - Carrots
+      - Onions
+      - Leafy greens
+      - None
+      required: true
+    - id: 11
+      name: pantry_staples
+      label: Pantry Staples Needed
+      hint: Select essential items
+      type: select_multiple
+      options:
+      - Cooking oil
+      - Salt and pepper
+      - Sugar
+      - Canned vegetables
+      - Canned fruit
+      - Soup
+      - Cereal
+      - None
+      required: true
+    - id: 12
+      name: baby_items
+      label: Baby Items Needed
+      hint: Select if applicable
+      type: select_multiple
+      options:
+      - Baby formula
+      - Baby food
+      - Diapers
+      - Baby wipes
+      - Not applicable
+      required: true
+    - id: 13
+      name: household_items
+      label: Household Items Needed
+      hint: Select cleaning and household supplies
+      type: select_multiple
+      options:
+      - Dish soap
+      - Laundry detergent
+      - Paper towels
+      - Toilet paper
+      - Trash bags
+      - None
+      required: true
+    - id: 14
+      name: quantity_notes
+      label: Quantity Notes
+      hint: Specify quantities or special requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Important for appropriate item selection
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: Any additional needs or comments
+      type: text
+      options: []
+      required: false

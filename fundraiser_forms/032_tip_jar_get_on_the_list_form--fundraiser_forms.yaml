@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tip Jar Get On The List Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the person
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Email of the person
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone number of the person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Physical address of the person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: Tip Amount
+      hint: Amount of tip
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often they would like to donate
+      type: select_multiple
+      options:
+      - Monthly
+      - One time
+      - Quarterly
+      - Annualy
+      - Never
+      required: false
+    - id: 8
+      name: donation_method
+      label: Donation Method
+      hint: Method of donation
+      type: select_one
+      options:
+      - Card number (Cardless)
+      - Bank transfer
+      - PayPal
+      - Check
+      - Online banking
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: Any additional message to the recipient
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: charity_name
+      label: Charity Name
+      hint: Name of the charity
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organization_name
+      label: Organization
+      hint: Organization supporting the employee
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization_address
+      label: Organization Address
+      hint: Address of the organization
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization_website
+      label: Organization Website
+      hint: Website of the organization
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: charity_website
+      label: Charity Website
+      hint: Website of the charity
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_name
+      label: Employee Name
+      hint: Name of the employee
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_id
+      label: Employee ID
+      hint: ID of the employee
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_email
+      label: Employee Email
+      hint: Email of the employee
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: employee_phone
+      label: Employee Phone
+      hint: Phone number of the employee
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_address
+      label: Employee Address
+      hint: Physical address of the employee
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_job_title
+      label: Job Title
+      hint: Job title of the employee
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_department
+      label: Department
+      hint: Department of the employee
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_name
+      label: Manager Name
+      hint: Name of the manager
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_email
+      label: Manager Email
+      hint: Email of the manager
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: manager_phone
+      label: Manager Phone
+      hint: Phone number of the manager
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_address
+      label: Manager Address
+      hint: Physical address of the manager
+      type: text
+      options: []
+      required: false

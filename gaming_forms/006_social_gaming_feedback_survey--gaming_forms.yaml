@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Gaming Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gaming_habits
+      label: gaming_habits
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Almost Always''}'
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: What are some new features you would like to see in games or platforms?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media
+      label: Social Media
+      hint: Which social media platforms do you use for gaming related activities?
+      type: select_multiple
+      options:
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Twitch''}'
+      - '{''label'': ''Reddit''}'
+      - '{''label'': ''Discord''}'
+      required: false
+    - id: 8
+      name: follow_streams
+      label: Follow streams
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Always''}'
+      required: false
+    - id: 9
+      name: follow_channels
+      label: follow_channels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Often''}'
+      required: false
+    - id: 10
+      name: follow_shoutouts
+      label: follow_shoutouts
+      hint: What percent chance of getting a shoutout in a game do you think you'll
+        get?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_club_memberships
+      label: follow_club_memberships
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''One''}'
+      - '{''label'': ''Two''}'
+      - '{''label'': ''Three''}'
+      required: false
+    - id: 12
+      name: follow_streamer_channels
+      label: follow_streamer_channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''One''}'
+      - '{''label'': ''Two''}'
+      - '{''label'': ''Three''}'
+      required: false
+    - id: 13
+      name: follow_streamer_shoutouts
+      label: follow_streamer_shoutouts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''One''}'
+      - '{''label'': ''Two''}'
+      - '{''label'': ''Three''}'
+      required: false
+    - id: 14
+      name: follow_streamer_tips
+      label: follow_streamer_tips
+      hint: What is the most common type of tip or advice you find helpful?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_streamer_tips_value
+      label: follow_streamer_tips_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_streamer_tips_value_type
+      label: follow_streamer_tips_value_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Game Mechanics''}'
+      - '{''label'': ''Game Strategies''}'
+      - '{''label'': ''Game Setting''}'
+      - '{''label'': ''Other (Please specify)''}'
+      required: false
+    - id: 17
+      name: game_studio_preferences
+      label: game_studio_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Important''}'
+      - '{''label'': ''Somewhat Important''}'
+      - '{''label'': ''Not Important at All''}'
+      required: false
+    - id: 18
+      name: community_preferences
+      label: community_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Important''}'
+      - '{''label'': ''Somewhat Important''}'
+      - '{''label'': ''Not Important at All''}'
+      required: false
+    - id: 19
+      name: platform_preferences
+      label: platform_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Important''}'
+      - '{''label'': ''Somewhat Important''}'
+      - '{''label'': ''Not Important at All''}'
+      required: false
+    - id: 20
+      name: game_developer_preferences
+      label: game_developer_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Important''}'
+      - '{''label'': ''Somewhat Important''}'
+      - '{''label'': ''Not Important at All''}'
+      required: false
+    - id: 21
+      name: game_developer_favourite_language
+      label: game_developer_favourite_language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''C++''}'
+      - '{''label'': ''Java''}'
+      - '{''label'': ''C''}'
+      - '{''label'': ''JavaScript''}'
+      - '{''label'': ''Python''}'
+      - '{''label'': ''Other (Please specify)''}'
+      required: false
+    - id: 22
+      name: game_developer_favourite_language_type
+      label: game_developer_favourite_language_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''C++''}'
+      - '{''label'': ''C''}'
+      - '{''label'': ''Java''}'
+      - '{''label'': ''JavaScript''}'
+      - '{''label'': ''Other (Please specify)''}'
+      required: false
+    - id: 23
+      name: game_developer_favourite_language_framework
+      label: game_developer_favourite_language_framework
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Unity''}'
+      - '{''label'': ''Unreal Engine''}'
+      - '{''label'': ''Godot''}'
+      - '{''label'': ''Cocos2d-x''}'
+      required: false
+    - id: 24
+      name: game_developer_favourite_language_engine
+      label: game_developer_favourite_language_engine
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''C#''}'
+      - '{''label'': ''C++''}'
+      - '{''label'': ''C''}'
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: Any further comments or thoughts?
+      type: text
+      options: []
+      required: false

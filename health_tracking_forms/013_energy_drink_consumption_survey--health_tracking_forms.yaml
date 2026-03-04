@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Drink Consumption Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_frequent
+      label: How Frequently Do You Consume Energy Drinks?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: how_much
+      label: How Much Energy Do You Consume Per Week?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: why_drink
+      label: Why Do You Drink Energy Drinks?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: side_effects
+      label: Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: other_effects
+      label: Other Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: income_group
+      label: Income Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_year
+      label: School Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 14
+      name: survey_end
+      label: Survey End
+      hint: null
+      type: note
+      options: []
+      required: false

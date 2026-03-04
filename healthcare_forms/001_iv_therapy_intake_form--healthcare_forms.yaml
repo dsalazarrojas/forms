@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: iv_therapy_intake_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: infectious_disease
+      label: infectious_disease
+      hint: null
+      type: select_multiple
+      options:
+      - Influenza
+      - Pneumonia
+      - Hepatitis
+      required: false
+    - id: 4
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_one
+      options:
+      - Peanut allergy
+      - Pollen allergy
+      - Shellfish allergy
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_additional
+      label: med_hx
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก - 'Paxlo' - 'ประก'
+      - Other
+      required: false
+    - id: 9
+      name: medical_contact
+      label: medical_contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_one
+      options:
+      - Step one
+      - Step two
+      - Step three
+      required: false
+    - id: 11
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - Consent 1
+      - Consent 2
+      - Consent 3
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Specialist Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_one
+      options:
+      - Cardiologist
+      - Dermatologist
+      - Endocrinologist
+      - Gastroenterologist
+      - Nephrologist
+      - Neurologist
+      - Pulmonologist
+      - Urologist
+      required: false
+    - id: 3
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Patient needs specialist care
+      - Specialist care is recommended
+      - Patient is seeking specialist care
+      required: false
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: specialist_contact
+      label: Specialist Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: specialist_name
+      label: Specialist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specialist_address
+      label: Specialist Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_comment
+      label: Referral Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: specialist_note
+      label: Specialist Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: specialist_phone
+      label: Specialist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: specialist_gender
+      label: Specialist Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_medication
+      label: Patient Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: specialist_medication
+      label: Specialist Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: specialist_allergies
+      label: Specialist Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_med_history
+      label: Patient Med History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: specialist_med_history
+      label: Specialist Med History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 25
+      name: specialist_fee
+      label: Specialist Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: patient_fee
+      label: Patient Fee
+      hint: null
+      type: number
+      options: []
+      required: false

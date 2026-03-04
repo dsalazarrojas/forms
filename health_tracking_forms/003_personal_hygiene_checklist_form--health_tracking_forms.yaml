@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Hygiene Checklist Form
+    pages:
+    - id: 1
+      name: personal_hygiene_checklist_form_page_1
+      label: Personal Hygiene
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_hygiene_checklist_form_page_2
+      label: Hygiene Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: personal_hygiene_checklist_form_page_3
+      label: Personal Grooming
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: personal_hygiene_checklist_form_page_4
+      label: Showering
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: personal_hygiene_checklist_form_page_5
+      label: Haircare
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: personal_hygiene_checklist_form_page_6
+      label: Skincare
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: personal_hygiene_checklist_form_page_7
+      label: Toothbrush
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: personal_hygiene_checklist_form_page_8
+      label: Nail Care
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: personal_hygiene_checklist_form_page_9
+      label: Hygiene Frequency Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: personal_hygiene_checklist_form_page_10
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: personal_hygiene_checklist_form_page_11
+      label: Hair
+      hint: null
+      type: time
+      options: []
+      required: false

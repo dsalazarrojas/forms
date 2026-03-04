@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esports Broadcaster Licensing Application
+    pages:
+    - id: 1
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tournament_id
+      label: Tournament ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: broadcaster_name
+      label: Broadcaster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: license_details
+      label: License Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: broadcast_schedule
+      label: Broadcast Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: broadcast_duration
+      label: Broadcast Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: license_request
+      label: License Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: broadcast_media
+      label: Broadcast Media
+      hint: null
+      type: select_multiple
+      options:
+      - TV
+      - Radio
+      - Digital
+      - Social Media
+      - Other
+      required: false
+    - id: 12
+      name: license_agreement
+      label: License Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: text
+      options: []
+      required: false

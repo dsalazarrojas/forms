@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax and VAT Consultation Form
+    pages:
+    - id: 1
+      name: tax_information
+      label: Tax Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vat_number
+      label: Vat number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: business_details
+      label: Business Details
+      hint: null
+      type: select_multiple
+      options:
+      - sole proprietorship
+      - company ltd
+      - other
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tax_type
+      label: Tax Type
+      hint: null
+      type: select_one
+      options:
+      - vat
+      - tax
+      - other
+      required: true
+    - id: 8
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tax_date
+      label: Tax Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_expert
+      label: Tax Expert
+      hint: null
+      type: select_one
+      options:
+      - chartered accountant
+      - cma
+      - other
+      required: true
+    - id: 13
+      name: tax_office
+      label: Tax Office
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: post_code
+      label: Post Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - england
+      - wales
+      - scotland
+      required: true
+    - id: 18
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: vat_rate
+      label: Vat Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - private
+      - public
+      required: false
+    - id: 21
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

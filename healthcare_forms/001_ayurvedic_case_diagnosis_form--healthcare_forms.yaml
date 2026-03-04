@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayurvedic Case Diagnosis Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient full name
+      hint: Full legal name as shown on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: chief_complaint
+      label: Chief complaint or presenting concern
+      hint: Brief description of symptoms or reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pulse_and_dosha_notes
+      label: Pulse and dosha observations
+      hint: Practitioner notes on pulse and dosha assessment
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Relevant medical history
+      hint: Past diagnoses surgeries medications allergies
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: Current medications and supplements
+      hint: Include dose and frequency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lifestyle_habits
+      label: Lifestyle habits
+      hint: Diet sleep exercise tobacco alcohol use
+      type: select_multiple
+      options:
+      - Diet
+      - Sleep
+      - Exercise
+      - Tobacco use
+      - Alcohol use
+      required: false
+    - id: 10
+      name: practitioner_plan
+      label: Recommended treatment plan
+      hint: Suggested therapies detox diet herbal remedies follow up
+      type: text
+      options: []
+      required: false

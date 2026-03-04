@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Finger Windows Assessment
+    pages:
+    - id: 1
+      name: participant_performance
+      label: Participant performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_notes
+      label: Evaluator notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_id
+      label: Participant ID
+      hint: Participant ID
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      required: true
+    - id: 4
+      name: participant_dob
+      label: Participant DOB
+      hint: Participant date of birth
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_gender
+      label: Participant gender
+      hint: Participant gender
+      type: select_one
+      options:
+      - M
+      - F
+      required: true
+    - id: 6
+      name: participant_windows
+      label: Participant Windows
+      hint: Participant Windows
+      type: select_multiple
+      options:
+      - Windows 10
+      - Windows 11
+      - Windows 12
+      required: false
+    - id: 7
+      name: evaluator_name
+      label: Evaluator name
+      hint: Evaluator name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluator_notes
+      label: Evaluator notes
+      hint: Evaluator notes
+      type: text
+      options: []
+      required: false

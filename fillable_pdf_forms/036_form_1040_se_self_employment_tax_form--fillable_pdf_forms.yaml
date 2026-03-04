@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form 1040 SE Self Employment Tax Form
+    pages:
+    - id: 1
+      name: self_employment_income
+      label: self_employment_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expenses_deductible
+      label: expenses_deductable
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: self_employment_business_name
+      label: self_employment_business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: self_employment_business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_design_thinking_lab_filming_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recording_consents
+      label: Recording Consents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Recording for education and research purposes''}'
+      - '{''value'': ''Recording for promotional use by our organization''}'
+      - '{''value'': ''Recording for internal project team meetings''}'
+      required: false
+    - id: 3
+      name: recording_media
+      label: Recording Media
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Video''}'
+      - '{''value'': ''Audio''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 4
+      name: consent
+      label: Consent to Record
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: participant_photo_video
+      label: Participant's Photo or Video
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone Number''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 7
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_organization
+      label: Healthcare Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: filming_consent_date
+      label: Filming Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: recording_consent_signed_by
+      label: Recording Consent Signed By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Participant''}'
+      - '{''value'': ''Representative''}'
+      required: false
+    - id: 11
+      name: participant_signature
+      label: Participant's Signature
+      hint: null
+      type: text
+      options: []
+      required: false

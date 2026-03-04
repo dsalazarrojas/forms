@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chest Press Workout Log
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: workout_date
+      label: Workout Date
+      hint: Date of this workout
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: workout_time
+      label: Workout Time
+      hint: Time of workout
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: gym_location
+      label: Gym Location
+      hint: Where did you train
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exercise_type
+      label: Exercise Type
+      hint: Type of chest press exercise
+      type: select_one
+      options:
+      - Barbell bench press
+      - Dumbbell bench press
+      - Incline bench press
+      - Decline bench press
+      - Machine chest press
+      - Smith machine press
+      - Push-ups
+      - Dips
+      required: true
+    - id: 6
+      name: grip_width
+      label: Grip Width
+      hint: Width of grip used
+      type: select_one
+      options:
+      - Narrow
+      - Medium
+      - Wide
+      - Not applicable
+      required: false
+    - id: 7
+      name: bar_weight
+      label: Bar Weight
+      hint: Weight of bar alone
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: added_weight
+      label: Added Weight
+      hint: Weight added to bar per side
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_weight
+      label: Total Weight
+      hint: Total weight lifted
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: dumbbell_weight
+      label: Dumbbell Weight
+      hint: Weight per dumbbell if applicable
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: set_1_weight
+      label: Set 1 Weight
+      hint: Weight used for first set
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: set_1_reps
+      label: Set 1 Reps
+      hint: Repetitions completed in set 1
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: set_1_rpe
+      label: Set 1 RPE
+      hint: Rate of perceived exertion (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: set_2_weight
+      label: Set 2 Weight
+      hint: Weight used for second set
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: set_2_reps
+      label: Set 2 Reps
+      hint: Repetitions completed in set 2
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: set_2_rpe
+      label: Set 2 RPE
+      hint: Rate of perceived exertion (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: set_3_weight
+      label: Set 3 Weight
+      hint: Weight used for third set
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: set_3_reps
+      label: Set 3 Reps
+      hint: Repetitions completed in set 3
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: set_3_rpe
+      label: Set 3 RPE
+      hint: Rate of perceived exertion (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: set_4_weight
+      label: Set 4 Weight
+      hint: Weight used for fourth set
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: set_4_reps
+      label: Set 4 Reps
+      hint: Repetitions completed in set 4
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: set_5_weight
+      label: Set 5 Weight
+      hint: Weight used for fifth set
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: set_5_reps
+      label: Set 5 Reps
+      hint: Repetitions completed in set 5
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_volume
+      label: Total Volume
+      hint: Total weight x reps for all sets
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: rest_between_sets
+      label: Rest Between Sets
+      hint: Average rest time in seconds
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: warm_up_sets
+      label: Warm-up Sets Completed
+      hint: Number of warm-up sets
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: spotter_used
+      label: Did You Use a Spotter
+      hint: Was a spotter present
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: form_quality
+      label: Form Quality
+      hint: How was your form today
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 29
+      name: energy_level
+      label: Energy Level
+      hint: How was your energy today
+      type: select_one
+      options:
+      - Very high
+      - High
+      - Average
+      - Low
+      - Very low
+      required: true
+    - id: 30
+      name: pain_or_discomfort
+      label: Pain or Discomfort
+      hint: Did you experience any pain
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 31
+      name: pain_location
+      label: Pain Location
+      hint: Where did you feel pain if any
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: personal_record
+      label: Did You Set a Personal Record
+      hint: Did you achieve a new PR
+      type: select_one
+      options:
+      - Yes, new max
+      - Yes, new reps
+      - false
+      required: true
+    - id: 33
+      name: workout_notes
+      label: Workout Notes
+      hint: Any notes about this workout
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: next_workout_goals
+      label: Next Workout Goals
+      hint: What are your goals for next time
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: coach_name
+      label: Coach Name
+      hint: Name of your coach if applicable
+      type: text
+      options: []
+      required: false

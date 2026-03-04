@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Handyman Service Payment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank transfer
+      - Card
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_cost
+      label: Service cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

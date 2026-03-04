@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Facility Emergency Assessment Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergency_contact
+      hint: Contact person's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - Medical Emergency
+      - Fire
+      - Other
+      - Environmental Hazard
+      required: true
+    - id: 4
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: facility_condition
+      label: facility_condition
+      hint: Describe the incident conditions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urgent_needs
+      label: urgent_needs
+      hint: List the urgent needs
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_capacity
+      label: facility_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_capacity
+      label: patient_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_team_size
+      label: medical_team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: staff_training
+      label: staff_training
+      hint: null
+      type: select_multiple
+      options:
+      - CPR/First Aid
+      - Basic Life Support
+      - Advanced Life Support
+      - Both
+      required: true
+    - id: 12
+      name: facility_equipment
+      label: facility_equipment
+      hint: List the facility equipment available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporting
+      label: incident_reporting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reporting_person
+      label: reporting_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reporting_contact
+      label: reporting_contact
+      hint: Contact person's name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_description
+      label: incident_description
+      hint: Describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_weather
+      label: incident_weather
+      hint: Weather conditions at the time of the incident
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_injuries
+      label: incident_injuries
+      hint: List the injuries or damage to people, property, or environment
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_phone
+      label: facility_phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_email
+      label: facility_email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: facility_address
+      label: facility_address
+      hint: Facility address
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_website
+      label: facility_website
+      hint: Website
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_notes
+      label: facility_notes
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

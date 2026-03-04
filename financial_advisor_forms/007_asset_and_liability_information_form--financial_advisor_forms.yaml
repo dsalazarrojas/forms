@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset And Liability Information Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_year
+      label: Reporting Year
+      hint: Year for this financial report
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of this statement
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: owner_first_name
+      label: Owner First Name
+      hint: Business owner name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_last_name
+      label: Owner Last Name
+      hint: Business owner surname
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_assets_cash
+      label: Cash and Cash Equivalents
+      hint: Value of liquid cash
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: current_assets_receivables
+      label: Accounts Receivable
+      hint: Money owed by customers
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_assets_inventory
+      label: Inventory Value
+      hint: Value of goods held
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_assets_other
+      label: Other Current Assets
+      hint: Other liquid assets
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fixed_assets_property
+      label: Real Property and Buildings
+      hint: Value of owned property
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fixed_assets_equipment
+      label: Equipment and Machinery
+      hint: Value of equipment owned
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fixed_assets_depreciation
+      label: Accumulated Depreciation
+      hint: Total depreciation on fixed assets
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: intangible_assets
+      label: Intangible Assets
+      hint: Goodwill, patents, trademarks
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: other_assets
+      label: Other Assets
+      hint: Any other asset categories
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_assets
+      label: Total Assets
+      hint: Sum of all assets
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: current_liabilities_payable
+      label: Accounts Payable
+      hint: Money owed to suppliers
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: current_liabilities_loans
+      label: Current Portion of Loans
+      hint: Short-term loan obligations
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: current_liabilities_taxes
+      label: Taxes Payable
+      hint: Accrued tax obligations
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: current_liabilities_other
+      label: Other Current Liabilities
+      hint: Other short-term obligations
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: long_term_debt
+      label: Long-Term Debt
+      hint: Notes and mortgages payable
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_liabilities
+      label: Total Liabilities
+      hint: Sum of all debts and obligations
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: owner_equity
+      label: Owner Equity
+      hint: Assets minus liabilities
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: major_changes
+      label: Major Changes This Year
+      hint: Describe significant asset/liability changes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: significant_events
+      label: Significant Financial Events
+      hint: Any major purchases, sales, or events
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accountant_name
+      label: Accountant or Preparer Name
+      hint: Person preparing this statement
+      type: text
+      options: []
+      required: true

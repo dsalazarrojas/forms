@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Steak Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''customer_name''}'
+      - '{''name'': ''email''}'
+      required: true
+    - id: 2
+      name: steak_preference
+      label: Steak preference
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''rare''}'
+      - '{''name'': ''medium_rare''}'
+      - '{''name'': ''well_done''}'
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''card_number''}'
+      - '{''name'': ''expiration_date''}'
+      - '{''name'': ''cvv''}'
+      required: false
+    - id: 4
+      name: order_info
+      label: Order information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''quantity''}'
+      - '{''name'': ''order_date''}'
+      - '{''name'': ''delivery_time''}'
+      required: false
+    - id: 5
+      name: customer_note
+      label: Customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''phone''}'
+      - '{''name'': ''address''}'
+      required: false
+    - id: 7
+      name: order_total
+      label: Order total
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cash Handling Procedures Audit Form
+    pages:
+      - id: 1
+        name: audit_header_section
+        label: -- Audit Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: audit_date
+        label: Audit Date
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: auditor_name
+        label: Auditor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: organization_name
+        label: Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: location_audited
+        label: Location or Department Audited
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: personnel_policies_section
+        label: -- Personnel Policies and Training --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: cash_handling_policy_documented
+        label: Is cash handling policy documented?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partial
+        required: true
+      - id: 8
+        name: training_provided
+        label: Is cash handling training provided to staff?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, regularly"
+          - "Yes, sometimes"
+          - "No"
+        required: true
+      - id: 9
+        name: access_controls_section
+        label: -- Access Controls --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: restricted_access
+        label: Is access to cash restricted to authorized personnel?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partially
+        required: true
+      - id: 11
+        name: access_logging
+        label: Are access events logged or monitored?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partial
+        required: true
+      - id: 12
+        name: safe_security_section
+        label: -- Safe and Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: safe_available
+        label: Is a safe or secure storage available?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 14
+        name: safe_condition
+        label: Condition of safe
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - No safe present
+        required: true
+      - id: 15
+        name: key_access_controlled
+        label: Are safe keys properly controlled?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Needs improvement
+        required: true
+      - id: 16
+        name: counting_procedures_section
+        label: -- Counting Procedures --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: counting_frequency
+        label: How often is cash counted?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - As needed
+          - Not regularly counted
+        required: true
+      - id: 18
+        name: two_person_rule
+        label: Is two-person verification rule followed?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, always"
+          - "Yes, usually"
+          - "Sometimes"
+          - "No"
+        required: true
+      - id: 19
+        name: documentation_procedures_section
+        label: -- Documentation and Records --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: receipts_issued
+        label: Are receipts issued for all cash transactions?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Mostly
+        required: true
+      - id: 21
+        name: records_maintained
+        label: Are detailed cash handling records maintained?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partially
+        required: true
+      - id: 22
+        name: reconciliation_section
+        label: -- Reconciliation and Variance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: daily_reconciliation
+        label: Is daily reconciliation performed?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Inconsistently
+        required: true
+      - id: 24
+        name: variance_investigation
+        label: Are cash variances investigated?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, thoroughly"
+          - "Yes, sometimes"
+          - "No"
+        required: true
+      - id: 25
+        name: audit_findings
+        label: Audit Findings and Recommendations
+        hint: Summary of audit results
+        type: text
+        options: []
+        required: false

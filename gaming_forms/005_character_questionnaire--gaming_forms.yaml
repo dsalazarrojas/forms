@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Questionnaire
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: Your gaming name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: character_name
+      label: Character Name
+      hint: Full name of your character
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_class
+      label: Character Class
+      hint: Primary class or role
+      type: select_one
+      options:
+      - Warrior
+      - Mage
+      - Rogue
+      - Cleric
+      - Ranger
+      - Paladin
+      - Bard
+      - Druid
+      required: true
+    - id: 4
+      name: character_race
+      label: Character Race
+      hint: Species or ancestry
+      type: select_one
+      options:
+      - Human
+      - Elf
+      - Dwarf
+      - Orc
+      - Halfling
+      - Dragonborn
+      - Tiefling
+      - Gnome
+      required: true
+    - id: 5
+      name: character_level
+      label: Character Level
+      hint: Current experience level
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: character_alignment
+      label: Character Alignment
+      hint: Moral and ethical compass
+      type: select_one
+      options:
+      - Lawful good
+      - Neutral good
+      - Chaotic good
+      - Lawful neutral
+      - True neutral
+      - Chaotic neutral
+      - Lawful evil
+      - Neutral evil
+      - Chaotic evil
+      required: true
+    - id: 7
+      name: strength_score
+      label: Strength Score
+      hint: Physical power rating
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dexterity_score
+      label: Dexterity Score
+      hint: Agility and reflexes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: constitution_score
+      label: Constitution Score
+      hint: Health and endurance
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: intelligence_score
+      label: Intelligence Score
+      hint: Mental acuity
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: wisdom_score
+      label: Wisdom Score
+      hint: Insight and perception
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: charisma_score
+      label: Charisma Score
+      hint: Social influence
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: background
+      label: Character Background
+      hint: Origin story
+      type: select_one
+      options:
+      - Acolyte
+      - Criminal
+      - Folk hero
+      - Noble
+      - Sage
+      - Soldier
+      - Urchin
+      - Custom
+      required: true
+    - id: 14
+      name: special_abilities
+      label: Special Abilities
+      hint: Unique powers or skills
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment
+      label: Starting Equipment
+      hint: Weapons armor and items
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: character_goal
+      label: Character Goal
+      hint: Primary objective
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: party_role
+      label: Role in the Party
+      hint: How you contribute to the group
+      type: select_one
+      options:
+      - Tank
+      - Damage dealer
+      - Support
+      - Healer
+      - Controller
+      - Scout
+      - Face
+      required: true
+    - id: 18
+      name: character_flaw
+      label: Character Flaw
+      hint: A weakness or vice
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_traits
+      label: Additional Traits
+      hint: Any other defining characteristics
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: COPD Patient Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: physician_name
+      label: Physician or Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: copd_diagnosis_date
+      label: COPD Diagnosis Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: copd_stage
+      label: COPD Stage
+      hint: null
+      type: select_one
+      options:
+      - Gold 1 (Mild)
+      - Gold 2 (Moderate)
+      - Gold 3 (Severe)
+      - Gold 4 (Very Severe)
+      required: true
+    - id: 8
+      name: smoking_status
+      label: Current Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Current smoker
+      - Former smoker
+      - Never smoker
+      required: true
+    - id: 9
+      name: pack_years
+      label: Pack-Years of Smoking
+      hint: For former and current smokers
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_symptoms
+      label: Current COPD Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chronic cough
+      - Shortness of breath
+      - Chest tightness
+      - Wheezing
+      - Excess sputum
+      - Fatigue
+      required: true
+    - id: 11
+      name: symptom_frequency
+      label: Symptom Frequency
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Most days
+      - Several times per week
+      - A few times per week
+      - Occasional
+      required: true
+    - id: 12
+      name: exercise_tolerance
+      label: Exercise Tolerance Level
+      hint: null
+      type: select_one
+      options:
+      - No limitations
+      - Slight limitation with strenuous activity
+      - Limitation with moderate activity
+      - Severe limitation
+      - Unable to walk
+      required: true
+    - id: 13
+      name: fev1_percentage
+      label: FEV1 Percentage Predicted
+      hint: Forced Expiratory Volume
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current COPD Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication_adherence
+      label: Medication Adherence
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: exacerbations_past_year
+      label: COPD Exacerbations in Past Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: hospitalizations_past_year
+      label: Hospitalizations in Past Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: comorbidities
+      label: Comorbid Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Heart disease
+      - Anxiety
+      - Depression
+      - Osteoporosis
+      required: false
+    - id: 19
+      name: mental_health_screening
+      label: Patient screens positive for depression
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not assessed
+      required: false
+    - id: 20
+      name: vaccination_status
+      label: Influenza and Pneumonia Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Up to date
+      - Needs influenza vaccine
+      - Needs pneumonia vaccine
+      - Needs both vaccines
+      - Contraindicated
+      required: true

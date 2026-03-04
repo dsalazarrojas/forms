@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headache Diary Form
+    pages:
+    - id: 1
+      name: patient_symptoms
+      label: patient symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trigger
+      label: triggers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: treatment
+      label: treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: headache_frequency
+      label: headache frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_last_headache
+      label: date of last headache
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_last_headache
+      label: time of last headache
+      hint: null
+      type: time
+      options: []
+      required: false

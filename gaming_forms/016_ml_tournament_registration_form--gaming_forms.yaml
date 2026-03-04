@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: ML_Tournament_Registration_Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_leader_name
+      label: team_leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_leader_email
+      label: team_leader_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: tournament_type
+      label: tournament_type
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Individual
+      required: false
+    - id: 5
+      name: tournament_date
+      label: tournament_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: tournament_time
+      label: tournament_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tournament_location
+      label: tournament_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_players
+      label: number_of_players
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tournament_fee
+      label: tournament_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false

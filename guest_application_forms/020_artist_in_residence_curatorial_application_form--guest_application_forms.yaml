@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist In Residence Curatorial Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_website
+      label: Artist Website or Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: primary_medium
+      label: Primary Art Medium or Discipline
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Installation
+      - Performance
+      - Digital
+      - Curatorial
+      - Mixed Media
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: education
+      label: Education Background
+      hint: Degrees, institutions, training
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_residencies
+      label: Previous Artist-in-Residence Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: curatorial_experience
+      label: Curatorial or Exhibition Experience
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: residency_duration
+      label: Preferred Residency Duration - Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: proposed_project
+      label: Proposed Project or Exhibition Concept
+      hint: 200-300 words
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_goals
+      label: Project Goals and Outcomes
+      hint: What you hope to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: community_engagement
+      label: Community Engagement Plans
+      hint: How will you involve the community
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facilities_needed
+      label: Facilities and Resources Needed
+      hint: Studio space, equipment, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget_estimate
+      label: Estimated Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: exhibition_plans
+      label: Plans for Public Presentation
+      hint: Exhibition, performance, publication
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: references
+      label: References or Recommenders
+      hint: Name, title, contact information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: portfolio_attached
+      label: Portfolio or Work Samples Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_statement
+      label: Additional Artist Statement
+      hint: null
+      type: text
+      options: []
+      required: false

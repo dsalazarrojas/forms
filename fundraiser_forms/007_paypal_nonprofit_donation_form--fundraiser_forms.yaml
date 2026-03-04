@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayPal Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Recurring
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: frequency_end_date
+      label: Frequency End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dementia Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Dementia
+      - Alzheimer's
+      - Other
+      required: true
+    - id: 4
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Therapy
+      - Other
+      required: true
+    - id: 5
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: specialist_unit
+      label: Specialist Unit
+      hint: null
+      type: select_multiple
+      options:
+      - Memory Clinic
+      - Geriatric Unit
+      - Other
+      required: true
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Smith
+      required: true
+    - id: 10
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: specialist_doctor
+      label: Specialist Doctor
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Smith
+      required: true
+    - id: 13
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Active - In Progress
+      - Other
+      required: true
+    - id: 14
+      name: patient_family
+      label: Patient Family
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: specialist_unit_details
+      label: Specialist Unit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinic
+      required: true
+    - id: 21
+      name: specialist_doctor_notes
+      label: Specialist Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Completed
+      - Other
+      required: false
+    - id: 24
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false

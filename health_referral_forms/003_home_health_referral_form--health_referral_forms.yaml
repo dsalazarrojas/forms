@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_info
+      label: Referral Info
+      hint: This is a referral form for home health care.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_insurance_info
+      label: Health Insurance Info
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Medicare
+      - Medicaid
+      - Tricare
+      required: false
+    - id: 4
+      name: home_health_care_services_needed
+      label: Home Health Care Services Needed
+      hint: null
+      type: select_one
+      options:
+      - Physical Therapy
+      - Occupational Therapy
+      - Speech Therapy
+      - Other
+      required: false
+    - id: 5
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Specialist
+      - Other
+      required: false
+    - id: 8
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_health_care_services_provided
+      label: Home Health Care Services Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Bathing Assistance
+      - Dressing Assistance
+      - Feeding Assistance
+      - Medication Management
+      - Other
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Staff
+      - Other
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Staff
+      - Other
+      required: false
+    - id: 22
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_by_user
+      label: Updated By User
+      hint: null
+      type: text
+      options: []
+      required: false

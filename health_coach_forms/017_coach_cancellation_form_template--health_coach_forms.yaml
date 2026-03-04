@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Cancellation Form Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: Name of your coach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date Being Cancelled
+      hint: Date of the session to cancel
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: Time of the session
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: What type of session is being cancelled
+      type: select_one
+      options:
+      - Initial Consultation
+      - Regular Coaching Session
+      - Follow-Up Session
+      - Assessment Session
+      - Group Session
+      - Workshop or Class
+      required: true
+    - id: 8
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Why do you need to cancel
+      type: select_one
+      options:
+      - Illness or Injury
+      - Family Emergency
+      - Work Conflict
+      - Travel Issues
+      - Personal Emergency
+      - Schedule Conflict
+      - Need More Time
+      - Other
+      required: true
+    - id: 9
+      name: cancellation_details
+      label: Cancellation Details
+      hint: Provide more information about your reason
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notice_given
+      label: How Much Notice Are You Giving
+      hint: When are you cancelling relative to appointment
+      type: select_one
+      options:
+      - More than 72 Hours
+      - 48-72 Hours
+      - 24-48 Hours
+      - 12-24 Hours
+      - Less than 12 Hours
+      - Same Day
+      required: true
+    - id: 11
+      name: cancellation_fee_understanding
+      label: Cancellation Fee Understanding
+      hint: You understand any applicable fees
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 12
+      name: reschedule_interest
+      label: Would You Like to Reschedule
+      hint: Do you want to book another session
+      type: select_one
+      options:
+      - Yes Definitely
+      - Maybe Later
+      - No Thanks
+      required: true
+    - id: 13
+      name: preferred_reschedule_date
+      label: Preferred Reschedule Date
+      hint: When would you like to reschedule
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_reschedule_time
+      label: Preferred Reschedule Time
+      hint: What time works for reschedule
+      type: select_one
+      options:
+      - Morning 8AM-12PM
+      - Afternoon 12PM-5PM
+      - Evening 5PM-8PM
+      - Weekend Available
+      required: false
+    - id: 15
+      name: refund_request
+      label: Are You Requesting a Refund
+      hint: Do you want a refund for prepaid session
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 16
+      name: refund_reason
+      label: Refund Reason
+      hint: Why are you requesting a refund
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: future_coaching_interest
+      label: Interest in Future Coaching
+      hint: Do you plan to continue coaching later
+      type: select_one
+      options:
+      - Yes Definitely
+      - Probably
+      - Not Sure
+      - Probably Not
+      - false
+      required: false
+    - id: 18
+      name: feedback_on_coaching
+      label: Feedback on Coaching So Far
+      hint: How was your experience with coaching
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_performance_rating
+      label: Coach Performance Rating
+      hint: Rate your coach if you had sessions
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_date
+      label: Date of Cancellation Request
+      hint: Today date
+      type: date
+      options: []
+      required: true

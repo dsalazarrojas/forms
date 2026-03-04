@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Cancer Care Drug Therapy Survey
+    pages:
+      - id: 1
+        name: drug_therapy_intro
+        label: -- Cancer Care - Drug Therapy Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: treatment_facility_name
+        label: Where did you receive your drug therapy?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: oncologist_communication
+        label: How often did oncologists explain things about your drug therapy in a way you could understand?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 4
+        name: nurse_attentiveness
+        label: How often did the nurses or medical assistants listen carefully to you?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 5
+        name: drug_side_effects_discussion
+        label: Did the care team talk to you about what to do if you had side effects from your drug therapy?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, somewhat
+          - No
+        required: true
+      - id: 6
+        name: pharmacy_service_quality
+        label: How often was the pharmacy staff helpful when you needed drugs for your cancer?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+          - Not Applicable
+        required: true
+      - id: 7
+        name: financial_counseling_access
+        label: Did someone from the facility talk to you about how much your drug therapy would cost?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: infusion_center_cleanliness
+        label: How often was the area where you received your drug therapy kept clean?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Sometimes
+          - Usually
+          - Always
+        required: true
+      - id: 9
+        name: emotional_wellbeing_check
+        label: Did anyone on your care team ask how your cancer was affecting your mood?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: symptom_management_help
+        label: How much help did you get from your care team for symptoms like nausea or fatigue?
+        hint: null
+        type: select_one
+        options:
+          - None
+          - A little
+          - Some
+          - A lot
+        required: true
+      - id: 11
+        name: overall_drug_therapy_rating
+        label: Overall rating of your cancer drug therapy care
+        hint: 0 is worst, 10 is best
+        type: select_one
+        options:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 12
+        name: life_impact_comments
+        label: How has this treatment impacted your daily life?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: care_team_coordination
+        label: How well did the care team coordinate your drug therapy with other cancer treatments?
+        hint: null
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 14
+        name: anonymous_consent
+        label: May we use your feedback to improve our services anonymously?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

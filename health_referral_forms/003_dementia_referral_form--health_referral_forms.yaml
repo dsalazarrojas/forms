@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dementia Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chief_complaint
+      label: Chief Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cognitive_impact
+      label: Cognitive Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mild''}'
+      - '{''label'': ''Moderate''}'
+      - '{''label'': ''Severe''}'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 5
+      name: medication_usage
+      label: Medication Usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Hypertension''}'
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''Heart Disease''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: cognitive_function
+      label: Cognitive Function
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mental_status
+      label: Mental Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alert''}'
+      - '{''label'': ''Confused''}'
+      - '{''label'': ''Hallucinating''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 9
+      name: family_info
+      label: Family Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Caregiver''}'
+      - '{''label'': ''Family Member''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: doctor_notes
+      label: Doctor's Notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referral''}'
+      - '{''label'': ''Evaluation''}'
+      - '{''label'': ''Other''}'
+      required: false

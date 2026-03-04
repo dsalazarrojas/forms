@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Eligibility Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Heart Disease
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_services
+      label: medical_services
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Gastroenterology
+      - Nephrology
+      - Neurology
+      - Obstetrics
+      - Orthopedics
+      - Pulmonology
+      - Urology
+      required: false
+    - id: 6
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      required: false
+    - id: 7
+      name: physician_notes
+      label: physician_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_plan
+      label: insurance_plan
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Blue Shield
+      - Medicare
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_1
+      label: address_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address_2
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_eligibility_form
+      label: medical_eligibility_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_eligibility_determination
+      label: medical_eligibility_determination
+      hint: null
+      type: select_one
+      options:
+      - Eligible
+      - Ineligible
+      - Pending
+      required: false

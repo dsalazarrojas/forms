@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Provider Pre Registration Survey
+    pages:
+    - id: 1
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Clinic, hospital, pharmacy name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_type
+      label: Type of Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Pharmacy
+      - Urgent care
+      - Health department
+      - Mobile clinic
+      - Other
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_section
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: address_street
+      label: Facility Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_hours
+      label: Operating Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: capacity_section
+      label: -- Vaccination Capacity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vaccination_experience
+      label: Prior COVID-19 vaccination experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 14
+      name: daily_capacity
+      label: Daily vaccination capacity
+      hint: Number of patients per day
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: staff_available
+      label: Number of healthcare staff available
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vaccine_storage
+      label: Vaccine storage capacity
+      hint: null
+      type: select_one
+      options:
+      - Ultra-low freezer
+      - Standard freezer
+      - Refrigerator only
+      - None available
+      required: true
+    - id: 17
+      name: cold_chain_training
+      label: Staff trained in cold chain management
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Some staff
+      required: true
+    - id: 18
+      name: distribution_section
+      label: -- Distribution and Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: distribution_preference
+      label: Preferred vaccine types for distribution
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - All types
+      - No preference
+      required: true
+    - id: 20
+      name: supply_needs
+      label: Estimated vaccine supply needs
+      hint: Number of doses per week
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: equipment_needs
+      label: Equipment or supplies needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: barriers_section
+      label: -- Challenges and Barriers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: anticipated_barriers
+      label: Anticipated barriers to vaccination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: outreach_capacity
+      label: Community outreach capacity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - None
+      required: true
+    - id: 25
+      name: multilingual_services
+      label: Multilingual services available
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Spanish
+      - Mandarin
+      - Vietnamese
+      - Somali
+      - Other languages
+      required: false
+    - id: 26
+      name: accessibility_measures
+      label: Accessibility measures in place
+      hint: Wheelchair access, accommodations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: data_section
+      label: -- Data and Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: reporting_capability
+      label: Ability to report vaccination data
+      hint: null
+      type: select_one
+      options:
+      - Real-time electronic reporting
+      - Daily reporting
+      - Weekly reporting
+      - Uncertain
+      required: true

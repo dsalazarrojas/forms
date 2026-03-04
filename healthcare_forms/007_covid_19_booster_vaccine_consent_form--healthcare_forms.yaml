@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Consent Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Booster Vaccine Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mrn
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_section
+      label: -- Vaccine Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: understanding
+      label: I have reviewed information about the booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: benefits_understanding
+      label: I understand benefits of the booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: risks_understanding
+      label: I understand potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: prior_allergic_reaction
+      label: Prior allergic reactions to vaccines or components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 12
+      name: current_illness
+      label: Currently ill or have fever
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: other_vaccines
+      label: Other vaccines received in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: immunocompromised
+      label: Immunocompromised or take immunosuppressive medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: pregnant_nursing
+      label: Pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 16
+      name: consent_signature
+      label: I consent to receive the COVID-19 booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 17
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

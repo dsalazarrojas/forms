@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quick Donation Form
+    pages:
+    - id: 1
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fund
+      label: fund
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: affiliation
+      label: affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_other
+      label: other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false

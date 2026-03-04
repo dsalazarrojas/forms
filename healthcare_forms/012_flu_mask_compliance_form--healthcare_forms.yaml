@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: flu_mask_compliance_form
+    pages:
+    - id: 1
+      name: category
+      label: healthcare_forms
+      hint: null
+      type: select_one
+      options:
+      - healthcare_forms
+      - Other
+      required: false
+    - id: 2
+      name: description
+      label: flu_mask_compliance_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 4
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

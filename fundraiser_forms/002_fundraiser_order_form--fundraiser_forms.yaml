@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - T-Shirt
+      - Hat
+      - Mug
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total
+      label: Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: donation
+      label: Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: square
+      label: Square
+      hint: null
+      type: select_multiple
+      options:
+      - Square
+      - PayPal
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - One Time Payment
+      - Recurring Payment
+      required: false

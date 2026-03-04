@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Clinic Appointment
+    pages:
+    - id: 1
+      name: patient_form
+      label: Patient Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Check up
+      - Scheduling
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unclaimed Assets Recovery Inquiry Form
+    pages:
+    - id: 1
+      name: recovery_details
+      label: Recovery Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_documentation
+      label: Request Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: recovery_service_details
+      label: Recovery Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: legal_or_financial_team
+      label: Legal or Financial Team
+      hint: null
+      type: select_one
+      options:
+      - Recovery Services Team
+      - Legal Team
+      - Financial Team
+      required: true
+    - id: 6
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 7
+      name: recovery_agent
+      label: Recovery Agent
+      hint: null
+      type: select_one
+      options:
+      - Recovery Team Member 1
+      - Recovery Team Member 2
+      - Recovery Team Member 3
+      required: false
+    - id: 8
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unclaimed_property
+      label: Unclaimed Property
+      hint: null
+      type: select_multiple
+      options:
+      - Unclaimed Asset 1
+      - Unclaimed Asset 2
+      - Unclaimed Asset 3
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recovery_service
+      label: Recovery Service
+      hint: null
+      type: select_one
+      options:
+      - Recovery Service 1
+      - Recovery Service 2
+      - Recovery Service 3
+      required: false
+    - id: 16
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: unclaimed_asset
+      label: Unclaimed Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: request_amount
+      label: Request Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: recovery_method
+      label: Recovery Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recovery_notes
+      label: Recovery Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recovery_status
+      label: Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 23
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Asset Type 1
+      - Asset Type 2
+      - Asset Type 3
+      required: false
+    - id: 24
+      name: asset_value
+      label: Asset Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: asset_value_currency
+      label: Asset Value Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - USD
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Monitoring Form
+    pages:
+    - id: 1
+      name: fire_safety_monitoring_form
+      label: Fire Safety Monitoring Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_safety_inspection_date
+      label: Fire Safety Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_inspection_time
+      label: Fire Safety Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fire_safety_monitoring_status
+      label: Fire Safety Monitoring Status
+      hint: null
+      type: select_one
+      options:
+      - Fire Safety Not Conducted
+      - Fire Safety Conducted
+      - Ongoing Monitoring
+      required: false
+    - id: 7
+      name: fire_safety_risk_level
+      label: Fire Safety Risk Level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 8
+      name: fire_safety_risk_factors
+      label: Fire Safety Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fire_safety_training
+      label: Fire Safety Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fire_safety_plan
+      label: Fire Safety Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fire_safety_inspector
+      label: Fire Safety Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fire_safety_inspector_phone
+      label: Fire Safety Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fire_safety_inspector_email
+      label: Fire Safety Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: fire_safety_notes
+      label: Fire Safety Notes
+      hint: null
+      type: note
+      options: []
+      required: false

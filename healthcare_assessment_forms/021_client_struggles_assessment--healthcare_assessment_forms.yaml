@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Struggles Assessment
+    pages:
+    - id: 1
+      name: client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: primary_concerns
+      label: -- Primary Concerns and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: main_struggle
+      label: What is your biggest struggle or challenge right now?
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: struggle_duration
+      label: How long have you been dealing with this struggle?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 10
+      name: struggle_intensity
+      label: How intense is this struggle? - 1 to 10
+      hint: 1 = Minimal, 10 = Severe
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: impact_on_life
+      label: How does this struggle impact your daily life?
+      hint: Describe the effects
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: secondary_struggles
+      label: What other struggles or challenges are you facing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: affected_areas
+      label: Which areas of your life are most affected?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical Health
+      - Mental Health
+      - Emotional Well-being
+      - Relationships
+      - Work or Career
+      - Finances
+      - Education
+      - Family
+      - Social Life
+      - Other
+      required: true
+    - id: 14
+      name: root_causes_section
+      label: -- Understanding the Root Causes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: struggle_causes
+      label: What do you think is causing these struggles?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contributing_factors
+      label: Other factors contributing to your struggles
+      hint: Stress, relationships, habits, environment, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_attempts
+      label: Have you tried to address these struggles before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: previous_efforts
+      label: What approaches or solutions have you tried?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: why_unsuccessful
+      label: If previous attempts were unsuccessful, why do you think?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: priorities_section
+      label: -- Priorities and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: priority_areas
+      label: What areas would you most like to improve?
+      hint: Rank your top 3 priorities
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: ideal_outcome
+      label: What would an ideal resolution look like for you?
+      hint: Describe your best possible outcome
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: success_timeframe
+      label: What timeframe would you like to see improvement?
+      hint: null
+      type: select_one
+      options:
+      - Immediate relief
+      - Weeks
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: false
+    - id: 24
+      name: support_section
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: current_support
+      label: What support or resources do you currently have?
+      hint: Family, friends, professionals, organizations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: support_needed
+      label: What type of support or help would be most valuable?
+      hint: null
+      type: select_multiple
+      options:
+      - Professional Counseling
+      - Medical Treatment
+      - Life Coaching
+      - Community Support
+      - Educational Resources
+      - Financial Assistance
+      - Medication
+      - Lifestyle Changes
+      - Other
+      required: true
+    - id: 27
+      name: barriers_to_help
+      label: What prevents you from getting the help you need?
+      hint: Cost, accessibility, stigma, etc.
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: health_status
+      label: -- Health and Wellness Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: physical_health
+      label: How would you rate your physical health?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 30
+      name: mental_health
+      label: How would you rate your mental health?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false

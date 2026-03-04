@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Cost Calculator
+    pages:
+    - id: 1
+      name: distance_traveled
+      label: Distance Traveled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: fuel_price
+      label: Fuel Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: consumption_rate
+      label: Consumption Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: drive_frequency
+      label: Drive Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': 5}'
+      - '{''label'': ''Medium'', ''value'': 3}'
+      - '{''label'': ''Low'', ''value'': 1}'
+      required: false
+    - id: 7
+      name: fuel_consumption_rate
+      label: Fuel Consumption Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fuel_consumption_unit
+      label: Fuel Consumption Unit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Gallons'', ''value'': ''Gallons''}'
+      - '{''label'': ''Kiloliters'', ''value'': ''Kiloliters''}'
+      - '{''label'': ''Liters'', ''value'': ''Liters''}'
+      - '{''label'': ''Ounces'', ''value'': ''Ounces''}'
+      - '{''label'': ''Tonnes'', ''value'': ''Tonnes''}'
+      required: false
+    - id: 9
+      name: fuel_consumption_type
+      label: Fuel Consumption Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Diesel'', ''value'': ''diesel''}'
+      - '{''label'': ''Electric'', ''value'': ''electric''}'
+      - '{''label'': ''Gasoline'', ''value'': ''gasoline''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: consumption_type
+      label: Consumption Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Directly Injected'', ''value'': ''direct_injected''}'
+      - '{''label'': ''Indirectly Injected'', ''value'': ''indirectly_injected''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 11
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fuel_cost
+      label: Fuel Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Diesel'', ''value'': ''diesel''}'
+      - '{''label'': ''Electric'', ''value'': ''electric''}'
+      - '{''label'': ''Gasoline'', ''value'': ''gasoline''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 14
+      name: fuel_consumption
+      label: Fuel Consumption
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low'', ''value'': ''low''}'
+      - '{''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''label'': ''High'', ''value'': ''high''}'
+      required: true
+    - id: 15
+      name: fuel_price_per_unit
+      label: Fuel Price per Unit
+      hint: null
+      type: number
+      options: []
+      required: false

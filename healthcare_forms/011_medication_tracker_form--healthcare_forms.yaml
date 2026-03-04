@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Tracker Form
+    pages:
+    - id: 1
+      name: medication_tracker_form
+      label: Morning
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: dosage
+      label: Dosage
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: medication_name
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: next_dose
+      label: Next Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: dose
+      label: Dose
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: last_dose_date
+      label: Last Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_dose_time
+      label: Last Dose Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: last_dose_dose
+      label: Last Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_dose_time
+      label: Next Dose Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

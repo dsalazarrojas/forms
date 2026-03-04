@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_monitoring_behavior_form
+    pages:
+    - id: 1
+      name: general_health
+      label: overall_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exercise_frequency
+      label: physical_activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sleep_duration
+      label: sleep_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mental_health
+      label: mental_wellness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: eating_habits
+      label: eating_habits
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Healthy''}'
+      - '{''label'': ''Unhealthy''}'
+      required: false
+    - id: 6
+      name: social_connections
+      label: social_connections
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Friends''}'
+      - '{''label'': ''Family''}'
+      - '{''label'': ''Colleagues''}'
+      required: false
+    - id: 7
+      name: stress_management
+      label: stress_management
+      hint: Manage your stress
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: self_awareness
+      label: self_awareness
+      hint: null
+      type: note
+      options: []
+      required: false

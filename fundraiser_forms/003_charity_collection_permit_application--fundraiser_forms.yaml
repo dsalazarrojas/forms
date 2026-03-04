@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Collection Permit Application
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: charity_reg_number
+      label: Charity Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_collection_plan
+      label: -- Collection Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: collection_start_date
+      label: Collection Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: collection_end_date
+      label: Collection End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: collection_locations
+      label: Specific Collection Locations
+      hint: List all public areas intended for collection
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: collection_method
+      label: Method of Collection
+      hint: How will funds be collected
+      type: select_one
+      options:
+      - Buckets/Cans
+      - QR Code / Digital
+      - Selling Merchandise
+      - Ticket Sales
+      required: true
+    - id: 11
+      name: expected_participants
+      label: Number of Collectors
+      hint: Estimated number of volunteers or staff
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: target_amount
+      label: Fundraising Target Amount ($)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_compliance
+      label: -- Compliance and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: safety_plan
+      label: Safety and Security Measures
+      hint: Describe how collectors and funds will be kept safe
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: public_liability_insurance
+      label: Do you have active public liability insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: acknowledgement
+      label: I acknowledge all data provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

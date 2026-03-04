@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: physical_therapy_evaluation_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: chief_complaint
+      label: chief_complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physical_condition
+      label: physical_condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: physical_therapy_diagnosis
+      label: physical_therapy_diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false

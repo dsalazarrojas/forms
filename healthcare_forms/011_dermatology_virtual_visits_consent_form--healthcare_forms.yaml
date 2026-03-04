@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermatology Virtual Visits Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_info
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual Visits
+      - In-person Visits
+      required: true
+    - id: 6
+      name: visit_location
+      label: Visit Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home Visit
+      - Clinic
+      - Hospital
+      required: true
+    - id: 7
+      name: signature
+      label: Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: hipaa
+      label: HIPAA Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: visit_notes
+      label: Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_title
+      label: Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: clinic_phone
+      label: Clinic Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: clinic_email
+      label: Clinic Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: clinic_fax
+      label: Clinic Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: clinic_license
+      label: Clinic License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: false

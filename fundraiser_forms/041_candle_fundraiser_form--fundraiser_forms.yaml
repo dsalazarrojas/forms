@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candle Fundraiser Form
+    pages:
+    - id: 1
+      name: organization_details_section
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fundraiser_organization_name
+      label: Organization Name
+      hint: e.g. Charity Name, School Club
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fundraiser_coordinator_name
+      label: Fundraising Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fundraiser_contact_email
+      label: Contact Email
+      hint: Primary point of contact for the fundraiser
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: fundraiser_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_details_section
+      label: -- Sales Details --
+      hint: Information about the sale
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fundraiser_customer_name
+      label: Customer Full Name
+      hint: The person purchasing the candles
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fundraiser_customer_address
+      label: Customer Address
+      hint: For delivery or record keeping
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_selection_section
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: scented_candle_choices
+      label: Scented Candle Options
+      hint: Choose your favorite scents
+      type: select_multiple
+      options:
+      - Lavender Bliss ($10)
+      - Vanilla Bean ($10)
+      - Ocean Breeze ($12)
+      - Apple Cinnamon ($12)
+      - Midnight Jasmine ($15)
+      required: true
+    - id: 11
+      name: fundraiser_candle_quantity
+      label: Quantity Total
+      hint: How many candles in total are being ordered
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: fundraiser_order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: pickup_delivery_preference
+      label: Pickup or Delivery Preference
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Pick up at Office
+      - Home Delivery ($5 extra)
+      - School Pick up
+      required: true
+    - id: 14
+      name: payment_info_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: fundraiser_payment_method
+      label: Payment Method
+      hint: Select how the customer paid
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - Cash
+      - Check
+      - Venmo or PayPal
+      required: true
+    - id: 16
+      name: total_amount_paid_val
+      label: Total Amount Paid
+      hint: Sum of products plus any delivery fees
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_reference_number
+      label: Reference or Check Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agreement_confirmation_section
+      label: -- Agreement and Confirmation --
+      hint: Final acknowledgments
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: sales_final_agreement
+      label: I understand all sales are final
+      hint: Confirm customer understanding of refund policy
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: future_fundraiser_info_pref
+      label: I would like more information on future fundraisers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: fundraiser_submission_date_val
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

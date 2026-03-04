@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSA Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_id
+      label: Customer ID or Member Number
+      hint: If existing customer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Delivery location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: share_type
+      label: CSA Share Type
+      hint: Select the type of share
+      type: select_one
+      options:
+      - Vegetable share
+      - Fruit share
+      - Mixed produce share
+      - Small share
+      - Large share
+      - Family share
+      required: true
+    - id: 8
+      name: share_size
+      label: Share Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra large
+      required: true
+    - id: 9
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: How often you receive shares
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Seasonal
+      required: true
+    - id: 10
+      name: season_selection
+      label: Season Selection
+      hint: What season to receive share
+      type: select_multiple
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      - Year-round
+      required: true
+    - id: 11
+      name: number_of_shares
+      label: Number of Shares
+      hint: Quantity ordered
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: seasonal_cost
+      label: Seasonal Cost per Share
+      hint: Price for the season
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: Allergies, organic preference etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_items
+      label: Preferred Items
+      hint: What produce you prefer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: avoid_items
+      label: Items to Avoid
+      hint: What you do not want
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - EBT or SNAP
+      - Cash at pickup
+      required: true
+    - id: 17
+      name: pickup_delivery
+      label: Pickup or Delivery
+      hint: How you receive your share
+      type: select_one
+      options:
+      - Pickup at farm
+      - Pickup at farmers market
+      - Home delivery
+      - Alternative location
+      required: true
+    - id: 18
+      name: pickup_location
+      label: Pickup Location
+      hint: Specific pickup point if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agreement
+      label: I Agree to CSA Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

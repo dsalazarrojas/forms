@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthy_habits_questionnaire
+    pages:
+    - id: 1
+      name: physical_activity
+      label: Physical activity
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise regularly
+      - Exercise occasionally
+      - Rarely exercise
+      required: false
+    - id: 2
+      name: water_intake
+      label: Water intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_duration
+      label: Sleep duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: healthy_eating
+      label: Healthy eating
+      hint: null
+      type: select_one
+      options:
+      - Fruits and vegetables
+      - Processed foods
+      - Unhealthy snacks
+      - No preference
+      required: false
+    - id: 5
+      name: smoking_status
+      label: Smoking status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Do not know
+      required: false
+    - id: 6
+      name: alcohol_consumption
+      label: Alcohol consumption
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - 2-3 times a week
+      - Once a week
+      - Every 2-3 days
+      - Every 1-2 days
+      - Every day
+      required: false
+    - id: 7
+      name: exercise_frequency
+      label: Exercise frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
+      - 7 or more times per week
+      required: false
+    - id: 8
+      name: daily_stress
+      label: Daily stress
+      hint: null
+      type: select_multiple
+      options:
+      - Not at all
+      - 1-2 days per week
+      - 3-4 days per week
+      - Almost every day
+      required: false
+    - id: 9
+      name: overall_health
+      label: Overall health
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: mental_health
+      label: Mental health
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false

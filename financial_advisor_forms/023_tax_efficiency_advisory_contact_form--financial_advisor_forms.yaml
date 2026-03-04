@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Efficiency Advisory Contact Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Enter your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: advisory_needs
+      label: Advisory Needs
+      hint: Describe your advisory needs
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Tax Advisory
+      - Financial Planning
+      - Other
+      required: true
+    - id: 6
+      name: follow_up_preference
+      label: Follow-up Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 7
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: Send the form
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identify Your Culinary Style
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Main Section
+      hint: Please select a field
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_field_2
+      label: Favorite Cuisine
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Italian''}'
+      - '{''name'': ''Mexican''}'
+      - '{''name'': ''Chinese''}'
+      - '{''name'': ''Japanese''}'
+      - '{''name'': ''Indian''}'
+      - '{''name'': ''Korean''}'
+      - '{''name'': ''French''}'
+      required: true
+    - id: 3
+      name: form_field_3
+      label: Cooking Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Grilling''}'
+      - '{''name'': ''Baking''}'
+      - '{''name'': ''Boiling''}'
+      - '{''name'': ''Steaming''}'
+      - '{''name'': ''Frying''}'
+      - '{''name'': ''Roasting''}'
+      required: true
+    - id: 4
+      name: form_field_4
+      label: Additional Comments or Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_field_5
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_field_6
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_field_7
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_field_8
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: form_field_9
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_field_10
+      label: Food Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Meat-based''}'
+      - '{''name'': ''Seafood-based''}'
+      - '{''name'': ''Dairy-based''}'
+      - '{''name'': ''Vegan-based''}'
+      - '{''name'': ''Gluten-free''}'
+      - '{''name'': ''Low-Sodium''}'
+      - '{''name'': ''Low-Fat''}'
+      required: true
+    - id: 11
+      name: form_field_11
+      label: Meal Time
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Morning''}'
+      - '{''name'': ''Afternoon''}'
+      - '{''name'': ''Evening''}'
+      - '{''name'': ''All-day''}'
+      required: true
+    - id: 12
+      name: form_field_12
+      label: Section 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_field_13
+      label: Section 4
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: form_field_14
+      label: Section 5
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: form_field_15
+      label: Section 6
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_field_16
+      label: Section 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Yes''}'
+      - '{''name'': ''No''}'
+      - '{''name'': ''Unsure''}'
+      required: true
+    - id: 17
+      name: form_field_17
+      label: Section 8
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_field_18
+      label: Section 9
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Grains''}'
+      - '{''name'': ''Fruits''}'
+      - '{''name'': ''Vegetables''}'
+      - '{''name'': ''Nuts''}'
+      - '{''name'': ''Seeds''}'
+      - '{''name'': ''Spices''}'
+      required: true
+    - id: 19
+      name: form_field_19
+      label: Section 10
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_field_20
+      label: Section 11
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Rare''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''High''}'
+      required: true
+    - id: 21
+      name: form_field_21
+      label: Section 12
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Morning''}'
+      - '{''name'': ''Afternoon''}'
+      - '{''name'': ''Evening''}'
+      - '{''name'': ''All-day''}'
+      required: true
+    - id: 22
+      name: form_field_22
+      label: Section 13
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Grilled''}'
+      - '{''name'': ''Baked''}'
+      - '{''name'': ''Steamed''}'
+      - '{''name'': ''Roasted''}'
+      required: true
+    - id: 23
+      name: form_field_23
+      label: Section 14
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Breakfast''}'
+      - '{''name'': ''Lunch''}'
+      - '{''name'': ''Dinner''}'
+      - '{''name'': ''Snack''}'
+      required: true

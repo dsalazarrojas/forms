@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Payoff Statement Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: mortgage_amount
+      label: Mortgage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: loan_number
+      label: Loan Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_value
+      label: Property Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - 30 years
+      - 20 years
+      - 15 years
+      required: false
+    - id: 14
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Select all that apply
+      - 15 years
+      - 20 years
+      - 30 years
+      required: false
+    - id: 15
+      name: jumbo_loan
+      label: Jumbo Loan
+      hint: null
+      type: select_multiple
+      options:
+      - Select all that apply
+      - 1 million
+      - 2 million
+      - 3 million
+      required: false
+    - id: 16
+      name: conforming
+      label: Conforming
+      hint: null
+      type: select_multiple
+      options:
+      - Select all that apply
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: escrow_status
+      label: Escrow Status
+      hint: null
+      type: select_multiple
+      options:
+      - Select all that apply
+      - Open
+      - Closed
+      required: false

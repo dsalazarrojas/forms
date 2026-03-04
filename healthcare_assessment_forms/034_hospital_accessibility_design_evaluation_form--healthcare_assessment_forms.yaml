@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Accessibility Design Evaluation Form
+    pages:
+    - id: 1
+      name: facility_accessibility
+      label: Facility Accessibility
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 2
+      name: accessibility_ramp
+      label: Accessibility Ramp
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 3
+      name: evaluator_feedback
+      label: Evaluator Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Evaluator Name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      required: true
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: facility_id
+      label: Facility ID
+      hint: Facility ID
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: evaluator_rating
+      label: Evaluator Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 10
+      name: facility_accessibility_score
+      label: Facility Accessibility Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: facility_location_rating
+      label: Facility Location Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 12
+      name: facility_elevation
+      label: Facility Elevation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 13
+      name: facility_orientation
+      label: Facility Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 14
+      name: facility_navigability
+      label: Facility Navigability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 15
+      name: facility_entrance
+      label: Facility Entrance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 16
+      name: facility_pathways
+      label: Facility Pathways
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 17
+      name: facility_accessibility_level
+      label: Facility Accessibility Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 18
+      name: facility_accessibility_features
+      label: Facility Accessibility Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 19
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: evaluator_recommendations
+      label: Evaluator Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: facility_id
+      label: Facility ID
+      hint: Facility ID
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      required: true
+    - id: 24
+      name: facility_elevation
+      label: Facility Elevation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 25
+      name: facility_orientation
+      label: Facility Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true

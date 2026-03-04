@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Trauma Management Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient info
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5 years
+      - 6-12 years
+      - 13-17 years
+      - 18+ years
+      required: false
+    - id: 3
+      name: trauma_score
+      label: trauma score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trauma_score
+      label: trauma score
+      hint: null
+      type: select_one
+      options:
+      - mild
+      - moderate
+      - severe
+      required: false
+    - id: 5
+      name: treatment_plan
+      label: treatment plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_plan
+      label: treatment plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trauma_assessment
+      label: trauma assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: trauma_assessment
+      label: trauma assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: confidence
+      label: confidence
+      hint: null
+      type: select_multiple
+      options:
+      - 0-25
+      - 26-50
+      - 51-75
+      - 76-100
+      required: false
+    - id: 10
+      name: clinical_decision_making
+      label: clinical decision making
+      hint: null
+      type: select_multiple
+      options:
+      - 0-25
+      - 26-50
+      - 51-75
+      - 76-100
+      required: false

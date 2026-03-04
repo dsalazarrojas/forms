@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: ENT Discharge Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Discharged'', ''label'': ''Discharged''}'
+      - '{''value'': ''Not Discharged'', ''label'': ''Not Discharged''}'
+      required: false
+    - id: 8
+      name: patient_acknowledgement
+      label: Patient Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false

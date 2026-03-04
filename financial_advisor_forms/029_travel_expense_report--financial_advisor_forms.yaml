@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel-expense-report
+    pages:
+    - id: 1
+      name: travel_expense_report_page1
+      label: travel-expense-report-page-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_expense_form_section_1
+      label: travel-expense-form-section-1-label
+      hint: null
+      type: select_one
+      options:
+      - expense-type
+      - expense-category
+      - expense-city
+      - expense-country
+      required: false
+    - id: 3
+      name: travel_expense_form_section_1_expense_type
+      label: travel-expense-form-section-1-expense-type-label
+      hint: null
+      type: select_multiple
+      options:
+      - lodging
+      - transportation
+      - food-and-beverage
+      required: false
+    - id: 4
+      name: travel_expense_form_section_1_expense_category
+      label: travel-expense-form-section-1-expense-category-label
+      hint: null
+      type: select_one
+      options:
+      - lodging
+      - transportation
+      - food-and-beverage
+      required: false
+    - id: 5
+      name: travel_expense_form_section_1_expense_city
+      label: travel-expense-form-section-1-expense-city-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_expense_form_section_1_expense_country
+      label: travel-expense-form-section-1-expense-country-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_expense_form_section_1_expense_date
+      label: travel-expense-form-section-1-expense-date-label
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_expense_form_section_1_expense_time
+      label: travel-expense-form-section-1-expense-time-label
+      hint: "hh:mm"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: travel_expense_form_section_1_expense_note
+      label: travel-expense-form-section-1-expense-note-label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_expense_form_section_1_expense_email
+      label: travel-expense-form-section-1-expense-email-label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: travel_expense_form_section_1_expense_phone
+      label: travel-expense-form-section-1-expense-phone-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_expense_form_section_2
+      label: travel-expense-form-section-2-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_expense_form_subsection_1
+      label: travel-expense-form-subsection-1-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_expense_form_subsection_1_expense_subform_1_expense_subtype_1
+      label: travel-expense-form-subsection-1-expense-subform-1-expense-subtype-1-label
+      hint: null
+      type: select_one
+      options:
+      - lodging
+      - transportation
+      - food-and-beverage
+      required: false
+    - id: 15
+      name: travel_expense_form_subsection_1_expense_subform_1_expense_date
+      label: travel-expense-form-subsection-1-expense-subform-1-expense-date-label
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false

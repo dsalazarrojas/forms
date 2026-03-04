@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Game Inventory List
+    pages:
+    - id: 1
+      name: video_game_inventory_list_form_title
+      label: Game Title
+      hint: Enter the title of the game
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: game_rating
+      label: Game Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: console_type
+      label: Console Type
+      hint: null
+      type: select_one
+      options:
+      - Nintendo Switch
+      - PlayStation 4
+      - PlayStation 5
+      - Xbox One
+      - Xbox Series X/Series S
+      - PC
+      - Other
+      required: false
+    - id: 5
+      name: game_status
+      label: Game Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Collectible
+      - Complete in Box
+      - Loose
+      required: false
+    - id: 6
+      name: game_condition
+      label: Game Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Mint
+      - Used - Like New
+      - Gently Used
+      - Damaged
+      - Complete in Box - Loose
+      required: false
+    - id: 7
+      name: game_playtime
+      label: Game Playtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: game_notes
+      label: Game Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: game_retailer
+      label: Game Retailer
+      hint: null
+      type: select_one
+      options:
+      - Amazon
+      - GameStop
+      - Best Buy
+      - Walmart
+      - Other
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false

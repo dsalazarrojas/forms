@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: word_puzzle_game_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_feature
+      label: favorite_feature
+      hint: What is your favorite feature of this game?
+      type: select_one
+      options:
+      - word puzzle gameplay
+      - difficulty levels
+      - leaderboards
+      - daily rewards
+      - no favorite feature
+      required: true
+    - id: 4
+      name: suggest_feature
+      label: suggest_feature
+      hint: What feature would you like to see in our game in the future?
+      type: select_multiple
+      options:
+      - more levels
+      - new game modes
+      - better difficulty curve
+      - more puzzle types
+      - social features
+      - better graphics
+      - better sound effects
+      - other
+      - no suggestions
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: how_would_you_like_to_get_involved
+      label: how_would_you_like_to_get_involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: text
+      options: []
+      required: false

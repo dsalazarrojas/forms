@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Patient Dob
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_contact_no
+      label: Patient Contact No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: care_type
+      label: Care Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: disease_name
+      label: Disease Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: disease_status
+      label: Disease Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: disease_stage
+      label: Disease Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: care_plan
+      label: Care Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: physician_contact_no
+      label: Physician Contact No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hospital_location
+      label: Hospital Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: physician_location
+      label: Physician Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: doctor_contact_no
+      label: Doctor Contact No
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: doctor_location
+      label: Doctor Location
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Entry Form
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Date
+      hint: Date you are logging this book
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: book_subtitle
+      label: Book Subtitle
+      hint: Subtitle if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: book_author
+      label: Author
+      hint: Full name of author
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: additional_authors
+      label: Additional Authors or Contributors
+      hint: Co-authors editors or translators
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publisher
+      label: Publisher
+      hint: Name of publisher
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: publication_year
+      label: Publication Year
+      hint: Year book was published
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: isbn_10
+      label: ISBN 10
+      hint: 10-digit ISBN if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: isbn_13
+      label: ISBN 13
+      hint: 13-digit ISBN if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_count
+      label: Number of Pages
+      hint: Total pages in the book
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: book_format
+      label: Book Format
+      hint: Format of this book
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      - Audiobook
+      - Mass Market Paperback
+      - Trade Paperback
+      required: true
+    - id: 12
+      name: genre
+      label: Primary Genre
+      hint: Main genre category
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Biography
+      - Self-Help
+      - Educational
+      - Children
+      - Young Adult
+      required: true
+    - id: 13
+      name: sub_genre
+      label: Sub-Genre
+      hint: More specific genre
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: book_condition
+      label: Book Condition
+      hint: Current condition of book
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: acquisition_source
+      label: How Did You Acquire This Book
+      hint: Where did you get this book
+      type: select_one
+      options:
+      - Purchased New
+      - Purchased Used
+      - Gift
+      - Library
+      - Borrowed
+      - Book Swap
+      - Found
+      required: true
+    - id: 16
+      name: acquisition_date
+      label: Date Acquired
+      hint: When did you get this book
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: purchase_price
+      label: Purchase Price
+      hint: How much did you pay
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: location
+      label: Current Location
+      hint: Where is the book stored
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reading_status
+      label: Reading Status
+      hint: Have you read this book
+      type: select_one
+      options:
+      - Not Started
+      - Currently Reading
+      - Completed
+      - DNF Did Not Finish
+      - Rereading
+      required: true
+    - id: 20
+      name: start_date
+      label: Date Started Reading
+      hint: When did you start
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: finish_date
+      label: Date Finished Reading
+      hint: When did you finish
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: personal_rating
+      label: Personal Rating
+      hint: Your rating of the book
+      type: select_one
+      options:
+      - 5 Stars Excellent
+      - 4 Stars Very Good
+      - 3 Stars Good
+      - 2 Stars Fair
+      - 1 Star Poor
+      - Not Yet Rated
+      required: false
+    - id: 23
+      name: tags
+      label: Tags or Keywords
+      hint: Add any tags for organization
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Personal Notes
+      hint: Any notes about this book
+      type: text
+      options: []
+      required: false

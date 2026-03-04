@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Equipment Calibration Request Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Laser Gun
+      - Rifle
+      - Pistol
+      - Shotgun
+      - Sniper
+      required: true
+    - id: 5
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: calibration_due
+      label: Calibration Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: calibration_type
+      label: Calibration Type
+      hint: null
+      type: select_multiple
+      options:
+      - Calibration 1
+      - Calibration 2
+      - Calibration 3
+      required: true
+    - id: 11
+      name: calibration_frequency
+      label: Calibration Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: calibration_comments
+      label: Calibration Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: name_of_submitter
+      label: Name of Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_of_submitter
+      label: Email of Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_of_submitter
+      label: Phone of Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Submitter 1
+      - Submitter 2
+      - Submitter 3
+      required: true

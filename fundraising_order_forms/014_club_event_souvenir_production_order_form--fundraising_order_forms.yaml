@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Event Souvenir Production Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: orderer_name
+      label: Name of Person Placing Order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: orderer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: orderer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of the event these souvenirs are for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: souvenir_type
+      label: Souvenir Item Type
+      hint: What type of item
+      type: select_one
+      options:
+      - T-Shirt
+      - Mug
+      - Hat
+      - Bracelet
+      - Sticker
+      - Medallion
+      - Keychain
+      - Other
+      required: true
+    - id: 8
+      name: souvenir_description
+      label: Detailed Description
+      hint: Color, design, text to include
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: total_quantity
+      label: Total Quantity Needed
+      hint: Total number of items
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: unit_cost
+      label: Unit Cost per Item
+      hint: Price per individual item
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_cost
+      label: Total Order Cost
+      hint: Quantity times unit cost
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: size_options
+      label: Size Options Needed
+      hint: Select all sizes needed
+      type: select_multiple
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 13
+      name: size_breakdown
+      label: Size Breakdown
+      hint: Quantity for each size
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: custom_design
+      label: Custom Design Required
+      hint: Will custom design be needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Already Provided
+      required: true
+    - id: 15
+      name: deadline_date
+      label: Production Deadline
+      hint: When are items needed
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - Purchase Order
+      - Other
+      required: true

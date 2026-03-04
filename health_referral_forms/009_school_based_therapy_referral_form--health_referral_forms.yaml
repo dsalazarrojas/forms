@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Based Therapy Referral Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_info
+      label: Guardian Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: therapy_info
+      label: Therapy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_info
+      label: Referral Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_info
+      label: Submission Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_age
+      label: Student Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_english_level
+      label: Student English Level
+      hint: null
+      type: select_one
+      options:
+      - English - Basic
+      - English - Basic (non-native)
+      - English - Intermediate
+      - English - Advanced
+      - English - Proficient
+      - English - Proficient (non-native)
+      required: true
+    - id: 15
+      name: student_spanish_level
+      label: Student Spanish Level
+      hint: null
+      type: select_one
+      options:
+      - Spanish - Basic
+      - Spanish - Basic (non-native)
+      - Spanish - Intermediate
+      - Spanish - Advanced
+      - Spanish - Proficient
+      - Spanish - Proficient (non-native)
+      required: true
+    - id: 16
+      name: student_language_level
+      label: Student Language Level
+      hint: null
+      type: select_multiple
+      options:
+      - English - Basic
+      - English - Basic (non-native)
+      - English - Intermediate
+      - English - Advanced
+      - English - Proficient
+      - English - Proficient (non-native)
+      - Spanish - Basic
+      - Spanish - Basic (non-native)
+      - Spanish - Intermediate
+      - Spanish - Advanced
+      - Spanish - Proficient
+      - Spanish - Proficient (non-native)
+      required: true
+    - id: 17
+      name: reason_for_referral
+      label: Reason for Referral
+      hint: null
+      type: select_multiple
+      options:
+      - Bully
+      - Academic
+      - Social
+      - Behavioral
+      - Emotional
+      - Other
+      required: true
+    - id: 18
+      name: therapy_type
+      label: Type of Therapy
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Group
+      - Family
+      required: true
+    - id: 19
+      name: school_support_services
+      label: School Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - Academic support
+      - Social-emotional support
+      - Counseling
+      - Other
+      required: true
+    - id: 20
+      name: submitter_name
+      label: Name of Referring Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_title
+      label: Title of Referring Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_email
+      label: Email of Referring Person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitter_phone
+      label: Phone of Referring Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_notes
+      label: Notes about Referring Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false

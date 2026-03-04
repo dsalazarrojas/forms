@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feminine Hygiene Questionnaire
+    pages:
+    - id: 1
+      name: user_experience
+      label: How often do you use the toilet?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: period_length
+      label: How long is your menstrual period?
+      hint: null
+      type: select_one
+      options:
+      - 3 days or less
+      - 4-6 days
+      - 7-10 days
+      - 11-14 days
+      - 15 days or more
+      required: false
+    - id: 3
+      name: hygiene_product_use
+      label: Do you use any of the following feminine hygiene products?
+      hint: null
+      type: select_multiple
+      options:
+      - Sanitary pads
+      - Menstrual cups
+      - Menstrual sponges
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: product_preference
+      label: Which type of feminine hygiene product do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Sanitary pads
+      - Menstrual cups
+      - Menstrual sponges
+      - Other
+      required: false
+    - id: 5
+      name: product_use_frequency
+      label: How often do you use each product?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_use_convenience
+      label: How important is the convenience factor when choosing a product?
+      hint: On a scale of 1-5, with 5 being very important
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: period_discomfort
+      label: Do you experience any discomfort during your period?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Rarely
+      - Sometimes
+      - Almost always
+      required: false
+    - id: 8
+      name: pain_management
+      label: Have you tried any pain management techniques during your period?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: stress_management
+      label: Do you find that managing stress during your period helps?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: emotional_changes
+      label: Do you experience emotional changes during your period?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

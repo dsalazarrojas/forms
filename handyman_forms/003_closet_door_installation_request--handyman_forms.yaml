@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closet Door Installation Request
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Full address where installation will occur
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_door_details
+      label: -- Closet Door Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: door_type
+      label: Closet Door Type
+      hint: Select the type of door you need
+      type: select_one
+      options:
+      - Bi-fold doors
+      - Sliding doors
+      - Swing doors
+      - Pocket doors
+      - French doors
+      - Other
+      required: true
+    - id: 8
+      name: door_material
+      label: Door Material Preference
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Composite
+      - Mirrored glass
+      - Clear glass
+      - Frosted glass
+      - Vinyl
+      required: true
+    - id: 9
+      name: door_finish
+      label: Finish or Color
+      hint: Paint color, stain, or material finish
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: opening_width
+      label: Opening Width - Inches
+      hint: Measure the width of the closet opening
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: opening_height
+      label: Opening Height - Inches
+      hint: Measure from floor to top of opening
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_doors
+      label: Number of Doors Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: door_handle_style
+      label: Handle or Hardware Style
+      hint: null
+      type: select_one
+      options:
+      - Contemporary
+      - Traditional
+      - Modern minimalist
+      - Vintage
+      - No preference
+      required: false
+    - id: 14
+      name: section_installation
+      label: -- Installation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_installation_date
+      label: Preferred Installation Date
+      hint: Earliest date you would like installation
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: installation_timeframe
+      label: Installation Window Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (after 5pm)
+      - Anytime
+      required: false
+    - id: 17
+      name: installation_notes
+      label: Special Installation Instructions
+      hint: Any specific requirements or concerns
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_budget
+      label: -- Budget and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 300
+      - 300-500
+      - 500-1000
+      - 1000-2000
+      - Over 2000
+      required: false
+    - id: 20
+      name: existing_hardware_reuse
+      label: Reuse existing hardware if compatible?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false

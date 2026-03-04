@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guess The Jar Game Entry Form
+    pages:
+    - id: 1
+      name: entry_form
+      label: Entry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: draw_date
+      label: Draw Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: draw_time
+      label: Draw Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: winner_name
+      label: Winner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: winner_message
+      label: Winner Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: draw_method
+      label: Draw Method
+      hint: null
+      type: select_one
+      options:
+      - Random
+      - Automated
+      required: false
+    - id: 10
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Unconfirmed
+      - Incomplete
+      required: false
+    - id: 11
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false

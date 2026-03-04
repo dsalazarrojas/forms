@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: salad_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salad_selection
+      label: select_salad
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''small_salad'', ''label'': ''small_salad''}'
+      - '{''id'': 2, ''name'': ''large_salad'', ''label'': ''large_salad''}'
+      - '{''id'': 3, ''name'': ''extra_large_salad'', ''label'': ''extra_large_salad''}'
+      required: false
+    - id: 3
+      name: protein_selection
+      label: select_protein
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''chicken'', ''label'': ''chicken''}'
+      - '{''id'': 2, ''name'': ''steak'', ''label'': ''steak''}'
+      - '{''id'': 3, ''name'': ''salmon'', ''label'': ''salmon''}'
+      - '{''id'': 4, ''name'': ''tofu'', ''label'': ''tofu''}'
+      required: false
+    - id: 4
+      name: size
+      label: select_size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''small'', ''label'': ''small''}'
+      - '{''id'': 2, ''name'': ''medium'', ''label'': ''medium''}'
+      - '{''id'': 3, ''name'': ''large'', ''label'': ''large''}'
+      required: false
+    - id: 5
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Encounter Log
+    pages:
+    - id: 1
+      name: daily_encounter_log_form
+      label: daily_encounter_log_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interaction_type
+      label: interaction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Meeting''}'
+      - '{''id'': 2, ''text'': ''Visit''}'
+      - '{''id'': 3, ''text'': ''Incident''}'
+      - '{''id'': 4, ''text'': ''Other''}'
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: staff_member
+      label: staff_member
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Healthcare Team''}'
+      - '{''id'': 2, ''text'': ''Social Worker''}'
+      - '{''id'': 3, ''text'': ''Educator''}'
+      - '{''id'': 4, ''text'': ''Field Staff''}'
+      required: false
+    - id: 6
+      name: interaction_description
+      label: interaction_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

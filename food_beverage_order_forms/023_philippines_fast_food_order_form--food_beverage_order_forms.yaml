@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Philippines Fast Food Order Form
+    pages:
+    - id: 1
+      name: store_id
+      label: storeid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: order_datetime
+      label: orderdatetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customername
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customeremail
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contactphone
+      hint: Contact Phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_item_1
+      label: orderitem1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Item 1''}'
+      - '{''id'': 2, ''text'': ''Item 2''}'
+      - '{''id'': 3, ''text'': ''Item 3''}'
+      required: false
+    - id: 7
+      name: payment_method
+      label: paymentmethod
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      - '{''id'': 3, ''text'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: store_address
+      label: storeaddress
+      hint: Store Address
+      type: text
+      options: []
+      required: false

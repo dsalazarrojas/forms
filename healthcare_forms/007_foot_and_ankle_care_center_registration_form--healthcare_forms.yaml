@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foot And Ankle Care Center Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_record_number
+      label: medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: insurance_number
+      label: insurance number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: doctor_name
+      label: doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_specialty
+      label: doctor specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_type
+      label: patient type
+      hint: null
+      type: select_one
+      options:
+      - new patient
+      - existing patient
+      required: false
+    - id: 15
+      name: doctor_id
+      label: doctor id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: clinic_id
+      label: clinic id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_status
+      label: patient status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 18
+      name: appointment_status
+      label: appointment status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: false
+    - id: 19
+      name: follow_up_status
+      label: follow up status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - confirmed
+      - cancelled
+      required: false
+    - id: 20
+      name: doctor_availability
+      label: doctor availability
+      hint: null
+      type: select_multiple
+      options:
+      - available
+      - unavailable
+      required: false
+    - id: 21
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_multiple
+      options:
+      - paid
+      - unpaid
+      - pending
+      required: false

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Covid Questionnaire For Clients
+    pages:
+    - id: 1
+      name: covid_questionnaire_for_clients_page_1
+      label: ask_about_covid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: have_you_been_exposed_to_covid
+      label: have_you_been_exposed_to_covid
+      hint: null
+      type: select_multiple
+      options:
+      - covid_1
+      - covid_2
+      - covid_3
+      required: false
+    - id: 3
+      name: when_did_you_experience_covid
+      label: when_did_you_experience_covid
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: have_you_been_hospitalized
+      label: have_you_been_hospitalized
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 5
+      name: have_you_been_diagnosed_with_covid
+      label: have_you_been_diagnosed_with_covid
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 6
+      name: have_you_been_exposed_to_someone_with_covid
+      label: have_you_been_exposed_to_someone_with_covid
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: symptoms_starting_after
+      label: symptoms_starting_after
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: have_you_fully_recovered_from_covid
+      label: have_you_fully_recovered_from_covid
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

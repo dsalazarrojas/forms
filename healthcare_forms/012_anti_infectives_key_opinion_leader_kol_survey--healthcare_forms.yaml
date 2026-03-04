@@ -1,0 +1,295 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Infectives Key Opinion Leader (KOL) Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: professional_title
+      label: Professional Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Institution or Organization
+      hint: Where you work or practice
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: specialty_area
+      label: Medical Specialty
+      hint: Your area of expertise
+      type: select_one
+      options:
+        - Infectious disease
+        - Internal medicine
+        - Pediatrics
+        - Emergency medicine
+        - Critical care
+        - Pulmonology
+        - Pharmacology
+        - Other
+      required: true
+    - id: 5
+      name: years_of_experience
+      label: Years of Clinical Experience
+      hint: How long have you been practicing
+      type: select_one
+      options:
+        - Less than 5 years
+        - 5 to 10 years
+        - 10 to 15 years
+        - 15 to 20 years
+        - More than 20 years
+      required: true
+    - id: 6
+      name: practice_setting
+      label: Practice Setting
+      hint: Where do you primarily work
+      type: select_one
+      options:
+        - Academic medical center
+        - Community hospital
+        - Private practice
+        - Government facility
+        - Research institution
+        - Pharmaceutical industry
+      required: true
+    - id: 7
+      name: geographic_region
+      label: Geographic Region
+      hint: Your practice location
+      type: select_one
+      options:
+        - Northeast US
+        - Southeast US
+        - Midwest US
+        - Southwest US
+        - West US
+        - Canada
+        - Europe
+        - Asia Pacific
+        - Latin America
+        - Other
+      required: true
+    - id: 8
+      name: anti_infective_focus
+      label: Areas of Anti-Infective Focus
+      hint: Select your areas of interest
+      type: select_multiple
+      options:
+        - Antibiotics
+        - Antivirals
+        - Antifungals
+        - Antiparasitics
+        - Vaccine development
+        - Resistance monitoring
+        - Stewardship programs
+        - All of the above
+      required: true
+    - id: 9
+      name: antibiotic_resistance_concern
+      label: Level of Concern About Antibiotic Resistance
+      hint: How concerned are you
+      type: select_one
+      options:
+        - Extremely concerned
+        - Very concerned
+        - Moderately concerned
+        - Slightly concerned
+        - Not concerned
+      required: true
+    - id: 10
+      name: stewardship_involvement
+      label: Involvement in Stewardship Programs
+      hint: Are you involved in antibiotic stewardship
+      type: select_one
+      options:
+        - Lead or direct programs
+        - Active participant
+        - Occasionally involved
+        - Not involved
+      required: true
+    - id: 11
+      name: prescribing_patterns
+      label: Primary Factors Influencing Prescribing
+      hint: What guides your prescribing decisions
+      type: select_multiple
+      options:
+        - Clinical guidelines
+        - Local resistance patterns
+        - Patient history
+        - Cost considerations
+        - Insurance coverage
+        - Pharmaceutical representative input
+        - Peer recommendations
+        - Research publications
+      required: true
+    - id: 12
+      name: new_therapy_awareness
+      label: Awareness of New Anti-Infective Therapies
+      hint: How do you stay informed
+      type: select_multiple
+      options:
+        - Medical journals
+        - Conferences and CME
+        - Professional networks
+        - Pharmaceutical updates
+        - Hospital formularies
+        - Online databases
+        - Social media
+      required: true
+    - id: 13
+      name: treatment_challenges
+      label: Biggest Challenges in Anti-Infective Treatment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Drug resistance
+        - Limited treatment options
+        - Diagnostic delays
+        - Patient compliance
+        - Cost and access
+        - Side effects
+        - Drug interactions
+        - Regulatory restrictions
+      required: true
+    - id: 14
+      name: diagnostic_tools
+      label: Satisfaction with Current Diagnostic Tools
+      hint: How satisfied are you with available diagnostics
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 15
+      name: research_interest
+      label: Interest in Clinical Research Participation
+      hint: Would you participate in trials
+      type: select_one
+      options:
+        - Very interested
+        - Somewhat interested
+        - Neutral
+        - Not very interested
+        - Not interested
+      required: true
+    - id: 16
+      name: educational_needs
+      label: Educational Needs
+      hint: Topics you would like to learn more about
+      type: select_multiple
+      options:
+        - Emerging resistance patterns
+        - New drug mechanisms
+        - Treatment guidelines updates
+        - Diagnostic advances
+        - Stewardship best practices
+        - Pediatric considerations
+        - Geriatric considerations
+        - Drug interactions
+      required: true
+    - id: 17
+      name: consultation_frequency
+      label: Frequency of ID Consultations Requested
+      hint: How often do you consult specialists
+      type: select_one
+      options:
+        - Daily
+        - Weekly
+        - Monthly
+        - Rarely
+        - Never
+      required: true
+    - id: 18
+      name: formulary_decisions
+      label: Role in Formulary Decisions
+      hint: Are you involved in drug formulary choices
+      type: select_one
+      options:
+        - Primary decision maker
+        - Committee member
+        - Advisory role
+        - No involvement
+      required: true
+    - id: 19
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: How should we contact you
+      type: select_one
+      options:
+        - Email
+        - Phone
+        - Video conference
+        - In-person meetings
+        - Professional portal
+      required: true
+    - id: 20
+      name: speaking_engagements
+      label: Interest in Speaking Engagements
+      hint: Would you speak at educational events
+      type: select_one
+      options:
+        - Yes, frequently
+        - Yes, occasionally
+        - Maybe
+        - No
+      required: true
+    - id: 21
+      name: publication_interest
+      label: Interest in Co-Authoring Publications
+      hint: Would you contribute to publications
+      type: select_one
+      options:
+        - Yes, very interested
+        - Yes, somewhat interested
+        - Maybe
+        - No
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Insights
+      hint: Share your perspectives
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_consent
+      label: May we contact you for follow-up
+      hint: For additional research questions
+      type: select_one
+      options:
+        - Yes, please contact me
+        - No, this survey is complete
+      required: true
+    - id: 24
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Physical Exam Form
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: exam_date
+      label: Examination Date
+      hint: Date when the physical exam is conducted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: examiner_name
+      label: Examining Physician
+      hint: Name of the physician conducting the exam
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vital_signs_section
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Systolic/Diastolic measurement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: heart_rate
+      label: Heart Rate
+      hint: Beats per minute
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: temperature
+      label: Temperature
+      hint: Body temperature in Fahrenheit
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: Breaths per minute
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: height
+      label: Height
+      hint: Patient height in inches
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: weight
+      label: Weight
+      hint: Patient weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: general_appearance_section
+      label: -- General Appearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: general_appearance_notes
+      label: General Appearance Notes
+      hint: Observations about the patient's general appearance
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: head_neck_exam
+      label: Head and Neck Exam
+      hint: Findings from head and neck examination
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: chest_lungs_exam
+      label: Chest and Lungs Exam
+      hint: Findings from chest and lungs examination
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cardiovascular_exam
+      label: Cardiovascular Exam
+      hint: Findings from cardiovascular examination
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: abdomen_exam
+      label: Abdomen Exam
+      hint: Findings from abdominal examination
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: neurological_exam
+      label: Neurological Exam
+      hint: Findings from neurological examination
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: final_impression
+      label: Final Impression
+      hint: Overall assessment and recommendations
+      type: text
+      options: []
+      required: false

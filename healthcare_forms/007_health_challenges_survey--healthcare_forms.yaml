@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_challenges_survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_one
+      label: section_one
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_two
+      label: section_two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_three
+      label: section_three
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_four
+      label: section_four
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_status
+      label: health_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: health_status_label
+      label: health_status_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_challenges
+      label: health_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: health_challenges_label
+      label: health_challenges_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

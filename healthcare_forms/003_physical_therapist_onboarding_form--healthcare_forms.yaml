@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapist Onboarding Form
+    pages:
+    - id: 1
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 4
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: credential_type
+      label: Credential Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''PT License''}'
+      - '{''label'': ''Physical Therapist''}'
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: credential_verification
+      label: Credential Verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Verified''}'
+      - '{''label'': ''Not Verified''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 7
+      name: schedule_frequency
+      label: Schedule Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Biweekly''}'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

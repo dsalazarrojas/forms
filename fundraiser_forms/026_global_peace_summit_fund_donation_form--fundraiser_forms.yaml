@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Peace Summit Fund Donation Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: form_page_2
+      label: donation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''One-time Donation''}'
+      - '{''id'': 2, ''name'': ''Monthly Donation''}'
+      required: true
+    - id: 3
+      name: form_page_3
+      label: donor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_page_4
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: form_page_5
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_page_6
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_page_7
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_page_8
+      label: thank_you_message
+      hint: null
+      type: note
+      options: []
+      required: false

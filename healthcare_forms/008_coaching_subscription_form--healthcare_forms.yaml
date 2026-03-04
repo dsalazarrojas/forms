@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Subscription Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Preferred contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_coaching_selection
+      label: -- Coaching Package Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: coaching_type
+      label: Type of Coaching
+      hint: Select the coaching program you are interested in
+      type: select_one
+      options:
+      - Personal Training
+      - Nutrition Coaching
+      - Wellness Coaching
+      - Performance Coaching
+      - Life Coaching
+      - Group Classes
+      required: true
+    - id: 9
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Choose your subscription duration
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annual
+      - Pay-per-session
+      required: true
+    - id: 10
+      name: session_frequency
+      label: Preferred Session Frequency
+      hint: How often you want coaching sessions
+      type: select_one
+      options:
+      - Once per week
+      - Twice per week
+      - Three times per week
+      - Four times per week
+      - Custom
+      required: true
+    - id: 11
+      name: session_duration
+      label: Session Duration - minutes
+      hint: How long should each session be
+      type: select_one
+      options:
+      - '30'
+      - '45'
+      - '60'
+      - '90'
+      - Custom
+      required: true
+    - id: 12
+      name: coach_preference
+      label: Coach Preference
+      hint: Do you have a preferred coach
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_delivery
+      label: -- Delivery Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive coaching
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Phone
+      - Hybrid - mix of methods
+      required: true
+    - id: 15
+      name: timezone
+      label: Your Timezone
+      hint: For scheduling purposes
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: preferred_time
+      label: Preferred Session Times
+      hint: What times work best for you
+      type: select_multiple
+      options:
+      - Early morning (6am-9am)
+      - Late morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Flexible
+      required: true
+    - id: 17
+      name: section_goals
+      label: -- Goals and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_goal
+      label: Primary Goal
+      hint: What is your main coaching objective
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: specific_challenges
+      label: Specific Challenges or Concerns
+      hint: Describe any particular issues you want to address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_health
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: medical_clearance
+      label: Do you have medical clearance for coaching
+      hint: If applicable
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 22
+      name: section_payment
+      label: -- Payment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: Select how you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Digital Wallet
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: You must accept to complete subscription
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true

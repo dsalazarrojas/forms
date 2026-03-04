@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: dr-neal-s-2-stepper-reserve-a-dose
+    pages:
+    - id: 1
+      name: step_1_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: step_1_doses_available
+      label: how-many-doses-are-available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: step_1_dates_available
+      label: what-dates-are-available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: step_2_quantity
+      label: how-many-doses-do-you-need
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: step_2_dates_needed
+      label: what-dates-doses-needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: step_2_confirmation
+      label: confirm-reservation
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

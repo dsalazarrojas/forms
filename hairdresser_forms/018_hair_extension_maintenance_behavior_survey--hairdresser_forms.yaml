@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Extension Maintenance Behavior Survey
+    pages:
+    - id: 1
+      name: client_habits
+      label: Client Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: salon_visit_frequency
+      label: Salon Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: satisfaction_with_hair_care
+      label: Satisfaction with Hair Care
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

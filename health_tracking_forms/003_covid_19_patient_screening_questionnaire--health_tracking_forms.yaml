@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Screening Questionnaire
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_temperature
+      label: Current Body Temperature (F)
+      hint: Please use a digital thermometer if available
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_symptoms
+      label: -- Symptoms and Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: respiratory_symptoms
+      label: Are you experiencing any respiratory symptoms such as cough or shortness
+        of breath?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: recent_testing
+      label: Have you been tested for COVID-19 in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: test_result
+      label: If tested, what was the result?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      - Not Applicable
+      required: false
+    - id: 10
+      name: chronic_conditions
+      label: Do you have any of the following chronic medical conditions?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - Lung Disease
+      - Immunocompromised
+      - None
+      required: true
+    - id: 11
+      name: current_medications
+      label: List any current medications you are taking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

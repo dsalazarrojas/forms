@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discord Mod Application
+    pages:
+    - id: 1
+      name: discord_mod_application
+      label: I'm applying for mod
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_applying
+      label: Reason for applying
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: server_id
+      label: Server ID
+      hint: null
+      type: text
+      options: []
+      required: false

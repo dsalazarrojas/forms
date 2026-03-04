@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: W4 Form
+    pages:
+    - id: 1
+      name: tax_information
+      label: Employee Tax Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: w4_form
+      label: W-4 Form
+      hint: Please fill out this form completely
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_withholding_certificate
+      label: Employee Withholding Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tax_deductions
+      label: Tax Deductions
+      hint: null
+      type: text
+      options: []
+      required: false

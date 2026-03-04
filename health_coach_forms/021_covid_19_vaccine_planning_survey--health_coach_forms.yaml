@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Planning Survey
+    pages:
+    - id: 1
+      name: organization_header
+      label: -- Organization Information --
+      hint: Details about your organization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: org_name
+      label: Organization Name
+      hint: Name of your healthcare organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: org_type
+      label: Organization Type
+      hint: Type of healthcare organization
+      type: select_one
+      options:
+        - Hospital
+        - Clinic
+        - Pharmacy
+        - Public Health Department
+        - Long-Term Care Facility
+        - Occupational Health
+        - Other
+      required: true
+    - id: 4
+      name: org_size
+      Label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+        - Under 50 employees
+        - 50-500 employees
+        - 500-1000 employees
+        - Over 1000 employees
+      required: true
+    - id: 5
+      name: org_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person_survey
+      Label: Contact Person Name
+      hint: Person responsible for planning
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email_survey
+      label: Contact Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone_survey
+      label: Contact Phone Number
+      hint: Contact phone
+      type: phone
+      options: []
+      required: true
+    - id: 9
+      name: vaccine_plan_header
+      label: -- Vaccination Plan --
+      hint: Your organization's vaccine plan
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: has_vaccine_plan
+      label: Does Your Organization Have a COVID-19 Vaccination Plan
+      hint: Documented vaccine distribution plan
+      type: select_one
+      options:
+        - Yes, documented plan
+        - Yes, informal plan
+        - No plan yet
+        - In development
+      required: true
+    - id: 11
+      name: plan_details
+      label: Please Describe Your Vaccination Plan
+      hint: Overview of your vaccination strategy
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_education_plan
+      Label: Do You Have a Staff Education Plan on COVID-19 Vaccines
+      hint: Plan to educate employees
+      type: select_one
+      options:
+        - Yes, comprehensive plan
+        - Yes, basic plan
+        - No plan
+        - In development
+      required: true
+    - id: 13
+      name: storage_equipment_header
+      label: -- Storage and Equipment --
+      hint: Vaccine storage capabilities
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ultra_cold_freezers
+      label: Number of Ultra-Cold Freezers Available
+      hint: Freezers at -80 to -120 degrees Celsius
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: standard_freezers
+      label: Number of Standard Freezers Available
+      hint: Regular freezers at -20 degrees or lower
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: refrigerators
+      Label: Number of Refrigerators Available
+      hint: Refrigerators at 2 to 8 degrees Celsius
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: total_storage_capacity
+      label: Total Storage Capacity - Doses
+      hint: How many vaccine doses can be stored
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: monitoring_systems
+      Label: Temperature Monitoring Systems
+      hint: How do you monitor storage temperatures
+      type: select_multiple
+      options:
+        - Manual thermometer checks
+        - Digital temperature monitors
+        - Automated alert systems
+        - Backup power systems
+        - No monitoring system
+      required: false
+    - id: 19
+      name: administration_header
+      label: -- Administration Capacity --
+      hint: Vaccine administration details
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: trained_vaccinators
+      Label: Number of Trained Vaccine Administrators
+      hint: Staff trained to administer vaccines
+      type: integer
+      options: []
+      required: true
+    - id: 21
+      name: vaccination_locations
+      label: Number of Vaccination Sites
+      hint: How many locations for vaccination
+      type: integer
+      options: []
+      required: true
+    - id: 22
+      name: daily_capacity
+      label: Daily Vaccination Capacity - Doses
+      hint: Doses that can be administered daily
+      type: integer
+      options: []
+      required: true
+    - id: 23
+      name: emergency_protocols_header
+      label: -- Safety and Emergency Protocols --
+      hint: Safety measures in place
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: adverse_event_plan
+      Label: Do You Have an Adverse Event Reporting Plan
+      hint: Process for reporting side effects
+      type: select_one
+      options:
+        - Yes, comprehensive plan
+        - Yes, basic plan
+        - No formal plan
+        - In development
+      required: true
+    - id: 25
+      name: completion_date
+      label: Estimated Readiness Date for Vaccinations
+      hint: When will you be ready
+      type: date
+      options: []
+      required: false

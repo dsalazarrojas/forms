@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braintree Donation Template 3
+    pages:
+    - id: 1
+      name: section_header_donor
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: donor_phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_donation
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly recurring
+      - Annual recurring
+      - Other
+      required: true
+    - id: 9
+      name: donation_purpose
+      label: Donation Purpose
+      hint: What your donation supports
+      type: select_one
+      options:
+      - General support
+      - Specific program
+      - Emergency relief
+      - Research
+      - Community outreach
+      - Scholarship fund
+      - Other
+      required: false
+    - id: 10
+      name: section_header_message
+      label: -- Personal Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dedication_name
+      label: Dedication Name
+      hint: Donate in honor/memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: personal_message
+      label: Personal Message
+      hint: Optional message to include
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_recognition
+      label: -- Recognition Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: anonymous_donation
+      label: Make This an Anonymous Donation
+      hint: Donor name will not be public
+      type: select_one
+      options:
+      - Yes, donate anonymously
+      - No, list my name
+      required: false
+    - id: 15
+      name: public_recognition
+      label: Allow Public Recognition
+      hint: List name in donor roll or report
+      type: select_one
+      options:
+      - Yes, recognize publicly
+      - No, keep private
+      - Unsure
+      required: false
+    - id: 16
+      name: section_header_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: communication_method
+      label: Preferred Communication
+      hint: How we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No communication needed
+      - Other
+      required: false
+    - id: 18
+      name: email_updates
+      label: Receive Email Updates
+      hint: Get news about your donation impact
+      type: select_one
+      options:
+      - Yes, send updates
+      - No updates
+      required: false
+    - id: 19
+      name: section_header_address
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: billing_address
+      label: Street Address
+      hint: For receipt and records
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: donation_confirmation
+      label: I confirm my donation
+      hint: Check to process donation
+      type: select_one
+      options:
+      - Confirmed
+      - Need changes
+      required: true

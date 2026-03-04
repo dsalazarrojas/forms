@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Donor Information Form
+    pages:
+    - id: 1
+      name: section_donor_id
+      label: -- Donor Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_prefix
+      label: Prefix
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Ms.
+      - Mrs.
+      - Dr.
+      - Other
+      required: false
+    - id: 3
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donor_email
+      label: Email Address
+      hint: For donation receipts
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_mailing_address
+      label: -- Mailing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donor_address_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: donor_address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donor_address_state
+      label: State / Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: donor_address_zip
+      label: Zip / Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_donation_pref
+      label: -- Donation Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 14
+      name: primary_interest
+      label: Primary Area of Interest
+      hint: Which programs would you like to support
+      type: select_multiple
+      options:
+      - Education
+      - Health
+      - Environment
+      - Disaster Relief
+      - General Fund
+      required: false
+    - id: 15
+      name: anonymous_donation
+      label: Would you like this donation to remain anonymous
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: opt_in_newsletter
+      label: Sign up for our monthly newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: false
+    - id: 17
+      name: donor_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

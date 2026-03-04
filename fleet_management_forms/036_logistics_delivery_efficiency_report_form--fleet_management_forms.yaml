@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Delivery Efficiency Report Form
+    pages:
+    - id: 1
+      name: delivery_efficiency_report_form
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_route_id
+      label: route_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: on_time_performance
+      label: on_time_performance
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Delayed
+      - Cancelled
+      required: false
+    - id: 6
+      name: document_delay
+      label: document_delay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: note
+      label: any_additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

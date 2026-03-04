@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 AttendanceChecklist
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendance_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Children
+      - Youth
+      - Adult
+      required: true
+    - id: 6
+      name: class_location
+      label: Class Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_id
+      label: Member ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: section_header_3
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: health_screening_pass
+      label: Health Screening Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: temperature_taken
+      label: Temperature Screening
+      hint: null
+      type: select_one
+      options:
+      - Yes - Normal
+      - Yes - Elevated
+      - 'No'
+      required: true
+    - id: 16
+      name: temperature_reading
+      label: Temperature Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: covid_symptoms
+      label: COVID-19 Symptoms Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: symptoms_description
+      label: If yes, describe symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recent_covid_exposure
+      label: Recent COVID-19 Exposure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: section_header_4
+      label: -- Attendance and Clearance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attendance_approved
+      label: Cleared to Participate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: clearance_reason
+      label: Reason if Not Cleared
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prior_participation
+      label: Previous Class Attendance
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Occasional
+      - First time
+      required: false
+    - id: 24
+      name: section_header_5
+      label: -- Acknowledgment and Sign-Off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: waiver_acknowledged
+      label: I acknowledge and understand the health and safety protocols
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

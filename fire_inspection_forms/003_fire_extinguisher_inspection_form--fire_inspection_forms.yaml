@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_extinguisher_inspection_form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_id
+      label: inspector id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_completed
+      label: Date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: fire_extinguisher_model
+      label: fire extinguisher model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: fire_extinguisher_tagged
+      label: fire extinguisher tagged
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: is_operational
+      label: is operational
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fire_hydrant_distance
+      label: fire hydrant distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fire_suppressant_type
+      label: fire suppressant type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_suppressant_size
+      label: fire suppressant size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fire_extinguisher_location
+      label: fire extinguisher location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_inspection_date
+      label: last inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_inspection_due_date
+      label: next inspection due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: fire_extinguisher_tag_number
+      label: fire extinguisher tag number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fire_suppressant_model
+      label: fire suppressant model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_notes
+      label: inspector notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fire_suppressant_location
+      label: fire suppressant location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fire_suppressant_inspected
+      label: fire suppressant inspected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

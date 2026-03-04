@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Intake Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: virtual_intake_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_session_days
+      label: preferred_session_days
+      hint: What days would you like to have a session?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: You are free to withdraw your consent to be contacted at any time.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: session_time
+      label: session_time
+      hint: What time of day do you prefer?
+      type: time
+      options: []
+      required: false

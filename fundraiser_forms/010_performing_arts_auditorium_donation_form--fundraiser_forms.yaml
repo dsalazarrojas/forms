@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performing Arts Auditorium Donation Form
+    pages:
+    - id: 1
+      name: one_time_donation
+      label: One Time Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recurring_donation
+      label: Recurring Donations
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 3
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement_type
+      label: Acknowledgement Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Goods
+      - Services
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporter_type
+      label: Supporter Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      - Business
+      required: false
+    - id: 10
+      name: supporter_message
+      label: Supporter Message
+      hint: null
+      type: text
+      options: []
+      required: false

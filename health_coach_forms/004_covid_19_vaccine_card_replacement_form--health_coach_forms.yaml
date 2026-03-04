@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Card Replacement Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: As shown on original vaccine card
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For notification of replacement card
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_replacement
+      label: Reason for Replacement
+      hint: Why do you need a new card
+      type: select_one
+      options:
+      - Lost original card
+      - Damaged or worn out
+      - Faded information
+      - Never received original
+      - Other
+      required: true
+    - id: 6
+      name: reason_details
+      label: Additional Details
+      hint: Provide any relevant information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_doses_received
+      label: Number of COVID-19 Doses Received
+      hint: null
+      type: select_one
+      options:
+      - One dose
+      - Two doses
+      - Three doses
+      - Four or more doses
+      required: true
+    - id: 8
+      name: first_vaccine_type
+      label: First Dose Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Other
+      - Unknown
+      required: true
+    - id: 9
+      name: first_vaccine_date
+      label: Date of First Dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: second_vaccine_type
+      label: Second Dose Vaccine Type
+      hint: Leave blank if only one dose
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Single dose J&J
+      - Other
+      required: false
+    - id: 11
+      name: second_vaccine_date
+      label: Date of Second Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: booster_received
+      label: Received Booster Doses
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: booster_details
+      label: Booster Dose Information
+      hint: Type and dates of boosters
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: Provider who administered vaccines
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: provider_location
+      label: Provider Location
+      hint: City and state where vaccinated
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: identification_type
+      label: Type of Photo ID for Verification
+      hint: For identity confirmation
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - State ID
+      - Military ID
+      - Other
+      required: true
+    - id: 17
+      name: address
+      label: Mailing Address
+      hint: Where replacement card should be sent
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: consent
+      label: I consent to the replacement request
+      hint: Verify information is accurate
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Outreach Checklist
+    pages:
+    - id: 1
+      name: donor_outreach_form
+      label: Donor Outreach Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Address''}'
+      - '{''value'': ''Fax''}'
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''One-time''}'
+      - '{''value'': ''Repeating''}'
+      - '{''value'': ''Annual''}'
+      required: false
+    - id: 4
+      name: outreach_methods
+      label: Outreach Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mail''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In-person''}'
+      required: false
+    - id: 5
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Facebook''}'
+      - '{''value'': ''Twitter''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In-person''}'
+      required: false
+    - id: 6
+      name: donor_segment
+      label: Donor Segment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Organization''}'
+      required: false
+    - id: 7
+      name: donor_relationship
+      label: Donor Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Friend''}'
+      - '{''value'': ''Volunteer''}'
+      - '{''value'': ''Family Friend''}'
+      - '{''value'': ''Donor''}'
+      - '{''value'': ''Board Member''}'
+      required: false
+    - id: 8
+      name: follow_up_methods
+      label: Follow Up Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mail''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In-person''}'
+      required: false
+    - id: 9
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Formal''}'
+      - '{''value'': ''Informal''}'
+      - '{''value'': ''Casual''}'
+      required: false
+    - id: 10
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 12
+      name: follow_up_style
+      label: Follow Up Style
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Call''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Mail''}'
+      required: false
+    - id: 13
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Ongoing''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: donor_segmentation
+      label: Donor Segmentation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Individual''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Organization''}'
+      required: false
+    - id: 18
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 19
+      name: relationship_notes
+      label: Relationship Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: communication_notes
+      label: Communication Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_schedules
+      label: Follow Up Schedules
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 24
+      name: follow_up_schedule_date
+      label: Follow Up Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_schedule_time
+      label: Follow Up Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false

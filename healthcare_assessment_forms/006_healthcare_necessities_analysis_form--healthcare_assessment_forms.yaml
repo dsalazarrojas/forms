@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Necessities Analysis Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_context
+      label: Health Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_challenges
+      label: Access Challenges
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''No challenges''}'
+      - '{''id'': 2, ''label'': ''Access to medication''}'
+      - '{''id'': 3, ''label'': ''Access to medical devices''}'
+      - '{''id'': 4, ''label'': ''Access to healthcare services''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Decline''}'
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Intake Form
+    pages:
+    - id: 1
+      name: new_patient
+      label: New Patient
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High Blood Pressure''}'
+      - '{''value'': ''Diabetes''}'
+      - '{''value'': ''Heart Disease''}'
+      - '{''value'': ''Obesity''}'
+      - '{''value'': ''All of the above''}'
+      - '{''value'': ''None of the above''}'
+      required: false
+    - id: 3
+      name: weight_loss_goals
+      label: Weight Loss Goals
+      hint: How much weight do you want to lose?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight_loss_start_date
+      label: Start Date of Weight Loss
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: weight_loss_end_date
+      label: End Date of Weight Loss
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: treatment_needs
+      label: Treatment Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Nutrition Counseling''}'
+      - '{''value'': ''Medication''}'
+      - '{''value'': ''Exercise''}'
+      - '{''value'': ''Surgery''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: health_goals
+      label: Health Goals
+      hint: What are your top health priorities?
+      type: select_one
+      options:
+      - '{''value'': ''General Health''}'
+      - '{''value'': ''Weight Loss''}'
+      - '{''value'': ''Both''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 8
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cardiology''}'
+      - '{''value'': ''Gastroenterology''}'
+      - '{''value'': ''Nephrology''}'
+      - '{''value'': ''Pulmonology''}'
+      - '{''value'': ''Endocrinology''}'
+      - '{''value'': ''Gynecology''}'
+      - '{''value'': ''Urology''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Who is your emergency contact?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chargify Donation Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Donation Form --
+      hint: Collect donor information and donation details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: donor name
+      hint: full name for receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: donor email
+      hint: email for donation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: donation amount
+      hint: amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_frequency
+      label: donation frequency
+      hint: one time or recurring
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 6
+      name: payment_method
+      label: payment method
+      hint: preferred payment method
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Other
+      required: true
+    - id: 7
+      name: anonymous_donation
+      label: anonymous donation
+      hint: would you like your donation to be anonymous
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: dedicated_fund
+      label: dedicated fund
+      hint: designate this donation to a specific program
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_receipt_needed
+      label: tax receipt needed
+      hint: request a tax receipt for your donation
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: donor_message
+      label: donor message
+      hint: optional message to the organization
+      type: text
+      options: []
+      required: false

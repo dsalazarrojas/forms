@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: game_level_design_checklist
+    pages:
+    - id: 1
+      name: game_level_title
+      label: Game Level Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gameplay_issues
+      label: Gameplay Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: visuals_issues
+      label: Visuals Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: player_guidance
+      label: Player Guidance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: level_length
+      label: Level Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: level_description
+      label: Level Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_level_title_comment
+      label: Game Level Title Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: gameplay_achievements
+      label: Gameplay Achievements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: level_designers
+      label: Level Designers
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 14
+      name: level_reviewers
+      label: Level Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: game_developers
+      label: Game Developers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

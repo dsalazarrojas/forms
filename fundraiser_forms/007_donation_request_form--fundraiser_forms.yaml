@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Request Form
+    pages:
+    - id: 1
+      name: donor_details
+      label: Donor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_details
+      label: Donation Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Donation Type'', ''type'': ''select_one'', ''options'':
+        [{''id'': 1, ''name'': ''Monetary''}, {''id'': 2, ''name'': ''Goods''}, {''id'':
+        3, ''name'': ''Services''}]}'
+      - Other
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''One-Time''}'
+      - '{''id'': 2, ''name'': ''Recurring''}'
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_value
+      label: Donation Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_other
+      label: Other Contact
+      hint: null
+      type: text
+      options: []
+      required: false

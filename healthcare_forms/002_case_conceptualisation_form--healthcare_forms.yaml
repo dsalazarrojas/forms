@@ -1,0 +1,134 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Conceptualisation Form
+    pages:
+      - id: 1
+        name: patient_header
+        label: -- Patient and Provider Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_id
+        label: Patient ID or Case Number
+        hint: Use internal reference codes
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: provider_name
+        label: Clinician Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: conceptualization_date
+        label: Date of Conceptualization
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: presenting_problems
+        label: Primary Presenting Problems
+        hint: Describe the core challenges reported by the client
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: biopsychosocial_biological
+        label: Biological Factors
+        hint: Physical health, genetics, neurobiology, and medical history
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: biopsychosocial_psychological
+        label: Psychological Factors
+        hint: Cognitive patterns, emotional regulation, and personality traits
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: biopsychosocial_social
+        label: Social Factors
+        hint: Relationships, work/school environment, and cultural influences
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: family_history
+        label: Family Mental Health History
+        hint: Any history of relevant conditions in biological relatives
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: precipitating_events
+        label: Precipitating Stressors
+        hint: Recent events that triggered the current symptoms
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: protective_factors
+        label: Strengths and Protective Factors
+        hint: Social support, coping skills, or internal resources
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: diagnosis_provisional
+        label: Provisional Diagnosis
+        hint: Based on DSM-5 or ICD-10 criteria
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: intervention_plan
+        label: Proposed Intervention Strategy
+        hint: Core therapeutic approach and goals
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: risk_assessment
+        label: Risk Level Assessment
+        hint: Level of risk to self or others
+        type: select_one
+        options:
+          - "Low Risk"
+          - "Moderate Risk"
+          - "High Risk"
+          - "Emergency - Immediate Intervention"
+        required: true
+      - id: 15
+        name: review_needed
+        label: Clinical Review Required
+        hint: Check if this case needs supervision or peer review
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 16
+        name: follow_up_date
+        label: Scheduled Review Date
+        hint: null
+        type: date
+        options: []
+        required: false

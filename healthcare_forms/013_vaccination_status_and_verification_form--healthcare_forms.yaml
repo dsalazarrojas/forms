@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Status And Verification Form
+    pages:
+    - id: 1
+      name: user_input_vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - Vaccinated
+      - Not vaccinated
+      - Unknown
+      required: false
+    - id: 2
+      name: user_input_verification_method
+      label: verification_method
+      hint: null
+      type: select_one
+      options:
+      - Medical Record
+      - Laboratory Test
+      - Certificate
+      - Unknown
+      required: false
+    - id: 3
+      name: user_input_dose_number
+      label: vaccination_dose_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: user_input_vaccine_brand
+      label: vaccine_brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_input_vaccination_date
+      label: vaccination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: user_input_vaccination_time
+      label: vaccination_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_input_verification_date
+      label: verification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: user_input_verification_time
+      label: verification_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: user_input_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_input_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: user_input_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_input_repeated_vaccination
+      label: has_taken_additional_vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false

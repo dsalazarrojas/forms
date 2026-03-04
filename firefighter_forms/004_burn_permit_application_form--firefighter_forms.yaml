@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Burn Permit Application Form
+    pages:
+    - id: 1
+      name: section_applicant_contact
+      label: -- Applicant Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Person responsible for the burn
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Contact Phone Number
+      hint: Must be reachable during the burn period
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: For permit delivery and notifications
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: burn_property_address
+      label: Property Address for Burning
+      hint: Street address where the activity will occur
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_burn_details
+      label: -- Burn Activity Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_burn
+      label: Primary Purpose of Burning
+      hint: Select the category that best fits
+      type: select_one
+      options:
+      - Agricultural Clearing
+      - Residential Yard Waste
+      - Hazard Reduction
+      - Land Development
+      - Other Approved Activity
+      required: true
+    - id: 8
+      name: burn_start_date
+      label: Proposed Start Date
+      hint: Permits are typically valid for 24-48 hours
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: estimated_burn_duration
+      label: Estimated Duration (Hours)
+      hint: Total time fire will be active
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_safety_measures
+      label: -- Fire Safety Measures --
+      hint: Minimum requirements for safety
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: safety_equipment_on_site
+      label: Safety Equipment Available on Site
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pressurized Water Hose
+      - Fire Extinguisher (ABC rated)
+      - Shovels and Rakes
+      - Heavy Machinery (e.g. Bulldozer)
+      - On-site Water Tanker
+      required: true
+    - id: 12
+      name: nearest_water_source_distance
+      label: Distance to Nearest Water Source (Feet)
+      hint: Distance from the burn pile
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: weather_monitoring_acknowledgment
+      label: I agree to monitor wind and weather conditions
+      hint: Burning is prohibited if wind exceeds 10mph
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 14
+      name: section_regulations
+      label: -- Regulatory Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: local_ordinance_acknowledgment
+      label: I have read and understand local fire ordinances
+      hint: Failure to comply may result in fines or liability
+      type: select_one
+      options:
+      - Acknowledged
+      - Other
+      required: true
+    - id: 16
+      name: application_submission_date
+      label: Date of Application
+      hint: Today's date
+      type: date
+      options: []
+      required: true

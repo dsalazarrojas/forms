@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Referral Form
+    pages:
+    - id: 1
+      name: physician_referral_form
+      label: refer_a_patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: referred_doctor_name
+      label: referred_doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_method
+      label: referral_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''online'', ''label'': ''Online''}'
+      required: false
+    - id: 4
+      name: patient_referral_details
+      label: patient_referral_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_referral_status
+      label: patient_referral_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''rejected'', ''label'': ''Rejected''}'
+      - '{''value'': ''closed'', ''label'': ''Closed''}'
+      required: false
+    - id: 6
+      name: patient_referral_id
+      label: patient_referral_id
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false

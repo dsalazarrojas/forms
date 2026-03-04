@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Routine Checklist
+    pages:
+    - id: 1
+      name: header
+      label: -- Student Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade level
+      hint: e.g., Grade 3, Grade 10
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6+
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: Date of the routine entry
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: homework_completed
+      label: Homework completed
+      hint: Mark whether homework was completed
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 6
+      name: snack_and_meal
+      label: Snack and meal eaten
+      hint: List foods if applicable or none
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: screen_time_minutes
+      label: Screen time minutes
+      hint: Total minutes of screen time after school
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reading_time_minutes
+      label: Reading time minutes
+      hint: Minutes spent reading or studying
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: physical_activity
+      label: Physical activity performed
+      hint: Type and duration if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Use this for behavior or notable events
+      type: text
+      options: []
+      required: false

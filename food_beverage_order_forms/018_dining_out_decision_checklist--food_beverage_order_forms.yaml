@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dining Out Decision Checklist
+    pages:
+    - id: 1
+      name: group_preferences
+      label: Group Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_arrival
+      label: Time Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: food_restrictions
+      label: Food Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Fish
+      - Vegan
+      - Vegetarian
+      - Gluten
+      - Dairy
+      - Other
+      required: false
+    - id: 6
+      name: drinks
+      label: Drinks
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Juice
+      - Soda
+      - Beer
+      - Wine
+      - Other
+      required: false
+    - id: 7
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: restaurant_preferences
+      label: Restaurant Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

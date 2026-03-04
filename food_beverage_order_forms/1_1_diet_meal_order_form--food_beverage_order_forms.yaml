@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1:1 Diet Meal Order Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: For delivery coordination
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary restrictions or allergies
+      hint: Please specify any food allergies or dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_order
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: meal_plan_type
+      label: Type of meal plan
+      hint: null
+      type: select_one
+      options:
+      - Standard Diet Plan
+      - Keto Diet Plan
+      - Vegan Diet Plan
+      - Low Carb Plan
+      - High Protein Plan
+      - Custom Plan
+      required: true
+    - id: 9
+      name: item_name
+      label: Item or product name
+      hint: Specify the exact meal or product
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Enter number of meals or portions
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: unit_price
+      label: Unit price
+      hint: Price per meal or portion
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: total_calories
+      label: Total calories per meal
+      hint: Average calories per serving
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: protein_content
+      label: Protein content (grams)
+      hint: Grams of protein per serving
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Preferred delivery method
+      hint: null
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_date
+      label: Requested delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time_preference
+      label: Preferred delivery time
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - Anytime
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      required: false
+    - id: 18
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Dietary modifications, packaging requests, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Cash
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 20
+      name: subscription_frequency
+      label: Subscription frequency
+      hint: How often should we deliver?
+      type: select_one
+      options:
+      - One-time order
+      - Weekly (every Monday)
+      - Bi-weekly
+      - Monthly
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information for our team
+      type: text
+      options: []
+      required: false

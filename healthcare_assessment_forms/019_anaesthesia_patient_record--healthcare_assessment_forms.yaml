@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anaesthesia Patient Record
+    pages:
+    - id: 1
+      name: section_patient_record
+      label: -- Anaesthesia Patient Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_weight_kg
+      label: Patient Weight in kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pre_existing_conditions
+      label: Pre-existing Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Asthma
+      - Hypertension
+      - Diabetes
+      - Heart Disease
+      - Allergies
+      required: false
+    - id: 7
+      name: allergy_details
+      label: Details of Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_anaesthesia_complications
+      label: Previous Anaesthesia Complications?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 9
+      name: section_intraoperative_notes
+      label: -- Intraoperative Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: type_of_anaesthesia
+      label: Type of Anaesthesia Administered
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Regional
+      - Local
+      - Sedation
+      required: true
+    - id: 11
+      name: agents_administered
+      label: Anaesthetic Agents Administered
+      hint: Include dosages if possible
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vital_signs_monitoring_notes
+      label: Vital Signs Monitoring Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_post_operative
+      label: -- Post-Operative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recovery_status
+      label: Initial Recovery Status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Under Observation
+      - Critical
+      required: true
+    - id: 15
+      name: post_op_care_instructions
+      label: Post-Operative Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

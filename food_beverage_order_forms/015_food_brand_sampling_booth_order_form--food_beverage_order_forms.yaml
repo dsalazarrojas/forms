@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_brand_sampling_booth_order_form
+    pages:
+    - id: 1
+      name: booth_details
+      label: Booth Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booth_address
+      label: Booth Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: booth_type
+      label: Booth Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sampling_requests
+      label: Sampling Requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sampling_dates
+      label: Sampling Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sampling_times
+      label: Sampling Times
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: sampling_frequency
+      label: Sampling Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

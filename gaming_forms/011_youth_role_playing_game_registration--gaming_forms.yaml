@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Role Playing Game Registration
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_gender
+      label: Player Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_notes
+      label: Player Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: player_date_of_birth
+      label: Player Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: player_time_of_registration
+      label: Player Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false

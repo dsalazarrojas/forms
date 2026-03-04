@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Hazard Assessment
+    pages:
+    - id: 1
+      name: fire_safety_hazard_assessment
+      label: Fire Safety Hazard Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fire_safety_hazard_risk
+      label: Fire Safety Hazard Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fire_hydrant_system
+      label: Fire Hydrant System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_supervision_plan
+      label: Fire Supervision Plan
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fire_drill_procedure
+      label: Fire Drill Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fire_safety_training
+      label: Fire Safety Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: fire_inspector
+      label: Fire Inspector
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_inspection_frequency
+      label: Fire Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

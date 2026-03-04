@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_finance_client_intake_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: financial_info
+      label: financial_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Self-Employed
+      required: true
+    - id: 4
+      name: employment_info
+      label: employment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      - None
+      required: true
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_form_id
+      label: assigned_form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Support Fund Donation Form
+    pages:
+    - id: 1
+      name: science_fair_support_fund_donation_form
+      label: science_fair_support_fund_donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donor_details
+      label: donor_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: donation_method
+      label: donation_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donation_amount_details
+      label: donation_amount_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: science_fair_details
+      label: science_fair_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Biology''}'
+      - '{''label'': ''Chemistry''}'
+      - '{''label'': ''Physics''}'
+      - '{''label'': ''Other''}'
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Texture Styling Comfort Survey
+    pages:
+    - id: 1
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_one
+      options:
+      - Curly
+      - Wavy
+      - Straight
+      required: false
+    - id: 2
+      name: styling_frequency
+      label: How Often You Get Styled
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Less than once a week
+      - Once a week
+      - More than once a week
+      required: false
+    - id: 3
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Somewhat Comfortable
+      - Neutral
+      - Somewhat Uncomfortable
+      - Very Uncomfortable
+      required: false
+    - id: 4
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hair_thickness
+      label: Hair Thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_density
+      label: Hair Density
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blonde
+      - Brown
+      - Gray
+      - Red
+      - Other
+      required: false
+    - id: 8
+      name: favorite_styling_product
+      label: Favorite Styling Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: styling_habits
+      label: How Do You Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hair_care
+      label: Hair Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: /resources/hairdresser_form_phone
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

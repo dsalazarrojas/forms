@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Visit Report Form
+    pages:
+    - id: 1
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nursing_visit_report_form_section_1
+      label: Nursing Visit Report
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Condition Managed'', ''value'': ''Condition Managed''}'
+      - '{''id'': 2, ''label'': ''Condition Not Managed'', ''value'': ''Condition
+        Not Managed''}'
+      required: false
+    - id: 4
+      name: patient_assessment
+      label: Patient Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nursing_visit_report_form_section_2
+      label: Nursing Visit Report
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pain'', ''value'': ''Pain''}'
+      - '{''id'': 2, ''label'': ''Fatigue'', ''value'': ''Fatigue''}'
+      - '{''id'': 3, ''label'': ''Sleep'', ''value'': ''Sleep''}'
+      required: false
+    - id: 6
+      name: nursing_visit_report_form_section_3
+      label: Nursing Visit Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nursing_visit_report_form_section_4
+      label: Nursing Visit Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: patient_dob_monthly
+      label: Patient DOB (Monthly)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: patient_dob_yearly
+      label: Patient DOB Yearly
+      hint: null
+      type: number
+      options: []
+      required: false

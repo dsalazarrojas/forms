@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Allocation Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age and life stage assessment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: investment_timeline
+      label: Investment Time Horizon
+      hint: How long until you need this money?
+      type: select_one
+      options:
+      - Less than 2 years
+      - 2-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20+ years
+      required: true
+    - id: 7
+      name: total_investable_assets
+      label: Total Investable Assets
+      hint: Combined assets available for investment
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: annual_income
+      label: Annual Household Income
+      hint: Gross annual income
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_savings_capacity
+      label: Annual Savings Capacity
+      hint: How much can you save annually?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How comfortable are you with investment risk?
+      type: select_one
+      options:
+      - Very Conservative
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Very Aggressive
+      required: true
+    - id: 11
+      name: investment_goals
+      label: Primary Investment Goals
+      hint: What are your main objectives?
+      type: select_multiple
+      options:
+      - Retirement Planning
+      - College Education
+      - Home Purchase
+      - Wealth Accumulation
+      - Income Generation
+      - Capital Preservation
+      required: true
+    - id: 12
+      name: retirement_age
+      label: Target Retirement Age
+      hint: When do you plan to retire?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: current_stocks_percent
+      label: Current Stock Allocation Percentage
+      hint: What percent of portfolio in stocks?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: current_bonds_percent
+      label: Current Bond Allocation Percentage
+      hint: What percent of portfolio in bonds?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_cash_percent
+      label: Current Cash Allocation Percentage
+      hint: What percent in cash/equivalents?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: current_alternatives_percent
+      label: Current Alternative Investments Percentage
+      hint: What percent in alternatives (real estate, commodities)?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: investment_experience
+      label: Investment Experience Level
+      hint: What is your experience with investing?
+      type: select_one
+      options:
+      - Novice
+      - Intermediate
+      - Experienced
+      - Very Experienced
+      required: true
+    - id: 18
+      name: major_financial_obligations
+      label: Major Financial Obligations
+      hint: Any major debts or obligations?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_fund_months
+      label: Emergency Fund (months of expenses)
+      hint: How many months of expenses saved?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: preferred_communication_frequency
+      label: Preferred Communication Frequency
+      hint: How often would you like updates?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - As Needed
+      required: true
+    - id: 21
+      name: advisor_name
+      label: Financial Advisor Name
+      hint: Advisor assisting with allocation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: form_completion_date
+      label: Form Completion Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

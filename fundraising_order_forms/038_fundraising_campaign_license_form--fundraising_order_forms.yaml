@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: fundraising_campaign_license_form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_multiple
+      options:
+      - Fundraising
+      - Order Forms
+      required: false
+    - id: 3
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Fundraising
+      - Order Forms
+      required: false
+    - id: 6
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_output_file
+      label: Output File
+      hint: The filename for the generated output file.
+      type: select_multiple
+      options:
+      - 038_fundraising_campaign_license_form--fundraising_order_forms.yaml
+      - other
+      required: false

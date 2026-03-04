@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: juice_bar_packaging_design_order_form
+    pages:
+    - id: 1
+      name: juice_bar_packaging_request
+      label: Juice Bar Packaging Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_color_scheme
+      label: Product Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      - yellow
+      - orange
+      - purple
+      required: true
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Juice Bottle
+      - Juice Box
+      - Juice Glass
+      - Juice Bag
+      required: false
+    - id: 4
+      name: packaging_size
+      label: Packaging Size
+      hint: null
+      type: select_multiple
+      options:
+      - 6oz
+      - 12oz
+      - 16oz
+      - 20oz
+      required: true
+    - id: 5
+      name: label_positioning
+      label: Label Positioning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: label_color
+      label: Label Color
+      hint: null
+      type: select_one
+      options:
+      - white
+      - black
+      - red
+      - blue
+      - green
+      required: false
+    - id: 7
+      name: label_material
+      label: Label Material
+      hint: null
+      type: select_one
+      options:
+      - paper
+      - vinyl
+      - fabric
+      required: false
+    - id: 8
+      name: label_finish
+      label: Label Finish
+      hint: null
+      type: select_one
+      options:
+      - matte
+      - glossy
+      - embossed
+      required: false
+    - id: 9
+      name: label_shape
+      label: Label Shape
+      hint: null
+      type: select_one
+      options:
+      - rectangle
+      - circle
+      - square
+      required: false
+    - id: 10
+      name: label_size
+      label: Label Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: packaging_designer_name
+      label: Packaging Designer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: packaging_designer_email
+      label: Packaging Designer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: packaging_designer_phone
+      label: Packaging Designer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: design_description
+      label: Design Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: packaging_file
+      label: Packaging File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false

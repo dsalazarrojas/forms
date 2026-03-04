@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mucoperiosteal Flap Assessment Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: patient id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_post_surgery
+      label: date post surgery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: surgical_technician
+      label: surgical technician
+      hint: null
+      type: select_one
+      options:
+      - Surgical Technician 1
+      - Surgical Technician 2
+      - Surgical Technician 3
+      required: false
+    - id: 4
+      name: surgical_technician_comments
+      label: surgical technician comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: flap_orientation
+      label: flap orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Medial-lateral
+      - Lateral-medial
+      - Medial-medial
+      - Lateral-lateral
+      required: true
+    - id: 6
+      name: flap_location
+      label: flap location
+      hint: null
+      type: select_one
+      options:
+      - Upper Jaw
+      - Lower Jaw
+      - Maxillary
+      - Mandibular
+      required: true
+    - id: 7
+      name: post_op_days
+      label: post-op days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: flap_size
+      label: flap size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: flap_type
+      label: flap type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      required: true
+    - id: 10
+      name: post_op_complications
+      label: post-op complications
+      hint: null
+      type: select_multiple
+      options:
+      - Hematoma
+      - Hematoma (multiple)
+      - Hematoma (large)
+      - Infection
+      - Wound complication
+      - Dehiscence
+      - Dehiscence (large)
+      - Seroma
+      - Seroma (large)
+      - Hematoma (large) and dehiscence
+      - Hematoma (large) and seroma
+      required: true
+    - id: 11
+      name: post_op_comments
+      label: post-op comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: flap_location_comments
+      label: flap location comments
+      hint: null
+      type: text
+      options: []
+      required: true

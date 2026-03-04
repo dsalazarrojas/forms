@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raffle Ticket Form
+    pages:
+    - id: 1
+      name: raffle_entry
+      label: Fill out your info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: raffle_info
+      label: Raffle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: raffle_tickets
+      label: Select Raffle Tickets
+      hint: null
+      type: select_multiple
+      options:
+      - ticket_1
+      - ticket_2
+      - ticket_3
+      required: true
+    - id: 4
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - paypal
+      - stripe
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: raffle_status
+      label: Raffle Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Ended
+      required: false
+    - id: 10
+      name: raffle_type
+      label: Raffle Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 11
+      name: raffle_date
+      label: Raffle Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: raffle_time
+      label: Raffle Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: entry_start_date
+      label: Entry Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: entry_end_date
+      label: Entry End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: entry_end_time
+      label: Entry End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      required: false
+    - id: 17
+      name: raffle_owner
+      label: Raffle Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: entry_fee_1
+      label: Entry Fee 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: entry_fee_2
+      label: Entry Fee 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: entry_fee_3
+      label: Entry Fee 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: entry_fee_4
+      label: Entry Fee 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: entry_fee_5
+      label: Entry Fee 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: entry_fee_6
+      label: Entry Fee 6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: entry_fee_7
+      label: Entry Fee 7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: entry_fee_8
+      label: Entry Fee 8
+      hint: null
+      type: number
+      options: []
+      required: false

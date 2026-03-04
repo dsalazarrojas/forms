@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Candy Gram Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: candy_gram_details
+      label: Candy Gram Details
+      hint: null
+      type: select_multiple
+      options:
+      - Grapes
+      - Apples
+      - Pears
+      - Oranges
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_one
+      options:
+      - Address Line 1
+      - Address Line 2
+      - City
+      - State
+      - Zip
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email
+      hint: A valid email address is required
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_candy
+      label: Total Candy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - PayPal
+      required: false
+    - id: 10
+      name: confirm_payment_method
+      label: Confirm Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - PayPal
+      required: false
+    - id: 11
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: order_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - EDT
+      - CDT
+      - MST
+      - PST
+      - CST
+      required: false
+    - id: 19
+      name: order_comments
+      label: Comments
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 20
+      name: order_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Processing
+      - Cancelled
+      required: false
+    - id: 21
+      name: order_source
+      label: Source
+      hint: null
+      type: select_one
+      options:
+      - Online Order
+      - Offline Order
+      - Other
+      required: false
+    - id: 22
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      - jane_doe
+      required: false
+    - id: 24
+      name: order_id
+      label: Order ID
+      hint: null
+      type: select_one
+      options:
+      - '123'
+      - '456'
+      - '789'
+      - '10'
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

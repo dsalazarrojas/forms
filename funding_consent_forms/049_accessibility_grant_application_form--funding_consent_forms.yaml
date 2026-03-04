@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Grant Application Form
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_org_name
+      label: Individual or Organization Name
+      hint: Legal name for grant processing
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_type
+      label: Type of Applicant
+      hint: select most accurate category
+      type: select_one
+      options:
+      - Individual with Disability
+      - Non-profit Organization
+      - Educational Institution
+      - Small Business
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Primary point of contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_overview
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: Grant Project Title
+      hint: descriptive and concise
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_summary
+      label: Brief Summary of the Project
+      hint: Max 150 words
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: focus_areas
+      label: Primary focus of the project
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Physical Accessibility
+      - Digital or Web Accessibility
+      - Educational Support
+      - Assistive Technology
+      - Community Outreach
+      required: true
+    - id: 9
+      name: section_goals
+      label: -- Goals and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: targeted_population
+      label: Who will benefit from this grant?
+      hint: Describe the specific community
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_beneficiaries
+      label: Estimated number of people impacted
+      hint: enter numerical value
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: primary_objectives
+      label: What are the key goals of this project?
+      hint: list 3 main objectives
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_budget
+      label: -- Budget and Funding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: total_budget
+      label: Total Project Budget in USD
+      hint: include all costs
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: grant_amount_requested
+      label: Amount Requested from this Grant
+      hint: funding seek amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: budget_breakdown
+      label: Briefly explain how the funds will be used
+      hint: core expense categories
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: start_date
+      label: Estimated Project Start Date
+      hint: beginning of activities
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: end_date
+      label: Estimated Project End Date
+      hint: completion of grant period
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: section_legal
+      label: -- Legal Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accountability_pledge
+      label: I pledge to use the funds solely for the purposes described
+      hint: financial responsibility agreement
+      type: select_one
+      options:
+      - I Pledge
+      - Other
+      required: true
+    - id: 22
+      name: authorized_signature
+      label: Signature of Authorized Official
+      hint: type name to sign
+      type: text
+      options: []
+      required: true

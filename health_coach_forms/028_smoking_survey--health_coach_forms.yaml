@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smoking Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Please enter your age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - male
+      - female
+      - other
+      required: true
+    - id: 5
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - never
+      - sometimes
+      - daily
+      required: true
+    - id: 6
+      name: years_smoking
+      label: Years Smoking
+      hint: Please enter the number of years you have been smoking
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cigarettes_per_day
+      label: Cigarettes Per Day
+      hint: Please enter the number of cigarettes you smoke per day
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quit_date
+      label: Quit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_quit
+      label: Reason for Quitting
+      hint: null
+      type: select_multiple
+      options:
+      - health
+      - stress
+      - money
+      required: true
+    - id: 10
+      name: smoking_level
+      label: Smoking Level
+      hint: null
+      type: select_one
+      options:
+      - light
+      - moderate
+      - heavy
+      required: true

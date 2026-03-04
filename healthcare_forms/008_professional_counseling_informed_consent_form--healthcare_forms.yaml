@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_counseling_informed_consent_form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: informed_consent
+      label: Informed Consent
+      hint: This form is to inform clients about the services we offer and the risks
+        and limitations involved.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: counseling_goals
+      label: Counseling Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - Client acknowledges that the counselor is not a medical professional
+      - Client acknowledges that the counselor will maintain confidentiality
+      - Client agrees to follow the counseling plan
+      required: false
+    - id: 5
+      name: risk_and_limitations
+      label: Risk and Limitations
+      hint: This is a list of possible risks and limitations that may occur during
+        the counseling process.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: What do you want to happen in case of a crisis?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

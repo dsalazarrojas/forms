@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infection Control Discharge Form
+    pages:
+    - id: 1
+      name: admission_date
+      label: Admission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: infection_control_measures
+      label: Infection Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Antimicrobial stewardship
+      - Hand hygiene
+      - Isolation
+      - Infection control protocols
+      - Other
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Apparel Order Form Template
+    pages:
+    - id: 1
+      name: graduation_apparel_order_form
+      label: graduation_apparel_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graduation_apparel_order
+      label: graduation_apparel_order
+      hint: null
+      type: select_one
+      options:
+      - Graduation Cap
+      - Graduation Gown
+      - Graduation Robes
+      required: true
+    - id: 3
+      name: graduation_year
+      label: graduation_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: graduation_apparel_price
+      label: graduation_apparel_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: graduation_form_additional_comments
+      label: graduation_form_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: graduation_apparel_order_status
+      label: graduation_apparel_order_status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Completed
+      - Approved
+      required: true
+    - id: 14
+      name: graduation_apparel_order_date
+      label: graduation_apparel_order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: graduation_apparel_order_time
+      label: graduation_apparel_order_time
+      hint: null
+      type: time
+      options: []
+      required: false

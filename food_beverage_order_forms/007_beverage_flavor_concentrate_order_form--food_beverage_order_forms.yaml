@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Flavor Concentrate Order Form
+    pages:
+    - id: 1
+      name: section_header_buyer
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name of the person placing the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Email Address
+      hint: Contact email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: buyer_phone
+      label: Phone Number
+      hint: Contact number for updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_shipping
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping Address
+      hint: Where should we send the order?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_postal
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_concentrate
+      label: -- Concentrate Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: flavor_variety
+      label: Flavor Concentrate Varieties
+      hint: Which flavors do you want to order (Select all that apply)?
+      type: select_multiple
+      options:
+      - Strawberry
+      - Raspberry
+      - Blueberry
+      - Lemon
+      - Lime
+      - Orange
+      - Grape
+      - Mango
+      - Passion fruit
+      - Watermelon
+      - Cherry
+      - Peach
+      - Custom flavor
+      required: true
+    - id: 14
+      name: concentrate_strength
+      label: Concentrate Strength Preference
+      hint: How concentrated do you prefer?
+      type: select_one
+      options:
+      - Light (less intense flavor)
+      - Standard (balanced flavor)
+      - Strong (bold flavor)
+      - Extra strong (very intense)
+      required: true
+    - id: 15
+      name: quantity_unit
+      label: Order Unit Size
+      hint: What size containers do you prefer?
+      type: select_one
+      options:
+      - 1 lb containers
+      - 5 lb containers
+      - 10 lb containers
+      - 25 lb containers
+      - 55 lb drums
+      - Bulk custom
+      required: true
+    - id: 16
+      name: quantity_amount
+      label: Quantity to Order
+      hint: Number of units needed
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_specifications
+      label: -- Special Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: sweetener_type
+      label: Sweetener Preference
+      hint: What sweetener option do you want?
+      type: select_one
+      options:
+      - Sugar based
+      - Artificial sweetener
+      - High fructose corn syrup
+      - Stevia
+      - Monk fruit
+      - No sweetener (flavor only)
+      - No preference
+      required: true
+    - id: 19
+      name: additives
+      label: Special Additives or Ingredients
+      hint: Any special requirements (Select all that apply)?
+      type: select_multiple
+      options:
+      - Natural ingredients only
+      - Organic certified
+      - No artificial colors
+      - No artificial flavors
+      - Allergen-free
+      - GMO-free
+      - None
+      required: false
+    - id: 20
+      name: color_preference
+      label: Concentrate Color Preference
+      hint: Do you have a preferred color?
+      type: select_one
+      options:
+      - Natural color
+      - Standard food coloring
+      - Bright vibrant color
+      - No preference
+      required: false
+    - id: 21
+      name: section_header_delivery
+      label: -- Delivery & Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When do you need the concentrates?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: storage_conditions
+      label: Storage Condition Requirements
+      hint: Any special storage needs?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_orders
+      label: Have You Ordered From Us Before
+      hint: null
+      type: select_one
+      options:
+      - Yes, regular customer
+      - Yes, occasional customer
+      - No, first time ordering
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information about your order?
+      type: text
+      options: []
+      required: false

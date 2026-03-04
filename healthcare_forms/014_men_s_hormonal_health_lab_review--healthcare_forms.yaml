@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men's Hormonal Health Lab Review
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_last_lab_test
+      label: Date of Last Lab Test
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: symptoms_description
+      label: Symptoms Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: select_one
+      options:
+      - Blood Test
+      - Urine Test
+      - Saliva Test
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: doctor_comments
+      label: Doctor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: lab_report
+      label: Lab Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lab_ordering_info
+      label: Lab Ordering Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature_date
+      label: Date of Doctor’s Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: doctor_special_instructions
+      label: Doctor's Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: lab_test_date
+      label: Lab Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: lab_test_time
+      label: Lab Test Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: lab_test_duration
+      label: Lab Test Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: lab_test_frequency
+      label: Lab Test Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: lab_ordering_frequency
+      label: Lab Ordering Frequency
+      hint: null
+      type: number
+      options: []
+      required: true

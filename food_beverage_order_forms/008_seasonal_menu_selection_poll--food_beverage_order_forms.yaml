@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_menu_selection_poll
+    pages:
+    - id: 1
+      name: seasonal_menu_selection
+      label: Seasonal Menu Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: menu_items
+      label: Menu Items
+      hint: Choose your favorite menu items from the seasonal menu.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seasonal_flavors
+      label: Seasonal Flavors
+      hint: Select your preferred seasonal flavors.
+      type: select_one
+      options:
+      - Apple Cider Donut Holes
+      - Pumpkin Spice Latte
+      - Maple Bacon Donut
+      required: false
+    - id: 4
+      name: drink_orders
+      label: Drink Orders
+      hint: Do you have any special drink orders for delivery.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Enter your email address for delivery and promotions.
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number for delivery.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: Select your preferred delivery time.
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: Select your preferred delivery date.
+      type: date
+      options: []
+      required: false

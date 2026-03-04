@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Survey
+    pages:
+    - id: 1
+      name: donar_info
+      label: Donar information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_survey
+      label: Time of survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: amount_donated
+      label: Amount donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: Which of the following best describes why you donate?
+      hint: null
+      type: select_one
+      options:
+      - Donating to help a good cause
+      - Supporting a friend or family member
+      - Giving back to the community
+      - Personal fulfillment
+      - Other (please specify below)
+      required: false
+    - id: 11
+      name: select_multiple
+      label: What is/are your interests?
+      hint: null
+      type: select_multiple
+      options:
+      - Animals
+      - Arts and culture
+      - Children and families
+      - Education
+      - Health
+      - Human rights
+      - Nature and the environment
+      - Seniors
+      - Veterans
+      - Women
+      - Youth
+      required: false
+    - id: 12
+      name: note
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false

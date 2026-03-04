@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Animal Processing Guide
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_type
+      label: Select Animal Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_harvested
+      label: Harvest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: weight_harvested
+      label: Weight Harvested
+      hint: null
+      type: number
+      options: []
+      required: false

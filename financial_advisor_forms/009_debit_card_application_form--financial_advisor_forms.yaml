@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debit Card Application Form
+    pages:
+    - id: 1
+      name: user_info_form
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: card_info_form
+      label: Card Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cardholder_form
+      label: Card Holder
+      hint: null
+      type: select_one
+      options:
+      - Mr.
+      - Mrs.
+      - Ms.
+      - Dr.
+      required: true
+    - id: 4
+      name: account_balance_form
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: account_type_form
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - 6 months or more
+      - 2-6 months
+      - Less than 2 months
+      required: true
+    - id: 6
+      name: account_status_form
+      label: Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: true
+    - id: 7
+      name: account_type_details_form
+      label: Account Type Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_type_details
+      label: Account-Type-Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_address_form
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_address_2_form
+      label: User-Address-2-Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_address_3_form
+      label: User-Address-3-Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_address_form
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_form
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_form
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: card_number_form
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: card_expiration_form
+      label: Card Expiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: card_expiration_date_form
+      label: Card Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: card_cvv_form
+      label: Card CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_name_form
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_phone_form
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_phone_2_form
+      label: User-Phone-2-Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_email_form
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: user_email_2_form
+      label: User-Email-2-Form
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: user_note_form
+      label: User Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_signature_form
+      label: User Signature
+      hint: null
+      type: text
+      options: []
+      required: false

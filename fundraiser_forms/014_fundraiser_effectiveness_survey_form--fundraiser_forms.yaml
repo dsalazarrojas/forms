@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Effectiveness Survey Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_participation
+      label: Event Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_participation_scale
+      label: Event Participation Scale
+      hint: From 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fundraising_effort
+      label: Fundraising Effort
+      hint: What effort is your organization making to raise money?
+      type: select_one
+      options:
+      - Fundraising Basics
+      - Social Media Campaigns
+      - Fundraising Events
+      - Online Campaigns
+      - Other
+      required: false
+    - id: 5
+      name: fundraising_success
+      label: Fundraising Success
+      hint: How successful was the fundraising event?
+      type: select_multiple
+      options:
+      - 1-20% successful
+      - 21-40% successful
+      - 41-60% successful
+      - 61-80% successful
+      - 81-100% successful
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: What suggestions do you have to improve the fundraising event?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: What type of event was held?
+      type: select_one
+      options:
+      - Fundraising Walk/Run
+      - Fundraising Gala
+      - Fundraising Dinner
+      - Other
+      required: false
+    - id: 9
+      name: event_size
+      label: Event Size
+      hint: How many attendees were at the event?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: total_donated
+      label: Total Donated
+      hint: Total amount donated
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: donation_method
+      label: Donation Method
+      hint: How did donors fund the event?
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Mail-in
+      - Other
+      required: false
+    - id: 13
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often do donors give to your organization?
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Rarely
+      required: false
+    - id: 14
+      name: fundraising_budget
+      label: Fundraising Budget
+      hint: What is the allocated budget for the event?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: actual_spent
+      label: Actual Spent
+      hint: What was the total actual spent on the event?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: actual_donated
+      label: Actual Donated
+      hint: What was the total actual donated for the event?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: budget_variance
+      label: Budget Variance
+      hint: How did the actual expenses differ from the allocated budget?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fundraising_goal
+      label: Fundraising Goal
+      hint: What is the goal for fundraising event?
+      type: select_one
+      options:
+      - Less than 10k
+      - 10-20k
+      - 20-30k
+      - More than 30k
+      required: false
+    - id: 19
+      name: fundraising_achievement
+      label: Fundraising Achievement
+      hint: How close were you to reaching the goal?
+      type: select_multiple
+      options:
+      - Not at all close
+      - Somewhat close
+      - Moderately close
+      - Very close
+      - Extremely close
+      required: false
+    - id: 20
+      name: overall_impact
+      label: Overall Impact
+      hint: How impactful was the event for your organization?
+      type: select_multiple
+      options:
+      - Not impactful
+      - Slightly impactful
+      - Moderately impactful
+      - Highly impactful
+      - Extremely impactful
+      required: false
+    - id: 21
+      name: evaluation
+      label: Evaluation
+      hint: Would you recommend this event for future fundraising campaigns?
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Moderately
+      - Highly
+      - Extremely
+      required: false

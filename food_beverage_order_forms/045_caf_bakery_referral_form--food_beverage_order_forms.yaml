@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Café Bakery Referral Form
+    pages:
+      - id: 1
+        name: referrer_name
+        label: Referrer name
+        hint: Person making referral
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: referred_business
+        label: Referred business or customer
+        hint: Name or contact
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: referral_reason
+        label: Reason for referral
+        hint: Wholesale partnership or customer referral
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: contact_info
+        label: Contact information for referral
+        hint: Phone or email
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: preferred_follow_up
+        label: Preferred follow up method
+        hint: Email phone or visit
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - In person
+        required: false
+      - id: 6
+        name: referral_date
+        label: Referral date
+        hint: Date referral was made
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: notes
+        label: Notes
+        hint: Any special context or information
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: consent_to_contact
+        label: Consent to contact referred party
+        hint: Confirm permission to contact
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

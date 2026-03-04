@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_credit_application_form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credit_history
+      label: Credit History
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit Card
+      - Other
+      required: true
+    - id: 3
+      name: income_details
+      label: Income Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self Employed
+      - Retired
+      - Unemployed
+      required: true
+    - id: 5
+      name: credit_score
+      label: Credit Score
+      hint: 300-850
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: credit_amount
+      label: Credit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: purpose_of_loan
+      label: Purpose Of Loan
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Business
+      - Other
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: employment_start
+      label: Employment Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: employment_end
+      label: Employment End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: loan_start
+      label: Loan Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: loan_end
+      label: Loan End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: employment_income
+      label: Employment Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_income
+      label: Other Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false

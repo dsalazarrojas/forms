@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flower Inventory Report Form
+    pages:
+    - id: 1
+      name: flower_stock_levels
+      label: flower stock levels
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: flower_condition
+      label: flower condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: replenishment_needs
+      label: replenishment needs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_last_checked
+      label: date last checked
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: stock_type
+      label: stock type
+      hint: null
+      type: select_one
+      options:
+      - Bulbs
+      - Bulbs and Mums
+      - Cut Flowers
+      - Succulents
+      - Stems
+      required: true
+    - id: 6
+      name: stock_status
+      label: stock status
+      hint: null
+      type: select_multiple
+      options:
+      - In stock
+      - Out of stock
+      - Needs replenishment
+      required: true
+    - id: 7
+      name: stock_level
+      label: stock level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stock_condition
+      label: stock condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: vendor_name
+      label: vendor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: vendor_email
+      label: vendor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vendor_name
+      label: vendor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stock_date
+      label: stock date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: stock_status_date
+      label: stock status date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: stock_count
+      label: stock count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: stock_replenished
+      label: stock replenished
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: stock_low_level
+      label: stock low level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: stock_critical_level
+      label: stock critical level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: stock_warning_level
+      label: stock warning level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: stock_high_level
+      label: stock high level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: stock_status_critical
+      label: stock status critical
+      hint: null
+      type: select_multiple
+      options:
+      - In stock
+      - Out of stock
+      - Needs replenishment
+      required: true
+    - id: 25
+      name: stock_replenishment
+      label: stock replenishment
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mesothelioma Claim Form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - Aetna
+      - Blue Cross
+      - Cigna
+      - Kaiser Permanente
+      required: true
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: physician_confirmation
+      label: Physician Confirmation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: patient_diagnosis
+      label: Patient Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Malignant Pleural Mesothelioma
+      - Other
+      - Malignant Pleural Mesothelioma - Other
+      required: true
+    - id: 10
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: claim_documents
+      label: Claim Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_provider_contact_info
+      label: Medical Provider Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_family_history
+      label: Patient Family History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: patient_zip
+      label: Patient ZIP
+      hint: null
+      type: number
+      options: []
+      required: true

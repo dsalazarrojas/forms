@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: startup_fund_donation_form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-Time
+      required: true
+    - id: 4
+      name: frequency_duration
+      label: Frequency Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      required: true
+    - id: 5
+      name: supporter_name
+      label: Supporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporter_email
+      label: Supporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: supporter_phone
+      label: Supporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: startup_name
+      label: Startup Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: startup_description
+      label: Startup Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: startup_url
+      label: Startup URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: created_at
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: updated_at
+      label: Updated By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: user_id
+      label: User Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: User Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

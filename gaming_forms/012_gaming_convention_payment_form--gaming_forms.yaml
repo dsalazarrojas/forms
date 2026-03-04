@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_convention_payment_form
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: convention_type
+      label: Convention Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Gaming''}'
+      - '{''value'': ''Non-Gaming''}'
+      required: true
+    - id: 4
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Card''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Transfer''}'
+      required: true
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: attendee_address
+      label: Attendee Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: attendee_city
+      label: Attendee City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_state
+      label: Attendee State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendee_zip
+      label: Attendee Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendee_country
+      label: Attendee Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid''}'
+      - '{''value'': ''Pending''}'
+      required: true
+    - id: 17
+      name: payment_status_message
+      label: Payment Status Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Registered''}'
+      - '{''value'': ''Not Registered''}'
+      required: true
+    - id: 20
+      name: registration_note
+      label: Registration Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: event_description
+      label: Event Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: event_terms
+      label: Event Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: event_image_url
+      label: Event Image URL
+      hint: null
+      type: text
+      options: []
+      required: false

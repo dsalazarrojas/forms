@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: ObGynPatientHistoryForm
+    pages:
+    - id: 1
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: obstetrics_history
+      label: obstetrics_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surgical_history
+      label: surgical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: family_history
+      label: family_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions_other
+      label: medical_conditions_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_tests
+      label: medical_tests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

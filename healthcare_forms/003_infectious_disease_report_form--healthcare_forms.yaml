@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: infectious_disease_report_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: disease_type
+      label: disease_type
+      hint: null
+      type: select_one
+      options:
+      - Influenza
+      - Common cold
+      - HIV
+      - COVID-19
+      required: false
+    - id: 3
+      name: onset_date
+      label: onset_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
+      required: false
+    - id: 6
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: disease_outcome
+      label: disease_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - resolved
+      - ongoing
+      - deceased
+      required: false

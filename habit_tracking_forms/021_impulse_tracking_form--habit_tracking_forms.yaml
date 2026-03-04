@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: impulse_tracking_form
+    pages:
+    - id: 1
+      name: impulse_log
+      label: Impulse Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: impulse_trigger
+      label: Trigger
+      hint: null
+      type: select_one
+      options:
+      - Impulse 1
+      - Impulse 2
+      - Impulse 3
+      required: false
+    - id: 3
+      name: emotion
+      label: Emotion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: response
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: outcome
+      label: Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trigger_type
+      label: Trigger Type
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Emotional
+      - Cognitive
+      required: false
+    - id: 7
+      name: trigger_location
+      label: Trigger Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coach_comments
+      label: Coach Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

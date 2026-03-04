@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Client Intake Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tax_id
+      label: tax id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tax_year
+      label: tax year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: financial_institution
+      label: financial institution
+      hint: null
+      type: select_one
+      options:
+      - First Federal Bank
+      - First National Bank
+      - First Bank of America
+      - Second Bank
+      - Fifth Third Bank
+      - Fourth Bank
+      - Bank of America
+      - First Bank
+      - Second National
+      required: true
+    - id: 10
+      name: bank_routing
+      label: bank routing
+      hint: null
+      type: select_multiple
+      options:
+      - Bank of America
+      - Fifth Third Bank
+      - Fourth Bank
+      - First Bank
+      required: true
+    - id: 11
+      name: account_number
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: social_security_number
+      label: ssn
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: account_holder_first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: account_holder_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: account_type
+      label: account type
+      hint: null
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit
+      - Debit
+      required: true
+    - id: 16
+      name: bank_name
+      label: bank name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: account_number2
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: account_holder_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: account_holder_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address2
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self Employed
+      - Retired
+      required: true
+    - id: 23
+      name: employment_type
+      label: employment type
+      hint: null
+      type: select_one
+      options:
+      - W2
+      - '1099'
+      required: true
+    - id: 24
+      name: account_number3
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: account_number4
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: false

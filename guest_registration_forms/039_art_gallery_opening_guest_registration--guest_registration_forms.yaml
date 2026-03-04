@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Opening Guest Registration
+    pages:
+    - id: 1
+      name: opening_event_header
+      label: -- Exhibition Opening Guest Registration --
+      hint: Welcome to our latest exhibition opening!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_category
+      label: Guest Category
+      hint: null
+      type: select_one
+      options:
+      - Artist - Collaborator
+      - Member
+      - Media - Press
+      - VIP Guest
+      - General Public
+      - Guest of Staff
+      required: true
+    - id: 6
+      name: attendance_details_header
+      label: -- Attendance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exhibition_attending
+      label: Which opening are you attending?
+      hint: null
+      type: select_one
+      options:
+      - Urban Echoes - Photography Exhibition
+      - Infinite Canvas - Abstract Series
+      - Sculpting the Future - Group Show
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests (Plus One)
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: arrival_time_slot
+      label: Preferred Arrival Time Slot
+      hint: Helps us manage gallery capacity
+      type: select_one
+      options:
+      - 6:00 PM - 6:45 PM
+      - 6:45 PM - 7:30 PM
+      - 7:30 PM - 8:15 PM
+      - 8:15 PM - 9:00 PM
+      required: true
+    - id: 10
+      name: photography_consent_header
+      label: -- Photography and Media Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: photo_consent_agreement
+      label: Do you consent to being photographed or filmed for gallery promotional
+        purposes?
+      hint: Photographs may be used on social media and our website
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 12
+      name: stay_informed_header
+      label: -- Stay Informed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_list_opt_in
+      label: Would you like to be added to our VIP opening invitation list?
+      hint: Receive priority invites to future openings
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: interest_areas
+      label: What types of art would you like to hear about?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Digital Art
+      - Performance Art
+      - Installations
+      required: false
+    - id: 15
+      name: registration_timestamp
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Any accessibility or special requirements?
+      hint: null
+      type: text
+      options: []
+      required: false

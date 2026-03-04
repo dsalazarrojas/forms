@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Agreement
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Full Name
+      hint: Legal name of the coach
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Full Name
+      hint: Legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: Client contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_address
+      label: Client Address
+      hint: Client mailing address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: Date this agreement begins
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: coaching_package
+      label: Coaching Package Selected
+      hint: Which package are you purchasing
+      type: select_one
+      options:
+      - Single Session
+      - 3 Session Package
+      - 6 Session Package
+      - 12 Session Package
+      - Monthly Unlimited
+      - Custom Package
+      required: true
+    - id: 10
+      name: session_duration
+      label: Session Duration
+      hint: Length of each session
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      required: true
+    - id: 11
+      name: total_fee
+      label: Total Package Fee
+      hint: Total cost of the package
+      type: select_one
+      options:
+      - $100-$250
+      - $251-$500
+      - $501-$1000
+      - $1001-$2000
+      - Over $2000
+      required: true
+    - id: 12
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When will you pay
+      type: select_one
+      options:
+      - Full Payment Upfront
+      - 50 Percent Deposit
+      - Monthly Payments
+      - Pay Per Session
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      - Cash
+      required: true
+    - id: 14
+      name: coaching_goals
+      label: Primary Coaching Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: health_conditions
+      label: Relevant Health Conditions
+      hint: Any conditions the coach should know
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medications
+      label: Current Medications
+      hint: List any relevant medications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cancellation_policy
+      label: Cancellation Policy Accepted
+      hint: You understand cancellation terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 18
+      name: cancellation_notice_required
+      label: Cancellation Notice Required
+      hint: How much notice must you give
+      type: select_one
+      options:
+      - 12 Hours
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
+      required: true
+    - id: 19
+      name: refund_policy
+      label: Refund Policy Understood
+      hint: You understand refund terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 20
+      name: confidentiality_clause
+      label: Confidentiality Clause Accepted
+      hint: Both parties agree to privacy
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 21
+      name: liability_waiver
+      label: Liability Waiver Signed
+      hint: You release coach from certain liabilities
+      type: select_one
+      options:
+      - Yes I Sign
+      - false
+      required: true
+    - id: 22
+      name: medical_clearance
+      label: Medical Clearance Obtained
+      hint: You have doctor approval if needed
+      type: select_one
+      options:
+      - Yes I Have Clearance
+      - Not Required
+      - No I Need Clearance
+      required: false
+    - id: 23
+      name: commitment_acknowledgment
+      label: I Understand This Requires Commitment
+      hint: You understand coaching requires effort
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 24
+      name: results_disclaimer
+      label: Results Disclaimer Acknowledged
+      hint: You understand results vary by individual
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 25
+      name: communication_preferences
+      label: Preferred Communication Method
+      hint: How should coach contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - App Messaging
+      - No Preference
+      required: false
+    - id: 26
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Who to contact in emergency
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: both_parties_agree
+      label: Both Parties Agree to Terms
+      hint: Coach and client both accept
+      type: select_one
+      options:
+      - Yes We Agree
+      - false
+      required: true
+    - id: 29
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: additional_terms
+      label: Additional Terms or Notes
+      hint: Any special agreements
+      type: text
+      options: []
+      required: false

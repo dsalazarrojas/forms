@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Consent For Salon Services During COVID 19 Pandemic
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Your complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: appointment_date
+      label: Appointment Date
+      hint: Scheduled service date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: What service are you receiving?
+      type: select_one
+      options:
+      - Haircut and Styling
+      - Hair Coloring
+      - Highlights
+      - Perm or Chemical Treatment
+      - Hair Extensions
+      - Blowout
+      - Updo or Bridal
+      - Other
+      required: true
+    - id: 12
+      name: stylist_name
+      label: Stylist Name
+      hint: Your assigned stylist
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: covid_symptoms_check
+      label: Do You Have Any COVID-19 Symptoms?
+      hint: Fever, cough, shortness of breath, etc.
+      type: select_one
+      options:
+      - No, I Have No Symptoms
+      - Yes, I Have Symptoms
+      required: true
+    - id: 14
+      name: covid_exposure_check
+      label: Have You Been Exposed to COVID-19 in Past 14 Days?
+      hint: Close contact with infected person
+      type: select_one
+      options:
+      - No, No Known Exposure
+      - Yes, Possible Exposure
+      required: true
+    - id: 15
+      name: covid_test_status
+      label: Have You Tested Positive for COVID-19 in Past 14 Days?
+      hint: Recent test results
+      type: select_one
+      options:
+      - No, Tested Negative
+      - No, Have Not Been Tested
+      - Yes, Tested Positive
+      required: true
+    - id: 16
+      name: travel_history
+      label: Have You Traveled Outside the Country in Past 14 Days?
+      hint: International travel
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: mask_agreement
+      label: I Agree to Wear a Mask During My Visit
+      hint: Mask requirement acknowledgment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: temperature_screening
+      label: I Consent to Temperature Screening Upon Arrival
+      hint: Temperature check consent
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 19
+      name: hand_sanitizing
+      label: I Agree to Sanitize My Hands Upon Entry
+      hint: Hand hygiene agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: social_distancing
+      label: I Agree to Follow Social Distancing Guidelines
+      hint: Maintain 6 feet distance
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: guest_policy
+      label: I Understand Only One Guest Is Allowed Per Appointment
+      hint: Guest limitation policy
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: I Assume All Risks Associated with COVID-19 Exposure
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - I Accept All Risks
+      - I Do Not Accept Risks
+      required: true
+    - id: 23
+      name: health_insurance
+      label: Health Insurance Provider
+      hint: Your insurance company
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: consent_date
+      label: Consent Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

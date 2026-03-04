@@ -1,0 +1,388 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alveoloplasty Consent Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Must be 18 or older
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone_home
+      label: Home Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: phone_mobile
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship
+      label: Relationship to Patient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_procedure_info
+      label: -- Procedure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: procedure_name
+      label: Procedure Name
+      hint: Alveoloplasty
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: procedure_description
+      label: Procedure Description
+      hint: Surgical reshaping or smoothing of the alveolar bone
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: procedure_site
+      label: Surgical Site
+      hint: Location of procedure
+      type: select_one
+      options:
+      - Upper jaw (maxilla)
+      - Lower jaw (mandible)
+      - Both upper and lower jaw
+      - Specific quadrant (specify below)
+      required: true
+    - id: 24
+      name: procedure_site_detail
+      label: Specific Site Details
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: procedure_date
+      label: Scheduled Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: surgeon_name
+      label: Oral Surgeon Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: section_reason
+      label: -- Reason for Procedure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: procedure_indication
+      label: Indication for Procedure
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Preparation for dentures
+      - Post-tooth extraction smoothing
+      - Bone irregularities
+      - Trauma repair
+      - Infection management
+      - Other dental procedures
+      required: true
+    - id: 29
+      name: additional_notes
+      label: Additional Clinical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_risks
+      label: -- Risks and Complications --
+      hint: The following risks have been explained to me
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: risks_acknowledged
+      label: Risks Acknowledged
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pain and discomfort
+      - Swelling and bruising
+      - Bleeding
+      - Infection
+      - Nerve damage
+      - Numbness or tingling
+      - Damage to adjacent teeth
+      - Sinus complications
+      - Need for additional procedures
+      - Anesthesia complications
+      - Scarring
+      - Delayed healing
+      required: true
+    - id: 32
+      name: section_anesthesia
+      label: -- Anesthesia Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: anesthesia_type
+      label: Type of Anesthesia
+      hint: null
+      type: select_one
+      options:
+      - Local anesthesia
+      - Nitrous oxide (laughing gas)
+      - Oral sedation
+      - IV sedation
+      - General anesthesia
+      required: true
+    - id: 34
+      name: anesthesia_risks_discussed
+      label: Anesthesia Risks Discussed
+      hint: I understand the risks of anesthesia
+      type: select_one
+      options:
+      - Yes - Risks explained and understood
+      - Other
+      required: true
+    - id: 35
+      name: section_alternatives
+      label: -- Alternatives Discussed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: alternatives_discussed
+      label: Treatment Alternatives
+      hint: Select all that were discussed
+      type: select_multiple
+      options:
+      - No treatment
+      - Delayed treatment
+      - Different surgical approach
+      - Non-surgical management
+      - Referral to specialist
+      required: true
+    - id: 37
+      name: patient_questions
+      label: Patient Questions Addressed
+      hint: All patient questions have been answered
+      type: select_one
+      options:
+      - Yes - All questions answered
+      - No - Further discussion needed
+      required: true
+    - id: 38
+      name: section_consent
+      label: -- Consent Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: consent_statement
+      label: Consent Declaration
+      hint: I hereby consent to the procedure
+      type: select_one
+      options:
+      - I consent to the alveoloplasty procedure as described
+      - I understand I may withdraw consent at any time
+      - I authorize the surgeon to perform any necessary additional procedures
+      required: true
+    - id: 40
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 42
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: surgeon_signature
+      label: Surgeon Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: section_post_op
+      label: -- Post-Operative Instructions --
+      hint: I understand I will receive post-operative care instructions
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: post_op_instructions
+      label: Post-Operative Instructions Acknowledgment
+      hint: I understand I will receive written post-op instructions
+      type: select_one
+      options:
+      - Yes - I understand and will follow instructions
+      - Other
+      required: true
+    - id: 47
+      name: follow_up_appointment
+      label: Follow-up Appointment Scheduled
+      hint: null
+      type: select_one
+      options:
+      - Yes - Date scheduled
+      - No - Will schedule later
+      required: false
+    - id: 48
+      name: follow_up_date
+      label: Follow-up Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false

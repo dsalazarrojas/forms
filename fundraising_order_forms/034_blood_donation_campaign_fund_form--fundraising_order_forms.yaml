@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Campaign Fund Form
+    pages:
+    - id: 1
+      name: campaign_header
+      label: Blood Donation Campaign Fund Form
+      hint: Support our blood donation initiatives
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: Full name or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: If donating on behalf of company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: How much would you like to donate
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - $500
+      - $1000
+      - Other Amount
+      required: true
+    - id: 7
+      name: custom_amount
+      label: Custom Amount
+      hint: If other specify
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One time or recurring
+      type: select_one
+      options:
+      - One Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: How will you donate
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 10
+      name: card_number
+      label: Card Number
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: MM slash YY
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: billing_address
+      label: Billing Address
+      hint: Address for payment
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: campaign_designation
+      label: Campaign Designation
+      hint: Which campaign to support
+      type: select_one
+      options:
+      - General Blood Donation Fund
+      - Emergency Response Fund
+      - Pediatric Blood Bank
+      - Mobile Unit Operations
+      - Donor Recruitment
+      - Where Needed Most
+      required: true
+    - id: 15
+      name: tribute_donation
+      label: Tribute Donation
+      hint: Is this in honor of someone
+      type: select_one
+      options:
+      - Yes In Honor Of
+      - Yes In Memory Of
+      - No General Donation
+      required: true
+    - id: 16
+      name: honoree_name
+      label: Honoree Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notification_sent
+      label: Send Notification
+      hint: Should family be notified
+      type: select_one
+      options:
+      - Yes Send Card
+      - Yes Send Email
+      - false
+      required: false
+    - id: 18
+      name: honoree_address
+      label: Notification Address
+      hint: Where to send notification
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employer_match
+      label: Employer Matching
+      hint: Will your employer match
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 20
+      name: receipt_preference
+      label: Receipt Preference
+      hint: How should we send receipt
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Both
+      required: true
+    - id: 21
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive campaign updates
+      type: select_one
+      options:
+      - Yes Sign Me Up
+      - No Thanks
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any message or notes
+      type: text
+      options: []
+      required: false

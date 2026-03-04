@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anesthesia Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Hospital or clinic ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: procedure_date
+      label: Scheduled Procedure Date
+      hint: Date of the planned procedure
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: procedure_name
+      label: Name of Procedure
+      hint: The surgical or medical procedure to be performed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_introduction
+      label: Anesthesia Consent Information
+      hint: This form documents your consent for anesthesia administration. Please read carefully and answer all questions truthfully.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: anesthesia_type
+      label: Type of Anesthesia Planned
+      hint: The type of anesthesia to be administered
+      type: select_one
+      options:
+      - General Anesthesia
+      - Regional Anesthesia (Spinal/Epidural)
+      - Local Anesthesia with Sedation
+      - Monitored Anesthesia Care (MAC)
+      - To be determined by anesthesiologist
+      required: true
+    - id: 8
+      name: allergies
+      label: Do you have any allergies to medications or substances
+      hint: Include allergies to latex, foods, or previous anesthesia
+      type: select_one
+      options:
+      - No known allergies
+      - Yes - medication allergies
+      - Yes - latex allergy
+      - Yes - food allergies
+      - Yes - multiple allergies
+      required: true
+    - id: 9
+      name: allergy_details
+      label: Please list all allergies
+      hint: Describe each allergy and reaction
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Current Medications
+      hint: List all prescription and over-the-counter medications
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Existing Medical Conditions
+      hint: Heart disease, diabetes, lung conditions, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_anesthesia
+      label: Have you had anesthesia before
+      hint: Previous experience with anesthesia
+      type: select_one
+      options:
+      - Yes - no complications
+      - Yes - had complications
+      - No - first time
+      required: true
+    - id: 13
+      name: complications_details
+      label: If yes, describe any complications
+      hint: Nausea, awareness, breathing issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: smoking_status
+      label: Do you smoke or use tobacco products
+      hint: Smoking affects anesthesia risk
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker (quit)
+      - Current smoker
+      - Use other tobacco products
+      required: true
+    - id: 15
+      name: alcohol_use
+      label: Alcohol Consumption
+      hint: How often do you consume alcohol
+      type: select_one
+      options:
+      - None
+      - Occasional (1-2 per week)
+      - Moderate (3-7 per week)
+      - Heavy (daily or near daily)
+      required: true
+    - id: 16
+      name: loose_teeth
+      label: Do you have any loose teeth or dental work
+      hint: Important for airway management
+      type: select_one
+      options:
+      - No
+      - Yes - loose teeth
+      - Yes - crowns or bridges
+      - Yes - dentures
+      required: true
+    - id: 17
+      name: sleep_apnea
+      label: Do you have sleep apnea or snore heavily
+      hint: Sleep disorders affect anesthesia
+      type: select_one
+      options:
+      - No
+      - Yes - diagnosed sleep apnea
+      - Yes - I snore heavily
+      - Unsure
+      required: true
+    - id: 18
+      name: family_history
+      label: Family History of Anesthesia Problems
+      hint: Any family members with anesthesia complications
+      type: select_one
+      options:
+      - No known family history
+      - Yes - malignant hyperthermia
+      - Yes - other complications
+      - Unsure
+      required: true
+    - id: 19
+      name: risks_acknowledged
+      label: I understand that anesthesia involves risks including but not limited to
+      hint: Acknowledge understanding of risks
+      type: select_one
+      options:
+      - Yes - I understand the risks
+      - No - I need more information
+      required: true
+    - id: 20
+      name: questions_for_anesthesiologist
+      label: Do you have any questions for the anesthesiologist
+      hint: List any concerns or questions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness to consent
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_signature
+      label: Healthcare Provider Signature
+      hint: Provider or anesthesiologist signature
+      type: text
+      options: []
+      required: true

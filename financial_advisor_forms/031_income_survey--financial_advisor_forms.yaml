@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Survey
+    pages:
+    - id: 1
+      name: income_survey
+      label: income survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_advisor_forms
+      label: financial advisor forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: income_survey_description
+      label: income levels within a population or target group
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: financial_advisor_forms_description
+      label: financial advisor forms description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: target_group
+      label: target group
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Group A''}'
+      - '{''id'': 2, ''name'': ''Group B''}'
+      - '{''id'': 3, ''name'': ''Group C''}'
+      - '{''id'': 4, ''name'': ''Group D''}'
+      required: false
+    - id: 6
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: level
+      label: level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: population
+      label: population
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: population_description
+      label: population description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: false
+    - id: 12
+      name: financial_aid
+      label: financial aid
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 13
+      name: financial_aid_description
+      label: financial aid description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: email_note
+      label: email note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: phone_note
+      label: phone note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: financial_aid_note
+      label: financial aid note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: population_note
+      label: population note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: target_group_note
+      label: target group note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

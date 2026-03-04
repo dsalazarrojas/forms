@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neuro Agility Assessment Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Neuro Agility Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: thinking_preferences
+      label: Thinking Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very High''}'
+      - '{2: ''High''}'
+      - '{3: ''Medium''}'
+      - '{4: ''Low''}'
+      - '{5: ''Very Low''}'
+      required: false
+    - id: 3
+      name: learning_preferences
+      label: Learning Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Self-Directed Learning''}'
+      - '{2: ''Lecture-Based Learning''}'
+      - '{3: ''Problem-Based Learning''}'
+      - '{4: ''Seminar-Based Learning''}'
+      required: false
+    - id: 4
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Face-To-Face''}'
+      - '{2: ''Virtual Meetings''}'
+      - '{3: ''Email and Phone''}'
+      - '{4: ''Video Conference''}'
+      required: false
+    - id: 5
+      name: problem_solving
+      label: Problem Solving
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Analytical''}'
+      - '{2: ''Intuitive''}'
+      - '{3: ''Synthesis''}'
+      - '{4: ''Evaluation''}'
+      required: false
+    - id: 6
+      name: feedback_preferences
+      label: Feedback Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Regular''}'
+      - '{2: ''Occasional''}'
+      - '{3: ''Rarely''}'
+      required: false
+    - id: 7
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''High''}'
+      - '{2: ''Medium''}'
+      - '{3: ''Low''}'
+      required: false
+    - id: 8
+      name: work_preferences
+      label: Work Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Structured Work Environment''}'
+      - '{2: ''Flexible Work Environment''}'
+      - '{3: ''Autonomous Work Environment''}'
+      required: false
+    - id: 9
+      name: stress_level
+      label: Stress Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: energy_level
+      label: Energy Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: motivation
+      label: Motivation
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Very High''}'
+      - '{2: ''High''}'
+      - '{3: ''Medium''}'
+      - '{4: ''Low''}'
+      - '{5: ''Very Low''}'
+      required: false

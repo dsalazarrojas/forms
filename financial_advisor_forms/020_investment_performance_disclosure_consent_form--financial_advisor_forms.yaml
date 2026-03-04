@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Performance Disclosure Consent Form
+    pages:
+    - id: 1
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: performance_data_sharing
+      label: Performance Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: Please provide the following information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investment_company
+      label: Investment Company
+      hint: Company of the investment
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investment_manager
+      label: Investment Manager
+      hint: Name of the investment manager
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: investment_advisor
+      label: Investment Advisor
+      hint: Name of the investment advisor
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

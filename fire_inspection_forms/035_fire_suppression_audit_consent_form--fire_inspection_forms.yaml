@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Suppression Audit Consent Form
+    pages:
+    - id: 1
+      name: owner_or_manager
+      label: Owner or Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: schedule_audit
+      label: Schedule Audit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: safety_professional
+      label: Safety Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: influenza_questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Fever''}'
+      - '{''id'': 2, ''name'': ''Chills''}'
+      - '{''id'': 3, ''name'': ''Cough''}'
+      required: false
+    - id: 3
+      name: potential_exposure
+      label: Potential Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Travel''}'
+      - '{''id'': 2, ''name'': ''Close Contact''}'
+      - '{''id'': 3, ''name'': ''Food Handler''}'
+      required: false
+    - id: 4
+      name: recent_travel
+      label: Recent Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: recent_travel_duration
+      label: Recent Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recent_travel_country
+      label: Recent Travel Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recent_travel_city
+      label: Recent Travel City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recent_travel_state
+      label: Recent Travel State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recent_travel_country_other
+      label: Other Recent Travel Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fever_days
+      label: Fever Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: fever_onset
+      label: Fever Onset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: symptoms_severity
+      label: Symptoms Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: symptoms_frequency
+      label: Symptoms Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: vaccination_provider
+      label: Vaccination Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vaccination_dose
+      label: Vaccination Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recent_vaccination
+      label: Recent Vaccination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_other
+      label: Other Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

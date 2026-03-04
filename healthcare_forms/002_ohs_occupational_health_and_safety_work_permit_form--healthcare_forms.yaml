@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: OHS (Occupational Health And Safety) Work Permit Form
+    pages:
+    - id: 1
+      name: ohs_header
+      label: Work Permit Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ohs_worksite_details
+      label: Work Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ohs_site_safety_risks
+      label: Site Safety Risks
+      hint: List any hazards present on site
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: ohs_hazard_prevention
+      label: Hazard Preventions
+      hint: List any measures that can be taken to reduce risks
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ohs_safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - Hard Hat
+      - Safety Vest
+      - Steel Toed Boots
+      - Safety Glasses
+      - Earplugs
+      - Respirator
+      - Safety Harness
+      - Fire Extinguisher
+      required: true
+    - id: 6
+      name: ohs_safety_training
+      label: Safety Training
+      hint: null
+      type: select_multiple
+      options:
+      - Basic First Aid
+      - CPR
+      - Rescue
+      - Firefighting
+      - Hazmat
+      - Forklift
+      required: true
+    - id: 7
+      name: ohs_medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Allergies
+      - Back Injury
+      - Headache
+      - Muscle Strain
+      - Eye Strain
+      - Other
+      required: true
+    - id: 8
+      name: ohs_medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: note
+      options: []
+      required: false

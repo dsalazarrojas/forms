@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Nonprofit Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor name
+      hint: Full name for receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Donation receipt will be emailed
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: Enter numeric amount in currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_frequency
+      label: Donation frequency
+      hint: Choose one time or recurring
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      - Yearly
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment method
+      hint: Select preferred payment processor
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 7
+      name: dedication
+      label: Dedication
+      hint: Dedicate this donation in honor or memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: anonymous_donation
+      label: Make donation anonymous
+      hint: Do not display donor name publicly
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Message to the organization
+      type: text
+      options: []
+      required: false

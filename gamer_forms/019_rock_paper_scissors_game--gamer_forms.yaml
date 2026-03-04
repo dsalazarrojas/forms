@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: rock_paper_scissors_game
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: choice_rock
+      label: rock
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rock''}'
+      - '{''label'': None}'
+      - '{''label'': ''Rock''}'
+      required: false
+    - id: 3
+      name: choice_paper
+      label: paper
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paper''}'
+      - '{''label'': None}'
+      - '{''label'': ''Paper''}'
+      required: false
+    - id: 4
+      name: choice_scissors
+      label: scissors
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Scissors''}'
+      - '{''label'': None}'
+      - '{''label'': ''Scissors''}'
+      required: false
+    - id: 5
+      name: result_rock
+      label: result_rock
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: result_paper
+      label: result_paper
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: result_scissors
+      label: result_scissors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

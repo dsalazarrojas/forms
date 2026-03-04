@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Songwriting Collaboration Application Form
+    pages:
+    - id: 1
+      name: songwriting_collaboration_application_form_page_1
+      label: Songwriting Collaboration Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bio
+      label: bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: genre
+      label: genre
+      hint: null
+      type: select_one
+      options:
+      - hip-hop
+      - electronic
+      - pop
+      - rock
+      - jazz
+      - classical
+      - folk
+      - world
+      required: false
+    - id: 7
+      name: instruments
+      label: instruments
+      hint: null
+      type: select_multiple
+      options:
+      - guitar
+      - bass
+      - drums
+      - keyboard
+      - violin
+      - piano
+      - ukulele
+      - vocals
+      required: false
+    - id: 8
+      name: collaboration_interest
+      label: collaboration interest
+      hint: null
+      type: text
+      options: []
+      required: false

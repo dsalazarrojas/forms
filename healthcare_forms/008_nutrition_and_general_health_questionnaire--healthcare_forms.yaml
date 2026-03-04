@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition And General Health Questionnaire
+    pages:
+    - id: 1
+      name: nutrition_and_general_health_questionnaire_page_1
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_history
+      label: Health History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: dietary_habits
+      label: Dietary Habits
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: health_goals
+      label: Health Goals
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: height_and_weight
+      label: Height and Weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nutrition_and_dietary_restrictions
+      label: Nutrition and Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: exercise_and_activity_level
+      label: Exercise and Activity Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: health_risk_factors
+      label: Health Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_professionals
+      label: Medical Professionals
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

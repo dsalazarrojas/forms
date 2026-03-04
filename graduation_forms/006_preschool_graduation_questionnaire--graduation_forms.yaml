@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: preschool_graduation_questionnaire
+    pages:
+    - id: 1
+      name: child_development
+      label: child_development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_feedback
+      label: parent_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_suggestions
+      label: teacher_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: teacher_feedback
+      label: teacher_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: graduation_date
+      label: graduation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: teacher_evaluation
+      label: teacher_evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: teacher_suggestions_2
+      label: teacher_suggestions_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_evaluation
+      label: parent_evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Transfer Form
+    pages:
+    - id: 1
+      name: transfer_date
+      label: Asset Transfer Date
+      hint: Date of transaction
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: transfer_id_number
+      label: Transfer ID Number
+      hint: Reference number for this transfer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: transferring_party_type
+      label: Transferring Party Type
+      hint: Individual or organization?
+      type: select_one
+      options:
+      - Individual
+      - Company
+      - Trust
+      - Estate
+      - Government Entity
+      - Non-profit
+      required: true
+    - id: 4
+      name: transferring_party_name
+      label: Transferring Party Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: transferring_party_id
+      label: Transferring Party ID
+      hint: Tax ID, SSN, or business number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: transferring_party_address
+      label: Transferring Party Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: transferring_party_phone
+      label: Transferring Party Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transferring_party_email
+      label: Transferring Party Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: receiving_party_type
+      label: Receiving Party Type
+      hint: Individual or organization?
+      type: select_one
+      options:
+      - Individual
+      - Company
+      - Trust
+      - Estate
+      - Government Entity
+      - Non-profit
+      required: true
+    - id: 10
+      name: receiving_party_name
+      label: Receiving Party Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: receiving_party_id
+      label: Receiving Party ID
+      hint: Tax ID, SSN, or business number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: receiving_party_address
+      label: Receiving Party Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: receiving_party_phone
+      label: Receiving Party Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: receiving_party_email
+      label: Receiving Party Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: asset_description
+      label: Asset Description
+      hint: Details of what is being transferred
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: asset_type
+      label: Asset Type
+      hint: Category of asset
+      type: select_one
+      options:
+      - Real Estate
+      - Securities
+      - Cash
+      - Equipment
+      - Vehicles
+      - Intellectual Property
+      - Other Property
+      required: true
+    - id: 17
+      name: asset_value
+      label: Asset Value
+      hint: Fair market value
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: transfer_method
+      label: Method of Transfer
+      hint: How is asset being transferred?
+      type: select_one
+      options:
+      - Sale
+      - Gift
+      - Inheritance
+      - Loan
+      - Exchange
+      - Donation
+      - Court Order
+      required: true
+    - id: 19
+      name: consideration_amount
+      label: Consideration Amount
+      hint: Money or value being exchanged
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: transfer_terms
+      label: Terms and Conditions of Transfer
+      hint: Special conditions or agreements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: legal_documentation
+      label: Legal Documentation Provided
+      hint: Deed, title, certificate, etc.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tax_implications
+      label: Tax Implications Noted
+      hint: Any special tax considerations?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: transferring_party_authorization
+      label: Transferring Party Authorization
+      hint: Signature or approval
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: receiving_party_acknowledgment
+      label: Receiving Party Acknowledgment
+      hint: Receipt and acceptance
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: witness_verification
+      label: Witness or Notary
+      hint: Third-party verification if needed
+      type: text
+      options: []
+      required: false

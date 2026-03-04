@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Sheet Template
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: character_name
+      label: Character Name
+      hint: Full character name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_title
+      label: Character Title
+      hint: Any titles or honorifics
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: character_class
+      label: Class
+      hint: Primary class
+      type: select_one
+      options:
+      - Fighter
+      - Wizard
+      - Rogue
+      - Cleric
+      - Paladin
+      - Ranger
+      - Bard
+      - Sorcerer
+      required: true
+    - id: 5
+      name: character_level
+      label: Level
+      hint: Current level
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: character_race
+      label: Race
+      hint: Species
+      type: select_one
+      options:
+      - Human
+      - Elf
+      - Dwarf
+      - Halfling
+      - Dragonborn
+      - Gnome
+      - Half-orc
+      - Tiefling
+      required: true
+    - id: 7
+      name: character_background
+      label: Background
+      hint: Origin background
+      type: select_one
+      options:
+      - Acolyte
+      - Criminal
+      - Folk hero
+      - Noble
+      - Sage
+      - Soldier
+      - Entertainer
+      - Guild artisan
+      required: true
+    - id: 8
+      name: alignment
+      label: Alignment
+      hint: Moral alignment
+      type: select_one
+      options:
+      - Lawful good
+      - Neutral good
+      - Chaotic good
+      - Lawful neutral
+      - True neutral
+      - Chaotic neutral
+      - Lawful evil
+      - Neutral evil
+      - Chaotic evil
+      required: true
+    - id: 9
+      name: strength
+      label: Strength
+      hint: STR score
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: dexterity
+      label: Dexterity
+      hint: DEX score
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: constitution
+      label: Constitution
+      hint: CON score
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: intelligence
+      label: Intelligence
+      hint: INT score
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: wisdom
+      label: Wisdom
+      hint: WIS score
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: charisma
+      label: Charisma
+      hint: CHA score
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: hit_points
+      label: Hit Points
+      hint: Current and maximum HP
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: armor_class
+      label: Armor Class
+      hint: AC value
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: proficiency_bonus
+      label: Proficiency Bonus
+      hint: Proficiency value
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: skills
+      label: Proficient Skills
+      hint: List skilled areas
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: equipment
+      label: Equipment
+      hint: Weapons armor items
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: spells
+      label: Known Spells
+      hint: List spells if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: features
+      label: Class Features and Abilities
+      hint: Special abilities
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: backstory
+      label: Character Backstory
+      hint: Origin story
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: character_goals
+      label: Character Goals
+      hint: Motivations and objectives
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false

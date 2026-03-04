@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Variance Report Form
+    pages:
+    - id: 1
+      name: report_preparer
+      label: Report Preparer Name
+      hint: Name of person preparing report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department or division
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reporting_period
+      label: Reporting Period
+      hint: Period covered by this report
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      - Project-Based
+      required: true
+    - id: 6
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Applicable fiscal year
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: budget_category
+      label: Budget Category
+      hint: Category being reported
+      type: select_one
+      options:
+      - Personnel Costs
+      - Operating Expenses
+      - Capital Expenditures
+      - Marketing Budget
+      - R and D Budget
+      - Administrative Costs
+      - Total Budget
+      required: true
+    - id: 8
+      name: budgeted_amount
+      label: Budgeted Amount
+      hint: Original budgeted amount
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: actual_amount
+      label: Actual Amount Spent
+      hint: Actual expenditure
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: variance_amount
+      label: Variance Amount
+      hint: Difference between budgeted and actual
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: variance_percentage
+      label: Variance Percentage
+      hint: Variance as percentage of budget
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: variance_direction
+      label: Variance Direction
+      hint: Is variance favorable or unfavorable
+      type: select_one
+      options:
+      - Favorable - Under Budget
+      - Unfavorable - Over Budget
+      - On Budget
+      - Not Applicable
+      required: true
+    - id: 13
+      name: variance_threshold
+      label: Variance Threshold Status
+      hint: Does variance exceed threshold
+      type: select_one
+      options:
+      - Within Acceptable Range
+      - Exceeds Threshold - Requires Explanation
+      - Significant Variance - Action Required
+      required: true
+    - id: 14
+      name: primary_causes
+      label: Primary Causes of Variance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Volume Changes
+      - Price Changes
+      - Timing Differences
+      - One-time Events
+      - Forecasting Errors
+      - Policy Changes
+      - Market Conditions
+      - Operational Issues
+      - Other
+      required: true
+    - id: 15
+      name: variance_explanation
+      label: Detailed Variance Explanation
+      hint: Provide detailed explanation for significant variances
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: corrective_actions
+      label: Corrective Actions Planned
+      hint: Actions to address unfavorable variances
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: impact_assessment
+      label: Impact Assessment
+      hint: Expected impact on future periods
+      type: select_one
+      options:
+      - No Future Impact Expected
+      - Minor Impact Expected
+      - Moderate Impact Expected
+      - Significant Impact Expected
+      - Impact Uncertain
+      required: true
+    - id: 18
+      name: recommendations
+      label: Recommendations
+      hint: Recommendations for management
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Are supporting documents included
+      type: select_one
+      options:
+      - true
+      - false
+      - To Follow
+      required: false
+    - id: 20
+      name: manager_review
+      label: Manager Review Status
+      hint: Has manager reviewed this report
+      type: select_one
+      options:
+      - Reviewed and Approved
+      - Under Review
+      - Pending Review
+      required: true

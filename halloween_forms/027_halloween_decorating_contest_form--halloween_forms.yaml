@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: halloween_decorating_contest_form
+    pages:
+    - id: 1
+      name: category_input
+      label: Halloween Forms
+      hint: null
+      type: select_one
+      options:
+      - Homeowners Association
+      - Event Organizers
+      - Community Leaders
+      required: false
+    - id: 2
+      name: title_input
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description_input
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatfred
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description_long_input
+      label: Description Long
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_short_input
+      label: Description Short
+      hint: null
+      type: text
+      options: []
+      required: false

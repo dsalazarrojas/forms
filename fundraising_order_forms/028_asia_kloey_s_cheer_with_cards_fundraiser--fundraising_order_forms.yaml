@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asia and Kloeys CHEER With Cards Fundraiser
+    pages:
+    - id: 1
+      name: customer_name_cf
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone_cf
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_cf
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: card_box_selection_cf
+      label: Select Your Card Box Type
+      hint: 30 cards per box
+      type: select_one
+      options:
+      - All-Occasion Box 1
+      - All-Occasion Box 2
+      - Birthday Box
+      - Thanks and Blanks Box
+      - Holiday Card Box
+      required: true
+    - id: 5
+      name: box_quantity_cf
+      label: Number of Boxes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_order_amount_cf
+      label: Total Order Amount
+      hint: Boxes are 30 USD each
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_method_cf
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - Cash
+      - Check
+      - Credit Card Online
+      required: true
+    - id: 8
+      name: delivery_method_cf
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Porch Pickup
+      - Home Delivery
+      - Ship to My Address - additional fee
+      required: true
+    - id: 9
+      name: shipping_address_cf
+      label: Shipping Address
+      hint: Only if shipping selected above
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cheerleader_credit_cf
+      label: Which cheerleader should receive credit for this sale
+      hint: Asia or Kloey
+      type: select_one
+      options:
+      - Asia
+      - Kloey
+      - Both
+      required: true

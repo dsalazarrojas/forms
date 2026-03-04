@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Male Medical Questionnaire
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history_date
+      label: medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Sulfa
+      - Other
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Other
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_date
+      label: medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - Diabetic
+      - Hypertensive
+      - Other
+      required: false
+    - id: 12
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: body_mass_index
+      label: body_mass_index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: head_circumference
+      label: head_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: neck_circumference
+      label: neck_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: waist_circumference
+      label: waist_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: hip_circumference
+      label: hip_circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: body_length
+      label: body_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: body_length_units
+      label: body_length_units
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - m
+      - in
+      required: false
+    - id: 22
+      name: body_mass
+      label: body_mass
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: body_mass_units
+      label: body_mass_units
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lbs
+      required: false
+    - id: 24
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: blood_pressure_units
+      label: blood_pressure_units
+      hint: null
+      type: select_one
+      options:
+      - mmHg
+      - inHg
+      required: false

@@ -1,0 +1,338 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caries Risk Assessment Form
+    pages:
+    - id: 1
+      name: assessment_header
+      label: Caries Risk Assessment
+      hint: Comprehensive dental caries risk evaluation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient DOB
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_at_assessment
+      label: Age at Assessment
+      hint: Current age in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: clinical_assessment
+      label: Clinical Assessment
+      hint: Dental examination findings
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: visible_cavities
+      label: Visible Cavities Present
+      hint: Current decay observed
+      type: select_one
+      options:
+      - None
+      - 1 to 2 surfaces
+      - 3 to 5 surfaces
+      - More than 5 surfaces
+      required: true
+    - id: 9
+      name: approximal_cavities
+      label: Approximal Cavities
+      hint: Between teeth decay
+      type: select_one
+      options:
+      - None
+      - 1 to 2 surfaces
+      - 3 to 5 surfaces
+      - More than 5 surfaces
+      required: true
+    - id: 10
+      name: restorations_last_3_years
+      label: New Restorations in Last 3 Years
+      hint: Recent fillings or crowns
+      type: select_one
+      options:
+      - None
+      - 1 to 2
+      - 3 to 5
+      - More than 5
+      required: true
+    - id: 11
+      name: white_spot_lesions
+      label: White Spot Lesions Present
+      hint: Early decay indicators
+      type: select_one
+      options:
+      - None
+      - 1 to 2 teeth
+      - 3 to 5 teeth
+      - More than 5 teeth
+      required: true
+    - id: 12
+      name: enamel_lesions
+      label: Enamel Lesions Present
+      hint: Surface decay
+      type: select_one
+      options:
+      - None
+      - Yes - localized
+      - Yes - generalized
+      required: true
+    - id: 13
+      name: plaque_level
+      label: Plaque Level
+      hint: Oral hygiene assessment
+      type: select_one
+      options:
+      - None or minimal
+      - Moderate
+      - Heavy
+      required: true
+    - id: 14
+      name: gingival_health
+      label: Gingival Health Status
+      hint: Gum condition
+      type: select_one
+      options:
+      - Healthy
+      - Mild gingivitis
+      - Moderate gingivitis
+      - Severe gingivitis
+      - Periodontitis
+      required: true
+    - id: 15
+      name: saliva_assessment
+      label: Saliva Assessment
+      hint: Salivary function evaluation
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: saliva_flow
+      label: Saliva Flow Rate
+      hint: Salivary production
+      type: select_one
+      options:
+      - Normal
+      - Reduced
+      - Very reduced or absent
+      - Not tested
+      required: true
+    - id: 17
+      name: saliva_consistency
+      label: Saliva Consistency
+      hint: Viscosity assessment
+      type: select_one
+      options:
+      - Normal - watery
+      - Slightly viscous
+      - Very viscous or sticky
+      - Not assessed
+      required: true
+    - id: 18
+      name: risk_factors
+      label: Risk Factors
+      hint: Contributing factors
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: fluoride_exposure
+      label: Fluoride Exposure
+      hint: Fluoride use frequency
+      type: select_one
+      options:
+      - Optimal - daily use
+      - Some - occasional use
+      - Minimal - rare use
+      - None
+      required: true
+    - id: 20
+      name: dietary_habits
+      label: Dietary Sugar Intake
+      hint: Frequency of sugary foods
+      type: select_one
+      options:
+      - Low - less than 3 times daily
+      - Moderate - 3 to 5 times daily
+      - High - more than 5 times daily
+      - Very high - constant snacking
+      required: true
+    - id: 21
+      name: between_meal_snacking
+      label: Between Meal Snacking Frequency
+      hint: Snack habits
+      type: select_one
+      options:
+      - Rarely
+      - 1 to 2 times daily
+      - 3 to 5 times daily
+      - More than 5 times daily
+      required: true
+    - id: 22
+      name: sugary_drinks
+      label: Sugary Drink Consumption
+      hint: Soda juice sports drinks
+      type: select_one
+      options:
+      - None
+      - 1 to 2 per week
+      - 1 to 2 per day
+      - 3 or more per day
+      required: true
+    - id: 23
+      name: medical_history
+      label: Relevant Medical History
+      hint: Conditions affecting oral health
+      type: select_multiple
+      options:
+      - None
+      - Diabetes
+      - Dry mouth conditions
+      - GERD or acid reflux
+      - Eating disorders
+      - Radiation therapy to head or neck
+      - Medications causing dry mouth
+      - Special healthcare needs
+      required: true
+    - id: 24
+      name: social_history
+      label: Social History Factors
+      hint: Lifestyle factors
+      type: select_multiple
+      options:
+      - None
+      - Limited access to dental care
+      - Substance abuse
+      - Tobacco use
+      - Low socioeconomic status
+      - Caregiver dependency
+      required: false
+    - id: 25
+      name: protective_factors
+      label: Protective Factors
+      hint: Positive indicators
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: fluoride_toothpaste
+      label: Uses Fluoride Toothpaste
+      hint: Daily brushing habits
+      type: select_one
+      options:
+      - Yes - twice daily
+      - Yes - once daily
+      - Occasionally
+      - false
+      required: true
+    - id: 27
+      name: dental_visits
+      label: Regular Dental Visits
+      hint: Checkup frequency
+      type: select_one
+      options:
+      - Every 6 months
+      - Annually
+      - Irregularly
+      - Rarely or never
+      required: true
+    - id: 28
+      name: sealants_present
+      label: Dental Sealants Present
+      hint: Protective coatings
+      type: select_one
+      options:
+      - Yes - all molars
+      - Yes - some molars
+      - false
+      required: true
+    - id: 29
+      name: xylitol_use
+      label: Xylitol Product Use
+      hint: Sugar-free gum or mints
+      type: select_one
+      options:
+      - Yes - daily
+      - Yes - occasionally
+      - false
+      required: false
+    - id: 30
+      name: risk_assessment
+      label: Overall Caries Risk Assessment
+      hint: Final determination
+      type: select_one
+      options:
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Extreme risk
+      required: true
+    - id: 31
+      name: risk_rationale
+      label: Rationale for Risk Level
+      hint: Clinical reasoning
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: treatment_plan
+      label: Recommended Treatment Plan
+      hint: Intervention strategy
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: recall_interval
+      label: Recommended Recall Interval
+      hint: Follow-up timing
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 9 months
+      - 12 months
+      - As needed
+      required: true
+    - id: 34
+      name: dentist_name
+      label: Dentist Name
+      hint: Assessing dentist
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: dentist_signature_date
+      label: Dentist Signature Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true

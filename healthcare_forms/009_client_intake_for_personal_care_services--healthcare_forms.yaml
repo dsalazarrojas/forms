@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake For Personal Care Services
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_service
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: service_requested
+      label: Primary Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Hair
+      - Nails
+      - Massage
+      - Esthetics
+      - Home Care
+      - Other
+      required: true
+    - id: 7
+      name: frequency
+      label: How often do you typically receive this service?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Occasionally
+      - First time
+      required: false
+    - id: 8
+      name: section_health
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: chronic_conditions
+      label: Please list any chronic health conditions or concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy_list
+      label: Are you allergic to any specific scents, essential oils, or products?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sensitive_skin
+      label: Do you have sensitive skin?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: section_protocols
+      label: -- Policy Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: protocol_agreement
+      label: I agree to follow all health and safety protocols during my appointment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 14
+      name: signed_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

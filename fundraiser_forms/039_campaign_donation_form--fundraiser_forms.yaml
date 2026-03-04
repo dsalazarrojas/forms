@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Donation Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Full Name
+      hint: Name as it should appear on donation records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: For donation receipts and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount to be donated
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One time or recurring donation
+      type: select_one
+      options:
+      - One Time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: Method used to process donation
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 6
+      name: donate_anonymously
+      label: Donate Anonymously
+      hint: Hide donor name from public lists
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: employer_matching
+      label: Employer Matching Available
+      hint: Is employer matching being applied
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: tribute_information
+      label: Tribute Information
+      hint: If donation is in honor or memory of someone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: receipt_needed
+      label: Receipt Needed
+      hint: Do you require an official receipt
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other instructions for the donation
+      type: text
+      options: []
+      required: false

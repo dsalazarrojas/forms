@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Coaching Check In Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy1
+      - chatjimmy2
+      required: false
+    - id: 8
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Student
+      - Other
+      required: false
+    - id: 9
+      name: coach_type
+      label: Coach Type
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Teacher
+      - Other
+      required: false
+    - id: 10
+      name: assigned_coach_type
+      label: Assigned Coach Type
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Teacher
+      - Other
+      required: false

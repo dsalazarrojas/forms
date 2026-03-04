@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Investigation Report Form
+    pages:
+    - id: 1
+      name: investigation_date
+      label: Investigation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: investigator
+      label: Investigator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cause_of_fire
+      label: Cause of Fire
+      hint: null
+      type: select_multiple
+      options:
+      - Arson
+      - Accident
+      - Electrical
+      - Other
+      required: false
+    - id: 5
+      name: fire_extinguishing_agent
+      label: Fire Extinguishing Agent
+      hint: null
+      type: select_one
+      options:
+      - Fire Hydrant
+      - Fire Extinguisher
+      - Other
+      required: false
+    - id: 6
+      name: fire_extinguishing_agent_used
+      label: Fire Extinguishing Agent Used
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: fire_extinguishing_agent_not_used
+      label: Fire Extinguishing Agent Not Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: fire_extinguishing_agent_type
+      label: Fire Extinguishing Agent Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_extinguishing_agent_size
+      label: Fire Extinguishing Agent Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fire_investigation_report_form_comments
+      label: Fire Investigation Report Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

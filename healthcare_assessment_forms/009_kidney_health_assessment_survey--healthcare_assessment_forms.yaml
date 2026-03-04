@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kidney Health Assessment Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lifestyle_details
+      label: Lifestyle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: select_multiple
+      options:
+      - Kidney Function Test
+      - Blood Test
+      - Imaging
+      - Other
+      required: false
+    - id: 12
+      name: medical_results
+      label: Medical Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: kidney_disease_status
+      label: Kidney Disease Status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Borderline Kidney Disease
+      - Chronic Kidney Disease
+      - End-Stage Kidney Disease
+      - Other (Specify)
+      required: false
+    - id: 14
+      name: kidney_disease_status_other
+      label: Kidney Disease Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: kidney_function
+      label: Kidney Function
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Reduced
+      - Abnormal
+      - Other (Specify)
+      required: false
+    - id: 16
+      name: kidney_function_other
+      label: Kidney Function Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specimen Collection Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: specimen_type
+      label: Specimen Type
+      hint: null
+      type: select_one
+      options:
+      - Blood
+      - Tissue
+      - Urine
+      - Other
+      required: false
+    - id: 3
+      name: collection_date
+      label: Collection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: collection_time
+      label: Collection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: specimen_description
+      label: Specimen Description
+      hint: Describe the specimen
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: patient_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: specimen_id
+      label: Specimen ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

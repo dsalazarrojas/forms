@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Human Trafficking Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_type
+      label: Donor Type
+      hint: Are you donating as an individual or organization
+      type: select_one
+      options:
+      - Individual
+      - Business or Corporation
+      - Nonprofit organization
+      - Foundation
+      - In memory or honor of someone
+      required: true
+    - id: 2
+      name: donor_name
+      label: Full Name or Organization Name
+      hint: Name as it should appear on receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: Enter amount to donate
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often would you like to donate
+      type: select_one
+      options:
+      - One-time donation
+      - Monthly recurring
+      - Quarterly recurring
+      - Annual recurring
+      required: true
+    - id: 7
+      name: designated_fund
+      label: Designate Your Donation
+      hint: Which program should receive your donation
+      type: select_one
+      options:
+      - General fund
+      - Victim support services
+      - Prevention education
+      - Law enforcement training
+      - Survivor rehabilitation
+      - Where needed most
+      required: true
+    - id: 8
+      name: tribute_donation
+      label: Is this a tribute donation
+      hint: In honor or memory of someone
+      type: select_one
+      options:
+      - false
+      - Yes, in honor of
+      - Yes, in memory of
+      required: true
+    - id: 9
+      name: tribute_name
+      label: Honoree or Memorial Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tribute_notification
+      label: Send notification to honoree family
+      hint: Would you like us to notify them
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: tribute_contact_email
+      label: Tribute Contact Email
+      hint: Email for notification
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to donate
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check by mail
+      - Cryptocurrency
+      required: true
+    - id: 13
+      name: card_number
+      label: Card Number
+      hint: 16-digit card number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: card_expiry
+      label: Expiry Date
+      hint: MM/YY format
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cvv
+      label: CVV or Security Code
+      hint: 3 or 4 digit code
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_city
+      label: City
+      hint: Billing city
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_state
+      label: State or Province
+      hint: Billing state or province
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_zip
+      label: ZIP or Postal Code
+      hint: Billing postal code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employer_match
+      label: Will your employer match donations
+      hint: Many companies match charitable gifts
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 21
+      name: anonymity_preference
+      label: Anonymity Preference
+      hint: How should we list your donation
+      type: select_one
+      options:
+      - Publicly acknowledge
+      - Anonymous publicly
+      - Internal records only
+      required: true
+    - id: 22
+      name: newsletter_signup
+      label: Subscribe to Newsletter
+      hint: Receive updates on our work
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No thanks
+      required: true
+    - id: 23
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to volunteer
+      type: select_one
+      options:
+      - Yes, contact me
+      - Maybe, send information
+      - No, just donating
+      required: true
+    - id: 24
+      name: additional_message
+      label: Additional Message or Dedication
+      hint: Any special message to include
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you agree to our terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 26
+      name: donation_date
+      label: Donation Date
+      hint: Date of donation
+      type: date
+      options: []
+      required: true

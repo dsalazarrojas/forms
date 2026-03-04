@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: provider_survey
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_type
+      label: provider_type
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Provider
+      - Service Provider
+      - Other Professional
+      - Provider
+      required: true
+    - id: 3
+      name: provider_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: provider_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: provider_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: provider_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: provider_services
+      label: Services
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: provider_experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: provider_qualifications
+      label: Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Other
+      required: true
+    - id: 13
+      name: provider_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: provider_agreement
+      label: Provider Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: provider_certification
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: provider_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provider_availability_days
+      label: Days Available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: provider_hours
+      label: Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: provider_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: provider_rate
+      label: Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: provider_rate_range
+      label: Rate Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: provider_agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: provider_survey_completed
+      label: Survey Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: provider_next_contact
+      label: Next Contact
+      hint: null
+      type: date
+      options: []
+      required: true

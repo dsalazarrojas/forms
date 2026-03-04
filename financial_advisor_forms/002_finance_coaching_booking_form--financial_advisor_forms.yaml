@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finance Coaching Booking Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: select_multiple
+      options:
+      - Budgeting
+      - Investment
+      - Retirement
+      - Wealth Management
+      required: false
+    - id: 9
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_advisor
+      label: Assigned Advisor
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Other
+      required: false
+    - id: 11
+      name: available_advisors
+      label: Available Advisors
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Sarah
+      required: false
+    - id: 12
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Scheduled
+      - Completed
+      required: false
+    - id: 23
+      name: next_session
+      label: Next Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: last_session
+      label: Last Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false

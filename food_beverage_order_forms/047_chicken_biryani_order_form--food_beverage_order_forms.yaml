@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chicken Biryani Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_pickup
+      label: Delivery or Pickup
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: true
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time
+      label: Pickup Time
+      hint: When will you pick up
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: When do you want delivery
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: biryani_type
+      label: Biryani Type
+      hint: Select your biryani variety
+      type: select_one
+      options:
+      - Chicken Biryani
+      - Mutton Biryani
+      - Beef Biryani
+      - Vegetable Biryani
+      - Egg Biryani
+      - Prawn Biryani
+      - Mixed Biryani
+      required: true
+    - id: 10
+      name: spice_level
+      label: Spice Level
+      hint: How spicy do you want it
+      type: select_one
+      options:
+      - Mild
+      - Medium
+      - Hot
+      - Extra Hot
+      required: true
+    - id: 11
+      name: portion_size
+      label: Portion Size
+      hint: What size portion
+      type: select_one
+      options:
+      - Regular
+      - Large
+      - Family Size
+      - Party Pack
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: How many portions
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: rice_preference
+      label: Rice Preference
+      hint: Type of rice
+      type: select_one
+      options:
+      - Basmati (standard)
+      - Brown rice
+      - Jeera rice
+      - No preference
+      required: true
+    - id: 14
+      name: meat_preference
+      label: Meat Preference
+      hint: Cut of meat if applicable
+      type: select_one
+      options:
+      - Bone-in
+      - Boneless
+      - No preference
+      - Not applicable
+      required: false
+    - id: 15
+      name: side_dishes
+      label: Side Dishes
+      hint: Select additional sides
+      type: select_multiple
+      options:
+      - Raita
+      - Mirchi ka salan
+      - Dahi chutney
+      - Boiled egg
+      - Extra chicken curry
+      - Naan bread
+      - None
+      required: true
+    - id: 16
+      name: extra_toppings
+      label: Extra Toppings
+      hint: Additional toppings
+      type: select_multiple
+      options:
+      - Extra fried onions
+      - Extra nuts and raisins
+      - Extra coriander
+      - Extra mint
+      - Saffron drizzle
+      - None
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_one
+      options:
+      - None
+      - Halal
+      - Organic
+      - No MSG
+      - Other
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: drinks
+      label: Beverages
+      hint: Add drinks to your order
+      type: select_multiple
+      options:
+      - Mango lassi
+      - Sweet lassi
+      - Salt lassi
+      - Soft drink
+      - Water
+      - None
+      required: false
+    - id: 20
+      name: dessert
+      label: Dessert
+      hint: Add dessert to your order
+      type: select_multiple
+      options:
+      - Gulab jamun
+      - Kheer
+      - Ice cream
+      - Fruit salad
+      - None
+      required: false
+    - id: 21
+      name: occasion
+      label: Occasion
+      hint: What is this order for
+      type: select_one
+      options:
+      - Regular meal
+      - Birthday
+      - Party
+      - Catering event
+      - Corporate order
+      - Other
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash on delivery
+      - Cash on pickup
+      - Credit card
+      - Debit card
+      - Online payment
+      required: true
+    - id: 23
+      name: promo_code
+      label: Promo Code
+      hint: Do you have a promo code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_customer
+      label: Are You a Returning Customer
+      hint: Have you ordered from us before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend referral
+      - Walk-by
+      - Advertisement
+      - Other
+      required: false
+    - id: 26
+      name: order_notes
+      label: Order Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

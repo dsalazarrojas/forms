@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Questionnaire
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: health_issues
+      label: Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: test_results
+      label: test_results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: test_comments
+      label: test_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_history_comments
+      label: medical_history_comments
+      hint: null
+      type: text
+      options: []
+      required: true

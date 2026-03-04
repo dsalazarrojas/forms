@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diagnostic Code Submission Form
+    pages:
+    - id: 1
+      name: diagnostic_code_section
+      label: Diagnostic Code Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_section
+      label: Patient Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_section
+      label: Provider Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: context_section
+      label: Context Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: documentation_section
+      label: Documentation Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submit_section
+      label: Submit Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: healthcare_codes
+      label: Healthcare Codes
+      hint: null
+      type: select_one
+      options:
+      - code_1
+      - code_2
+      - code_3
+      required: false
+    - id: 8
+      name: context_details
+      label: Context Details
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 9
+      name: diagnostic_code
+      label: Diagnostic Code
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 10
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      required: false
+    - id: 14
+      name: provider_title
+      label: Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

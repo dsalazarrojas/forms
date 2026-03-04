@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: graduation_party_registration_form
+    pages:
+    - id: 1
+      name: guest
+      label: Guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attending_date
+      label: Attending Date
+      hint: Enter the date you plan to attend
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: Enter the start time in 24-hour format
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: Enter the end time in 24-hour format
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Maybe''}'
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 7
+      name: contact
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_date
+      label: Graduation Date
+      hint: Enter the graduation date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: graduation_time
+      label: Graduation Time
+      hint: Enter the graduation time in 24-hour format
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: graduation_year
+      label: Graduation Year
+      hint: Enter the graduation year
+      type: number
+      options: []
+      required: false

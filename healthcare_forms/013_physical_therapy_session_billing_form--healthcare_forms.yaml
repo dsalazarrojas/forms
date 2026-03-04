@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: physical_therapy_session_billing_form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: practitioner_id
+      label: Practitioner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: Credit or Debit
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit'', ''label'': ''Credit''}'
+      - '{''id'': 2, ''name'': ''debit'', ''label'': ''Debit''}'
+      - '{''id'': 3, ''name'': ''cash'', ''label'': ''Cash''}'
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''paid'', ''label'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''declined'', ''label'': ''Declined''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false

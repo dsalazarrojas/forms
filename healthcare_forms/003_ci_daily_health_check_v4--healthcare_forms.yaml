@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: CI Daily Health Check (v4)
+    pages:
+    - id: 1
+      name: header_information
+      label: -- Student and Faculty Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Student or staff full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: Student, Teacher, Staff, or Visitor
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Staff
+      - Visitor
+      required: true
+    - id: 4
+      name: date_of_check
+      label: Date of check
+      hint: Date of screening
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: temperature_celsius
+      label: Temperature
+      hint: Enter temperature in Celsius if possible
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: symptoms_present
+      label: Symptoms present
+      hint: Select any symptoms the person reports
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste or smell
+      - None
+      required: true
+    - id: 7
+      name: recent_exposure
+      label: Recent exposure to confirmed case
+      hint: Exposure within last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 8
+      name: travel_history
+      label: Recent travel history
+      hint: Travel outside local area in last 14 days
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_taken
+      label: Action taken by screener
+      hint: Isolation, sent home, allowed on campus, refer to clinician
+      type: select_one
+      options:
+      - Allowed on campus
+      - Sent home to isolate
+      - Referred to clinician
+      - Other
+      required: true
+    - id: 10
+      name: screener_name
+      label: Screener name
+      hint: Staff member who completed the check
+      type: text
+      options: []
+      required: true

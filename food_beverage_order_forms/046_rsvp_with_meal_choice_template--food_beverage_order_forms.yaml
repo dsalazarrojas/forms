@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: rsvp with meal choice template
+    pages:
+    - id: 1
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: meal_choice
+      label: Select Meal
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: guest_1
+      label: Guest 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_1_meal
+      label: Meal
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: guest_2
+      label: Guest 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_2_meal
+      label: Meal
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: guest_3
+      label: Guest 3 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_3_meal
+      label: Meal
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Add any comments or details about this event
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_2
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rsvp_2
+      label: RSVP 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: rsvp_3
+      label: RSVP 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: comments_1
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments_2
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments_3
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 26
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: number
+      options: []
+      required: true

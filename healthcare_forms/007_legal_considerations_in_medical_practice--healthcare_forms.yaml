@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: legalConsiderationsInTheMedicalPractice
+    pages:
+    - id: 1
+      name: patientname
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dateofbirth
+      label: Date of Birth
+      hint: YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contactinformation
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - Address
+      - Phone Number
+      - Email
+      required: false
+    - id: 4
+      name: legalrepresentative
+      label: Legal Representative
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medicallicensenumber
+      label: Medical License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: consentdate
+      label: Consent Date
+      hint: DD-MMM-YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medicalpracticetype
+      label: Medical Practice Type
+      hint: null
+      type: select_one
+      options:
+      - Private Practice
+      - Hospital
+      - Clinic
+      required: false
+    - id: 8
+      name: medicalboardcertification
+      label: Medical Board Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patientrelationship
+      label: Patient Relationship
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Family
+      - Doctor
+      - Nurse
+      required: false
+    - id: 10
+      name: consentstatus
+      label: Consent Status
+      hint: Active/Inactive
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 11
+      name: legalconsideration
+      label: Legal Consideration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additionalinformation
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: legaldocument
+      label: Legal Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: legaldocument2
+      label: Legal Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: legaldocument3
+      label: Legal Document 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: legaldocument4
+      label: Legal Document 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: legaldocument5
+      label: Legal Document 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: legaldocument6
+      label: Legal Document 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: legaldocument7
+      label: Legal Document 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: legaldocument8
+      label: Legal Document 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: legaldocument9
+      label: Legal Document 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: legaldocument10
+      label: Legal Document 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: legaldocument11
+      label: Legal Document 11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: legaldocument12
+      label: Legal Document 12
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: legaldocument13
+      label: Legal Document 13
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: legaldocument14
+      label: Legal Document 14
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: legaldocument15
+      label: Legal Document 15
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: legaldocument16
+      label: Legal Document 16
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: legaldocument17
+      label: Legal Document 17
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: legaldocument18
+      label: Legal Document 18
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: legaldocument19
+      label: Legal Document 19
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: legaldocument20
+      label: Legal Document 20
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: legaldocument21
+      label: Legal Document 21
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: legaldocument22
+      label: Legal Document 22
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: legaldocument23
+      label: Legal Document 23
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: legaldocument24
+      label: Legal Document 24
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: legaldocument25
+      label: Legal Document 25
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: legaldocument26
+      label: Legal Document 26
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: legaldocument27
+      label: Legal Document 27
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: legaldocument28
+      label: Legal Document 28
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: legaldocument29
+      label: Legal Document 29
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: legaldocument30
+      label: Legal Document 30
+      hint: null
+      type: text
+      options: []
+      required: false

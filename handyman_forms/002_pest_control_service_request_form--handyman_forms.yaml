@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Service Request Form
+    pages:
+    - id: 1
+      name: exterior_treatment_request
+      label: Exterior Treatment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pest_type
+      label: Pests
+      hint: null
+      type: select_one
+      options:
+      - Ants
+      - Roaches
+      - Spiders
+      - Termites
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Other
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

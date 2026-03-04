@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Nail Pre-Order Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_info
+      label: Pre-Order Service
+      hint: null
+      type: select_multiple
+      options:
+      - Manicure
+      - Pedicure
+      - Nail Polish
+      required: true
+    - id: 4
+      name: date_info
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_one
+      options:
+      - French Tip
+      - Acrylic
+      - Gel
+      required: false
+    - id: 6
+      name: nail_size
+      label: Nail Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: nail_color
+      label: Nail Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Pink
+      - Purple
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_time
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: order_count
+      label: Order Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Debit
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_comments
+      label: Payment Comments
+      hint: null
+      type: text
+      options: []
+      required: false

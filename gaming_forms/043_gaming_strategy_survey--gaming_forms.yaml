@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Strategy Survey
+    pages:
+    - id: 1
+      name: player_demographics
+      label: player_demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - PC
+      - Console
+      - Mobile
+      required: false
+    - id: 3
+      name: genres
+      label: Genres
+      hint: null
+      type: select_multiple
+      options:
+      - FPS
+      - RPG
+      - Strategy
+      - Sports
+      - Puzzle
+      - Adventure
+      - Fighting
+      required: false
+    - id: 4
+      name: strategies
+      label: strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Min-max
+      - Grind
+      - Role-play
+      - Picking
+      required: false
+    - id: 5
+      name: time_commitment
+      label: Time Commitment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: skill_rating
+      label: Skill Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: player_type
+      label: Player Type
+      hint: null
+      type: select_one
+      options:
+      - Hardcore
+      - Casual
+      - Social
+      - Solo
+      required: false
+    - id: 8
+      name: favorite_game
+      label: Favorite Game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_platform
+      label: Favorite Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Energy Efficiency Report Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_used
+      label: Fuel Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: distance_traveled
+      label: Distance Traveled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: efficiency_metric
+      label: Efficiency Metric
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Additional notes about the vehicle or equipment
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Bus
+      - Bike
+      required: false
+    - id: 11
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      required: false

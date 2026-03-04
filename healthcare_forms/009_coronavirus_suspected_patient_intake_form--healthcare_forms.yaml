@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Suspected Patient Intake Form
+    pages:
+    - id: 1
+      name: symptom_check
+      label: Symptom Check
+      hint: null
+      type: select_multiple
+      options:
+      - fever
+      - cough
+      - chest pain
+      - shortness of breath
+      - fatigue
+      - headache
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptoms_description
+      label: Symptom Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_last_seen_doctor
+      label: Date Last Seen Doctor
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

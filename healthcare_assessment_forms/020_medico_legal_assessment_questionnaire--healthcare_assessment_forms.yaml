@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medico Legal Assessment Questionnaire
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_medical_evaluation
+      label: Date of Medical Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: medical_result
+      label: Medical Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_recommendation
+      label: Medical Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_certification_number
+      label: Medical Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_certification_issue_date
+      label: Medical Certification Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medical_certification_expiration_date
+      label: Medical Certification Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_issuer
+      label: Medical Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_investigation
+      label: Medical Investigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_evidence
+      label: Medical Evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_document
+      label: Medical Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_signature
+      label: Medical Signature
+      hint: null
+      type: text
+      options: []
+      required: true

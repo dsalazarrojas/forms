@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stool Consistency Assessment Questionnaire
+    pages:
+    - id: 1
+      name: intake_page
+      label: Intake Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bowel_frequency
+      label: Bowel Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stool_consistency
+      label: Stool Consistency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Loose''}'
+      - '{''id'': 3, ''label'': ''Pellet''}'
+      - '{''id'': 4, ''label'': ''Mucous''}'
+      - '{''id'': 5, ''label'': ''Undigested''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: Please describe your symptoms.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Diarrhea''}'
+      - '{''id'': 2, ''label'': ''Constipation''}'
+      - '{''id'': 3, ''label'': ''Blood in stool''}'
+      - '{''id'': 4, ''label'': ''Mucous''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: medication
+      label: Medication
+      hint: Are you taking any medication that may affect bowel health?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unsure''}'
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_last_stool
+      label: Time of Last Stool
+      hint: Please enter the date of your last bowel movement.
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_stool_time
+      label: Time of Last Stool
+      hint: Please enter the time of your last bowel movement.
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_of_last_stool_note
+      label: Time of Last Stool Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: stool_form_submissions
+      label: Stool Form Submissions
+      hint: How often do you have been submitting stool forms in the past 30 days?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 10''}'
+      - '{''id'': 2, ''label'': ''10-20''}'
+      - '{''id'': 3, ''label'': ''21-30''}'
+      - '{''id'': 4, ''label'': ''More than 30''}'
+      - '{''id'': 5, ''label'': ''None''}'
+      required: false
+    - id: 12
+      name: bowel_movement_frequency
+      label: Bowel Movement Frequency
+      hint: How often do you experience bowel movements in the past 24 hours?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Less than 2 times''}'
+      - '{''id'': 2, ''label'': ''2-3 times''}'
+      - '{''id'': 3, ''label'': ''4-6 times''}'
+      - '{''id'': 4, ''label'': ''More than 6 times''}'
+      required: false
+    - id: 13
+      name: blood_test_results
+      label: Blood Test Results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: blood_test_date
+      label: Blood Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_results
+      label: Medical Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_diagnosis
+      label: Medical Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

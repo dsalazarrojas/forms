@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Qualitative Fit Test Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respirator_type
+      label: respirator_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_time
+      label: test_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_size
+      label: patient_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: respirator_size
+      label: respirator_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fit_issues
+      label: fit_issues
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

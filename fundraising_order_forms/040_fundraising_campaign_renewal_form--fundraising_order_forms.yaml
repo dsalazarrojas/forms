@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Campaign Renewal Form
+    pages:
+    - id: 1
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: campaign_id
+      label: Campaign ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: campaign_type
+      label: Campaign Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 11
+      name: fund_type
+      label: Fund Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fund 1
+      - Fund 2
+      - Fund 3
+      required: true
+    - id: 12
+      name: fund_id
+      label: Fund ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: renewal_term
+      label: Renewal Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: renewal_amount
+      label: Renewal Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      required: true
+    - id: 16
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - Term 1
+      - Term 2
+      required: true
+    - id: 17
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Frequency 1
+      - Frequency 2
+      required: false
+    - id: 18
+      name: fund_name
+      label: Fund Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: fund_description
+      label: Fund Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: campaign_url
+      label: Campaign URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_zip
+      label: Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

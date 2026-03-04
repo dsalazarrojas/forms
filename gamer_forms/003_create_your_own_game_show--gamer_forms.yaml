@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: create-your-own-game-show
+    pages:
+    - id: 1
+      name: concept
+      label: Concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rules
+      label: Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: audience_type
+      label: Audience
+      hint: Who is the target audience for this game show?
+      type: select_one
+      options:
+      - High School Students
+      - College Students
+      - Adult
+      required: false
+    - id: 4
+      name: audience_number
+      label: Audience Number
+      hint: How many people do you expect for the audience?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: game_type
+      label: Game Type
+      hint: What type of game show is this?
+      type: select_one
+      options:
+      - Trivia
+      - Music
+      - Dance
+      - Other
+      required: false
+    - id: 6
+      name: game_name
+      label: Game Name
+      hint: Enter a unique and creative name for your game show
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prizes
+      label: Prizes
+      hint: What type of prizes will the game show be offering?
+      type: select_multiple
+      options:
+      - Cash
+      - Gift Card
+      - Other
+      required: false
+    - id: 8
+      name: duration
+      label: Duration
+      hint: How long will each show segment be?
+      type: select_one
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: false
+    - id: 9
+      name: segment_count
+      label: Segments Count
+      hint: How many segments will this game show have?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: game_show_name
+      label: Game Show Name
+      hint: Enter a unique name for your game show
+      type: text
+      options: []
+      required: false

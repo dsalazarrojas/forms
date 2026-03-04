@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tea Basket Giveaway Entry
+    pages:
+    - id: 1
+      name: form_title
+      label: Tea Basket Giveaway Entry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Tealicious Tea Co.
+      - Tea Palace
+      - The Tea Spot
+      - Tea-rific
+      required: true
+    - id: 6
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: select_one
+      options:
+      - Tealicious Tea Co.
+      - Tea Palace
+      - The Tea Spot
+      - Tea-rific
+      required: true
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_participated
+      label: Form Participated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_participated_hint
+      label: Form Participated Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_participated_note
+      label: Form Participated Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tea_brand
+      label: Tea Brand
+      hint: null
+      type: select_one
+      options:
+      - Tealicious Tea Co.
+      - Tea Palace
+      - The Tea Spot
+      - Tea-rific
+      required: true
+    - id: 18
+      name: tea_name
+      label: Tea Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tea_type
+      label: Tea Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tea_price
+      label: Tea Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: delivery_fee
+      label: Delivery Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tea_package
+      label: Tea Package
+      hint: null
+      type: select_one
+      options:
+      - 1-5 items
+      - 6-10 items
+      - 11-15 items
+      required: true
+    - id: 23
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: delivery_date_time
+      label: Delivery Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false

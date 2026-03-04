@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Early Access Registration Form
+    pages:
+    - id: 1
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - Twitch
+      - Discord
+      - Other
+      required: false
+    - id: 4
+      name: discord_link
+      label: Discord Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: twitter_link
+      label: Twitter Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: twitch_link
+      label: Twitch Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: github_link
+      label: GitHub Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: discord
+      label: Discord
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: twitch_username
+      label: Twitch Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: github_username
+      label: GitHub Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discord_server
+      label: Discord Server
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: github_repo
+      label: GitHub Repo
+      hint: null
+      type: text
+      options: []
+      required: false

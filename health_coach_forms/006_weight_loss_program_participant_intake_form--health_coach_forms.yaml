@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Program Participant Intake Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: goals
+      label: Weight Loss Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: health_goals
+      label: Health Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supplements
+      label: Supplements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_length
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: program_length_days
+      label: Program Length (Days)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: weight_goal
+      label: Weight Loss Goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: target_weight
+      label: Target Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: max_weight_loss
+      label: Maximum Weight Loss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: height_unit
+      label: Height Unit
+      hint: null
+      type: select_one
+      options:
+      - ft
+      - in
+      - cm
+      - m
+      required: true
+    - id: 20
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lbs
+      - kg
+      required: true
+    - id: 21
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 22
+      name: program_notes
+      label: Program Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false

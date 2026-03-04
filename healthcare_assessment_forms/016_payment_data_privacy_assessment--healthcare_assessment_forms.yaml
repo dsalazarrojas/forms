@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Data Privacy Assessment
+    pages:
+    - id: 1
+      name: payment_data_privacy_assessment
+      label: Payment Data Privacy Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: collected_from
+      label: Collected From
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: shared
+      label: Shared
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: date_collected
+      label: Date Collected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_shared
+      label: Date Shared
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: collected_by
+      label: Collected By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: stored_by
+      label: Stored By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shared_with
+      label: Shared With
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shared_to
+      label: Shared To
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 11
+      name: payment_data
+      label: Payment Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 13
+      name: sensitive_data
+      label: Sensitive Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: data_protection
+      label: Data Protection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: stored
+      label: Stored
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sharing
+      label: Sharing
+      hint: null
+      type: text
+      options: []
+      required: true

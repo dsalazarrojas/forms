@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Physical Therapy Consent Form
+    pages:
+    - id: 1
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: select_multiple
+      options:
+      - Telehealth
+      - Insurance
+      - Self Pay
+      required: false
+    - id: 3
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - Private Insurance
+      - Medicare
+      - Medicaid
+      - Tricare
+      required: false
+    - id: 4
+      name: medical_necessity
+      label: Medical Necessity
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - ACH
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Telehealth
+      - In Office
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: practice_address
+      label: Practice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Paid at Time of Service
+      - Paid at End of Session
+      - Paid at End of Month
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Due
+      required: false

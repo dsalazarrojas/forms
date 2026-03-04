@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_pre_order_dinner_menu_form
+    pages:
+    - id: 1
+      name: main
+      label: Menu
+      hint: null
+      type: select_multiple
+      options:
+      - turkey
+      - stuffing
+      - mashed_potatoes
+      - cranberry_sauce
+      - green_beans
+      - cranberry_sauce
+      required: false
+    - id: 2
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email_guests
+      label: Email Guests
+      hint: Enter email for guests
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_guests
+      label: Phone Guests
+      hint: Enter phone number for guests
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

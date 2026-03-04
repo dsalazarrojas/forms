@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Event Success Assessment
+    pages:
+    - id: 1
+      name: event_type
+      label: What type of event?
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Charity Run
+      - Charity Walk
+      - Charity Cycle
+      - Fundraising Dinner
+      - Silent Auction
+      - Gala
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees_number
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fundraising_goal
+      label: Fundraising Goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fundraising_achieved
+      label: Fundraising Achieved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 9
+      name: improvements
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false

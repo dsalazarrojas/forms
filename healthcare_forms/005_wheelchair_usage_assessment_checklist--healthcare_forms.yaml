@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair Usage Assessment Checklist
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: mobility_level
+      label: Mobility Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - Severe
+      required: true
+    - id: 4
+      name: mobility_status
+      label: Mobility Status
+      hint: null
+      type: select_multiple
+      options:
+      - Independent
+      - Assisted
+      - Requires Assistance
+      required: true
+    - id: 5
+      name: transfers
+      label: Transfers
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      required: false
+    - id: 6
+      name: transfers_frequency
+      label: Transfers Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transfers_type
+      label: Transfers Type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Power
+      - No Transfers
+      required: true
+    - id: 8
+      name: wheelchair_type
+      label: Wheelchair Type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Power
+      - Tilt
+      required: true
+    - id: 9
+      name: wheelchair_usage
+      label: Wheelchair Usage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: wheelchair_condition
+      label: Wheelchair Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: wheelchair_weight
+      label: Wheelchair Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: user_weight
+      label: User Weight
+      hint: null
+      type: number
+      options: []
+      required: true

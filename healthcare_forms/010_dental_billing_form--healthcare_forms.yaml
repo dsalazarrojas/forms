@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Billing Form
+    pages:
+    - id: 1
+      name: form
+      label: ประก form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: insurance_provider_info
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: service_info
+      label: Service Info
+      hint: null
+      type: text
+      options: []
+      required: false

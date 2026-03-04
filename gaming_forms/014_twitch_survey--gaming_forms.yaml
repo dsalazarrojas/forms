@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Twitch Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stream_info
+      label: stream_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: streamer_name
+      label: streamer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: streamer_email
+      label: streamer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: streamer_phone
+      label: streamer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

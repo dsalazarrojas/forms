@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Donation Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Bank Transfer''}'
+      - '{''id'': 3, ''label'': ''Cash''}'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: apt_number
+      label: Apt Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: exp_date
+      label: Exp. Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: exp_month
+      label: Exp. Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: exp_year
+      label: Exp. Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cvc
+      label: CVC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: card_holder_name
+      label: Card Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: card_security_code
+      label: Card Security Code
+      hint: null
+      type: text
+      options: []
+      required: false

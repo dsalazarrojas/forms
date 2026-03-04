@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Animal Exhibit Donation Form
+    pages:
+    - id: 1
+      name: donation
+      label: donation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 2
+      name: donation_amount
+      label: amount_donation
+      hint: null
+      type: select_multiple
+      options:
+      - $5
+      - $10
+      - $25
+      required: true
+    - id: 3
+      name: name
+      label: donor_name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: donor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: donor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donation_date
+      label: donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: conservation_program
+      label: conservation_program
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: true
+    - id: 9
+      name: zoo_name
+      label: zoo_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      required: true
+    - id: 11
+      name: donation_type
+      label: donation_type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Monthly
+      required: true
+    - id: 12
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Ongoing
+      required: true
+    - id: 13
+      name: frequency
+      label: frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_method_2
+      label: payment_method_2
+      hint: null
+      type: select_multiple
+      options:
+      - Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 15
+      name: frequency_2
+      label: frequency_2
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Ongoing
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method_3
+      label: payment_method_3
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 18
+      name: donation_date_2
+      label: donation_date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: frequency_3
+      label: frequency_3
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Ongoing
+      required: false
+    - id: 20
+      name: notes_2
+      label: notes_2
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: zoo_name_2
+      label: zoo_name_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method_4
+      label: payment_method_4
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 23
+      name: frequency_4
+      label: frequency_4
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Ongoing
+      required: false
+    - id: 24
+      name: notes_3
+      label: notes_3
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: zoo_name_3
+      label: zoo_name_3
+      hint: null
+      type: text
+      options: []
+      required: false

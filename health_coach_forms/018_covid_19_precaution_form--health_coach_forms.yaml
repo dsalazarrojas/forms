@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Precaution Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Precaution Plan --
+        hint: Outline of precaution measures for individuals or organizations
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: entity_name
+        label: Entity name
+        hint: Person or organization implementing precautions
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: precaution_measures
+        label: Precaution measures
+        hint: Describe physical distancing, cleaning, and PPE protocols
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: responsible_person
+        label: Responsible person
+        hint: Name of individual overseeing implementation
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: training_completed
+        label: Training completed
+        hint: Has staff training been completed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: monitoring_plan
+        label: Monitoring plan
+        hint: How compliance will be monitored
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: contact_for_concerns
+        label: Contact for concerns
+        hint: Phone or email for reporting issues
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: review_date
+        label: Review date
+        hint: Next scheduled review of the precaution plan
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: acknowledgment
+        label: Acknowledgment
+        hint: Agreement to follow outlined precautions
+        type: select_one
+        options:
+          - Acknowledged
+          - Not acknowledged
+        required: true
+      - id: 10
+        name: signature_name
+        label: Signature name
+        hint: Type name to serve as electronic signature
+        type: text
+        options: []
+        required: true

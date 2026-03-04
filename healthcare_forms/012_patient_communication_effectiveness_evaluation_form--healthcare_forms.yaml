@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Communication Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category_1
+      label: Category 1
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare
+      - Medical
+      - Other
+      required: false
+    - id: 5
+      name: patient_feedback_1
+      label: Feedback 1
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: communication_quality_1
+      label: Quality 1
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Information
+      - Explanation
+      - Support
+      - Education
+      - Other
+      required: false
+    - id: 7
+      name: patient_satisfaction_1
+      label: Satisfaction 1
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: healthcare_provider_1
+      label: Healthcare Provider 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_2
+      label: Healthcare Provider 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_1
+      label: Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_1
+      label: Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note_1
+      label: Note 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_1
+      label: Email 1
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_1
+      label: Phone 1
+      hint: null
+      type: text
+      options: []
+      required: false

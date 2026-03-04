@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Client Intake Form
+    pages:
+    - id: 1
+      name: new_client_name
+      label: New Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_contact_information
+      label: Client Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: new_client_phone
+      label: New Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_client_email
+      label: New Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: new_client_address
+      label: New Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross Blue Shield
+      - Blue Shield
+      - Other
+      required: true
+    - id: 9
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Doe
+      - Dr. Jane Smith
+      - Dr. Alice Brown
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_message
+      label: Emergency Contact Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_supervision
+      label: Medical Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: medical_supervision_notes
+      label: Medical Supervision Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_supervision_reason
+      label: Medical Supervision Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: new_client_language
+      label: New Client Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: false
+    - id: 22
+      name: new_client_language_other
+      label: New Client Language Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: new_client_language_preference
+      label: New Client Language Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_supervision_agreement
+      label: Medical Supervision Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: new_client_agreement
+      label: New Client Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

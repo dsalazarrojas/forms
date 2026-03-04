@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evidence Destruction Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inventory_id
+      label: inventory id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: inventory_item_count
+      label: item count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: inventory_item_type
+      label: item type
+      hint: null
+      type: select_one
+      options:
+      - Drugs
+      - Equipment
+      required: true
+    - id: 5
+      name: inventory_location
+      label: inventory location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inventory_date
+      label: disposal date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: destruction_method
+      label: destruction method
+      hint: null
+      type: select_one
+      options:
+      - Burn
+      - Crush
+      - Shred
+      required: true
+    - id: 8
+      name: destruction_date
+      label: destruction date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: inventory_status
+      label: inventory status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: destruction_location
+      label: destruction location
+      hint: null
+      type: text
+      options: []
+      required: true

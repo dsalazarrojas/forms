@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospital_discharge_records_release_form
+    pages:
+    - id: 1
+      name: patient_authorization
+      label: Patient Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - Patient
+      - Authorized Representative
+      - Healthcare Agent
+      required: false
+    - id: 2
+      name: record_types
+      label: Record Types
+      hint: null
+      type: select_one
+      options:
+      - Medical Record
+      - Surgical Record
+      - Radiology Report
+      - Laboratory Report
+      - Pathology Report
+      required: false
+    - id: 3
+      name: record_location
+      label: Record Location
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinic
+      - Lab
+      - Office
+      required: false
+    - id: 4
+      name: release_to
+      label: Release To
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Family Member
+      - Authorized Representative
+      - Healthcare Agent
+      required: false
+    - id: 5
+      name: contact_first_name
+      label: Contact First Name
+      hint: Enter the first name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Enter the last name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter the phone number of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Enter the email of the contact person
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: authorization_time
+      label: Authorization Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: authorization_signature_date
+      label: Authorization Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: record_release_date
+      label: Record Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_address
+      label: Contact Address
+      hint: Enter the address of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_city
+      label: Contact City
+      hint: Enter the city of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_state
+      label: Contact State
+      hint: Enter the state of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_zip
+      label: Contact Zip
+      hint: Enter the zip of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_country
+      label: Contact Country
+      hint: Enter the country of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_signature
+      label: Authorization Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Enter the last name of the patient
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_first_name
+      label: Patient First Name
+      hint: Enter the first name of the patient
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter the date of birth of the patient
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: patient_address
+      label: Patient Address
+      hint: Enter the address of the patient
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_city
+      label: Patient City
+      hint: Enter the city of the patient
+      type: text
+      options: []
+      required: false

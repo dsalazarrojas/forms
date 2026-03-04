@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wrist Stretching Exercise Log
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Input Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stretching_session_date
+      label: Stretching Session Date
+      hint: Date of the stretching session
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stretch_type
+      label: Stretch Type
+      hint: Types of stretches included in the session
+      type: select_multiple
+      options:
+      - Elbow Flexors
+      - Wrist Extensors
+      - Forearm
+      required: false
+    - id: 4
+      name: stretch_duration
+      label: Stretch Duration
+      hint: Duration of each stretch (in minutes)
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sets_completed
+      label: Sets Completed
+      hint: Number of sets completed during the session
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reps_completed
+      label: Reps Completed
+      hint: Number of reps completed during the session
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: Stretching Frequency
+      hint: How often do you stretch per week?
+      type: select_one
+      options:
+      - 1 time
+      - 2 times
+      - 3 times
+      - 4 times
+      - 5 times or more
+      required: false
+    - id: 8
+      name: stretch_time_of_day
+      label: Stretch Time of Day
+      hint: Time of day for stretching session
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: stretch_area
+      label: Stretch Area
+      hint: Areas of the body stretched during the session
+      type: select_multiple
+      options:
+      - Wrist
+      - Elbow
+      - Shoulder
+      required: false
+    - id: 10
+      name: stretch_level
+      label: Stretch Level
+      hint: Level of stretch (mild, medium, high)
+      type: select_multiple
+      options:
+      - Mild
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: stretch_comments
+      label: Stretch Comments
+      hint: Comments about the stretch session
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: user_comments
+      label: User Comments
+      hint: Additional comments from the user
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: trainer_comments
+      label: Trainer Comments
+      hint: Additional comments from the trainer
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow Up
+      hint: Follow up date for next session
+      type: date
+      options: []
+      required: false

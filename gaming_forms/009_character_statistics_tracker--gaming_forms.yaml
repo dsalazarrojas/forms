@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Statistics Tracker
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: Your gaming name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: character_name
+      label: Character Name
+      hint: Character full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: Date of this tracking session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_number
+      label: Session Number
+      hint: Which session is this
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: character_level_start
+      label: Starting Level
+      hint: Level at session start
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: character_level_end
+      label: Ending Level
+      hint: Level at session end
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: experience_gained
+      label: Experience Gained
+      hint: XP earned this session
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_experience
+      label: Total Experience
+      hint: Cumulative XP
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: hit_points_start
+      label: HP at Session Start
+      hint: Starting health
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: hit_points_end
+      label: HP at Session End
+      hint: Ending health
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: damage_dealt
+      label: Total Damage Dealt
+      hint: Damage to enemies
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: damage_taken
+      label: Total Damage Taken
+      hint: Damage received
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: enemies_defeated
+      label: Enemies Defeated
+      hint: Number of foes beaten
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: gold_earned
+      label: Gold Earned
+      hint: Currency gained
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: gold_spent
+      label: Gold Spent
+      hint: Currency used
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: items_acquired
+      label: Items Acquired
+      hint: New equipment or items
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quests_completed
+      label: Quests Completed
+      hint: Finished quests this session
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: ability_score_improvements
+      label: Ability Score Improvements
+      hint: Any stat increases
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: new_abilities
+      label: New Abilities Learned
+      hint: Spells or features gained
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notable_achievements
+      label: Notable Achievements
+      hint: Memorable moments
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: character_status
+      label: Character Status
+      hint: Current condition
+      type: select_one
+      options:
+      - Healthy
+      - Injured
+      - Cursed
+      - Poisoned
+      - Blessed
+      - Other
+      required: true

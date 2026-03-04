@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Box Online Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_box
+      label: Food Box
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: food
+      label: Food
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''apple''}'
+      - '{''name'': ''banana''}'
+      - '{''name'': ''orange''}'
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

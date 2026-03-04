@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Implant Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: List the patient's known allergies
+      type: select_multiple
+      options:
+      - Iodine
+      - Penicillin
+      - Latex
+      required: false
+    - id: 4
+      name: insurance
+      label: Insurance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_provider
+      label: Medical Provider
+      hint: List the patient's primary medical provider
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dentist
+      label: Dentist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: procedure_info
+      label: Procedure Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: implant_location
+      label: Implant Location
+      hint: null
+      type: select_one
+      options:
+      - Mandible
+      - Maxilla
+      - Both
+      required: false
+    - id: 9
+      name: implant_type
+      label: Implant Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Removable
+      - Hybrid
+      required: false
+    - id: 10
+      name: implant_surface
+      label: Implant Surface
+      hint: null
+      type: select_one
+      options:
+      - Ceramic
+      - Porcelain
+      - Titanium
+      required: false
+    - id: 11
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: procedure_duration
+      label: Procedure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: anesthesia_level
+      label: Anesthesia Level
+      hint: null
+      type: select_one
+      options:
+      - General Anesthesia
+      - Local Anesthesia
+      - Conscious Sedation
+      required: false
+    - id: 15
+      name: sedation_level
+      label: Sedation Level
+      hint: null
+      type: select_one
+      options:
+      - IV
+      - Inhalation
+      - Nitrous Oxide
+      required: false
+    - id: 16
+      name: implant_length
+      label: Implant Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: implant_width
+      label: Implant Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: implant_depth
+      label: Implant Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: implant_location_2
+      label: Implant Location 2
+      hint: null
+      type: select_one
+      options:
+      - Front
+      - Back
+      - Both
+      required: false
+    - id: 20
+      name: implant_type_2
+      label: Implant Type 2
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Removable
+      - Hybrid
+      required: false
+    - id: 21
+      name: implant_surface_2
+      label: Implant Surface 2
+      hint: null
+      type: select_one
+      options:
+      - Ceramic
+      - Porcelain
+      - Titanium
+      required: false
+    - id: 22
+      name: implant_procedure_date
+      label: Implant Procedure Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: implant_time_of_day
+      label: Implant Time Of Day 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: implant_duration
+      label: Implant Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: implant_comments
+      label: Implant Comments
+      hint: null
+      type: note
+      options: []
+      required: false

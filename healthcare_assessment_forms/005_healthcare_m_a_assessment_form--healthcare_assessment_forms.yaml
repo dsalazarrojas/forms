@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare M&A Assessment Form
+    pages:
+    - id: 1
+      name: acquisition_target
+      label: Acquisition Target
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_background
+      label: Company Background
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: financials
+      label: Financials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: competitors
+      label: Competitors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: management_team
+      label: Management Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: market_trends
+      label: Market Trends
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: acquisition_rationale
+      label: Acquisition Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: valuation
+      label: Valuation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: valuation_range
+      label: Valuation Range
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: true
+    - id: 11
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: exit_strategy
+      label: Exit Strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: acquisition_process
+      label: Acquisition Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: deal_making_process
+      label: Deal Making Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: target_competency
+      label: Target Competency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: valuation_date
+      label: Valuation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: valuation_period
+      label: Valuation Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: valuation_currency
+      label: Valuation Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: valuation_basis
+      label: Valuation Basis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: exit_multiple
+      label: Exit Multiple
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: exit_multiple_range
+      label: Exit Multiple Range
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: true
+    - id: 22
+      name: exit_multiple_period
+      label: Exit Multiple Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: score
+      label: Score
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

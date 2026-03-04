@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_game_quiz
+    pages:
+    - id: 1
+      name: game_genre
+      label: Game Genre
+      hint: null
+      type: select_one
+      options:
+      - action
+      - adventure
+      - role-playing
+      - sports
+      - strategy
+      - simulation
+      required: false
+    - id: 2
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: developer
+      label: Developer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_multiple
+      options:
+      - 2D
+      - 3D
+      - puzzle
+      required: false
+    - id: 6
+      name: player_type
+      label: Player Type
+      hint: null
+      type: select_one
+      options:
+      - solo
+      - multi-player
+      - online
+      - offline
+      required: false
+    - id: 7
+      name: player_level
+      label: Player Level
+      hint: null
+      type: select_multiple
+      options:
+      - easy
+      - medium
+      - hard
+      required: false
+    - id: 8
+      name: game_language
+      label: Game Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Japanese
+      - French
+      - Spanish
+      - German
+      required: false
+    - id: 9
+      name: game_platform
+      label: Game Platform
+      hint: null
+      type: select_multiple
+      options:
+      - PC
+      - Console
+      - Mobile
+      - Handheld
+      required: false
+    - id: 10
+      name: game_publisher
+      label: Game Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_genre_sub
+      label: Game Genre Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_rating
+      label: Game Rating
+      hint: null
+      type: select_one
+      options:
+      - ESRB
+      - PEGI
+      - USK
+      required: false
+    - id: 13
+      name: game_age_group
+      label: Game Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 0-3
+      - 4-6
+      - 7-10
+      - 11-13
+      required: false
+    - id: 14
+      name: game_category
+      label: Game Category
+      hint: null
+      type: select_multiple
+      options:
+      - Adventure
+      - Strategy
+      - Puzzle
+      - Role-Playing
+      - Action
+      - Sports
+      required: false
+    - id: 15
+      name: player_gender
+      label: Player Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 16
+      name: game_rating_ages
+      label: Game Rating Ages
+      hint: null
+      type: select_one
+      options:
+      - E - 6
+      - E10+ - 10
+      - E11 - 11
+      - E13 - 13
+      - E - 16
+      - M - 17
+      required: false
+    - id: 17
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: game_price
+      label: Game Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: game_price_range
+      label: Game Price Range
+      hint: null
+      type: select_multiple
+      options:
+      - 10 - 50
+      - 50 - 100
+      - 100-500
+      required: false
+    - id: 20
+      name: game_price_min
+      label: Game Price Min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: game_price_max
+      label: Game Price Max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: game_rating
+      label: Game Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: game_language_id
+      label: Game Language ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: game_platform_id
+      label: Game Platform ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: game_publisher_id
+      label: Game Publisher ID
+      hint: null
+      type: text
+      options: []
+      required: false

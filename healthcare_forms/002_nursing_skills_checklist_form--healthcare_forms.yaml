@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Skills Checklist Form
+    pages:
+    - id: 1
+      name: medical_assessment
+      label: Medical Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiopulmonary
+      - Medication Management
+      - Wound Care
+      required: false
+    - id: 2
+      name: skills_level
+      label: Skills Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

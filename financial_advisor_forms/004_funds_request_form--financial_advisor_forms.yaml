@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funds Request Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: institution_info
+      label: institution_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: financial_needs
+      label: financial_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: funding_sources
+      label: funding_sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fund_amount
+      label: fund_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: financial_impact
+      label: financial_impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fund_use
+      label: fund_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_funds_info
+      label: additional_funds_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

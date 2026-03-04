@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: video_game_survey
+    pages:
+    - id: 1
+      name: game_title
+      label: Enter Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platform
+      label: Game Platform
+      hint: null
+      type: select_one
+      options:
+      - PS4
+      - Xbox
+      - PC
+      - Mobile
+      required: true
+    - id: 3
+      name: genre
+      label: Game Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Adventure
+      - Role-Playing
+      - Strategy
+      - Puzzle
+      - Sports
+      required: true
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: game_hours_spent
+      label: Hours Spent per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: favorite_game
+      label: Favorite Game
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_character
+      label: Favorite Character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

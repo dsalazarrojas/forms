@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Perimenopause Quiz
+    pages:
+    - id: 1
+      name: perimenopause_quiz_form_data
+      label: Perimenopause Quiz Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_professional_comments
+      label: Medical Professional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - General Practice
+      - Obstetrics & Gynecology
+      - Primary Care
+      required: false
+    - id: 11
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Specialist
+      - Other
+      required: false
+    - id: 12
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Menopause
+      - Perimenopause
+      - Osteoporosis
+      - Hypothyroidism
+      - Other
+      required: false
+    - id: 13
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: quiz_results
+      label: Quiz Results
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: followup_scheduled
+      label: Follow-up Scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: followup_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false

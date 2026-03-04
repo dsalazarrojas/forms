@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Gaming Platform Overview
+    pages:
+    - id: 1
+      name: game_platform_usage
+      label: Game Platform Usage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: favorite_game_genre
+      label: favorite_game_genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_playtime
+      label: How often do you play games
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: platform_satisfaction
+      label: How satisfied are you with the platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false

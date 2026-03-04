@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Build Your Own Sandwich
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Dine In
+      - Takeout
+      - Delivery
+      - Catering
+      required: true
+    - id: 5
+      name: sandwich_size
+      label: Sandwich Size
+      hint: Choose your size
+      type: select_one
+      options:
+      - 6 inch
+      - 9 inch
+      - 12 inch
+      - Footlong
+      - Party Size
+      required: true
+    - id: 6
+      name: bread_type
+      label: Bread Type
+      hint: Select your bread
+      type: select_one
+      options:
+      - White Sub Roll
+      - Wheat Sub Roll
+      - Italian Herb and Cheese
+      - Sourdough
+      - Ciabatta
+      - Rye
+      - Gluten Free Wrap
+      - Lettuce Wrap
+      required: true
+    - id: 7
+      name: bread_toast
+      label: Toast Bread
+      hint: Would you like your bread toasted
+      type: select_one
+      options:
+      - Yes - Lightly Toasted
+      - Yes - Well Toasted
+      - No Toast
+      required: true
+    - id: 8
+      name: protein_selection
+      label: Protein Selection
+      hint: Choose your protein
+      type: select_multiple
+      options:
+      - Turkey
+      - Ham
+      - Roast Beef
+      - Chicken Breast
+      - Tuna Salad
+      - Egg Salad
+      - Bacon
+      - Salami
+      - Pepperoni
+      - Provolone
+      - Swiss Cheese
+      - Cheddar Cheese
+      - No Protein - Veggie Only
+      required: true
+    - id: 9
+      name: cheese_selection
+      label: Cheese Selection
+      hint: Choose your cheese
+      type: select_multiple
+      options:
+      - American
+      - Swiss
+      - Cheddar
+      - Provolone
+      - Pepper Jack
+      - Mozzarella
+      - Feta
+      - No Cheese
+      required: true
+    - id: 10
+      name: vegetables
+      label: Vegetables
+      hint: Add your veggies
+      type: select_multiple
+      options:
+      - Lettuce
+      - Tomatoes
+      - Cucumbers
+      - Red Onions
+      - Green Peppers
+      - Black Olives
+      - Pickles
+      - Jalapenos
+      - Spinach
+      - Banana Peppers
+      - No Vegetables
+      required: true
+    - id: 11
+      name: sauces
+      label: Sauces and Condiments
+      hint: Choose your sauces
+      type: select_multiple
+      options:
+      - Mayonnaise
+      - Mustard
+      - Ketchup
+      - Ranch
+      - Italian Dressing
+      - Oil and Vinegar
+      - BBQ Sauce
+      - Hot Sauce
+      - Honey Mustard
+      - Chipotle
+      - No Sauce
+      required: true
+    - id: 12
+      name: extras
+      label: Extras
+      hint: Add any extras
+      type: select_multiple
+      options:
+      - Extra Meat
+      - Extra Cheese
+      - Avocado
+      - Guacamole
+      - Fried Egg
+      - Hash Browns
+      - Side Chips
+      - Side Salad
+      - Cookie
+      - None
+      required: false
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: Any allergies or special requests
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: How many sandwiches
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: pickup_time
+      label: Pickup Time
+      hint: When do you need it
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Mobile Payment
+      - Account Billing
+      required: true

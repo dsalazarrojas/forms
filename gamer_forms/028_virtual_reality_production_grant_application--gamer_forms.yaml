@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Reality Production Grant Application
+    pages:
+    - id: 1
+      name: grant_application
+      label: Grant Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: production_plan
+      label: Production Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents_uploads
+      label: Supporting Documents Uploader
+      hint: Upload supporting documents for project.
+      type: select_one
+      options:
+      - '{''value'': 0, ''label'': ''None''}'
+      - '{''value'': 1, ''label'': ''Budget and timeline''}'
+      - '{''value'': 2, ''label'': ''Project proposal''}'
+      - '{''value'': 3, ''label'': ''Production plan''}'
+      - '{''value'': 4, ''label'': ''Project deliverables''}'
+      required: false
+    - id: 7
+      name: grant_fund
+      label: Grant Fund
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: production_schedule
+      label: Production Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false

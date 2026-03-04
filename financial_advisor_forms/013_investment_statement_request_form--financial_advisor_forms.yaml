@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Statement Request Form
+    pages:
+    - id: 1
+      name: investment_statement_request_form_client
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investment_instrument
+      label: Investment Instrument
+      hint: Select one or more investment instruments
+      type: select_one
+      options:
+      - Equity
+      - Bond
+      - Mutual Fund
+      required: false
+    - id: 4
+      name: investment_duration
+      label: Investment Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: investment_statement
+      label: Investment Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: investment_instrument_1
+      label: Investment Instrument 1
+      hint: null
+      type: select_multiple
+      options:
+      - Equity
+      - Bond
+      - Mutual Fund
+      required: false
+    - id: 7
+      name: investment_statement_1
+      label: Investment Statement 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: investment_statement_2
+      label: Investment Statement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investment_statement_3
+      label: Investment Statement 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: investment_statement_4
+      label: Investment Statement 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: investment_statement_5
+      label: Investment Statement 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: investment_statement_6
+      label: Investment Statement 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: investment_statement_7
+      label: Investment Statement 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: investment_statement_8
+      label: Investment Statement 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: investment_statement_9
+      label: Investment Statement 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: investment_statement_10
+      label: Investment Statement 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: investment_statement_request
+      label: Investment Statement Request
+      hint: null
+      type: select_one
+      options:
+      - Request for investment statement
+      - Request for account statement
+      - Request for other
+      required: false
+    - id: 18
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm
+      label: Confirm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: error_message
+      label: Error Message
+      hint: Error message will be displayed here if there are any issues with your
+        submission.
+      type: note
+      options: []
+      required: false

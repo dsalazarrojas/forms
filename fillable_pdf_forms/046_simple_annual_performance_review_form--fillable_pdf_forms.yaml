@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Annual Performance Review Form
+    pages:
+    - id: 1
+      name: performance_goals
+      label: Performance Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_goals_target
+      label: Target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_goals_reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_review
+      label: Performance Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signed_review
+      label: Signed Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signed_review_time
+      label: Signed Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_signed
+      label: Supervisor Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: supervisor_signed_time
+      label: Supervisor Signed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_goals_status
+      label: Performance Goals Status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - At Risk
+      - Not Met
+      required: false
+    - id: 14
+      name: performance_goals_status_comments
+      label: Performance Goals Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: performance_improvement_areas
+      label: Performance Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: performance_improvement_plan
+      label: Performance Improvement Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: performance_improvement_plan_comments
+      label: Performance Improvement Plan Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: next_review_time
+      label: Next Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_title
+      label: Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false

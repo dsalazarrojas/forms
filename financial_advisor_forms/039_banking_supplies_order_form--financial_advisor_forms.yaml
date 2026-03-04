@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Supplies Order Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Operations
+      - Customer Service
+      - Teller
+      - Lending
+      - IT
+      - Human Resources
+      - Marketing
+      - Management
+      - Other
+      required: true
+    - id: 6
+      name: branch_location
+      label: Branch Location
+      hint: Which branch
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: supplies_category
+      label: Supplies Category
+      hint: What type of supplies
+      type: select_one
+      options:
+      - Office Supplies
+      - Banking Forms
+      - Marketing Materials
+      - Technology Equipment
+      - Safety Supplies
+      - Customer Service Items
+      - Other
+      required: true
+    - id: 9
+      name: item_1
+      label: Item 1
+      hint: First item name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: item_1_quantity
+      label: Item 1 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: item_2
+      label: Item 2
+      hint: Second item name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_2_quantity
+      label: Item 2 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: item_3
+      label: Item 3
+      hint: Third item name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_3_quantity
+      label: Item 3 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: item_4
+      label: Item 4
+      hint: Fourth item name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: item_4_quantity
+      label: Item 4 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: item_5
+      label: Item 5
+      hint: Fifth item name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item_5_quantity
+      label: Item 5 Quantity
+      hint: How many
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: delivery_method
+      label: Delivery Method
+      hint: How to deliver
+      type: select_one
+      options:
+      - Internal Mail
+      - Courier
+      - Pickup
+      - Standard Shipping
+      required: true
+    - id: 20
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to send
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: urgency
+      label: Urgency
+      hint: How soon needed
+      type: select_one
+      options:
+      - Standard
+      - Urgent
+      - Rush
+      required: true
+    - id: 22
+      name: budget_code
+      label: Budget Code
+      hint: Cost center
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not Yet Submitted
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any notes
+      type: text
+      options: []
+      required: false

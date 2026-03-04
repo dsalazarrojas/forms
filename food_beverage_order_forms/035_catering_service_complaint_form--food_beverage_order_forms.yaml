@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Complaint Form
+    pages:
+    - id: 1
+      name: complainant_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: complaint_date
+      label: Complaint Date
+      hint: Date of this complaint
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When was the event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Where was the event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: order_number
+      label: Order Number
+      hint: Your order confirmation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: catering_provider
+      label: Catering Provider
+      hint: Name of the caterer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: complaint_category
+      label: Complaint Category
+      hint: What type of issue
+      type: select_one
+      options:
+      - Food Quality
+      - Food Temperature
+      - Portion Size
+      - Service Issues
+      - Staff Behavior
+      - Timing Issues
+      - Billing Dispute
+      - Equipment Problems
+      - Other
+      required: true
+    - id: 12
+      name: issue_description
+      label: Issue Description
+      hint: Please describe the problem
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: when_occurred
+      label: When Did the Issue Occur
+      hint: Time or phase of event
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_involved
+      label: Staff Members Involved
+      hint: Names if known
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: severity_rating
+      label: Severity Rating
+      hint: How serious was the issue
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Serious
+      - Very Serious
+      - Critical
+      required: true
+    - id: 16
+      name: impact_on_event
+      label: Impact on Event
+      hint: How did this affect your event
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witnesses
+      label: Witnesses
+      hint: Anyone else who witnessed this
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evidence_available
+      label: Evidence Available
+      hint: Photos - videos - receipts
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_complaints
+      label: Have You Complained Before
+      hint: Previous issues with this provider
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: resolution_requested
+      label: Desired Resolution
+      hint: What outcome do you want
+      type: select_one
+      options:
+      - Refund
+      - Partial Refund
+      - Credit for Future
+      - Apology
+      - Staff Training
+      - Other
+      required: true
+    - id: 21
+      name: resolution_details
+      label: Resolution Details
+      hint: Please explain
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: response_timeframe
+      label: Expected Response Timeframe
+      hint: When do you need a response
+      type: select_one
+      options:
+      - Within 24 Hours
+      - Within 48 Hours
+      - Within 1 Week
+      - No Rush
+      required: false
+    - id: 23
+      name: willing_to_discuss
+      label: Willing to Discuss by Phone
+      hint: Can we call you
+      type: select_one
+      options:
+      - true
+      - No - Email Only
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

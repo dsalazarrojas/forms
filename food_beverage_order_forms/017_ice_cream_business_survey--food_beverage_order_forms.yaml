@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ice Cream Business Survey
+    pages:
+    - id: 1
+      name: ice_cream_business_survey_page_1
+      label: How do you feel about our ice cream?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: true
+    - id: 2
+      name: ice_cream_flavor
+      label: What is your favorite ice cream flavor?
+      hint: null
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      - Blueberry
+      - Mint
+      - Cookies and Cream
+      - Rocky Road
+      - Peanut Butter
+      - Pistachio
+      - Peanut Butter Banana
+      required: true
+    - id: 3
+      name: ice_cream_parlor
+      label: Have you visited our ice cream parlor recently?
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 4
+      name: ice_cream_parlor_visit_date
+      label: On your most recent visit, what date did you go?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ice_cream_staff
+      label: Who served you on your most recent visit?
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Doe
+      - Jim
+      - Mary
+      - Pete
+      - Bob
+      - Alice
+      - Tom
+      required: true
+    - id: 6
+      name: ice_cream_rate
+      label: How would you rate your experience?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      - Fair
+      - Bad
+      required: true
+    - id: 7
+      name: ice_cream_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: ice_cream_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ice_cream_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

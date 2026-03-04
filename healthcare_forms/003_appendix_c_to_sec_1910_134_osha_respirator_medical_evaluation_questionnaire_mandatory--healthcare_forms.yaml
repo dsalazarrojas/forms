@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appendix C To Sec. 1910.134 - OSHA Respirator Medical Evaluation Questionnaire
+      (Mandatory)
+    pages:
+    - id: 1
+      name: general_info_header
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: age_last_birthday
+      label: Your Age (to the nearest year)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 6
+      name: height_feet
+      label: Your Height (Feet)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: height_inches
+      label: Your Height (Inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight_pounds
+      label: Your Weight (Lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Your Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_contact
+      label: A phone number where you can be reached by the healthcare professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: best_time_to_call
+      label: The best time to phone you at this number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employer_info
+      label: Has your employer told you how to contact the healthcare professional
+        who will review this questionnaire?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: medical_history_header
+      label: -- Medical History Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: smoking_status
+      label: Do you currently smoke tobacco, or have you smoked tobacco in the last
+        month?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: seizures_history
+      label: Have you ever had seizures?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: diabetes_history
+      label: Have you ever had diabetes (sugar disease)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: allergic_reactions
+      label: Have you ever had allergic reactions that interfere with your breathing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: claustrophobia_history
+      label: Have you ever had claustrophobia (fear of closed-in places)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: lung_problems_history
+      label: Have you ever had any of the following lung problems - Asbestosis, Asthma,
+        Bronchitis, Emphysema, Pneumonia, Tuberculosis, Silicosis, Pneumothorax, Lung
+        Cancer, Broken Ribs, Any chest injuries or surgeries, Any other lung problem?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: heart_problems_history
+      label: Have you ever had any of the following cardiovascular problems - Heart
+        attack, Stroke, Angina, Heart failure, Swelling in legs or feet, Heart arrhythmia,
+        High blood pressure, Any other heart problem?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

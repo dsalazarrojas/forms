@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_awareness_campaign_donation_form
+    pages:
+    - id: 1
+      name: donor_info
+      label: donor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - amount_one
+      - amount_two
+      - amount_three
+      - amount_four
+      required: false
+    - id: 4
+      name: donation_currency
+      label: donation_currency
+      hint: null
+      type: select_multiple
+      options:
+      - usd
+      - cad
+      - eur
+      - gbp
+      - chf
+      - jpy
+      - usd
+      - chf
+      required: false
+    - id: 5
+      name: gift_card
+      label: gift_card
+      hint: null
+      type: select_one
+      options:
+      - gift_card_yes
+      - gift_card_no
+      required: false
+    - id: 6
+      name: recurring_donation
+      label: recurring_donation
+      hint: null
+      type: select_one
+      options:
+      - recurring_donation_no
+      - recurring_donation_yes
+      required: false
+    - id: 7
+      name: donation_frequency_duration
+      label: donation_frequency_duration
+      hint: null
+      type: select_multiple
+      options:
+      - one_time
+      - monthly
+      - quarterly
+      - annually
+      - bi_annually
+      - monthly_3
+      - monthly_6
+      - monthly_12
+      required: false
+    - id: 8
+      name: donation_start_date
+      label: donation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: donation_end_date
+      label: donation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: donation_frequency_interval
+      label: donation_frequency_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: donation_amount_interval
+      label: donation_amount_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: donation_currency_interval
+      label: donation_currency_interval
+      hint: null
+      type: select_multiple
+      options:
+      - usd
+      - cad
+      - eur
+      - gbp
+      - jpy
+      - chf
+      - usd
+      - chf
+      required: false
+    - id: 13
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - stripe
+      - paypal
+      - bank_transfer
+      - cash_app
+      - check
+      - other
+      required: false
+    - id: 14
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - pending
+      - cancelled
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: gift_message
+      label: gift_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: acknowledgement
+      label: acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: acknowledgement_sent
+      label: acknowledgement_sent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false

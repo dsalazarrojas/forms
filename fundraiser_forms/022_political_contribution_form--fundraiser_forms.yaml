@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Political Contribution Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contributor_type
+      label: Contributor Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - PAC
+      - Organization
+      required: false
+    - id: 3
+      name: contributor_address
+      label: Address
+      hint: Enter a real address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contributor_address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contribution_amount
+      label: Contribution Amount
+      hint: Enter contribution amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 7
+      name: date_of_contribution
+      label: Date of Contribution
+      hint: Enter date of contribution (YYYY-MM-DD)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_contribution
+      label: Time of Contribution
+      hint: "Enter time of contribution (HH:MM)"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

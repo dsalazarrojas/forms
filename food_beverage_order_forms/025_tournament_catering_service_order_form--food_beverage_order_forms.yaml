@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: tournament_catering_service_order_form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: catering_service
+      label: catering_service
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Beverages
+      - Snacks
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - Form Builder
+      - Drag-and-Drop Interface
+      required: false
+    - id: 10
+      name: form_submission_type
+      label: form_submission_type
+      hint: null
+      type: select_one
+      options:
+      - Online Form Submission
+      - Offline Form Submission
+      required: false
+    - id: 11
+      name: form_submission_url
+      label: form_submission_url
+      hint: null
+      type: text
+      options: []
+      required: false

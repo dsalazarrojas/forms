@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Products Order Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Ordering Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_id
+      label: Order ID (optional)
+      hint: For tracking purposes
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_header_2
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Barber shop name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_phone
+      label: Business phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_email
+      label: Business email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_header_3
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: shipping_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_zip
+      label: ZIP/Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_4
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: product_categories
+      label: Product categories needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hair Clippers
+      - Shaving Products
+      - Hair Care Oils
+      - Pomades/Gels
+      - Aftershave
+      - Combs and Brushes
+      - Towels
+      - Capes
+      - Cleaning Supplies
+      required: true
+    - id: 15
+      name: hair_care_products
+      label: Specific hair care product brands
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: clipper_types
+      label: Clipper guard sizes needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: estimated_quantity
+      label: Estimated total quantity of items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Additional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special product requests or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delivery_preference
+      label: Preferred delivery method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping
+      - Express Shipping
+      - Local Pickup
+      - Courier Service
+      required: false
+    - id: 21
+      name: budget_range
+      label: Approximate budget range
+      hint: null
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1000
+      - Over $1000
+      required: false
+    - id: 22
+      name: submit_confirmation
+      label: I confirm this order is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

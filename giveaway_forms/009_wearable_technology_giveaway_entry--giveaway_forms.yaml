@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wearable Technology Giveaway Entry
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: country_of_residence
+      label: Country of Residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agree_terms
+      label: Agree to terms and conditions
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 9
+      name: agree_privacy_policy
+      label: Agree to privacy policy
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 10
+      name: wearable_preferred_brand
+      label: Your preferred brand of wearable technology
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Google
+      - Samsung
+      required: true
+    - id: 11
+      name: favorite_device_model
+      label: Your favorite device model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_to_contact
+      label: Consent to contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_to_email
+      label: Consent to email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: consent_to_sms
+      label: Consent to SMS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS
+      required: false
+    - id: 16
+      name: social_media
+      label: Social media handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: promotion_code
+      label: Promotion Code (if you have one)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_find_out
+      label: How did you find out about this promotion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: which_device_do_you_own
+      label: Which device do you own
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Google
+      - Samsung
+      - Huawei
+      - Other
+      required: false
+    - id: 21
+      name: other_device
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_many_devices_do_you_own
+      label: How many devices do you own
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: which_brands_do_you_like
+      label: Which brands do you like
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Google
+      - Samsung
+      required: false
+    - id: 24
+      name: how_much_do_you_earn
+      label: How much do you earn in a month?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Employed
+      - Unemployed
+      required: true

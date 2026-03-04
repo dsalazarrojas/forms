@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: msq_questionnaire
+    pages:
+    - id: 1
+      name: main_page_1
+      label: what_is_a_migraine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_migraines_affect_lifestyle
+      label: how_migraines_affect_lifestyle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: how_migraines_affect_physical_health
+      label: how_migraines_affect_physical_health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_is_the_frequency_of_your_migraines
+      label: what_is_the_frequency_of_your_migraines
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: how_severe_are_your_migraines
+      label: how_severe_are_your_migraines
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: which_days_of_week_do_you_experience_migraines
+      label: which_days_of_week_do_you_experience_migraines
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: what_time_of_day_do_you_experience_migraines
+      label: what_time_of_day_do_you_experience_migraines
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: what_type_of_migraine_do_you_experience
+      label: what_type_of_migraine_do_you_experience
+      hint: null
+      type: select_one
+      options:
+      - visual_auras
+      - nausea
+      - confusion
+      - vomiting
+      - sensitivity_to_lights
+      - sensitivity_to_sounds
+      - sensitivity_to_smells
+      required: true
+    - id: 9
+      name: how_migraines_affect_mood
+      label: how_migraines_affect_mood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: how_migraines_affect_cognition
+      label: how_migraines_affect_cognition
+      hint: null
+      type: text
+      options: []
+      required: false

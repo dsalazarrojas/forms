@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Delivery Settings Form
+    pages:
+    - id: 1
+      name: service_areas
+      label: Service Areas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fees
+      label: Fees
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': 10}'
+      - '{''label'': ''Option 2'', ''value'': 15}'
+      - '{''label'': ''Option 3'', ''value'': 20}'
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false

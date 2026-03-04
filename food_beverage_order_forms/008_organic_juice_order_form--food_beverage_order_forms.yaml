@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Juice Order Form
+    pages:
+    - id: 1
+      name: organic_juice_order_form_page
+      label: Organic Juice Order Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - card
+      - paypal
+      - venmo
+      required: true
+    - id: 7
+      name: order_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: order_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - once
+      - regularly
+      - weekly
+      required: true
+    - id: 9
+      name: order_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

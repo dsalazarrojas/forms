@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Repair Program Access Consent Form
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information_page
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_info
+      label: Resident Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_agreement
+      label: Program Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_agreement
+      label: Emergency Contact Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

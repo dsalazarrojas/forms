@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Plan Portal Access Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Blue Shield
+      - Blue Care
+      required: true
+    - id: 6
+      name: healthcare_plan_name
+      label: Healthcare Plan Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Care
+      - Secondary Care
+      - Tertiary Care
+      - Quaternary Care
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: Enter your physical address
+      type: text
+      options: []
+      required: true

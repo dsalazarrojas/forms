@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: emotional_reflection_journal_form
+    pages:
+    - id: 1
+      name: intro
+      label: intro_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mood
+      label: what_was_your_mood_today
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: intensity
+      label: how_did_your_mood_feel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reflection
+      label: write_down_your_reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: how_often_do_you_do_your_reflections
+      hint: null
+      type: select_one
+      options:
+      - frequently
+      - occasionally
+      - rarely
+      - never
+      required: false
+    - id: 6
+      name: time_of_day
+      label: what_time_of_day_did_you_reflect
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration_of_reflection
+      label: how_long_did_your_reflection_last
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_reflection
+      label: what_date_did_you_reflect
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: emotional_state
+      label: what_emotions_did_you_experience
+      hint: null
+      type: select_multiple
+      options:
+      - happy
+      - sad
+      - anxious
+      - angry
+      - frustrated
+      - excited
+      - tired
+      - stressed
+      - overwhelmed
+      - confused
+      - bored
+      required: false
+    - id: 10
+      name: emotional_intensity
+      label: how_intense_was_your_emotion
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: any_additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

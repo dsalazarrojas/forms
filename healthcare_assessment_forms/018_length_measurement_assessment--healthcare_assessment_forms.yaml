@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: length measurement assessment
+    pages:
+    - id: 1
+      name: length_measurement
+      label: measurement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: unit
+      label: unit of measurement
+      hint: null
+      type: select_one
+      options:
+      - meter
+      - centimeter
+      - millimeter
+      - inch
+      - foot
+      required: false
+    - id: 3
+      name: method
+      label: methods used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation
+      label: observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recorded_by
+      label: recorded by
+      hint: null
+      type: select_multiple
+      options:
+      - staff
+      - manufacturer
+      - instructor
+      - other
+      required: false
+    - id: 6
+      name: length_unit_conversion
+      label: length unit conversion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: measurement_date
+      label: measurement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: measurement_time
+      label: measurement time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: length_measurement_notes
+      label: length measurement notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: unit_conversion_notes
+      label: unit conversion notes
+      hint: null
+      type: note
+      options: []
+      required: false

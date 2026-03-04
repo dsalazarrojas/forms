@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Margin Trading Order Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_instructions
+      label: Order Instructions
+      hint: Please specify your order instructions in 1000 characters
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trading_pair
+      label: Trading Pair
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''BTC/USD''}'
+      - '{''id'': 2, ''label'': ''ETH/USD''}'
+      - '{''id'': 3, ''label'': ''XRP/USD''}'
+      required: false
+    - id: 4
+      name: margin_amount
+      label: Margin Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leverage
+      label: Leverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stop_loss
+      label: Stop Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: take_profit
+      label: Take Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Aggressive''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Conservative''}'
+      required: false
+    - id: 9
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_order
+      label: Confirm Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cancel_order
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

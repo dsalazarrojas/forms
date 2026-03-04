@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Wellness Evaluation Form
+    pages:
+    - id: 1
+      name: health_history
+      label: health history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lifestyle_habits
+      label: lifestyle habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wellness_goals
+      label: wellness goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: concerns_preferences
+      label: concerns/preferences
+      hint: null
+      type: text
+      options: []
+      required: false

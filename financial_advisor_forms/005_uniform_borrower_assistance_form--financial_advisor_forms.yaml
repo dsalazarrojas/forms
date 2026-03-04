@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Borrower Assistance Form
+    pages:
+    - id: 1
+      name: borrower_assistance_form
+      label: Borrower Assistance Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Financially Stable''}'
+      - '{''id'': 2, ''label'': ''Financially Struggling''}'
+      - '{''id'': 3, ''label'': ''Financially Distressed''}'
+      required: false
+    - id: 3
+      name: income_earned
+      label: Income Earnings
+      hint: Please list the income earnings for the past 30 days
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Employment Income''}'
+      - '{''id'': 2, ''label'': ''Social Security''}'
+      - '{''id'': 3, ''label'': ''Pensions''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: expenses_paid
+      label: Expenses Paid
+      hint: List all expenses paid in the past 30 days
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income_expenses_ratio
+      label: Income-to-Expenses Ratio
+      hint: "Enter a ratio (e.g., 10:1, 20:1)"
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: Are you currently employed?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed''}'
+      - '{''id'': 2, ''label'': ''Not Employed''}'
+      - '{''id'': 3, ''label'': ''Retiree''}'
+      - '{''id'': 4, ''label'': ''Disabled''}'
+      required: false
+    - id: 8
+      name: income_qualified
+      label: Income Qualified
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Income Qualified''}'
+      - '{''id'': 2, ''label'': ''Income Ineligible''}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: false
+    - id: 9
+      name: financial_institution
+      label: Financial Institution
+      hint: Enter the name of your financial institution
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bank of America''}'
+      - '{''id'': 2, ''label'': ''Wells Fargo''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: mortgage_balance
+      label: Mortgage Balance
+      hint: The outstanding mortgage balance
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_mortgage
+      label: Total Mortgage
+      hint: The total of the mortgage
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: monthly_payment
+      label: Monthly Payment
+      hint: The monthly payment
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Primary Residence''}'
+      - '{''id'': 2, ''label'': ''Second Home''}'
+      - '{''id'': 3, ''label'': ''Investment Property''}'
+      required: false
+    - id: 14
+      name: property_value
+      label: Property Value
+      hint: The value of the property
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: credit_score
+      label: Credit Score
+      hint: The credit score
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: debt_to_income
+      label: Debt-to-Income
+      hint: The debt-to-income ratio
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: credit_history
+      label: Credit History
+      hint: The credit history
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: account_opened
+      label: Account Opened
+      hint: The date the account was opened
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: loan_amount
+      label: Loan Amount
+      hint: The loan amount
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: The loan interest rate
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: loan_term
+      label: Loan Term
+      hint: The loan term
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: loan_payment_terms
+      label: Loan Payment Terms
+      hint: The loan payment terms
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: false
+    - id: 23
+      name: loan_security_type
+      label: Loan Security Type
+      hint: The type of security for the loan
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Collateral''}'
+      - '{''id'': 2, ''label'': ''Unsecured''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: loan_status
+      label: Loan Status
+      hint: The loan status
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cane Giveaway Registration
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Cane Giveaway Program Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Thank you for your interest in our Cane Giveaway program. Please complete
+        this registration to be entered into the drawing.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required to confirm eligibility
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Where we will send updates
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: need_assessment_header
+      label: -- Mobility Need Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cane_reason
+      label: Why do you need a cane?
+      hint: Select one
+      type: select_one
+      options:
+      - Mobility assistance
+      - Balance issues
+      - Recovery from injury
+      - Arthritis or joint pain
+      - Age-related mobility
+      - Neurological condition
+      - Other medical reason
+      - Prefer not to say
+      required: true
+    - id: 18
+      name: cane_preference
+      label: Do you have a cane type preference?
+      hint: Select one
+      type: select_one
+      options:
+      - Standard cane
+      - Quad cane
+      - Folding cane
+      - Decorative cane
+      - No preference
+      required: true
+    - id: 19
+      name: cane_specifications
+      label: Any specific cane specifications needed?
+      hint: Height, weight capacity, color, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: eligibility_header
+      label: -- Eligibility Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: age_confirmation
+      label: I confirm that I am at least 18 years old
+      hint: Required for registration
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      required: true
+    - id: 22
+      name: residency_confirmation
+      label: I reside within the eligible service area
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      - Unsure
+      required: true
+    - id: 23
+      name: previous_recipient
+      label: Have you received assistance through this program before?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 24
+      name: communication_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: contact_method
+      label: Preferred contact method
+      hint: Select one
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text Message
+      required: true
+    - id: 26
+      name: newsletter
+      label: Would you like to receive updates about community assistance programs?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

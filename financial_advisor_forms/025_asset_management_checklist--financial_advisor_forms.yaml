@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Management Checklist
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_id
+      label: Client ID
+      hint: Account number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: advisor_name
+      label: Financial Advisor Name
+      hint: Who is advising
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: review_type
+      label: Review Type
+      hint: Type of check
+      type: select_one
+      options:
+      - Initial Assessment
+      - Quarterly Review
+      - Annual Review
+      - Mid-Year Check
+      - Special Review
+      required: true
+    - id: 6
+      name: total_assets_value
+      label: Total Assets Value
+      hint: Combined worth
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cash_accounts_reviewed
+      label: Cash Accounts Reviewed
+      hint: Checking savings etc
+      type: select_one
+      options:
+      - Yes - All Accounts
+      - Yes - Some Accounts
+      - 'No'
+      required: true
+    - id: 8
+      name: investment_accounts_reviewed
+      label: Investment Accounts Reviewed
+      hint: Brokerage accounts
+      type: select_one
+      options:
+      - Yes - All Accounts
+      - Yes - Some Accounts
+      - 'No'
+      required: true
+    - id: 9
+      name: retirement_accounts_reviewed
+      label: Retirement Accounts Reviewed
+      hint: 401k IRA etc
+      type: select_one
+      options:
+      - Yes - All Accounts
+      - Yes - Some Accounts
+      - 'No'
+      required: true
+    - id: 10
+      name: real_estate_reviewed
+      label: Real Estate Holdings Reviewed
+      hint: Property assets
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 11
+      name: insurance_policies_reviewed
+      label: Insurance Policies Reviewed
+      hint: Coverage check
+      type: select_one
+      options:
+      - Yes - All Policies
+      - Yes - Some Policies
+      - 'No'
+      required: true
+    - id: 12
+      name: estate_documents_reviewed
+      label: Estate Documents Reviewed
+      hint: Will trust etc
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 13
+      name: asset_allocation_check
+      label: Asset Allocation Appropriate
+      hint: Matches goals
+      type: select_one
+      options:
+      - Yes - On Target
+      - Minor Adjustments Needed
+      - Major Rebalancing Needed
+      required: true
+    - id: 14
+      name: diversification_check
+      label: Portfolio Properly Diversified
+      hint: Risk spread
+      type: select_one
+      options:
+      - Yes - Well Diversified
+      - Somewhat Diversified
+      - Needs Improvement
+      required: true
+    - id: 15
+      name: risk_tolerance_match
+      label: Risk Level Matches Tolerance
+      hint: Appropriate risk
+      type: select_one
+      options:
+      - Yes - Matches Profile
+      - Too Conservative
+      - Too Aggressive
+      required: true
+    - id: 16
+      name: performance_review
+      label: Performance Reviewed
+      hint: Returns analysis
+      type: select_one
+      options:
+      - Yes - Meeting Goals
+      - Yes - Below Expectations
+      - Yes - Exceeding Expectations
+      - 'No'
+      required: true
+    - id: 17
+      name: fee_analysis_complete
+      label: Fee Analysis Complete
+      hint: Cost review
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: tax_efficiency_reviewed
+      label: Tax Efficiency Reviewed
+      hint: Tax optimization
+      type: select_one
+      options:
+      - Yes - Optimized
+      - Yes - Improvements Needed
+      - 'No'
+      required: true
+    - id: 19
+      name: beneficiary_designations_current
+      label: Beneficiary Designations Current
+      hint: Up to date
+      type: select_one
+      options:
+      - Yes - All Current
+      - Some Need Update
+      - No - Need Review
+      required: true
+    - id: 20
+      name: required_minimum_distributions
+      label: RMD Requirements Met
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes - Taken
+      - Yes - Scheduled
+      - Not Applicable
+      - No - Action Needed
+      required: true
+    - id: 21
+      name: goals_progress_reviewed
+      label: Progress Toward Goals Reviewed
+      hint: On track check
+      type: select_one
+      options:
+      - Yes - On Track
+      - Yes - Behind Schedule
+      - Yes - Ahead of Schedule
+      - 'No'
+      required: true
+    - id: 22
+      name: life_changes_discussed
+      label: Life Changes Discussed
+      hint: Any updates
+      type: select_one
+      options:
+      - Yes - No Impact
+      - Yes - Plan Adjustment Needed
+      - No Changes
+      required: true
+    - id: 23
+      name: action_items_identified
+      label: Number of Action Items
+      hint: Tasks to complete
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: action_items_list
+      label: Action Items List
+      hint: Describe tasks
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_review_date
+      label: Next Review Date
+      hint: When to meet again
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: client_signature
+      label: Client Signature
+      hint: Type name to acknowledge
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: advisor_signature
+      label: Advisor Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: drug_test_employer_account_set_up_form
+    pages:
+    - id: 1
+      name: account_setup
+      label: account_setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_frequency
+      label: test_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: test_type
+      label: test_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''urine''}'
+      - '{''value'': ''saliva''}'
+      - '{''value'': ''blood''}'
+      required: false
+    - id: 4
+      name: test_frequency_hint
+      label: test_frequency_hint
+      hint: When will you need the test?
+      type: select_multiple
+      options:
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''quarterly''}'
+      - '{''value'': ''biannually''}'
+      - '{''value'': ''annually''}'
+      required: false
+    - id: 5
+      name: test_type_hint
+      label: test_type_hint
+      hint: What type of test?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: test_frequency_date
+      label: test_frequency_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: test_start_date
+      label: test_start_date
+      hint: When would you like to start taking this test?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employer_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employer_address
+      label: employer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_phone
+      label: employer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employer_email
+      label: employer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: note_hint
+      label: note_hint
+      hint: Additional comments or notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''individual''}'
+      - '{''value'': ''group''}'
+      - '{''value'': ''both''}'
+      required: false
+    - id: 18
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_password
+      label: confirm_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms
+      label: terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accepted''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 22
+      name: agree
+      label: agree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accepted''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 23
+      name: confirm_agree
+      label: confirm_agree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accepted''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 24
+      name: confirm_terms
+      label: confirm_terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accepted''}'
+      - '{''value'': ''rejected''}'
+      required: false
+    - id: 25
+      name: confirm_agree
+      label: confirm_agree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accepted''}'
+      - '{''value'': ''rejected''}'
+      required: false

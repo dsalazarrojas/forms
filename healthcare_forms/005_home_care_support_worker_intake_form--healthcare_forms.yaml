@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Support Worker Intake Form
+    pages:
+    - id: 1
+      name: worker_details
+      label: Worker Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: qualifications
+      label: Qualifications
+      hint: List relevant qualifications
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: onboarding_date
+      label: Onboarding Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: worker_notes
+      label: Worker Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breakfast Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number for delivery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      - Dine-in
+      - Takeout
+      required: true
+    - id: 5
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should we deliver
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Desired Order Date
+      hint: When do you want breakfast
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_time
+      label: Preferred Order Time
+      hint: What time should your order be ready
+      type: select_one
+      options:
+      - 7 AM
+      - 7:30 AM
+      - 8 AM
+      - 8:30 AM
+      - 9 AM
+      - 9:30 AM
+      - 10 AM
+      - 10:30 AM
+      - 11 AM
+      required: true
+    - id: 8
+      name: eggs_preference
+      label: Egg Dishes - Select Items
+      hint: Choose your egg preferences
+      type: select_multiple
+      options:
+      - Scrambled eggs
+      - Fried eggs
+      - Over easy
+      - Over medium
+      - Over hard
+      - Egg whites only
+      - No eggs
+      required: false
+    - id: 9
+      name: pancakes_waffles
+      label: Pancakes and Waffles
+      hint: Select pancake or waffle options
+      type: select_one
+      options:
+      - No pancakes or waffles
+      - Pancakes
+      - Waffles
+      - Both
+      required: true
+    - id: 10
+      name: pancake_toppings
+      label: Pancake or Waffle Toppings
+      hint: Choose your toppings
+      type: select_multiple
+      options:
+      - Maple syrup
+      - Blueberries
+      - Strawberries
+      - Chocolate chips
+      - Whipped cream
+      - Butter
+      - Plain
+      required: false
+    - id: 11
+      name: bacon_sausage
+      label: Bacon and Sausage Options
+      hint: Select your preferences
+      type: select_multiple
+      options:
+      - Bacon
+      - Sausage patties
+      - Sausage links
+      - Turkey bacon
+      - None
+      required: false
+    - id: 12
+      name: toast_bread
+      label: Toast or Bread Selection
+      hint: Choose your bread option
+      type: select_one
+      options:
+      - White toast
+      - Wheat toast
+      - Rye toast
+      - Bagel
+      - English muffin
+      - Croissant
+      - None
+      required: false
+    - id: 13
+      name: fruit_selection
+      label: Fresh Fruit Selection
+      hint: Choose your fruit
+      type: select_multiple
+      options:
+      - Berries
+      - Melon
+      - Banana
+      - Orange slices
+      - Grapefruit
+      - Pineapple
+      - None
+      required: false
+    - id: 14
+      name: beverages
+      label: Beverages
+      hint: Select your drinks
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Orange juice
+      - Apple juice
+      - Grapefruit juice
+      - Smoothie
+      - Water
+      required: true
+    - id: 15
+      name: coffee_preparation
+      label: Coffee Preparation
+      hint: How do you like your coffee
+      type: select_one
+      options:
+      - Black
+      - With cream
+      - With sugar
+      - With cream and sugar
+      - Cappuccino
+      - Latte
+      - Americano
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any dietary needs
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Low-sugar
+      - None
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests or Allergies
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - PayPal
+      - Online banking
+      required: true

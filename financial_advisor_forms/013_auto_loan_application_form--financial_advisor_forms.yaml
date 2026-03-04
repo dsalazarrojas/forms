@@ -1,0 +1,386 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Loan Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_name
+      label: Middle Name
+      hint: Optional middle name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suffix
+      label: Suffix
+      hint: Jr Sr III etc
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: ssn
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: residence_type
+      label: Residence Type
+      hint: Your housing situation
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Live with Family
+      - Other
+      required: true
+    - id: 15
+      name: monthly_payment
+      label: Monthly Housing Payment
+      hint: Rent or mortgage amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: time_at_address
+      label: Time at Current Address
+      hint: How long have you lived here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 17
+      name: previous_address
+      label: Previous Address
+      hint: If less than 3 years at current
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employment_info
+      label: Employment Information
+      hint: Tell us about your employment
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: employer_name
+      label: Employer Name
+      hint: Current employer
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employer_address
+      label: Employer Address
+      hint: Work address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employment_phone
+      label: Employment Phone
+      hint: Work phone number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employment_length
+      label: Length of Employment
+      hint: How long employed
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 24
+      name: annual_income
+      label: Gross Annual Income
+      hint: Total income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: other_income
+      label: Other Income
+      hint: Additional income sources
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: income_source
+      label: Other Income Source
+      hint: Where does other income come from
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Details about the vehicle
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: vehicle_trim
+      label: Trim Level
+      hint: Trim or package
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: vehicle_price
+      label: Vehicle Purchase Price
+      hint: Total purchase price
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: mileage
+      label: Vehicle Mileage
+      hint: Current odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: New or used
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      required: true
+    - id: 36
+      name: loan_info
+      label: Loan Information
+      hint: Loan details
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: loan_amount
+      label: Desired Loan Amount
+      hint: How much do you want to borrow
+      type: number
+      options: []
+      required: true
+    - id: 38
+      name: down_payment
+      label: Down Payment Amount
+      hint: Amount you will put down
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: trade_in_value
+      label: Trade-In Value
+      hint: Estimated trade-in value
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: trade_in_vehicle
+      label: Trade-In Vehicle
+      hint: Year Make Model of trade-in
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: loan_term
+      label: Preferred Loan Term
+      hint: How many months
+      type: select_one
+      options:
+      - 36 months
+      - 48 months
+      - 60 months
+      - 72 months
+      - 84 months
+      required: true
+    - id: 42
+      name: monthly_payment_goal
+      label: Target Monthly Payment
+      hint: Desired monthly payment
+      type: number
+      options: []
+      required: false
+    - id: 43
+      name: financial_info
+      label: Financial Information
+      hint: Additional financial details
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: bank_name
+      label: Bank Name
+      hint: Your primary bank
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Both
+      required: true
+    - id: 46
+      name: monthly_expenses
+      label: Estimated Monthly Expenses
+      hint: Total monthly obligations
+      type: number
+      options: []
+      required: false
+    - id: 47
+      name: references
+      label: Personal References
+      hint: Provide a reference name and phone
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: authorization
+      label: Authorization and Certification
+      hint: I certify the information is true
+      type: select_one
+      options:
+      - I Agree and Certify
+      - I Do Not Agree
+      required: true
+    - id: 49
+      name: signature_date
+      label: Date of Application
+      hint: Today date
+      type: date
+      options: []
+      required: true

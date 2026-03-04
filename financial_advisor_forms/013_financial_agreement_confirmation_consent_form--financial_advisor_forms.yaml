@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Agreement Confirmation Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: client email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: agreement_reference
+      label: agreement reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: confirm_consent
+      label: confirm consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: confirm_signature
+      label: confirm signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: financial_agreement_reference
+      label: financial agreement reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: advisor_details
+      label: advisor details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: advisor_name
+      label: advisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: advisor_email
+      label: advisor email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: advisor_phone
+      label: advisor phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: advisor_license
+      label: advisor license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: advisor_address
+      label: advisor address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: confirm_agreement
+      label: confirm agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: confirm_financials
+      label: confirm financials
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: confirm_signature
+      label: confirm signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: confirm_terms
+      label: confirm terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: confirm_advisor
+      label: confirm advisor
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: confirm_address
+      label: confirm address
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: financial_institution
+      label: financial institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

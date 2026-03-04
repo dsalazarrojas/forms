@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: hydrant_flow_test_form
+    pages:
+    - id: 1
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Firefighter Forms
+      - Other
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: hydrant_flow_test_form_description
+      label: A hydrant flow test form is used to check the flow rate of a hydrant
+        to see if it’s functioning properly.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 5
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gala Dinner Fundraising Event Feedback Form
+    pages:
+    - id: 1
+      name: gala_dinner_event
+      label: What was your impression of the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_rating
+      label: How would you rate the food?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: entertainment_rating
+      label: How would you rate the entertainment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Any additional feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_organizer
+      label: Who organized this event?
+      hint: Enter the name of the event organizer
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: select_one
+      label: What is your relationship with the event?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Donor''}'
+      - '{''label'': ''Attendee''}'
+      - '{''label'': ''Volunteer''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: select_multiple
+      label: What did you enjoy most?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Entertainment''}'
+      - '{''label'': ''Music''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: date_range
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_range
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: select_multiple
+      label: Select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Music''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Dancing''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: select_one
+      label: How would you rate the overall event?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 18
+      name: select_one
+      label: How likely are you to attend another event like this?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: select_one
+      label: How satisfied are you with the value of your donation?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: group_therapy_client_feedback_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_multiple
+      options:
+      - Client Name
+      - Date of Birth
+      - Contact Method
+      - Therapist Name
+      required: false
+    - id: 3
+      name: therapist_info
+      label: Therapist Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

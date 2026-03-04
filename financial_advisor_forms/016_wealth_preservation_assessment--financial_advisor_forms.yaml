@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Preservation Assessment
+    pages:
+    - id: 1
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: asset_details
+      label: Asset Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investment_strategy
+      label: Investment Strategy
+      hint: null
+      type: select_one
+      options:
+      - Aggressive
+      - Moderate
+      - Conservative
+      required: false
+    - id: 5
+      name: risk_free_return
+      label: Risk Free Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: asset_allocation
+      label: Asset Allocation
+      hint: null
+      type: select_multiple
+      options:
+      - Bonds
+      - Stocks
+      - Real Estate
+      - Cash and Equivalents
+      required: false
+    - id: 8
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: text
+      options: []
+      required: false

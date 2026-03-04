@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Community Network Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Gaming
+      - Non Gaming
+      required: false
+    - id: 6
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_multiple
+      options:
+      - Casual
+      - Active
+      - Elite
+      - VIP
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: gaming_experience
+      label: Gaming Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: games_played
+      label: Games Played
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Moderator
+      - Leader
+      - Admin
+      required: false
+    - id: 13
+      name: agree_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 14
+      name: agree_rules
+      label: Agree to Rules
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 15
+      name: agree_code_of_conduct
+      label: Agree to Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 16
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: member_since
+      label: Member Since
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: last_login
+      label: Last Login
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: total_time_spent
+      label: Total Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_members
+      label: Total Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_games_played
+      label: Total Games Played
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: last_game_played
+      label: Last Game Played
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: last_game_time
+      label: Last Game Time
+      hint: null
+      type: time
+      options: []
+      required: false

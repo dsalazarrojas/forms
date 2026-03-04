@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Fundraising Declaration Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ein_number
+      label: EIN or Tax ID Number
+      hint: Employer identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Person Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: campaign_name
+      label: Campaign Name
+      hint: Official campaign name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: campaign_purpose
+      label: Campaign Purpose
+      hint: Describe the purpose
+      type: select_one
+      options:
+      - Political candidate support
+      - Issue advocacy
+      - Charitable fundraising
+      - Building fund
+      - General operating support
+      - Emergency relief
+      - Other
+      required: true
+    - id: 13
+      name: fundraising_goal
+      label: Fundraising Goal Amount
+      hint: Target amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: fundraising_start_date
+      label: Fundraising Start Date
+      hint: When did or will it start
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: fundraising_end_date
+      label: Fundraising End Date
+      hint: Expected end date
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: fundraising_methods
+      label: Fundraising Methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Direct mail appeals
+      - Online donations
+      - Special events
+      - Telethons
+      - Grant applications
+      - Corporate sponsorships
+      - Individual major gifts
+      - Planned giving
+      - Crowdfunding
+      - Other
+      required: true
+    - id: 17
+      name: solicitation_type
+      label: Type of Solicitation
+      hint: How will you solicit
+      type: select_one
+      options:
+      - Public solicitation
+      - Private solicitation
+      - Member only
+      - Corporate only
+      - Mixed approach
+      required: true
+    - id: 18
+      name: professional_fundraiser
+      label: Are You Using a Professional Fundraiser
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - contracted
+      - Yes - in development
+      - No - all volunteer
+      - No - staff led
+      required: true
+    - id: 19
+      name: professional_fundraiser_name
+      label: Professional Fundraiser Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: professional_fundraiser_fee
+      label: Fundraiser Fee Structure
+      hint: Describe fee arrangement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: funds_usage
+      label: How Will Funds Be Used
+      hint: Describe usage
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: percentage_to_program
+      label: Percentage of Funds Going to Program
+      hint: Estimated percentage
+      type: select_one
+      options:
+      - 90-100 percent
+      - 80-89 percent
+      - 70-79 percent
+      - 60-69 percent
+      - Less than 60 percent
+      required: true
+    - id: 23
+      name: financial_reporting
+      label: Will You Provide Financial Reports to Donors
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - publicly available
+      - Yes - to donors only
+      - false
+      - Undecided
+      required: true
+    - id: 24
+      name: donor_acknowledgment
+      label: How Will You Acknowledge Donors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal thank you letter
+      - Email receipt
+      - Public recognition
+      - Donor wall
+      - Annual report listing
+      - No acknowledgment
+      - Other
+      required: true
+    - id: 25
+      name: legal_compliance
+      label: Are You Compliant with State Solicitation Laws
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - fully compliant
+      - In process
+      - Need guidance
+      - Not sure
+      required: true
+    - id: 26
+      name: registration_status
+      label: Charity Registration Status
+      hint: Select status
+      type: select_one
+      options:
+      - Registered in all required states
+      - Registered in some states
+      - Not yet registered
+      - Exempt from registration
+      required: true
+    - id: 27
+      name: declaration_statement
+      label: Declaration Statement
+      hint: I declare this information is accurate
+      type: select_one
+      options:
+      - Yes - I declare and certify
+      - false
+      required: true
+    - id: 28
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Management Loan Inquiry
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_info
+      label: Loan Information
+      hint: What type of loan are you interested in?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: Date of last review
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow Up
+      hint: Schedule a follow up in 1 week?
+      type: select_multiple
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 6
+      name: loan_request
+      label: Loan Request
+      hint: null
+      type: note
+      options: []
+      required: false

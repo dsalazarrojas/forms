@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Donor Information Collection
+    pages:
+    - id: 1
+      name: donation_date
+      label: Donation Date
+      hint: Date of donation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: Full name of donor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_type
+      label: Donor Type
+      hint: Type of donor
+      type: select_one
+      options:
+      - Individual
+      - Couple
+      - Family
+      - Foundation
+      - Corporation
+      - Trust
+      - Estate
+      required: true
+    - id: 4
+      name: donor_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: donor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: donor_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: donor_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: donor_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donor_country
+      label: Country
+      hint: Country
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount of donation
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: donation_frequency
+      label: Donation Frequency
+      hint: Is this a recurring donation
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 13
+      name: donation_designation
+      label: Donation Designation
+      hint: How should your donation be used
+      type: select_one
+      options:
+      - Where Most Needed
+      - Land Acquisition
+      - Land Stewardship
+      - Education Programs
+      - Research
+      - Wildlife Conservation
+      - Water Conservation
+      - Forest Conservation
+      - Other
+      required: true
+    - id: 14
+      name: donation_designation_other
+      label: Other Designation
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Stock Transfer
+      - Cryptocurrency
+      - Donor Advised Fund
+      - Other
+      required: true
+    - id: 16
+      name: honor_memory
+      label: Is This Donation In Honor or Memory
+      hint: Dedicate your donation
+      type: select_one
+      options:
+      - Yes - In Honor
+      - Yes - In Memory
+      - false
+      required: true
+    - id: 17
+      name: honoree_name
+      label: Honoree Name
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notification_sent
+      label: Should Notification Be Sent
+      hint: Should family be notified of tribute
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: notification_address
+      label: Notification Address
+      hint: Address for tribute notification
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employer_match
+      label: Is Your Employer Matching Gift
+      hint: Will your employer match donation
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: employer_name
+      label: Employer Name
+      hint: Name of employer if matching
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_interest
+      label: Are You Interested in Volunteering
+      hint: Would you like to volunteer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: volunteer_areas
+      label: Volunteer Areas of Interest
+      hint: Select all that interest you
+      type: select_multiple
+      options:
+      - Land Stewardship
+      - Trail Maintenance
+      - Education Outreach
+      - Fundraising
+      - Event Support
+      - Administrative Support
+      - Research Assistance
+      - Wildlife Monitoring
+      - Other
+      required: false
+    - id: 24
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How would you like to hear from us
+      type: select_multiple
+      options:
+      - Email Newsletter
+      - Postal Mail
+      - Phone Calls
+      - Event Invitations
+      - Impact Reports
+      - None
+      required: true
+    - id: 25
+      name: donor_advised
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Event
+      - Mail
+      - Search Engine
+      - Other
+      required: false
+    - id: 26
+      name: previous_donor
+      label: Have You Donated Before
+      hint: Are you a returning donor
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: tax_receipt
+      label: Tax Receipt Needed
+      hint: Do you need a tax receipt
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: donor_signature
+      label: Donor Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: donation_status
+      label: Donation Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Pending
+      - Received
+      - Processed
+      - Acknowledged
+      - Completed
+      required: true

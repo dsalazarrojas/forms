@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Tournaments Stream Booking
+    pages:
+    - id: 1
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 2
+      name: streamer_name
+      label: Streamer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: streamer_email
+      label: Streamer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: game_id
+      label: Game ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: streamer_phone
+      label: Streamer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: streamer_notes
+      label: Streamer Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: streamer_agenda
+      label: Streamer Agenda
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: stream_start_date
+      label: Stream Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: stream_end_date
+      label: Stream End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: stream_duration
+      label: Stream Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: streamer_agenda_id
+      label: Streamer Agenda ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: streamer_slots
+      label: Streamer Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: streamer_stream_type
+      label: Streamer Stream Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: streamer_stream_format
+      label: Streamer Stream Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: streamer_stream_quality
+      label: Streamer Stream Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 17
+      name: streamer_stream_link
+      label: Streamer Stream Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: streamer_stream_link_type
+      label: Streamer Stream Link Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: streamer_stream_password
+      label: Streamer Stream Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: streamer_stream_password_note
+      label: Streamer Stream Password Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: streamer_stream_password_required
+      label: Streamer Stream Password Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: streamer_stream_timezone
+      label: Streamer Stream Timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: streamer_stream_timezone_notes
+      label: Streamer Stream Timezone Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: streamer_stream_timezone_required
+      label: Streamer Stream Timezone Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: text
+      options: []
+      required: true

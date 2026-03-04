@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: payu_donation_form
+    pages:
+    - id: 1
+      name: donator_name
+      label: Donator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donator_email
+      label: Donator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donator_phone
+      label: Donator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: amount_donation
+      label: Amount Donation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purpose_donation
+      label: Purpose of Donation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''creditcard''}'
+      - '{''id'': 2, ''name'': ''paypal''}'
+      - '{''id'': 3, ''name'': ''banktransfer''}'
+      required: true
+    - id: 7
+      name: donation_status
+      label: Donation Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''accepted''}'
+      - '{''id'': 3, ''name'': ''declined''}'
+      - '{''id'': 4, ''name'': ''canceled''}'
+      required: true

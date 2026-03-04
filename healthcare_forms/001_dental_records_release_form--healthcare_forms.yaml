@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: First Name
+      hint: Patient's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Patient's last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_record_release_type
+      label: Medical Record Release Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medical_record_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_record_release_note
+      label: Medical Record Release Note
+      hint: null
+      type: text
+      options: []
+      required: false

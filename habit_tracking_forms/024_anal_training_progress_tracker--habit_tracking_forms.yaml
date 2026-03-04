@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anal Training Progress Tracker
+    pages:
+    - id: 1
+      name: section_session_entry
+      label: -- Session Entry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Session date
+      hint: Date of the training session
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: duration_minutes
+      label: Duration in minutes
+      hint: Length of session
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: difficulty_rating
+      label: Difficulty rating
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: false
+    - id: 5
+      name: notes
+      label: Notes on progress
+      hint: Observations and next steps
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_goal
+      label: Next session goal
+      hint: Target for next session
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coach_name
+      label: Coach name
+      hint: Optional coach or supervisor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mood_before
+      label: Mood before session
+      hint: Select one
+      type: select_one
+      options:
+      - Low
+      - Neutral
+      - High
+      required: false
+    - id: 9
+      name: mood_after
+      label: Mood after session
+      hint: Select one
+      type: select_one
+      options:
+      - Low
+      - Neutral
+      - High
+      required: false

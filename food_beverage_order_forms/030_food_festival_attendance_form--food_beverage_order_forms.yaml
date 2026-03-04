@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Festival Attendance Form
+    pages:
+    - id: 1
+      name: festival_name
+      label: Food Festival Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_name
+      label: Organiser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organizer_email
+      label: Organiser Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Attendee Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: checkin_time
+      label: Checkin Time
+      hint: 720
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

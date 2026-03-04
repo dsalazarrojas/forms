@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Letter Guess Game Submission
+    pages:
+    - id: 1
+      name: letter_guess_game_submission
+      label: letter_guess_game_submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contest_entries
+      label: contest_entries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false

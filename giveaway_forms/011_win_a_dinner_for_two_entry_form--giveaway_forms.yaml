@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: win-a-dinner-for-two-entry-form
+    pages:
+    - id: 1
+      name: win_a_dinner_for_two_entry_form_page_1
+      label: Enter your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: win_a_dinner_for_two_entry_form_page_1
+      label: Enter your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: win_a_dinner_for_two_entry_form_page_1
+      label: Confirm your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Select your prize preference
+      hint: Select the size of your party
+      type: select_one
+      options:
+      - Dinner for 2
+      - Dinner for 4
+      - Dinner for 6
+      required: true
+    - id: 5
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Confirm prize preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Select a date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Select a time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Select a restaurant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Win a prize
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: win_a_dinner_for_two_entry_form_page_2
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: win_a_dinner_for_two_entry_form_page_3
+      label: Confirm your entry
+      hint: Check the boxes
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: win_a_dinner_for_two_entry_form_page_3
+      label: Confirm your entry
+      hint: Check the boxes
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

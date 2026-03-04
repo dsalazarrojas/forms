@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_claim_form_template
+    pages:
+    - id: 1
+      name: provider_info
+      label: provider info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_info
+      label: billing info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_claim
+      label: medical claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_date
+      label: claim date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submit_date
+      label: submit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: claim amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_status
+      label: claim status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 8
+      name: claim_reason
+      label: claim reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_name
+      label: provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_license
+      label: provider license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_address
+      label: patient address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_dob
+      label: patient dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: claim_notes
+      label: claim notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_license
+      label: submitter license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_address
+      label: submitter address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claim_type
+      label: claim type
+      hint: null
+      type: select_one
+      options:
+      - claim
+      - adjustment
+      - appeal
+      - correction
+      required: false
+    - id: 19
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claim_provider_fee
+      label: claim provider fee
+      hint: null
+      type: number
+      options: []
+      required: false

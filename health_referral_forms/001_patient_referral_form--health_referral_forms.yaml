@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: patient referral form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referring_physician
+      label: Referring Physician
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Dr Smith''}'
+      - '{''id'': 2, ''name'': ''Dr Johnson''}'
+      - '{''id'': 3, ''name'': ''Dr Davis''}'
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referring_reason
+      label: Referring Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referring_specialty
+      label: Referring Specialty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cardiology''}'
+      - '{''id'': 2, ''name'': ''Neurology''}'
+      - '{''id'': 3, ''name'': ''Dermatology''}'
+      required: true
+    - id: 8
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referral_date
+      label: Referral Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_insurance
+      label: Patient Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: referral_signature
+      label: Referral Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 20
+      name: referring_physician_notes
+      label: Referring Physician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_referral_comments
+      label: Patient Referral Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone_2
+      label: Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_email_2
+      label: Contact Email 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Cancelled''}'
+      required: true

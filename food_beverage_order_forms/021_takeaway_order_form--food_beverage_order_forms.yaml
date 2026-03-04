@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Takeaway Order Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_presentation
+      label: Food Presentation
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Apple Pie
+      - Apple Pie with Ice Cream
+      - Banana Split
+      - Banana Split with Chocolate Sauce
+      - Banana Split with Whipped Cream
+      - Cherry Pie
+      - Fruit Salad
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Special Request 1
+      - Special Request 2
+      - Special Request 3
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Phone
+      - Address
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: special_request_01
+      label: Special Request 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_request_02
+      label: Special Request 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ayurvedic Center Medical Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: We will use this to contact you
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: In case of emergency during treatment
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_concern
+      label: Primary Health Concern
+      hint: What brings you to our Ayurvedic Center today
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_symptoms
+      label: Current Symptoms
+      hint: List any symptoms you are experiencing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: List any chronic conditions or past surgeries
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_medications
+      label: Current Medications
+      hint: Include dosage and frequency
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: Include food, medication, and environmental allergies
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ayurvedic_experience
+      label: Previous Ayurvedic Treatment Experience
+      hint: Have you received Ayurvedic treatment before
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, first time
+      - Not sure
+      required: true
+    - id: 13
+      name: lifestyle_habits
+      label: Lifestyle Habits
+      hint: Diet, exercise, sleep patterns
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stress_level
+      label: Current Stress Level
+      hint: Rate your stress on a scale of 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: treatment_goals
+      label: Treatment Goals
+      hint: What do you hope to achieve with Ayurvedic treatment
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: consent_to_treatment
+      label: Consent to Ayurvedic Treatment
+      hint: I understand and consent to receive Ayurvedic treatments
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

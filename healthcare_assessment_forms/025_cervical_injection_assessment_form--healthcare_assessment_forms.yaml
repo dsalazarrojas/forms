@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cervical Injection Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: procedure_date
+      label: Procedure Date
+      hint: Date of cervical injection procedure
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: performing_physician
+      label: Performing Physician
+      hint: Name of physician who performed injection
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: injection_type
+      label: Injection Type
+      hint: Type of cervical injection
+      type: select_one
+      options:
+      - Epidural steroid injection
+      - Facet joint injection
+      - Nerve root block
+      - Trigger point injection
+      - Medial branch block
+      - Other
+      required: true
+    - id: 8
+      name: injection_level
+      label: Injection Level
+      hint: Cervical level injected
+      type: select_one
+      options:
+      - C1-C2
+      - C2-C3
+      - C3-C4
+      - C4-C5
+      - C5-C6
+      - C6-C7
+      - C7-T1
+      - Multiple levels
+      required: true
+    - id: 9
+      name: laterality
+      label: Laterality
+      hint: Which side was injected
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Bilateral
+      - Midline
+      required: true
+    - id: 10
+      name: imaging_guidance
+      label: Imaging Guidance
+      hint: Type of guidance used
+      type: select_one
+      options:
+      - Fluoroscopy
+      - Ultrasound
+      - CT guidance
+      - None
+      required: true
+    - id: 11
+      name: contrast_used
+      label: Contrast Used
+      hint: Was contrast agent used
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: medication_administered
+      label: Medication Administered
+      hint: List medications injected
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dosage
+      label: Dosage
+      hint: Total dosage administered
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: pre_procedure_pain
+      label: Pre-Procedure Pain Level
+      hint: Pain level before injection 0-10
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: procedure_tolerance
+      label: Procedure Tolerance
+      hint: How well did patient tolerate procedure
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: complications
+      label: Complications
+      hint: Were there any complications
+      type: select_one
+      options:
+      - None
+      - Minor bleeding
+      - Vasovagal reaction
+      - Allergic reaction
+      - Nerve irritation
+      - Other
+      required: true
+    - id: 17
+      name: complication_details
+      label: Complication Details
+      hint: Describe any complications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: post_procedure_pain
+      label: Post-Procedure Pain Level
+      hint: Pain level after injection 0-10
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: discharge_instructions
+      label: Discharge Instructions Given
+      hint: Were discharge instructions provided
+      type: select_one
+      options:
+      - Yes - Written and verbal
+      - Yes - Verbal only
+      - Yes - Written only
+      - false
+      required: true
+    - id: 20
+      name: follow_up_scheduled
+      label: Follow-up Scheduled
+      hint: Is follow-up appointment scheduled
+      type: select_one
+      options:
+      - Yes - Date scheduled
+      - No - Will schedule
+      - No follow-up needed
+      required: true
+    - id: 21
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date of follow-up appointment
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assessment_notes
+      label: Assessment Notes
+      hint: Additional clinical notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physician_signature
+      label: Physician Signature
+      hint: Physician type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

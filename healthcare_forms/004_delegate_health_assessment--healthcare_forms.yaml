@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: delegate_health_assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: surgical_procedure
+      label: Surgical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delegate_health_assessment_scale
+      label: Delegate Health Assessment Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Mild''}'
+      - '{''id'': 3, ''label'': ''Moderate''}'
+      - '{''id'': 4, ''label'': ''Severe''}'
+      required: false
+    - id: 8
+      name: delegate_health_assessment_score
+      label: Delegate Health Assessment Score
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: delegate_health_assessment_note
+      label: Delegate Health Assessment Note
+      hint: null
+      type: text
+      options: []
+      required: false

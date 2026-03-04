@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Consultation Form
+    pages:
+    - id: 1
+      name: section_header_patient
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Known Allergies
+      hint: List any allergies to medications or substances
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_medications
+      label: Current Medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: neuromuscular_disorder
+      label: History of neuromuscular disorders
+      hint: Myasthenia gravis, ALS, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 11
+      name: pregnancy_status
+      label: Are you pregnant or planning to become pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: breastfeeding
+      label: Currently breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 13
+      name: bleeding_disorders
+      label: Any bleeding disorders or anticoagulant use
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: section_header_consultation
+      label: -- Consultation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_botox
+      label: Have you had Botox before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: treatment_areas
+      label: Desired treatment areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Forehead
+      - Between eyebrows
+      - Crow feet
+      - Other facial areas
+      - Other
+      required: true
+    - id: 17
+      name: treatment_goals
+      label: Primary treatment goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: realistic_expectations
+      label: Do you understand realistic outcomes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Have questions
+      required: true
+    - id: 19
+      name: section_header_consent
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: risks_understood
+      label: I understand the risks and benefits
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I agree
+      - I need more information
+      required: true
+    - id: 21
+      name: consultation_agreement
+      label: I consent to this consultation
+      hint: Check box to proceed
+      type: select_one
+      options:
+      - I agree and consent
+      - I do not consent
+      required: true

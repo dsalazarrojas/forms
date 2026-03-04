@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Signup For Gatherings
+    pages:
+    - id: 1
+      name: potluck_name
+      label: potluck_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: host_name
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dish_name
+      label: dish_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: serving_size
+      label: serving_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: serving_info
+      label: serving_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      - Label 4
+      - Label 5
+      - Label 6
+      - Label 7
+      - Label 8
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dish_type
+      label: dish_type
+      hint: null
+      type: select_multiple
+      options:
+      - Veggie
+      - Meat
+      - Dairy
+      - Dessert
+      - Other
+      required: false
+    - id: 12
+      name: ingredients
+      label: ingredients
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: allergy
+      label: allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergy_info
+      label: allergy_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: food_group
+      label: food_group
+      hint: null
+      type: select_one
+      options:
+      - Fruits
+      - Grains
+      - Dairy
+      - Proteins
+      - Veggies
+      - Other
+      required: true
+    - id: 16
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Beverages
+      - Desserts
+      - Main Course
+      - Side
+      - Snack
+      required: false
+    - id: 17
+      name: serving_type
+      label: serving_type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Potluck
+      required: true
+    - id: 18
+      name: num_people
+      label: num_people
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: food_type
+      label: food_type
+      hint: null
+      type: select_one
+      options:
+      - Salads
+      - Sweets
+      - Savory
+      - Baked
+      - Fresh
+      required: true
+    - id: 20
+      name: serving_location
+      label: serving_location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Restaurant
+      - Park
+      required: true
+    - id: 21
+      name: serving_time
+      label: serving_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: serving_date
+      label: serving_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: serving_frequency
+      label: serving_frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: serving_time_frequency
+      label: serving_time_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: serving_location_frequency
+      label: serving_location_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true

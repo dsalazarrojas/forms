@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdfunding Pledge Claim Form
+    pages:
+    - id: 1
+      name: supporter_name
+      label: supporter name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supporter_email
+      label: supporter email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: pledge_date
+      label: pledge date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pledge_amount
+      label: pledge amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: supporter_phone
+      label: supporter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporter_address
+      label: supporter address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporter_notes
+      label: supporter notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporter_type
+      label: supporter type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Organization
+      - Business
+      - Other
+      required: false
+    - id: 10
+      name: supporter_status
+      label: supporter status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Archived
+      required: false
+    - id: 11
+      name: supporter_category
+      label: supporter category
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      - Both
+      required: false
+    - id: 12
+      name: campaign_name
+      label: campaign name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: campaign_type
+      label: campaign type
+      hint: null
+      type: select_one
+      options:
+      - Donation
+      - Pledge
+      - Auction
+      required: false
+    - id: 14
+      name: campaign_status
+      label: campaign status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Archived
+      required: false
+    - id: 15
+      name: campaign_category
+      label: campaign category
+      hint: null
+      type: select_one
+      options:
+      - Fundraiser
+      - Donation
+      - Pledge
+      required: false
+    - id: 16
+      name: campaign_goal
+      label: campaign goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: campaign_currency
+      label: campaign currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 18
+      name: campaign_total
+      label: campaign total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: campaign_target
+      label: campaign target
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: donor_name
+      label: donor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: donor_email
+      label: donor email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: donor_phone
+      label: donor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: donor_address
+      label: donor address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: donor_notes
+      label: donor notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: donor_category
+      label: donor category
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Organization
+      - Business
+      - Other
+      required: false

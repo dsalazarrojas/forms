@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: flu_mask_compliance_form
+    pages:
+    - id: 1
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: flu_status
+      label: Flu Status
+      hint: null
+      type: select_one
+      options:
+      - Flu
+      - No Flu
+      required: true
+    - id: 3
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: select_multiple
+      options:
+      - In Person
+      - Phone
+      - No Contact
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - In Person
+      - Phone
+      - Email
+      - Text
+      required: true
+    - id: 5
+      name: flu_symptoms
+      label: Flu Symptoms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: flu_exposure
+      label: Flu Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: flu_exposure_start
+      label: Flu Exposure Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: flu_exposure_end
+      label: Flu Exposure End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: flu_exposure_duration
+      label: Flu Exposure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: flu_type
+      label: Flu Type
+      hint: null
+      type: select_one
+      options:
+      - Influenza A
+      - Influenza B
+      - Other
+      required: true
+    - id: 11
+      name: flu_symptoms_other
+      label: Flu Symptoms Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: flu_medicine_used
+      label: Flu Medicine Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

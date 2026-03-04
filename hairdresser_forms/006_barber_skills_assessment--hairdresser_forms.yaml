@@ -1,0 +1,273 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Barber Skills Assessment
+    pages:
+      - id: 1
+        name: barber_name
+        label: Barber Name
+        hint: Full name of the barber being assessed
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of this skills evaluation
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Name of the person conducting assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: years_experience
+        label: Years of Experience
+        hint: How long has this barber been practicing
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 2 years
+          - 3 to 5 years
+          - 6 to 10 years
+          - More than 10 years
+        required: true
+      - id: 5
+        name: haircut_precision
+        label: Haircut Precision and Accuracy
+        hint: Rate the barbers cutting technique
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 6
+        name: clipper_technique
+        label: Clipper Technique
+        hint: Evaluate clipper handling and fade quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 7
+        name: scissor_work
+        label: Scissor Work
+        hint: Evaluate scissor cutting skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 8
+        name: beard_trimming
+        label: Beard Trimming Skills
+        hint: Rate beard shaping and trimming ability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Not applicable
+        required: true
+      - id: 9
+        name: shave_technique
+        label: Shave Technique
+        hint: Evaluate straight razor shave skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Not applicable
+        required: true
+      - id: 10
+        name: customer_service
+        label: Customer Service Skills
+        hint: Rate interaction with clients
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 11
+        name: communication
+        label: Communication Skills
+        hint: Ability to understand client needs
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 12
+        name: sanitation_practices
+        label: Sanitation and Hygiene Practices
+        hint: Evaluate cleanliness and safety protocols
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 13
+        name: workstation_organization
+        label: Workstation Organization
+        hint: Rate organization and setup of station
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 14
+        name: time_management
+        label: Time Management
+        hint: Ability to complete services on schedule
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 15
+        name: product_knowledge
+        label: Product Knowledge
+        hint: Understanding of hair products and recommendations
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 16
+        name: versatility
+        label: Style Versatility
+        hint: Ability to perform various haircut styles
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 17
+        name: speed
+        label: Service Speed
+        hint: Efficiency without compromising quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 18
+        name: consistency
+        label: Consistency
+        hint: Quality consistency across clients
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 19
+        name: overall_rating
+        label: Overall Performance Rating
+        hint: Overall assessment of barber skills
+        type: select_one
+        options:
+          - Exceeds expectations
+          - Meets expectations
+          - Below expectations
+          - Unsatisfactory
+        required: true
+      - id: 20
+        name: strengths
+        label: Key Strengths
+        hint: List the barbers main strengths
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: areas_improvement
+        label: Areas for Improvement
+        hint: Identify areas needing development
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: training_recommendations
+        label: Training Recommendations
+        hint: Suggest specific training or courses
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: promotion_ready
+        label: Ready for Promotion
+        hint: Is this barber ready for advancement
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe in the future
+          - Not at this time
+        required: true
+      - id: 24
+        name: evaluator_signature
+        label: Evaluator Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: barber_signature
+        label: Barber Acknowledgment Signature
+        hint: Barber signs to acknowledge assessment
+        type: text
+        options: []
+        required: false

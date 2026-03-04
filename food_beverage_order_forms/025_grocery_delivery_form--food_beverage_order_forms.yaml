@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grocery Delivery Form
+    pages:
+    - id: 1
+      name: grocery_delivery_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grocery_list
+      label: Grocery List
+      hint: List your groceries
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_method
+      label: Delivery Method
+      hint: Select a delivery method
+      type: select_one
+      options:
+      - Home Delivery
+      - Store Pickup
+      - Both
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      required: false
+    - id: 17
+      name: agree
+      label: Agree
+      hint: Check the terms and conditions
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      required: false

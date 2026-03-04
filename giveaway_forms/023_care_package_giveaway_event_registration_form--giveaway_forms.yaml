@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Package Giveaway Event Registration Form
+    pages:
+    - id: 1
+      name: event_header
+      label: -- Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: For pickup coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Optional for updates
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: preferred_pickup_time
+      label: Preferred pickup time
+      hint: Select time window
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: number_of_packages_needed
+      label: Number of packages needed
+      hint: Enter number required
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dietary_or_allergy_notes
+      label: Dietary or allergy notes
+      hint: List any relevant restrictions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pickup_location_preference
+      label: Pickup location preference
+      hint: Choose a pickup site
+      type: select_one
+      options:
+      - Main site
+      - Satellite site
+      - Home delivery request
+      required: false
+    - id: 9
+      name: consent_to_share_contact
+      label: Consent to share contact for coordination
+      hint: Allow sharing with volunteers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dyspnea Assessment Survey
+    pages:
+    - id: 1
+      name: page1
+      label: Dyspnea Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shortness_of_breath_severity
+      label: Shortness of Breath Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: triggers
+      label: Triggers
+      hint: null
+      type: select_multiple
+      options:
+      - No triggers
+      - All the time
+      - Only during exercise
+      - Only at rest
+      - Variable
+      required: true
+    - id: 4
+      name: history
+      label: History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: respiratory_system_symptoms
+      label: Respiratory System Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cardiovascular_system_symptoms
+      label: Cardiovascular System Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: neurological_system_symptoms
+      label: Neurological System Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: respiratory_system_symptoms2
+      label: Other Respiratory System Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cardiovascular_system_symptoms2
+      label: Other Cardiovascular System Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: neurological_system_symptoms2
+      label: Other Neurological System Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page2
+      label: Dyspnea Assessment - Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_of_last_event
+      label: Date of Last Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: symptoms_since_last_event
+      label: Symptoms Since Last Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: respiratory_system_symptoms_since_last_event
+      label: Respiratory System Symptoms Since Last Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cardiovascular_system_symptoms_since_last_event
+      label: Cardiovascular System Symptoms Since Last Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: neurological_system_symptoms_since_last_event
+      label: Neurological System Symptoms Since Last Event
+      hint: null
+      type: text
+      options: []
+      required: false

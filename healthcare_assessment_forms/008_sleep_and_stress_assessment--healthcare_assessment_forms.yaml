@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep And Stress Assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sleep_quality
+      label: How would you rate your sleep quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sleep_duration
+      label: Sleep duration (hours)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: stress_level
+      label: Level of stress
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: stress_factors
+      label: Stress factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: relaxation_tech_used
+      label: What kind of relaxation tech do you use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: wake_up_time
+      label: Wake-up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: morning_feeling
+      label: Morning feeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sleep_stages
+      label: Sleep stages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

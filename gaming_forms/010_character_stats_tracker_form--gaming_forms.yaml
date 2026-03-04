@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Stats Tracker Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: character_name
+      label: Character Name
+      hint: Character name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_name
+      label: Campaign Name
+      hint: Current campaign
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tracking_date
+      label: Tracking Date
+      hint: Date of update
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_level
+      label: Current Level
+      hint: Character level
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: strength_stat
+      label: Strength
+      hint: STR value
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dexterity_stat
+      label: Dexterity
+      hint: DEX value
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: constitution_stat
+      label: Constitution
+      hint: CON value
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: intelligence_stat
+      label: Intelligence
+      hint: INT value
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: wisdom_stat
+      label: Wisdom
+      hint: WIS value
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: charisma_stat
+      label: Charisma
+      hint: CHA value
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: current_hp
+      label: Current Hit Points
+      hint: Current HP
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: max_hp
+      label: Maximum Hit Points
+      hint: Max HP
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: armor_class
+      label: Armor Class
+      hint: AC value
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: speed
+      label: Speed
+      hint: Movement speed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: proficiency_bonus
+      label: Proficiency Bonus
+      hint: Proficiency value
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: saving_throws
+      label: Saving Throw Proficiencies
+      hint: List proficient saves
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: skill_proficiencies
+      label: Skill Proficiencies
+      hint: List skilled areas
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_gold
+      label: Current Gold
+      hint: Currency on hand
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: inventory_changes
+      label: Inventory Changes
+      hint: Items gained or lost
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: level_progress
+      label: Progress to Next Level
+      hint: XP percentage or amount
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: stat_changes
+      label: Any Stat Changes This Session
+      hint: Describe improvements
+      type: text
+      options: []
+      required: false

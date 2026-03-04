@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: N95 Fit Test Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tester_name
+      label: Tester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wearer_name
+      label: Wearer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wearer_position
+      label: Wearer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wearer_department
+      label: Wearer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wearer_location
+      label: Wearer Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: respirator_type
+      label: Respirometer Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_sequence
+      label: Test Sequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tester_comments
+      label: Tester Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wearer_comments
+      label: Wearer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: fit_test_result
+      label: Fit Test Result
+      hint: null
+      type: select_one
+      options:
+      - Not Fit
+      - Fit
+      - Not Fit
+      required: true
+    - id: 14
+      name: test_conducted_by
+      label: Test Conducted By
+      hint: null
+      type: select_multiple
+      options:
+      - Test Conductor 1
+      - Test Conductor 2
+      - Test Conductor 3
+      required: true
+    - id: 15
+      name: form_complete_by
+      label: Form Complete By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_complete_date
+      label: Form Complete Date
+      hint: null
+      type: date
+      options: []
+      required: false

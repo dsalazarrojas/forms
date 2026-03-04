@@ -1,0 +1,421 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Study Data Collection
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinical Study Data Collection Form
+      hint: This form collects participant data for clinical research studies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_id
+      label: Study ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: site_id
+      label: Study Site ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: site_name
+      label: Study Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_id
+      label: Participant Study ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visit_number
+      label: Visit Number
+      hint: e.g. Visit 1 Screening Visit 2 etc.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: data_collector_name
+      label: Data Collector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: data_collector_role
+      label: Data Collector Role
+      hint: null
+      type: select_one
+      options:
+      - Principal Investigator
+      - Co-Investigator
+      - Research Coordinator
+      - Research Nurse
+      - Study Assistant
+      - Other
+      required: true
+    - id: 11
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 13
+      name: participant_race
+      label: Participant Race
+      hint: null
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: participant_ethnicity
+      label: Participant Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 15
+      name: height_cm
+      label: Height in cm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weight_kg
+      label: Weight in kg
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: bmi_calculated
+      label: BMI
+      hint: Calculated
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: bp_systolic
+      label: Blood Pressure Systolic
+      hint: mmHg
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: bp_diastolic
+      label: Blood Pressure Diastolic
+      hint: mmHg
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: heart_rate
+      label: Heart Rate
+      hint: bpm
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: temperature
+      label: Temperature
+      hint: Celsius
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: respiratory_rate
+      label: Respiratory Rate
+      hint: breaths per minute
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: percentage
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: diagnosis_code
+      label: Diagnosis Code ICD-10
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medical_history
+      label: Relevant Medical History
+      hint: Significant conditions surgeries
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: current_medications
+      label: Current Medications
+      hint: Name dose frequency
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: concomitant_medications
+      label: Concomitant Medications
+      hint: Other medications taken during study
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: allergies
+      label: Allergies
+      hint: Medication food other
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current
+      - Unknown
+      required: false
+    - id: 31
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current Occasional
+      - Current Regular
+      - Unknown
+      required: false
+    - id: 32
+      name: substance_use
+      label: Recreational Substance Use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current
+      - Unknown
+      - Decline to Answer
+      required: false
+    - id: 33
+      name: lab_tests_performed
+      label: Laboratory Tests Performed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Complete Blood Count
+      - Comprehensive Metabolic Panel
+      - Lipid Panel
+      - HbA1c
+      - Urinalysis
+      - Pregnancy Test
+      - Drug Screen
+      - Liver Function Tests
+      - Kidney Function Tests
+      - Thyroid Panel
+      - Other
+      required: false
+    - id: 34
+      name: lab_results_summary
+      label: Laboratory Results Summary
+      hint: Notable findings
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: adverse_events
+      label: Any Adverse Events Since Last Visit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 36
+      name: adverse_events_details
+      label: Adverse Events Details
+      hint: Describe nature severity relationship
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: serious_adverse_events
+      label: Any Serious Adverse Events
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 38
+      name: concomitant_illnesses
+      label: New Concomitant Illnesses
+      hint: Since last visit
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: protocol_deviations
+      label: Any Protocol Deviations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 40
+      name: protocol_deviations_details
+      label: Protocol Deviations Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: study_intervention_given
+      label: Study Intervention Administered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 42
+      name: intervention_details
+      label: Intervention Details
+      hint: Dose route time
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: compliance_assessment
+      label: Participant Compliance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 44
+      name: outcome_measures
+      label: Primary Outcome Measures
+      hint: Study-specific measurements
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: secondary_outcomes
+      label: Secondary Outcome Measures
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: assessment_comments
+      label: Assessment Comments
+      hint: Any relevant observations
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: data_quality_check
+      label: Data Quality Verified
+      hint: null
+      type: select_one
+      options:
+      - Yes Verified
+      - Pending Verification
+      - Has Discrepancies
+      required: true
+    - id: 48
+      name: data_entry_complete
+      label: Data Entry Complete
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 49
+      name: reviewer_name
+      label: Data Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Champagne Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: When ordering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When champagne is needed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: champagne_type
+      label: Champagne Type
+      hint: Select the type of champagne
+      type: select_one
+      options:
+      - Brut
+      - Extra Brut
+      - Dry
+      - Demi-Sec
+      - Sweet
+      - Rose
+      - Vintage
+      required: true
+    - id: 7
+      name: champagne_brand
+      label: Preferred Brand or Variety
+      hint: Specific champagne brand preference
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bottle_size
+      label: Bottle Size
+      hint: Select bottle size
+      type: select_one
+      options:
+      - 187ml Split
+      - 750ml Standard
+      - 1.5L Magnum
+      - 3L Jeroboam
+      - Custom Size
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity of Bottles
+      hint: Number of bottles
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_bottles
+      label: Total Bottles Needed
+      hint: Calculate for event size
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: price_preference
+      label: Price Range Preference
+      hint: Budget for champagne
+      type: select_one
+      options:
+      - Budget-Friendly
+      - Mid-Range
+      - Premium
+      - Luxury
+      required: false
+    - id: 12
+      name: event_type
+      label: Type of Event
+      hint: What is the champagne for
+      type: select_one
+      options:
+      - Wedding
+      - Anniversary
+      - Birthday
+      - Corporate Event
+      - Holiday Celebration
+      - Other
+      required: true
+    - id: 13
+      name: guest_count
+      label: Number of Guests
+      hint: Approximate guest count
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to deliver champagne
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_date
+      label: Delivery Date
+      hint: When champagne should arrive
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: delivery_method
+      label: Delivery Method
+      hint: How champagne will be delivered
+      type: select_one
+      options:
+      - Standard Delivery
+      - Expedited Delivery
+      - Pickup
+      - Event Venue Delivery
+      required: true
+    - id: 17
+      name: special_handling
+      label: Special Handling Instructions
+      hint: Temperature, setup, or service requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: glassware_needed
+      label: Champagne Glasses Included
+      hint: Need glasses with order
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: ice_service
+      label: Ice Service Needed
+      hint: Include chilling service
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Wire Transfer
+      - Invoice
+      required: true

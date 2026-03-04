@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Payable Check Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person requesting the check
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_department
+      label: Requestor Department
+      hint: Department of the person requesting the check
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: Date when the request is submitted
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: vendor_name
+      label: Vendor Name
+      hint: Name of the vendor or supplier to be paid
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_address
+      label: Vendor Address
+      hint: Complete address of the vendor or supplier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_tax_id
+      label: Vendor Tax ID
+      hint: Tax identification number of the vendor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number of the invoice to be paid
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: invoice_date
+      label: Invoice Date
+      hint: Date when the invoice was issued
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: amount_requested
+      label: Amount Requested
+      hint: Dollar amount to be paid to the vendor
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: expense_category
+      label: Expense Category
+      hint: Classification of the expense
+      type: select_one
+      options:
+      - Office Supplies
+      - Utilities
+      - Travel
+      - Professional Services
+      - Equipment
+      - Rent
+      - Insurance
+      - Other
+      required: true
+    - id: 11
+      name: payment_reason
+      label: Reason for Payment
+      hint: Brief description of what the payment is for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: approval_manager
+      label: Approval Manager
+      hint: Name of the manager approving this payment
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions for preparing or mailing the check
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List any supporting documents attached to this request
+      type: text
+      options: []
+      required: false

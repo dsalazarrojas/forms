@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Wealth Advisory Recommendations
+    pages:
+    - id: 1
+      name: client_goals
+      label: client goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_tolerance
+      label: risk tolerance
+      hint: null
+      type: select_one
+      options:
+      - Risk level 1
+      - Risk level 2
+      - Risk level 3
+      - Risk level 4
+      - Risk level 5
+      - Risk level 6
+      required: false
+    - id: 3
+      name: investment_preferences
+      label: investment preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Alternative Investments
+      required: false
+    - id: 4
+      name: risk_level
+      label: risk level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investment_horizon
+      label: investment horizon
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: investment_frequency
+      label: investment frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 7
+      name: investment_frequency_2
+      label: investment frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 8
+      name: investment_horizon_2
+      label: investment horizon
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: investment_preferences_2
+      label: investment preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Alternative Investments
+      required: false
+    - id: 10
+      name: risk_tolerance_2
+      label: risk tolerance
+      hint: null
+      type: select_one
+      options:
+      - Risk level 1
+      - Risk level 2
+      - Risk level 3
+      - Risk level 4
+      - Risk level 5
+      - Risk level 6
+      required: false

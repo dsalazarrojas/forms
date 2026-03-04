@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Packaging Film Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_selection
+      label: Product Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: order_review
+      label: Order Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: date
+      options: []
+      required: false

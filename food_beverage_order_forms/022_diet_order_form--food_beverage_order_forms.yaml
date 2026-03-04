@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diet Order Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_selection
+      label: Food Selection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Food 1'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Food 2'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''Food 3'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: beverage_selection
+      label: Beverage Selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

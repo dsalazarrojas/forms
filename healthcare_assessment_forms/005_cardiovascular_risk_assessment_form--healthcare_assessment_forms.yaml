@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender at Birth
+      hint: Used for risk calculation
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 4
+      name: ethnicity
+      label: Ethnicity
+      hint: Some risk factors vary by ethnicity
+      type: select_one
+      options:
+      - White/Caucasian
+      - Black/African American
+      - Hispanic/Latino
+      - Asian
+      - Native American
+      - Pacific Islander
+      - Mixed
+      - Other
+      required: false
+    - id: 5
+      name: height
+      label: Height
+      hint: In inches or centimeters
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: weight
+      label: Weight
+      hint: In pounds or kilograms
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: systolic_bp
+      label: Systolic Blood Pressure
+      hint: Top number (mmHg)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: diastolic_bp
+      label: Diastolic Blood Pressure
+      hint: Bottom number (mmHg)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: on_bp_medication
+      label: Currently Taking Blood Pressure Medication
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: smoker_status
+      label: Smoking Status
+      hint: Current smoking habits
+      type: select_one
+      options:
+      - Current smoker
+      - Former smoker (quit within past year)
+      - Former smoker (quit over a year ago)
+      - Never smoked
+      required: true
+    - id: 11
+      name: diabetes_status
+      label: Diabetes Status
+      hint: null
+      type: select_one
+      options:
+      - Type 1 Diabetes
+      - Type 2 Diabetes
+      - Prediabetes
+      - No diabetes
+      - Unknown
+      required: true
+    - id: 12
+      name: total_cholesterol
+      label: Total Cholesterol Level
+      hint: Most recent reading (mg/dL)
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: ldl_cholesterol
+      label: LDL Cholesterol
+      hint: Bad cholesterol (mg/dL)
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: hdl_cholesterol
+      label: HDL Cholesterol
+      hint: Good cholesterol (mg/dL)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: triglycerides
+      label: Triglycerides
+      hint: Most recent reading (mg/dL)
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: family_history_premature_cvd
+      label: Family History of Premature Cardiovascular Disease
+      hint: Male relative before 55, female relative before 65
+      type: select_one
+      options:
+      - Yes - first-degree relative
+      - Yes - distant relative only
+      - No known family history
+      - Unknown
+      required: true
+    - id: 17
+      name: physical_activity_level
+      label: Physical Activity Level
+      hint: Average per week
+      type: select_one
+      options:
+      - Sedentary (little to no exercise)
+      - Light (1-2 days per week)
+      - Moderate (3-4 days per week)
+      - Active (5+ days per week)
+      - Very active (daily intense exercise)
+      required: true
+    - id: 18
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: Average drinks per week
+      type: select_one
+      options:
+      - None
+      - Light (1-7 drinks per week)
+      - Moderate (8-14 drinks per week)
+      - Heavy (15+ drinks per week)
+      required: true
+    - id: 19
+      name: existing_conditions
+      label: Existing Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Coronary artery disease
+      - Previous heart attack
+      - Stroke or TIA
+      - Peripheral artery disease
+      - Chronic kidney disease
+      - Sleep apnea
+      - Autoimmune disease
+      - None of the above
+      required: true
+    - id: 20
+      name: current_symptoms
+      label: Current Cardiovascular Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chest pain or discomfort
+      - Shortness of breath
+      - Palpitations
+      - Dizziness or fainting
+      - Leg swelling
+      - Leg pain when walking
+      - No symptoms
+      required: true
+    - id: 21
+      name: stress_level
+      label: Average Daily Stress Level
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: sleep_quality
+      label: Sleep Quality
+      hint: Average hours per night
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-6 hours
+      - 7-8 hours
+      - 9+ hours
+      - Irregular sleep pattern
+      required: true
+    - id: 23
+      name: assessment_purpose
+      label: Purpose of This Assessment
+      hint: null
+      type: select_one
+      options:
+      - Routine screening
+      - Pre-employment physical
+      - Insurance requirement
+      - Personal health monitoring
+      - Physician recommendation
+      - Research participation
+      required: true
+    - id: 24
+      name: healthcare_provider
+      label: Referring Healthcare Provider
+      hint: Name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Health Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

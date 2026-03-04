@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Dental Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_doctor
+      label: referral_doctor
+      hint: null
+      type: select_one
+      options:
+      - Specialist A
+      - Specialist B
+      - Specialist C
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_referral
+      label: reason_for_referral
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: specialist_notes
+      label: specialist_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: specialist_contact
+      label: specialist_contact
+      hint: null
+      type: select_multiple
+      options:
+      - Specialist A
+      - Specialist B
+      - Specialist C
+      required: true
+    - id: 9
+      name: referral_doctor_notes
+      label: referral_doctor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specialist_contact_phone
+      label: specialist_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: specialist_email
+      label: specialist_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: patient_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: specialist_service
+      label: specialist_service
+      hint: null
+      type: select_one
+      options:
+      - service1
+      - service2
+      - service3
+      required: true
+    - id: 15
+      name: patient_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 16
+      name: specialist_name
+      label: specialist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: specialist_phone
+      label: specialist_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_street
+      label: patient_street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patient_city
+      label: patient_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_state
+      label: patient_state
+      hint: null
+      type: select_one
+      options:
+      - state1
+      - state2
+      - state3
+      required: true
+    - id: 21
+      name: patient_zip
+      label: patient_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: specialist_notes
+      label: specialist_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: referral_time
+      label: referral_time
+      hint: null
+      type: time
+      options: []
+      required: true

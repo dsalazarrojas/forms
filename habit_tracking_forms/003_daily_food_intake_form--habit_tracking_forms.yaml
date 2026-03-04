@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Food Intake Form
+    pages:
+    - id: 1
+      name: daily_food_intake_form_page
+      label: What is your current weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: food_items
+      label: Select food items
+      hint: null
+      type: select_multiple
+      options:
+      - Apples
+      - Bananas
+      - Carrots
+      - Donuts
+      - Grapes
+      - Oranges
+      - Pears
+      - Strawberries
+      required: false
+    - id: 3
+      name: intake_amount
+      label: Daily Food Intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: intake_unit
+      label: Select unit
+      hint: null
+      type: select_one
+      options:
+      - Cups
+      - Pieces
+      - Ounces
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Any notes?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: daily_food_intake_form_notes
+      label: Daily Food Intake Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

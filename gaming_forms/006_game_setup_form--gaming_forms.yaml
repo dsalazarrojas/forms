@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Setup Form
+    pages:
+    - id: 1
+      name: game_session_details
+      label: Game Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chess''}'
+      - '{''label'': ''Poker''}'
+      - '{''label'': ''Football''}'
+      required: false
+    - id: 3
+      name: number_of_players
+      label: Number of Players
+      hint: Enter number of players in your game session
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: match_scheduling
+      label: Match Scheduling
+      hint: Select match timing for your game session
+      type: date
+      options: []
+      required: false

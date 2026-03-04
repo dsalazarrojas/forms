@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Rehabilitation Specialist Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rehabilitation_goal
+      label: Rehabilitation Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physical_rehabilitation_specialist_referred
+      label: Physical Rehabilitation Specialist Referred
+      hint: null
+      type: select_one
+      options:
+      - Physical Medicine Specialist
+      - Occupational Therapist
+      - Physical Therapist
+      required: false
+    - id: 8
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_contact
+      label: Healthcare Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_visit
+      label: Date Of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: physical_rehabilitation_specialist_note
+      label: Physical Rehabilitation Specialist Note
+      hint: null
+      type: note
+      options: []
+      required: false

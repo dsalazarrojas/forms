@@ -1,0 +1,348 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm To Table Meat Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_items
+      label: Order Items
+      hint: Select the items you want to order
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Discover
+      - American Express
+      - PayPal
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: farm_info
+      label: Farm Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: farm_address
+      label: Farm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Shipped
+      - Delivered
+      - Cancelled
+      - Paid
+      required: true
+    - id: 19
+      name: customer_status
+      label: Customer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 20
+      name: farm_status
+      label: Farm Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 21
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Other
+      required: true
+    - id: 22
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Town
+      - Village
+      required: true
+    - id: 23
+      name: order_source
+      label: Order Source
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Phone
+      - Email
+      - In-app
+      required: true
+    - id: 24
+      name: order_source_details
+      label: Order Source Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: notes_4
+      label: Notes 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: notes_5
+      label: Notes 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: notes_6
+      label: Notes 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: notes_7
+      label: Notes 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: notes_8
+      label: Notes 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: notes_9
+      label: Notes 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: notes_10
+      label: Notes 10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: notes_11
+      label: Notes 11
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: notes_12
+      label: Notes 12
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: notes_13
+      label: Notes 13
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: notes_14
+      label: Notes 14
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: notes_15
+      label: Notes 15
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: notes_16
+      label: Notes 16
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: notes_17
+      label: Notes 17
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: notes_18
+      label: Notes 18
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: notes_19
+      label: Notes 19
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: notes_20
+      label: Notes 20
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Medical Procedure Permission Form
+    pages:
+    - id: 1
+      name: permission_date
+      label: Permission Date
+      hint: Date of permission form submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: child_weight
+      label: Child Weight
+      hint: Current weight of the child in pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: procedure_name
+      label: Medical Procedure Name
+      hint: Name or type of the medical procedure
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: procedure_date
+      label: Scheduled Procedure Date
+      hint: Date when the procedure is scheduled
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: procedure_time
+      label: Scheduled Procedure Time
+      hint: Time when the procedure is scheduled
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: medical_facility_name
+      label: Medical Facility Name
+      hint: Name of the hospital or medical facility
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_facility_address
+      label: Medical Facility Address
+      hint: Address of the medical facility
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: performing_physician_name
+      label: Performing Physician Name
+      hint: Name of the physician performing the procedure
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: physician_phone
+      label: Physician Phone
+      hint: Contact number for the physician
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: procedure_explanation
+      label: Procedure Explanation Understanding
+      hint: Do you understand the nature and purpose of this procedure?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 19
+      name: procedure_risks_understanding
+      label: Procedure Risks Understanding
+      hint: Do you understand the potential risks and complications?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 20
+      name: procedure_benefits_understanding
+      label: Procedure Benefits Understanding
+      hint: Do you understand the expected benefits of this procedure?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 21
+      name: anesthesia_required
+      label: Anesthesia Required
+      hint: Will anesthesia be used for this procedure?
+      type: select_one
+      options:
+      - Yes, general anesthesia
+      - Yes, local anesthesia
+      - Yes, sedation
+      - No anesthesia required
+      - Unsure
+      required: true
+    - id: 22
+      name: anesthesia_risks_discussed
+      label: Anesthesia Risks Discussed
+      hint: Have the risks of anesthesia been discussed with you?
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly
+      - false
+      - Not applicable
+      required: true
+    - id: 23
+      name: alternative_treatments
+      label: Alternative Treatments Understanding
+      hint: Have alternative treatments been explained to you?
+      type: select_one
+      options:
+      - Yes, alternatives were discussed
+      - No alternatives available
+      - No, I need more information
+      required: true
+    - id: 24
+      name: questions_addressed
+      label: Questions Addressed
+      hint: Have all your questions been answered?
+      type: select_one
+      options:
+      - Yes, all questions answered
+      - Most questions answered
+      - No, I still have questions
+      required: true
+    - id: 25
+      name: permission_granted
+      label: Permission Granted
+      hint: Do you grant permission for this medical procedure?
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 26
+      name: blood_transfusion_consent
+      label: Blood Transfusion Consent
+      hint: Do you consent to blood transfusion if medically necessary?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only if life-threatening
+      required: true
+    - id: 27
+      name: additional_permissions
+      label: Additional Permissions or Restrictions
+      hint: Any additional permissions or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness to signature
+      type: text
+      options: []
+      required: false

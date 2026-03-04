@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Animal Processing Guide
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: game_species
+      label: game species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: game_size
+      label: game size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: processing_date
+      label: processing date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: processing_time
+      label: processing time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: harvested_by
+      label: harvested by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: harvested_from
+      label: harvested from
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: game_animal_processing_guide
+      label: game animal processing guide
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

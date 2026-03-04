@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_claim_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_details
+      label: claim_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_info
+      label: claimant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_relationship
+      label: claimant_relationship
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      required: true
+    - id: 5
+      name: claimant_contact
+      label: claimant_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_medical_history
+      label: patient_medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_employment
+      label: claimant_employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_benefit
+      label: claimant_benefit
+      hint: null
+      type: select_multiple
+      options:
+      - Health
+      - Disability
+      required: true
+    - id: 10
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: claim_notes
+      label: claim_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: claimant_signature
+      label: claimant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false

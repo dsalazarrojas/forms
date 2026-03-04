@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trauma Bag Checklist
+    pages:
+    - id: 1
+      name: trauma_bag_section_header
+      label: Trauma Bag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trauma_bag_contents_0
+      label: Airway
+      hint: null
+      type: select_multiple
+      options:
+      - Oxygen
+      - Bag Valve Mask
+      - End Tidal CO2 Monitor
+      required: false
+    - id: 3
+      name: trauma_bag_contents_1
+      label: Breathing
+      hint: null
+      type: select_multiple
+      options:
+      - Suctioning Equipment
+      - Nasal Cautery Tube
+      - Laryngoscopy
+      required: false
+    - id: 4
+      name: trauma_bag_contents_2
+      label: Chest
+      hint: null
+      type: select_multiple
+      options:
+      - Chest Tube
+      - End Tidal CO2 Monitor
+      - Chest Seal
+      required: false
+    - id: 5
+      name: trauma_bag_contents_3
+      label: Abdominal
+      hint: null
+      type: select_multiple
+      options:
+      - Abdominal Ultrasound
+      - Pelvic Packing
+      - Suctioning Equipment
+      required: false
+    - id: 6
+      name: trauma_bag_contents_4
+      label: Extremities
+      hint: null
+      type: select_multiple
+      options:
+      - Tourniquet
+      - Suctioning Equipment
+      - Nasal Cautery Tube
+      required: false
+    - id: 7
+      name: trauma_bag_contents_5
+      label: Head
+      hint: null
+      type: select_multiple
+      options:
+      - Headache
+      - Suctioning Equipment
+      - Nasal Cautery Tube
+      required: false
+    - id: 8
+      name: trauma_bag_contents_6
+      label: Neck
+      hint: null
+      type: select_multiple
+      options:
+      - Cervical Collar
+      - Cervical Traction
+      - Suctioning Equipment
+      required: false
+    - id: 9
+      name: trauma_bag_contents_7
+      label: Thorax
+      hint: null
+      type: select_multiple
+      options:
+      - End Tidal CO2 Monitor
+      - Chest Tube
+      - Suctioning Equipment
+      required: false
+    - id: 10
+      name: trauma_bag_contents_8
+      label: Abdomen
+      hint: null
+      type: select_multiple
+      options:
+      - Abdominal Ultrasound
+      - Pelvic Packing
+      - Suctioning Equipment
+      required: false
+    - id: 11
+      name: trauma_bag_contents_9
+      label: Extremities
+      hint: null
+      type: select_multiple
+      options:
+      - Tourniquet
+      - Suctioning Equipment
+      - Nasal Cautery Tube
+      required: false
+    - id: 12
+      name: trauma_bag_contents_10
+      label: Neuro
+      hint: null
+      type: select_multiple
+      options:
+      - Headache
+      - Suctioning Equipment
+      - Nasal Cautery Tube
+      required: false
+    - id: 13
+      name: trauma_bag_contents_11
+      label: Spine
+      hint: null
+      type: select_multiple
+      options:
+      - Cervical Collar
+      - Cervical Traction
+      - Suctioning Equipment
+      required: false
+    - id: 14
+      name: trauma_bag_contents_12
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trauma_bag_review
+      label: Review and update the Trauma Bag contents before the next inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: checked_by
+      label: Checked by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: checked_date
+      label: Checked date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: checked_time
+      label: Checked time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: checked_by_signature
+      label: Checked by signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_inspection
+      label: Next inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Post Massage Assessment Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Post-Massage Assessment
+      hint: Please complete this form after your massage session to help us serve
+        you better
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: massage_type
+      label: Type of Massage Received
+      hint: null
+      type: select_one
+      options:
+      - Swedish Massage
+      - Deep Tissue Massage
+      - Sports Massage
+      - Trigger Point Therapy
+      - Hot Stone Massage
+      - Prenatal Massage
+      - Thai Massage
+      - Shiatsu
+      - Reflexology
+      - Other
+      required: true
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 75 minutes
+      - 90 minutes
+      - 120 minutes
+      required: true
+    - id: 7
+      name: pressure_rating
+      label: How Was the Pressure Applied
+      hint: null
+      type: select_one
+      options:
+      - Too Light
+      - Slightly Light
+      - Just Right
+      - Slightly Firm
+      - Too Firm
+      required: true
+    - id: 8
+      name: pain_level_before
+      label: Pain Level Before Massage
+      hint: 1 means no pain 10 means worst pain
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pain_level_after
+      label: Pain Level After Massage
+      hint: 1 means no pain 10 means worst pain
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: areas_of_focus
+      label: Which Areas Were Focused On
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Neck
+      - Shoulders
+      - Upper Back
+      - Lower Back
+      - Arms
+      - Hands
+      - Legs
+      - Feet
+      - Glutes
+      - Full Body
+      - Other
+      required: true
+    - id: 11
+      name: tension_relief
+      label: How Much Tension Relief Did You Experience
+      hint: null
+      type: select_one
+      options:
+      - Complete Relief
+      - Significant Relief
+      - Moderate Relief
+      - Slight Relief
+      - No Relief
+      required: true
+    - id: 12
+      name: relaxation_level
+      label: How Relaxed Do You Feel Now
+      hint: null
+      type: select_one
+      options:
+      - Extremely Relaxed
+      - Very Relaxed
+      - Moderately Relaxed
+      - Slightly Relaxed
+      - Not Relaxed
+      required: true
+    - id: 13
+      name: therapist_technique
+      label: How Would You Rate the Therapist Technique
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: therapist_communication
+      label: How Would You Rate Therapist Communication
+      hint: Checking in about pressure comfort etc.
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: room_temperature
+      label: How Was the Room Temperature
+      hint: null
+      type: select_one
+      options:
+      - Too Cold
+      - Slightly Cold
+      - Just Right
+      - Slightly Warm
+      - Too Warm
+      required: false
+    - id: 16
+      name: music_preference
+      label: How Was the Music or Ambiance
+      hint: null
+      type: select_one
+      options:
+      - Perfect
+      - Too Loud
+      - Too Quiet
+      - Not My Style
+      - Prefer No Music
+      required: false
+    - id: 17
+      name: comfort_level
+      label: How Comfortable Were You During the Session
+      hint: Table draping positioning etc.
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 18
+      name: post_massage_symptoms
+      label: Any Post-Massage Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Slight Soreness
+      - Headache
+      - Dizziness
+      - Nausea
+      - Fatigue
+      - Increased Energy
+      - Improved Mood
+      - Other
+      required: true
+    - id: 19
+      name: hydration_reminder_helpful
+      label: Was the Hydration Reminder Helpful
+      hint: null
+      type: select_one
+      options:
+      - Yes Very
+      - Yes Somewhat
+      - false
+      - Did Not Receive Reminder
+      required: false
+    - id: 20
+      name: overall_experience
+      label: Overall How Would You Rate Your Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: likelihood_to_return
+      label: How Likely Are You to Book Another Session
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 22
+      name: likelihood_to_refer
+      label: How Likely Are You to Recommend Us to Others
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 23
+      name: next_appointment_timeframe
+      label: When Would You Like to Book Your Next Session
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-2 months
+      - Not Sure
+      - Not Planning to Return
+      required: false
+    - id: 24
+      name: additional_feedback
+      label: Additional Comments or Feedback
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: permission_to_use_feedback
+      label: May We Use Your Feedback for Quality Improvement
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

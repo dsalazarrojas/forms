@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Record Keeping Form
+    pages:
+    - id: 1
+      name: food_safety_form
+      label: Food Safety Record
+      hint: Track daily food safety checks
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspections
+      label: Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: follow_ups
+      label: Follow-ups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: supervisor_verification
+      label: Supervisor Verification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: food_safety_notes
+      label: Food Safety Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_notes
+      label: Supervisor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: Employee name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: Signature
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Signature
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_name
+      label: Employee Name
+      hint: Employee Name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: food_safety_rating
+      label: Food Safety Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: food_safety_score
+      label: Food Safety Score
+      hint: On a scale of 0-5
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: food_safety_comments
+      label: Food Safety Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Tool ID
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_ids
+      label: Form IDs
+      hint: IDs of completed forms
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: true

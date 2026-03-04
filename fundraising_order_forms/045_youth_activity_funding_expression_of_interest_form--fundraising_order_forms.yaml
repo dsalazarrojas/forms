@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Activity Funding Expression Of Interest Form
+    pages:
+    - id: 1
+      name: youth_activity_funding_form
+      label: Youth Activity Funding Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: funding_amount
+      label: Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: funding_source
+      label: Funding Source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Community Fund''}'
+      - '{''id'': 2, ''name'': ''Foundation Fund''}'
+      required: false
+    - id: 4
+      name: youth_group_name
+      label: Youth Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: funding_request_start_date
+      label: Funding Request Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: funding_request_end_date
+      label: Funding Request End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: youth_council_fund
+      label: Youth Council Fund
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Community Fund''}'
+      - '{''id'': 2, ''name'': ''Foundation Fund''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

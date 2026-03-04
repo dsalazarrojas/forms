@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_patient_registration_dental_hygiene_ucba
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: Enter patient contact details
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Home Phone
+      required: false
+    - id: 4
+      name: medical_history_questions
+      label: Medical History Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: time
+      options: []
+      required: false

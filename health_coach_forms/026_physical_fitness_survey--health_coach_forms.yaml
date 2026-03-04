@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Fitness Survey
+    pages:
+    - id: 1
+      name: physical_fitness_survey
+      label: What is your fitness level?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: exercise_habits
+      label: What is your weekly exercise frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: health_concerns
+      label: What are your health concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fitness_goals
+      label: What are your fitness goals?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: physical_activity_level
+      label: What is your level of physical activity?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sleep_habits
+      label: What are your sleep habits?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stress_level
+      label: How would you describe your stress level?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Do you have any medical conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: medication_usage
+      label: Are you currently taking any medications?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: nutrition_habits
+      label: How would you rate your nutrition?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: hydration_habits
+      label: How would you rate your hydration?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: physical_fitness_survey_note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_last_workout
+      label: Time of last workout
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: hours_slept_last_night
+      label: Hours slept last night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: physical_activity_days_last_7
+      label: Physical activity days last 7 days?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 19
+      name: exercise_frequency_per_week
+      label: How many times do you exercise per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: resting_heart_rate
+      label: Resting Heart Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: stress_level_score
+      label: Stress Level Score
+      hint: null
+      type: number
+      options: []
+      required: false

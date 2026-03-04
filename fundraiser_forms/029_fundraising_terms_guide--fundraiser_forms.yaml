@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Terms Guide
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fundraising_purpose
+      label: Fundraising Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: goal_amount
+      label: Goal Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: planned_methods
+      label: Planned Methods
+      hint: null
+      type: select_one
+      options:
+      - Donation
+      - Fundraising
+      - Grant
+      - Other
+      required: true
+    - id: 5
+      name: agreement_to_terms
+      label: Agreement to Terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 6
+      name: agreement_to_organisation
+      label: Agreement to Organisation
+      hint: null
+      type: select_multiple
+      options:
+      - Terms and Conditions
+      - Privacy Policy
+      - Refund Policy
+      required: true

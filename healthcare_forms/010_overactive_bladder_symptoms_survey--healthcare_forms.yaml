@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overactive Bladder Symptoms Survey
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Overactive bladder (OB)
+      - Nocturia
+      - Nocturnal enuresis
+      - Urinary incontinence
+      - Urgency
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: urinary_frequency
+      label: urinary_frequency
+      hint: How many times do you urinate per day?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: voiding_volume
+      label: voiding_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: voiding_time
+      label: voiding_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: voiding_frequency
+      label: voiding_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: voiding_volume_urgency
+      label: voiding_volume_urgency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: urinary_frequency_night
+      label: urinary_frequency_night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: urinary_frequency_night_necessity
+      label: urinary_frequency_night_necessity
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: voiding_pain
+      label: voiding_pain
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 11
+      name: urinary_frequency_day_night
+      label: urinary_frequency_day_night
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 2 times
+      - 2-3 times
+      - More than 3 times
+      required: false
+    - id: 12
+      name: overactive_bladder_symptoms
+      label: overactive_bladder_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Overactive bladder (OB)
+      - Nocturia
+      - Nocturnal enuresis
+      - Urinary incontinence
+      - Urgency
+      - Other (please specify)
+      required: false
+    - id: 13
+      name: other_symptom
+      label: other_symptom
+      hint: If other, please specify
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_provider_notes
+      label: healthcare_provider_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: urgency_severity
+      label: urgency_severity
+      hint: null
+      type: select_one
+      options:
+      - 0 - None
+      - 1 - Mild
+      - 2 - Moderate
+      - 3 - Severe
+      required: false
+    - id: 17
+      name: urgency_frequency
+      label: urgency_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 1 time
+      - 1-2 times
+      - More than 2 times
+      required: false

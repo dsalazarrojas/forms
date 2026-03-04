@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Card Update Form
+    pages:
+    - id: 1
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: card_type
+      label: card_type
+      hint: null
+      type: select_one
+      options:
+      - '{''Card Type'': ''Credit''}'
+      - '{''Card Type'': ''Debit''}'
+      - '{''Card Type'': ''Gift''}'
+      - '{''Card Type'': ''Other''}'
+      required: false
+    - id: 3
+      name: card_number
+      label: card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expiry_date
+      label: expiry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiry_month
+      label: expiry_month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expiry_year
+      label: expiry_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cvv
+      label: cvv
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_holder
+      label: card_holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: card_holder_phone
+      label: card_holder_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: card_status
+      label: card_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      - Cancelled
+      - Pending
+      required: false
+    - id: 11
+      name: reason_for_status_change
+      label: reason_for_status_change
+      hint: null
+      type: text
+      options: []
+      required: false

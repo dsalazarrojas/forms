@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Prototype Testing Booking Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tester_details
+      label: Tester Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: tester_email
+      label: Tester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: tester_name
+      label: Tester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tester_phone
+      label: Tester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tester_notes
+      label: Tester Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_schedule
+      label: Session Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

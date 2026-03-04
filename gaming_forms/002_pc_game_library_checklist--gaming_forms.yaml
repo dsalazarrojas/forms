@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: pc_game_library_checklist
+    pages:
+    - id: 1
+      name: platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - Steam
+      - GOG
+      - Origin
+      required: true
+    - id: 2
+      name: title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: developer
+      label: Developer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publisher
+      label: Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: playtime
+      label: Playtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: playtime_hours
+      label: Hours Played
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: owned
+      label: Owned
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 9
+      name: progress
+      label: Progress
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

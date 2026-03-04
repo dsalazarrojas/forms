@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diabetes Monitoring Form
+    pages:
+    - id: 1
+      name: blood_sugar
+      label: Blood Sugar Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: weight
+      label: Weight
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication_notes
+      label: Medication Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: diet
+      label: Diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exercise
+      label: Exercise
+      hint: null
+      type: text
+      options: []
+      required: false

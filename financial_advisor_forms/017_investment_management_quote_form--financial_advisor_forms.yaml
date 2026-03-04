@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Management Quote Form
+    pages:
+    - id: 1
+      name: investment_management_quote_form
+      label: Investment Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investment_inquiry_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - Equity
+      - Fixed Income
+      - Alternative Investment
+      required: false
+    - id: 3
+      name: investment_investable_investment_type
+      label: investment_investable_investment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Equity
+      - Fixed Income
+      - Alternative Investment
+      required: false
+    - id: 4
+      name: asset_allocation
+      label: Asset Allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investment_goal
+      label: Investment Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: investment_goal_value
+      label: investment_goal_value
+      hint: null
+      type: select_one
+      options:
+      - Short term
+      - Medium term
+      - Long term
+      required: false
+    - id: 7
+      name: investment_timeframe
+      label: Timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: investment_period
+      label: Investment Period
+      hint: null
+      type: select_one
+      options:
+      - One year or less
+      - Over one year
+      required: false
+    - id: 11
+      name: investment_invested_amount
+      label: investment_invested_amount
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $100,000
+      - More than $100,000
+      required: false
+    - id: 12
+      name: investment_goal_amount
+      label: investment_goal_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_investor_info
+      label: Additional Investor Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_investor_info2
+      label: additional_investor_info2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

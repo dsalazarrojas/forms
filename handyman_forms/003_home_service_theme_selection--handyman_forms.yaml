@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_service_theme_selection
+    pages:
+    - id: 1
+      name: service_theme
+      label: Service Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_theme
+      label: preferred_theme
+      hint: null
+      type: select_one
+      options:
+      - Theme 1
+      - Theme 2
+      - Theme 3
+      required: true
+    - id: 3
+      name: style_preferences
+      label: Style Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: style_preferences2
+      label: Style Preferences 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

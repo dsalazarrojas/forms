@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Funded Appointment Confirmation
+    pages:
+    - id: 1
+      name: appointment_details
+      label: appointment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pay in full today'', ''value'': 1}'
+      - '{''label'': ''Pay over 3 months'', ''value'': 2}'
+      - '{''label'': ''Pay over 6 months'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash'', ''value'': 1}'
+      - '{''label'': ''Credit Card'', ''value'': 2}'
+      - '{''label'': ''Other'', ''value'': 3}'
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: self_funded
+      label: self_funded
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Self funded'', ''value'': 1}'
+      - '{''label'': ''Not Self funded'', ''value'': 2}'
+      required: false

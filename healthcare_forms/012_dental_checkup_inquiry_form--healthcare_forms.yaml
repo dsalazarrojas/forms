@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_checkup_inquiry_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: prophet
+      label: Prophet
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Paul
+      - Peter
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophet
+      label: Prophet
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Peter
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Dental Inquiries
+      - Appointment Scheduling
+      required: false
+    - id: 9
+      name: appointment_scheduling
+      label: Appointment Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Confirmed
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

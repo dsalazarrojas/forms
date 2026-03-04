@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake Questionnaire
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: gender
+      hint: Select the option you identify with
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: Street, city, state and zip
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: email address
+      hint: For appointment and billing communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: primary_physician
+      label: primary care physician or clinic
+      hint: Name and contact if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: insurance provider
+      hint: Policy number can be provided later
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medical_conditions
+      label: current medical conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - Asthma
+      - Chronic Pain
+      - None of the above
+      required: true
+    - id: 11
+      name: current_medications
+      label: current medications
+      hint: List prescription and over the counter
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: known allergies
+      hint: Medication and environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: emergency contact name and phone
+      hint: Include relationship
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: consent_for_care
+      label: consent for care and release of information
+      hint: Select your preference
+      type: select_one
+      options:
+      - Yes I consent to care and information sharing as needed
+      - No I do not consent at this time
+      - Contact me to discuss consent
+      required: true

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Fridge Temperature Log
+    pages:
+    - id: 1
+      name: fridge_temperature
+      label: Fridge Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: freezer_temperature
+      label: Freezer Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: freezer_temperature_unit
+      label: Freezer Temperature Unit
+      hint: null
+      type: select_one
+      options:
+      - Celsius
+      - Farenheit
+      required: false
+    - id: 5
+      name: fridge_storage_location
+      label: Fridge Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - Main Fridge
+      - Main Freezer
+      - Other
+      required: false
+    - id: 6
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reading_notes
+      label: Reading Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

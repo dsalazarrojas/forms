@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: poker_game_sign_up
+    pages:
+    - id: 1
+      name: sign_up
+      label: Sign Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: buy_in
+      label: Buy In
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: player_info
+      label: Player Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''tournament'', ''label'': ''Tournament''}'
+      - '{''value'': ''cash'', ''label'': ''Cash''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''online'', ''label'': ''Online''}'
+      - '{''value'': ''in_person'', ''label'': ''In Person''}'
+      required: false
+    - id: 9
+      name: player_count
+      label: Player Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: buy_in_amount
+      label: Buy In Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

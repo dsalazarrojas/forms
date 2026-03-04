@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Program Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_program_selection
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Program You are Applying For
+      hint: null
+      type: select_one
+      options:
+      - Health and Wellness Coaching
+      - Weight Management Coaching
+      - Fitness Coaching
+      - Nutrition Coaching
+      - Mental Health Coaching
+      - Life Coaching
+      required: true
+    - id: 9
+      name: program_start_date
+      label: Desired Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: program_duration
+      label: Program Duration Preference
+      hint: null
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - 6 months
+      - 1 year
+      - Custom
+      required: true
+    - id: 11
+      name: section_health_background
+      label: -- Health Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_health_status
+      label: Current Health Status
+      hint: Briefly describe your health
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Any Medical Conditions
+      hint: Please list if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_goals
+      label: -- Health and Wellness Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_goals
+      label: Primary Goals for This Program
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weight loss
+      - Fitness improvement
+      - Nutrition improvement
+      - Stress management
+      - Better sleep
+      - Increased energy
+      - Overall wellness
+      - Other
+      required: true
+    - id: 17
+      name: specific_goals
+      label: Specific Goals You Want to Achieve
+      hint: Be as detailed as possible
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_expectations
+      label: -- Expectations and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: commitment_level
+      label: Commitment Level to the Program
+      hint: null
+      type: select_one
+      options:
+      - Highly committed
+      - Very committed
+      - Moderately committed
+      - Somewhat committed
+      required: true
+    - id: 20
+      name: weekly_hours_available
+      label: Hours Per Week Available for Coaching
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: previous_coaching
+      label: Have you worked with a coach before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

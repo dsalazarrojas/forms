@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Insecurity Questionnaire
+    pages:
+    - id: 1
+      name: household_income_range
+      label: household_income_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_size
+      label: household_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_security_level
+      label: food_security_level
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very Low
+      - 2 - Low
+      - 3 - Moderate
+      - 4 - High
+      - 5 - Very High
+      required: false
+    - id: 4
+      name: household_location
+      label: household_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_insecurity_level
+      label: household_food_insecurity_level
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Food Insecure
+      - 2 - Food Secure
+      - 3 - Somewhat Food Insecure
+      required: false

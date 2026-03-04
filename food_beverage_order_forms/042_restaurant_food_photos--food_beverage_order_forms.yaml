@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Food Photos
+    pages:
+    - id: 1
+      name: restaurant_food_photos_form
+      label: restaurant_food_photos_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: most_popular_menu_items
+      label: most_popular_menu_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: food_photos
+      label: food_photos
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: menu_item_status
+      label: menu_item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: menu_items
+      label: menu_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: photo_upload_date
+      label: photo_upload_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: photo_upload_time
+      label: photo_upload_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: photo_upload_location
+      label: photo_upload_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: restaurant_feedback
+      label: restaurant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: restaurant_feedback_form
+      label: restaurant_feedback_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: take_photo_of_food
+      label: take_photo_of_food
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: restaurant_address
+      label: restaurant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photo_taken_at
+      label: photo_taken_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: photo_taken_at_time
+      label: photo_taken_at_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: restaurant_id
+      label: restaurant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: menu_photo_status
+      label: menu_photo_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: take_photo_of_menu
+      label: take_photo_of_menu
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: restaurant_photo_taken_at
+      label: restaurant_photo_taken_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: photo_taken_by
+      label: photo_taken_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: take_photo_of_food_at_time
+      label: take_photo_of_food_at_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: upload_photo
+      label: upload_photo
+      hint: null
+      type: note
+      options: []
+      required: false

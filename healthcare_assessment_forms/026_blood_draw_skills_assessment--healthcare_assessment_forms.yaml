@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Draw Skills Assessment
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- Blood Draw Skills Assessment --
+      hint: Evaluate phlebotomy competency
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_id
+      label: Employee or ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessor_credentials
+      label: Assessor Credentials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prior_training
+      label: Prior Blood Draw Training Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: hand_hygiene
+      label: Hand Hygiene - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ppe_usage
+      label: PPE Usage - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: patient_identification
+      label: Patient Identification - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: site_selection
+      label: Venipuncture Site Selection - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: skin_preparation
+      label: Skin Preparation - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: needle_insertion
+      label: Needle Insertion Technique - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: tube_filling
+      label: Tube Filling Sequence - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: specimen_handling
+      label: Specimen Handling - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: labeling_procedure
+      label: Specimen Labeling - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: safety_procedures
+      label: Safety Procedures - Score (1-5)
+      hint: 1=Poor, 5=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: overall_competency
+      label: Overall Competency Assessment
+      hint: null
+      type: select_one
+      options:
+      - Competent
+      - Needs improvement
+      - Not competent
+      required: true
+    - id: 19
+      name: comments
+      label: Assessor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: remedial_training_needed
+      label: Remedial Training Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: reassessment_date
+      label: Reassessment Date (if needed)
+      hint: null
+      type: date
+      options: []
+      required: false

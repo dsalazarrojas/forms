@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_employee_satisfaction_survey
+    pages:
+    - id: 1
+      name: work_environment
+      label: Workplace Environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_experience
+      label: Work Experience
+      hint: How much do you like working here?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_relationship
+      label: Relationship with Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': "Don''t Know"}'
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Needs Improvement''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: benefits
+      label: Benefits and Compensation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_life
+      label: Work Life Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_environment
+      label: Team Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Needs Improvement''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: job_security
+      label: Job Security
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Needs Improvement''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Very Poor''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: FIA Suitability Assessment Form
+    pages:
+    - id: 1
+      name: client_goals
+      label: What are the client's goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: time_horizon
+      label: time_horizon
+      hint: null
+      type: select_one
+      options:
+      - 1. Short-term
+      - 2. Medium-term
+      - 3. Long-term
+      required: true
+    - id: 4
+      name: risk_free_asset
+      label: risk_free_asset
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Bonds
+      - 2. CDs
+      - 3. Money Markets
+      required: true
+    - id: 5
+      name: fixed_annuity
+      label: fixed_annuity
+      hint: null
+      type: select_one
+      options:
+      - 1. High
+      - 2. Medium
+      - 3. Low
+      required: true
+    - id: 6
+      name: tax_deficiency
+      label: tax_deficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: time_period
+      label: time_period
+      hint: null
+      type: select_multiple
+      options:
+      - 1. 1-5 years
+      - 2. 5-10 years
+      - 3. 10-20 years
+      - 4. 20+ years
+      required: true
+    - id: 9
+      name: asset_allocation
+      label: asset_allocation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cash_flow
+      label: cash_flow
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Low
+      - 2. Medium
+      - 3. High
+      required: false
+    - id: 11
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: select_one
+      options:
+      - 1. High
+      - 2. Medium
+      - 3. Low
+      required: false
+    - id: 12
+      name: fixed_annuity_type
+      label: fixed_annuity_type
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Fixed Income
+      - 2. Fixed
+      - 3. Variable
+      required: false
+    - id: 13
+      name: income_type
+      label: income_type
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Salary
+      - 2. Self-employment
+      - 3. Business
+      required: false
+    - id: 14
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Cash
+      - 2. Bonds
+      - 3. Stocks
+      - 4. Real Estate
+      required: false
+    - id: 15
+      name: investment_goals
+      label: investment_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: financial_status
+      label: financial_status
+      hint: null
+      type: select_one
+      options:
+      - 1. Retired
+      - 2. Inactive
+      - 3. Active
+      required: false
+    - id: 18
+      name: tax_deficiency
+      label: tax_deficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 1. High
+      - 2. Medium
+      - 3. Low
+      required: false
+    - id: 19
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: select_one
+      options:
+      - 1. High
+      - 2. Medium
+      - 3. Low
+      required: false
+    - id: 20
+      name: asset_allocation
+      label: asset_allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cash_flow
+      label: cash_flow
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Low
+      - 2. Medium
+      - 3. High
+      required: false
+    - id: 22
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: investment_period
+      label: investment_period
+      hint: null
+      type: select_multiple
+      options:
+      - 1. 1-5 years
+      - 2. 5-10 years
+      - 3. 10-20 years
+      - 4. 20+ years
+      required: false
+    - id: 24
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Cash
+      - 2. Bonds
+      - 3. Stocks
+      - 4. Real Estate
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

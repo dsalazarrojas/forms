@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Café Loyalty Program Materials Order Form
+    pages:
+    - id: 1
+      name: café_name
+      label: Café Name
+      hint: Name of your café or business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: loyalty_program_status
+      label: Loyalty Program Status
+      hint: Are you currently in our loyalty program
+      type: select_one
+      options:
+      - Yes, active member
+      - Yes, but need to renew
+      - No, but interested
+      - Just exploring options
+      required: true
+    - id: 10
+      name: material_type
+      label: Material Type
+      hint: What materials do you need
+      type: select_one
+      options:
+      - Loyalty cards
+      - Punch cards
+      - Promotional posters
+      - Table tents
+      - Counter displays
+      - Window decals
+      - Mixed package
+      required: true
+    - id: 11
+      name: loyalty_card_quantity
+      label: Loyalty Cards Quantity
+      hint: How many loyalty cards needed
+      type: select_one
+      options:
+      - 100 cards
+      - 250 cards
+      - 500 cards
+      - 1,000 cards
+      - 2,500 cards
+      - 5,000 cards
+      - Not ordering cards
+      required: false
+    - id: 12
+      name: punch_card_quantity
+      label: Punch Cards Quantity
+      hint: How many punch cards needed
+      type: select_one
+      options:
+      - 100 cards
+      - 250 cards
+      - 500 cards
+      - 1,000 cards
+      - Not ordering punch cards
+      required: false
+    - id: 13
+      name: poster_size
+      label: Poster Size
+      hint: What size promotional posters
+      type: select_one
+      options:
+      - 11x17 inches
+      - 18x24 inches
+      - 24x36 inches
+      - Not ordering posters
+      required: false
+    - id: 14
+      name: poster_quantity
+      label: Poster Quantity
+      hint: How many posters needed
+      type: select_one
+      options:
+      - 1 poster
+      - 2 posters
+      - 3-5 posters
+      - 6-10 posters
+      - Not ordering posters
+      required: false
+    - id: 15
+      name: customization_needed
+      label: Customization Needed
+      hint: Do you need custom design or branding
+      type: select_one
+      options:
+      - Yes, full custom design
+      - Yes, logo addition only
+      - No, use standard templates
+      - Not sure
+      required: true
+    - id: 16
+      name: branding_assets
+      label: Branding Assets
+      hint: Do you have logo and brand files ready
+      type: select_one
+      options:
+      - Yes, ready to upload
+      - Will send later
+      - Need design help
+      - Not applicable
+      required: false
+    - id: 17
+      name: rush_order
+      label: Rush Order
+      hint: Do you need expedited processing
+      type: select_one
+      options:
+      - No, standard delivery
+      - Yes, rush delivery
+      - Yes, overnight if available
+      required: true
+    - id: 18
+      name: delivery_date_needed
+      label: Delivery Date Needed
+      hint: When do you need materials
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: previous_order_number
+      label: Previous Order Number
+      hint: If reordering, provide previous order number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Invoice for business account
+      - Loyalty points
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false

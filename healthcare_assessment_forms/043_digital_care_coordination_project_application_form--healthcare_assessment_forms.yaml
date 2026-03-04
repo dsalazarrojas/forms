@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Care Coordination Project Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_impact
+      label: Expected Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_funded
+      label: Project Funded
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: project_status_note
+      label: Project Status Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: true

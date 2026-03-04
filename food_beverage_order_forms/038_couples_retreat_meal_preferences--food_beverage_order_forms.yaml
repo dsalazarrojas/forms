@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: couples_retreat_meal_preferences
+    pages:
+    - id: 1
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_allergies
+      label: Food Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergy 1
+      - Allergy 2
+      - Allergy 3
+      required: false
+    - id: 3
+      name: drink_preferences
+      label: Drink Preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: meal_choice
+      label: Meal Choice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: entree
+      label: Entree
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: entree_dish_details
+      label: Entree Dish Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meal_choice_dish
+      label: Meal Choice Dish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meal_choice_note
+      label: Meal Choice Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entree_special_request
+      label: Entree Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entree_special_request_note
+      label: Entree Special Request Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dessert
+      label: Dessert
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

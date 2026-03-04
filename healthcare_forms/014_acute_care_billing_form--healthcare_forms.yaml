@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acute Care Billing Form
+    pages:
+    - id: 1
+      name: --patient_billing
+      label: -- Patient Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full name as on insurance
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account or medical record number
+      hint: Hospital or clinic record ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_provider
+      label: Insurance provider
+      hint: Primary insurer name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: insurance_policy_number
+      label: Insurance policy number
+      hint: Subscriber or policy ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_contact
+      label: Billing contact name and phone
+      hint: Account payor contact details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: services_rendered
+      label: Services rendered description
+      hint: Brief list of services billed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_amount_due
+      label: Total amount due
+      hint: Enter full numeric amount
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: How will patient pay this bill
+      type: select_one
+      options:
+      - Insurance
+      - Self pay
+      - Payment plan
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional billing notes
+      hint: Any special billing instructions
+      type: text
+      options: []
+      required: false

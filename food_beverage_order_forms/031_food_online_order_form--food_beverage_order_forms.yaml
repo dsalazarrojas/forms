@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_online_order_form
+    pages:
+    - id: 1
+      name: food_online_order_form_page
+      label: food_online_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_meal
+      label: select_meal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''meal1'', ''value'': ''meal1''}'
+      - '{''id'': 2, ''label'': ''meal2'', ''value'': ''meal2''}'
+      - '{''id'': 3, ''label'': ''meal3'', ''value'': ''meal3''}'
+      required: false
+    - id: 3
+      name: select_diet_type
+      label: select_diet_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''diet_type1'', ''value'': ''diet_type1''}'
+      - '{''id'': 2, ''label'': ''diet_type2'', ''value'': ''diet_type2''}'
+      required: false
+    - id: 4
+      name: select_texture
+      label: select_texture
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''texture1'', ''value'': ''texture1''}'
+      - '{''id'': 2, ''label'': ''texture2'', ''value'': ''texture2''}'
+      required: false
+    - id: 5
+      name: select_temperature
+      label: select_temperature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''temperature1'', ''value'': ''temperature1''}'
+      - '{''id'': 2, ''label'': ''temperature2'', ''value'': ''temperature2''}'
+      required: false
+    - id: 6
+      name: select_quantity
+      label: select_quantity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''quantity1'', ''value'': ''quantity1''}'
+      - '{''id'': 2, ''label'': ''quantity2'', ''value'': ''quantity2''}'
+      required: false
+    - id: 7
+      name: select_delivery
+      label: select_delivery
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''delivery1'', ''value'': ''delivery1''}'
+      - '{''id'': 2, ''label'': ''delivery2'', ''value'': ''delivery2''}'
+      required: false
+    - id: 8
+      name: select_payment
+      label: select_payment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''payment1'', ''value'': ''payment1''}'
+      - '{''id'': 2, ''label'': ''payment2'', ''value'': ''payment2''}'
+      required: false
+    - id: 9
+      name: order_details
+      label: order_details
+      hint: Order details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: Enter your phone number
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: order_note
+      label: order_note
+      hint: Additional order notes
+      type: note
+      options: []
+      required: false

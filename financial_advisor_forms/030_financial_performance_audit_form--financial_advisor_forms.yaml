@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Performance Audit Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Small Business
+      - Large Business
+      - Partnership
+      - Non-Profit
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: revenue
+      label: Revenue
+      hint: Enter revenue
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expenses
+      label: Expenses
+      hint: Enter expenses
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: net_income
+      label: Net Income
+      hint: Enter net income
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: profit_margin
+      label: Profit Margin
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: financial_stance
+      label: Financial Stance
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Stable
+      - Weak
+      required: false
+    - id: 9
+      name: business_goal
+      label: Business Goal
+      hint: Enter business goal
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: financial_performace_indicators
+      label: Financial Performance Indicators
+      hint: Enter financial performance indicators
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_factors
+      label: Risk Factors
+      hint: Enter risk factors
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: financial_challenges
+      label: Financial Challenges
+      hint: Enter financial challenges
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: financial_objectives
+      label: Financial Objectives
+      hint: Enter financial objectives
+      type: select_multiple
+      options:
+      - Increase Revenue
+      - Reduce Expenses
+      - Improve Profit Margin
+      - Increase Net Income
+      required: false
+    - id: 14
+      name: financial_indicators
+      label: Financial Indicators
+      hint: Enter financial indicators
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: financial_risks
+      label: Financial Risks
+      hint: Enter financial risks
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: audit_period
+      label: Audit Period
+      hint: Enter audit period
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: auditor_name
+      label: Auditor Name
+      hint: Enter auditor name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: auditor_contact
+      label: Auditor Contact
+      hint: Enter auditor contact
+      type: text
+      options: []
+      required: false

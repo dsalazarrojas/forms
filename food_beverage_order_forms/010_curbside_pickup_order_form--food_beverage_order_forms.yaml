@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: curbside_pickup_order_form
+    pages:
+    - id: 1
+      name: curbside_pickup_order_form_page_1
+      label: curbside
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_date
+      label: pickupdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pickup_time
+      label: pickuptime
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: pickup_time_slot
+      label: pickuptimeslot
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 5
+      name: food_item1
+      label: fooditem1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_item2
+      label: fooditem2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pickup_location
+      label: pickuplocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pickup_notes
+      label: pickupnotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: paymentmethod
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Stripe
+      required: true
+    - id: 11
+      name: customer_name
+      label: customername
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_phone
+      label: customerphone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_submission_token
+      label: formsubmissiontoken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: custom_1
+      label: custom1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: custom_2
+      label: custom2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: custom_3
+      label: custom3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: custom_4
+      label: custom4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: custom_5
+      label: custom5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: custom_6
+      label: custom6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: custom_7
+      label: custom7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: custom_8
+      label: custom8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: custom_9
+      label: custom9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: custom_10
+      label: custom10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: custom_11
+      label: custom11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom_12
+      label: custom12
+      hint: null
+      type: text
+      options: []
+      required: false

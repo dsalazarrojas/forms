@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Application Form
+    pages:
+    - id: 1
+      name: student_loan_application_form
+      label: Student Loan Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_loan_type
+      label: Student Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Federal
+      - Parent
+      - Other
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_loan_amount
+      label: Student Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Year
+      - Month-Year
+      - Other
+      required: false
+    - id: 9
+      name: student_loan_rate
+      label: Student Loan Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_loan_interest
+      label: Student Loan Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_loan_status
+      label: Student Loan Status
+      hint: null
+      type: select_one
+      options:
+      - In School
+      - Graduated
+      - In Grace Period
+      - Default
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''In-person''}'
+      required: false
+    - id: 6
+      name: contact_info_0
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_info_2
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: menu_selection
+      label: Menu Selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Salad''}'
+      - '{''id'': 2, ''label'': ''Sandwich''}'
+      - '{''id'': 3, ''label'': ''Drink''}'
+      - '{''id'': 4, ''label'': ''Chips''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: order_items
+      label: Order Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

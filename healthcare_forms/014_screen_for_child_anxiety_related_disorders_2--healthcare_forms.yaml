@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen For Child Anxiety Related Disorders 2
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: child_age
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: anxiety_level
+      label: How Anxious
+      hint: Use 1, 2, 3 for how anxious your child is on a scale of 1 to 3
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fears
+      label: What Fears Do You Have?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: sleep_difficulties
+      label: Sleep Difficulties
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: eating_difficulties
+      label: Eating Difficulties
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: social_difficulties
+      label: Social Difficulties
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: concentration_difficulties
+      label: Concentration Difficulties
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: anxiety_disorder
+      label: Do You Suspect An Anxiety Disorder?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: anxiety_disorder_diagnosis
+      label: Anxiety Disorder Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: anxiety_disorder_treatment
+      label: Anxiety Disorder Treatment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: anxiety_disorder_symptoms
+      label: Anxiety Disorder Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Privacy Protection Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: privacy_level
+      label: privacy level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: social security number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: medical_record
+      label: medical record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_comments
+      label: doctor comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hospital_name
+      label: hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false

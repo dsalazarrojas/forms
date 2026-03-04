@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Verses Read Tracking Form
+    pages:
+    - id: 1
+      name: verse_read_tracking_form_title
+      label: Verses Read Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: verses_read
+      label: verses_read
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reflection
+      label: reflection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: date_read
+      label: date_read
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_spent_reading
+      label: time_spent_reading
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: next_verse
+      label: next_verse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: verse_read_frequency
+      label: verse_read_frequency
+      hint: null
+      type: select_one
+      options:
+      - Verses 1
+      - Every 3 days
+      - Every 5 days
+      - Every week
+      - Every 10 days
+      - Every 2 weeks
+      required: false
+    - id: 8
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 9
+      name: progress
+      label: progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_verse_read
+      label: total_verse_read
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reading_frequency_goal
+      label: reading_frequency_goal
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Once every 2 days
+      - Once a week
+      - Once every 10 days
+      - Never
+      required: false
+    - id: 12
+      name: total_verse_read_goal
+      label: total_verse_read_goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: average_verse_read_per_day
+      label: average_verse_read_per_day
+      hint: null
+      type: number
+      options: []
+      required: false

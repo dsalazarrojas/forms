@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comfort Food Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name for order processing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_type
+      label: Order Type
+      hint: Pickup or delivery
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Dine-In
+      required: true
+    - id: 5
+      name: section_header_appetizers
+      label: -- Appetizers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: mac_and_cheese_bites
+      label: Mac and Cheese Bites
+      hint: Crispy fried mac and cheese - $8.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 7
+      name: loaded_nachos
+      label: Loaded Nachos
+      hint: Classic nachos with all toppings - $12.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 8
+      name: mozzarella_sticks
+      label: Mozzarella Sticks
+      hint: Breaded and fried with marinara - $9.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 9
+      name: section_header_main_dishes
+      label: -- Main Dishes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: chicken_pot_pie
+      label: Chicken Pot Pie
+      hint: Classic homestyle pot pie - $14.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 11
+      name: meatloaf
+      label: Classic Meatloaf
+      hint: Mom's recipe with mashed potatoes - $15.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 12
+      name: grilled_cheese
+      label: Ultimate Grilled Cheese
+      hint: Three cheese blend on sourdough - $11.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 13
+      name: beef_stew
+      label: Hearty Beef Stew
+      hint: Slow-cooked with vegetables - $16.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 14
+      name: section_header_sides
+      label: -- Side Dishes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: mashed_potatoes
+      label: Mashed Potatoes
+      hint: Creamy garlic mashed potatoes - $4.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 16
+      name: coleslaw
+      label: Creamy Coleslaw
+      hint: Classic cabbage slaw - $3.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 17
+      name: cornbread
+      label: Southern Cornbread
+      hint: Sweet and buttery - $3.49
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 18
+      name: section_header_desserts
+      label: -- Desserts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: apple_pie
+      label: Warm Apple Pie
+      hint: A la mode - $7.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 20
+      name: bread_pudding
+      label: Bread Pudding
+      hint: With vanilla sauce - $6.99
+      type: select_one
+      options:
+      - 0
+      - 1 Order
+      - 2 Orders
+      - 3 Orders
+      - 4 or More
+      required: true
+    - id: 21
+      name: section_header_delivery
+      label: -- Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete address for delivery
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: When should we deliver
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or allergies
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Pickup
+      - Cash on Delivery
+      required: true
+    - id: 26
+      name: total_amount
+      label: Total Amount
+      hint: Order total including tax
+      type: number
+      options: []
+      required: true

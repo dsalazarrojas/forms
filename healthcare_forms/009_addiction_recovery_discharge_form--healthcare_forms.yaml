@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Recovery Discharge Form
+    pages:
+    - id: 1
+      name: discharge_header
+      label: -- Addiction Recovery Discharge Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter the patient's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Patient's birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: admission_date
+      label: Admission Date
+      hint: Date when patient was admitted for treatment
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: discharge_date
+      label: Discharge Date
+      hint: Date of discharge from facility
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: primary_substance
+      label: Primary Substance of Abuse
+      hint: What substance was the primary addiction?
+      type: select_one
+      options:
+      - Alcohol
+      - Opioids
+      - Cocaine
+      - Marijuana
+      - Amphetamines
+      - Benzodiazepines
+      - Hallucinogens
+      - Multiple Substances
+      - Other
+      required: true
+    - id: 8
+      name: length_of_stay
+      label: Length of Stay (days)
+      hint: Total number of days in treatment
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: treatment_program
+      label: Treatment Program Completed
+      hint: Which treatment program did the patient complete?
+      type: select_one
+      options:
+      - Detoxification
+      - Inpatient Rehabilitation
+      - Partial Hospitalization
+      - Intensive Outpatient
+      - Standard Outpatient
+      - Dual Diagnosis Treatment
+      required: true
+    - id: 10
+      name: discharge_status
+      label: Discharge Status
+      hint: How would you characterize the discharge?
+      type: select_one
+      options:
+      - Completed treatment
+      - Transferred to another facility
+      - Left against medical advice
+      - Discontinued treatment
+      - Other
+      required: true
+    - id: 11
+      name: sobriety_days
+      label: Days of Continuous Sobriety
+      hint: Number of days patient maintained sobriety during stay
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: treatment_goals_met
+      label: Treatment Goals Met
+      hint: Percentage of treatment goals achieved
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: relapse_prevention_plan
+      label: Relapse Prevention Plan Created
+      hint: Was a relapse prevention plan developed?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: aftercare_plan
+      label: Aftercare Plan in Place
+      hint: Is there a continuing care plan after discharge?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: aftercare_services
+      label: Recommended Aftercare Services
+      hint: Check all services recommended for continued recovery
+      type: select_multiple
+      options:
+      - Outpatient counseling
+      - Sober living home
+      - Support groups
+      - Medication-assisted treatment
+      - Psychiatric care
+      - Family therapy
+      - Vocational rehabilitation
+      - None needed
+      required: true
+    - id: 16
+      name: support_system
+      label: Available Support System
+      hint: What support system does the patient have?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_appointments
+      label: Scheduled Follow-Up Appointments
+      hint: List upcoming appointments after discharge
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_on_discharge
+      label: Medications Prescribed at Discharge
+      hint: List any medications prescribed upon discharge
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: discharge_instructions
+      label: Discharge Instructions Provided
+      hint: Were written discharge instructions given to patient?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: List emergency contacts and their relationship
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: discharge_summary
+      label: Discharge Summary
+      hint: Brief summary of patient's progress and condition at discharge
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: counselor_signature
+      label: Counselor Signature
+      hint: Signature of discharging counselor
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of counselor's signature
+      type: date
+      options: []
+      required: true

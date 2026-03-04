@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Gala Table Host Registration Form
+    pages:
+    - id: 1
+      name: section_host_info
+      label: -- Table Host Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: host_name
+      label: Table Host Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: host_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: host_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: host_company
+      label: Company or Organization
+      hint: Your business or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_gala_info
+      label: -- Gala Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: gala_name
+      label: Gala Event Name
+      hint: Which gala are you hosting a table for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gala_date
+      label: Gala Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: table_number
+      label: Preferred Table Number
+      hint: If available
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_guests
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: guests_count
+      label: Number of Guests at Your Table
+      hint: How many will sit at your table
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: guest_list
+      label: Names of Guests at Your Table
+      hint: List all confirmed attendees
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dietary_needs
+      label: Combined Dietary Restrictions
+      hint: All restrictions for your group
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_preferences
+      label: -- Table Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: seating_preference
+      label: Seating Location Preference
+      hint: Front, middle, back, near stage, etc
+      type: select_one
+      options:
+      - Near Stage
+      - Center Hall
+      - Back Hall
+      - Window Seating
+      - No Preference
+      required: false
+    - id: 16
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Wheelchair access, mobility needs, etc
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_occasions
+      label: Special Occasions or Celebrations
+      hint: Birthday, anniversary, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_commitment
+      label: -- Table Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: table_cost
+      label: Table Cost
+      hint: Amount per table
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_contribution
+      label: Additional Contribution or Sponsorship
+      hint: Optional extra donation
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: If making sponsorship commitment
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - None
+      required: false
+    - id: 22
+      name: confirmation_date
+      label: Date of This Registration
+      hint: Today's date
+      type: date
+      options: []
+      required: true

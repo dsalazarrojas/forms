@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: counseling_appointment_authorization_form
+    pages:
+    - id: 1
+      name: session_information
+      label: Session Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_information
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization
+      label: authorization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_preferences_1
+      label: contact_preferences_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_contact_1
+      label: emergency_contact_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_details
+      label: session_details
+      hint: null
+      type: date
+      options: []
+      required: false

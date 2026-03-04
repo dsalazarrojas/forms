@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Settlement Overview
+    pages:
+    - id: 1
+      name: settlement_date
+      label: Settlement Date
+      hint: Date of this settlement report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: advisor_name
+      label: Financial Advisor Name
+      hint: Name of the handling advisor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: advisor_id
+      label: Advisor ID
+      hint: Unique advisor identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_account_number
+      label: Client Account Number
+      hint: Primary account identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: settlement_type
+      label: Type of Settlement
+      hint: Category of settlement
+      type: select_one
+      options:
+      - Fund Transfer
+      - Investment Settlement
+      - Dividend Distribution
+      - Interest Payment
+      - Fee Collection
+      - Loan Disbursement
+      - Other
+      required: true
+    - id: 7
+      name: settlement_amount
+      label: Settlement Amount
+      hint: Total amount being settled in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: currency
+      label: Currency
+      hint: Currency of settlement
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CAD
+      - AUD
+      - CHF
+      required: false
+    - id: 9
+      name: settlement_reference
+      label: Settlement Reference Number
+      hint: Unique transaction reference
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: initiating_bank
+      label: Initiating Bank
+      hint: Bank initiating the settlement
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: receiving_bank
+      label: Receiving Bank
+      hint: Bank receiving the settlement
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: settlement_method
+      label: Settlement Method
+      hint: How is this being settled?
+      type: select_one
+      options:
+      - Wire Transfer
+      - ACH Transfer
+      - Check
+      - Automated Clearing House
+      - International Wire
+      - SWIFT Transfer
+      required: true
+    - id: 13
+      name: value_date
+      label: Value Date
+      hint: Date funds are available
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: settlement_status
+      label: Settlement Status
+      hint: Current status of settlement
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Settled
+      - Completed
+      - Failed
+      - On Hold
+      required: true
+    - id: 15
+      name: outstanding_items
+      label: Any Outstanding Items?
+      hint: Issues or pending items
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fees_charged
+      label: Fees Charged
+      hint: Settlement-related fees
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: net_settlement_amount
+      label: Net Settlement Amount
+      hint: Amount after fees
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: reconciliation_status
+      label: Reconciliation Status
+      hint: Is this reconciled?
+      type: select_one
+      options:
+      - Fully Reconciled
+      - Partially Reconciled
+      - Not Reconciled
+      - Pending Review
+      required: true
+    - id: 19
+      name: exceptions
+      label: Are There Any Exceptions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: exception_details
+      label: Exception Details
+      hint: If yes, describe the exceptions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: advisor_notes
+      label: Advisor Notes
+      hint: Any additional observations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_required
+      label: Follow-Up Required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Scheduled Follow-Up Date
+      hint: When should follow-up occur?
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Research Log Form
+    pages:
+    - id: 1
+      name: investment_research_log_form_1
+      label: Investment Research Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: investment_opportunities
+      label: Investment Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - Alpha
+      - Beta
+      - Gamma
+      required: false
+    - id: 3
+      name: investment_status
+      label: Investment Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 4
+      name: research_date
+      label: Research Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: analyst_name
+      label: Analyst Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: investment_location
+      label: Investment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - Equity
+      - Bond
+      - Other
+      required: true
+    - id: 10
+      name: investment_currency
+      label: Investment Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: true
+    - id: 11
+      name: research_time
+      label: Research Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: research_duration
+      label: Research Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_notes
+      label: Additional Research Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: investment_notes
+      label: Additional Investment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: submitted_location
+      label: Submitted Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_phone_extension
+      label: Submitted By Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_phone_country
+      label: Submitted By Phone Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      required: false

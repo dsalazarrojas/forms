@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Income Driven Repayment Form
+    pages:
+    - id: 1
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: family_size
+      label: family size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: income_monthly
+      label: income monthly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expected_family_size
+      label: expected family size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expected_income_monthly
+      label: expected income monthly
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gross_income
+      label: gross income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: adjusted_gross_income
+      label: adjusted gross income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: family_members
+      label: family members
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Other
+      required: true
+    - id: 9
+      name: income_status
+      label: income status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Increasing
+      - Decreasing
+      required: true
+    - id: 10
+      name: tax_status
+      label: tax status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Joint
+      required: true
+    - id: 11
+      name: dependents
+      label: dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_type
+      label: student type
+      hint: null
+      type: select_one
+      options:
+      - Graduate
+      - Undergraduate
+      - Doctoral
+      - Other
+      required: true
+    - id: 13
+      name: student_status
+      label: student status
+      hint: null
+      type: select_one
+      options:
+      - In-school
+      - Out-school
+      - In-deferment
+      required: true
+    - id: 14
+      name: income_verification
+      label: income verification
+      hint: null
+      type: select_multiple
+      options:
+      - W-2
+      - '1099'
+      - Self-employment
+      required: true
+    - id: 15
+      name: tax_documents
+      label: tax documents
+      hint: null
+      type: select_multiple
+      options:
+      - W-2
+      - '1040'
+      required: true
+    - id: 16
+      name: income_proof
+      label: income proof
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Unemployed
+      - Retired
+      required: true
+    - id: 18
+      name: employment_type
+      label: employment type
+      hint: null
+      type: select_multiple
+      options:
+      - Employee
+      - Self-employed
+      - Unemployed
+      required: true
+    - id: 19
+      name: income_frequency
+      label: income frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Quarterly
+      required: true
+    - id: 20
+      name: expected_employment_status
+      label: expected employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Unemployed
+      - Retired
+      required: true
+    - id: 21
+      name: student_loan_balance
+      label: student loan balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: monthly_payment
+      label: monthly payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: loan_type
+      label: loan type
+      hint: null
+      type: select_one
+      options:
+      - Federal Loan
+      - Private Loan
+      - Both
+      required: true
+    - id: 24
+      name: income_frequency_2
+      label: income frequency 2
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      required: false
+    - id: 25
+      name: expected_income_frequency
+      label: expected income frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Quarterly
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Patient Discharge Process Evaluation Form
+    pages:
+    - id: 1
+      name: discharge_process_evaluation
+      label: Discharge Process Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: communication_with_staff
+      label: Communication with Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hospital_environment
+      label: Hospital Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nurse_to_patient_ratio
+      label: Nurse to Patient Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: patient_friendly_hours
+      label: Patient Friendly Hours
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''8-12 hours''}'
+      - '{''label'': ''0-7 hours''}'
+      - '{''label'': ''7-16 hours''}'
+      - '{''label'': ''16-24 hours''}'
+      required: false
+    - id: 8
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_care_team
+      label: Patient Care Team
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Too Small''}'
+      - '{''label'': ''Just Right''}'
+      - '{''label'': ''Too Large''}'
+      required: false
+    - id: 11
+      name: hospital_cleanliness
+      label: Hospital Cleanliness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: pain_level
+      label: Pain Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_attentiveness
+      label: Staff Attentiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 15
+      name: patient_flow
+      label: Patient Flow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nurse_punctuality
+      label: Nurse Punctuality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 17
+      name: hospital_clarity
+      label: Hospital Clarity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Clear''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Very Confused''}'
+      - '{''label'': ''Confused''}'
+      required: false

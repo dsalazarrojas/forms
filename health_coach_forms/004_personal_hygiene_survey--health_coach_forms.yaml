@@ -1,0 +1,148 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Personal Hygiene Survey
+    pages:
+    - id: 1
+      name: personal_hygiene_practices
+      label: Personal Hygiene Practices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hygiene_frequency
+      label: Hygiene Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      - Never
+      required: true
+    - id: 3
+      name: hand_washing
+      label: Hand Washing
+      hint: null
+      type: select_multiple
+      options:
+      - After using the bathroom
+      - After handling animals
+      - Before eating
+      - After blowing nose/throat
+      - Before bed
+      required: true
+    - id: 4
+      name: showering
+      label: Showering
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - Less than once a week
+      required: true
+    - id: 5
+      name: brushing_teeth
+      label: Brushing Teeth
+      hint: null
+      type: select_one
+      options:
+      - Twice a day
+      - Once a day
+      - Several times a week
+      - Less than once a week
+      required: true
+    - id: 6
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: smoking_frequency
+      label: Smoking Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: stress_management
+      label: Stress Management
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      required: true
+    - id: 11
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      required: true
+    - id: 12
+      name: self_care
+      label: Self-Care
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: health_issues
+      label: Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Headaches
+      - Fatigue
+      - Skin issues
+      - Other
+      required: true
+    - id: 14
+      name: note
+      label: Additional Comments
+      hint: Optional notes for additional comments
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Money Laundering Audit Form
+    pages:
+    - id: 1
+      name: audit_id
+      label: Audit Reference Number
+      hint: Unique audit identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: institution_name
+      label: Financial Institution Name
+      hint: Name of institution being audited
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_type
+      label: Institution Type
+      hint: Type of financial institution
+      type: select_one
+      options:
+      - Bank
+      - Credit union
+      - Investment firm
+      - Insurance company
+      - Money services business
+      - Cryptocurrency exchange
+      - Other
+      required: true
+    - id: 4
+      name: audit_date
+      label: Audit Date
+      hint: Date of audit
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: audit_period_start
+      label: Audit Period Start Date
+      hint: Beginning of review period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_period_end
+      label: Audit Period End Date
+      hint: End of review period
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lead_auditor
+      label: Lead Auditor Name
+      hint: Primary auditor conducting review
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: audit_team_size
+      label: Audit Team Size
+      hint: Number of auditors
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: audit_scope
+      label: Audit Scope
+      hint: What areas are being reviewed
+      type: select_multiple
+      options:
+      - Customer due diligence
+      - Transaction monitoring
+      - Suspicious activity reporting
+      - Record keeping
+      - Training programs
+      - Risk assessment
+      - Sanctions screening
+      - High-risk accounts
+      required: true
+    - id: 10
+      name: risk_rating
+      label: Institution Risk Rating
+      hint: Overall risk classification
+      type: select_one
+      options:
+      - Low risk
+      - Medium-low risk
+      - Medium risk
+      - Medium-high risk
+      - High risk
+      required: true
+    - id: 11
+      name: cdd_compliance
+      label: Customer Due Diligence Compliance
+      hint: Rate compliance level
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Partially compliant
+      - Non-compliant
+      - Not applicable
+      required: true
+    - id: 12
+      name: kyc_procedures
+      label: KYC Procedures Assessment
+      hint: Are KYC procedures adequate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Needs improvement
+      - Inadequate
+      required: true
+    - id: 13
+      name: edd_implementation
+      label: Enhanced Due Diligence Implementation
+      hint: For high-risk customers
+      type: select_one
+      options:
+      - Fully implemented
+      - Partially implemented
+      - Not implemented
+      - Not applicable
+      required: true
+    - id: 14
+      name: transaction_monitoring
+      label: Transaction Monitoring System
+      hint: Effectiveness of monitoring
+      type: select_one
+      options:
+      - Highly effective
+      - Effective
+      - Adequate
+      - Ineffective
+      - Not in place
+      required: true
+    - id: 15
+      name: sar_filing
+      label: Suspicious Activity Report Filing
+      hint: Timeliness and accuracy
+      type: select_one
+      options:
+      - Always timely and accurate
+      - Usually timely
+      - Sometimes delayed
+      - Often problematic
+      - Not filing SARs
+      required: true
+    - id: 16
+      name: sar_count_period
+      label: Number of SARs Filed in Period
+      hint: Total SARs filed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: record_keeping
+      label: Record Keeping Compliance
+      hint: Are records maintained properly
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Needs improvement
+      - Non-compliant
+      required: true
+    - id: 18
+      name: training_program
+      label: AML Training Program
+      hint: Quality of staff training
+      type: select_one
+      options:
+      - Comprehensive and current
+      - Adequate
+      - Basic
+      - Outdated
+      - No formal training
+      required: true
+    - id: 19
+      name: staff_training_rate
+      label: Percentage of Staff Trained
+      hint: Approximate percentage
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: risk_assessment
+      label: Risk Assessment Program
+      hint: Is risk assessment conducted regularly
+      type: select_one
+      options:
+      - Annually with updates
+      - Annually
+      - Irregularly
+      - Never
+      required: true
+    - id: 21
+      name: sanctions_screening
+      label: Sanctions Screening Process
+      hint: Effectiveness of screening
+      type: select_one
+      options:
+      - Automated and comprehensive
+      - Manual but thorough
+      - Partial screening
+      - Inadequate
+      - Not performed
+      required: true
+    - id: 22
+      name: pep_monitoring
+      label: PEP Monitoring
+      hint: Politically exposed persons
+      type: select_one
+      options:
+      - Comprehensive monitoring
+      - Basic monitoring
+      - Limited monitoring
+      - No monitoring
+      required: true
+    - id: 23
+      name: findings_section
+      label: -- Audit Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: critical_findings
+      label: Critical Findings
+      hint: Number of critical issues
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: major_findings
+      label: Major Findings
+      hint: Number of major issues
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: minor_findings
+      label: Minor Findings
+      hint: Number of minor issues
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: findings_description
+      label: Description of Key Findings
+      hint: Summarize main issues
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: recommendations
+      label: Recommendations
+      hint: Suggested corrective actions
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: remediation_timeline
+      label: Recommended Remediation Timeline
+      hint: Timeframe for addressing issues
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: follow_up_required
+      label: Follow-up Audit Required
+      hint: Is additional review needed
+      type: select_one
+      options:
+      - Yes, within 30 days
+      - Yes, within 90 days
+      - Yes, within 6 months
+      - No, next scheduled audit
+      required: true
+    - id: 31
+      name: overall_compliance_rating
+      label: Overall Compliance Rating
+      hint: Final assessment
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs improvement
+      - Unsatisfactory
+      - Critical deficiencies
+      required: true
+    - id: 32
+      name: auditor_signature
+      label: Lead Auditor Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: management_response
+      label: Management Response
+      hint: Institution response to findings
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: audit_completion_date
+      label: Audit Completion Date
+      hint: Date audit finalized
+      type: date
+      options: []
+      required: true

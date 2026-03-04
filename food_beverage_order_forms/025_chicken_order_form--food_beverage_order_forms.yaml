@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chicken Order Form
+    pages:
+    - id: 1
+      name: order_intro
+      label: -- Chicken Order Form --
+      hint: Place your order for fresh poultry products
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business or restaurant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Desired delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: chicken_type
+      label: Type of chicken product
+      hint: null
+      type: select_one
+      options:
+      - Whole chicken
+      - Chicken breasts
+      - Chicken thighs
+      - Chicken drumsticks
+      - Chicken wings
+      - Chicken ground meat
+      - Mixed chicken pieces
+      - Specialty cuts
+      required: true
+    - id: 8
+      name: meat_quality
+      label: Meat quality grade
+      hint: null
+      type: select_one
+      options:
+      - Grade A (Premium)
+      - Grade B (Standard)
+      - Grade C (Economy)
+      - Organic
+      - Free-range
+      required: true
+    - id: 9
+      name: preparation_style
+      label: Preparation style
+      hint: null
+      type: select_one
+      options:
+      - Fresh chilled
+      - Frozen
+      - Fresh butchered
+      - Marinated
+      - Pre-portioned
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: unit
+      label: Unit of measurement
+      hint: null
+      type: select_one
+      options:
+      - Pounds (lbs)
+      - Kilograms (kg)
+      - Pieces
+      - Cases
+      - Portions
+      required: true
+    - id: 12
+      name: price_per_unit
+      label: Price per unit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special preparation requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State or province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: delivery_time_window
+      label: Preferred delivery time window
+      hint: null
+      type: select_one
+      options:
+      - Early morning (6-8 AM)
+      - Morning (8-11 AM)
+      - Noon (11 AM - 2 PM)
+      - Afternoon (2-5 PM)
+      - Evening (5-8 PM)
+      - Flexible
+      required: true
+    - id: 19
+      name: special_handling
+      label: Special handling or storage requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recurring_order
+      label: Is this a recurring order?
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 21
+      name: order_notes
+      label: Additional order notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_acceptance
+      label: I agree to the delivery and payment terms
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

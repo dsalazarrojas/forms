@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Trading Card Deck Submission Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Enter Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deck_format
+      label: Deck Format
+      hint: null
+      type: select_one
+      options:
+      - '8'
+      - '16'
+      - '64'
+      - '100'
+      - '160'
+      - '300'
+      required: false
+    - id: 4
+      name: deck_decklist
+      label: Deck Decklist
+      hint: List the cards in your deck with their quantities separated by commas
+        (e.g., 2x Card A, 3x Card B)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deck_location
+      label: Deck Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 6
+      name: deck_tournament_date
+      label: Tournament Date
+      hint: Date of the event (if offline) or date of the tournament start time (if
+        online)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: deck_tournament_name
+      label: Tournament Name
+      hint: If this is an online tournament, enter the name here
+      type: text
+      options: []
+      required: false

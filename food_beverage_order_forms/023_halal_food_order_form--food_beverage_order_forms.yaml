@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halal Food Order Form
+    pages:
+    - id: 1
+      name: orderer_name
+      label: Orderer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_type
+      label: Halal Food Preference
+      hint: null
+      type: select_one
+      options:
+      - Halal Food
+      - Non-Halal Food
+      - Other
+      required: false
+    - id: 3
+      name: order_date
+      label: Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

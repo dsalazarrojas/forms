@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gluten Free Menu Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: gluten_free_menu_items
+      label: Gluten Free Menu Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: gluten_free_menu_item_selected
+      label: Gluten Free Menu Item Selected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gluten_free_options
+      label: Gluten Free Options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      required: false
+    - id: 6
+      name: gluten_free_options_selected
+      label: Gluten Free Options Selected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

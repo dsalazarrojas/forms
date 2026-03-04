@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Influence Assessment
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: substance_involvement
+      label: Substance Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - Amphetamine
+      - Caffeine
+      - Cocaine
+      - Heroin
+      - LSD
+      - Opiate
+      - THC
+      required: true
+    - id: 4
+      name: assessor_details
+      label: Assessor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_observations
+      label: Incident Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: substance_doses
+      label: Substance Doses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assessor_rating
+      label: Assessor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: text
+      options: []
+      required: false

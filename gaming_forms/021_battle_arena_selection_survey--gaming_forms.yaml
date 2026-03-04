@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Battle Arena Selection Survey
+    pages:
+      - id: 1
+        name: gamer_name
+        label: Gamer Name or Tag
+        hint: Your in-game name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: team_name
+        label: Team or Clan Name
+        hint: Your team if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: game_title
+        label: Primary Game Title
+        hint: Which game do you play
+        type: select_one
+        options:
+          - Arena of Valor
+          - Mobile Legends
+          - League of Legends
+          - Dota 2
+          - Smite
+          - Heroes of the Storm
+          - Other MOBA
+        required: true
+      - id: 5
+        name: player_rank
+        label: Current Rank or Tier
+        hint: Your competitive rank
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: arena_preference_1
+        label: First Choice Arena
+        hint: Preferred battle arena
+        type: select_one
+        options:
+          - Summoner Rift Style
+          - 5v5 Classic
+          - 3v3 Domination
+          - ARAM Random
+          - Ranked Arena
+          - Tournament Arena
+        required: true
+      - id: 7
+        name: arena_preference_2
+        label: Second Choice Arena
+        hint: Backup choice
+        type: select_one
+        options:
+          - Summoner Rift Style
+          - 5v5 Classic
+          - 3v3 Domination
+          - ARAM Random
+          - Ranked Arena
+          - Tournament Arena
+        required: false
+      - id: 8
+        name: map_size_preference
+        label: Map Size Preference
+        hint: What size do you prefer
+        type: select_one
+        options:
+          - Small - Fast Paced
+          - Medium - Balanced
+          - Large - Strategic
+        required: true
+      - id: 9
+        name: game_mode_preference
+        label: Game Mode Preference
+        hint: What mode do you enjoy
+        type: select_one
+        options:
+          - Competitive Ranked
+          - Casual Unranked
+          - Tournament Mode
+          - Practice Mode
+          - Custom Games
+        required: true
+      - id: 10
+        name: important_features
+        label: Most Important Arena Features
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Low Latency
+          - Anti-Cheat System
+          - Spectator Mode
+          - Replay System
+          - Voice Chat
+          - Ping System
+          - Match History
+          - Stats Tracking
+        required: true
+      - id: 11
+        name: visual_quality
+        label: Visual Quality Priority
+        hint: How important is graphics
+        type: select_one
+        options:
+          - Very Important
+          - Somewhat Important
+          - Neutral
+          - Not Important
+        required: true
+      - id: 12
+        name: performance_priority
+        label: Performance Priority
+        hint: FPS and latency
+        type: select_one
+        options:
+          - Critical - Must Have High FPS
+          - Important
+          - Nice to Have
+          - Not a Concern
+        required: true
+      - id: 13
+        name: matchmaking_preference
+        label: Matchmaking Preference
+        hint: How should matches be made
+        type: select_one
+        options:
+          - Skill Based
+          - Random
+          - Region Based
+          - Time Based - Fastest Queue
+        required: true
+      - id: 14
+        name: play_schedule
+        label: Typical Play Schedule
+        hint: When do you play
+        type: select_one
+        options:
+          - Morning
+          - Afternoon
+          - Evening
+          - Late Night
+          - Any Time
+        required: true
+      - id: 15
+        name: platform_used
+        label: Primary Platform
+        hint: What do you play on
+        type: select_one
+        options:
+          - PC
+          - Console
+          - Mobile
+          - Multiple Platforms
+        required: true
+      - id: 16
+        name: satisfaction_current
+        label: Satisfaction with Current Arenas
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 17
+        name: improvements_needed
+        label: Improvements Needed
+        hint: What should be better
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

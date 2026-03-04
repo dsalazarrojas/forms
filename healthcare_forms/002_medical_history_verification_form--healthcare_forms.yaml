@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_history_verification_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history_verification
+      label: Medical History Verification
+      hint: Please provide a detailed account of the patient's medical history.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition_list
+      label: Medical Condition List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''condition1''}'
+      - '{''id'': 2, ''name'': ''condition2''}'
+      - '{''id'': 3, ''name'': ''condition3''}'
+      required: false
+    - id: 5
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''medicine1''}'
+      - '{''id'': 2, ''name'': ''medicine2''}'
+      - '{''id'': 3, ''name'': ''medicine3''}'
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''allergy1''}'
+      - '{''id'': 2, ''name'': ''allergy2''}'
+      required: false
+    - id: 7
+      name: medical_history_verification_2
+      label: Medical History Verification 2
+      hint: Please describe any medical history that could have an impact on current
+        treatment.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_verification_3
+      label: Medical History Verification 3
+      hint: Please provide a detailed account of the patient's medical history.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history_verification_4
+      label: Medical History Verification 4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_verification_5
+      label: Medical History Verification 5
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_history_verification_6
+      label: Medical History Verification 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history_verification_7
+      label: Medical History Verification 7
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: medical_history_verification_8
+      label: Medical History Verification 8
+      hint: Please describe any medical history that could have an impact on current
+        treatment.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_history_verification_9
+      label: Medical History Verification 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history_verification_10
+      label: Medical History Verification 10
+      hint: null
+      type: number
+      options: []
+      required: false

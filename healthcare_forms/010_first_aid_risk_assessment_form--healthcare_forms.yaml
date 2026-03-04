@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Aid Risk Assessment Form
+    pages:
+    - id: 1
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - Facility
+      - Company
+      - School
+      required: true
+    - id: 2
+      name: first_aid_equipment
+      label: First Aid Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid Kit
+      - Bandages
+      - Gloves
+      - CPR Mask
+      - CPR Bag
+      required: true
+    - id: 3
+      name: first_aid_training
+      label: First Aid Training
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid and CPR
+      - Basic Life Support
+      - Emergency Response
+      required: true
+    - id: 4
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: first_aid_inspection
+      label: First Aid Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_characteristics
+      label: Facility Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_aid_risk_factors
+      label: First Aid Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_characteristics
+      label: Site Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: first_aid_supplies
+      label: First Aid Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid Kit
+      - Bandages
+      - Gloves
+      - CPR Mask
+      - CPR Bag
+      required: false
+    - id: 12
+      name: first_aid_supplies_quantity
+      label: First Aid Supplies Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: first_aid_equipment_location
+      label: First Aid Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: first_aid_equipment_location_details
+      label: First Aid Equipment Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_aid_supplies_reorder_frequency
+      label: First Aid Supplies Reorder Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: first_aid_training_frequency
+      label: First Aid Training Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: first_aid_review_frequency
+      label: First Aid Review Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: first_aid_reporting
+      label: First Aid Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - Immediate
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 19
+      name: first_aid_supplies_status
+      label: First Aid Supplies Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Available but Expired
+      - Not Available
+      required: false
+    - id: 20
+      name: first_aid_supplies_status_comments
+      label: First Aid Supplies Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: first_aid_training_status
+      label: First Aid Training Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: first_aid_inspection_frequency
+      label: First Aid Inspection Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: first_aid_supplies_expiration
+      label: First Aid Supplies Expiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: first_aid_risk_categorization
+      label: First Aid Risk Categorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

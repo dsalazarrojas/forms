@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Data Declaration Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: Enter your contact details for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: Describe your medical history
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List all medical conditions you have experienced or have a history of
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medication_usage
+      label: Medication Usage
+      hint: List all medications you are currently taking or have taken in the past
+        5 years
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_procedure
+      label: Medical Procedure
+      hint: Describe any past medical procedures you have had
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_research_history
+      label: Medical Research History
+      hint: List any medical research participation in which you have already participated
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_research_history_detail
+      label: Medical Research History Detail
+      hint: Please provide details of your previous medical research participation
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_research_history_previous_study
+      label: Previous Study
+      hint: Enter details of the previous study you have participated in
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: medical_research_history_previous_study_date
+      label: Previous Study Date
+      hint: Enter the date of your previous study
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medical_research_history_previous_study_location
+      label: Previous Study Location
+      hint: Enter the location of your previous study
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: medical_research_history_previous_study_institution
+      label: Previous Study Institution
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_research_history_previous_study_institution_2
+      label: Previous Study Institution 2
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_research_history_previous_study_institution_3
+      label: Previous Study Institution 3
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_research_history_previous_study_institution_4
+      label: Previous Study Institution 4
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_research_history_previous_study_institution_5
+      label: Previous Study Institution 5
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_research_history_previous_study_institution_6
+      label: Previous Study Institution 6
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_research_history_previous_study_institution_7
+      label: Previous Study Institution 7
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_research_history_previous_study_institution_8
+      label: Previous Study Institution 8
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_research_history_previous_study_institution_9
+      label: Previous Study Institution 9
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_research_history_previous_study_institution_10
+      label: Previous Study Institution 10
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_research_history_previous_study_institution_11
+      label: Previous Study Institution 11
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_research_history_previous_study_institution_12
+      label: Previous Study Institution 12
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_research_history_previous_study_institution_13
+      label: Previous Study Institution 13
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medical_research_history_previous_study_institution_14
+      label: Previous Study Institution 14
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medical_research_history_previous_study_institution_15
+      label: Previous Study Institution 15
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: medical_research_history_previous_study_institution_16
+      label: Previous Study Institution 16
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: medical_research_history_previous_study_institution_17
+      label: Previous Study Institution 17
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: medical_research_history_previous_study_institution_18
+      label: Previous Study Institution 18
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: medical_research_history_previous_study_institution_19
+      label: Previous Study Institution 19
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: medical_research_history_previous_study_institution_20
+      label: Previous Study Institution 20
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: medical_research_history_previous_study_institution_21
+      label: Previous Study Institution 21
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: medical_research_history_previous_study_institution_22
+      label: Previous Study Institution 22
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: medical_research_history_previous_study_institution_23
+      label: Previous Study Institution 23
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: medical_research_history_previous_study_institution_24
+      label: Previous Study Institution 24
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: medical_research_history_previous_study_institution_25
+      label: Previous Study Institution 25
+      hint: Enter the institution where you participated in your previous study
+      type: text
+      options: []
+      required: false

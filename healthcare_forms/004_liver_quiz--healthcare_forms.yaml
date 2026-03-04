@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liver Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: liver_function
+      label: liver_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: liver_dysfunction
+      label: liver_dysfunction
+      hint: null
+      type: select_multiple
+      options:
+      - Fatty Liver Disease
+      - Viral Hepatitis
+      - Autoimmune Hepatitis
+      required: false
+    - id: 4
+      name: liver_test
+      label: liver_test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: liver_result
+      label: liver_result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: liver_treatment
+      label: liver_treatment
+      hint: null
+      type: select_one
+      options:
+      - Surgery
+      - Medicine
+      - Dietary Changes
+      required: false
