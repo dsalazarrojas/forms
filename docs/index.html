@@ -200,11 +200,19 @@
             </div>
         </div>
 
-        <!-- Recent Forms -->
+        <!-- Forms List -->
         <div>
-            <h2 class="text-2xl font-bold mb-6">Recent Forms</h2>
+            <div class="flex items-baseline justify-between mb-6">
+                <h2 id="forms-section-title" class="text-2xl font-bold">Recent Forms</h2>
+                <span id="forms-section-count" class="text-sm text-gray-500"></span>
+            </div>
             <div id="recent-forms" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <!-- Recent forms will be loaded here -->
+                <!-- Forms will be loaded here -->
+            </div>
+            <div id="load-more-container" class="mt-8 text-center hidden">
+                <button id="load-more-btn" class="bg-indigo-600 hover:bg-indigo-700 text-white font-medium py-2 px-6 rounded-md transition">
+                    Load More
+                </button>
             </div>
         </div>
     </main>
@@ -265,71 +273,12 @@
     <script>
         // Load forms index
         let formsIndex = null;
-        
-        async function loadFormsIndex() {
-            try {
-                const response = await fetch('forms-index.json');
-                formsIndex = await response.json();
-                
-                // Update stats
-                document.getElementById('total-forms').textContent = formsIndex.totalForms.toLocaleString();
-                
-                const categories = new Set(formsIndex.forms.map(f => f.category));
-                document.getElementById('total-categories').textContent = categories.size.toLocaleString();
-                
-                const english = formsIndex.forms.filter(f => f.language === 'en').length;
-                const spanish = formsIndex.forms.filter(f => f.language === 'es').length;
-                document.getElementById('english-forms').textContent = english.toLocaleString();
-                document.getElementById('spanish-forms').textContent = spanish.toLocaleString();
-                
-                // Populate category filter
-                const categoryFilter = document.getElementById('category-filter');
-                categories.forEach(cat => {
-                    const option = document.createElement('option');
-                    option.value = cat;
-                    option.textContent = cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-                    categoryFilter.appendChild(option);
-                });
-                
-                // Render categories grid
-                renderCategoriesGrid(categories);
-                
-                // Render recent forms
-                renderRecentForms();
-                
-            } catch (error) {
-                console.error('Error loading forms index:', error);
-            }
-        }
-        
-        function renderCategoriesGrid(categories) {
-            const grid = document.getElementById('categories-grid');
-            const categoryCounts = {};
-            
-            formsIndex.forms.forEach(form => {
-                categoryCounts[form.category] = (categoryCounts[form.category] || 0) + 1;
-            });
-            
-            // Sort by count (descending)
-            const sorted = Array.from(categories).sort((a, b) => categoryCounts[b] - categoryCounts[a]);
-            
-            grid.innerHTML = sorted.map(cat => `
-                <a href="#category=${encodeURIComponent(cat)}" class="category-card bg-white rounded-lg shadow-sm p-6 border border-gray-200 transition-all block">
-                    <h3 class="text-lg font-semibold text-gray-900 mb-2">
-                        ${cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
-                    </h3>
-                    <p class="text-gray-600">${categoryCounts[cat].toLocaleString()} forms</p>
-                    ${cat.includes('health') || cat.includes('medical') ? '<span class="badge badge-odk mt-2">ODK-ready</span>' : ''}
-                    ${cat.includes('cloud') || cat.includes('worker') ? '<span class="badge badge-cloudflare mt-2 ml-2">Cloudflare</span>' : ''}
-                </a>
-            `).join('');
-        }
-        
-        function renderRecentForms() {
-            const container = document.getElementById('recent-forms');
-            const recent = formsIndex.forms.slice(-9).reverse();
-            
-            container.innerHTML = recent.map(form => `
+        let currentFiltered = [];
+        let visibleCount = 24;
+        const PAGE_SIZE = 24;
+
+        function formCardHtml(form) {
+            return `
                 <div class="bg-white rounded-lg shadow-sm p-6 border border-gray-200">
                     <div class="flex items-start justify-between mb-2">
                         <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">
@@ -345,9 +294,110 @@
                         </a>
                     </div>
                 </div>
+            `;
+        }
+
+        function renderFormsList(forms, title) {
+            currentFiltered = forms;
+            visibleCount = PAGE_SIZE;
+
+            const titleEl = document.getElementById('forms-section-title');
+            const countEl = document.getElementById('forms-section-count');
+            const container = document.getElementById('recent-forms');
+            const loadMoreContainer = document.getElementById('load-more-container');
+
+            titleEl.textContent = title;
+            const showing = Math.min(PAGE_SIZE, forms.length);
+            countEl.textContent = forms.length > 0
+                ? `Showing ${showing.toLocaleString()} of ${forms.length.toLocaleString()}`
+                : '0 results';
+
+            container.innerHTML = forms.slice(0, PAGE_SIZE).map(formCardHtml).join('');
+
+            if (forms.length > PAGE_SIZE) {
+                loadMoreContainer.classList.remove('hidden');
+                document.getElementById('load-more-btn').textContent =
+                    `Load More (${(forms.length - PAGE_SIZE).toLocaleString()} remaining)`;
+            } else {
+                loadMoreContainer.classList.add('hidden');
+            }
+        }
+
+        async function loadFormsIndex() {
+            try {
+                const response = await fetch('forms-index.json');
+                formsIndex = await response.json();
+
+                // Update stats
+                document.getElementById('total-forms').textContent = formsIndex.totalForms.toLocaleString();
+
+                const categories = new Set(formsIndex.forms.map(f => f.category));
+                document.getElementById('total-categories').textContent = categories.size.toLocaleString();
+
+                const english = formsIndex.forms.filter(f => f.language === 'en').length;
+                const spanish = formsIndex.forms.filter(f => f.language === 'es').length;
+                document.getElementById('english-forms').textContent = english.toLocaleString();
+                document.getElementById('spanish-forms').textContent = spanish.toLocaleString();
+
+                // Populate category filter (sorted alphabetically)
+                const categoryFilter = document.getElementById('category-filter');
+                Array.from(categories).sort().forEach(cat => {
+                    const option = document.createElement('option');
+                    option.value = cat;
+                    option.textContent = cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                    categoryFilter.appendChild(option);
+                });
+
+                // Render categories grid
+                renderCategoriesGrid(categories);
+
+                // Apply hash or show recent forms
+                applyHashFilter();
+
+            } catch (error) {
+                console.error('Error loading forms index:', error);
+            }
+        }
+
+        function renderCategoriesGrid(categories) {
+            const grid = document.getElementById('categories-grid');
+            const categoryCounts = {};
+
+            formsIndex.forms.forEach(form => {
+                categoryCounts[form.category] = (categoryCounts[form.category] || 0) + 1;
+            });
+
+            // Sort by count (descending)
+            const sorted = Array.from(categories).sort((a, b) => categoryCounts[b] - categoryCounts[a]);
+
+            grid.innerHTML = sorted.map(cat => `
+                <a href="#category=${encodeURIComponent(cat)}" class="category-card bg-white rounded-lg shadow-sm p-6 border border-gray-200 transition-all block">
+                    <h3 class="text-lg font-semibold text-gray-900 mb-2">
+                        ${cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                    </h3>
+                    <p class="text-gray-600">${categoryCounts[cat].toLocaleString()} forms</p>
+                    ${cat.includes('health') || cat.includes('medical') ? '<span class="badge badge-odk mt-2">ODK-ready</span>' : ''}
+                    ${cat.includes('cloud') || cat.includes('worker') ? '<span class="badge badge-cloudflare mt-2 ml-2">Cloudflare</span>' : ''}
+                </a>
             `).join('');
         }
-        
+
+        function applyHashFilter() {
+            if (!formsIndex) return;
+            const hash = location.hash.slice(1); // remove #
+            const params = new URLSearchParams(hash);
+            const cat = params.get('category');
+            if (cat) {
+                document.getElementById('category-filter').value = cat;
+                filterForms(/* scrollToResults */ true);
+            } else {
+                document.getElementById('category-filter').value = '';
+                // Show most recent forms
+                renderFormsList([...formsIndex.forms].reverse().slice(0, PAGE_SIZE * 3), 'Recent Forms');
+                document.getElementById('forms-section-count').textContent = '';
+            }
+        }
+
         // Initialize Pagefind
         window.addEventListener('DOMContentLoaded', () => {
             loadFormsIndex();
@@ -363,19 +413,46 @@
                 document.getElementById('search').style.display = 'none';
             }
         });
-        
+
+        // Hash change: category card clicks
+        window.addEventListener('hashchange', applyHashFilter);
+
         // Filter functionality
-        document.getElementById('category-filter').addEventListener('change', filterForms);
-        document.getElementById('language-filter').addEventListener('change', filterForms);
-        document.getElementById('questions-filter').addEventListener('change', filterForms);
+        document.getElementById('category-filter').addEventListener('change', () => {
+            const cat = document.getElementById('category-filter').value;
+            if (cat) {
+                history.replaceState(null, '', `#category=${encodeURIComponent(cat)}`);
+            } else {
+                history.replaceState(null, '', location.pathname);
+            }
+            filterForms(true);
+        });
+        document.getElementById('language-filter').addEventListener('change', () => filterForms(true));
+        document.getElementById('questions-filter').addEventListener('change', () => filterForms(true));
         document.getElementById('reset-filters').addEventListener('click', () => {
             document.getElementById('category-filter').value = '';
             document.getElementById('language-filter').value = '';
             document.getElementById('questions-filter').value = '';
-            filterForms();
+            history.replaceState(null, '', location.pathname);
+            applyHashFilter();
         });
-        
-        function filterForms() {
+
+        // Load more button
+        document.getElementById('load-more-btn').addEventListener('click', () => {
+            visibleCount += PAGE_SIZE;
+            const container = document.getElementById('recent-forms');
+            container.innerHTML = currentFiltered.slice(0, visibleCount).map(formCardHtml).join('');
+            const remaining = currentFiltered.length - visibleCount;
+            const countEl = document.getElementById('forms-section-count');
+            countEl.textContent = `Showing ${Math.min(visibleCount, currentFiltered.length).toLocaleString()} of ${currentFiltered.length.toLocaleString()}`;
+            if (remaining <= 0) {
+                document.getElementById('load-more-container').classList.add('hidden');
+            } else {
+                document.getElementById('load-more-btn').textContent = `Load More (${remaining.toLocaleString()} remaining)`;
+            }
+        });
+
+        function filterForms(scrollToResults) {
             if (!formsIndex) return;
 
             const category = document.getElementById('category-filter').value;
@@ -383,35 +460,22 @@
             const questions = document.getElementById('questions-filter').value;
 
             let filtered = formsIndex.forms;
-            
+
             if (category) filtered = filtered.filter(f => f.category === category);
             if (language) filtered = filtered.filter(f => f.language === language);
-            
             if (questions === 'short') filtered = filtered.filter(f => f.questionCount >= 5 && f.questionCount <= 10);
             if (questions === 'medium') filtered = filtered.filter(f => f.questionCount > 10 && f.questionCount <= 20);
             if (questions === 'long') filtered = filtered.filter(f => f.questionCount > 20);
-            
-            // Update recent forms with filtered results
-            const container = document.getElementById('recent-forms');
-            const recent = filtered.slice(-9).reverse();
-            
-            container.innerHTML = recent.map(form => `
-                <div class="bg-white rounded-lg shadow-sm p-6 border border-gray-200">
-                    <div class="flex items-start justify-between mb-2">
-                        <h3 class="text-lg font-semibold text-gray-900 line-clamp-2">
-                            ${form.title}
-                        </h3>
-                        ${form.language === 'es' ? '<span class="badge badge-es">ES</span>' : ''}
-                    </div>
-                    <p class="text-sm text-gray-600 mb-3">${form.category.replace(/_/g, ' ')}</p>
-                    <div class="flex items-center justify-between">
-                        <span class="text-xs text-gray-500">${form.questionCount} questions</span>
-                        <a href="preview.html?form=${encodeURIComponent(form.filePath)}" class="text-indigo-600 hover:text-indigo-800 text-sm font-medium">
-                            Preview →
-                        </a>
-                    </div>
-                </div>
-            `).join('');
+
+            const title = category
+                ? category.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
+                : 'Filtered Forms';
+
+            renderFormsList(filtered, title);
+
+            if (scrollToResults) {
+                document.getElementById('forms-section-title').scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
         }
     </script>
 </body>
