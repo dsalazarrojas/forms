@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_schedule_change_request_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: mm/dd/yy format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_in
+      label: Time In
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: time_out
+      label: Time Out
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: old_shift
+      label: Old Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''morning''}'
+      - '{''value'': ''afternoon''}'
+      - '{''value'': ''evening''}'
+      required: true
+    - id: 6
+      name: new_shift
+      label: New Shift
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: reason
+      label: Reason
+      hint: Please enter a brief reason for the change
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_note
+      label: Employee Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Finance Dialogue Registration Form
+    pages:
+    - id: 1
+      name: roundtable_topic_interests
+      label: topic_interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: roundtable_attendance_consent
+      label: roundtable_attendance_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: webinars
+      label: webinars
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: expert_discussions
+      label: expert_discussions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_numbers
+      label: phone_numbers
+      hint: null
+      type: text
+      options: []
+      required: false

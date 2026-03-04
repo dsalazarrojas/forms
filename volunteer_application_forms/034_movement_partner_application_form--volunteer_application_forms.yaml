@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movement Partner Application Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Enter Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_address
+      label: Partner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: areas_of_interest
+      label: Areas of Interest
+      hint: List the areas you're interested in
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: collaboration_request
+      label: Collaboration Request
+      hint: What kind of collaboration are you looking for?
+      type: select_multiple
+      options:
+      - Partnership
+      - Collaboration
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: motivation
+      label: Motivation
+      hint: Why are you interested in partnering with us?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_website
+      label: Partner Website
+      hint: null
+      type: text
+      options: []
+      required: false

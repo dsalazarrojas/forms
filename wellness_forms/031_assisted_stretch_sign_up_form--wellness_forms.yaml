@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assisted Stretch Sign Up Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 6
+      name: fitness_level
+      label: Current Fitness Level
+      hint: How active are you?
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly Active
+      - Moderately Active
+      - Very Active
+      - Extremely Active
+      required: true
+    - id: 7
+      name: stretch_experience
+      label: Prior Stretching Experience
+      hint: Have you done stretching classes?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Very Familiar
+      required: true
+    - id: 8
+      name: flexibility_goals
+      label: Flexibility Goals
+      hint: What do you want to achieve?
+      type: select_multiple
+      options:
+      - Increase flexibility
+      - Reduce muscle tension
+      - Pain relief
+      - Injury recovery
+      - Stress relief
+      - General wellness
+      required: true
+    - id: 9
+      name: class_preference_day
+      label: Preferred Class Day
+      hint: Which day works best?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 10
+      name: class_preference_time
+      label: Preferred Class Time
+      hint: What time suits you?
+      type: select_one
+      options:
+      - Morning 6am - 9am
+      - Mid-morning 9am - 12pm
+      - Afternoon 12pm - 3pm
+      - Late afternoon 3pm - 6pm
+      - Evening 6pm - 9pm
+      required: true
+    - id: 11
+      name: session_duration
+      label: Preferred Session Duration
+      hint: How long should class be?
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 12
+      name: class_environment
+      label: Preferred Class Environment
+      hint: In-person or online?
+      type: select_one
+      options:
+      - In-Person
+      - Online
+      - No Preference
+      required: true
+    - id: 13
+      name: injury_or_condition
+      label: Current Injuries or Conditions
+      hint: Any physical limitations?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_restrictions
+      label: Any Medical Restrictions
+      hint: Doctor's recommendations?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Current Medications Affecting Movement
+      hint: Medications that limit activity?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: Relevant allergies?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: problem_areas
+      label: Areas of Problem or Tightness
+      hint: Where do you have issues?
+      type: select_multiple
+      options:
+      - Neck
+      - Shoulders
+      - Upper Back
+      - Lower Back
+      - Hips
+      - Hamstrings
+      - Calves
+      - Full Body
+      required: true
+    - id: 18
+      name: how_heard_about_class
+      label: How Did You Hear About This Class
+      hint: Source of information
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Website
+      - Google Search
+      - Flyer or Advertisement
+      - Email Newsletter
+      - Other
+      required: true
+    - id: 19
+      name: commitment_level
+      label: How Many Classes Per Month
+      hint: How often will you attend?
+      type: select_one
+      options:
+      - Once a Month
+      - 2-3 Times a Month
+      - 1-2 Times a Week
+      - 3+ Times a Week
+      - Daily
+      required: true
+    - id: 20
+      name: payment_preference
+      label: Preferred Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Class Pass
+      - Monthly Membership
+      - Pay Per Class
+      - Annual Membership
+      required: true
+    - id: 21
+      name: waiver_acknowledgement
+      label: I agree to the liability waiver
+      hint: Accept terms and conditions
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: health_clearance
+      label: Medical Clearance from Doctor (if needed)
+      hint: Do you have clearance?
+      type: select_one
+      options:
+      - Not Needed
+      - Yes, Have Clearance
+      - No Clearance Yet
+      required: true
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signup_date
+      label: Sign-Up Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

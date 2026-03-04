@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Circularity Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Prophet's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: circular_reporting
+      label: Circular Reporting
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: preferences
+      label: Attendee Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 8
+      name: requirements
+      label: Attendee Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: goals_description
+      label: Goals Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: goals_priority
+      label: Goals Priority
+      hint: (Low, Medium, High)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: workshop_venue
+      label: Workshop Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_notes
+      label: Workshop Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: workshop_start_date
+      label: Workshop Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: workshop_end_date
+      label: Workshop End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: workshop_start_time
+      label: Workshop Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: workshop_end_time
+      label: Workshop End Time
+      hint: null
+      type: time
+      options: []
+      required: true

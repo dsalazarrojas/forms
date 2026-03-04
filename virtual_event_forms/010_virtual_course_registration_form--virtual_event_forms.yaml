@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Course Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_details
+      label: Course Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: Choose your preferred method
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Cash
+      required: false
+    - id: 10
+      name: agreement
+      label: Agreement
+      hint: Agree or Disagree
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 11
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Staff Performance Feedback Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: veterinarian_info
+      label: Veterinarian Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Outstanding'', ''value'': 5}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''label'': ''Satisfactory'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Needs Improvement'', ''value'': 2}'
+      - '{''id'': 5, ''label'': ''Poor'', ''value'': 1}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

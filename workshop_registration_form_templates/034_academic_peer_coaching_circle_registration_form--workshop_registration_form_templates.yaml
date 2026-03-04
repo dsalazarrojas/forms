@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Coaching Circle Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Registration for Peer Coaching --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Used for meeting invites
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or unit
+      hint: Your department or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_focus
+      label: Coaching focus areas
+      hint: Select up to three focus areas
+      type: select_multiple
+      options:
+        - Teaching practice
+        - Research mentoring
+        - Career development
+        - Work life balance
+      required: true
+    - id: 6
+      name: prior_experience
+      label: Prior coaching experience
+      hint: Indicate any previous facilitation or coaching
+      type: select_one
+      options:
+        - None
+        - Some
+        - Extensive
+      required: false
+    - id: 7
+      name: availability
+      label: Availability for sessions
+      hint: Typical days or times available
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Optional emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_share_contact
+      label: Consent to share contact with circle
+      hint: Permit contact details to be shared among participants
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true

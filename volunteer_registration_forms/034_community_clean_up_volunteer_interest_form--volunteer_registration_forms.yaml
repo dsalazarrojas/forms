@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Clean Up Volunteer Interest Form
+    pages:
+    - id: 1
+      name: section_volunteer_interest_info
+      label: -- Volunteer Details --
+      hint: Thank you for your interest in helping with our community clean-up!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_full_name_int
+      label: Full Name of Volunteer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email_int
+      label: Email Address
+      hint: For event coordination and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone_int
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_dob_int
+      label: Date of Birth
+      hint: Required for age verification and waiver purposes
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_address_int
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_volunteer_availability_int
+      label: -- Availability and Preferences --
+      hint: Select the dates and roles you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: clean_up_event_date_int
+      label: Which clean-up event(s) are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Spring Clean-Up (Saturday, April 12)
+      - Summer Clean-Up (Saturday, June 21)
+      - Fall Clean-Up (Saturday, September 13)
+      - Winter Clean-Up (Saturday, December 6)
+      required: true
+    - id: 9
+      name: preferred_volunteer_role_int
+      label: Preferred Volunteer Role
+      hint: Select your top choice
+      type: select_one
+      options:
+      - Litter Collection
+      - Tree/Shrub Planting
+      - Trail Maintenance
+      - Recycling Coordination
+      - Support/Registration Desk
+      - Refreshment Station
+      required: true
+    - id: 10
+      name: participation_level_int
+      label: Participation Level
+      hint: Select your group size
+      type: select_one
+      options:
+      - Individual
+      - Family (2-4 members)
+      - Group (5-10 members)
+      - Organization (10+ members)
+      required: true
+    - id: 11
+      name: group_organization_name_int
+      label: Group or Organization Name (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_skills_logistics_int
+      label: -- Skills and Logistics --
+      hint: Tell us about your background and any logistical needs.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: key_skills_expertise_int
+      label: What key skills or expertise would you bring to the clean-up
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: previous_volunteer_experience_int
+      label: Describe any previous volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: accessibility_needs_volunteer_int
+      label: Do you have any accessibility or accommodation needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_acknowledgment_int
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_signature_digital_int
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_date_final_int
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: newsletter_opt_in_int
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 20
+      name: referral_source_int
+      label: How did you hear about this clean-up interest form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

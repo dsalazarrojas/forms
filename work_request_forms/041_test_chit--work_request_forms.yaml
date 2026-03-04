@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Chit
+    pages:
+    - id: 1
+      name: work_request_form
+      label: Work Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: work_time
+      label: Work Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: work_requester
+      label: Work Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_details
+      label: Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Other
+      required: false

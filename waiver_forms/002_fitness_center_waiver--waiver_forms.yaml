@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_center_waiver
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_one
+      options:
+      - Personal Waiver
+      - Group Waiver
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Primary Caregiver
+      - Alternate Caregiver 1
+      - Alternate Caregiver 2
+      required: false
+    - id: 4
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Spouse
+      - Parent
+      - Friend
+      required: false
+    - id: 5
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_address
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Sign
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_witness
+      label: Witness
+      hint: null
+      type: select_one
+      options:
+      - No Witness
+      - Witness
+      required: false

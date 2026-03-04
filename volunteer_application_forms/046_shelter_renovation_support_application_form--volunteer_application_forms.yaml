@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Renovation Support Application Form
+    pages:
+    - id: 1
+      name: volunteer_app
+      label: Volunteer Application
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: project_budget_amount
+      label: Project Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: select_one_project_type
+      label: Select One Project Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Commercial
+      - Industrial
+      - Other
+      required: true
+    - id: 15
+      name: select_multiple_project_services
+      label: Select Multiple Project Services
+      hint: null
+      type: select_multiple
+      options:
+      - Plumbing
+      - Electrical
+      - HVAC
+      - Carpentry
+      - Painting
+      - Flooring
+      - Drywall
+      - Other
+      required: false
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

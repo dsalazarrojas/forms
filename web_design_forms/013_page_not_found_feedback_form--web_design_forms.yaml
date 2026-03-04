@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: page_not_found_feedback_form
+    pages:
+    - id: 1
+      name: page_not_found
+      label: Page Not Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_link
+      label: Page Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_did_it_happen
+      label: How did it happen
+      hint: null
+      type: select_multiple
+      options:
+      - 404_error
+      - broken_link
+      - non_existent_page
+      required: false
+    - id: 4
+      name: which_link
+      label: Which link
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      required: false
+    - id: 5
+      name: what_to_fix
+      label: What to fix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

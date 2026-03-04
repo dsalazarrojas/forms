@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Therapy Interest Survey
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: therapy_goals
+      label: What are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: preferred_time
+      label: Preferred time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: therapist_interest
+      label: Which areas of therapy interest you?
+      hint: null
+      type: select_multiple
+      options:
+      - area1
+      - area2
+      - area3
+      required: true
+    - id: 6
+      name: group_size
+      label: Group size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: session_frequency
+      label: Session frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: therapist_gender
+      label: Therapist gender
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: therapist_experience
+      label: Therapist experience
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: other_info
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

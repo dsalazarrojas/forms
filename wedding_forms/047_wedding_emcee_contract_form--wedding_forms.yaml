@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_emcee_contract_form
+    pages:
+    - id: 1
+      name: wedding_emcee_contract
+      label: Wedding EMCEE Contract Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_offered
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - EMCEE Services
+      - DJ
+      - MC
+      - Emcee
+      - Host
+      required: false
+    - id: 3
+      name: rates_offered
+      label: Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: schedules
+      label: Schedules
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Full Day
+      required: false
+    - id: 5
+      name: services_agreed
+      label: Services Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Flat Rate
+      - Projected Hours
+      required: false
+    - id: 7
+      name: payment_terms_notes
+      label: Payment Terms Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: emcee_services_notes
+      label: EMCEE Services Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_emcee_notes
+      label: Client EMCEE Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emcee_rate
+      label: EMCEE Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: client_rate
+      label: Client Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: client_emcee_agreement
+      label: Client EMCEE Agreement
+      hint: null
+      type: note
+      options: []
+      required: false

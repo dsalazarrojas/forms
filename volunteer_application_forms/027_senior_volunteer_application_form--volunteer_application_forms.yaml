@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Volunteer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: availability_details
+      label: Availability Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Administrative Assistant
+      - Treasurer
+      - Event Coordinator
+      - Program Director
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Parent/Spouse/Child
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: references_details
+      label: References Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_certification_details
+      label: Medical Certification Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: background_check
+      label: Background Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: background_check_result
+      label: Background Check Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: background_check_details
+      label: Background Check Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: language_preference
+      label: Language Preference
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: volunteer_application_form_agreement
+      label: Volunteer Application Form Agreement
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree to the terms and conditions
+      - I do not understand the terms and conditions
+      required: true

@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Health Program Revision Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Full name of the person submitting the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester email
+      hint: Provide email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department_or_shelter
+      label: Department or shelter name
+      hint: Organization requesting the revision
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_name
+      label: Program name
+      hint: Name of the health program to be revised
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requested_change_summary
+      label: Requested change summary
+      hint: Brief summary of the proposed revision
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_change
+      label: Reason for change
+      hint: Explain why this revision is necessary
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expected_impact
+      label: Expected impact of the revision
+      hint: Describe benefits and potential risks
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supporting_documents_link
+      label: Supporting documents link
+      hint: Provide URL or reference to attachments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority_level
+      label: Priority level
+      hint: Indicate urgency for review
+      type: select_one
+      options:
+        - High
+        - Medium
+        - Low
+      required: true
+    - id: 10
+      name: proposed_effective_date
+      label: Proposed effective date
+      hint: Date when change should take effect if approved
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approver_signature_name
+      label: Approver signature name
+      hint: Leave blank if not yet reviewed by approver
+      type: text
+      options: []
+      required: false

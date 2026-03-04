@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Well Water System Maintenance Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: well_id
+      label: well_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: location_id
+      label: location_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Water System
+      - Electrical System
+      - Pump
+      - Drain
+      - Pipe
+      - Valve
+      required: true
+    - id: 7
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_time
+      label: Maintenance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_location
+      label: Maintenance Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Cancelled
+      - Closed
+      required: true
+    - id: 19
+      name: form_header_2
+      label: Form Header 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - John Doe
+      required: true
+    - id: 21
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submitted_location
+      label: Submitted Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false

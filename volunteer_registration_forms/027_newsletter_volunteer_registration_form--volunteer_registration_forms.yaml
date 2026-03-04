@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_role
+      label: Select Role
+      hint: null
+      type: select_one
+      options:
+      - Newsletter Editor
+      - Newsletter Writer
+      - Newsletter Designer
+      required: true
+    - id: 5
+      name: select_frequency
+      label: Select Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every Month
+      - Bi-Weekly
+      - Weekly
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

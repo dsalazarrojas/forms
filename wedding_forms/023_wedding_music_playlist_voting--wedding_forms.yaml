@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Music Playlist Voting
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_genre
+      label: What genre of music do you enjoy?
+      hint: null
+      type: select_one
+      options:
+      - Rock
+      - Pop
+      - Classical
+      - Jazz
+      - Country
+      required: false
+    - id: 3
+      name: song_name
+      label: Song Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: add_song
+      label: Add Song
+      hint: null
+      type: select_multiple
+      options:
+      - A Thousand Years
+      - I Choose You
+      - Love on the Brain
+      - Perfect
+      - Sugar
+      required: false
+    - id: 5
+      name: vote
+      label: Vote
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: add_vote
+      label: Add Vote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

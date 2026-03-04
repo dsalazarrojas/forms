@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pet Care Reminder Form
+    pages:
+    - id: 1
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reminder_date
+      label: Reminder Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vet_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: procedure_type
+      label: Procedure Type
+      hint: null
+      type: select_one
+      options:
+      - Pet Surgery
+      - Check-up
+      - Vaccination
+      required: false
+    - id: 5
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reminder_sent
+      label: Reminder Sent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: ContactNumber
+      hint: Enter your contact number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: DateOfBirth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_birth
+      label: TimeOfBirth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dog_name
+      label: DogName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dog_description
+      label: DogDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: EmergencyContact
+      hint: Enter the name of the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: owner_signature
+      label: OwnerAgreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vet_name
+      label: VetName
+      hint: Enter the name of the vet
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vet_signature
+      label: VetAgreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vet_license
+      label: VeterinariansLicense
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: owner_signature_date
+      label: DateOfSignature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: owner_signature_note
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vet_signature_note
+      label: VetNotes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_notes
+      label: EmergencyNotes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: dog_license
+      label: DogLicense
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: owner_license
+      label: OwnerLicense
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: dog_license_expiration
+      label: LicenseExpiryDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: dog_license_status
+      label: LicenseStatus
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: owner_declaration
+      label: Declaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vet_declaration
+      label: VeterinarianDeclaration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_declaration
+      label: DeclarationOfEmergency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: owner_agreement
+      label: OwnerAgreement
+      hint: null
+      type: text
+      options: []
+      required: true

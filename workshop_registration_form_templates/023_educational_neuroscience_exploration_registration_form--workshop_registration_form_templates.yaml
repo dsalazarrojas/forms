@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Neuroscience Exploration Registration Form
+    pages:
+    - id: 1
+      name: workshop_registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_employment_status
+      label: Participant Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 7
+      name: participant_degree_level
+      label: Participant Degree Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - prophets or higher
+      required: false
+    - id: 8
+      name: participant_education_field_of_interest
+      label: Participant Education Field Of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Neurology
+      - Psychology
+      - Physics
+      - Biology
+      required: false
+    - id: 9
+      name: participant_education_level
+      label: Participant Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - PhD
+      required: false
+    - id: 10
+      name: participant_experience_with_neuroscience
+      label: Participant Experience With Neuroscience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 11
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: participant_agreement_date
+      label: Participant Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: participant_agreement_time
+      label: Participant Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: participant_agreement_note
+      label: Participant Agreement Note
+      hint: null
+      type: text
+      options: []
+      required: false

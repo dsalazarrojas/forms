@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workspace Modification Request Form
+    pages:
+    - id: 1
+      name: base_info
+      label: workspace_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_details
+      label: request_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: facility_request
+      label: facility_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: attachment_1
+      label: attachment_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachment_2
+      label: attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachment_3
+      label: attachment_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,343 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Robot Maintenance Request Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_robot
+      label: -- Robot Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: robot_brand
+      label: Robot Brand
+      hint: Manufacturer of your cleaning robot
+      type: select_one
+      options:
+      - iRobot Roomba
+      - Roborock
+      - Ecovacs Deebot
+      - Neato Robotics
+      - Eufy
+      - Shark
+      - Bissell
+      - Samsung
+      - LG
+      - Other
+      required: true
+    - id: 12
+      name: robot_model
+      label: Robot Model
+      hint: Specific model number or name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: serial_number
+      label: Serial Number
+      hint: Robot serial number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you purchase the robot
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: warranty_status
+      label: Warranty Status
+      hint: Is your robot still under warranty
+      type: select_one
+      options:
+      - Yes - Under Warranty
+      - No - Warranty Expired
+      - Unsure
+      required: true
+    - id: 16
+      name: robot_age
+      label: How Long Have You Owned the Robot
+      hint: Approximate age
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 2-3 years
+      - Over 3 years
+      required: true
+    - id: 17
+      name: section_header_issue
+      label: -- Problem Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: issue_category
+      label: Issue Category
+      hint: What type of problem are you experiencing
+      type: select_one
+      options:
+      - Power or Charging Issue
+      - Navigation or Mapping Problem
+      - Suction or Cleaning Performance
+      - Brush or Roller Problem
+      - Wheel or Movement Issue
+      - Sensor Malfunction
+      - WiFi or Connectivity Issue
+      - App or Software Problem
+      - Noise or Unusual Sounds
+      - Physical Damage
+      - Other
+      required: true
+    - id: 19
+      name: issue_description
+      label: Detailed Problem Description
+      hint: Please describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: issue_start_date
+      label: When Did the Issue Start
+      hint: Date when problem began
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: issue_frequency
+      label: How Often Does the Issue Occur
+      hint: Frequency of the problem
+      type: select_one
+      options:
+      - Constant - Happens every time
+      - Frequent - Happens most of the time
+      - Occasional - Happens sometimes
+      - Rare - Happens rarely
+      - Intermittent - Comes and goes
+      required: true
+    - id: 22
+      name: error_messages
+      label: Error Messages or Codes
+      hint: Any error messages displayed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: troubleshooting_attempted
+      label: Troubleshooting Steps Attempted
+      hint: What have you tried to fix the issue
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_service
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: service_type_needed
+      label: Service Type Needed
+      hint: What type of service do you need
+      type: select_one
+      options:
+      - Diagnostic Only
+      - Repair Service
+      - Parts Replacement
+      - Routine Maintenance
+      - Software Update
+      - Battery Replacement
+      - Full Service
+      required: true
+    - id: 26
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (9am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 7pm)
+      - Flexible
+      required: true
+    - id: 28
+      name: service_location
+      label: Service Location Preference
+      hint: Where should service be performed
+      type: select_one
+      options:
+      - Mail-In Service
+      - In-Person Drop-Off
+      - On-Site Service at My Home
+      - Pick-Up and Delivery Service
+      required: true
+    - id: 29
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently do you need service
+      type: select_one
+      options:
+      - Not Urgent - Can wait
+      - Somewhat Urgent - Within 2 weeks
+      - Urgent - Within 1 week
+      - Very Urgent - As soon as possible
+      required: true
+    - id: 30
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: accessories_included
+      label: Accessories Included for Service
+      hint: What are you sending in for service
+      type: select_multiple
+      options:
+      - Robot Unit Only
+      - Robot with Charging Base
+      - Robot with Remote Control
+      - Extra Brushes or Filters
+      - All Accessories
+      - Other
+      required: true
+    - id: 32
+      name: previous_repairs
+      label: Has the Robot Been Repaired Before
+      hint: Any previous repair history
+      type: select_one
+      options:
+      - No - First Time Repair
+      - Yes - Same Issue
+      - Yes - Different Issue
+      required: true
+    - id: 33
+      name: previous_repair_details
+      label: Previous Repair Details
+      hint: Describe previous repairs
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: how_did_you_hear
+      label: How Did You Hear About Our Service
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Search Engine
+      - Social Media
+      - Friend or Family Referral
+      - Manufacturer Recommendation
+      - Advertisement
+      - Other
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: quote_needed
+      label: Do You Need a Cost Estimate
+      hint: Would you like a quote before service
+      type: select_one
+      options:
+      - Yes - Please provide estimate first
+      - No - Proceed with diagnostic
+      - Yes - Call me with estimate
+      required: true
+    - id: 37
+      name: customer_signature
+      label: Customer Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_education_volunteer_application_form
+    pages:
+    - id: 1
+      name: user
+      label: first_name
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: user
+      label: last_name
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_interest
+      label: volunteer_interests
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: experience
+      label: years_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: available_dates
+      hint: null
+      type: select_multiple
+      options:
+      - date1
+      - date2
+      - date3
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

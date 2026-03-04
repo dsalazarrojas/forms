@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Adoption Agreement Form
+    pages:
+    - id: 1
+      name: pet_adoption_agreement_form
+      label: pet_owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: adoption_agreement
+      label: adoption_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I have read and understand the information contained in this
+        document.''}'
+      - '{''label'': ''I have reviewed the information provided by the shelter regarding
+        the adoption of the animal.''}'
+      - '{''label'': ''I have discussed and understand the cost of adoption.''}'
+      required: false
+    - id: 4
+      name: pet_adoption_agreement_terms
+      label: pet_adoption_agreement_terms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: pet_adoption_agreement_terms_note
+      label: pet_adoption_agreement_terms_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: veterinary_services
+      label: veterinary_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: spay_neutered
+      label: spay_neutered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: microchip
+      label: microchip
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''up_to_date''}'
+      - '{''label'': ''pending''}'
+      - '{''label'': ''none''}'
+      required: false
+    - id: 10
+      name: veterinary_services_notes
+      label: veterinary_services_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: adoption_agreement_signed
+      label: adoption_agreement_signed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: veterinarian_notes
+      label: veterinarian_notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: veterinarian_signature
+      label: veterinarian_signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: veterinary_name
+      label: veterinary_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: veterinary_title
+      label: veterinary_title
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dr.''}'
+      - '{''label'': ''Mr.''}'
+      - '{''label'': ''Mrs.''}'
+      - '{''label'': ''Ms.''}'
+      required: false
+    - id: 16
+      name: veterinary_date
+      label: veterinary_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: veterinary_time
+      label: veterinary_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: pet_owner_signature
+      label: pet_owner_signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: pet_owner_name
+      label: pet_owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pet_owner_date
+      label: pet_owner_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: pet_owner_time
+      label: pet_owner_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: veterinary_service_providers
+      label: veterinary_service_providers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: pet_id
+      label: pet_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pet_dob
+      label: pet_dob
+      hint: null
+      type: date
+      options: []
+      required: false

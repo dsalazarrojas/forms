@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Research Publishing Workshop Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: What kind of student are you?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Undergraduate''}'
+      - '{''id'': 2, ''label'': ''Graduate''}'
+      - '{''id'': 3, ''label'': ''PhD''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: What topics do you want to learn about?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Research Methodology''}'
+      - '{''id'': 2, ''label'': ''Data Analysis''}'
+      - '{''id'': 3, ''label'': ''Research Writing''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: How did you find this workshop?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Useful''}'
+      - '{''id'': 2, ''label'': ''Somewhat useful''}'
+      - '{''id'': 3, ''label'': ''Not useful at all''}'
+      required: false
+    - id: 11
+      name: select_one
+      label: Would you recommend this workshop to others?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unsure''}'
+      required: false
+    - id: 12
+      name: select_multiple
+      label: Which of the following would you like to learn more about?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Workshop Organization''}'
+      - '{''id'': 2, ''label'': ''Research Ethics''}'
+      - '{''id'': 3, ''label'': ''Time Management''}'
+      required: false
+    - id: 13
+      name: date
+      label: Next Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Next Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Additional Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: select_one
+      label: Would you like to be contacted for future workshops?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

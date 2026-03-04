@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Relief Volunteer Registration Form
+    pages:
+    - id: 1
+      name: disaster_relief_volunteer
+      label: I am able to work at any disaster location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_first_name
+      label: Volunteer First Name
+      hint: First name of volunteer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_last_name
+      label: Volunteer Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_email
+      label: Volunteer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: disaster_location
+      label: Disaster Location
+      hint: null
+      type: select_one
+      options:
+      - Hurricane
+      - Tornado
+      - Wildfire
+      required: false
+    - id: 7
+      name: disaster_skill
+      label: Disaster Skill
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Search and Rescue
+      - Communication
+      required: false
+    - id: 8
+      name: disaster_start_date
+      label: Disaster Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: disaster_end_date
+      label: Disaster End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: disaster_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_message
+      label: Message to Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: org_email
+      label: Organization Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: org_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_agree
+      label: Volunteer Agreement
+      hint: This will allow us to contact you for further information.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: volunteer_agree_date
+      label: Volunteer Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_agree_time
+      label: Volunteer Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: disaster_volunteer_type
+      label: Disaster Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Team
+      required: false

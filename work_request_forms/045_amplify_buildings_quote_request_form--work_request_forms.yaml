@@ -1,0 +1,533 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amplify Buildings Quote Request Form
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: Tell us about your building project
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - New construction
+      - Renovation
+      - Addition
+      - Commercial
+      - Residential
+      - Industrial
+      - Institutional
+      - Other
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: title_position
+      label: Title/Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_project_location
+      label: -- Project Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_address
+      label: Project Address
+      hint: Where will work be performed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_building_details
+      label: -- Building Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Multi-family
+      - Office building
+      - Retail
+      - Warehouse
+      - Manufacturing
+      - Healthcare
+      - Educational
+      - Religious
+      - Other
+      required: true
+    - id: 18
+      name: square_footage
+      label: Approximate Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: number_of_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: building_age
+      label: Building Age
+      hint: If existing structure
+      type: select_one
+      options:
+      - New construction
+      - Less than 5 years
+      - 5-10 years
+      - 11-20 years
+      - 21-50 years
+      - Over 50 years
+      required: false
+    - id: 21
+      name: section_scope_work
+      label: -- Scope of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: services_needed
+      label: Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General contracting
+      - Design-build
+      - Construction management
+      - Renovation
+      - Remodeling
+      - Tenant improvements
+      - Exterior work
+      - Interior work
+      - Structural work
+      - MEP (Mechanical, Electrical, Plumbing)
+      - Other
+      required: true
+    - id: 23
+      name: project_description
+      label: Detailed Project Description
+      hint: Describe your project
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: specific_requirements
+      label: Specific Requirements
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: desired_start_date
+      label: Desired Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: desired_completion_date
+      label: Desired Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Fixed deadline
+      - Urgent
+      required: false
+    - id: 29
+      name: section_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Less than $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      - Not determined
+      required: false
+    - id: 31
+      name: budget_detail
+      label: Budget Details
+      hint: If you have specific numbers
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: financing_secured
+      label: Is Financing Secured
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully secured
+      - Yes - Partially secured
+      - In progress
+      - Not yet
+      - Not applicable
+      required: false
+    - id: 33
+      name: section_plans
+      label: -- Plans and Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: plans_available
+      label: Are Plans/Drawings Available
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete architectural plans
+      - Yes - Preliminary plans
+      - Yes - Sketches only
+      - No - Need design services
+      required: true
+    - id: 35
+      name: plan_status
+      label: Status of Plans
+      hint: null
+      type: select_one
+      options:
+      - Complete and approved
+      - Complete - pending approval
+      - In progress
+      - Not started
+      required: false
+    - id: 36
+      name: documents_to_provide
+      label: Documents You Can Provide
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Architectural drawings
+      - Engineering plans
+      - Site plans
+      - Specifications
+      - Existing conditions
+      - Photos
+      - None yet
+      required: false
+    - id: 37
+      name: section_site_info
+      label: -- Site Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: site_condition
+      label: Current Site Condition
+      hint: null
+      type: select_one
+      options:
+      - Vacant land
+      - Existing structure
+      - Partially demolished
+      - Occupied building
+      - Other
+      required: false
+    - id: 39
+      name: site_access
+      label: Site Access
+      hint: Any access limitations
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: zoning_permits
+      label: Zoning/Permit Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Applied
+      - Not yet applied
+      - Unknown
+      required: false
+    - id: 41
+      name: section_additional_services
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: additional_services
+      label: Additional Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Architecture
+      - Engineering
+      - Surveying
+      - Interior design
+      - Landscaping
+      - Project management
+      - Permitting assistance
+      - Other
+      required: false
+    - id: 43
+      name: sustainability_goals
+      label: Sustainability Goals
+      hint: LEED, energy efficiency, etc.
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: section_selection_criteria
+      label: -- Selection Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: decision_timeline
+      label: When Will You Select a Contractor
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - 2-4 weeks
+      - 1-2 months
+      - 2-3 months
+      - Not decided
+      required: false
+    - id: 46
+      name: other_bids
+      label: Are You Getting Other Bids
+      hint: null
+      type: select_one
+      options:
+      - Yes - Multiple bids
+      - Yes - A few bids
+      - No - Exclusive
+      - Undecided
+      required: false
+    - id: 47
+      name: selection_factors
+      label: What Factors Will Influence Your Decision
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price
+      - Timeline
+      - Reputation
+      - Previous work
+      - Communication
+      - Expertise
+      - Availability
+      - Other
+      required: false
+    - id: 48
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: how_heard_about
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Previous client
+      - Advertising
+      - Social media
+      - Other
+      required: false
+    - id: 51
+      name: referral_name
+      label: Referral Name
+      hint: If referred by someone
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: section_quote_delivery
+      label: -- Quote Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 53
+      name: quote_format
+      label: Preferred Quote Format
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Printed document
+      - In-person presentation
+      - Video call
+      required: false
+    - id: 54
+      name: site_visit_needed
+      label: Do You Want a Site Visit
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please schedule
+      - No - Not needed
+      - Maybe - Will decide later
+      required: false
+    - id: 55
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 56
+      name: section_agreement
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 57
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - Yes - Information is accurate
+      - Other
+      required: true
+    - id: 58
+      name: contact_permission
+      label: May We Contact You
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please contact me
+      - Other
+      required: true

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Covid 19
+      - Flu
+      - MMR
+      required: true
+    - id: 11
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 12
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Medical
+      - Support
+      required: true
+    - id: 13
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_school
+      label: Medical School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_board
+      label: Medical Board
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - CPR
+      - BLS
+      - ACLS
+      required: false
+    - id: 18
+      name: languages
+      label: Languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: languages_other
+      label: Other languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: volunteer_since
+      label: Volunteer Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: true

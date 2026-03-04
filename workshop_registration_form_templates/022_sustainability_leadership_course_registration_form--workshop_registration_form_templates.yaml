@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Leadership Course Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goals
+      label: What are your goals for this course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_type
+      label: What type of course would you like to attend?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

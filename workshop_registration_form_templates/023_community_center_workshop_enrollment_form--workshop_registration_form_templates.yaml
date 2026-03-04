@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmations and materials
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional day of workshop contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_choice
+      label: Workshop choice
+      hint: Select the workshop to enroll in
+      type: select_one
+      options:
+      - Art and craft
+      - Computer skills
+      - Cooking basics
+      - Career development
+      - Wellness and fitness
+      required: true
+    - id: 5
+      name: session_date
+      label: Session date
+      hint: Date of the selected session
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Payment status
+      hint: Confirm payment for the workshop
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Waived
+      required: true
+    - id: 7
+      name: special_requirements
+      label: Special requirements or accommodations
+      hint: Accessibility dietary or equipment needs
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_and_agreement
+      label: Consent and agreement to terms
+      hint: Confirm agreement to policies and attendance
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

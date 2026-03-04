@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Top Hats Wedding Estimate
+    pages:
+    - id: 1
+      name: wedding_estimate_1
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: wedding_venue
+      label: wedding_venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wedding_venue_type
+      label: wedding venue type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wedding_venue_address
+      label: wedding venue address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wedding_start_time
+      label: wedding start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: wedding_end_time
+      label: wedding end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: wedding_guests
+      label: wedding guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: wedding_budget
+      label: wedding budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: wedding_estimate_total
+      label: wedding estimate total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: estimated_by
+      label: estimated by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_on
+      label: estimated on
+      hint: null
+      type: date
+      options: []
+      required: true

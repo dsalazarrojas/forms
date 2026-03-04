@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Continuing Education Course Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_name
+      label: Survey Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_date
+      label: Course Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: course_time
+      label: Course Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: course_location
+      label: Course Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: course_provider
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_level
+      label: Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: survey_language
+      label: Survey Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: survey_language_other
+      label: Survey Language Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: survey_language_other_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_format
+      label: Survey Format
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logo Design Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: form_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_website
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_description
+      label: description
+      hint: Describe your company in a few words
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_services
+      label: services
+      hint: Select all services that apply
+      type: select_multiple
+      options:
+      - Logo Design
+      - Branding Design
+      - UI/UX Design
+      - Graphic Design
+      - Web Development
+      - Digital Marketing
+      - Other
+      required: false
+    - id: 8
+      name: form_file_attachment
+      label: file_attachment
+      hint: Attach a file with your request (max 10MB)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_comments
+      label: comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

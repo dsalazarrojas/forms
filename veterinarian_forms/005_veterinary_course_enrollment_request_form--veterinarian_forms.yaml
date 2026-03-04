@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_course_enrollment_request_form--veterinarian_forms
+    pages:
+    - id: 1
+      name: course_interest
+      label: What course interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: background_details
+      label: Background Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: course_end_date
+      label: Course End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      - other
+      required: false
+    - id: 13
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 14
+      name: veterinary_background
+      label: Veterinary Background
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: course_type
+      label: Course Type
+      hint: null
+      type: select_one
+      options:
+      - online
+      - in_person
+      - hybrid
+      required: false
+    - id: 16
+      name: course_language
+      label: Course Language
+      hint: null
+      type: select_one
+      options:
+      - english
+      - spanish
+      required: false
+    - id: 17
+      name: payment_option
+      label: Payment Option
+      hint: null
+      type: select_one
+      options:
+      - free
+      - paid
+      - subscription
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - user
+      - admin
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - user
+      - admin
+      required: false
+    - id: 22
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - user
+      - admin
+      required: false
+    - id: 24
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

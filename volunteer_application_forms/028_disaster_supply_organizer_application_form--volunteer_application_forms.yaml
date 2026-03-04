@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Supply Organizer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship to emergency contact
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Brother
+      - Sister
+      - Son
+      - Daughter
+      - Mother-in-law
+      - Father-in-law
+      - Brother-in-law
+      - Sister-in-law
+      required: true
+    - id: 9
+      name: volunteer_type
+      label: Type of volunteer
+      hint: null
+      type: select_one
+      options:
+      - General volunteer
+      - Emergency Response Team member
+      - Supply coordinator
+      - Logistics coordinator
+      required: true
+    - id: 10
+      name: volunteer_hours
+      label: How many hours you are available to volunteer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: volunteer_frequency
+      label: How frequent you are available to volunteer
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 12
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_interest
+      label: What areas are you interested in volunteering for
+      hint: null
+      type: select_multiple
+      options:
+      - Disaster supply distribution
+      - Disaster relief
+      - First aid
+      - Fundraising
+      - Communications
+      - Logistics
+      required: false
+    - id: 14
+      name: volunteer_experience
+      label: Volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_services_needed
+      label: Services needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_donation
+      label: Equipment donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_donation
+      label: Vehicle donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance
+      label: Insurance coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_clearance
+      label: Medical clearance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_agreement
+      label: Volunteer agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_orientation
+      label: Volunteer orientation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: first_aaid_date
+      label: First Aid and CPR certification date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: first_aaid_provider
+      label: First Aid and CPR certification provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_certifications
+      label: Other certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_certification_details
+      label: Other certification details
+      hint: null
+      type: text
+      options: []
+      required: false

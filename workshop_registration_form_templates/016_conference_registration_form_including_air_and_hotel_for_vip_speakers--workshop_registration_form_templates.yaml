@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Registration Form Including Air And Hotel For VIP Speakers
+    pages:
+    - id: 1
+      name: speaker_name
+      label: VIP Speaker Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: speaker_title
+      label: Professional Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: speaking_topic
+      label: Speaking Topic or Session Title
+      hint: Title of your presentation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: presentation_date
+      label: Presentation Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: presentation_time
+      label: Presentation Time
+      hint: Scheduled time slot
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: vip_status
+      label: VIP Status
+      hint: Your speaker category
+      type: select_one
+      options:
+      - Keynote Speaker
+      - Plenary Speaker
+      - Panel Moderator
+      - Workshop Leader
+      - Distinguished Guest
+      required: true
+    - id: 10
+      name: travel_arrangements
+      label: Travel Arrangements Needed
+      hint: Do you need flight booking
+      type: select_one
+      options:
+      - Yes Full Travel Package
+      - Yes Flight Only
+      - No Will Book Own Travel
+      - No Local Speaker
+      required: true
+    - id: 11
+      name: departure_city
+      label: Departure City or Airport
+      hint: Where will you depart from
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: departure_country
+      label: Departure Country
+      hint: Your departure country
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_dates
+      label: Preferred Travel Dates
+      hint: Arrival and departure dates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: airline_preference
+      label: Airline Preference
+      hint: Any airline preferences
+      type: select_one
+      options:
+      - No Preference
+      - Business Class Required
+      - First Class Required
+      - Specific Airline - Will Specify
+      required: false
+    - id: 15
+      name: airline_notes
+      label: Airline Notes
+      hint: Specify preferences
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hotel_arrangements
+      label: Hotel Arrangements Needed
+      hint: Do you need accommodation
+      type: select_one
+      options:
+      - Yes VIP Hotel Package
+      - Yes Standard Hotel
+      - No Will Book Own Hotel
+      - No Local Speaker
+      required: true
+    - id: 17
+      name: check_in_date
+      label: Hotel Check-In Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: check_out_date
+      label: Hotel Check-Out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: room_type
+      label: Room Type Preference
+      hint: Your accommodation preference
+      type: select_one
+      options:
+      - Executive Suite
+      - Deluxe King Room
+      - Standard King Room
+      - Twin Beds
+      - No Preference
+      required: false
+    - id: 20
+      name: special_room_requests
+      label: Special Room Requests
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: ground_transportation
+      label: Ground Transportation
+      hint: Airport transfers
+      type: select_one
+      options:
+      - Yes Both Arrival and Departure
+      - Yes Arrival Only
+      - Yes Departure Only
+      - No Not Needed
+      required: true
+    - id: 22
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For meals and events
+      type: select_one
+      options:
+      - No Restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 23
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Specify requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: guest_attending
+      label: Will You Bring a Guest
+      hint: Plus one or family
+      type: select_one
+      options:
+      - Yes One Guest
+      - Yes Multiple Guests
+      - No Traveling Alone
+      required: true
+    - id: 25
+      name: guest_details
+      label: Guest Details
+      hint: Names and relationship
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: guest_arrangements
+      label: Guest Arrangements
+      hint: Will guest need travel and hotel
+      type: select_one
+      options:
+      - Yes Full Package for Guest
+      - Yes Hotel Only
+      - No Guest Has Own Arrangements
+      - Not Applicable
+      required: false
+    - id: 27
+      name: av_requirements
+      label: AV Requirements
+      hint: Special technical needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: session_recording
+      label: Consent to Session Recording
+      hint: May we record your presentation
+      type: select_one
+      options:
+      - Yes May Be Recorded
+      - Audio Only
+      - No Recording
+      required: true
+    - id: 29
+      name: honorarium_details
+      label: Honorarium Payment Details
+      hint: Payment information if applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_accepted
+      label: I Accept VIP Speaker Terms and Conditions
+      hint: Agree to speaker agreement
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

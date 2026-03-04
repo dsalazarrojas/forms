@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_extractions_workshop_registration
+    pages:
+    - id: 1
+      name: session_selection
+      label: Select Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signed_terms
+      label: Signed Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_details
+      label: session_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signed_agreement
+      label: Signed Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: allergy_or_medication
+      label: Allergies or Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driving License Renewal Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Driver license
+      - Motorcycle license
+      - State ID
+      - Other
+      required: false
+    - id: 6
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Expired
+      - Pending
+      required: false
+    - id: 10
+      name: reason_for_renewal
+      label: Reason for Renewal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_multiple
+      options:
+      - Toyota
+      - Honda
+      - Ford
+      - Chevrolet
+      - Other
+      required: false
+    - id: 13
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_multiple
+      options:
+      - Accord
+      - Civic
+      - Mustang
+      - Camero
+      - Other
+      required: false
+    - id: 14
+      name: vehicle_license_number
+      label: Vehicle License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: license_renewal_fee
+      label: License Renewal Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: renewal_status
+      label: Renewal Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      - Inactive
+      required: false
+    - id: 17
+      name: vehicle_plate_number
+      label: Vehicle Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_plate_state
+      label: Vehicle Plate State
+      hint: null
+      type: select_multiple
+      options:
+      - California
+      - Florida
+      - New York
+      - Texas
+      - Other
+      required: false
+    - id: 19
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: license_renewal_date
+      label: License Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: license_renewal_status
+      label: License Renewal Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Expired
+      required: false
+    - id: 23
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_multiple
+      options:
+      - Verified
+      - Unverified
+      - Pending
+      - Rejected
+      required: false
+    - id: 24
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_multiple
+      options:
+      - Toyota
+      - Honda
+      - Ford
+      - Chevrolet
+      - Other
+      required: false
+    - id: 25
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: select_multiple
+      options:
+      - Accord
+      - Civic
+      - Mustang
+      - Camero
+      - Other
+      required: false

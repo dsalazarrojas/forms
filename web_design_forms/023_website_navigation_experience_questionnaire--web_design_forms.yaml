@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Navigation Experience Questionnaire
+    pages:
+    - id: 1
+      name: first_impression
+      label: First Impression
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: navigation_menu
+      label: Navigation Menu
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Somewhat Good''}'
+      - '{''label'': ''Not Good''}'
+      required: false
+    - id: 3
+      name: easy_to_navigate
+      label: Easy to Navigate
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Easy''}'
+      - '{''label'': ''Somewhat Easy''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Difficult''}'
+      - '{''label'': ''Very Difficult''}'
+      required: true
+    - id: 4
+      name: consistent_layout
+      label: Consistent Layout
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: search_function
+      label: Search Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: clear_navigation
+      label: Clear Navigation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: clear_navigation_reason
+      label: Why Clear Navigation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Important''}'
+      - '{''label'': ''Somewhat Important''}'
+      - '{''label'': ''Not Important''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Very Unimportant''}'
+      required: true
+    - id: 8
+      name: navigation_type
+      label: Navigation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Navigation Menu''}'
+      - '{''label'': ''Hamburger Menu''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: nav_type_1
+      label: Which Navigation Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: nav_type_2
+      label: Which Navigation Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''E-commerce''}'
+      - '{''label'': ''Blog''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: user_segment
+      label: User Segment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''New User''}'
+      - '{''label'': ''Returning User''}'
+      - '{''label'': ''Unknown''}'
+      required: true
+    - id: 13
+      name: time_spent
+      label: Time Spent On Site
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pages_visited
+      label: Pages Visited
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: page_type
+      label: Page Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Home Page''}'
+      - '{''label'': ''About Page''}'
+      - '{''label'': ''Contact Page''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: page_type_1
+      label: Which Page Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: user_device
+      label: User Device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Computer''}'
+      - '{''label'': ''Mobile Phone''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 19
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: nav_search_result
+      label: Navigation Search Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Found Easily''}'
+      - '{''label'': ''Found with Difficulty''}'
+      - '{''label'': ''Not Found''}'
+      required: true
+    - id: 22
+      name: search_result_1
+      label: Search Result 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: nav_search_result_2
+      label: Search Result 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: search_result_3
+      label: Search Result 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: nav_search_result_4
+      label: Search Result 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

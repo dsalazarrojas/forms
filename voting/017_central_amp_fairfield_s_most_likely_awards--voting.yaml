@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Central - Fairfield's Most Likely Awards
+    pages:
+    - id: 1
+      name: voter_info_header
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Voter Name
+      hint: Optional - your name will not be shared publicly
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: voter_school_branch
+      label: Your School - Branch
+      hint: Select the branch you belong to
+      type: select_one
+      options:
+      - Central High
+      - Fairfield Academy
+      required: true
+    - id: 4
+      name: academic_awards_header
+      label: -- Academic Awards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: most_likely_succeed
+      label: Most Likely to Succeed
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: most_likely_nobel_prize
+      label: Most Likely to Win a Nobel Prize
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: creative_awards_header
+      label: -- Creative Awards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: most_likely_famous_artist
+      label: Most Likely to Become a Famous Artist
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: most_likely_broadway
+      label: Most Likely to Be on Broadway
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: social_awards_header
+      label: -- Social Awards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: most_likely_brighten_day
+      label: Most Likely to Brighten Someone's Day
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: most_likely_president
+      label: Most Likely to Become President
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lifestyle_awards_header
+      label: -- Lifestyle Awards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: most_likely_travel_world
+      label: Most Likely to Travel the World
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: most_likely_startup_founder
+      label: Most Likely to Start a Successful Startup
+      hint: Nominate one student
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: final_vote_header
+      label: -- Final Vote --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: confirmation_of_votes
+      label: Confirmation of Votes
+      hint: Confirm that you have finished your nominations
+      type: select_one
+      options:
+      - Submit Votes
+      - Other
+      required: true
+    - id: 18
+      name: date_of_voting
+      label: Date of Voting
+      hint: Today's date
+      type: date
+      options: []
+      required: true

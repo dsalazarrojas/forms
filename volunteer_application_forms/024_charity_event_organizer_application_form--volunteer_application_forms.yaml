@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Organizer Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Charity or group
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - 501c3 nonprofit
+      - Nonprofit pending
+      - Community group
+      - Religious organization
+      - School or educational
+      - Other
+      required: true
+    - id: 7
+      name: ein_number
+      label: EIN or Tax ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_proposal
+      label: Event Proposal Title
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_description
+      label: Event Description
+      hint: What is the event
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_purpose
+      label: Event Purpose
+      hint: Goals and objectives
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Who will attend
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: proposed_date
+      label: Proposed Event Date
+      hint: Preferred date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: proposed_location
+      label: Proposed Location
+      hint: Venue or area
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget_estimate
+      label: Estimated Budget
+      hint: Total budget
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: funding_sources
+      label: Funding Sources
+      hint: How will you fund
+      type: select_multiple
+      options:
+      - Organization funds
+      - Sponsorships
+      - Ticket sales
+      - Donations
+      - Grants
+      - Other
+      required: true
+    - id: 17
+      name: team_members
+      label: Core Team Members
+      hint: Key organizers
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: prior_experience
+      label: Prior Event Experience
+      hint: Describe experience
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: risk_management
+      label: Risk Management Plan
+      hint: Safety measures
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload if available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references
+      label: Professional References
+      hint: Names and contacts
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement
+      label: Do you agree to guidelines
+      hint: Terms acceptance
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

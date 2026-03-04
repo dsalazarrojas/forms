@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canine Vaccination Consent Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canine Vaccination Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: By signing this form, you authorize our veterinary clinic to administer
+        necessary vaccinations to your dog. Please read and confirm all statements.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: owner_info_header
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dog_info_header
+      label: -- Dog Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dog_name
+      label: Dog Name
+      hint: Your dog's name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: breed
+      label: Breed or Mix
+      hint: Dog breed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: age
+      label: Age
+      hint: Dog's age
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: microchip_id
+      label: Microchip ID (if applicable)
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_history_header
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: previous_reactions
+      label: Has your dog had any previous vaccine reactions?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 17
+      name: reaction_details
+      label: If yes, please describe the reaction
+      hint: Optional - if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_medications
+      label: Is your dog currently taking any medications?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: medications_list
+      label: If yes, please list medications
+      hint: Optional - if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Does your dog have any known allergies?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 21
+      name: allergy_details
+      label: If yes, please describe allergies
+      hint: Optional - if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: existing_conditions
+      label: Does your dog have any existing health conditions?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: condition_details
+      label: If yes, please describe conditions
+      hint: Optional - if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vaccination_details_header
+      label: -- Vaccination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: vaccines_needed
+      label: Which vaccines does your dog need today?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rabies
+      - DHPP Combination
+      - Bordetella
+      - Leptospirosis
+      - Lyme Disease
+      - Canine Influenza
+      - Other (specify)
+      required: true
+    - id: 26
+      name: first_vaccination
+      label: Is this your dog's first vaccination series?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, first vaccines
+      - No, booster vaccines
+      - Unsure
+      required: true
+    - id: 27
+      name: last_vaccination_date
+      label: Date of Last Vaccination (if applicable)
+      hint: Optional
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: consent_statements_header
+      label: -- Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: consent_authorization
+      label: I authorize the veterinary clinic to administer the above vaccinations
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I authorize treatment
+      - 'No'
+      required: true
+    - id: 30
+      name: informed_consent
+      label: I have been informed of potential risks and benefits of vaccination
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 31
+      name: post_vaccine_care
+      label: I understand post-vaccination care and monitoring requirements
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 32
+      name: liability_waiver
+      label: I accept liability for any adverse reactions that may occur
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true

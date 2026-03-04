@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Dads Initiative Registration
+    pages:
+    - id: 1
+      name: dad_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dad_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: children_ages
+      label: Ages of Your Children
+      hint: List ages of all children
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: family_size
+      label: Family Size
+      hint: Total number of family members
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: availability
+      label: Available Days for Activities
+      hint: Select days you can participate
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday Mornings
+      - Saturday Afternoons
+      - Sunday Mornings
+      - Sunday Afternoons
+      required: true
+    - id: 10
+      name: interests
+      label: Areas of Interest
+      hint: What activities interest you?
+      type: select_multiple
+      options:
+      - Mentoring Youth
+      - Coaching Sports
+      - Tutoring
+      - Career Workshops
+      - Fatherhood Support Groups
+      - Family Events
+      - Community Service
+      - Skill Sharing
+      required: true
+    - id: 11
+      name: skills_to_share
+      label: Skills You Can Share
+      hint: What skills or expertise can you offer?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_role
+      label: Preferred Volunteer Role
+      hint: How would you like to contribute?
+      type: select_one
+      options:
+      - Mentor
+      - Coach
+      - Tutor
+      - Event Organizer
+      - Workshop Leader
+      - General Volunteer
+      required: true
+    - id: 13
+      name: background_check
+      label: Willing to Complete Background Check
+      hint: Required for working with youth
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: Can you get to event locations?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: how_did_you_hear
+      label: How Did You Hear About This Initiative
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - School
+      - Community Center
+      - Church
+      - Other
+      required: false
+    - id: 16
+      name: goals
+      label: What Are Your Goals for Participating
+      hint: What do you hope to gain?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: terms_accepted
+      label: I Agree to Program Terms
+      hint: I agree to follow program guidelines
+      type: select_one
+      options:
+      - Yes, I Accept
+      - Other
+      required: true

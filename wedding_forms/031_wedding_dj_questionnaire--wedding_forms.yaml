@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding DJ Questionnaire
+    pages:
+    - id: 1
+      name: wedding_dj_questionnaire_form
+      label: wedding_dj_questionnaire_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wedding_dj_preferences
+      label: wedding_dj_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: couple_first_name
+      label: couple_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: couple_last_name
+      label: couple_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: couple_phone
+      label: couple_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: couple_email
+      label: couple_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wedding_theme
+      label: wedding_theme
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: preferred_music
+      label: preferred_music
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: music_length
+      label: music_length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: photo_slides
+      label: photo_slides
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: photo_description
+      label: photo_description
+      hint: null
+      type: text
+      options: []
+      required: false

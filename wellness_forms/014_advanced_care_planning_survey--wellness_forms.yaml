@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Care Planning Survey
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Legal full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Name of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person_relationship
+      label: Contact Person Relationship
+      hint: Relationship to the patient
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: Phone number of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: care_preferences_section
+      label: -- Care Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_treatment_setting
+      label: Preferred Treatment Setting
+      hint: Where would you prefer to receive medical care if seriously ill
+      type: select_one
+      options:
+      - Hospital
+      - Home with visiting nurses
+      - Hospice facility
+      - Nursing home
+      - Undecided
+      required: true
+    - id: 9
+      name: life_sustaining_treatments_preference
+      label: Life-Sustaining Treatments Preference
+      hint: Would you want life-sustaining treatments if recovery is unlikely
+      type: select_one
+      options:
+      - Yes, all possible measures
+      - Only measures that offer hope of recovery
+      - Comfort care only
+      - Depends on circumstances
+      - Unsure
+      required: true
+    - id: 10
+      name: pain_management_priority
+      label: Pain Management Priority
+      hint: How important is pain management compared to extending life
+      type: select_one
+      options:
+      - Pain management is top priority
+      - Balance between comfort and life extension
+      - Extending life is more important than pain
+      - Unsure
+      required: true
+    - id: 11
+      name: spiritual_care_preferences
+      label: Spiritual Care Preferences
+      hint: Do you want spiritual or religious care as part of your treatment
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, if needed
+      - 'No'
+      - Unsure
+      required: true
+    - id: 12
+      name: family_involvement_preference
+      label: Family Involvement Preference
+      hint: How involved should family members be in medical decisions
+      type: select_one
+      options:
+      - Family makes decisions together
+      - Patient decides with family input
+      - Patient decides alone
+      - Designated person decides
+      - Other arrangement
+      required: true
+    - id: 13
+      name: end_of_life_care_section
+      label: -- End-of-Life Care --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hospice_care_acceptance
+      label: Hospice Care Acceptance
+      hint: Would you consider hospice care if curative treatment is no longer effective
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - Unsure
+      - No, not interested
+      required: true
+    - id: 15
+      name: organ_donation_preference
+      label: Organ Donation Preference
+      hint: Do you wish to be an organ donor
+      type: select_one
+      options:
+      - Yes, I consent to organ donation
+      - No, I do not wish to donate
+      - Family decision
+      - Unsure
+      required: true
+    - id: 16
+      name: funeral_arrangements_preference
+      label: Funeral Arrangements Preference
+      hint: Do you have preferences for funeral or memorial arrangements
+      type: select_one
+      options:
+      - Yes, detailed plans
+      - Yes, general preferences
+      - No preferences
+      - Family decides
+      - Unsure
+      required: true
+    - id: 17
+      name: legal_document_section
+      label: -- Legal Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: advance_directive_exists
+      label: Advance Directive Exists
+      hint: Do you have an advance directive or living will
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Planning to create one
+      - Unsure
+      required: true
+    - id: 19
+      name: healthcare_proxy_designated
+      label: Healthcare Proxy Designated
+      hint: Have you designated a healthcare proxy or power of attorney
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Planning to designate
+      - Unsure
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts or preferences regarding future care
+      type: text
+      options: []
+      required: false

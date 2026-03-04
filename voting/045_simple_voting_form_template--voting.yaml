@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Voting Form Template
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vote_option
+      label: Vote Option
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: vote_count
+      label: Vote Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vote_for
+      label: Vote For
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vote_time
+      label: Vote Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

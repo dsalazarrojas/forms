@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Residency Verification Form
+    pages:
+    - id: 1
+      name: verification_date
+      label: Verification date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tenant_name
+      label: Tenant or resident name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_dob
+      label: Tenant date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property address
+      hint: Residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: unit_number
+      label: Unit or apartment number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lease_start_date
+      label: Lease start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: lease_end_date
+      label: Lease end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: occupancy_status
+      label: Current occupancy status
+      hint: null
+      type: select_one
+      options:
+      - Currently occupying
+      - Previously occupied
+      - Vacated
+      required: true
+    - id: 9
+      name: occupancy_end_date
+      label: Occupancy end date
+      hint: If no longer occupying
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: landlord_name
+      label: Landlord or property manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: landlord_contact
+      label: Landlord contact information
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Type of property
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Townhouse
+      - Other
+      required: true
+    - id: 13
+      name: lease_agreement_exists
+      label: Signed lease agreement exists
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Verbal agreement only
+      required: true
+    - id: 14
+      name: rent_payment_status
+      label: Rent payment status
+      hint: null
+      type: select_one
+      options:
+      - Current and in good standing
+      - Current with minor late payments
+      - Past due
+      - Lease completed in good standing
+      required: true
+    - id: 15
+      name: monthly_rent_amount
+      label: Monthly rent amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: violations
+      label: Any lease violations or complaints
+      hint: null
+      type: select_one
+      options:
+      - No violations
+      - Minor violations
+      - Significant violations
+      - Lease terminated due to violations
+      required: true
+    - id: 17
+      name: violation_details
+      label: Details of violations if any
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notice_to_vacate
+      label: Notice to vacate received
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: security_deposit_status
+      label: Security deposit status
+      hint: null
+      type: select_one
+      options:
+      - Still held
+      - Returned in full
+      - Partially returned
+      - Disputed
+      required: false
+    - id: 20
+      name: verification_purpose
+      label: Purpose of this verification
+      hint: Select reason
+      type: select_one
+      options:
+      - Employment verification
+      - Bank or credit application
+      - Government agency
+      - Educational institution
+      - Other
+      required: true
+    - id: 21
+      name: requesting_party
+      label: Name of party requesting verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: requesting_party_contact
+      label: Requesting party contact information
+      hint: Phone or email
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: authorization_to_verify
+      label: Tenant authorized this verification
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorized
+      - false
+      required: true
+    - id: 24
+      name: verifying_person
+      label: Person providing verification
+      hint: Landlord or property manager
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: verifying_person_title
+      label: Title of verifying person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: verification_date_signed
+      label: Verification signature date
+      hint: null
+      type: date
+      options: []
+      required: true

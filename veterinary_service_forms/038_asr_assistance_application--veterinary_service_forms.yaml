@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: ASR Assistance Application
+    pages:
+    - id: 1
+      name: application_header
+      label: All Souls Retreat Assistance Application
+      hint: Please provide accurate information to help us assess your needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: Enter your legal name as it appears on identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: Enter your active email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Current Address
+      hint: Enter your complete residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: income_verification
+      label: Are you able to provide proof of income
+      hint: Documentation may be required for certain assistance programs
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: household_size
+      label: Total number of people in your household
+      hint: Include all individuals living in your residence
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: pet_count
+      label: How many pets do you currently have
+      hint: Include all animals in your care
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pet_species
+      label: What species are your pets
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Reptile
+      - Small mammal
+      - Other
+      required: true
+    - id: 11
+      name: assistance_needed
+      label: What type of assistance are you requesting
+      hint: Select the services you need help with
+      type: select_multiple
+      options:
+      - Veterinary care
+      - Spay/neuter services
+      - Vaccinations
+      - Medications
+      - Emergency care
+      - Pet food
+      - Other
+      required: true
+    - id: 12
+      name: financial_hardship
+      label: Are you experiencing financial hardship
+      hint: Select the option that best describes your situation
+      type: select_one
+      options:
+      - true
+      - recently unemployed
+      - true
+      - reduced income
+      - true
+      - medical expenses
+      - true
+      - other financial crisis
+      - false
+      required: true
+    - id: 13
+      name: previous_assistance
+      label: Have you received assistance from All Souls Retreat before
+      hint: Select if you have previously applied for or received aid
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: pet_issues_description
+      label: Describe the specific issues or needs of your pets
+      hint: Include health concerns, behavioral issues, or other needs
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of someone we can contact if needed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter the phone number for your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consent_agreement
+      label: I agree to provide accurate information and use assistance appropriately
+      hint: Misrepresentation may result in denial of services
+      type: select_one
+      options:
+      - true
+      - I agree
+      - false
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional comments or special circumstances
+      hint: Include any other information that might be relevant to your application
+      type: text
+      options: []
+      required: false

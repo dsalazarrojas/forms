@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Family Therapy Intake Form
+    pages:
+    - id: 1
+      name: family_therapy_intake_form_family_info
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_therapy_intake_form_contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_therapy_intake_form_relationships
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single'', ''value'': ''single''}'
+      - '{''label'': ''Married'', ''value'': ''married''}'
+      - '{''label'': ''Divorced'', ''value'': ''divorced''}'
+      - '{''label'': ''In a Domestic Partnership'', ''value'': ''domestic_partnership''}'
+      required: true
+    - id: 4
+      name: family_therapy_intake_form_children
+      label: Children
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''none''}'
+      - '{''label'': ''1-2'', ''value'': ''1-2''}'
+      - '{''label'': ''3-4'', ''value'': ''3-4''}'
+      - '{''label'': ''5 or More'', ''value'': ''5_or_more''}'
+      required: true
+    - id: 5
+      name: family_therapy_intake_form_therapist_preferences
+      label: Therapist Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male'', ''value'': ''male''}'
+      - '{''label'': ''Female'', ''value'': ''female''}'
+      required: false
+    - id: 6
+      name: family_therapy_intake_form_therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_therapy_intake_form_therapy_frequency
+      label: Therapy Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Bi-Weekly'', ''value'': ''bi_weekly''}'
+      required: false
+    - id: 8
+      name: family_therapy_intake_form_therapy_duration
+      label: Therapy Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-2 weeks'', ''value'': ''1-2_weeks''}'
+      - '{''label'': ''2-4 weeks'', ''value'': ''2-4_weeks''}'
+      - '{''label'': ''1-3 months'', ''value'': ''1-3_months''}'
+      required: false
+    - id: 9
+      name: family_therapy_intake_form_payment
+      label: Payment Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Insurance'', ''value'': ''insurance''}'
+      - '{''label'': ''Self-Pay'', ''value'': ''self_pay''}'
+      required: false
+    - id: 10
+      name: family_therapy_intake_form_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: family_therapy_intake_form_therapist_availability
+      label: Therapist Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available'', ''value'': ''available''}'
+      - '{''label'': ''Not Available'', ''value'': ''not_available''}'
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Drainage Maintenance Request Form
+    pages:
+    - id: 1
+      name: water_drainage_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''residential''}'
+      - '{''id'': ''commercial''}'
+      - '{''id'': ''other''}'
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: Please describe the problem.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_priority
+      label: Priority
+      hint: Select a priority level for the request.
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 6
+      name: assigned_technician
+      label: Assigned Technician
+      hint: Select a technician to assign to the request.
+      type: select_one
+      options:
+      - '{''id'': ''John Doe''}'
+      - '{''id'': ''Jane Doe''}'
+      required: true
+    - id: 7
+      name: status
+      label: Status
+      hint: Select a status for the request.
+      type: select_one
+      options:
+      - '{''id'': ''Open''}'
+      - '{''id'': ''In Progress''}'
+      - '{''id'': ''Closed''}'
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional notes about the request.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: Resident's or property manager's email address.
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: Resident's or property manager's phone number.
+      type: text
+      options: []
+      required: false

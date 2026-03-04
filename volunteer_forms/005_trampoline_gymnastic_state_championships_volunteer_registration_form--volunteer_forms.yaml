@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trampoline Gymnastic State Championships Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration_form
+      label: registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tshirt_size
+      label: tshirt_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      - x_large
+      required: false
+    - id: 6
+      name: shift
+      label: preferred_shift
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 7
+      name: volunteer_role
+      label: volunteer_role
+      hint: 'Select one of the following roles: Coach, Event Staff, Parking Attendant'
+      type: select_one
+      options:
+      - Coach
+      - Event Staff
+      - Parking Attendant
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_agreement
+      label: volunteer_agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_experience
+      label: volunteer_experience
+      hint: Do you have prior experience in this role?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_reference
+      label: volunteer_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_availability
+      label: volunteer_availability
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 16
+      name: volunteer_skills
+      label: volunteer_skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

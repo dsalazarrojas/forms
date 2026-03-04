@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Survey Form Responsive
+    pages:
+    - id: 1
+      name: wedding_survey_form_responsive
+      label: Will they be able to attend your wedding?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_survey_form_responsive_answer
+      label: 'True'
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''unsure''}'
+      required: false
+    - id: 3
+      name: wedding_survey_form_responsive_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: wedding_survey_form_responsive_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: wedding_survey_form_responsive_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

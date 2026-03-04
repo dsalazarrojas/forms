@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Erc Volunteer Signup Example
+    pages:
+    - id: 1
+      name: volunteer_signup_example_first_page
+      label: Welcome to the Erc Volunteer Signup Example
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_signup_example_second_page
+      label: What would you like to help with?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Volunteer Coordinator''}'
+      - '{''value'': ''Volunteer Manager''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: volunteer_signup_example_third_page
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_signup_example_fourth_page
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_signup_example_fifth_page
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_signup_example_sixth_page
+      label: What is your preferred time slot?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_signup_example_seventh_page
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_signup_example_eighth_page
+      label: Confirm
+      hint: null
+      type: note
+      options: []
+      required: false

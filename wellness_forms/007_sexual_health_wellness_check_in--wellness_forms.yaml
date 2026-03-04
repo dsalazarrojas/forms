@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sexual Health Wellness Check In
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sexual_health_topic
+      label: Sexual Health Topic
+      hint: null
+      type: select_one
+      options:
+      - Hormonal imbalances
+      - Sexual desire
+      - Sexual orientation
+      - Body image
+      - Other
+      required: false
+    - id: 3
+      name: sex_with
+      label: Who do you usually have sex with?
+      hint: null
+      type: select_multiple
+      options:
+      - Men
+      - Women
+      - Both
+      - Not sure
+      - Other
+      required: false
+    - id: 4
+      name: sex_with_frequency
+      label: With whom do you usually have sex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sexual_health_status
+      label: What is your current sexual health?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

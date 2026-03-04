@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Conservation Fellowship Application Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: conservation_experience
+      label: Conservation Experience
+      hint: Please describe your experience with wildlife conservation efforts, including
+        specific projects or initiatives you have been involved in.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''American''}'
+      - '{''label'': ''Canadian''}'
+      - '{''label'': ''Australian''}'
+      - '{''label'': ''British''}'
+      - '{''label'': ''Indian''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''Mandarin''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Portuguese''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bachelor''}'
+      - '{''label'': ''Master''}'
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: area_of_interest
+      label: Area of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: disability
+      label: Disability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': False}'
+      - '{''label'': True}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 19
+      name: medical_certificate
+      label: Medical Certificate
+      hint: Please attach a medical certificate as a PDF document
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: consent_form
+      label: Consent Form
+      hint: Please attach a signed consent form as a PDF document
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

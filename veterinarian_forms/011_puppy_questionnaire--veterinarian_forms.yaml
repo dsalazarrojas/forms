@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: questionnaire
+    pages:
+    - id: 1
+      name: new_puppy_owner_info
+      label: New Puppy Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_puppy_age
+      label: New Puppy Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: new_puppy_breed
+      label: New Prophets Breed
+      hint: null
+      type: select_one
+      options:
+      - Golden
+      - Labrador
+      - Poodle
+      - Rottweiler
+      - Bulldog
+      - Chihuahua
+      - Beagle
+      - Shih Tzu
+      - German Shepherd
+      required: false
+    - id: 6
+      name: new_puppy_color
+      label: New Puppy Color
+      hint: null
+      type: select_one
+      options:
+      - Golden
+      - Brown
+      - Black
+      - White
+      - Grey
+      - Red
+      - Blue
+      - White
+      required: false
+    - id: 7
+      name: new_puppy_age_group
+      label: New Puppy Age Group
+      hint: null
+      type: select_one
+      options:
+      - Young
+      - Adult
+      - Senior
+      - Kitten
+      - Old
+      required: false
+    - id: 8
+      name: new_puppy_health_issues
+      label: New Puppy Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Heart issues
+      - Cancer
+      - Allergies
+      - Obesity
+      required: false
+    - id: 9
+      name: microchip_number
+      label: Microchip Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: microchip_type
+      label: Microchip Type
+      hint: null
+      type: select_one
+      options:
+      - RFID
+      - Microchip
+      - Chip
+      - Implant
+      required: false
+    - id: 11
+      name: microchip_status
+      label: Microchip Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Unregistered
+      required: false
+    - id: 12
+      name: vet_name
+      label: Vet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vet_license_number
+      label: Vet Prophets License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false

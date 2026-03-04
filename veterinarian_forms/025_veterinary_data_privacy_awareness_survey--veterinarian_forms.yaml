@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Data Privacy Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Veterinarian
+      - Technician
+      - Manager
+      - Student
+      - Other
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_protection_policy
+      label: data_protection_policy
+      hint: Do you have a data protection policy in our organization?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: true
+    - id: 6
+      name: data_collector
+      label: data_collector
+      hint: Who in the organization is responsible for collecting and managing data?
+      type: select_multiple
+      options:
+      - Data Protection Officer
+      - IT Department
+      - Management
+      - Data Team
+      required: true
+    - id: 7
+      name: personal_data
+      label: personal_data
+      hint: Do you think your organization protects personal data?
+      type: select_one
+      options:
+      - Very High
+      - Somewhat
+      - Not Very Much
+      required: true
+    - id: 8
+      name: data_breach
+      label: data_breach
+      hint: In the past have you been involved in a data breach?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false
+    - id: 9
+      name: data_breach_details
+      label: data_breach_details
+      hint: If yes, describe the data breach
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting
+      label: reporting
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within a Week
+      - Within a Month
+      - Within a Quarter
+      - Never
+      required: false
+    - id: 11
+      name: reporting_to
+      label: reporting_to
+      hint: Who is reported to?
+      type: select_one
+      options:
+      - IT Department
+      - Management
+      - Data Team
+      - HR Department
+      - Security Officer
+      required: true
+    - id: 12
+      name: training
+      label: training
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: false
+    - id: 13
+      name: training_details
+      label: training_details
+      hint: If yes, describe what training you've received
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_documentation
+      label: policy_documentation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: true
+    - id: 15
+      name: policy_documentation_details
+      label: policy_documentation_details
+      hint: If yes, describe the policy documentation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: data_security_measures
+      label: data_security_measures
+      hint: null
+      type: select_multiple
+      options:
+      - Data Encryption
+      - Data Access Controls
+      - Data Backup
+      required: true
+    - id: 17
+      name: data_security_measures_details
+      label: data_security_measures_details
+      hint: If yes, describe the data security measures
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: data_disposal
+      label: data_disposal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: true
+    - id: 19
+      name: data_disposal_details
+      label: data_disposal_details
+      hint: If yes, describe the data disposal
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: data_disposal_frequency
+      label: data_disposal_frequency
+      hint: How often is data disposed of?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: data_disposal_method
+      label: data_disposal_method
+      hint: What method is used for data disposal?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: data_disposal_who
+      label: data_disposal_who
+      hint: Who is responsible for data disposal?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: data_disposal_location
+      label: data_disposal_location
+      hint: Where is the data disposed of?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: data_disposal_notes
+      label: data_disposal_notes
+      hint: Add any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true

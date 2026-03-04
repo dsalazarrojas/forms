@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: nonprofit_tech_skills_training_registration_form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skill_level_1
+      label: beginner
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
+      required: false
+    - id: 6
+      name: skill_level_2
+      label: skill_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
+      required: false
+    - id: 7
+      name: skill_level_3
+      label: skill_level_3
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
+      required: false
+    - id: 8
+      name: skill_level_4
+      label: skill_level_4
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      - expert
+      required: false
+    - id: 9
+      name: skills_workshop
+      label: workshop_skills
+      hint: null
+      type: select_multiple
+      options:
+      - web_development
+      - data_sciences
+      - networking
+      - cloud_computing
+      - database_administration
+      - cybersecurity
+      - artificial_intelligence
+      - data_analysis
+      - data_visualization
+      required: false
+    - id: 10
+      name: topic_interests
+      label: topic_interests
+      hint: null
+      type: select_multiple
+      options:
+      - data_sciences
+      - web_development
+      - cybersecurity
+      required: false
+    - id: 11
+      name: workshop_topics
+      label: workshop_topics
+      hint: null
+      type: select_multiple
+      options:
+      - web_development
+      - database_administration
+      required: false
+    - id: 12
+      name: date_time
+      label: workshop_date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: workshop_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false

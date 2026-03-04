@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scroll Website Design Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Website Design Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_requirements
+      label: Design Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_style
+      label: style
+      hint: null
+      type: select_one
+      options:
+      - style_1
+      - style_2
+      - style_3
+      required: false
+    - id: 5
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - color_1
+      - color_2
+      - color_3
+      required: false
+    - id: 6
+      name: font_styles
+      label: Font Styles
+      hint: null
+      type: select_multiple
+      options:
+      - font_1
+      - font_2
+      - font_3
+      required: false
+    - id: 7
+      name: background_image
+      label: Background Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chat_jimmy
+      - tool_1
+      - tool_2
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - user_1
+      - user_2
+      - user_3
+      required: false
+    - id: 13
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: select_one
+      options:
+      - group_1
+      - group_2
+      - group_3
+      required: false
+    - id: 14
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false

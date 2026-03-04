@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facebook Fan Page Setup Request Form
+    pages:
+    - id: 1
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Google
+      - Email
+      - Referral
+      required: false
+    - id: 2
+      name: lead_name
+      label: Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_email
+      label: Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_description
+      label: Company Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_hours
+      label: Company Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_facebook_page
+      label: Facebook Page
+      hint: null
+      type: select_one
+      options:
+      - Page 1
+      - Page 2
+      - Page 3
+      required: false
+    - id: 12
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: company_facebook_page_setup_cost
+      label: Facebook Page Setup Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: company_facebook_page_setup_services
+      label: Facebook Page Setup Services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 17
+      name: company_notes
+      label: Company Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: project_description_2
+      label: Project Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_facebook_page
+      label: Company Facebook Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false

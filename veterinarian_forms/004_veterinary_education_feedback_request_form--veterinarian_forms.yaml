@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_education_feedback_request_form
+    pages:
+    - id: 1
+      name: course_title
+      label: course_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: ce_provider
+      label: ce_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: participants_attended
+      label: participants_attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false

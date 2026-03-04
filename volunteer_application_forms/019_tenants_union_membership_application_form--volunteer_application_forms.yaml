@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenants Union Membership Application Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_applying
+      label: position_applying
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''president''}'
+      - '{''id'': 2, ''label'': ''secretary''}'
+      - '{''id'': 3, ''label'': ''treasurer''}'
+      - '{''id'': 4, ''label'': ''member''}'
+      required: false
+    - id: 5
+      name: consent_terms_and_conditions
+      label: consent_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I agree''}'
+      - '{''id'': 2, ''label'': ''I do not agree''}'
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relation
+      label: relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contacts_list
+      label: emergency_contacts_list
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''emergency_contact_1''}'
+      - '{''id'': 2, ''label'': ''emergency_contact_2''}'
+      - '{''id'': 3, ''label'': ''emergency_contact_3''}'
+      required: false
+    - id: 13
+      name: position_applying_list
+      label: position_applying_list
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''president''}'
+      - '{''id'': 2, ''label'': ''secretary''}'
+      - '{''id'': 3, ''label'': ''treasurer''}'
+      - '{''id'': 4, ''label'': ''member''}'
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

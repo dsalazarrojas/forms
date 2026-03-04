@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trampoline Gymnastic State Championships Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration_form
+      label: Volunteer Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: availability_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_shifts
+      label: Availability Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Morning Session (8-12pm)''}'
+      - '{''value'': 2, ''label'': ''Afternoon Session (12-4pm)''}'
+      - '{''value'': 3, ''label'': ''Full Day Shift (8am-4pm)''}'
+      required: false
+    - id: 9
+      name: availability_days
+      label: Availability Days
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sunday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Monday''}'
+      required: false
+    - id: 10
+      name: availability_time_blocks
+      label: Availability Time Blocks
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''1 hour block''}'
+      - '{''value'': 2, ''label'': ''2 hour block''}'
+      - '{''value'': 3, ''label'': ''3 hour block''}'
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

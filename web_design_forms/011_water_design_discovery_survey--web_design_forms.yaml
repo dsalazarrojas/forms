@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Design Discovery Survey
+    pages:
+    - id: 1
+      name: residential_project
+      label: Residential Project
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Public
+      required: false
+    - id: 2
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: client_prio
+      label: Client Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: designer_prio
+      label: Designer Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: water_feature
+      label: Water Feature
+      hint: null
+      type: select_one
+      options:
+      - Pond
+      - Fountain
+      - Pool
+      required: true
+    - id: 6
+      name: pool_size
+      label: Pool Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pool_shape
+      label: Pool Shape
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Rectangular
+      - Circular
+      required: false
+    - id: 8
+      name: water_depth
+      label: Water Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: stakeholder_list
+      label: Stakeholders
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Public
+      required: true
+    - id: 14
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - On Hold
+      required: true
+    - id: 16
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: project_completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: budget_allocation
+      label: Budget Allocation
+      hint: null
+      type: select_multiple
+      options:
+      - Landscaping
+      - Water Features
+      - Design
+      - Installation
+      - Maintenance
+      required: false
+    - id: 21
+      name: designer_notes
+      label: Designer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: designer_comments
+      label: Designer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true

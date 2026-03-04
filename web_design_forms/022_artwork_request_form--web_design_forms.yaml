@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Request Form
+    pages:
+    - id: 1
+      name: client_full_name_req
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_name_req
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: style_preference
+      label: Preferred Artistic Style
+      hint: null
+      type: select_one
+      options:
+      - Minimalist and Clean
+      - Bold and Graphic
+      - Retro/Vintage
+      - Hand-drawn/Organic
+      - High-tech/Modern
+      required: true
+    - id: 4
+      name: color_palette_notes
+      label: Color Palette Preferences
+      hint: List specific hex codes or general colors
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_formats_needed
+      label: Required File Formats
+      hint: null
+      type: select_multiple
+      options:
+      - PNG - Transparent background
+      - SVG - Vector
+      - JPEG - Standard image
+      - AI/PSD - Source files
+      - PDF - For print
+      required: true
+    - id: 6
+      name: final_dimensions_req
+      label: Target Dimensions
+      hint: e.g. 1080x1080px or 8.5x11 inches
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: use_case_description
+      label: How will this artwork be used
+      hint: e.g. Website header, Social media ad, Billboard
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_deadline_req
+      label: Hard Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: budget_limit_req
+      label: Maximum Budget for Project
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: additional_req_notes
+      label: Additional Instructions or Inspiration Links
+      hint: null
+      type: text
+      options: []
+      required: false

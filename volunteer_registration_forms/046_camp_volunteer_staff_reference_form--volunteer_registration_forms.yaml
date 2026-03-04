@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Volunteer Staff Reference Form
+    pages:
+    - id: 1
+      name: vol_ref_intro_header
+      label: -- Volunteer Character Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_applicant_name_ref
+      label: Name of Volunteer Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reference_name_full_vol
+      label: Your Full Name (Reference)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reference_relationship_vol
+      label: Relationship to Applicant
+      hint: e.g., Teacher, Coach, Supervisor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: length_acquaintance_vol
+      label: How long have you known the applicant?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vol_character_rating_header
+      label: -- Character and Skill Evaluation --
+      hint: Please rate the applicant on the following
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rating_patience_empathy_vol
+      label: Patience and Empathy
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 8
+      name: rating_compassion_youth_vol
+      label: Compassion for Youth
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 9
+      name: rating_integrity_honesty_vol
+      label: Integrity and Honesty
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 10
+      name: rating_reliability_followthrough_vol
+      label: Reliability and Follow-through
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Average
+      - Weak
+      required: true
+    - id: 11
+      name: vol_strengths_description
+      label: Primary Strengths of the Applicant
+      hint: What makes them a good fit for our volunteer program?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vol_areas_improvement_description
+      label: Potential Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suitable_for_children_vol
+      label: Do you consider this person suitable for working with children?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Highly Recommended
+      - Yes - Recommended
+      - No - Not recommended
+      required: true
+    - id: 14
+      name: reservations_vol_working_youth
+      label: Details of Reservations (If any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vol_reference_signature_digital
+      label: Electronic Signature (Typed Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vol_reference_date_logged
+      label: Date of Reference
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: vol_reference_phone_num
+      label: Your Contact Phone Number
+      hint: In case we need to verify this reference
+      type: text
+      options: []
+      required: true

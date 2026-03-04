@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: dance_season_repertoire_voting_form
+    pages:
+    - id: 1
+      name: repertoire_list
+      label: Dance Repertoire List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vote_for_first_dance
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vote_for_second_dance
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: second_dance
+      label: Second Dance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_dance
+      label: First Dance
+      hint: null
+      type: text
+      options: []
+      required: false

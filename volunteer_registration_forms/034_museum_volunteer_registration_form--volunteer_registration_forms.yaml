@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: museum_volunteer_registration_form
+    pages:
+    - id: 1
+      name: volunteer_information
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 6
+      name: shifts
+      label: Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_areas
+      label: Volunteer Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Exhibition
+      - Education
+      - Conservation
+      - Administration
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: volunteer_areas_2
+      label: Volunteer Areas 2
+      hint: null
+      type: select_multiple
+      options:
+      - Education
+      - Conservation
+      - Administration
+      required: false
+    - id: 12
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pangolin Rehabilitation Daily Report
+    pages:
+    - id: 1
+      name: pangolin_rehabilitation_form
+      label: Pangolin Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: care_progress
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: care_progress_note
+      label: Additional Progress Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: care_provider
+      label: Care Provider
+      hint: null
+      type: select_multiple
+      options:
+      - ASSIGNED_TOOL
+      - Jane
+      - John
+      required: false
+    - id: 5
+      name: care_provider
+      label: Care Provider
+      hint: null
+      type: select_one
+      options:
+      - Jane
+      - John
+      required: false
+    - id: 6
+      name: pangolin_id
+      label: Pangolin ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pangolin_id_alt
+      label: Pangolin ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: species
+      label: Species
+      hint: null
+      type: select_multiple
+      options:
+      - Species 1
+      - Species 2
+      required: false
+    - id: 9
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Species 1
+      - Species 2
+      required: false
+    - id: 10
+      name: species_info
+      label: Species Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: false
+    - id: 12
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lb
+      required: false
+    - id: 14
+      name: care_location
+      label: Care Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 15
+      name: care_location
+      label: Care Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: care_location_alt
+      label: Care Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 17
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: food_intake
+      label: Food Intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: water_intake
+      label: Water Intake
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

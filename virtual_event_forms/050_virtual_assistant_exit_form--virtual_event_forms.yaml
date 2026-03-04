@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Exit Form
+    pages:
+    - id: 1
+      name: virtual_assistant_exit_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Virtual Assistant
+      - Client
+      required: false
+    - id: 5
+      name: assistant_id
+      label: assistant_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_ending
+      label: reason_for_ending
+      hint: null
+      type: text
+      options: []
+      required: false

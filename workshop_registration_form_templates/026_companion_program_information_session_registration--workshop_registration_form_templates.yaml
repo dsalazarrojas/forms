@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Companion Program Information Session Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee full name
+      hint: Name for session registration
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Attendee email
+      hint: For session details and reminders
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session date
+      hint: Select preferred session date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: Number of guests
+      hint: Include yourself in the count
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: topics_of_interest
+      label: Topics of interest
+      hint: Select areas you want covered
+      type: select_multiple
+      options:
+      - Program overview
+      - Volunteer roles
+      - Support services
+      - Enrollment process
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Accommodations for participation
+      type: text
+      options: []
+      required: false

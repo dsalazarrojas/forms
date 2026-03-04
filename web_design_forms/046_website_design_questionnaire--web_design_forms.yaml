@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_one
+      options:
+      - Blog
+      - E-commerce
+      - Portfolio
+      - Business
+      - Non-profit
+      required: true
+    - id: 5
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Minimal
+      - Modern
+      - Classic
+      - Dark Mode
+      - Light Mode
+      required: true
+    - id: 9
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Serif
+      - Sans
+      required: true
+    - id: 10
+      name: content_style
+      label: Content Style
+      hint: null
+      type: select_multiple
+      options:
+      - Simple
+      - Complex
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Skype
+      required: true
+    - id: 12
+      name: preferred_communication_frequency
+      label: Preferred Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true

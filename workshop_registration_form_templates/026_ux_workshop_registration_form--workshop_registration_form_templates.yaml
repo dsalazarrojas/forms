@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: ux-workshop-registration-form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: workshop_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: workshop_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Workshop A
+      - Workshop B
+      - Workshop C
+      required: false
+    - id: 9
+      name: workshop_capacity
+      label: Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workshop_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

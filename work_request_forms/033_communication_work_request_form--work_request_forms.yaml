@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Communication Work Request Form
+    pages:
+    - id: 1
+      name: request_information
+      label: Request Information
+      hint: Details about your communication work request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_id
+      label: Request ID
+      hint: Unique request reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_information
+      label: Requester Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Requester Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Product
+      - Engineering
+      - Human Resources
+      - Finance
+      - Operations
+      - Executive
+      - Other
+      required: true
+    - id: 9
+      name: project_information
+      label: Project Information
+      hint: Details about the project
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_name
+      label: Project Name
+      hint: Name of the project or initiative
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Brief description of the project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: request_type
+      label: Request Type
+      hint: What type of communication support do you need
+      type: select_multiple
+      options:
+      - Press Release
+      - Social Media Content
+      - Email Campaign
+      - Website Content
+      - Blog Post
+      - Video Production
+      - Graphic Design
+      - Presentation Design
+      - Internal Communications
+      - Event Promotion
+      - Branding Materials
+      - Other
+      required: true
+    - id: 13
+      name: target_audience
+      label: Target Audience
+      hint: Who is the intended audience
+      type: select_multiple
+      options:
+      - General Public
+      - Customers
+      - Prospects
+      - Employees
+      - Investors
+      - Media
+      - Partners
+      - Industry Analysts
+      - Regulators
+      required: true
+    - id: 14
+      name: key_message
+      label: Key Message
+      hint: What is the main message to communicate
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: timeline
+      label: Timeline
+      hint: Project timeline details
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: deadline
+      label: Deadline
+      hint: When do you need this completed
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: launch_date
+      label: Launch Date
+      hint: When will this be published or launched
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: priority_level
+      label: Priority Level
+      hint: What priority level should this be
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      - Critical
+      required: true
+    - id: 19
+      name: budget_information
+      label: Budget Information
+      hint: Budget details for this request
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: budget_available
+      label: Budget Available
+      hint: Is there a budget for this request
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 21
+      name: budget_amount
+      label: Budget Amount
+      hint: Available budget amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: deliverables
+      label: Deliverables
+      hint: What specific deliverables do you need
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: brand_guidelines
+      label: Brand Guidelines
+      hint: Are there specific brand guidelines to follow
+      type: select_one
+      options:
+      - Yes - Will Provide
+      - Yes - Standard Guidelines
+      - No - New Guidelines Needed
+      required: true
+    - id: 24
+      name: stakeholders
+      label: Stakeholders
+      hint: Who needs to review or approve this work
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: success_metrics
+      label: Success Metrics
+      hint: How will success be measured
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other requirements or considerations
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: supporting_materials
+      label: Supporting Materials
+      hint: Do you have supporting materials to share
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - Yes - Will Share Later
+      - 'No'
+      required: true

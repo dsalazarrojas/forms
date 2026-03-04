@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Board Of Trustee Voting Form
+    pages:
+      - id: 1
+        name: ballot_header
+        label: -- Board of Trustee Official Ballot --
+        hint: Confidential Voting
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: trustee_full_name
+        label: Trustee Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: meeting_date
+        label: Date of Meeting
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: resolution_1_header
+        label: -- Resolution 1 - Budget Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: res_1_vote
+        label: Approval of Annual Budget for Fiscal Year 2026
+        hint: null
+        type: select_one
+        options: [In Favor, Opposed, Abstain]
+        required: true
+      - id: 6
+        name: res_1_comments
+        label: Comments on Resolution 1
+        hint: Optional feedback
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: resolution_2_header
+        label: -- Resolution 2 - New Policy Adoption --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: res_2_vote
+        label: Adoption of the Revised Ethics and Conflict of Interest Policy
+        hint: null
+        type: select_one
+        options: [In Favor, Opposed, Abstain]
+        required: true
+      - id: 9
+        name: resolution_3_header
+        label: -- Resolution 3 - Appointment of Auditor --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: res_3_vote
+        label: Appointment of External Auditor for the upcoming year
+        hint: null
+        type: select_one
+        options: [In Favor, Opposed, Abstain]
+        required: true
+      - id: 11
+        name: ballot_closing_header
+        label: -- Closing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: signature_type
+        label: Trustee Signature - Type Full Name
+        hint: Digital signature
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: voting_timestamp
+        label: Date and Time of Vote
+        hint: null
+        type: date
+        options: []
+        required: true

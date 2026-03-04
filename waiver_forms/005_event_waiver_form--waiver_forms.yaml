@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Waiver Form
+    pages:
+    - id: 1
+      name: event_waiver_form_1
+      label: event_waiver_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_waiver_form_2
+      label: participant_info
+      hint: null
+      type: select_one
+      options:
+      - '{''participant_type'': ''adult''}'
+      - '{''participant_type'': ''student''}'
+      - '{''participant_type'': ''teacher''}'
+      required: false
+    - id: 3
+      name: event_waiver_form_3
+      label: event_waiver_form_3_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_waiver_form_4
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_waiver_form_5
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_contact
+      label: participant_contact_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: waiver_terms
+      label: waiver_terms_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_waiver_form_8
+      label: event_waiver_form_8_label
+      hint: null
+      type: date
+      options: []
+      required: false

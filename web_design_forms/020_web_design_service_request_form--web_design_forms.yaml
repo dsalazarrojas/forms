@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Design Service Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Web Design
+      - Graphic Design
+      - UX/UI Design
+      required: false
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $1000
+      - Less than $5000
+      - Less than $10000
+      - More than $10000
+      required: false
+    - id: 7
+      name: custom_requests
+      label: Custom Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: newsletter
+      label: Newsletter
+      hint: null
+      type: select_one
+      options:
+      - Signup
+      - 'No'
+      required: false
+    - id: 9
+      name: signup_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Training Liability Waiver
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_procedure_details
+      label: Medical Procedure Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_notes
+      label: Emergency Contact Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trainer_info
+      label: Trainer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: waiver
+      label: Waiver
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship_type
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: emergency_contact_permission
+      label: Emergency Contact Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: medical_procedure_date
+      label: Medical Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: medical_procedure_time
+      label: Medical Procedure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: medical_procedure_location
+      label: Medical Procedure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone2
+      label: Emergency Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_procedure_details2
+      label: Medical Procedure Details 2
+      hint: null
+      type: text
+      options: []
+      required: false

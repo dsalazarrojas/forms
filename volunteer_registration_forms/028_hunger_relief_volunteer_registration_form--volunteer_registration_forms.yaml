@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hunger Relief Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration
+      label: Volunteer Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''8-10'', ''label'': ''8-10 hours''}'
+      - '{''id'': 2, ''name'': ''11-20 hours''}'
+      - '{''id'': 3, ''name'': ''More than 20 hours''}'
+      required: false
+    - id: 3
+      name: volunteer_days
+      label: Volunteer Days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Monday''}'
+      - '{''id'': 2, ''name'': ''Tuesday''}'
+      - '{''id'': 3, ''name'': ''Wednesday''}'
+      - '{''id'': 4, ''name'': ''Thursday''}'
+      - '{''id'': 5, ''name'': ''Friday''}'
+      required: false
+    - id: 4
+      name: volunteer_shifts
+      label: Volunteer Shifts
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Day''}'
+      - '{''id'': 2, ''name'': ''Afternoon''}'
+      - '{''id'': 3, ''name'': ''Evening''}'
+      required: false
+    - id: 5
+      name: volunteer_availability
+      label: Volunteer Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false

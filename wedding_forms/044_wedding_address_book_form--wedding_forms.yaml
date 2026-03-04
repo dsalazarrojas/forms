@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Address Book Form
+    pages:
+    - id: 1
+      name: address_book_form_first_name
+      label: First Name
+      hint: Enter guest's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address_book_form_last_name
+      label: Last Name
+      hint: Enter guest's last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_book_form_email
+      label: Email
+      hint: Enter guest's email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: address_book_form_phone
+      label: Phone
+      hint: Enter guest's phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address_book_form_street
+      label: Street
+      hint: Enter guest's street address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_book_form_city
+      label: City
+      hint: Enter guest's city
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_book_form_province
+      label: Province
+      hint: Enter guest's province or state
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address_book_form_postal_code
+      label: Postal Code
+      hint: Enter guest's postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_book_form_country
+      label: Country
+      hint: Enter guest's country
+      type: text
+      options: []
+      required: false

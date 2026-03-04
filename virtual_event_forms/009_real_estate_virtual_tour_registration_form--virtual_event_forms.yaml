@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Virtual Tour Registration Form
+    pages:
+    - id: 1
+      name: real_estate_form
+      label: Virtual Tour Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: real_estate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM - 5:00 PM
+      - 5:00 PM - 9:00 PM
+      - 9:00 AM - 12:00 PM
+      - 12:00 PM - 5:00 PM
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: real_estate_id
+      label: Real Estate ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_address
+      label: Real Estate Address
+      hint: null
+      type: text
+      options: []
+      required: false

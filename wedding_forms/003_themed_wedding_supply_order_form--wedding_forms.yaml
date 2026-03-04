@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: themed_wedding_supply_order_form
+    pages:
+    - id: 1
+      name: wedding_theme_choices
+      label: Wedding Theme Choices
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: wedding_theme_description
+      label: Theme Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wedding_guests
+      label: How many guests are attending?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: wedding_budget
+      label: Wedding Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

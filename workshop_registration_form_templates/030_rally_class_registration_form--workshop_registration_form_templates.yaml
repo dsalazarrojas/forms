@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rally Class Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 10
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Rider
+      - Rider Support
+      - Spectator
+      required: false
+    - id: 11
+      name: vehicle_class
+      label: Vehicle Class
+      hint: null
+      type: select_one
+      options:
+      - Group A
+      - Group B
+      - Group C
+      required: false
+    - id: 12
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Rallycross
+      - Rally Raid
+      - SRT
+      - Rally Buggy
+      - Safari Car
+      - Modified 4WD
+      required: false
+    - id: 13
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Rallycross
+      - Rally Raid
+      - SRT
+      required: false
+    - id: 14
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Rally 1 (Rallycross)
+      - Rally 2 (Modified 4WD)
+      - Rally 3 (Rally Raid)
+      required: false
+    - id: 15
+      name: class_details
+      label: Class Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_details
+      label: Emergency Details
+      hint: Any medical conditions or special instructions for event staff
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

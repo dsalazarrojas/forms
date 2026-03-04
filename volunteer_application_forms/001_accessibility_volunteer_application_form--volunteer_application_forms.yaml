@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Volunteer Application Form
+    pages:
+    - id: 1
+      name: personal_information_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please provide first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Used for volunteer communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Mobile or best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_affiliation
+      label: Organization affiliation
+      hint: If representing an organization leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_roles_interested
+      label: Volunteer roles interested
+      hint: Select all roles you are willing to perform
+      type: select_multiple
+      options:
+      - Event support
+      - Accessibility auditing
+      - Outreach and advocacy
+      - Documentation and captioning
+      - Technical assistance
+      required: true
+    - id: 7
+      name: relevant_skills
+      label: Relevant skills or certifications
+      hint: e.g., sign language, web accessibility, project management
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_days
+      label: Availability days
+      hint: Choose regular days you are available
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weeknights
+      - Weekends
+      - Flexible schedule
+      required: true
+    - id: 9
+      name: availability_time_frame
+      label: Availability time frame
+      hint: Morning, afternoon, evening or specific times
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: past_experience_with_accessibility
+      label: Past experience with accessibility initiatives
+      hint: Briefly describe any relevant projects or roles
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accommodation_needs
+      label: Accommodation needs
+      hint: Let us know if you require accommodations to participate
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Name of someone we can contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: consent_and_agreement
+      label: Consent and agreement
+      hint: By submitting you agree to be contacted and to follow guidelines
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: photo_release
+      label: Photo and media release
+      hint: Agree to allow use of photos or media for outreach
+      type: select_one
+      options:
+      - Yes allow use
+      - Do not allow use
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional notes or questions
+      hint: Anything else you want us to know
+      type: text
+      options: []
+      required: false

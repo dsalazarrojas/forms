@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ca Hong Kong Logins
+    pages:
+    - id: 1
+      name: header_section
+      label: -- System Access Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: system_name
+      label: System/Application Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: login_user
+      label: Login Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: login_password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: login_date
+      label: Date of Access
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: login_time
+      label: Time of Access
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - User
+      - Viewer
+      - Editor
+      required: true
+    - id: 8
+      name: technical_notes
+      label: -- Technical Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Tablet
+      - Mobile
+      required: false
+    - id: 11
+      name: browser_used
+      label: Browser Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_notes
+      label: Session Notes
+      hint: Document any technical issues or observations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_performed
+      label: Primary Action Performed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: duration
+      label: Session Duration (minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: status_header
+      label: -- Session Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Failed
+      - Timeout
+      - Incomplete
+      required: true
+    - id: 18
+      name: follow_up_needed
+      label: Follow-up Action Needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false

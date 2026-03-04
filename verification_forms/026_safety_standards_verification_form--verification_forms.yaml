@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Standards Verification Form
+    pages:
+    - id: 1
+      name: safety_standards_verification_form
+      label: Safety Standards Verification Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: verification_form
+      label: Verification Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_standards_verification_process
+      label: Safety Standards Verification Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: safety_standards_verification_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

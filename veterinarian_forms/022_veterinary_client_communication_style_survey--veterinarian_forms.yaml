@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_client_communication_style_survey
+    pages:
+    - id: 1
+      name: pet_owners_contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''option1'': ''text''}, {''option2'': ''text''}, {''option3'':
+        ''text''}]}'
+      - Other
+      required: true
+    - id: 2
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''option1'': ''text''}, {''option2'': ''text''}, {''option3'':
+        ''text''}]}'
+      - Other
+      required: true
+    - id: 3
+      name: tone
+      label: Tone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_channel
+      label: Preferred Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''text''}'
+      - '{''option2'': ''text''}'
+      - '{''option3'': ''text''}'
+      required: true
+    - id: 5
+      name: updates
+      label: Updates
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: reminders
+      label: Reminders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: follow_ups
+      label: Follow-Ups
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''option1'': ''text''}, {''option2'': ''text''}, {''option3'':
+        ''text''}]}'
+      - Other
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_conducted_by
+      label: Survey Conducted By
+      hint: null
+      type: text
+      options: []
+      required: false

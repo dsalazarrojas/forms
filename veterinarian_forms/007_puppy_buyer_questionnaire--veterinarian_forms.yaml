@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: puppy_buyer_questionnaire
+    pages:
+    - id: 1
+      name: home_environment
+      label: Home Environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: family_lifestyle
+      label: Family Lifestyle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: household_members
+      label: Household Members
+      hint: How many people live in the house?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_experience
+      label: Pet Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pet_history
+      label: Pet History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_commitment
+      label: Time Commitment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_experience
+      label: Training Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

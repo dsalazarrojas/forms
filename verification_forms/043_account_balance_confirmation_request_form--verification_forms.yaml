@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Balance Confirmation Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person requesting the balance confirmation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title or position of the requestor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_organization
+      label: Requestor Organization
+      hint: Organization or firm making the request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Requestor Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Phone number for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Name of the client whose account balance is being confirmed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_account_number
+      label: Client Account Number
+      hint: Account number of the client
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: financial_institution_name
+      label: Financial Institution Name
+      hint: Name of the bank or financial institution holding the account
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: financial_institution_address
+      label: Financial Institution Address
+      hint: Complete address of the financial institution
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confirmation_date
+      label: Confirmation Date
+      hint: Date for which the balance should be confirmed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: account_type
+      label: Account Type
+      hint: Type of account being confirmed
+      type: select_one
+      options:
+      - Checking Account
+      - Savings Account
+      - Money Market Account
+      - Certificate of Deposit
+      - Loan Account
+      - Credit Line
+      - Other
+      required: true
+    - id: 12
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Name of the account holder as it appears on the account
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: requested_balance
+      label: Requested Balance
+      hint: The balance amount being confirmed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: currency_type
+      label: Currency Type
+      hint: Currency in which the account is maintained
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CAD
+      - AUD
+      - CHF
+      - CNY
+      - Other
+      required: true
+    - id: 15
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why is this balance confirmation being requested?
+      type: select_one
+      options:
+      - Audit Requirement
+      - Loan Application
+      - Due Diligence
+      - Legal Proceeding
+      - Insurance Requirement
+      - Other
+      required: true
+    - id: 16
+      name: authorization_document
+      label: Authorization Document
+      hint: Reference number or name of the document authorizing this request
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: deadline_for_response
+      label: Deadline for Response
+      hint: When is the response needed by?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_accounts
+      label: Additional Accounts
+      hint: Are there additional accounts requiring confirmation?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information relevant to this request
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: requestor_signature
+      label: Requestor Signature
+      hint: Electronic signature of the requestor
+      type: text
+      options: []
+      required: true

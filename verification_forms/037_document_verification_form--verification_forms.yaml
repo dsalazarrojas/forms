@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Verification Form
+    pages:
+    - id: 1
+      name: verify_date
+      label: Verify Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: verify_time
+      label: Verify Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: verify_document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: verify_document_id
+      label: Document ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verify_document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: verify_document_description
+      label: Document Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: verify_document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - ID
+      - Verified
+      - Unverified
+      - Pending
+      required: false
+    - id: 8
+      name: verify_document_version
+      label: Document Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: verify_document_revision
+      label: Document Revision
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: verify_document_edition
+      label: Document Edition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: verify_document_issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: verify_document_issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: verify_document_expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: verify_document_expiration_time
+      label: Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: verify_document_remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: verify_document_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: verify_document_attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: verify_document_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: verify_document_reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: verify_document_reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: verify_document_reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: verify_document_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: verify_document_verified_by
+      label: Verified By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: verify_document_status_history
+      label: Status History
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: verify_document_status_change_reasons
+      label: Status Change Reasons
+      hint: null
+      type: text
+      options: []
+      required: false

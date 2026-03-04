@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Health Program Revision Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: Name of the health program to be revised
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_id
+      label: Current Program ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: revision_title
+      label: Proposed Revision Title
+      hint: A short descriptive name for the change
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: revision_reason
+      label: Reason for Revision
+      hint: Explain why this change is necessary
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: impact_analysis
+      label: Impact Analysis
+      hint: Describe how this will affect animal health or operations
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 8
+      name: desired_implementation_date
+      label: Desired Implementation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: resource_requirements
+      label: Resource Requirements
+      hint: Staff, equipment, or funding needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: Current Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Submitted
+      - Under Review
+      - Approved
+      required: false

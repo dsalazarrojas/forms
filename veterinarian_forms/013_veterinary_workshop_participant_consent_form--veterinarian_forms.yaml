@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_workshop_participant_consent_form
+    pages:
+    - id: 1
+      name: workshop_participation
+      label: Workshop Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: emergency_contact_1
+      label: Emergency Contact 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_2
+      label: Emergency Contact 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_2_phone
+      label: Emergency Contact 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_2_email
+      label: Emergency Contact 2 Email
+      hint: null
+      type: email
+      options: []
+      required: false

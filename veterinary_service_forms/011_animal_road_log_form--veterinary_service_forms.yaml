@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Road Log Form
+    pages:
+    - id: 1
+      name: observer_name
+      label: Observer Name
+      hint: Full name of ranger or veterinarian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observer_id
+      label: Observer ID Number
+      hint: Badge or employee ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Agency or institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: route_name
+      label: Route or Path Name
+      hint: Designated route identifier
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: weather_conditions
+      label: Weather Conditions
+      hint: During observation
+      type: select_one
+      options:
+      - Clear and Sunny
+      - Partly Cloudy
+      - Overcast
+      - Light Rain
+      - Heavy Rain
+      - Foggy
+      - Snowy
+      - Other
+      required: true
+    - id: 9
+      name: temperature
+      label: Temperature
+      hint: In degrees
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: animal_species
+      label: Animal Species Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Deer
+      - Elk
+      - Moose
+      - Bear
+      - Wolf
+      - Fox
+      - Coyote
+      - Bobcat
+      - Mountain Lion
+      - Rabbit
+      - Bird Species
+      - Reptile
+      - Other
+      required: true
+    - id: 11
+      name: animal_count
+      label: Total Number of Animals Observed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: location_description
+      label: Location Description
+      hint: Specific area or GPS coordinates
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: behavior_observed
+      label: Behavior Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grazing or Feeding
+      - Walking or Moving
+      - Resting
+      - Playing
+      - Aggressive Behavior
+      - Mating Behavior
+      - Caring for Young
+      - Fleeing
+      - Other
+      required: true
+    - id: 14
+      name: behavior_notes
+      label: Detailed Behavior Notes
+      hint: Describe observed behaviors
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_status
+      label: Apparent Health Status
+      hint: Visual assessment
+      type: select_one
+      options:
+      - Healthy
+      - Minor Issues Observed
+      - Injured
+      - Ill
+      - Deceased
+      - Unable to Determine
+      required: true
+    - id: 16
+      name: health_notes
+      label: Health Observations
+      hint: Details if any concerns
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: age_group
+      label: Age Group Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Infant or Juvenile
+      - Sub-Adult
+      - Adult
+      - Senior
+      - Mixed Group
+      - Unable to Determine
+      required: false
+    - id: 18
+      name: group_composition
+      label: Group Composition
+      hint: null
+      type: select_one
+      options:
+      - Solitary
+      - Pair
+      - Small Group (3-10)
+      - Large Group (11+)
+      - Herd
+      required: true
+    - id: 19
+      name: human_interaction
+      label: Was There Any Human Interaction
+      hint: null
+      type: select_one
+      options:
+      - Yes - Positive
+      - Yes - Negative
+      - Yes - Neutral
+      - No Interaction
+      required: true
+    - id: 20
+      name: interaction_details
+      label: Interaction Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_taken
+      label: Were Photos or Videos Taken
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_required
+      label: Is Follow-up Action Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - Urgent
+      - Yes - Routine
+      - false
+      required: true
+    - id: 24
+      name: follow_up_details
+      label: Follow-up Details
+      hint: If yes explain
+      type: text
+      options: []
+      required: false

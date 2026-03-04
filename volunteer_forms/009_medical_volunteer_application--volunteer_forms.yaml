@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_volunteer_application
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_role
+      label: volunteer_role
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Doctor
+      - Emergency Responder
+      - Other
+      required: false
+    - id: 9
+      name: shift
+      label: shift
+      hint: null
+      type: select_one
+      options:
+      - 8am-4pm
+      - 4pm-12pm
+      - Other
+      required: false
+    - id: 10
+      name: medical_license
+      label: medical_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_services
+      label: emergency_services
+      hint: null
+      type: text
+      options: []
+      required: false

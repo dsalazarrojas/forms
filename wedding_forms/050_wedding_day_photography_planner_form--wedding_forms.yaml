@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Photography Planner Form
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: wedding_venue
+      label: Wedding Venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: parents
+      label: Parents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: kids
+      label: Kids
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: photography
+      label: Photography
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reception_venue
+      label: Reception Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: reception_time
+      label: Reception Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reception_date
+      label: Reception Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reception
+      label: Reception
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: bride_email
+      label: Bride Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Nomination Form
+    pages:
+    - id: 1
+      name: section_nominator_info
+      label: -- Nominator Details --
+      hint: Only if nominating someone else. If self-nominating, skip to Nominee Details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominator_full_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nominator_email
+      label: Nominator Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: nominator_relationship
+      label: Relationship to Nominee
+      hint: e.g., Colleague, Supervisor, Peer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_nominee_info
+      label: -- Nominee Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nominee_full_name
+      label: Nominee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_title_position
+      label: Nominee Current Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominee_email
+      label: Nominee Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominee_phone
+      label: Nominee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_id_member_number
+      label: Nominee Member ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_nomination_details
+      label: -- Nomination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: committee_for_nomination
+      label: Committee Name for Nomination
+      hint: null
+      type: select_one
+      options:
+      - Executive Board
+      - Finance Committee
+      - Ethics and Standards
+      - Membership Outreach
+      - Public Relations
+      - Governance and Bylaws
+      required: true
+    - id: 13
+      name: nomination_position_type
+      label: Targeted Role
+      hint: null
+      type: select_one
+      options:
+      - Chair
+      - Vice-Chair
+      - Secretary/Treasurer
+      - General Member
+      required: true
+    - id: 14
+      name: qualification_statement
+      label: Statement of Qualifications
+      hint: Why is the nominee a good fit for this position
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_relevant_experience
+      label: Previous Committee or Leadership Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: nominee_consent
+      label: Has the nominee consented to this nomination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A (Self-nomination)
+      required: true
+    - id: 17
+      name: section_nomination_support
+      label: -- Support and Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: seconders_name
+      label: Name of Seconder (Optional)
+      hint: A second person supporting this nomination
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: nominator_signature_check
+      label: I certify that the information provided is correct to the best of my
+        knowledge
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 20
+      name: nomination_date
+      label: Date of Nomination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: nomination_submission_ref
+      label: Internal Reference Code
+      hint: null
+      type: text
+      options: []
+      required: false

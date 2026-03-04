@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Organizing Quote Form
+    pages:
+    - id: 1
+      name: wedding_organizing_quote_form
+      label: Wedding Organizing Quote Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: couple_details
+      label: couple_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_requested
+      label: wedding_services_requested
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Planning
+      - Wedding Coordination
+      - Wedding Design
+      - Photography
+      - Videography
+      - DJ
+      - Music
+      - Decor
+      - Catering
+      required: false
+    - id: 4
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_preference
+      label: contact_preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_team
+      label: assigned_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false

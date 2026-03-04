@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Liability Waaver Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_model
+      label: Product Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_used
+      label: Date Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_used
+      label: Time Used
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location_used
+      label: Location Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description_used
+      label: Description Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_signature
+      label: Date Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_signature
+      label: Time Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: user_ipa
+      label: User IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_city
+      label: User City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_state
+      label: User State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_country
+      label: User Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_zip
+      label: User Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: waiver_signed_at
+      label: Waiver Signed At
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: waiver_signed_by
+      label: Waiver Signed By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: waiver_signed_reason
+      label: Waiver Signed Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: text
+      options: []
+      required: false

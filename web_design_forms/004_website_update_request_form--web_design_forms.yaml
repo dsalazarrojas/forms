@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Update Request Form
+    pages:
+    - id: 1
+      name: website_update_request_form
+      label: Website Update Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_update_request_form_details
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_update_request_form_changes
+      label: Website Changes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: website_update_request_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

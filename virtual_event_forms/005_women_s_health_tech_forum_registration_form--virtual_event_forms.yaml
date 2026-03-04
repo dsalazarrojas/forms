@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Womens_Health_Tech_Forum_Registration_Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session_Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Session A
+      - Session B
+      - Session C
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee_Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Full_Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: Contact_Preferences
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - InPerson
+      - Both
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact_Name
+      hint: null
+      type: text
+      options: []
+      required: false

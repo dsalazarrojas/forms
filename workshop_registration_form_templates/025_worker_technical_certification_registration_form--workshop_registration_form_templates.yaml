@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Technical Certification Registration Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: worker information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certification_info
+      label: technical certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: certification_status
+      label: technical certification status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: uploaded_documents
+      label: uploaded documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: true

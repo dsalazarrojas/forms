@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_design_interview_form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: design_system
+      label: Design System
+      hint: null
+      type: select_multiple
+      options:
+      - Materialize
+      - Tailwind
+      - Bootstrap
+      required: false
+    - id: 10
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Dark
+      - Light
+      - Pastel
+      required: false
+    - id: 11
+      name: font_family
+      label: Font Family
+      hint: null
+      type: select_multiple
+      options:
+      - Arial
+      - Times New Roman
+      - Open Sans
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - Designer
+      - Developer
+      - Manager
+      required: true

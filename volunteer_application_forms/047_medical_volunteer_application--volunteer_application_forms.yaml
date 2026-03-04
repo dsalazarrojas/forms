@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Volunteer Application
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_license
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hospital
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_school
+      label: Medical School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relation
+      label: Relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Child
+      - Grandparent
+      - Grandchild
+      - Parent
+      - Self
+      required: false
+    - id: 12
+      name: medical_volunteer_role
+      label: Medical Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - Nurse
+      - Doctor
+      - EMT
+      - Paramedic
+      - Medical Assistant
+      - Medical Student
+      - Other
+      required: false
+    - id: 13
+      name: medical_volunteer_shift
+      label: Medical Volunteer Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Weekdays
+      - Weekends
+      required: false
+    - id: 14
+      name: medical_volunteer_available
+      label: Medical Volunteer Available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: medical_volunteer_ending_date
+      label: Medical Volunteer Ending Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medical_volunteer_starting_date
+      label: Medical Volunteer Starting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_volunteer_hours_worked
+      label: Medical Volunteer Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical_volunteer_total_hours
+      label: Medical Volunteer Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false

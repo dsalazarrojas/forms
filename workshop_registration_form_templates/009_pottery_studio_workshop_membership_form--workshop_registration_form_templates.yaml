@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pottery Studio Workshop Membership Form
+    pages:
+    - id: 1
+      name: workshop_application
+      label: Workshop Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_preferences
+      label: workshop_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Pottery
+      - Painting
+      - Other
+      required: false
+    - id: 3
+      name: workshop_preferences_other
+      label: workshop_preferences_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Student
+      required: false
+    - id: 8
+      name: membership_type_other
+      label: membership_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

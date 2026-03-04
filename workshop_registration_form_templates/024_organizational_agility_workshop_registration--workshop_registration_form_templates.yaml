@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Agility Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_registration
+      label: Workshop Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Participant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Agile
+      - Leadership
+      - Transformation
+      - Innovation
+      required: true
+    - id: 4
+      name: preferences
+      label: Participant Preferences
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workshop_participants
+      label: How many participants do you want to bring along?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: workshop_topics
+      label: What topics are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Digital Transformation
+      - Organizational Design
+      - Leadership Development
+      - Communication
+      required: false
+    - id: 8
+      name: workshop_venue
+      label: Workshop Venue
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: true
+    - id: 9
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: workshop_scheduling
+      label: Scheduling Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Full-day
+      required: false
+    - id: 11
+      name: participant_employees
+      label: Are you an employee of the organization?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: participant_employer
+      label: Who will be paying for this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Organization
+      required: true
+    - id: 13
+      name: participant_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hormonal Health Cycle Tracking Log
+    pages:
+    - id: 1
+      name: cycle_phase
+      label: Cycle Phase
+      hint: null
+      type: select_one
+      options:
+      - Menstrual
+      - Follicular
+      - Ovulatory
+      - Postmenstrual
+      required: false
+    - id: 2
+      name: symptom_1
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fatigue
+      - Moodiness
+      - Breast Pain
+      - Headaches
+      - Nausea
+      - Vomiting
+      - Weight Fluctuations
+      - Other Symptoms
+      required: false
+    - id: 3
+      name: symptom_2
+      label: Symptoms 2
+      hint: null
+      type: select_multiple
+      options:
+      - Moodiness
+      - Anxiety
+      - Bloating
+      - Breast Pain
+      - Fatigue
+      - Headaches
+      - Other Symptoms
+      required: false
+    - id: 4
+      name: mood_1
+      label: Mood
+      hint: null
+      type: select_one
+      options:
+      - Very Sad
+      - Somewhat Sad
+      - Neutral
+      - Happy
+      - Very Happy
+      required: false
+    - id: 5
+      name: lifestyle_factor_1
+      label: Exercise
+      hint: null
+      type: select_multiple
+      options:
+      - No Exercise
+      - Light Exercise
+      - Medium Exercise
+      - Vigorous Exercise
+      required: false
+    - id: 6
+      name: lifestyle_factor_2
+      label: Sleep
+      hint: null
+      type: select_multiple
+      options:
+      - Poor Sleep
+      - Average Sleep
+      - Good Sleep
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

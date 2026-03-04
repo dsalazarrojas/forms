@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art's Contact Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We will respond to this email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional - for quicker response
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your business or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is your inquiry regarding?
+      type: select_one
+      options:
+      - General Question
+      - Product Information
+      - Service Request
+      - Feedback
+      - Partnership Opportunity
+      - Technical Support
+      - Other
+      required: true
+    - id: 8
+      name: subject
+      label: Subject
+      hint: Brief summary of your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message or Description
+      hint: Please provide details about your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this inquiry?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Project Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: Project Name
+      hint: If your inquiry relates to a specific project
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_type
+      label: Project Type
+      hint: What type of project are you interested in?
+      type: select_one
+      options:
+      - Web Design
+      - Graphic Design
+      - Branding
+      - Digital Marketing
+      - Content Creation
+      - Other
+      required: false
+    - id: 14
+      name: section_header_4
+      label: -- Preferred Contact Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_contact
+      label: How would you prefer we contact you?
+      hint: Select your preferred communication method
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No preference
+      required: true
+    - id: 16
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available?
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: budget_range
+      label: Budget Range (if applicable)
+      hint: Approximate budget for your project
+      type: select_one
+      options:
+      - Under GBP 1000
+      - GBP 1000 - 5000
+      - GBP 5000 - 10000
+      - GBP 10000+
+      - Not Yet Determined
+      required: false
+    - id: 19
+      name: timeline
+      label: Timeline
+      hint: When do you need to complete this?
+      type: select_one
+      options:
+      - ASAP
+      - 1 week
+      - 2-4 weeks
+      - 1-3 months
+      - Flexible
+      required: false
+    - id: 20
+      name: website_url
+      label: Your Website URL
+      hint: If you have an existing website
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referral_source
+      label: How did you find us?
+      hint: Where did you hear about our services?
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Advertisement
+      - Previous Client
+      - Other
+      required: false
+    - id: 22
+      name: marketing_consent
+      label: I would like to receive news and updates
+      hint: Optional - we will not share your information
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: attachment_notes
+      label: Do you have files to attach?
+      hint: You can provide file details here if needed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_checkbox
+      label: I confirm this information is accurate
+      hint: Please verify your details are correct
+      type: select_one
+      options:
+      - Yes, all information is correct
+      - No, I need to make changes
+      required: true
+    - id: 25
+      name: privacy_agreement
+      label: I agree to the privacy policy
+      hint: Please confirm you accept our privacy terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

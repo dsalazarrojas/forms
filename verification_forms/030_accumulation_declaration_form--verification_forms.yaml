@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accumulation Declaration Form
+    pages:
+    - id: 1
+      name: declarant_information
+      label: -- Declarant information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: declarant_name
+      label: Declarant name
+      hint: Full name of the person making the declaration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization name
+      hint: If declaration is on behalf of an organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for verification purposes
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: declaration_period
+      label: Declaration period
+      hint: Time period covered by the accumulation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assets_description
+      label: Assets description
+      hint: Describe assets accumulated during the period
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: total_value
+      label: Total value
+      hint: Estimated total value of accumulated assets
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documents
+      label: Supporting documents
+      hint: List or describe attached supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: declaration_statement
+      label: Declaration statement
+      hint: Confirm accuracy of the information provided
+      type: select_one
+      options:
+      - I declare that the information is true and correct
+      - I do not declare
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_signed
+      label: Date signed
+      hint: Date of declaration signature
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant comments
+      type: text
+      options: []
+      required: false

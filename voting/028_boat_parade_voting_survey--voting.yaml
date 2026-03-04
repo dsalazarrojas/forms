@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Boat Parade Voting Survey
+    pages:
+      - id: 1
+        name: voter_name
+        label: Voter Name
+        hint: Your name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: voter_email
+        label: Voter Email
+        hint: For confirmation (optional)
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: voter_type
+        label: Voter Type
+        hint: Are you a spectator or participant?
+        type: select_one
+        options:
+          - Spectator
+          - Participant
+          - Judge
+          - Event Staff
+        required: true
+      - id: 4
+        name: viewing_location
+        label: Viewing Location
+        hint: Where did you watch from?
+        type: select_one
+        options:
+          - Shoreline - North
+          - Shoreline - South
+          - On Another Boat
+          - VIP Stand
+          - Online Stream
+          - Other
+        required: false
+      - id: 5
+        name: category_best_decorated
+        label: Best Decorated Boat
+        hint: Select your vote
+        type: select_one
+        options:
+          - Boat 1 - The Holiday Spirit
+          - Boat 2 - Winter Wonderland
+          - Boat 3 - Nautical Dreams
+          - Boat 4 - Festive Cruiser
+          - Boat 5 - Light Spectacular
+          - Boat 6 - Classic Elegance
+          - None - Did Not Stand Out
+        required: true
+      - id: 6
+        name: category_best_classic_boat
+        label: Best Classic Boat
+        hint: Select your vote
+        type: select_one
+        options:
+          - Boat 1 - Vintage Lady
+          - Boat 2 - Classic Beauty
+          - Boat 3 - Timeless Treasure
+          - Boat 4 - Heritage Cruiser
+          - Boat 5 - Golden Era
+          - None - Did Not Stand Out
+        required: true
+      - id: 7
+        name: category_best_family
+        label: Best Family Boat
+        hint: Select your vote
+        type: select_one
+        options:
+          - Boat 1 - The Family Affair
+          - Boat 2 - Generations
+          - Boat 3 - Family Fun
+          - Boat 4 - Together We Sail
+          - Boat 5 - Family Tradition
+          - None - Did Not Stand Out
+        required: true
+      - id: 8
+        name: category_best_crew_costume
+        label: Best Crew Costume
+        hint: Select your vote
+        type: select_one
+        options:
+          - Boat 1 - Pirate Crew
+          - Boat 2 - Nautical Team
+          - Boat 3 - Holiday Characters
+          - Boat 4 - Sea Creatures
+          - Boat 5 - Themed Squad
+          - None - Did Not Stand Out
+        required: true
+      - id: 9
+        name: category_peoples_choice
+        label: People's Choice Award
+        hint: Your overall favorite
+        type: select_one
+        options:
+          - Boat 1
+          - Boat 2
+          - Boat 3
+          - Boat 4
+          - Boat 5
+          - Boat 6
+          - Boat 7
+          - Boat 8
+          - None
+        required: true
+      - id: 10
+        name: category_creativity
+        label: Most Creative Entry
+        hint: Select your vote
+        type: select_one
+        options:
+          - Boat 1
+          - Boat 2
+          - Boat 3
+          - Boat 4
+          - Boat 5
+          - None - Did Not Stand Out
+        required: true
+      - id: 11
+        name: overall_favorite
+        label: Overall Favorite Boat
+        hint: Which boat did you like most?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: parade_rating
+        label: Overall Parade Rating
+        hint: How would you rate the parade?
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Below Average
+          - 1 - Poor
+        required: true
+      - id: 13
+        name: best_part_of_parade
+        label: Best Part of the Parade
+        hint: What did you enjoy most?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: How can we make it better?
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: will_attend_next_year
+        label: Will You Attend Next Year?
+        hint: Will you come back?
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

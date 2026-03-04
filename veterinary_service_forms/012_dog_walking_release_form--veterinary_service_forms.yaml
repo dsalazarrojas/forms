@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Walking Release Form
+    pages:
+    - id: 1
+      name: dog_walking_details
+      label: Dog Walking Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dog_owner_details
+      label: Dog Owner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_provider_details
+      label: Service Provider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_details
+      label: Emergency Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

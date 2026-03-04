@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Digital Access Update Request Form
+    pages:
+    - id: 1
+      name: staff_changes
+      label: Staff Changes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_member_name
+      label: Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Manager
+      - User
+      required: false
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Full Access
+      - Read Only
+      - No Access
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false

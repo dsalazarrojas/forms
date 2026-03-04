@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photography Schedule
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: couples_details
+      label: Couples Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photographer_packages
+      label: Photographer Packages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: special_shots
+      label: Special Shots
+      hint: null
+      type: text
+      options: []
+      required: false

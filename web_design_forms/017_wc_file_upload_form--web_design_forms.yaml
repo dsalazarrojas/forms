@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: wc_file_upload_form
+    pages:
+    - id: 1
+      name: image
+      label: Upload image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: note
+      label: File note
+      hint: Please provide a note for the uploaded file
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Recipient email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Upload date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Upload time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: file_size
+      label: File size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: width
+      label: Image width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: height
+      label: Image height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: file_type
+      label: File type
+      hint: null
+      type: select_one
+      options:
+      - jpg
+      - png
+      - gif
+      - bmp
+      required: true

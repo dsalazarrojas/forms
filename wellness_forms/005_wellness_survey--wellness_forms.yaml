@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: wellness_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Wellness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: How old are you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: What is your gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 5
+      name: occupation
+      label: What is your occupation
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Professional
+      - Student
+      - Retiree
+      - Unemployed
+      - Pensioner
+      - Student/Intern
+      - Self-Employed
+      - Homemaker
+      required: false
+    - id: 6
+      name: smoker
+      label: Do you smoke
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: exercise_frequency
+      label: How often do you exercise
+      hint: null
+      type: select_one
+      options:
+      - Less than once a week
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Daily
+      required: false
+    - id: 9
+      name: diet
+      label: What is your diet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: height_unit
+      label: Height unit
+      hint: null
+      type: select_one
+      options:
+      - Meter
+      - Feet
+      required: false
+    - id: 12
+      name: exercise_frequency_frequency
+      label: Exercise frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition_frequency
+      label: Medical condition frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: exercise_intensity
+      label: Exercise intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: exercise_duration
+      label: Exercise duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: exercise_type
+      label: Exercise type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

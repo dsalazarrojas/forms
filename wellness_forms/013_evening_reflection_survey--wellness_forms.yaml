@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evening Reflection Survey
+    pages:
+    - id: 1
+      name: morning_mood
+      label: What was your morning mood like
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: current_stress_level
+      label: What was your current stress level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: current_stressors
+      label: What caused the stress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_stressors_other
+      label: Is there something else
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_stressors_other_text
+      label: other_stressor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evening_mood
+      label: Evening mood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: end_of_day_insights
+      label: End of Day
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evening_reflection_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evening_reflection_survey_rating
+      label: How would you rate your day
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: evening_reflection_survey_rating_scale
+      label: Rating scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: evening_reflection_survey_rating_scale_other
+      label: Rating scale other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evening_reflection_survey_suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evening_reflection_survey_suggestion_other
+      label: Other Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evening_reflection_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: morning_stressors
+      label: What caused stress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: morning_stressors_other
+      label: Is there something else
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: morning_stressors_other_text
+      label: other_stressor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: morning_reflection_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

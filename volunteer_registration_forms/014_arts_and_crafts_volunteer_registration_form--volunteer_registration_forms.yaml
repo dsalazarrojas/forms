@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Crafts Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_full_name
+      label: Volunteer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 25
+      - 26 to 40
+      - 41 to 60
+      - 60 plus
+      required: true
+    - id: 4
+      name: availability
+      label: General Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      required: true
+    - id: 5
+      name: artistic_skills
+      label: Artistic or Craft Skills
+      hint: What are you comfortable teaching or assisting with
+      type: select_multiple
+      options:
+      - Painting
+      - Drawing
+      - Ceramics
+      - Knitting/Sewing
+      - Jewelry Making
+      - Paper Crafts
+      required: true
+    - id: 6
+      name: previous_experience
+      label: Previous Volunteer Experience
+      hint: Describe briefly
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_roles
+      label: Preferred Volunteer Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching Assistant
+      - Event Setup
+      - Registration Desk
+      - Supply Management
+      - Clean-up Crew
+      required: true
+    - id: 8
+      name: tshirt_size
+      label: T-shirt Size
+      hint: For volunteer uniform
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - XL
+      - XXL
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Health or Allergy Information
+      hint: Anything we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_release
+      label: Consent to use photos of me for organization marketing
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I do not Consent
+      required: true
+    - id: 11
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

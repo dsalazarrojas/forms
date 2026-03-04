@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Interview Registration Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Software Developer
+      - Graphic Designer
+      - Data Scientist
+      - Marketing Manager
+      required: true
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_benefits
+      label: Job Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_salary
+      label: Job Salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_experience
+      label: Job Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Junior
+      - Mid-level
+      - Senior
+      required: true
+    - id: 14
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: true
+    - id: 15
+      name: job_education
+      label: Job Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Bachelor's
+      - Master's
+      - Doctorate
+      required: true
+    - id: 16
+      name: job_skills
+      label: Job Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_languages
+      label: Job Languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinarian Offboarding Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_info_1
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_info_2
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Pet
+      - Other
+      required: false
+    - id: 4
+      name: pet_info_3
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pet_info_4
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_info_1
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_info_2
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - Arthritis
+      - Allergies
+      - Other
+      required: false
+    - id: 8
+      name: medical_info_3
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Other
+      required: false
+    - id: 9
+      name: contact_info_1
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info_2
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_info_3
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info_4
+      label: owner_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: feedback_1
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback_2
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_3
+      label: feedback_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Class Appointment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For course materials and links
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: header_class_selection
+      label: -- Course and Section Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: course_of_interest
+      label: Course Name
+      hint: Select the class you wish to attend
+      type: select_one
+      options:
+      - Introduction to the Bible
+      - Systematic Theology
+      - Church History
+      - New Testament Survey
+      - Old Testament Survey
+      - Christian Ethics
+      required: true
+    - id: 6
+      name: section_preference
+      label: Preferred Class Section/Time
+      hint: null
+      type: select_one
+      options:
+      - Section A - Tuesday 6:30 PM (In-Person)
+      - Section B - Wednesday 10:00 AM (Virtual)
+      - Section C - Saturday 9:00 AM (Hybrid)
+      required: true
+    - id: 7
+      name: previous_classes_completed
+      label: Previous Bible or Theology Classes Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: header_goals
+      label: -- Personal Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: learning_objectives
+      label: What do you hope to learn in this class?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: audit_or_credit
+      label: Are you taking this class for credit or auditing?
+      hint: Credit requires completion of all assignments
+      type: select_one
+      options:
+      - For Credit (Certificate Program)
+      - Audit Only (Personal Growth)
+      required: true
+    - id: 11
+      name: church_affiliation
+      label: Current Church Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_accommodations
+      label: Any special accommodations needed?
+      hint: e.g., Large print materials, wheelchair access
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hear_about_class
+      label: How did you hear about this class?
+      hint: null
+      type: select_one
+      options:
+      - Worship Bulletin
+      - Website
+      - Social Media
+      - Word of Mouth
+      - Email Invite
+      required: false
+    - id: 14
+      name: registration_confirm
+      label: I confirm my registration for the selected section
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 15
+      name: date_submitted
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

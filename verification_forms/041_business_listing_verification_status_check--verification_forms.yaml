@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Listing Verification Status Check
+    pages:
+      - id: 1
+        name: header
+        label: -- Verification Status Check --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: business_name
+        label: Business name
+        hint: Name used on listings
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: platform
+        label: Platform
+        hint: Platform to verify listing on
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: claimed_status
+        label: Claimed status
+        hint: Has the listing been claimed
+        type: select_one
+        options:
+          - Claimed
+          - Unclaimed
+        required: true
+      - id: 5
+        name: verification_method
+        label: Verification method
+        hint: How verification was completed
+        type: select_one
+        options:
+          - Phone
+          - Email
+          - Postcard
+          - Third party
+        required: false
+      - id: 6
+        name: verification_date
+        label: Verification date
+        hint: Date when listing was verified
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: verification_notes
+        label: Verification notes
+        hint: Any notes about the verification process
+        type: text
+        options: []
+        required: false

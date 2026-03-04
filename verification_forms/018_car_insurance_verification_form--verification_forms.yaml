@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Verification Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email_address
+      label: Email Address
+      hint: For verification status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone_number
+      label: Phone Number
+      hint: Primary contact for the verification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: insurance_details_header
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: insurance_provider_name
+      label: Insurance Provider Name
+      hint: e.g., GEICO, State Farm, Allstate
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_policy_number_verification
+      label: Insurance Policy Number
+      hint: Your policy ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_policy_effective_date
+      label: Policy Effective Date
+      hint: Select the day it started
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: insurance_policy_expiration_date
+      label: Policy Expiration Date
+      hint: Select the day it expires
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_info_header_verification
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make_model_verification
+      label: Car Make and Model
+      hint: Describe your car
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_year_verification
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_vin_verification
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: coverage_verification_status
+      label: Is the coverage active?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 15
+      name: insurance_verification_acknowledgement_header
+      label: -- Verification Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: verification_acknowledgement
+      label: I acknowledge the insurance verification terms
+      hint: See terms of service
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 17
+      name: verification_signature_confirmation
+      label: Type your name for insurance verification confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_verification_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the verification
+      type: text
+      options: []
+      required: false

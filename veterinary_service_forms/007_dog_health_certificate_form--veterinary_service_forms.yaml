@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Health Certificate Form
+    pages:
+    - id: 1
+      name: dog_health_certificate_form
+      label: Dog Health Certificate Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_health_certificate_form_vaccinations
+      label: dog_health_certificate_form_vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - Rabies Vaccine
+      - Distemper Vaccine
+      - Parvovirus Vaccine
+      - Heartworms
+      - Flea Control
+      - Tick Control
+      required: false
+    - id: 3
+      name: dog_weight
+      label: dog_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: dog_breed
+      label: dog_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dog_age
+      label: dog_age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinarian_info
+      label: veterinarian_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dog_health_certificate_number
+      label: dog_health_certificate_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_exam
+      label: date_of_exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_issue
+      label: date_of_issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: veterinary_clinic
+      label: veterinary_clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: veterinary_license
+      label: veterinary_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Doe
+      required: false

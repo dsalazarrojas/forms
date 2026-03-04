@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: ethical_data_usage_in_academia_registration_form
+    pages:
+    - id: 1
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: faculty_status
+      label: Faculty Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: faculty_department
+      label: Faculty Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_project
+      label: Research Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ethical_guidelines
+      label: Ethical Guidelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: note
+      options: []
+      required: false

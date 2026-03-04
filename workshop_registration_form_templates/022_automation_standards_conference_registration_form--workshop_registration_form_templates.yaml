@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Standards Conference Registration Form
+    pages:
+    - id: 1
+      name: section_header_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_industry
+      label: Company Industry
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Technology
+      - Consulting
+      - Software
+      - Pharmaceuticals
+      - Automotive
+      - Other
+      required: true
+    - id: 11
+      name: section_header_registration
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: badge_name
+      label: Name on Badge
+      hint: How should your badge read?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - General Attendee
+      - Speaker
+      - Sponsor
+      - Exhibitor
+      - Student
+      - Virtual Attendee
+      required: true
+    - id: 14
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: section_header_sessions
+      label: -- Session Selections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: day_1_sessions
+      label: Day 1 - Select Preferred Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Keynote - 9 AM
+      - RPA Fundamentals - 10 AM
+      - Advanced Automation - 10 AM
+      - Integration Patterns - 11:30 AM
+      - Cloud Automation - 1 PM
+      - Best Practices Panel - 2:30 PM
+      required: true
+    - id: 17
+      name: day_2_sessions
+      label: Day 2 - Select Preferred Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Workshop - AI in Automation
+      - Case Study - Industry 4.0
+      - Standards Discussion - 10 AM
+      - Future Trends - 11 AM
+      - Networking Lunch - 12 PM
+      - Closing Keynote - 2 PM
+      required: true
+    - id: 18
+      name: section_header_dietary
+      label: -- Dietary and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Shellfish Allergy
+      - Nut Allergy
+      - None
+      required: true
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_preferences
+      label: -- Preferences and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: areas_of_interest
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - RPA
+      - Workflow Automation
+      - AI/ML Integration
+      - Cloud Solutions
+      - Enterprise Integration
+      - Testing
+      - Standards Compliance
+      required: true
+    - id: 23
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      required: true
+    - id: 24
+      name: newsletter_signup
+      label: Subscribe to Future Newsletters
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

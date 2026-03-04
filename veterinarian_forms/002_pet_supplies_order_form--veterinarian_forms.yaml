@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Supplies Order Form
+    pages:
+    - id: 1
+      name: pet_supplies_order_form_page
+      label: pet_supplies_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Pet
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 3
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supply_type
+      label: supply_type
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Toys
+      - Bedding
+      required: false
+    - id: 5
+      name: order_quantity
+      label: order_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_message
+      label: confirm_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 11
+      name: error_message
+      label: error_message
+      hint: null
+      type: note
+      options: []
+      required: false

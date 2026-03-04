@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Enterprise Transformation Course Registration
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Enter your current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Enter the name of your company
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_industry
+      label: Company Industry
+      hint: Select your company's industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Consulting
+      - Government
+      - Education
+      - Telecommunications
+      - Other
+      required: true
+    - id: 7
+      name: professional_background_header
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: How many years of professional experience do you have?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: agile_experience_level
+      label: Agile Experience Level
+      hint: What is your current level of experience with Agile methodologies?
+      type: select_one
+      options:
+      - No Experience
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: leadership_role
+      label: Leadership Role
+      hint: Do you currently hold a leadership position?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: course_information_header
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: course_name
+      label: Course Name
+      hint: Enter the name of the Agile Enterprise Transformation course
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: preferred_session_dates
+      label: Preferred Session Dates
+      hint: Select your preferred dates for the course
+      type: select_multiple
+      options:
+      - March 15-17, 2024
+      - April 22-24, 2024
+      - May 30-1, 2024
+      - June 24-26, 2024
+      - July 22-24, 2024
+      - August 26-28, 2024
+      required: true
+    - id: 14
+      name: attendance_format
+      label: Attendance Format
+      hint: How would you prefer to attend the course?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 15
+      name: location_preference
+      label: Location Preference
+      hint: If attending in-person, which location do you prefer?
+      type: select_one
+      options:
+      - New York
+      - San Francisco
+      - Chicago
+      - Austin
+      - Remote
+      - No Preference
+      required: false
+    - id: 16
+      name: learning_objectives_header
+      label: -- Learning Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_learning_goals
+      label: Primary Learning Goals
+      hint: What are your primary goals for attending this course?
+      type: select_multiple
+      options:
+      - Understanding Agile Transformation Strategies
+      - Leading Organizational Change
+      - Implementing Agile Practices
+      - Building Agile Teams
+      - Measuring Transformation Success
+      - Change Management
+      - Coaching Skills
+      - Other
+      required: true
+    - id: 18
+      name: specific_challenges
+      label: Specific Challenges
+      hint: What specific challenges are you facing in your organization's Agile transformation?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What outcomes do you hope to achieve from this course?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions for course meals?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certification_interest
+      label: Certification Interest
+      hint: Are you interested in pursuing certification after the course?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information you'd like to share
+      type: text
+      options: []
+      required: false

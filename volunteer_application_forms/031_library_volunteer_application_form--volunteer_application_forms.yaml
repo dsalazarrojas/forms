@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_volunteer_application_form
+    pages:
+    - id: 1
+      name: library_volunteer_form
+      label: library_volunteer_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_position
+      label: volunteer_position
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Library Assistant
+      - Library Ambassador
+      required: false
+    - id: 7
+      name: availability
+      label: availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: volunteer_shifts
+      label: volunteer_shifts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_purpose
+      label: volunteer_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Submitted by library staff
+      - Self-submitted
+      required: false

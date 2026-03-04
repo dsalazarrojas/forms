@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Verification Research Application Form
+    pages:
+    - id: 1
+      name: university
+      label: university
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_proposals
+      label: project proposals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_details
+      label: participant details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone_number
+      label: participant phone number
+      hint: null
+      type: text
+      options: []
+      required: false

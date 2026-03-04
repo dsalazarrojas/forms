@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paintball Waiver Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Enter your phone number or email address
+      type: select_one
+      options:
+      - '{''label'': ''Phone Number: 123-123-1234''}'
+      - '{''label'': ''Email Address: test@example.com''}'
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_phone
+      label: Emergency Contact Phone Number
+      hint: Enter phone number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''123 Main St.''}'
+      - '{''label'': ''456 Elm St.''}'
+      - '{''label'': ''789 Oak St.''}'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_info
+      label: Emergency Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''Hypertension''}'
+      - '{''label'': ''Heart Disease''}'
+      required: false
+    - id: 9
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ambulance''}'
+      - '{''label'': ''Fire Department''}'
+      - '{''label'': ''Police Department''}'
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''I do not agree''}'
+      required: false
+    - id: 12
+      name: emergency_services_2
+      label: Emergency Services 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ambulance 2''}'
+      - '{''label'': ''Fire Department 2''}'
+      - '{''label'': ''Police Department 2''}'
+      required: false

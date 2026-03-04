@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Atlas Corps Virtual Leadership Institute Directory & Communications Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your full name as you would like it to appear in the directory
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your primary email for communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include country code for international numbers
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: country_of_residence
+      label: Country of Residence
+      hint: Select your primary country of residence
+      type: select_one
+      options:
+      - United States
+      - United Kingdom
+      - Canada
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: Your local time zone for scheduling purposes
+      type: select_one
+      options:
+      - EST (Eastern Time)
+      - CST (Central Time)
+      - MST (Mountain Time)
+      - PST (Pacific Time)
+      - GMT (Greenwich Mean Time)
+      - CET (Central European Time)
+      - Other
+      required: true
+    - id: 8
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Optional link to your LinkedIn profile
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: professional_bio
+      label: Professional Biography
+      hint: Brief description of your professional background (150 words max)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leadership_interests
+      label: Leadership Development Interests
+      hint: Select areas you are most interested in developing
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Team Management
+      - Conflict Resolution
+      - Public Speaking
+      - Project Management
+      - Diversity and Inclusion
+      - Innovation and Change Management
+      required: true
+    - id: 11
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How would you like to receive updates?
+      type: select_multiple
+      options:
+      - Email Newsletter
+      - SMS Notifications
+      - Monthly Webinars
+      - Online Community Forum
+      - Resource Library Access
+      required: true
+    - id: 12
+      name: photo_consent
+      label: Photo Consent
+      hint: Do you consent to having your photo included in the directory?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: networking_opt_in
+      label: Networking Opt-In
+      hint: Are you open to being contacted by other institute participants?
+      type: select_one
+      options:
+      - Yes, open to networking
+      - Only through official channels
+      - No, prefer not to be contacted
+      required: true
+    - id: 14
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility or technical accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false

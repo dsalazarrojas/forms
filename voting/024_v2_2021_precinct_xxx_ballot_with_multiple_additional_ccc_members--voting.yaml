@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: v2_2021_precinct_xxx_ballot_with_multiple_additional_ccc_members--voting
+    pages:
+    - id: 1
+      name: election_id
+      label: election_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: voter_id
+      label: voter_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ballot_date
+      label: ballot_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: ballot_time
+      label: ballot_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ballot_type
+      label: ballot_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: additional_ccc_member1
+      label: additional_ccc_member1
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: additional_ccc_member2
+      label: additional_ccc_member2
+      hint: null
+      type: select_multiple
+      options:
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      required: false

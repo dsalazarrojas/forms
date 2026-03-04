@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ward Election Ballot Form
+    pages:
+    - id: 1
+      name: ward_election_ballot_form_input
+      label: Ward Election Ballot Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ward_election_ballot_form_category
+      label: Voting
+      hint: null
+      type: select_one
+      options:
+      - Voting
+      - Other
+      required: false
+    - id: 3
+      name: ward_election_ballot_form_description
+      label: Description
+      hint: Provide a brief description of the election.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ward_election_ballot_form_output_file
+      label: Output File
+      hint: The output file will be created in the output directory.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ward_election_ballot_form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ward_election_ballot_form_form_id
+      label: Form ID
+      hint: Form 46099
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ward_election_ballot_form_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Voting
+      - Other
+      required: false
+    - id: 8
+      name: ward_election_ballot_form_output_filename
+      label: Output File Name
+      hint: 048_ward_election_ballot_form--voting.yaml
+      type: text
+      options: []
+      required: false

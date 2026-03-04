@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: dog_grooming_application_form
+    pages:
+    - id: 1
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_note
+      label: owner_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: application_status
+      label: application_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

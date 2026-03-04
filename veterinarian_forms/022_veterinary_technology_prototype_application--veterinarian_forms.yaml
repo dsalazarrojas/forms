@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Technology Prototype Application
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: development_stage
+      label: Development Stage
+      hint: null
+      type: select_one
+      options:
+      - Development
+      - Pilot
+      - Testing
+      - Launch
+      required: true
+    - id: 4
+      name: submission_description
+      label: Submission Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: select_multiple
+      options:
+      - Supporting files (video)
+      - Supporting files (image)
+      - Supporting files (document)
+      required: true
+    - id: 6
+      name: submitter_contact
+      label: Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submission_url
+      label: Submission URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 10
+      name: reviewers_comments
+      label: Reviewers Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_institution
+      label: Reviewer Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_contact
+      label: Reviewer Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false

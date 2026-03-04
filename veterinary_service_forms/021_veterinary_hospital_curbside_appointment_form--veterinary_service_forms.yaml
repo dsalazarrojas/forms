@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Hospital Curbside Appointment Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Select Service
+      hint: null
+      type: select_one
+      options:
+      - Bathing, Nail Trimming, Grooming
+      - Other
+      required: false
+    - id: 4
+      name: service_description
+      label: Service Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pet_name
+      label: Pet Name
+      hint: Enter your pet's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_email
+      label: Owner E-mail
+      hint: Enter owner's email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: owner_phone
+      label: Owner Phone
+      hint: Enter owner's phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 12
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: appointment_location
+      label: Appointment Location
+      hint: null
+      type: select_one
+      options:
+      - Inside the hospital
+      - At the owner's car
+      - Other
+      required: false
+    - id: 14
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: owner_note
+      label: Owner Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: appointment_confirmation
+      label: Appointment Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - No Response
+      required: false

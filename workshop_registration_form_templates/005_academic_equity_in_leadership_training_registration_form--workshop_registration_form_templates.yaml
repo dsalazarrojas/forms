@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Equity In Leadership Training Registration Form
+    pages:
+    - id: 1
+      name: training_intro
+      label: Academic Equity in Leadership Training Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: Enter your legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Professional email for workshop communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_institution
+      label: Institution or Organization
+      hint: Name of your university, college, or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_position
+      label: Current Position
+      hint: Your current role or title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_department
+      label: Department or Division
+      hint: Your academic department or administrative division
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: leadership_experience_years
+      label: Years of Leadership Experience
+      hint: How many years have you held leadership positions?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: equity_focus_areas
+      label: Areas of Interest in Equity Leadership
+      hint: Select topics you are most interested in (select all that apply)
+      type: select_multiple
+      options:
+      - Racial equity in academic leadership
+      - Gender equity in faculty promotion
+      - LGBTQ+ inclusion in academic settings
+      - Disability access in educational environments
+      - Socioeconomic equity in admissions
+      - International scholar support
+      - First-generation student success
+      - Faculty diversity recruitment
+      required: false
+    - id: 9
+      name: current_challenges
+      label: Current Challenges in Equity Leadership
+      hint: What equity challenges do you face in your current role?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to gain from this training?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_session_format
+      label: Preferred Session Format
+      hint: How would you prefer to participate in the training?
+      type: select_one
+      options:
+      - In-person only
+      - Virtual only
+      - Hybrid option
+      - No preference
+      required: true
+    - id: 12
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Do you have any accessibility needs for the training?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions for meals provided?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for your emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_to_recordings
+      label: Consent to Recordings
+      hint: Do you consent to being recorded during the training for educational purposes?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Consent for portions only
+      required: false

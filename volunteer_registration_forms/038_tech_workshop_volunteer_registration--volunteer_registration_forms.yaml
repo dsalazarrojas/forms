@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_workshop_volunteer_registration
+    pages:
+    - id: 1
+      name: main_info
+      label: Main Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: Volunteer Roles
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Organizer
+      - Support
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

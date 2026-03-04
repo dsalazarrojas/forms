@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drilling Daily Report
+    pages:
+    - id: 1
+      name: date_field
+      label: Date Field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_field
+      label: Time Field
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: drilling_location
+      label: Drilling Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: drilling_equipment
+      label: Drilling Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''jennifers''}'
+      required: false
+    - id: 7
+      name: drilling_type
+      label: Drilling Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''drilling''}'
+      - '{''id'': 2, ''label'': ''non_drilling''}'
+      required: false
+    - id: 8
+      name: drilling_status
+      label: Drilling Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: drilling_priority
+      label: Drilling Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: drilling_duration
+      label: Drilling Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: drilling_comments
+      label: Drilling Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

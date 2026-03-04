@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Care Monitoring Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: pet info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_vaccinations
+      label: pet vaccinations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_list
+      label: medication list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: veterinary_checkups
+      label: veterinary checkups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian_info
+      label: veterinarian info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: treatment_plans
+      label: treatment plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: test_results
+      label: test results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_records
+      label: medical records
+      hint: null
+      type: text
+      options: []
+      required: false

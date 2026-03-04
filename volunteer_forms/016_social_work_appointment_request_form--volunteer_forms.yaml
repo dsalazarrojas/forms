@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Appointment Request Form
+    pages:
+    - id: 1
+      name: prophets
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Social Work
+      - Counseling
+      required: true
+    - id: 8
+      name: duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 30m
+      - 60m
+      - 90m
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - In-person
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_location
+      label: Service Location
+      hint: null
+      type: select_multiple
+      options:
+      - Zoom
+      - Google Meet
+      required: true
+    - id: 15
+      name: assigned_tool_id
+      label: Tool ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sync_calendar
+      label: Sync Calendar
+      hint: null
+      type: select_multiple
+      options:
+      - Google
+      - Microsoft Exchange
+      required: true

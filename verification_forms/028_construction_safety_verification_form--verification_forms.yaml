@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Safety Verification Form
+    pages:
+    - id: 1
+      name: verification_date
+      label: Verification Date
+      hint: Date of safety verification
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: general_contractor
+      label: General Contractor
+      hint: Primary contractor company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: safety_manager
+      label: Safety Manager
+      hint: Name of safety manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: verifier_name
+      label: Verifier Name
+      hint: Person conducting verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: verifier_credentials
+      label: Verifier Credentials
+      hint: Qualifications or certification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: safety_orientation_completed
+      label: Safety Orientation Completed
+      hint: Have all workers completed orientation
+      type: select_one
+      options:
+      - Yes, All Workers
+      - Yes, Most Workers
+      - Partially
+      - false
+      required: true
+    - id: 9
+      name: ppe_availability
+      label: PPE Availability
+      hint: Is personal protective equipment available
+      type: select_one
+      options:
+      - Yes, Fully Stocked
+      - Yes, Adequate
+      - Limited Supply
+      - false
+      required: true
+    - id: 10
+      name: ppe_compliance
+      label: PPE Compliance
+      hint: Are workers wearing required PPE
+      type: select_one
+      options:
+      - Full Compliance
+      - Mostly Compliant
+      - Partial Compliance
+      - Non-Compliant
+      required: true
+    - id: 11
+      name: safety_signage
+      label: Safety Signage
+      hint: Are safety signs posted appropriately
+      type: select_one
+      options:
+      - Yes, All Areas
+      - Yes, Most Areas
+      - Some Signs Missing
+      - Inadequate Signage
+      required: true
+    - id: 12
+      name: emergency_procedures
+      label: Emergency Procedures Posted
+      hint: Are emergency procedures displayed
+      type: select_one
+      options:
+      - Yes, Clearly Posted
+      - Yes, Posted
+      - Some Posted
+      - Not Posted
+      required: true
+    - id: 13
+      name: first_aid_availability
+      label: First Aid Availability
+      hint: Is first aid equipment available
+      type: select_one
+      options:
+      - Yes, Multiple Stations
+      - Yes, One Station
+      - Limited
+      - Not Available
+      required: true
+    - id: 14
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: Are fire extinguishers available and inspected
+      type: select_one
+      options:
+      - Yes, All Inspected
+      - Yes, Some Inspected
+      - Present but Not Inspected
+      - Not Available
+      required: true
+    - id: 15
+      name: fall_protection
+      label: Fall Protection Systems
+      hint: Are fall protection systems in place where needed
+      type: select_one
+      options:
+      - Yes, All Areas
+      - Yes, Most Areas
+      - Some Areas Missing
+      - Not Adequate
+      required: true
+    - id: 16
+      name: scaffolding_inspection
+      label: Scaffolding Inspection
+      hint: Is scaffolding properly inspected
+      type: select_one
+      options:
+      - Yes, All Inspected
+      - Yes, Some Inspected
+      - Not Inspected
+      - No Scaffolding
+      required: true
+    - id: 17
+      name: excavation_safety
+      label: Excavation Safety
+      hint: Are excavations properly protected
+      type: select_one
+      options:
+      - Yes, All Protected
+      - Yes, Most Protected
+      - Some Not Protected
+      - No Excavations
+      required: true
+    - id: 18
+      name: electrical_safety
+      label: Electrical Safety
+      hint: Are electrical systems properly managed
+      type: select_one
+      options:
+      - Yes, Compliant
+      - Mostly Compliant
+      - Some Issues
+      - Non-Compliant
+      required: true
+    - id: 19
+      name: equipment_inspection
+      label: Equipment Inspection
+      hint: Is equipment regularly inspected
+      type: select_one
+      options:
+      - Yes, Documented
+      - Yes, Not Documented
+      - Irregular
+      - false
+      required: true
+    - id: 20
+      name: hazard_communication
+      label: Hazard Communication
+      hint: Is HazCom program in place
+      type: select_one
+      options:
+      - Yes, Complete Program
+      - Yes, Basic Program
+      - Partial
+      - false
+      required: true
+    - id: 21
+      name: safety_meetings
+      label: Safety Meetings
+      hint: Are regular safety meetings held
+      type: select_one
+      options:
+      - Yes, Daily
+      - Yes, Weekly
+      - Yes, Monthly
+      - false
+      required: true
+    - id: 22
+      name: incident_reporting
+      label: Incident Reporting System
+      hint: Is there a system for reporting incidents
+      type: select_one
+      options:
+      - Yes, Formal System
+      - Yes, Informal
+      - Limited
+      - false
+      required: true
+    - id: 23
+      name: violations_found
+      label: Safety Violations Found
+      hint: Number of violations during verification
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: Describe actions needed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_compliance
+      label: Overall Safety Compliance
+      hint: Final determination
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - Partially Compliant
+      - Non-Compliant
+      required: true
+    - id: 26
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is reinspection needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: Scheduled date if applicable
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: verifier_signature
+      label: Verifier Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: safety_manager_signature
+      label: Safety Manager Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

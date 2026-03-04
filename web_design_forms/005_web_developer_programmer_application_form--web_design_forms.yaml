@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_developer_programmer_application_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8, ''name'': ''programming_languages'', ''label'': ''Programming
+        Languages'', ''type'': ''select_one'', ''options'': [{''id'': 9, ''name'':
+        ''JavaScript''}, {''id'': 10, ''name'': ''HTML''}, {''id'': 11, ''name'':
+        ''CSS''}, {''id'': 12, ''name'': ''Python''}, {''id'': 13, ''name'': ''C++''}]}'
+      - '{''id'': 14, ''name'': ''frameworks'', ''label'': ''Frameworks'', ''type'':
+        ''select_multiple'', ''options'': [{''id'': 15, ''name'': ''React''}, {''id'':
+        16, ''name'': ''Angular''}, {''id'': 17, ''name'': ''Vue''}]}'
+      - '{''id'': 18, ''name'': ''databases'', ''label'': ''Databases'', ''type'':
+        ''select_multiple'', ''options'': [{''id'': 19, ''name'': ''MongoDB''}, {''id'':
+        20, ''name'': ''MySQL''}, {''id'': 21, ''name'': ''PostgreSQL''}]}'
+      - '{''id'': 22, ''name'': ''certifications'', ''label'': ''Certifications'',
+        ''type'': ''select_multiple'', ''options'': [{''id'': 23, ''name'': ''CompTIA''},
+        {''id'': 24, ''name'': ''AWS''}, {''id'': 25, ''name'': ''Google Cloud''}]}'
+      required: false
+    - id: 7
+      name: projects
+      label: Projects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 27, ''name'': ''project1'', ''label'': ''Project 1'', ''type'':
+        ''select_one'', ''options'': [{''id'': 28, ''name'': ''Project 1''}, {''id'':
+        29, ''name'': ''Project 2''}, {''id'': 30, ''name'': ''Project 3''}, {''id'':
+        31, ''name'': ''Project 4''}]}'
+      - '{''id'': 32, ''name'': ''app'', ''label'': ''Apps'', ''type'': ''select_multiple'',
+        ''options'': [{''id'': 33, ''name'': ''app1''}, {''id'': 34, ''name'': ''app2''},
+        {''id'': 35, ''name'': ''app3''}]}'
+      - '{''id'': 36, ''name'': ''website'', ''label'': ''Website'', ''type'': ''select_multiple'',
+        ''options'': [{''id'': 37, ''name'': ''website1''}, {''id'': 38, ''name'':
+        ''website2''}, {''id'': 39, ''name'': ''website3''}]}'
+      - '{''id'': 40, ''name'': ''github'', ''label'': ''Github Profile'', ''type'':
+        ''text'', ''options'': []}'
+      required: false

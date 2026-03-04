@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Disaster Preparedness Registration Form
+    pages:
+    - id: 1
+      name: owner_details
+      label: Owner Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_info
+      label: Animal Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_contacts
+      label: Owner Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Horse
+      required: true
+    - id: 6
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: animal_breed
+      label: Animal Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      required: false
+    - id: 11
+      name: veterinary_clinic
+      label: Veterinary Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: disaster_preparedness_plan
+      label: Disaster Preparedness Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: owner_sign_date
+      label: Owner Signed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: veterinary_sign_date
+      label: Veterinarian Signed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: veterinary_signature
+      label: Veterinarian Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: owner_title
+      label: Owner Title
+      hint: null
+      type: select_one
+      options:
+      - Dr.
+      - Mr.
+      - Mrs.
+      required: false
+    - id: 24
+      name: owner_dob
+      label: Owner Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: owner_dob_year
+      label: Owner Year of Birth
+      hint: null
+      type: number
+      options: []
+      required: false

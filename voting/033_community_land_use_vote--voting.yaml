@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Land Use Vote
+    pages:
+    - id: 1
+      name: section_voter
+      label: -- Voter Residency Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Resident Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_address
+      label: Residential or Business Address in Community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: neighborhood_district
+      label: Neighborhood or Planning District
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: residency_type
+      label: Residency Status
+      hint: Select the one that primarily applies to you
+      type: select_one
+      options:
+      - Residential Homeowner
+      - Residential Renter
+      - Local Business Owner
+      - Commercial Property Owner
+      required: true
+    - id: 6
+      name: proposal_a_vote
+      label: Land Use Proposal A - Creation of New Community Park
+      hint: Conversion of vacant lot on 5th Ave
+      type: select_one
+      options:
+      - In Favor (Yes)
+      - Opposed (No)
+      - Neutral / No Opinion
+      required: true
+    - id: 7
+      name: proposal_b_vote
+      label: Land Use Proposal B - Mixed-use Housing and Retail Development
+      hint: Rezoning of the Industrial District
+      type: select_one
+      options:
+      - In Favor (Yes)
+      - Opposed (No)
+      - Neutral / No Opinion
+      required: true
+    - id: 8
+      name: proposal_c_vote
+      label: Land Use Proposal C - Public Library Expansion and Tech Hub
+      hint: Extension of the current Civic Center
+      type: select_one
+      options:
+      - In Favor (Yes)
+      - Opposed (No)
+      - Neutral / No Opinion
+      required: true
+    - id: 9
+      name: planning_comments
+      label: Detailed Comments on Proposed Land Use Changes
+      hint: Provide reasons for your votes if desired
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: environmental_impact_rating
+      label: Importance of Environmental Sustainability in Planning
+      hint: null
+      type: select_one
+      options:
+      - Extremely High Priority
+      - High Priority
+      - Moderate Priority
+      - Low Priority
+      required: true
+    - id: 11
+      name: vacant_lot_suggestion
+      label: Preferred Alternative Use for Vacant Lot on Main Street
+      hint: If not used for Proposal A
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vote_date
+      label: Date of Vote Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: verification_acknowledgement
+      label: I certify that I am a resident or property owner eligible to vote
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

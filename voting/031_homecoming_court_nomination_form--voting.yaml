@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homecoming Court Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Homecoming Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_nominee_name
+      label: Student Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 4
+      name: name_of_nominator
+      label: Nominator's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teacher_email
+      label: Teacher's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: teacher_phone
+      label: Teacher's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_name
+      label: Student's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_grade_level
+      label: Student's Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 10
+      name: student_grade_level_other
+      label: Student's Grade Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_subject_area
+      label: Teacher's Subject Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_department
+      label: Teacher's Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_tea_other
+      label: Other Teacher's Area of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_teacher_interest
+      label: Other Teacher's Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_tea_other
+      label: Other Teacher's Name
+      hint: null
+      type: text
+      options: []
+      required: false

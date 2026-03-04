@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Booth Award Voting
+    pages:
+    - id: 1
+      name: voter_registration_header
+      label: -- Voter Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: ticket_confirmation_number
+      label: Ticket Number
+      hint: Located on your event badge or confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booth_vote_header
+      label: -- Vote for Best Booth --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: booth_number_vote
+      label: Booth Number
+      hint: The identification number of the booth
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: booth_name_text
+      label: Company or Booth Name
+      hint: Name of the exhibitor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_criteria_header
+      label: -- Evaluation Criteria --
+      hint: Please rate from 1 (Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: visual_appeal_rating
+      label: Visual Appeal and Design
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: staff_friendliness_rating
+      label: Staff Friendliness and Engagement
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: info_quality_rating
+      label: Information and Content Quality
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 12
+      name: interactivity_rating
+      label: Interactivity and Engagement Tools
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 13
+      name: originality_rating
+      label: Originality and Innovation
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 14
+      name: comments_header
+      label: -- Attendee Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: favorite_aspect
+      label: What did you like most about this booth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: improvement_suggestion
+      label: One thing the exhibitor could improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirmation_header
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: marketing_consent
+      label: Consent for Future Event Marketing
+      hint: Would you like to receive updates about next year's event
+      type: select_one
+      options:
+      - Yes - I would like to stay informed
+      - No - Thank you
+      required: true
+    - id: 19
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

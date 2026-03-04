@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Finance Analyst Education Employment Verification Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      - Retired
+      - Deceased
+      - Resigned
+      - Resigned/Left
+      required: false
+    - id: 4
+      name: employment_dates
+      label: Employment Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Bachelor's Degree
+      - Post-Graduate Degree
+      - Associate's Degree
+      - Master's Degree
+      - Other
+      required: false
+    - id: 6
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: degree_name
+      label: Degree Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: employment_start_date
+      label: Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employment_end_date
+      label: Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: employment_current_status
+      label: Employment Current Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      - Resigned
+      - Retired
+      - Deceased
+      - Resigned/Left
+      required: false
+    - id: 14
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employment_verification_status
+      label: Employment Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Verified
+      - Re-Verified
+      - In-Progress
+      - Re-verified In-Progress
+      required: false

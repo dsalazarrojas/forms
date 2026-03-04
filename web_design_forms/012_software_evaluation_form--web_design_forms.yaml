@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Evaluation Form
+    pages:
+    - id: 1
+      name: software_evaluation_form_1
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Bad
+      required: false
+    - id: 2
+      name: usability
+      label: Usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: software_evaluation_form_2
+      label: Software Evaluation Form 2
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Average
+      required: false
+    - id: 4
+      name: software_features
+      label: Software Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: software_usability
+      label: Software Usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: software_support
+      label: Software Support
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: software_evaluation_form_3
+      label: Software Evaluation Form 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: software_ease_of_use
+      label: Software Ease of Use
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Difficult
+      required: false

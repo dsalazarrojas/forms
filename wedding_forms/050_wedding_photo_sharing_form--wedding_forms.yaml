@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Photo Sharing Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: photo_count
+      label: Photos
+      hint: Number of photos you'd like to share
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: photos
+      label: Select Photos
+      hint: null
+      type: select_multiple
+      options:
+      - Photo 1
+      - Photo 2
+      - Photo 3
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file
+      label: Attach Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: back_to_home
+      label: Back to Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: share_photos
+      label: Share Photos
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''share_facebook'', ''label'': ''Facebook'', ''hint'':
+        None, ''type'': ''text'', ''options'': []}'
+      - '{''id'': 14, ''name'': ''share_twitter'', ''label'': ''Twitter'', ''hint'':
+        None, ''type'': ''text'', ''options'': []}'
+      required: false

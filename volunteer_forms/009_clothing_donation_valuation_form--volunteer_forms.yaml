@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Donation Valuation Form
+    pages:
+    - id: 1
+      name: section_donor
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_clothing_item
+      label: -- Clothing Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_type
+      label: Type of Clothing Item
+      hint: null
+      type: select_one
+      options:
+      - Shirt
+      - Pants
+      - Dress
+      - Jacket
+      - Coat
+      - Sweater
+      - Shoes
+      - Accessory
+      - Other
+      required: true
+    - id: 8
+      name: item_brand
+      label: Brand Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: item_color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_size
+      label: Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_gender
+      label: Gender Category
+      hint: null
+      type: select_one
+      options:
+      - Mens
+      - Womens
+      - Childrens
+      - Unisex
+      required: true
+    - id: 12
+      name: section_condition
+      label: -- Item Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: condition_rating
+      label: Overall Condition
+      hint: null
+      type: select_one
+      options:
+      - Like new
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: stains_damage
+      label: Stains, holes, or visible damage?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Significant
+      required: true
+    - id: 15
+      name: damage_description
+      label: Describe any damage
+      hint: Leave blank if no damage
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: missing_parts
+      label: Missing buttons, zippers, or parts?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 17
+      name: missing_description
+      label: What is missing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: washing_condition
+      label: Was item washed before donation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, clean
+      - No, needs washing
+      - Unknown
+      required: true
+    - id: 19
+      name: section_valuation
+      label: -- Valuation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: original_value
+      label: Original Purchase Price - USD
+      hint: Approximate if not exact
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: estimated_value
+      label: Estimated Current Value - USD
+      hint: Based on condition and brand
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: quantity
+      label: Quantity of This Item
+      hint: If donating multiples
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total_donation_value
+      label: Total Donation Value - USD
+      hint: Estimated total for all items
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: special_notes
+      label: Special notes about the item
+      hint: Unique features, designer details, etc
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birdwatching Workshop Registration Form
+    pages:
+    - id: 1
+      name: section_workshop_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_name
+      label: Workshop Title
+      hint: Which workshop are you registering for
+      type: select_one
+      options:
+      - Introduction to Birdwatching
+      - Bird Identification Basics
+      - Photography for Birders
+      - Birdsong and Calls Identification
+      - Migration Patterns and Conservation
+      - Advanced Field Techniques
+      required: true
+    - id: 3
+      name: workshop_date
+      label: Workshop Date
+      hint: Which session do you prefer
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: workshop_time
+      label: Workshop Start Time
+      hint: Session time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_age_group
+      label: Age Group
+      hint: Your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 65+
+      required: true
+    - id: 12
+      name: section_experience
+      label: -- Experience and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: experience_level
+      label: Birdwatching Experience Level
+      hint: Your skill level
+      type: select_one
+      options:
+      - Beginner - Never Birdwatched
+      - Beginner - Limited Experience
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: reason_attending
+      label: Reason for Attending Workshop
+      hint: Why are you interested
+      type: select_multiple
+      options:
+      - Learn New Skills
+      - Improve Identification
+      - Photography Interest
+      - Connect with Others
+      - Conservation Awareness
+      - Hobby Enjoyment
+      - Professional Development
+      required: true
+    - id: 15
+      name: specific_interests
+      label: Specific Topics of Interest
+      hint: What would you like to focus on
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bird_interests
+      label: Favorite Bird Groups or Species
+      hint: What birds interest you most
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_attendance
+      label: -- Attendance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: attendance_type
+      label: Attendance Type
+      hint: How will you participate
+      type: select_one
+      options:
+      - In-Person Field Excursion
+      - Virtual Online Session
+      - Classroom Instruction
+      - Hybrid Option
+      required: true
+    - id: 19
+      name: group_size
+      label: Number Attending Together
+      hint: Are you bringing family or friends
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: companion_names
+      label: Names of Companions
+      hint: List others attending with you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_logistics
+      label: -- Logistics and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: transportation_needed
+      label: Need Transportation to Workshop
+      hint: Do you need help with travel
+      type: select_one
+      options:
+      - No, I Have Transportation
+      - Yes, Need Ride
+      - Maybe, Will Confirm
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food allergies
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: equipment_needed
+      label: Equipment You Are Bringing or Need
+      hint: Do you have binoculars etc
+      type: select_one
+      options:
+      - Have Own Equipment
+      - Need Loaner Binoculars
+      - Need Other Equipment
+      - Will Inquire
+      required: false
+    - id: 26
+      name: section_fees
+      label: -- Registration and Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: registration_cost
+      label: Workshop Registration Cost
+      hint: Fee amount for workshop
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Online Payment
+      - Check by Mail
+      - Cash at Workshop
+      - Bank Transfer
+      - Card at Event
+      required: true
+    - id: 29
+      name: section_permissions
+      label: -- Permissions and Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: photo_permission
+      label: May Workshop Photos Include You
+      hint: Consent for photos
+      type: select_one
+      options:
+      - Yes, Photos Allowed
+      - No Photos
+      required: true
+    - id: 31
+      name: waiver_acknowledgment
+      label: I acknowledge outdoor activity risks
+      hint: Confirm understanding of risks
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 32
+      name: code_of_conduct
+      label: I agree to follow the code of conduct
+      hint: Promise ethical behavior
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: section_feedback
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: learning_goals
+      label: What Do You Hope to Learn
+      hint: Your learning objectives
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: contact_for_questions
+      label: May We Contact You with Updates
+      hint: Confirm contact permission
+      type: select_one
+      options:
+      - Yes, Contact Me
+      - No Contact
+      required: true

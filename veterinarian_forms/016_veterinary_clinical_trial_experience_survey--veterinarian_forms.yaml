@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Clinical Trial Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_info
+      label: Pet Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trial_info
+      label: Trial Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false

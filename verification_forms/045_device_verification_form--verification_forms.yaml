@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: device_verification_form
+    pages:
+    - id: 1
+      name: device_id
+      label: device id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: device_name
+      label: device name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: serial_number
+      label: serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model_number
+      label: model number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mac_address
+      label: mac address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: firmware_version
+      label: firmware version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hardware_version
+      label: hardware version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: software_version
+      label: software version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_name
+      label: vendor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_website
+      label: vendor website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: device_type
+      label: device type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: verified_by
+      label: verified by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: verified_at
+      label: verified at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: verified_by_email
+      label: verified by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: verified_by_phone
+      label: verified by phone
+      hint: null
+      type: text
+      options: []
+      required: false

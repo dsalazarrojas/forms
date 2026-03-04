@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Work Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_order_type
+      label: work_order_type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 3
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_order_specification
+      label: work_order_specification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_execution
+      label: date_of_execution
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: quantity_material
+      label: quantity_material
+      hint: Please enter quantity of materials to be used
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: estimated_cost
+      label: estimated_cost
+      hint: Please enter estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: labor_cost
+      label: labor_cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hours_spent
+      label: hours_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: job_description
+      hint: Please enter a description of the job
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: dog_adoption_form
+    pages:
+    - id: 1
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''cat''}'
+      - '{''name'': ''dog''}'
+      - '{''name'': ''other''}'
+      required: false
+    - id: 4
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: adopter_info
+      label: adopter_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

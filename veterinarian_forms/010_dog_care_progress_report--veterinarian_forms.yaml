@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: dog_care_progress_report
+    pages:
+    - id: 1
+      name: pet_sitter
+      label: Pet Sitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_details
+      label: dog_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dog_food
+      label: dog_food
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Kibble''}'
+      - '{''id'': 2, ''label'': ''Raw''}'
+      - '{''id'': 3, ''label'': ''Homemade''}'
+      required: true
+    - id: 4
+      name: dog_water
+      label: dog_water
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Tap''}'
+      - '{''id'': 2, ''label'': ''Well''}'
+      required: false
+    - id: 5
+      name: vet_comments
+      label: Vet Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practitioner Signature Verification
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_verification
+      label: Date Of Verification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - 'Signature Type: Electronic'
+      - 'Signature Type: Electronic & Physical'
+      - 'Signature Type: Electronic & Physical (with photo)'
+      - 'Signature Type: Electronic (withประก photo)'
+      - 'Signature Type: Electronic & Physical & Photo'
+      required: true
+    - id: 7
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_license_type
+      label: Medical License Type
+      hint: null
+      type: select_one
+      options:
+      - 'Medical License Type: American Board of Medical Specialties'
+      - 'Medical License Type: American Osteopathic Association'
+      - 'Medical License Type: American Board of Medical Specialties & American Osteopathic'
+      - 'Medical License Type: American Osteopathic'
+      - 'Medical License Type: None'
+      required: false
+    - id: 12
+      name: specialty
+      label: Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_renewal
+      label: Date of Renewal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_file
+      label: Signature File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: verification_file
+      label: Verification File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: uploaded_on
+      label: Uploaded On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: verification_record_id
+      label: Verification Record ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      - Verified & Validated
+      - Verified (Pending)
+      - Verified (Rejected)
+      required: true
+    - id: 19
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: signature_file_type
+      label: Signature File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Signature File Type: Electronic Signature'
+      - 'Signature File Type: Physical Signature'
+      - 'Signature File Type: Photo ID'
+      - 'Signature File Type: Electronic Signature (with photo)'
+      required: false
+    - id: 24
+      name: medical_license_status
+      label: Medical License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Suspended
+      - Inactive
+      - Expired
+      - Inactive - Retired
+      - Suspended - Inactive
+      - Active - Inactive
+      required: false
+    - id: 25
+      name: signature_verification_status
+      label: Signature Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      - Verified
+      - Verified & Validated
+      - Verified (Pending)
+      - Verified (Rejected)
+      required: false
+    - id: 26
+      name: uploaded_by_name
+      label: Uploaded By Name_goals
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Valuation Seminar Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_title
+      label: Professional Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address for materials
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_postal_code
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: professional_background
+      label: Professional Background
+      hint: Your experience and qualifications
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: valuation_experience
+      label: Years of Valuation Experience
+      hint: How long in this field?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: primary_asset_focus
+      label: Primary Asset Focus Area
+      hint: What assets do you specialize in?
+      type: select_one
+      options:
+      - Real Estate
+      - Business Assets
+      - Equipment
+      - Intellectual Property
+      - Fine Art and Collectibles
+      - Other
+      required: true
+    - id: 15
+      name: seminar_date_preference
+      label: Preferred Seminar Date
+      hint: Which date works for you?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: session_time_preference
+      label: Session Time Preference
+      hint: Which time slot?
+      type: select_one
+      options:
+      - Morning 9am - 12pm
+      - Afternoon 1pm - 4pm
+      - Evening 5pm - 8pm
+      - Full Day Option
+      required: true
+    - id: 17
+      name: learning_goals
+      label: Learning Goals for This Seminar
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Valuation Methodologies
+      - Market Analysis
+      - Financial Modeling
+      - Industry Standards
+      - Case Studies
+      - Regulatory Compliance
+      - Practical Applications
+      required: true
+    - id: 19
+      name: registration_type
+      label: Registration Type
+      hint: Choose your registration option
+      type: select_one
+      options:
+      - Individual
+      - Group (3+ people)
+      - Corporate Rate
+      - Academic
+      - Government Employee
+      required: true
+    - id: 20
+      name: group_attendees_count
+      label: Number of Group Attendees
+      hint: If registering as group
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special meal needs?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: accessibility_accommodations
+      label: Accessibility or Special Accommodations
+      hint: Any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_seminar_attendance
+      label: Attended Our Seminars Previously?
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: hearing_about_seminar
+      label: How Did You Hear About This Seminar?
+      hint: Source of referral
+      type: select_one
+      options:
+      - Email Newsletter
+      - Website
+      - Professional Organization
+      - Colleague Recommendation
+      - LinkedIn
+      - Social Media
+      - Search Engine
+      - Other
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

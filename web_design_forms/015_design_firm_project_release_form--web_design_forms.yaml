@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Firm Project Release Form
+    pages:
+    - id: 1
+      name: design_firm_project_release_form
+      label: Design Firm Project Release Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: client_approval
+      label: Client Approval
+      hint: Enter client approval
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Closed
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: release_signature
+      label: Release Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Workshop Lead Generation
+    pages:
+    - id: 1
+      name: workshop_interest
+      label: Are you interested in our workshops?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_date
+      label: Workshop Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: workshop_time
+      label: Workshop Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: '###-###-####'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_venue
+      label: Workshop Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_details
+      label: Workshop Details
+      hint: Please describe your workshop in detail.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_interest_level
+      label: What level of interest do you have?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 11
+      name: workshop_price
+      label: Workshop Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: workshop_frequency
+      label: How often will this workshop be offered?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Repeating
+      - Monthly
+      required: false
+    - id: 15
+      name: workshop_status
+      label: Status of Workshop
+      hint: null
+      type: select_one
+      options:
+      - Upcoming
+      - Ongoing
+      - Closed
+      required: false
+    - id: 16
+      name: workshop_status_reason
+      label: Please select the reason of the workshop status.
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Cancelled
+      - Postponed
+      - Other
+      required: false
+    - id: 17
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Follow-up
+      - Converted
+      - Converted and Rescheduled
+      required: false
+    - id: 18
+      name: workshop_lead_id
+      label: Lead ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: workshop_lead_source
+      label: Lead Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workshop_lead_date
+      label: Lead Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: workshop_lead_time
+      label: Lead Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: workshop_lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Follow-up
+      - Converted
+      - Converted and Rescheduled
+      required: false
+    - id: 23
+      name: workshop_lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Other
+      required: false
+    - id: 24
+      name: workshop_lead_source_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: workshop_lead_comment
+      label: Workshop Lead Comment
+      hint: null
+      type: text
+      options: []
+      required: false

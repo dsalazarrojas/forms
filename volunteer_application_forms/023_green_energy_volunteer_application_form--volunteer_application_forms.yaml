@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: green_energy_volunteer_application_form
+    pages:
+    - id: 1
+      name: volunteer_application_form
+      label: volunteer-application-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_interests
+      label: volunteer-interests
+      hint: What volunteer activities are you interested in?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: energy_solutions
+      label: energy-solutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: available_dates
+      label: available-dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: available_hours
+      label: available-hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false

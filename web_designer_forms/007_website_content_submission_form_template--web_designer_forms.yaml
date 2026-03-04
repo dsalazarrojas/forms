@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Content Submission Form Template
+    pages:
+    - id: 1
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Published
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Blog Post
+      - Article
+      - Event
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - webmaster
+      required: true
+    - id: 15
+      name: submission_reviewer
+      label: Submission Reviewer
+      hint: null
+      type: select_one
+      options:
+      - webmaster
+      - admin
+      required: true

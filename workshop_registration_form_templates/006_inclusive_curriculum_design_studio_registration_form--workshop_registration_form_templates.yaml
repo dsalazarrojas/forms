@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Curriculum Design Studio
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: workshop_date
+      label: Workshop date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_special_needs
+      label: Special needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: special_needs_details
+      label: Additional details
+      hint: null
+      type: text
+      options: []
+      required: false

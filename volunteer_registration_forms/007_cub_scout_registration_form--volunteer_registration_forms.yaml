@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cub Scout Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scout_name
+      label: Scout Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: scout_unit
+      label: Scout Unit
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      required: false
+    - id: 4
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: scout_email
+      label: Scout Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: scout_phone
+      label: Scout Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: scout_unit_email
+      label: Unit Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: scout_unit_phone
+      label: Unit Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: participant_grade
+      label: Grade
+      hint: null
+      type: select_one
+      options:
+      - K
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 17
+      name: participant_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: participant_parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_parent_phone
+      label: Parent or Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_parent_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: participant_parent_address
+      label: Parent or Guardian Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_parent_city
+      label: Parent or Guardian City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_parent_state
+      label: Parent or Guardian State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_parent_zip
+      label: Parent or Guardian Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

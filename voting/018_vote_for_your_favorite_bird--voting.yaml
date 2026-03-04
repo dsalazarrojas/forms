@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vote For Your Favorite Bird
+    pages:
+    - id: 1
+      name: favorite_bird
+      label: Favorite Bird
+      hint: null
+      type: select_multiple
+      options:
+      - American Robin
+      - Blue Jay
+      - Cardinal
+      - Common Loon
+      - Mourning Dove
+      - Red-winged Blackbird
+      - Tufted Titmouse
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: favorite_bird_other
+      label: Other (if not listed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

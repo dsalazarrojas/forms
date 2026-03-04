@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Children Initiative Participation Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_organisation
+      label: Organisation
+      hint: Select your organisation
+      type: select_one
+      options:
+      - Nonprofit
+      - School
+      - Community
+      - Other
+      required: false
+    - id: 8
+      name: select_multiple_organisations
+      label: Multiple Organisations
+      hint: null
+      type: select_multiple
+      options:
+      - Nonprofit
+      - School
+      - Community
+      - Other
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: supporter_type
+      label: Supporter Type
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Donor
+      - Supporter
+      required: false
+    - id: 12
+      name: supporter_level
+      label: Supporter Level
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Organisation
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

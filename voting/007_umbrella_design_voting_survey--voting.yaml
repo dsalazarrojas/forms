@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Umbrella Design Voting Survey
+    pages:
+    - id: 1
+      name: form_1
+      label: Umbrella Concepts
+      hint: null
+      type: select_multiple
+      options:
+      - Umbrella 1
+      - Umbrella 2
+      - Umbrella 3
+      required: true
+    - id: 2
+      name: form_2
+      label: Ratings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: form_3
+      label: Feedback
+      hint: Provide feedback on the designs
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: Votes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: form_5
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Rating 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: Rating 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: Rating Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: Rating Standard Deviation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_13
+      label: Design Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Color: Blue'
+      - 'Color: Red'
+      - 'Color: Green'
+      required: false
+    - id: 14
+      name: form_14
+      label: Design Preference Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_15
+      label: Rating Standard Deviation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_16
+      label: Design Preference Average
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Aptitude Test Form
+    pages:
+    - id: 1
+      name: puppy_introduction
+      label: Puppy's History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: puppy_description
+      label: Puppy's Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: puppy_breed
+      label: Puppy's Breed
+      hint: null
+      type: select_one
+      options:
+      - Labrador Retriever
+      - Golden Retriever
+      - Poodle
+      - Bulldog
+      - Boxer
+      - Corgi
+      - Beagle
+      required: true
+    - id: 4
+      name: puppy_weight
+      label: Puppy's Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: puppy_length
+      label: Puppy's Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: puppy_age
+      label: Puppy's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: puppy_color
+      label: Puppy's Color
+      hint: null
+      type: select_one
+      options:
+      - black
+      - brown
+      - gray
+      - white
+      - red
+      - blue
+      - other
+      required: true
+    - id: 8
+      name: puppy_dental_status
+      label: Puppy's Dental Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: puppy_medical_status
+      label: Puppy's Medical Status
+      hint: null
+      type: select_one
+      options:
+      - normal
+      - precautions
+      - serious medical issues
+      required: true
+    - id: 10
+      name: puppy_training_status
+      label: Puppy's Training Status
+      hint: null
+      type: select_one
+      options:
+      - trained
+      - partially trained
+      - not trained
+      required: true
+    - id: 11
+      name: puppy_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: puppy_owner_info
+      label: Puppy's Owner Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: puppy_veterinarian_info
+      label: Puppy's Veterinarian Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: puppy_other_info
+      label: Puppy's Other Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: date_of_intake
+      label: Date Of Intake
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_of_intake
+      label: Time Of Intake
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: puppy_intake_status
+      label: Puppy Intake Status
+      hint: null
+      type: select_one
+      options:
+      - adoptable
+      - not adoptable
+      - pending
+      required: true
+    - id: 18
+      name: puppy_status
+      label: Puppy's Status
+      hint: null
+      type: select_one
+      options:
+      - available
+      - not available
+      - pending
+      required: true
+    - id: 19
+      name: puppy_photo_taken_by
+      label: Puppy's Photo Taken By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: puppy_photo_taken_date
+      label: Puppy's Photo Taken Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: puppy_vaccination_status
+      label: Puppy's Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - up-to-date
+      - not up-to-date
+      - pending
+      required: true
+    - id: 22
+      name: puppy_health_status
+      label: Puppy's Health Status
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 23
+      name: puppy_notes2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: puppy_owner
+      label: Puppy's Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: puppy_intake_notes
+      label: Puppy's Intake Notes
+      hint: null
+      type: note
+      options: []
+      required: false

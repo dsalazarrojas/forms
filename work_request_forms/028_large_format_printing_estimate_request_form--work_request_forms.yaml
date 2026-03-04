@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Large Format Printing Estimate Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: estimated_size
+      label: Estimated Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: print_format
+      label: Print Format
+      hint: null
+      type: select_one
+      options:
+      - A3
+      - A4
+      - A4+
+      required: false
+    - id: 8
+      name: paper_type
+      label: Paper Type
+      hint: null
+      type: select_multiple
+      options:
+      - A4
+      - A4 +
+      - B1
+      - B2
+      - B3
+      - B4
+      - B5
+      - B6
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - In-House
+      - In-House and Out-of-House
+      required: false
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false

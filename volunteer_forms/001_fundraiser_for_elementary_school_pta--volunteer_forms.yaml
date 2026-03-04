@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser For Elementary School PTA
+    pages:
+    - id: 1
+      name: form_title
+      label: Fundraiser Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_title
+      label: Page Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Forms
+      - Other
+      required: false
+    - id: 4
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_share_methods
+      label: Share Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Text
+      - Email
+      - Social Media
+      required: false
+    - id: 6
+      name: page_share
+      label: Page Share
+      hint: Share via social media, email, and text.
+      type: text
+      options: []
+      required: false

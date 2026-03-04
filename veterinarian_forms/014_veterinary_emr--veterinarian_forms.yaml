@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary EMR
+    pages:
+    - id: 1
+      name: client_contact_details
+      label: Client Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: client_pets
+      label: Client Pet's Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Sure''}'
+      required: false
+    - id: 4
+      name: exam_findings
+      label: Client Physical Exam Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian_comments
+      label: Veterinarian Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_for_group
+      label: Do you work for the veterinary group?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physical_exam_template_type
+      label: Type of Physical Exam Template
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''SOAP Template''}'
+      - '{''id'': 2, ''name'': ''Custom Template''}'
+      - '{''id'': 3, ''name'': ''Blank Template''}'
+      required: false
+    - id: 9
+      name: template_type
+      label: Template Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''SOAP Template''}'
+      - '{''id'': 2, ''name'': ''Custom Template''}'
+      - '{''id'': 3, ''name'': ''Blank Template''}'
+      required: false

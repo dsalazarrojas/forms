@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Data Analytics Webinar Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_select
+      label: Select your role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: role_select_options
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: goals_form
+      label: What are your goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goals_hint
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent_form
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: consent_form_hint
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role_form_hint
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

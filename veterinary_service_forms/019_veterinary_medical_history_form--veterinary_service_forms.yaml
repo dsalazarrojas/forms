@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Medical History Form
+    pages:
+    - id: 1
+      name: pet_medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Has the pet ever had any medical issues?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history_date
+      label: Date of the last medical issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: veterinary_clinics
+      label: Veterinary Clinics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Volunteer Reference Form
+    pages:
+    - id: 1
+      name: reference_name
+      label: Your Full Name
+      hint: Reference provider
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: relationship_to_volunteer
+      label: Relationship to Volunteer
+      hint: How you know them
+      type: select_one
+      options:
+      - Former Supervisor
+      - Current Supervisor
+      - Colleague
+      - Client or Service Recipient
+      - Community Member
+      - Religious Leader
+      - Educator
+      - Other
+      required: true
+    - id: 7
+      name: volunteer_name
+      label: Volunteer Full Name
+      hint: Person you are referencing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_role
+      label: Volunteer Role
+      hint: Their position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: volunteer_dates
+      label: Volunteer Period
+      hint: When they volunteered
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reference_purpose
+      label: Reference Purpose
+      hint: For what organization
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: overall_assessment
+      label: Overall Assessment
+      hint: General evaluation
+      type: select_one
+      options:
+      - Outstanding
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 12
+      name: reliability
+      label: Reliability
+      hint: Dependability
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 13
+      name: punctuality
+      label: Punctuality
+      hint: On-time performance
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 14
+      name: attitude
+      label: Attitude
+      hint: Demeanor and approach
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 15
+      name: interpersonal_skills
+      label: Interpersonal Skills
+      hint: Working with others
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 16
+      name: communication
+      label: Communication Skills
+      hint: Verbal and written
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 17
+      name: adaptability
+      label: Adaptability
+      hint: Flexibility
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 18
+      name: commitment
+      label: Commitment Level
+      hint: Dedication
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Unable to Assess
+      required: true
+    - id: 19
+      name: skills_observed
+      label: Skills Observed
+      hint: What skills they demonstrated
+      type: select_multiple
+      options:
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Communication
+      - Organization
+      - Creativity
+      - Technical Skills
+      - Customer Service
+      - Teaching
+      - Other
+      required: false
+    - id: 20
+      name: strengths
+      label: Key Strengths
+      hint: What they excel at
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: weaknesses
+      label: Areas for Growth
+      hint: Development areas
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notable_contributions
+      label: Notable Contributions
+      hint: Specific achievements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: handles_stress
+      label: Handles Stress Well
+      hint: Under pressure
+      type: select_one
+      options:
+      - Yes Very Well
+      - Yes Adequately
+      - No Has Difficulty
+      - Unable to Assess
+      required: true
+    - id: 24
+      name: works_independently
+      label: Works Well Independently
+      hint: Self-directed
+      type: select_one
+      options:
+      - Yes Very Well
+      - Yes With Some Guidance
+      - Needs Close Supervision
+      - Unable to Assess
+      required: true
+    - id: 25
+      name: suitable_for_role
+      label: Suitable for Volunteer Role
+      hint: Would they be a good fit
+      type: select_one
+      options:
+      - Highly Suitable
+      - Suitable
+      - May Be Suitable
+      - Not Suitable
+      required: true
+    - id: 26
+      name: concerns
+      label: Any Concerns
+      hint: Disclose any issues
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: confidentiality_acknowledgment
+      label: Confidentiality Acknowledgment
+      hint: This reference is confidential
+      type: select_one
+      options:
+      - I Understand
+      - I Have Questions
+      required: true
+    - id: 29
+      name: reference_confirmation
+      label: Reference Confirmation
+      hint: I confirm accuracy
+      type: select_one
+      options:
+      - I Confirm
+      - I Cannot Confirm
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Consent Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: massage_details
+      label: Massage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

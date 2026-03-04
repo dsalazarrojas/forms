@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing And Design Request Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: design_request_type
+      label: Design Request Type
+      hint: null
+      type: select_one
+      options:
+      - Logo Design
+      - Print Material
+      - Web Design
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: designer_email
+      label: Designer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assigned_designer
+      label: Assigned Designer
+      hint: null
+      type: select_one
+      options:
+      - Designer 1
+      - Designer 2
+      - Designer 3
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

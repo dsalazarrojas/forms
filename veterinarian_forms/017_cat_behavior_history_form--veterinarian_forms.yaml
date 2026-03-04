@@ -1,0 +1,166 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cat Behavior History Form
+    pages:
+      - id: 1
+        name: cat_basics_header
+        label: -- Cat Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: cat_name
+        label: Cat Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: cat_age
+        label: Approximate Age
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: cat_sex_status
+        label: Sex and Altered Status
+        hint: null
+        type: select_one
+        options:
+          - "Male - Neutered"
+          - "Male - Intact"
+          - "Female - Spayed"
+          - "Female - Intact"
+        required: true
+      - id: 5
+        name: behavioral_concern_header
+        label: -- Primary Concerns --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: main_reason_consult
+        label: Main reason for behavioral assessment
+        hint: Briefly describe the problem behavior
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: duration_of_problem
+        label: How long has this behavior been occurring
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: onset_trigger
+        label: Was there a specific event that triggered the behavior
+        hint: e.g. moving house, new baby, new pet
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_specific_behaviors
+        label: -- Specific Behavior Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: litter_box_use
+        label: Litter box usage habits
+        hint: null
+        type: select_one
+        options:
+          - "Always uses box"
+          - "Usually uses box"
+          - "Occasional accidents"
+          - "Frequently soils outside box"
+        required: true
+      - id: 11
+        name: aggression_towards_people
+        label: Displays aggression towards humans
+        hint: biting, scratching, lunging
+        type: select_one
+        options:
+          - "Never"
+          - "Rarely"
+          - "Often"
+          - "Daily"
+        required: true
+      - id: 12
+        name: aggression_towards_pets
+        label: Displays aggression towards other pets
+        hint: null
+        type: select_one
+        options:
+          - "Never"
+          - "Rarely"
+          - "Often"
+          - "Daily"
+          - "No other pets"
+        required: true
+      - id: 13
+        name: vocalization_level
+        label: Level of vocalization/meowing
+        hint: null
+        type: select_one
+        options:
+          - "Quiet"
+          - "Normal"
+          - "Very vocal"
+          - "Excessive meowing at night"
+        required: true
+      - id: 14
+        name: hiding_behavior
+        label: How often does the cat hide
+        hint: null
+        type: select_one
+        options:
+          - "Rarely"
+          - "Sometimes"
+          - "Most of the day"
+        required: true
+      - id: 15
+        name: section_environment
+        label: -- Home Environment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: household_changes
+        label: Any recent changes in the household
+        hint: new furniture, renovation, etc.
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: current_medications
+        label: Is the cat on any medications or supplements
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: further_details
+        label: Any additional details about the behavior
+        hint: null
+        type: text
+        options: []
+        required: false

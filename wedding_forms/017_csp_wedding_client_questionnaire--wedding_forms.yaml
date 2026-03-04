@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSP Wedding Client Questionnaire
+    pages:
+    - id: 1
+      name: couple_info_header
+      label: -- The Happy Couple --
+      hint: Cotton State Photo Wedding Questionnaire
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_1_name
+      label: Partner 1 Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_2_name
+      label: Partner 2 Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: locations_header
+      label: -- Venues and Locations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ceremony_location
+      label: Ceremony Venue Name and Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reception_location
+      label: Reception Venue Name and Address
+      hint: if different from ceremony
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: getting_ready_location
+      label: Getting Ready Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: timeline_header
+      label: -- Wedding Day Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ceremony_start_time
+      label: Ceremony Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: first_look
+      label: Are you doing a First Look
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure yet
+      required: true
+    - id: 13
+      name: family_formals_time
+      label: Preferred Time for Family Formals
+      hint: e.g. before ceremony or during cocktail hour
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: photography_header
+      label: -- Photography Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: must_have_shots
+      label: Specific Must-Have Photos
+      hint: list any unique or special requests
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bridal_party_size
+      label: Total Number in Bridal Party
+      hint: including bridesmaids and groomsmen
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: vendor_list
+      label: Other Vendors
+      hint: Planner, Florist, DJ, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: extra_notes
+      label: Anything else we should know
+      hint: null
+      type: text
+      options: []
+      required: false

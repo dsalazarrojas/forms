@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Fraud Detection Workshop Registration
+    pages:
+    - id: 1
+      name: first_page
+      label: Workshop Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: discount
+      label: Discount Amount
+      hint: 10% or more
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''Bank Transfer''}'
+      - '{''name'': ''PayPal''}'
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Design Service Request Form
+    pages:
+    - id: 1
+      name: service_request_form
+      label: Service Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget_range
+      label: Select Your Project Budget
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: custom_requests
+      label: Custom Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: newsletter_subscription
+      label: Newsletter Subscription
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Requisition Form
+    pages:
+    - id: 1
+      name: section_req_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_item
+      label: -- Item or Service Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: item_description
+      label: Item Description
+      hint: be specific
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requisition_category
+      label: Requisition Category
+      hint: null
+      type: select_one
+      options:
+      - Office Supplies
+      - IT Hardware
+      - Software License
+      - Professional Services
+      - Travel Expense
+      required: true
+    - id: 8
+      name: quantity_needed
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: estimated_unit_cost
+      label: Estimated Unit Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_requisition_amount
+      label: Total Requisition Amount
+      hint: quantity x unit cost
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_just
+      label: -- Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purpose_of_requisition
+      label: Purpose of Requisition
+      hint: How will this support your work?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: required_by_date
+      label: Required By Date
+      hint: target delivery date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Emergency
+      required: true
+    - id: 15
+      name: section_proj
+      label: -- Project Association --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_code_or_name
+      label: Project Code or Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_appr
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_manager_name
+      label: Supervisor and Manager Name
+      hint: Person responsible for budget approval
+      type: text
+      options: []
+      required: true

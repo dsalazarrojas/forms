@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refugee Support Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_application_form_1
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: refugee_status
+      label: Refugee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Refugee''}'
+      - '{''label'': ''Asylum Seeker''}'
+      required: false
+    - id: 6
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Less than 6 months''}'
+      - '{''label'': ''More than 6 months''}'
+      required: true
+    - id: 7
+      name: volunteer_skills
+      label: Volunteer Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_reference
+      label: Volunteer Reference
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Family Member''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Neighbor''}'
+      required: false
+    - id: 11
+      name: volunteer_interests
+      label: Volunteer Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Community Service''}'
+      - '{''label'': ''Disaster Relief''}'
+      - '{''label'': ''Education''}'
+      - '{''label'': ''Environment''}'
+      - '{''label'': ''Health''}'
+      - '{''label'': ''Homelessness''}'
+      - '{''label'': ''Human Rights''}'
+      - '{''label'': ''Immigration''}'
+      - '{''label'': ''Refugees''}'
+      required: true
+    - id: 12
+      name: volunteer_agreement
+      label: Volunteer Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 13
+      name: volunteer_agreement_details
+      label: Volunteer Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: application_confirmation
+      label: Application Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 15
+      name: volunteer_confirmation
+      label: Volunteer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 16
+      name: background_check_consent
+      label: Background Check Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 17
+      name: criminal_history
+      label: Criminal History
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: volunteer_reference_details
+      label: Volunteer Reference Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_skills_details
+      label: Volunteer Skills Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_availability
+      label: Volunteer Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Flexible''}'
+      - '{''label'': ''Variable''}'
+      required: false
+    - id: 21
+      name: volunteer_availability_details
+      label: Volunteer Availability Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_orientation
+      label: Volunteer Orientation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: volunteer_orientation_details
+      label: Volunteer Orientation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: volunteer_agreement_date
+      label: Volunteer Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: volunteer_agreement_time
+      label: Volunteer Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: true

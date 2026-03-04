@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Upholstery Service Request
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Upholstery Repair
+      - Fabric Repair
+      - Re Upholstery
+      required: true
+    - id: 6
+      name: service_date
+      label: service_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_time
+      label: service_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_follow_up
+      label: customer_follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_note
+      label: follow_up_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: service_team
+      label: service_team
+      hint: null
+      type: select_one
+      options:
+      - Furniture Repair
+      - Upholstery Team
+      - Other
+      required: true
+    - id: 14
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: schedule_notes
+      label: schedule_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: customer_signature_date
+      label: customer_signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: customer_signature_time
+      label: customer_signature_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_notes
+      label: form_notes
+      hint: null
+      type: text
+      options: []
+      required: false

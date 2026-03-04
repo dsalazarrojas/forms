@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Mobile Service Access Request Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: MM/dd/yy
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: veterinary_info
+      label: Veterinary Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - On-Site Visit
+      - House Call
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

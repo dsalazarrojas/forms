@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Certificate Verification Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birth Certificate Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Submit this form to verify a birth certificate
+      hint: Complete all required information
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Applicant Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_email
+      label: Applicant Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: applicant_relationship
+      label: Your Relationship to Certificate Holder
+      hint: How are you related
+      type: select_one
+      options:
+      - Self
+      - Parent
+      - Spouse
+      - Guardian
+      - Attorney
+      - Government Official
+      - Other
+      required: true
+    - id: 9
+      name: section_certificate_info
+      label: -- Certificate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cert_holder_first_name
+      label: Certificate Holder First Name
+      hint: Person named on certificate
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: cert_holder_middle_name
+      label: Certificate Holder Middle Name
+      hint: Middle name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cert_holder_last_name
+      label: Certificate Holder Last Name
+      hint: Last name on certificate
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: cert_holder_dob
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: mother_name
+      label: Mother's Full Name
+      hint: As appears on certificate
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: father_name
+      label: Father's Full Name
+      hint: If on certificate
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: birth_city
+      label: City of Birth
+      hint: Where child was born
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: birth_state
+      label: State of Birth
+      hint: State where born
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_cert_details
+      label: -- Certificate Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cert_issue_date
+      label: Certificate Issue Date
+      hint: When was certificate issued
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: cert_number
+      label: Certificate Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cert_file_number
+      label: Certificate File Number
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cert_type
+      label: Certificate Type
+      hint: What type of certificate
+      type: select_one
+      options:
+      - Original
+      - Amended
+      - Certified Copy
+      - Delayed
+      - Unknown
+      required: true
+    - id: 23
+      name: section_purpose
+      label: -- Purpose of Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: verification_purpose
+      label: Purpose of Verification
+      hint: Why do you need verification
+      type: select_one
+      options:
+      - Legal Identification
+      - Passport Application
+      - School Enrollment
+      - Employment
+      - Immigration
+      - Adoption
+      - Court Proceedings
+      - Other Government Use
+      - Other Purpose
+      required: true
+    - id: 25
+      name: purpose_description
+      label: Detailed Purpose
+      hint: Explain the need for verification
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: section_identity_verification
+      label: -- Identity Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: id_type
+      label: Type of ID Presented
+      hint: What form of ID do you have
+      type: select_one
+      options:
+      - Driver's License
+      - Passport
+      - State ID
+      - Birth Certificate
+      - Social Security Card
+      - Other Government ID
+      required: true
+    - id: 28
+      name: id_number
+      label: ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: id_issue_date
+      label: ID Issue Date
+      hint: When was ID issued
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: id_expiration_date
+      label: ID Expiration Date
+      hint: When does ID expire
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: section_request
+      label: -- Verification Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: verification_type
+      label: Type of Verification Requested
+      hint: What verification do you need
+      type: select_multiple
+      options:
+      - Verify Certificate Exists
+      - Verify Accuracy of Information
+      - Verify Identity of Holder
+      - Certified Statement of Birth
+      - Full Verification Report
+      required: true
+    - id: 33
+      name: certified_copy_needed
+      label: Certified Copy of Certificate Needed
+      hint: Do you need an official copy
+      type: select_one
+      options:
+      - Yes - Certified Copy
+      - Yes - Multiple Copies
+      - No - Verification Only
+      required: true
+    - id: 34
+      name: number_of_copies
+      label: Number of Copies
+      hint: How many certified copies needed
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: section_authorization
+      label: -- Authorization and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: information_accuracy
+      label: I certify the information is accurate
+      hint: Confirm accuracy
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true
+    - id: 37
+      name: legal_authorization
+      label: I am legally authorized to request verification
+      hint: Confirm authorization
+      type: select_one
+      options:
+      - I Am Authorized
+      - I Am Not Authorized
+      required: true
+    - id: 38
+      name: signature_acknowledgment
+      label: I acknowledge this request under penalty of perjury
+      hint: Confirm acknowledgment
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true

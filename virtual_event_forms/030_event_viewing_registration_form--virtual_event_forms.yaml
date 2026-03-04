@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Viewing Registration Form
+    pages:
+    - id: 1
+      name: in_person_rsvp
+      label: inPersonRSVP
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_selection
+      label: sessionSelection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attendee_details
+      label: attendeeDetails
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_details
+      label: eventDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: venue_details
+      label: venueDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organizer_details
+      label: organizerDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_sent
+      label: emailSent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_sent
+      label: phoneSent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_id
+      label: eventId
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: formId
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

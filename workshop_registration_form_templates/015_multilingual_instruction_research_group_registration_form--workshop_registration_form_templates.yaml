@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multilingual Instruction Research Group Registration Form
+    pages:
+    - id: 1
+      name: research_group_name
+      label: Research Group Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_group_description
+      label: Research Group Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_group_type
+      label: Research Group Type
+      hint: 'null'
+      type: select_one
+      options:
+      - Multilingual
+      - Bilingual
+      - Monolingual
+      required: false
+    - id: 7
+      name: research_group_language
+      label: Research Group Language
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Spanish
+      - English
+      - French
+      - Mandarin
+      - Arabic
+      - Russian
+      - Japanese
+      - German
+      - Portuguese
+      - Italian
+      required: false
+    - id: 8
+      name: research_group_leaders
+      label: Research Group Leaders
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Lead Researcher
+      - Co-Researcher
+      - Team Member
+      required: false
+    - id: 9
+      name: research_group_start_date
+      label: Research Group Start Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: research_group_end_date
+      label: Research Group End Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: 'null'
+      type: select_one
+      options:
+      - Self
+      - Researcher
+      - Admin
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: research_group_additional_comments
+      label: Research Group Additional Comments
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: research_group_comments
+      label: Research Group Comments
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: research_group_status
+      label: Research Group Status
+      hint: 'null'
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

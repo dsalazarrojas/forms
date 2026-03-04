@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Volunteer Registration Form
+    pages:
+    - id: 1
+      name: trade_show_volunteer_registration_form_1
+      label: Trade Show Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Early Morning
+      - Late Afternoon
+      - All Day
+      required: false
+    - id: 6
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Event Coordinator
+      - Event Host
+      - Volunteer
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chatgeorge
+      - chattom
+      required: false
+    - id: 10
+      name: trade_show_name
+      label: Trade Show Name
+      hint: null
+      type: text
+      options: []
+      required: false

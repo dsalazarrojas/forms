@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: ideal weight information form
+    pages:
+    - id: 1
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - female
+      - male
+      required: true
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: ideal_weight
+      label: ideal weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: ideal_weight_range_start
+      label: ideal weight range start
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ideal_weight_range_end
+      label: ideal weight range end
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: special_instructions
+      label: special instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

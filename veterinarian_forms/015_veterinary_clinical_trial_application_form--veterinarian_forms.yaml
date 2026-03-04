@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Clinical Trial Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_details
+      label: Animal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_contact_name
+      label: Owner Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_contact_phone
+      label: Owner Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_contact_email
+      label: Owner Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: owner_contact_relationship
+      label: Owner Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Family Member
+      - Friend
+      required: false
+    - id: 12
+      name: owner_contact_notes
+      label: Owner Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: animal_species
+      label: Species
+      hint: null
+      type: select_multiple
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 14
+      name: animal_breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: animal_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: animal_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: animal_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 18
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition_notes
+      label: Medical Condition Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: study_id
+      label: Study ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: study_name
+      label: Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: study_status
+      label: Study Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Inactive
+      required: false
+    - id: 25
+      name: study_notes
+      label: Study Notes
+      hint: null
+      type: note
+      options: []
+      required: false

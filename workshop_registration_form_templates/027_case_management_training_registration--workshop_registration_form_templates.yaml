@@ -1,0 +1,383 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Training Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: Case Management Training Registration
+      hint: Register for professional case management training
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of signup
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_info
+      label: Participant Information
+      hint: Attendee details
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_title
+      label: Professional Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Agency
+      hint: Employer name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: Agency category
+      type: select_one
+      options:
+      - Healthcare organization
+      - Mental health agency
+      - Social services agency
+      - Nonprofit organization
+      - Government agency
+      - Educational institution
+      - Private practice
+      - Other
+      required: true
+    - id: 8
+      name: address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: professional_background
+      label: Professional Background
+      hint: Experience and credentials
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: highest_education
+      label: Highest Education Level
+      hint: Completed education
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other professional degree
+      required: true
+    - id: 16
+      name: field_of_study
+      label: Field of Study
+      hint: Major or concentration
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: professional_certifications
+      label: Professional Certifications
+      hint: Licenses and credentials
+      type: select_multiple
+      options:
+      - None
+      - Licensed Social Worker - LSW
+      - Licensed Clinical Social Worker - LCSW
+      - Certified Case Manager - CCM
+      - Accredited Case Manager - ACM
+      - Licensed Professional Counselor - LPC
+      - Registered Nurse - RN
+      - Other healthcare license
+      - Other
+      required: false
+    - id: 18
+      name: years_experience
+      label: Years of Case Management Experience
+      hint: Professional experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 19
+      name: current_role
+      label: Current Role Description
+      hint: Job responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: population_served
+      label: Population Currently Served
+      hint: Client demographics
+      type: select_multiple
+      options:
+      - Children and youth
+      - Adults
+      - Seniors
+      - Families
+      - Veterans
+      - Homeless individuals
+      - Mental health clients
+      - Substance abuse clients
+      - Developmental disabilities
+      - Chronic illness
+      - Foster care
+      - Justice involved
+      - Immigrants or refugees
+      - Other
+      required: true
+    - id: 21
+      name: training_selection
+      label: Training Selection
+      hint: Course choices
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: training_type
+      label: Type of Training
+      hint: Select program
+      type: select_one
+      options:
+      - Fundamentals of case management
+      - Advanced case management
+      - Clinical case management
+      - Pediatric case management
+      - Geriatric case management
+      - Mental health case management
+      - Substance abuse case management
+      - Crisis intervention
+      - Care coordination
+      - Ethics in case management
+      required: true
+    - id: 23
+      name: training_format
+      label: Preferred Training Format
+      hint: Delivery method
+      type: select_one
+      options:
+      - In-person full day
+      - In-person multi-day
+      - Virtual live webinar
+      - Self-paced online
+      - Hybrid combination
+      required: true
+    - id: 24
+      name: preferred_date
+      label: Preferred Training Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: learning_objectives
+      label: Primary Learning Objectives
+      hint: What you want to learn
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: special_needs
+      label: Special Accommodations Needed
+      hint: Accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: If meals provided
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: ceu_requirements
+      label: Continuing Education Requirements
+      hint: CEU needs
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: ceu_needed
+      label: Do You Need Continuing Education Units
+      hint: CEU certification
+      type: select_one
+      options:
+      - Yes - need CEUs
+      - No - not needed
+      required: true
+    - id: 31
+      name: ceu_type
+      label: Type of CEU Credit Needed
+      hint: Certification body
+      type: select_multiple
+      options:
+      - NASW - Social Work
+      - CCMC - Case Management
+      - Nursing CME
+      - Counseling CEU
+      - Other
+      - Not applicable
+      required: false
+    - id: 32
+      name: license_number
+      label: License Number
+      hint: For CEU tracking
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: license_state
+      label: License State
+      hint: Issuing state
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: payment_info
+      label: Payment Information
+      hint: Registration fee
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Organization check
+      - Purchase order
+      - Invoice billing
+      - Scholarship
+      required: true
+    - id: 36
+      name: scholarship_needed
+      label: Are You Applying for Scholarship
+      hint: Financial assistance
+      type: select_one
+      options:
+      - Yes - application attached
+      - Yes - need information
+      - No - full payment
+      required: false
+    - id: 37
+      name: group_discount
+      label: Are Multiple People Registering
+      hint: Group rate
+      type: select_one
+      options:
+      - No - individual registration
+      - Yes - 2 to 5 people
+      - Yes - 6 to 10 people
+      - Yes - over 10 people
+      required: true
+    - id: 38
+      name: how_heard
+      label: How Did You Hear About This Training
+      hint: Referral source
+      type: select_one
+      options:
+      - Organization announcement
+      - Professional association
+      - Colleague referral
+      - Website
+      - Social media
+      - Email newsletter
+      - Previous training
+      - Other
+      required: true
+    - id: 39
+      name: previous_training
+      label: Have You Attended Our Training Before
+      hint: Prior attendance
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first time
+      required: true
+    - id: 40
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement to policies
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 41
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Improvement Session Registration
+    pages:
+      - id: 1
+        name: session_details
+        label: -- Session Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name for registration
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Employer or affiliation
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email
+        hint: For session confirmation
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: role
+        label: Role or job title
+        hint: Position related to care coordination
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: session_date
+        label: Session date
+        hint: Select which session to attend
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: dietary_restrictions
+        label: Dietary restrictions
+        hint: Indicate any special requirements
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Request accommodations if needed
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: For on site emergencies
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: consent_to_share_contact
+        label: Consent to share contact information with organizers
+        hint: Allow sharing for coordination
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

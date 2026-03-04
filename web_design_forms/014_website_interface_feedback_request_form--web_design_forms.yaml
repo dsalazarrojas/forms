@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Interface Feedback Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: feedback_message
+      label: Feedback Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_message_additional
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submit_feedback
+      label: Submit Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

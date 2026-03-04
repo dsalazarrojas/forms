@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSBG Application Form
+    pages:
+    - id: 1
+      name: header_applicant_info
+      label: -- Applicant Information --
+      hint: Community Services Block Grant Application
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_num
+      label: Social Security Number
+      hint: format XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: header_household_details
+      label: -- Household and Income Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: household_size
+      label: Total Number of People in Household
+      hint: including yourself
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: monthly_household_income
+      label: Total Monthly Household Income
+      hint: gross income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: income_source
+      label: Primary Source of Income
+      hint: null
+      type: select_one
+      options:
+      - Employment
+      - Social Security
+      - SSI
+      - Pension
+      - Unemployment
+      - Child Support
+      - No Income
+      required: true
+    - id: 10
+      name: header_service_request
+      label: -- Services Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: requested_services
+      label: Services Needed
+      hint: check all that apply
+      type: select_multiple
+      options:
+      - Housing Assistance
+      - Utility Assistance
+      - Food Assistance
+      - Employment Training
+      - Transportation
+      - Emergency Services
+      required: true
+    - id: 12
+      name: current_housing_status
+      label: Current Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Own
+      - Staying with friends
+      - Homeless
+      - Public Housing
+      required: true
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Unemployed
+      - Retired
+      - Student
+      - Disabled
+      required: true
+    - id: 14
+      name: military_service
+      label: Are you a Veteran
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: certification_statement
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

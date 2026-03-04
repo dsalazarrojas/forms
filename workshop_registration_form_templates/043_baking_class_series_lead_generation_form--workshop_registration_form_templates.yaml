@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baking Class Series Lead Generation Form
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Baking Class Series Interest Form --
+        hint: Register your interest in our baking classes
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        Label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 6
+        name: section_interest
+        label: -- Class Interest --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: class_type
+        Label: Type of Baking Class Interested In
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Bread Making
+          - Pastry and Desserts
+          - Cake Decorating
+          - Cookie Decorating
+          - Chocolate Tempering
+          - Artisan Techniques
+          - Beginner Fundamentals
+        required: true
+      - id: 8
+        name: skill_level
+        Label: Your Current Baking Skill Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Professional
+        required: true
+      - id: 9
+        name: class_format
+        Label: Preferred Class Format
+        hint: null
+        type: select_one
+        options:
+          - In-Person
+          - Online
+          - Hybrid
+          - No Preference
+        required: false
+      - id: 10
+        name: section_schedule
+        label: -- Schedule Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: preferred_days
+        Label: Preferred Days
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: true
+      - id: 12
+        name: preferred_times
+        Label: Preferred Times
+        hint: null
+        type: select_one
+        options:
+          - Morning (9am - 12pm)
+          - Afternoon (12pm - 5pm)
+          - Evening (5pm - 9pm)
+          - Weekend
+          - Flexible
+        required: true
+      - id: 13
+        name: series_duration
+        Label: Preferred Series Duration
+        hint: null
+        type: select_one
+        options:
+          - 4 Weeks
+          - 8 Weeks
+          - 12 Weeks
+          - Ongoing
+          - Single Workshop
+        required: false
+      - id: 14
+        name: section_commitment
+        label: -- Commitment Level --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: attendance_commitment
+        Label: Can You Commit to Regular Attendance?
+        hint: null
+        type: select_one
+        options:
+          - Yes, All Classes
+          - Mostly, Some Flexibility
+          - Uncertain
+          - Prefer Drop-In
+        required: true
+      - id: 16
+        name: class_frequency
+        Label: How Often Would You Like Classes?
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Flexible
+        required: false
+      - id: 17
+        name: section_goals
+        label: -- Learning Goals --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: learning_goals
+        Label: What Are Your Learning Goals?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: baking_experience
+        Label: Describe Your Baking Experience
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: section_logistics
+        label: -- Logistics and Budget --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: location_preference
+        Label: Preferred Class Location or Online Platform
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: budget_range
+        Label: Budget Range Per Class
+        hint: null
+        type: select_one
+        options:
+          - Under 50
+          - 50 - 100
+          - 100 - 150
+          - 150 - 250
+          - 250+
+        required: false
+      - id: 23
+        name: special_requirements
+        Label: Special Requirements or Accommodations
+        hint: Dietary, mobility, learning needs, etc.
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        Label: Additional Comments or Questions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: lead_submission
+        Label: I Would Like to Receive Information About This Class Series
+        hint: null
+        type: select_one
+        options:
+          - Yes, Contact Me
+          - Yes, But Wait
+          - Maybe Later
+        required: true

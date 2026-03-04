@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Evaluation Form
+    pages:
+    - id: 1
+      name: virtual_event_evaluation_form
+      label: Virtual Event Evaluation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speaker_description
+      label: Speaker Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: rating_label
+      label: How would you rate this event?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: virtual_event_feedback
+      label: Virtual Event Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: in_person_feedback
+      label: In-Person Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: virtual_event_suggestion
+      label: Virtual Event Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: in_person_suggestion
+      label: In-Person Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: email_follow_up
+      label: Email Follow-up
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_follow_up
+      label: Phone Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: virtual_event_evaluation
+      label: Virtual Event Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: in_person_event_location
+      label: In-Person Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

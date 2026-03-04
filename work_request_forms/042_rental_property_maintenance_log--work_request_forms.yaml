@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Maintenance Log
+    pages:
+    - id: 1
+      name: rental_property_maintenance_log
+      label: Rental Property Maintenance Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_request_date
+      label: work_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: property_id
+      label: property_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Repair
+      - Inspection
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

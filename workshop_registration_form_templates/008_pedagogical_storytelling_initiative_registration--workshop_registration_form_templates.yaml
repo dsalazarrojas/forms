@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedagogical Storytelling Initiative Registration
+    pages:
+    - id: 1
+      name: workshop_registration_form_template
+      label: Workshop Registration Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: roles
+      hint: null
+      type: select_one
+      options:
+      - Program Facilitator
+      - Program Director
+      - Participant
+      required: false
+    - id: 3
+      name: experience_years
+      label: experience_years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: motivations
+      label: motivations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_name
+      label: workshop_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participants
+      label: participants
+      hint: null
+      type: select_multiple
+      options:
+      - Number of Participants
+      - Age Range
+      - Location
+      required: false

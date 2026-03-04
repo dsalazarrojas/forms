@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_menu_selection_voting_form
+    pages:
+    - id: 1
+      name: rsvp
+      label: Guest rsvp
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Guest email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: meal_selections
+      label: Guest meal selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: guest_message
+      label: Guest message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: planner_name
+      label: Planner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: planner_message
+      label: Planner message
+      hint: null
+      type: note
+      options: []
+      required: false

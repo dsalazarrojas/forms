@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artificial Intelligence In Learning Forum Registration Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Registration confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Optional - for event updates
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: institution_name
+      label: Institution or Organization
+      hint: School, university, company, or organization name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title or Position
+      hint: Your role or position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: professional_role
+      label: Professional Role Category
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - Educator or Teacher
+      - Administrator
+      - Instructional Designer
+      - Learning Technologist
+      - Researcher
+      - AI Specialist
+      - Student
+      - Other
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Experience in Education
+      hint: Approximately how long have you been in education?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - 15+ years
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Forum Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interest_areas
+      label: Topics You Are Most Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AI in Personalized Learning
+      - Intelligent Tutoring Systems
+      - Natural Language Processing in Education
+      - AI Assessment Tools
+      - Automated Grading Systems
+      - Predictive Analytics in Learning
+      - Ethical AI in Education
+      - AI Policy and Governance
+      required: true
+    - id: 13
+      name: ai_experience_level
+      label: Your Experience with AI
+      hint: How familiar are you with AI?
+      type: select_one
+      options:
+      - No prior experience
+      - Basic familiarity
+      - Some hands-on experience
+      - Extensive experience
+      - I am an AI expert
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Forum Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: session_preferences
+      label: Preferred Session Format
+      hint: How do you prefer to attend?
+      type: select_one
+      options:
+      - In-person only
+      - Virtual only
+      - Hybrid (both options)
+      - No preference
+      required: false
+    - id: 16
+      name: networking_interest
+      label: Interest in Networking Opportunities
+      hint: Do you want to connect with other participants?
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: learning_objectives
+      label: What Do You Hope to Learn?
+      hint: Your goals for attending this forum
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: current_challenges
+      label: Current Challenges with AI in Learning
+      hint: What obstacles are you facing?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_6
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: dietary_requirements
+      label: Dietary Requirements or Restrictions
+      hint: For catered events
+      type: select_one
+      options:
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Do you require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_7
+      label: -- Consent and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: communications_consent
+      label: I agree to receive forum updates and communications
+      hint: Optional - we will send event information
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Prefer Not
+      required: false
+    - id: 25
+      name: code_of_conduct
+      label: I agree to abide by the forum code of conduct
+      hint: Professional and respectful behavior expected
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

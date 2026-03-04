@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_operations_participant_information
+    pages:
+    - id: 1
+      name: pet_details
+      label: Pet Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: select_multiple
+      options:
+      - Labrador
+      - Golden Retriever
+      - Poodle
+      - Pug
+      - Bulldog
+      - Mixed
+      - Chihuahua
+      - Other
+      required: true
+    - id: 4
+      name: owner_details
+      label: Owner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree to participate in the study
+      - I do not agree to participate in the study
+      required: true
+    - id: 9
+      name: consent_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: consent_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: pet_weight
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pet_length
+      label: pet_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: pet_dob
+      label: pet_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_city
+      label: owner_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_state
+      label: owner_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_zip
+      label: owner_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pet_description
+      label: pet_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: owner_notes
+      label: owner_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pet_history
+      label: pet_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pet_diagnosis
+      label: pet_diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: veterinary_clinic
+      label: veterinary_clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: procedure_details
+      label: procedure_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: procedure_date
+      label: procedure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: procedure_time
+      label: procedure_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Discharge Form
+    pages:
+    - id: 1
+      name: dog_training_discharge_form
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dog_training_discharge_form_client
+      label: Client
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: dog_training_discharge_form_dog
+      label: Dog
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: dog_training_discharge_form_date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: field_5
+      label: Field 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophets_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dog_training_discharge_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dog_training_discharge_form_email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: dog_training_discharge_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dog_training_discharge_form_additional_contacts
+      label: Additional Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

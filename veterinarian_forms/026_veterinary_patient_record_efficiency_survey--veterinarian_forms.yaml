@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_patient_record_efficiency_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: Is
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: this
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating1
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating2
+      label: Is
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating3
+      label: this
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: What
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - No issues
+      - Some issues
+      - Major issues
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned
+      label: Assigned
+      hint: 'Format: Last Name, First Name'
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

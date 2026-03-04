@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Say I Do In Cobb 2015
+    pages:
+    - id: 1
+      name: bridal_show_event_info
+      label: Bridal Show Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - vendor
+      - wedding planner
+      - florist
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: vendor_services
+      label: Vendor Services
+      hint: null
+      type: select_multiple
+      options:
+      - services1
+      - services2
+      - services3
+      required: false
+    - id: 7
+      name: wedding_planner
+      label: Wedding Planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

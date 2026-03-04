@@ -1,0 +1,55 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_application_form_for_music_festival
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact_details
+      label: emergency_contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: task_job_details
+      label: task_job_details
+      hint: null
+      type: select_one
+      options:
+      - Volunteer for event set-up
+      - Volunteer for event takedown
+      - Volunteer for event security
+      - Volunteer for event registration
+      required: true
+    - id: 4
+      name: shifts_and_availability
+      label: shifts_and_availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Signup Form
+    pages:
+    - id: 1
+      name: volunteer_signup_form
+      label: Volunteer Signup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: List your skills
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''ChatJimmy''}'
+      - '{''id'': 2, ''name'': ''tool2'', ''label'': ''Tool 2''}'
+      - '{''id'': 3, ''name'': ''tool3'', ''label'': ''Tool 3''}'
+      required: false
+    - id: 10
+      name: project
+      label: Project
+      hint: Choose a project
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''project1'', ''label'': ''Project 1''}'
+      - '{''id'': 5, ''name'': ''project2'', ''label'': ''Project 2''}'
+      - '{''id'': 6, ''name'': ''project3'', ''label'': ''Project 3''}'
+      required: false
+    - id: 11
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: task
+      label: Task
+      hint: Choose a task
+      type: select_multiple
+      options:
+      - '{''id'': 7, ''name'': ''task1'', ''label'': ''Task 1''}'
+      - '{''id'': 8, ''name'': ''task2'', ''label'': ''Task 2''}'
+      - '{''id'': 9, ''name'': ''task3'', ''label'': ''Task 3''}'
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm_nationality
+      label: Confirm Nationality
+      hint: What is your Nationality
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''nationality1'', ''label'': ''Nationality 1''}'
+      - '{''id'': 11, ''name'': ''nationality2'', ''label'': ''Nationality 2''}'
+      - '{''id'': 12, ''name'': ''nationality3'', ''label'': ''Nationality 3''}'
+      required: false
+    - id: 16
+      name: confirm_language
+      label: Confirm Language
+      hint: What is your native language
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''language1'', ''label'': ''Language 1''}'
+      - '{''id'': 14, ''name'': ''language2'', ''label'': ''Language 2''}'
+      - '{''id'': 15, ''name'': ''language3'', ''label'': ''Language 3''}'
+      required: false
+    - id: 17
+      name: role
+      label: Role
+      hint: Choose your role
+      type: select_multiple
+      options:
+      - '{''id'': 16, ''name'': ''role1'', ''label'': ''Role 1''}'
+      - '{''id'': 17, ''name'': ''role2'', ''label'': ''Role 2''}'
+      - '{''id'': 18, ''name'': ''role3'', ''label'': ''Role 3''}'
+      required: false

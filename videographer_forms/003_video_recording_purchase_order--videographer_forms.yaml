@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Recording Purchase Order
+    pages:
+    - id: 1
+      name: video_recording_purchase_order_form
+      label: Video Recording Purchase Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recording_techniques
+      label: Recording Techniques
+      hint: null
+      type: select_one
+      options:
+      - Single Camera
+      - Two Camera
+      - Three Camera
+      - Other
+      required: true
+    - id: 10
+      name: camera_positions
+      label: Camera Positions
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Side
+      - Back
+      - Top
+      required: true
+    - id: 11
+      name: recording_equipment
+      label: Recording Equipment
+      hint: null
+      type: select_one
+      options:
+      - HD
+      - SD
+      - Other
+      required: true
+    - id: 12
+      name: video_format
+      label: Video Format
+      hint: null
+      type: select_one
+      options:
+      - MP4
+      - MP3
+      - Other
+      required: true
+    - id: 13
+      name: video_resolution
+      label: Video Resolution
+      hint: null
+      type: select_one
+      options:
+      - 1080p
+      - 720p
+      - 720p
+      - Other
+      required: true
+    - id: 14
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Other
+      required: true
+    - id: 16
+      name: event_size
+      label: Event Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: true
+    - id: 17
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_company
+      label: Client Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - New Order
+      - In Progress
+      - Completed
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - Cash
+      required: true
+    - id: 22
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: invoice_time
+      label: Invoice Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

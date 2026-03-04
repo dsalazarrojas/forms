@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Proposition Course Registration Form
+    pages:
+    - id: 1
+      name: course_header
+      label: Client Value Proposition Course Registration
+      hint: Enroll in our comprehensive course to master value proposition development
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For course access and communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_info_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - Over 1000
+      required: false
+    - id: 13
+      name: course_section
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: course_start_date
+      label: Preferred Course Start Date
+      hint: null
+      type: select_one
+      options:
+      - Next Available
+      - Specific Date - March 15
+      - Specific Date - April 1
+      - Specific Date - May 1
+      - Self-Paced
+      required: true
+    - id: 15
+      name: course_format
+      label: Preferred Course Format
+      hint: null
+      type: select_one
+      options:
+      - Live Virtual
+      - Self-Paced Online
+      - Hybrid
+      - In-Person
+      - On-Demand
+      required: true
+    - id: 16
+      name: course_location
+      label: Preferred Location (if in-person or hybrid)
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Dallas
+      - San Francisco
+      - Boston
+      - Denver
+      - Other
+      required: false
+    - id: 17
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: experience_level_section
+      label: -- Experience and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: value_prop_experience
+      label: Experience with Value Proposition Development
+      hint: null
+      type: select_one
+      options:
+      - Beginner - No experience
+      - Some Experience
+      - Intermediate - Used in projects
+      - Advanced - Regular user
+      required: true
+    - id: 20
+      name: primary_goal
+      label: Primary Goal for Taking This Course
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: learning_objectives
+      label: Which topics are you most interested in?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Crafting Compelling Value Props
+      - Customer Pain Points
+      - Differentiation Strategies
+      - Messaging Framework
+      - Sales Enablement
+      - Marketing Alignment
+      - Case Studies and Examples
+      - Tools and Resources
+      required: true
+    - id: 22
+      name: business_challenges
+      label: Business challenges you are trying to solve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_role_section
+      label: -- Current Role and Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: role_type
+      label: Your Role Type
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Product Management
+      - Customer Success
+      - Executive/Leadership
+      - Consultant
+      - Entrepreneur
+      - Other
+      required: true
+    - id: 25
+      name: team_involvement
+      label: Will others from your team participate?
+      hint: null
+      type: select_one
+      options:
+      - Just Me
+      - 2-3 Others
+      - 4-5 Others
+      - 5+ Others
+      required: false
+    - id: 26
+      name: team_members_interested
+      label: How many team members might be interested?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: logistics_section
+      label: -- Logistics and Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: technology_comfort
+      label: Comfort level with online learning platforms
+      hint: null
+      type: select_one
+      options:
+      - Very Uncomfortable
+      - Uncomfortable
+      - Neutral
+      - Comfortable
+      - Very Comfortable
+      required: false
+    - id: 29
+      name: special_requirements
+      label: Any Special Requirements or Accommodations Needed
+      hint: Accessibility, language, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: certificate_interest
+      label: Are you interested in a Certificate of Completion?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

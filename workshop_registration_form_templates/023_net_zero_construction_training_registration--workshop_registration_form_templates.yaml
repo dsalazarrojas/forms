@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: net_zero_construction_training_registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_choices
+      label: select_session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_requirements
+      label: select_requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: attendee_requirements
+      label: attendee_requirements
+      hint: null
+      type: text
+      options: []
+      required: false

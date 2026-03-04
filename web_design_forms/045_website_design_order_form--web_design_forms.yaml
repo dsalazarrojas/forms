@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Order Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estimated_turnaround_time
+      label: Estimated Turnaround Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: theme
+      label: Theme
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Minimalist
+      - Responsive
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Logo Submission Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Full legal name of your company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry is your business in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Food and beverage
+      - Professional services
+      - Manufacturing
+      - Education
+      - Entertainment
+      - Other
+      required: true
+    - id: 7
+      name: company_description
+      label: Company Description
+      hint: Briefly describe what your company does
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target Audience
+      hint: Who are your primary customers
+      type: select_one
+      options:
+      - Consumers - general public
+      - Businesses - B2B
+      - Young adults - 18 to 34
+      - Adults - 35 to 54
+      - Seniors - 55 plus
+      - Children and families
+      - Niche market
+      required: true
+    - id: 9
+      name: brand_personality
+      label: Brand Personality
+      hint: Select words that describe your brand
+      type: select_multiple
+      options:
+      - Professional
+      - Friendly
+      - Innovative
+      - Trustworthy
+      - Luxurious
+      - Affordable
+      - Modern
+      - Classic
+      - Bold
+      - Minimalist
+      required: true
+    - id: 10
+      name: color_preferences
+      label: Color Preferences
+      hint: Select preferred colors for your logo
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Orange
+      - Purple
+      - Black
+      - White
+      - Gray
+      - No preference
+      required: true
+    - id: 11
+      name: colors_to_avoid
+      label: Colors to Avoid
+      hint: Any colors you do not want
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Orange
+      - Purple
+      - Pink
+      - Brown
+      - Black
+      - None
+      required: false
+    - id: 12
+      name: logo_style
+      label: Logo Style Preference
+      hint: What style of logo do you prefer
+      type: select_one
+      options:
+      - Wordmark - text only
+      - Lettermark - initials
+      - Icon or symbol
+      - Combination mark
+      - Emblem style
+      - Mascot
+      - No preference
+      required: true
+    - id: 13
+      name: design_inspiration
+      label: Design Inspiration
+      hint: Describe any logos or designs you like
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: usage_requirements
+      label: Logo Usage Requirements
+      hint: Where will your logo be used
+      type: select_multiple
+      options:
+      - Website
+      - Business cards
+      - Social media
+      - Print materials
+      - Product packaging
+      - Signage
+      - Merchandise
+      - Mobile app
+      required: true
+    - id: 15
+      name: timeline
+      label: Project Timeline
+      hint: When do you need the logo
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 2 months
+      - Flexible
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Your budget for logo design
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1000
+      - $1000 to $2500
+      - $2500 to $5000
+      - Over $5000
+      required: false
+    - id: 17
+      name: revision_expectations
+      label: Revision Expectations
+      hint: How many revision rounds do you expect
+      type: select_one
+      options:
+      - 1 to 2 rounds
+      - 3 to 4 rounds
+      - 5 plus rounds
+      - Until satisfied
+      required: true
+    - id: 18
+      name: file_formats_needed
+      label: File Formats Needed
+      hint: Select all formats you will need
+      type: select_multiple
+      options:
+      - PNG
+      - JPEG
+      - SVG
+      - EPS
+      - AI
+      - PDF
+      - PSD
+      - Not sure
+      required: true
+    - id: 19
+      name: existing_brand_assets
+      label: Existing Brand Assets
+      hint: Do you have existing brand guidelines
+      type: select_one
+      options:
+      - Yes - comprehensive guidelines
+      - Yes - basic guidelines
+      - No - starting fresh
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for the designer
+      type: text
+      options: []
+      required: false

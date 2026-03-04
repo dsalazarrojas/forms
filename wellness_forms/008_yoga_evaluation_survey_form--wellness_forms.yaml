@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Evaluation Survey Form
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: How would you rate your overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instructor_feedback
+      label: How would you rate the instructor?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''excellent''}'
+      - '{''id'': 2, ''label'': ''average''}'
+      - '{''id'': 3, ''label'': ''poor''}'
+      required: false
+    - id: 4
+      name: class_satisfaction
+      label: How satisfied are you with the class?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''label'': ''not_satisfied''}'
+      - '{''id'': 4, ''label'': ''very_dissatisfied''}'
+      required: false
+    - id: 5
+      name: class_length
+      label: How long would you like the class to be?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''too_short''}'
+      - '{''id'': 2, ''label'': ''just_right''}'
+      - '{''id'': 3, ''label'': ''too_long''}'
+      required: false
+    - id: 6
+      name: class_difficulty
+      label: How would you rate the difficulty level of the class?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: instructor_helpfulness
+      label: How helpful was the instructor?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''excellent''}'
+      - '{''id'': 2, ''label'': ''average''}'
+      - '{''id'': 3, ''label'': ''poor''}'
+      required: false
+    - id: 8
+      name: class_location
+      label: Where would you like to take the class?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''online''}'
+      - '{''id'': 2, ''label'': ''in_person''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: false
+    - id: 9
+      name: class_time
+      label: What time of day would you like to take the class?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''morning''}'
+      - '{''id'': 2, ''label'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''evening''}'
+      required: false
+    - id: 10
+      name: class_frequency
+      label: How many classes would you like to take per month?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: instructor_familiarity
+      label: How familiar are you with the instructor?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_familiar''}'
+      - '{''id'': 2, ''label'': ''somewhat_familiar''}'
+      - '{''id'': 3, ''label'': ''not_familiar''}'
+      required: false

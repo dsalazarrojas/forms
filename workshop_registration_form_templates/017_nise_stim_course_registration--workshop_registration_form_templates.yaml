@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: NISE Stim Course Registration
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: enrollment_start
+      label: enrollment_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: enrollment_end
+      label: enrollment_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: course_type
+      label: course_type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: false
+    - id: 9
+      name: enrollment_status
+      label: enrollment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Waitlisted
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: capacity
+      label: capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: available_seats
+      label: available_seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: enrolled_seats
+      label: enrolled_seats
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: enrolled_participants
+      label: enrolled_participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: enrollment_open
+      label: enrollment_open
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

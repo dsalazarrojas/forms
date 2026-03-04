@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty and Groom Show Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Exhibitor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website
+      label: Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram or Facebook
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_type
+      label: Vendor Type
+      hint: What do you offer
+      type: select_one
+      options:
+      - Bridal Beauty Services
+      - Hair Styling
+      - Makeup Artist
+      - Skincare Products
+      - Wedding Planning
+      - Photography
+      - Florist
+      - Jewelry
+      - Other
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - Over 15 years
+      required: true
+    - id: 10
+      name: booth_preference
+      label: Booth Size Preference
+      hint: What size booth
+      type: select_one
+      options:
+      - Small - 6x6 feet
+      - Medium - 10x10 feet
+      - Large - 10x20 feet
+      - Extra Large - 20x20 feet
+      - No Preference
+      required: true
+    - id: 11
+      name: electricity_needed
+      label: Electricity Needed
+      hint: Do you need power
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: table_needed
+      label: Table Needed
+      hint: Do you need a table
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: chairs_needed
+      label: Number of Chairs Needed
+      hint: How many chairs
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: show_date
+      label: Show Date
+      hint: Which show
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: setup_time
+      label: Setup Time Preference
+      hint: When to set up
+      type: select_one
+      options:
+      - Early Morning
+      - Morning
+      - Afternoon
+      - Day Before
+      required: true
+    - id: 16
+      name: promotional_materials
+      label: Bringing Promotional Materials
+      hint: Flyers or samples
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: live_demos
+      label: Will You Do Live Demonstrations
+      hint: Live demos
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 18
+      name: booth_fee
+      label: Booth Fee Understood
+      hint: Do you understand fee
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

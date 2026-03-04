@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Veterinarian Referral Form
+    pages:
+    - id: 1
+      name: animal_id
+      label: Animal ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: zoo_name
+      label: Zoo Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vet_name
+      label: Vet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: animal_health_concerns
+      label: Animal Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: care_requirements
+      label: Care Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zoo_contact_info
+      label: Zoo Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vet_contact_info
+      label: Vet Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: Zoo or Vet
+      type: select_multiple
+      options:
+      - Zoo
+      - Vet
+      required: false
+    - id: 9
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

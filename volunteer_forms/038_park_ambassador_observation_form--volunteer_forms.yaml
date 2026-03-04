@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: park_ambassador_observation_form
+    pages:
+    - id: 1
+      name: user_input
+      label: Volunteer Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_id
+      label: Volunteer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_observation
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: park_name
+      label: Park Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: observation_details
+      label: Observation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_id
+      label: Photo ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: photo_count
+      label: Photo Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: observation_status
+      label: Observation Status
+      hint: null
+      type: select_one
+      options:
+      - Park Volunteer
+      - Maintenance
+      - Maintenance - Needed
+      - Not Applicable
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: photo_path
+      label: Photo Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photo_taken
+      label: Photo Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: park_location
+      label: Park Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: observation_date
+      label: Observation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: observation_time
+      label: Observation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: location_description
+      label: Location Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photo_file
+      label: Photo File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: observation_area
+      label: Observation Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_multiple
+      options:
+      - Park Bench
+      - Park Bench - Alternative
+      - Park Picnic Table
+      - Park Picnic Table Alternative
+      required: true
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Rejected
+      required: true

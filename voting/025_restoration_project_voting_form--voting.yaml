@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restoration Project Voting Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      - '{''value'': ''option4''}'
+      - '{''value'': ''option5''}'
+      - '{''value'': ''option6''}'
+      required: true
+    - id: 5
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      - '{''value'': ''option4''}'
+      - '{''value'': ''option5''}'
+      required: true
+    - id: 10
+      name: project_comments
+      label: Project Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_rating
+      label: Project Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: project_votes
+      label: Project Votes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: project_votes_for
+      label: Project Votes For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_votes_against
+      label: Project Votes Against
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_votes_abstain
+      label: Project Votes Abstain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_idea
+      label: Project Idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_tags
+      label: Project Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_image
+      label: Project Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_video
+      label: Project Video
+      hint: null
+      type: text
+      options: []
+      required: false

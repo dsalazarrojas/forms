@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Support Drive Registration
+    pages:
+    - id: 1
+      name: volunteer_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 16 or older to volunteer
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, zip code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: drive_type_interest
+      label: Which support drive interests you?
+      hint: Select your preferred cause
+      type: select_one
+      options:
+      - Food Drive
+      - Clothing Drive
+      - School Supplies Drive
+      - Toy Drive
+      - Blood Drive
+      - Fundraising Drive
+      - General Community Support
+      required: true
+    - id: 7
+      name: volunteer_role
+      label: Preferred Volunteer Role
+      hint: What would you like to do?
+      type: select_one
+      options:
+      - Collection Point Host
+      - Driver/Transport
+      - Sorter/Organizer
+      - Promoter/Outreach
+      - Event Coordinator
+      - Administrative Support
+      - Any Role Needed
+      required: true
+    - id: 8
+      name: availability_weekdays
+      label: Weekday Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday Morning
+      - Monday Afternoon
+      - Monday Evening
+      - Tuesday Morning
+      - Tuesday Afternoon
+      - Tuesday Evening
+      - Wednesday Morning
+      - Wednesday Afternoon
+      - Wednesday Evening
+      - Thursday Morning
+      - Thursday Afternoon
+      - Thursday Evening
+      - Friday Morning
+      - Friday Afternoon
+      - Friday Evening
+      required: true
+    - id: 9
+      name: availability_weekends
+      label: Weekend Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Saturday Morning
+      - Saturday Afternoon
+      - Saturday Evening
+      - Sunday Morning
+      - Sunday Afternoon
+      - Sunday Evening
+      - Not Available Weekends
+      required: true
+    - id: 10
+      name: start_date
+      label: Available Start Date
+      hint: When can you begin volunteering?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: Approximate time commitment
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-5 hours
+      - 6-10 hours
+      - 11-15 hours
+      - 16+ hours
+      - Flexible
+      required: true
+    - id: 12
+      name: transportation_access
+      label: Do you have access to transportation?
+      hint: For pickup/delivery tasks
+      type: select_one
+      options:
+      - Yes, personal vehicle
+      - Yes, public transportation
+      - No, need transportation assistance
+      required: true
+    - id: 13
+      name: vehicle_capacity
+      label: If yes, what is your vehicle capacity?
+      hint: For transporting donations
+      type: select_one
+      options:
+      - Small car (1-2 bags)
+      - SUV/Crossover (5-10 bags)
+      - Truck/Van (20+ bags)
+      - Not applicable
+      required: false
+    - id: 14
+      name: prior_volunteer_experience
+      label: Do you have prior volunteer experience?
+      hint: Previous volunteering background
+      type: select_one
+      options:
+      - No, first time
+      - Yes, 1-2 experiences
+      - Yes, 3-5 experiences
+      - Yes, regular volunteer
+      required: true
+    - id: 15
+      name: skills_to_contribute
+      label: What skills can you contribute?
+      hint: Special abilities or expertise
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: group_volunteer
+      label: Are you volunteering as a group?
+      hint: Team, family, or organization
+      type: select_one
+      options:
+      - No, individual
+      - Yes, with family
+      - Yes, with friends
+      - Yes, with coworkers
+      - Yes, with school group
+      - Yes, with organization
+      required: true
+    - id: 17
+      name: group_size
+      label: If yes, how many people in your group?
+      hint: Approximate number
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tshirt_size
+      label: T-Shirt Size (for volunteer shirt)
+      hint: If volunteer shirts are provided
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - No shirt needed
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: consent_background_check
+      label: I consent to a background check if required
+      hint: Some roles require verification
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: I agree to the liability waiver
+      hint: Standard volunteer waiver
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 23
+      name: how_heard_about
+      label: How did you hear about this drive?
+      hint: Referral source
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Community Organization
+      - Workplace
+      - School
+      - Website
+      - Email
+      - Flyer/Poster
+      - Other
+      required: true
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

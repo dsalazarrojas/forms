@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Work Order Form
+    pages:
+    - id: 1
+      name: maintenance_work_order_form_1
+      label: Maintenance Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: maintenance_work_order_form_2
+      label: Equipment Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_work_order_form_3
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_work_order_form_4
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: maintenance_work_order_form_5
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_work_order_form_7
+      label: Maintenance Work Order Type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Work Order
+      - Preventive Maintenance
+      - Corrective Maintenance
+      - Predictive Maintenance
+      required: false
+    - id: 8
+      name: maintenance_work_order_form_8
+      label: Work Requestor
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance Supervisor
+      - Maintenance Manager
+      - Operations Manager
+      - Shift Supervisor
+      - Operations Supervisor
+      required: false
+    - id: 9
+      name: maintenance_work_order_form_9
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 10
+      name: maintenance_work_order_form_10
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_work_order_form_11
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_work_order_form_12
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_work_order_form_13
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: maintenance_work_order_form_14
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: maintenance_work_order_form_15
+      label: Work Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_work_order_form_16
+      label: Work Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_work_order_form_17
+      label: Reason for Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_work_order_form_18
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_work_order_form_19
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_work_order_form_20
+      label: Work Order Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      - Deferred
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_jimmy
+      label: Assigned Jimmy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tommy
+      label: Assigned Tommy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_bob
+      label: Assigned Bob
+      hint: null
+      type: text
+      options: []
+      required: false

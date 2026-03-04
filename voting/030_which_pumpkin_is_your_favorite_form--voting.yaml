@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Which Pumpkin Is Your Favorite Form
+    pages:
+    - id: 1
+      name: which_pumpkin_is_your_favorite
+      label: which_pumpkin_is_your_favorite
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_pumpkin_size
+      label: pumpkin_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_pumpkin_color
+      label: pumpkin_color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - orange
+      - yellow
+      - green
+      - blue
+      - purple
+      - pink
+      required: false
+    - id: 4
+      name: other_pumpkin_size
+      label: other_pumpkin_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: other_pumpkin_color
+      label: other_pumpkin_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_features
+      label: special_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_pumpkin_shape
+      label: pumpkin_shape
+      hint: null
+      type: select_one
+      options:
+      - round
+      - irregular
+      - symmetrical
+      - asymmetrical
+      - irregularly_round
+      - irregularly_irregular
+      required: false
+    - id: 8
+      name: favorite_pumpkin_pattern
+      label: pumpkin_pattern
+      hint: null
+      type: select_one
+      options:
+      - stripes
+      - dots
+      - polka_dots
+      - swirls
+      - zigzag
+      required: false
+    - id: 9
+      name: why_pumpkin
+      label: why_pumpkin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_feature_important
+      label: special_features_important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false

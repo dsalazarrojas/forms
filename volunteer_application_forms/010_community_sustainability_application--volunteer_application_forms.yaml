@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Sustainability Application
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: If applying on behalf of an organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What type of entity are you?
+      type: select_one
+      options:
+      - Individual
+      - Nonprofit Organization
+      - Community Group
+      - School or University
+      - Business
+      - Government Agency
+      - Religious Organization
+      - Other
+      required: true
+    - id: 6
+      name: organization_address
+      label: Organization Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: Name of your sustainability initiative
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_category
+      label: Project Category
+      hint: Primary focus area
+      type: select_one
+      options:
+      - Renewable Energy
+      - Waste Reduction
+      - Water Conservation
+      - Sustainable Agriculture
+      - Green Transportation
+      - Urban Gardening
+      - Environmental Education
+      - Climate Action
+      - Biodiversity Conservation
+      - Circular Economy
+      - Other
+      required: true
+    - id: 9
+      name: project_subcategories
+      label: Additional Focus Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Community Engagement
+      - Youth Involvement
+      - Social Equity
+      - Economic Development
+      - Health and Wellness
+      - Technology Innovation
+      - Policy Advocacy
+      - Research and Data
+      required: false
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Describe your initiative in detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_goals
+      label: What are the main goals of your project?
+      hint: Specific, measurable objectives
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_population
+      label: Who will benefit from this project?
+      hint: Target community or population
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_location
+      label: Where will the project take place?
+      hint: Geographic location or address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_timeline_start
+      label: Project Start Date
+      hint: When will you begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: project_timeline_end
+      label: Project End Date
+      hint: Expected completion date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: project_phase
+      label: What phase is your project in?
+      hint: Current status
+      type: select_one
+      options:
+      - Planning Stage
+      - Pilot Phase
+      - Implementation
+      - Expansion
+      - Established (seeking support)
+      required: true
+    - id: 17
+      name: team_size
+      label: How many people are on your team?
+      hint: Number of team members
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: volunteers_involved
+      label: How many volunteers are involved?
+      hint: Number of volunteers
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: budget_requested
+      label: What is your budget request?
+      hint: Amount of funding needed
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: total_project_budget
+      label: What is the total project budget?
+      hint: Including other funding sources
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: other_funding_sources
+      label: Do you have other funding sources?
+      hint: Additional grants or sponsors
+      type: select_one
+      options:
+      - No, this is our only funding
+      - Yes, partially funded
+      - Yes, fully funded (seeking in-kind support)
+      required: true
+    - id: 22
+      name: other_funding_details
+      label: If yes, please describe other funding
+      hint: List other grants or sponsors
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: environmental_impact
+      label: What environmental impact do you expect?
+      hint: Measurable outcomes
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: community_impact
+      label: What community impact do you expect?
+      hint: Social benefits
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: sustainability_plan
+      label: How will the project be sustained long-term?
+      hint: Sustainability after initial funding
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: partnerships
+      label: Do you have community partners?
+      hint: Collaborating organizations
+      type: select_one
+      options:
+      - No, we're working independently
+      - Yes, 1-2 partners
+      - Yes, 3-5 partners
+      - Yes, 6+ partners
+      required: true
+    - id: 27
+      name: partner_details
+      label: If yes, please list key partners
+      hint: Organization names
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: previous_projects
+      label: Have you completed similar projects before?
+      hint: Track record
+      type: select_one
+      options:
+      - No, this is our first project
+      - Yes, 1-2 projects
+      - Yes, 3-5 projects
+      - Yes, 6+ projects
+      required: true
+    - id: 29
+      name: previous_project_details
+      label: If yes, briefly describe previous projects
+      hint: Relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: challenges_anticipated
+      label: What challenges do you anticipate?
+      hint: Potential obstacles
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: support_needed
+      label: What type of support do you need most?
+      hint: Select primary need
+      type: select_one
+      options:
+      - Funding
+      - Technical Expertise
+      - Volunteer Support
+      - Equipment/Materials
+      - Space/Facilities
+      - Marketing/Outreach
+      - Partnerships
+      - Training
+      required: true
+    - id: 32
+      name: success_metrics
+      label: How will you measure success?
+      hint: Key performance indicators
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: reporting_commitment
+      label: Are you willing to provide progress reports?
+      hint: Regular updates on project status
+      type: select_one
+      options:
+      - Yes, quarterly reports
+      - Yes, bi-annual reports
+      - Yes, annual reports
+      - Yes, upon request
+      required: true
+    - id: 34
+      name: application_date
+      label: Application Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

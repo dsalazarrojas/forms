@@ -1,0 +1,317 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Car Of The Year Voting
+    pages:
+      - id: 1
+        name: voter_information
+        label: Voter Information
+        hint: Your details (optional for anonymous voting)
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Your Name
+        hint: Full name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: voter_email
+        label: Email Address
+        hint: For vote confirmation (optional)
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: voter_location
+        label: Your Location
+        hint: City and state
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: voter_age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: false
+      - id: 6
+        name: automotive_enthusiast
+        label: Are You an Automotive Enthusiast?
+        hint: How would you describe yourself?
+        type: select_one
+        options:
+          - Very enthusiastic
+          - Somewhat enthusiastic
+          - Casual interest
+          - Not really interested
+        required: false
+      - id: 7
+        name: voting_categories
+        label: Voting Categories
+        hint: Cast your votes
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: car_of_the_year
+        label: Car of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Toyota Camry
+          - Honda Accord
+          - Tesla Model 3
+          - BMW 3 Series
+          - Mercedes-Benz C-Class
+          - Mazda6
+          - Hyundai Sonata
+          - Nissan Altima
+        required: true
+      - id: 9
+        name: suv_of_the_year
+        label: SUV of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Toyota RAV4
+          - Honda CR-V
+          - Tesla Model Y
+          - Ford Explorer
+          - Jeep Grand Cherokee
+          - Mazda CX-5
+          - Hyundai Tucson
+          - Subaru Outback
+        required: true
+      - id: 10
+        name: truck_of_the_year
+        label: Truck of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Ford F-150
+          - Chevrolet Silverado
+          - Ram 1500
+          - Toyota Tundra
+          - GMC Sierra
+          - Nissan Titan
+          - Honda Ridgeline
+        required: true
+      - id: 11
+        name: electric_vehicle_of_the_year
+        label: Electric Vehicle of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Tesla Model S
+          - Tesla Model 3
+          - Tesla Model X
+          - Lucid Air
+          - BMW iX
+          - Mercedes EQS
+          - Ford Mustang Mach-E
+          - Hyundai Ioniq 5
+        required: true
+      - id: 12
+        name: sports_car_of_the_year
+        label: Sports Car of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Porsche 911
+          - Chevrolet Corvette
+          - Mazda MX-5 Miata
+          - Toyota GR86
+          - Subaru BRZ
+          - Ford Mustang
+          - Chevrolet Camaro
+          - Dodge Challenger
+        required: true
+      - id: 13
+        name: luxury_vehicle_of_the_year
+        label: Luxury Vehicle of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Mercedes-Benz S-Class
+          - BMW 7 Series
+          - Audi A8
+          - Lexus LS
+          - Genesis G90
+          - Porsche Panamera
+          - Jaguar XJ
+        required: true
+      - id: 14
+        name: best_value_vehicle
+        label: Best Value Vehicle of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Honda Civic
+          - Toyota Corolla
+          - Mazda3
+          - Hyundai Elantra
+          - Kia Forte
+          - Nissan Sentra
+          - Subaru Impreza
+        required: true
+      - id: 15
+        name: family_vehicle_of_the_year
+        label: Family Vehicle of the Year
+        hint: Select your top choice
+        type: select_one
+        options:
+          - Honda Odyssey
+          - Toyota Sienna
+          - Chrysler Pacifica
+          - Kia Telluride
+          - Hyundai Palisade
+          - Mazda CX-9
+          - Volkswagen Atlas
+        required: true
+      - id: 16
+        name: voting_preferences
+        label: Voting Preferences
+        hint: Your opinions
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: most_important_feature
+        label: Most Important Vehicle Feature
+        hint: What matters most to you?
+        type: select_one
+        options:
+          - Fuel Efficiency
+          - Safety Features
+          - Technology/Infotainment
+          - Performance
+          - Reliability
+          - Price/Value
+          - Design/Styling
+          - Comfort
+        required: true
+      - id: 18
+        name: preferred_fuel_type
+        label: Preferred Fuel Type
+        hint: Your preference
+        type: select_one
+        options:
+          - Gasoline
+          - Hybrid
+          - Plug-in Hybrid
+          - Electric
+          - Diesel
+        required: true
+      - id: 19
+        name: next_vehicle_purchase
+        label: Next Vehicle Purchase
+        hint: When do you plan to buy?
+        type: select_one
+        options:
+          - Within 6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - Not planning to buy
+        required: false
+      - id: 20
+        name: budget_range
+        label: Budget Range
+        hint: Your expected budget
+        type: select_one
+        options:
+          - Under $20,000
+          - $20,000-$35,000
+          - $35,000-$50,000
+          - $50,000-$75,000
+          - $75,000-$100,000
+          - Over $100,000
+        required: false
+      - id: 21
+        name: brand_loyalty
+        label: Brand Loyalty
+        hint: Do you have a favorite brand?
+        type: select_one
+        options:
+          - Yes - very loyal
+          - Somewhat loyal
+          - Open to all brands
+          - No preference
+        required: false
+      - id: 22
+        name: favorite_brand
+        label: Favorite Brand
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: feedback
+        label: Feedback
+        hint: Your thoughts on this year's vehicles
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: overall_impression
+        label: Overall Impression of This Year's Models
+        hint: How do you feel about this year's vehicles?
+        type: select_one
+        options:
+          - Excellent - best year ever
+          - Very good
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 25
+        name: standout_feature
+        label: Most Standout Feature This Year
+        hint: What impressed you most?
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: disappointment
+        label: Biggest Disappointment
+        hint: Any letdowns this year?
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: vote_date
+        label: Vote Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

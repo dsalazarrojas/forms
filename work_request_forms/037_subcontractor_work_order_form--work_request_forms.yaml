@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: subcontractor-work-order-form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contractor_info
+      label: contractor-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_order_info
+      label: work-order-info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: work_order_status
+      label: work-order-status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - active
+      - cancelled
+      required: true
+    - id: 5
+      name: work_order_date_created
+      label: work-order-date-created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_order_created_by
+      label: work-order-created-by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_order_last_updated
+      label: work-order-last-updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_order_last_updated_by
+      label: work-order-last-updated-by
+      hint: null
+      type: text
+      options: []
+      required: false

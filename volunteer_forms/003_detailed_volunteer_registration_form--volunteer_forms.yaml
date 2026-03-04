@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Detailed Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_areas_of_interest
+      label: Volunteer Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Volunteer and Event Planning
+      - Event Promotion
+      - Community Outreach
+      - Volunteer Management
+      - Data Entry
+      - Social Media Management
+      - Database Management
+      - Other
+      required: false
+    - id: 6
+      name: volunteer_frequencies
+      label: How Often Do You Volunteer?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Ongoing
+      - 1-3 days
+      - 1-2 weeks
+      - More
+      required: false
+    - id: 7
+      name: volunteer_shifts
+      label: Volunteer Shifts
+      hint: How many volunteer shifts are you able to commit to per month?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_start_date
+      label: What Date Would You Like to Start Volunteering?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_end_date
+      label: If you are already volunteering elsewhere, what date do you plan to start
+        volunteering with us?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_commitment
+      label: How much time are you able to commit per volunteer shift?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: non_profit_affiliation
+      label: Non Profit Affiliation
+      hint: null
+      type: select_one
+      options:
+      - Non-profit Employee
+      - Non-profit Volunteer
+      - Not a Non-profit Employee or Volunteer
+      required: false
+    - id: 12
+      name: non_profit_name
+      label: Non Profit Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: non_profit_position
+      label: Non-profit Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_application
+      label: Volunteer Application Submission
+      hint: null
+      type: select_one
+      options:
+      - Online Application Submission
+      - Offline Application Submission
+      - Both
+      required: false
+    - id: 15
+      name: volunteer_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

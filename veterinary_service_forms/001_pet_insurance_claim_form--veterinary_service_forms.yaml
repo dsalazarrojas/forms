@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Claim Form
+    pages:
+    - id: 1
+      name: pet_insurance_claim_form
+      label: Pet Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - bird
+      required: false
+    - id: 3
+      name: insurance_company
+      label: pet_insurance_company
+      hint: null
+      type: select_one
+      options:
+      - Trupanion
+      - Petco
+      required: false
+    - id: 4
+      name: veterinarian_name
+      label: veterinarian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: veterinary_clinic
+      label: veterinary_clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_expenses
+      label: medical_expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_expenses_description
+      label: medical_expenses_description
+      hint: Describe the medical expenses
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_care
+      label: veterinary_care
+      hint: null
+      type: select_one
+      options:
+      - Routine check-ups
+      - Medical procedures
+      - Surgeries
+      required: false
+    - id: 9
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: claim_time
+      label: claim_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Vendor Checklist
+    pages:
+    - id: 1
+      name: wedding_vendor_checklist
+      label: What is the vendor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Caterer''}'
+      - '{''id'': 2, ''label'': ''Florist''}'
+      - '{''id'': 3, ''label'': ''Photographer''}'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vendor_website
+      label: Vendor Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 11
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: vendor_rate
+      label: Vendor Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vendor_rating
+      label: Vendor Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vendor_message
+      label: Vendor Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vendor_message_phone
+      label: Vendor Message Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vendor_note
+      label: Vendor Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet DNA Sample Testing Consent Form
+    pages:
+    - id: 1
+      name: pet_owner_authorization
+      label: Pet Owner Authorization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      - Horse
+      required: false
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: testing_type
+      label: Testing Type
+      hint: null
+      type: select_one
+      options:
+      - DNA Testing
+      - Blood Testing
+      - Microchip Testing
+      required: false
+    - id: 6
+      name: testing_purpose
+      label: Testing Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - General Health
+      - Insurance
+      - Research
+      - Other
+      required: false
+    - id: 7
+      name: test_results_reporting
+      label: Test Results Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Only Owner
+      required: false
+    - id: 8
+      name: field_8
+      label: Field 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_date_signed
+      label: Owner Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: owner_time_signed
+      label: Owner Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: veterinarian_date_signed
+      label: Veterinarian Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: veterinarian_time_signed
+      label: Veterinarian Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Relief Program Application Form
+    pages:
+    - id: 1
+      name: clinic_info
+      label: Clinic Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requested_staffing
+      label: Requested Staffing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: operational_support
+      label: Operational Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: application_info
+      label: Application Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_info
+      label: Veterinary Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: application_attachments
+      label: Application Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

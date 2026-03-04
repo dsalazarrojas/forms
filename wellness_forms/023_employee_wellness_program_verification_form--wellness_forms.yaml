@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Wellness Program Verification Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wellness_program
+      label: Wellness Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participation_date
+      label: Participation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: engagement_status
+      label: Engagement Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Company X''}'
+      - '{''label'': ''Company Y''}'
+      - '{''label'': ''Company Z''}'
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''ChatJimmy''}'
+      - Other
+      required: false
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

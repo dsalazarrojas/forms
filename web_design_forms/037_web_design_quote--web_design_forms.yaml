@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_design_quote
+    pages:
+    - id: 1
+      name: main_page
+      label: web_design_quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: Briefly describe your project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: web_design_services
+      label: web_design_services
+      hint: Choose all services you want included
+      type: select_multiple
+      options:
+      - Logo and Branding
+      - Web Design
+      - Web Development
+      - Web Hosting
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: When would you want to start?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: When would you want to end?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: total_hours
+      label: total_hours
+      hint: Total hours spent on project
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hourly_rate
+      label: hourly_rate
+      hint: Hourly rate of the web designer
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_cost
+      label: total_cost
+      hint: Total cost of the web designer
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: payment_terms
+      hint: Payment terms
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_status
+      label: project_status
+      hint: Project status
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Done
+      required: true
+    - id: 12
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_state
+      label: client_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_country
+      label: client_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: designer_name
+      label: designer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: designer_email
+      label: designer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: designer_phone
+      label: designer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

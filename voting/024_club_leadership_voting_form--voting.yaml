@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Leadership Voting Form
+    pages:
+    - id: 1
+      name: voter_name
+      label: Voter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: voter_id
+      label: Member ID or Student ID
+      hint: For verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voting_date
+      label: Voting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: voting_time
+      label: Voting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: election_year
+      label: Election Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: president_vote
+      label: Vote for President
+      hint: Select your choice
+      type: select_one
+      options:
+      - Candidate A
+      - Candidate B
+      - Candidate C
+      - Write-In
+      - Abstain
+      required: true
+    - id: 8
+      name: president_writeIn
+      label: Write-In Candidate for President
+      hint: If selecting write-in above
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vice_president_vote
+      label: Vote for Vice President
+      hint: Select your choice
+      type: select_one
+      options:
+      - Candidate A
+      - Candidate B
+      - Candidate C
+      - Write-In
+      - Abstain
+      required: true
+    - id: 10
+      name: vice_president_writeIn
+      label: Write-In Candidate for Vice President
+      hint: If selecting write-in above
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: secretary_vote
+      label: Vote for Secretary
+      hint: Select your choice
+      type: select_one
+      options:
+      - Candidate A
+      - Candidate B
+      - Candidate C
+      - Write-In
+      - Abstain
+      required: true
+    - id: 12
+      name: secretary_writeIn
+      label: Write-In Candidate for Secretary
+      hint: If selecting write-in above
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treasurer_vote
+      label: Vote for Treasurer
+      hint: Select your choice
+      type: select_one
+      options:
+      - Candidate A
+      - Candidate B
+      - Candidate C
+      - Write-In
+      - Abstain
+      required: true
+    - id: 14
+      name: treasurer_writeIn
+      label: Write-In Candidate for Treasurer
+      hint: If selecting write-in above
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vote_confirmation
+      label: I Confirm These Are My Official Votes
+      hint: Please confirm before submitting
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, Let Me Change My Votes
+      required: true

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Phase Planning Form
+    pages:
+    - id: 1
+      name: section_project_phase_ident
+      label: -- Project Phase Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_phase
+      label: Planning Phase
+      hint: Which phase of the project is this plan for?
+      type: select_one
+      options:
+      - Pre-Construction/Site Prep
+      - Substructure/Foundation
+      - Superstructure/Framing
+      - Building Envelope/Roofing
+      - Mechanical, Electrical, Plumbing (MEP)
+      - Interior Fit-out/Finishing
+      - Landscaping/Exterior Works
+      - Close-out/Handover
+      required: true
+    - id: 4
+      name: phase_start_date
+      label: Estimated Phase Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phase_end_date
+      label: Estimated Phase Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_resource_planning
+      label: -- Resource and Labor Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: required_trades_checklist
+      label: Required Trades for this Phase
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Excavation
+      - Concrete/Masonry
+      - Carpentry/Framing
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Drywall/Painting
+      - Flooring
+      - Roofing
+      required: true
+    - id: 8
+      name: labor_count_estimate
+      label: Estimated Average Daily Worker Count
+      hint: Total of all trades on site
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: equipment_needs_summary
+      label: Major Equipment Required
+      hint: e.g., Crane, Excavator, Boom Lift, Scaffolding
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_material_logistics
+      label: -- Material and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_materials_summary
+      label: Primary Materials Required
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: material_delivery_schedule
+      label: Delivery Schedule Strategy
+      hint: null
+      type: select_one
+      options:
+      - Just-in-Time (JIT) Delivery
+      - Bulk On-site Storage
+      - Off-site Staging/Warehousing
+      required: true
+    - id: 13
+      name: site_access_constraints
+      label: Known Site Access Constraints
+      hint: e.g., Low bridges, restricted hours, narrow entry
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_risk_management
+      label: -- Risk and Safety Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_safety_hazard
+      label: Primary Safety Hazard for this Phase
+      hint: null
+      type: select_one
+      options:
+      - Falls from Height
+      - Struck-by Hazards
+      - Caught-between/Crushing
+      - Electrical Hazards
+      - Confined Space Entry
+      - Trench/Excavation Cave-in
+      - Chemical/Dust Exposure
+      required: true
+    - id: 16
+      name: hazard_mitigation_plan
+      label: Specific Hazard Mitigation Measures
+      hint: Max 500 characters
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_comm_coordination
+      label: -- Coordination and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: coordination_meeting_freq
+      label: Phase-specific Coordination Meeting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 19
+      name: additional_planning_notes
+      label: Additional Planning Considerations
+      hint: Any unique project requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: planning_officer_name
+      label: Name of Planning Officer/Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

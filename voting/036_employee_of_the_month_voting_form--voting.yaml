@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Of The Month Voting Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Select The Winning Employee
+      hint: Choose an employee with a positive attitude and good work ethic
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vote_count
+      label: Vote Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

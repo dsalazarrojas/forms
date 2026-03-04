@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Menu Selection Voting Form
+    pages:
+    - id: 1
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: meal_choice
+      label: Meal Choice
+      hint: null
+      type: select_one
+      options:
+      - Wedding Cake
+      - Salad
+      - Seafood
+      - Beef
+      required: true
+    - id: 6
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

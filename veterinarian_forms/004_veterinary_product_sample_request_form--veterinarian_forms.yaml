@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Product Sample Request Form
+    pages:
+    - id: 1
+      name: form_info
+      label: veterinary_product_sample_request_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_2
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_info_3
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_details
+      label: product_details
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: product_request
+      label: product_sample_request
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: shipping_info
+      label: shipping_details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: shipping_info_2
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: note
+      options: []
+      required: false

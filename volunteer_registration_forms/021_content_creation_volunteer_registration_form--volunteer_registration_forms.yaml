@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_full_name
+      label: Volunteer Full Name
+      hint: Legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_email
+      label: Volunteer Email
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization you are volunteering for
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_position
+      label: Volunteer Position
+      hint: What role are you interested in?
+      type: select_one
+      options:
+      - Content Writer
+      - Social Media Manager
+      - Graphic Designer
+      - Video Editor
+      - Photographer
+      - Podcast Producer
+      - Content Strategist
+      - Multiple Roles
+      required: true
+    - id: 11
+      name: skills_and_expertise
+      label: Skills and Expertise
+      hint: List your relevant skills
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: experience_level
+      label: Experience Level
+      hint: How much experience do you have?
+      type: select_one
+      options:
+      - Beginner (0-1 years)
+      - Intermediate (1-3 years)
+      - Advanced (3-5 years)
+      - Expert (5+ years)
+      required: true
+    - id: 13
+      name: portfolio_url
+      label: Portfolio URL
+      hint: Link to your portfolio or work samples
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: availability
+      label: Availability
+      hint: When are you available to volunteer?
+      type: select_one
+      options:
+      - Weekdays Only
+      - Weekends Only
+      - Evenings Only
+      - Flexible Schedule
+      - Full-Time
+      required: true
+    - id: 15
+      name: hours_per_week
+      label: Hours Per Week
+      hint: How many hours can you volunteer weekly?
+      type: select_one
+      options:
+      - 1-5 hours
+      - 5-10 hours
+      - 10-15 hours
+      - 15-20 hours
+      - 20+ hours
+      required: true
+    - id: 16
+      name: start_date
+      label: Available Start Date
+      hint: When can you begin volunteering?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: volunteer_duration
+      label: Volunteer Duration
+      hint: How long do you plan to volunteer?
+      type: select_one
+      options:
+      - One-Time Project
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Ongoing
+      required: true
+    - id: 18
+      name: previous_volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Have you volunteered before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: volunteer_experience_details
+      label: Volunteer Experience Details
+      hint: Describe your previous volunteer work
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: motivation
+      label: Motivation for Volunteering
+      hint: Why do you want to volunteer with us?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: equipment_available
+      label: Equipment Available
+      hint: What equipment do you have access to?
+      type: select_multiple
+      options:
+      - Computer/Laptop
+      - Camera
+      - Microphone
+      - Lighting Equipment
+      - Editing Software
+      - Smartphone
+      - None
+      required: true
+    - id: 22
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to a background check?
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true

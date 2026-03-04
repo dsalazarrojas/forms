@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grooming Appointment Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_time
+      label: Appointment Time
+      hint: Select a time
+      type: select_one
+      options:
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 01:00 PM
+      - 02:00 PM
+      - 03:00 PM
+      - 04:00 PM
+      - 05:00 PM
+      - 06:00 PM
+      - 07:00 PM
+      - 08:00 PM
+      - 09:00 PM
+      - 10:00 PM
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: Select a date
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-02'
+      - '2024-01-03'
+      - '2024-01-04'
+      - '2024-01-05'
+      - '2024-01-06'
+      - '2024-01-07'
+      - '2024-01-08'
+      - '2024-01-09'
+      - '2024-01-10'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: Add any notes
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Enter customer phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service
+      label: Service
+      hint: Select a service
+      type: select_multiple
+      options:
+      - Dog Grooming
+      - Cat Grooming
+      - Pet Nail Trimming
+      - Pet Bathing
+      - Pet Brushing
+      - Pet Styling
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_message
+      label: Customer Message
+      hint: Any messages or questions?
+      type: text
+      options: []
+      required: false

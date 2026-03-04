@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Educational Workshop Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One-time
+      required: false
+    - id: 3
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Workshop
+      - Advanced Workshop
+      - Workshop Series
+      required: false
+    - id: 4
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email
+      label: Attendee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_frequency
+      label: Registration Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time
+      - Regular
+      required: false
+    - id: 8
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Registered
+      - Registered
+      - Cancelled
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false

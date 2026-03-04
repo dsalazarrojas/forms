@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Diagnostic Evaluation Consent Form
+    pages:
+    - id: 1
+      name: owner_details
+      label: owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''yes''}'
+      - '{''value'': ''no''}'
+      required: false
+    - id: 6
+      name: diagnostic_procedures
+      label: diagnostic_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: veterinarian_notes
+      label: veterinarian_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_notes
+      label: owner_notes
+      hint: null
+      type: text
+      options: []
+      required: false

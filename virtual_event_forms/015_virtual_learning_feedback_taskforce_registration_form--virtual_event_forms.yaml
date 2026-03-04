@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Learning Feedback Taskforce Registration Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: virtual_participants
+      label: Virtual Participants
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Virtual Instructor
+      - Virtual Presenter
+      - Virtual Facilitator
+      required: false
+    - id: 4
+      name: preferred_communication_channel
+      label: Preferred Communication Channel
+      hint: Select one from the following
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - Video
+      required: true
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - UTC+0
+      - UTC-5
+      - UTC+8
+      required: true
+    - id: 7
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: virtual_learning_goal
+      label: Virtual Learning Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: virtual_environment
+      label: Virtual Environment
+      hint: Select one from the following
+      type: select_one
+      options:
+      - On-site
+      - Offsite
+      - Both
+      required: true
+    - id: 10
+      name: virtual_learning_platform
+      label: Virtual Learning Platform
+      hint: Select one from the following
+      type: select_one
+      options:
+      - Zoom
+      - Google Meet
+      - Skype
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

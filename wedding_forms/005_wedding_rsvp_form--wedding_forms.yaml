@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_rsvp_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_number
+      label: Guest Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Not Attending
+      - Attending
+      - May be able to attend
+      - Maybe attending
+      - Attending as Guest of another couple
+      required: true
+    - id: 4
+      name: contact_method
+      label: How you'd like to get in touch with us
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text/SMS
+      - Other
+      - No preference
+      required: false
+    - id: 5
+      name: comment
+      label: Any comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Dietary restrictions
+      - Special Accommodations
+      - Other (please specify below)
+      - None
+      required: false
+    - id: 9
+      name: special_request_comment
+      label: Special Requests Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

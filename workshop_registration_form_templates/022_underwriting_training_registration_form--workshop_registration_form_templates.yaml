@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: underwriting_training_registration_form
+    pages:
+    - id: 1
+      name: training_team
+      label: Training Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''underwriting'', ''label'': ''Underwriting''}'
+      - '{''id'': 2, ''name'': ''claims'', ''label'': ''Claims''}'
+      - '{''id'': 3, ''name'': ''policy'', ''label'': ''Policy''}'
+      - '{''id'': 4, ''name'': ''underwriting_and_claims'', ''label'': ''Underwriting
+        and Claims''}'
+      - '{''id'': 5, ''name'': ''underwriting_and_policy'', ''label'': ''Underwriting
+        and Policy''}'
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''underwriting'', ''label'': ''Underwriting''}'
+      - '{''id'': 2, ''name'': ''claims'', ''label'': ''Claims''}'
+      - '{''id'': 3, ''name'': ''policy'', ''label'': ''Policy''}'
+      - '{''id'': 4, ''name'': ''underwriting_and_claims'', ''label'': ''Underwriting
+        and Claims''}'
+      - '{''id'': 5, ''name'': ''underwriting_and_policy'', ''label'': ''Underwriting
+        and Policy''}'
+      required: true

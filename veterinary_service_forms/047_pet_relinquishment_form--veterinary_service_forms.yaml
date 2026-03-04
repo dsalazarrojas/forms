@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Relinquishment Form
+    pages:
+    - id: 1
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - other
+      required: false
+    - id: 2
+      name: pet_name
+      label: Name
+      hint: Pet name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_relinquishment
+      label: Reason For Relinquishment
+      hint: Reason for pet relinquishment
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner Name
+      hint: Owner name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: Address of pet owner
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_last_seen
+      label: Date Last Seen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_available
+      label: Time Available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_relinquishment_details
+      label: Reason For Relinquishment Details
+      hint: Reason for pet relinquishment details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Medical conditions of pet
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: Medical history of pet
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: behavior_issues
+      label: Behavior Issues
+      hint: Behavior issues of pet
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: microchip_number
+      label: Microchip Number
+      hint: Microchip number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: microchip_type
+      label: Microchip Type
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 18
+      name: microchip_provider
+      label: Microchip Provider
+      hint: Microchip provider
+      type: text
+      options: []
+      required: false

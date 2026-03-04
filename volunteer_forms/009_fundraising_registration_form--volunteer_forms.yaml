@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Registration Form
+    pages:
+    - id: 1
+      name: volunteer_form
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fundraising_goal
+      label: fundraising_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_type
+      label: donation_type
+      hint: null
+      type: select_multiple
+      options:
+      - Donation Type 1
+      - Donation Type 2
+      - Donation Type 3
+      required: true
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_of_donation
+      label: date_of_donation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_donation
+      label: time_of_donation
+      hint: null
+      type: time
+      options: []
+      required: true

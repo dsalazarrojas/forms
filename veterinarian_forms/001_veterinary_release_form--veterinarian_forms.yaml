@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_release_form
+    pages:
+    - id: 1
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: veterinarian_name
+      label: veterinarian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Select Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7, ''name'': ''hypothyroidism'', ''label'': ''hypothyroidism''}'
+      - '{''id'': 8, ''name'': ''cancer'', ''label'': ''cancer''}'
+      - '{''id'': 9, ''name'': ''diabetes'', ''label'': ''diabetes''}'
+      - '{''id'': 10, ''name'': ''hypertension'', ''label'': ''hypertension''}'
+      - '{''id'': 11, ''name'': ''neurodegenerative disorder'', ''label'': ''neurodegenerative
+        disorder''}'
+      - '{''id'': 12, ''name'': ''neurodegenerative disorders'', ''label'': ''neurodegenerative
+        disorders''}'
+      - '{''id'': 13, ''name'': ''neurodegenerative disorders'', ''label'': ''neurodegenerative
+        disorders''}'
+      - '{''id'': 14, ''name'': ''medical_conditions_1'', ''label'': ''medical_conditions_1''}'
+      - '{''id'': 15, ''name'': ''medical_conditions_2'', ''label'': ''medical_conditions_2''}'
+      - '{''id'': 16, ''name'': ''medical_conditions_3'', ''label'': ''medical_conditions_3''}'
+      - '{''id'': 17, ''name'': ''medical_conditions_4'', ''label'': ''medical_conditions_4''}'
+      - '{''id'': 18, ''name'': ''medical_conditions_5'', ''label'': ''medical_conditions_5''}'
+      - '{''id'': 19, ''name'': ''medical_conditions_6'', ''label'': ''medical_conditions_6''}'
+      - '{''id'': 20, ''name'': ''medical_conditions_7'', ''label'': ''medical_conditions_7''}'
+      - '{''id'': 21, ''name'': ''medical_conditions_8'', ''label'': ''medical_conditions_8''}'
+      - '{''id'': 22, ''name'': ''medical_conditions_9'', ''label'': ''medical_conditions_9''}'
+      - '{''id'': 23, ''name'': ''medical_conditions_10'', ''label'': ''medical_conditions_10''}'
+      - '{''id'': 24, ''name'': ''medical_conditions_11'', ''label'': ''medical_conditions_11''}'
+      - '{''id'': 25, ''name'': ''medical_conditions_12'', ''label'': ''medical_conditions_12''}'
+      required: false

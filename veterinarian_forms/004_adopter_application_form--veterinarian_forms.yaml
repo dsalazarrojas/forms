@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adopter Application Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Residential address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: household_members
+      label: Household members
+      hint: Number of adults and children
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_pets
+      label: Current pets at home
+      hint: List species and ages
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_adopting
+      label: Reason for adopting a pet
+      hint: Briefly explain why you want to adopt
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agree_to_home_visit
+      label: Agree to home visit if required
+      hint: Shelter may request a home check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: references
+      label: Personal references
+      hint: Provide two references with contact info
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

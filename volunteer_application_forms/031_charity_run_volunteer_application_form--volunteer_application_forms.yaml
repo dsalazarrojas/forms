@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Run Volunteer Application Form
+    pages:
+    - id: 1
+      name: section_volunteer_info
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For volunteer communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_event
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Charity Run Event Name
+      hint: Which charity run are you volunteering for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: When is the charity run
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hours_available
+      label: Hours Available
+      hint: How many hours can you volunteer
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: time_preferences
+      label: Time Preferences
+      hint: Early morning, afternoon, evening
+      type: select_one
+      options:
+      - Early Morning
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 13
+      name: specific_shifts
+      label: Can You Work Specific Shifts
+      hint: Multiple shifts or full day
+      type: select_one
+      options:
+      - Yes, Full Day
+      - Yes, Specific Shifts
+      - No, Just One Shift
+      required: true
+    - id: 14
+      name: section_role_preferences
+      label: -- Role Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_role
+      label: Preferred Volunteer Role
+      hint: What would you like to do
+      type: select_one
+      options:
+      - Course Monitor
+      - Water Station Staff
+      - Registration
+      - Parking
+      - Finish Line
+      - General Support
+      - No Preference
+      required: true
+    - id: 16
+      name: role_experience
+      label: Experience with This Type of Role
+      hint: Have you done this before
+      type: select_one
+      options:
+      - Yes, Extensive
+      - Yes, Some
+      - No, But Willing to Learn
+      - 'No'
+      required: false
+    - id: 17
+      name: section_skills
+      label: -- Skills and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_skills
+      label: Special Skills or Certifications
+      hint: CPR, medical, language, etc
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physical_demands
+      label: Able to Handle Physical Demands
+      hint: Standing, walking, lifting
+      type: select_one
+      options:
+      - Yes, Fully Able
+      - Yes, With Limitations
+      - 'No'
+      required: true
+    - id: 20
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: transportation
+      label: Do You Need Transportation
+      hint: To and from event
+      type: select_one
+      options:
+      - No, Own Transportation
+      - Yes, Need Transportation
+      required: true
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For volunteer meals
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: application_date
+      label: Date of Application
+      hint: Today's date
+      type: date
+      options: []
+      required: true

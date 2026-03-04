@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Inclusion Strategy Workshop Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Director
+      - CEO
+      - CTO
+      required: true
+    - id: 7
+      name: team_size
+      label: team size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_size
+      label: company size
+      hint: 'Select one of the following: Large, Medium, Small'
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: true
+    - id: 11
+      name: workshop_date
+      label: workshop date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: workshop_time
+      label: workshop time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: workshop_location
+      label: workshop location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_confirmation
+      label: confirm email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone_confirmation
+      label: confirm phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: role_confirmation
+      label: confirm role
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Director
+      - CEO
+      - CTO
+      required: false
+    - id: 18
+      name: department_confirmation
+      label: confirm department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: organization_confirmation
+      label: confirm organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_size_confirmation
+      label: confirm company size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 21
+      name: workshop_date_confirmation
+      label: confirm workshop date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: workshop_time_confirmation
+      label: confirm workshop time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: workshop_location_confirmation
+      label: confirm workshop location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: note_confirmation
+      label: confirm note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms and conditions.
+      - I have read and agree to the terms and conditions.
+      - I have read and agree to the terms and conditions.
+      required: true

@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary License Renewal Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: 'null'
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 6
+      name: license_number
+      label: License Number
+      hint: 'null'
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_school_attended
+      label: Veterinary School Attended
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_technician_license
+      label: Veterinary Technician License
+      hint: 'null'
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: veterinarian_license
+      label: Veterinarian License
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 11
+      name: renewal_date
+      label: Renewal Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: address2
+      label: Address 2
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: practice_name
+      label: Practice Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: practice_address
+      label: Practice Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: practice_city
+      label: Practice City
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: practice_state
+      label: Practice State
+      hint: 'null'
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 20
+      name: practice_zip
+      label: Practice Zip
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: practice_phone
+      label: Practice Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false

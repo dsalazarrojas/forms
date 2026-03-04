@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Energy System Training Registration
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: select_one
+      options:
+      - Smart Energy
+      - Energy Efficiency
+      - Energy Generation
+      - Energy Distribution
+      - Renewable Energy
+      - Sustainable Energy
+      required: true
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_state
+      label: Participant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_postal_code
+      label: Participant Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - German
+      - Japanese
+      - Chinese
+      - Arabic
+      required: true
+    - id: 21
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 22
+      name: participant_education
+      label: Participant Education
+      hint: null
+      type: select_one
+      options:
+      - Bachelor of Arts
+      - Bachelor of Science
+      - Bachelor of Engineering
+      - Bachelor of Education
+      - Bachelor of Business
+      - High School
+      - College
+      - Postgraduate
+      - Doctorate
+      - Diploma
+      required: true
+    - id: 23
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: true
+    - id: 24
+      name: session_location
+      label: Session Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Phone
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

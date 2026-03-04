@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Operations Participant Information
+    pages:
+    - id: 1
+      name: participant_form
+      label: participant_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_details
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_details
+      label: owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_status
+      label: consent_status
+      hint: Is the participant providing their consent to proceed with the activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: Please include the phone number in E.123.456.7890 format
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: Please specify the relationship with the emergency contact
+      type: text
+      options: []
+      required: false

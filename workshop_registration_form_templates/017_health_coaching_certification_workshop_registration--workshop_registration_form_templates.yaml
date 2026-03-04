@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Coaching Certification Workshop Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: agreement
+      label: Agreement
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - Label A
+      - Label B
+      - Label C
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: Enter participant phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_agreement
+      label: Workshop Agreement
+      hint: null
+      type: select_one
+      options:
+      - Label D
+      - Label E
+      - Label F
+      required: false
+    - id: 7
+      name: workshop_preferences
+      label: Workshop Preferences
+      hint: Choose workshop preferences
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: workshop_comments
+      label: Comments
+      hint: Comments
+      type: note
+      options: []
+      required: false

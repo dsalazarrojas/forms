@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Services Dealer Questionnaire
+    pages:
+    - id: 1
+      name: design_services_dealer_questionnaire_first_page
+      label: dealer_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dealer_questionnaire_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: design_services_dealer_questionnaire_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: design_services_dealer_questionnaire_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: design_services_dealer_questionnaire_design_preferences
+      label: design_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Color Scheme
+      - Design Style
+      - Layout
+      - Other
+      required: true
+    - id: 6
+      name: design_services_dealer_questionnaire_service_requirements
+      label: service_requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: design_services_dealer_questionnaire_service_preferences
+      label: service_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Color scheme
+      - Design style
+      - Layout
+      - Other
+      required: true
+    - id: 8
+      name: design_services_dealer_questionnaire_dealer_services
+      label: dealer_services
+      hint: null
+      type: select_multiple
+      options:
+      - Web development
+      - Web design
+      - Graphic design
+      - Other
+      required: true
+    - id: 9
+      name: design_services_dealer_questionnaire_other_services
+      label: other_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: design_services_dealer_questionnaire_other_services_description
+      label: other_services_description
+      hint: null
+      type: text
+      options: []
+      required: false

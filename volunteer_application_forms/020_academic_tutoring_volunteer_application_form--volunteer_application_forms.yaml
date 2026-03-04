@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Tutoring Volunteer Application Form
+    pages:
+    - id: 1
+      name: section_applicant_profile
+      label: -- Applicant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_status
+      label: Current Status
+      hint: Your present role
+      type: select_one
+      options:
+      - Student
+      - Graduate
+      - Faculty
+      - Community Member
+      required: true
+    - id: 6
+      name: section_academic
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: major_subject
+      label: Major Subject or Area of Expertise
+      hint: Subject you are most knowledgeable in
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_gpa
+      label: Current or Final GPA
+      hint: academic performance metric
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: subjects_to_tutor
+      label: Subjects you are qualified to tutor
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mathematics
+      - English or Writing
+      - Physics
+      - Chemistry
+      - Biology
+      - History
+      - Computer Science
+      required: true
+    - id: 10
+      name: section_preferences
+      label: -- Tutoring Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_grade_level
+      label: Preferred Student Level
+      hint: Who would you like to tutor?
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      required: true
+    - id: 12
+      name: availability_days
+      label: Days available to tutor
+      hint: Choose your free days
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      required: true
+    - id: 13
+      name: tutoring_experience
+      label: Describe any prior tutoring or teaching experience
+      hint: Max 150 words
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_background
+      label: -- Background and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: background_check_consent
+      label: Do you consent to a standard background check?
+      hint: Required for working with minors
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: reference_contact
+      label: Name and contact of one academic or professional reference
+      hint: Name, email, and relationship
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_commitment
+      label: -- Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: minimum_commitment
+      label: Can you commit to at least 2 hours per week for one semester?
+      hint: Program requirement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizen ID Document Upload Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_id_type
+      label: -- Identification Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: id_type
+      label: Type of Identification Document
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - National ID card
+      - Driver license
+      - Birth certificate
+      - Voter ID
+      - Work permit
+      - Residence card
+      - Citizenship certificate
+      required: true
+    - id: 8
+      name: id_number
+      label: Identification Number
+      hint: Passport number, ID number, license number, etc
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issuing_country
+      label: Issuing Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_validity
+      label: -- Document Validity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: issue_date
+      label: Document Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: expiration_date
+      label: Document Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: section_header_document_upload
+      label: -- Document Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: front_side_upload
+      label: Upload Front Side of Document
+      hint: Clear photo or scan of the front side
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: back_side_upload
+      label: Upload Back Side of Document
+      hint: Clear photo or scan of the back side (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: selfie_with_id
+      label: Upload Selfie with ID Document
+      hint: Photo of yourself holding the document
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: document_quality
+      label: Document Quality Certification
+      hint: I confirm the documents are clear and legible
+      type: select_one
+      options:
+      - Document is clear and legible
+      - Document has some issues
+      - Document is not clear
+      required: true
+    - id: 18
+      name: section_header_verification
+      label: -- Verification Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: verification_purpose
+      label: Purpose of Verification
+      hint: null
+      type: select_one
+      options:
+      - Account verification
+      - Employment verification
+      - Background check
+      - Financial service
+      - Legal requirement
+      - Other
+      required: true
+    - id: 20
+      name: section_header_consent
+      label: -- Consent and Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: document_authenticity
+      label: I Declare This Document is Authentic and Unaltered
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I do not declare
+      required: true
+    - id: 22
+      name: personal_information_consent
+      label: I Consent to Processing of Personal Information
+      hint: Personal data from this document will be used for verification
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 23
+      name: data_retention_consent
+      label: I Understand Data Will be Retained per Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 24
+      name: legal_authority_consent
+      label: I Authorize Verification with Legal Authorities if Needed
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 25
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: alternative_contact
+      label: Alternative Contact Information (if applicable)
+      hint: null
+      type: email
+      options: []
+      required: false

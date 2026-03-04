@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grooming Salon Inspection Form
+    pages:
+    - id: 1
+      name: salon_address
+      label: Salon Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_services
+      label: Services Offered
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Nail Trimming''}'
+      - Bathing
+      - Grooming
+      - Veterinary Care
+      - Nail Trimming and Bathing
+      - Nail Trimming and Grooming
+      - Bathing and Grooming
+      - Nail Trimming, Bathing, and Grooming
+      required: false
+    - id: 3
+      name: staff_certification
+      label: Staff Certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Certified''}'
+      - In Training
+      - No Certification
+      required: false
+    - id: 4
+      name: facility_condition
+      label: Facility Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: staff_count
+      label: Number of Staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_price
+      label: Service Price
+      hint: $
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspection_time
+      label: Inspection Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Veterinary Service Forms''}'
+      - Pet Supplies
+      - Pet Food
+      - Pet Grooming
+      - Pet Training
+      - Pet Boarding
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_care_records_release_form
+    pages:
+    - id: 1
+      name: transfer_clinic
+      label: Transfer Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinic_name
+      label: clinic_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: practice_id
+      label: practice_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: clinic_signature
+      label: clinic_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: record_type
+      label: record_type
+      hint: null
+      type: select_one
+      options:
+      - Veterinary Record
+      - Medical Record
+      - Lab Report
+      - Radiograph
+      - Other
+      required: true
+    - id: 8
+      name: record_number
+      label: record_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reason_transfer
+      label: reason_transfer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_transfer
+      label: date_transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_transfer
+      label: time_transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: transfer_note
+      label: transfer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: veterinary_medication
+      label: veterinary_medication
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Metacam
+      - Meloxicam
+      - Melosulin
+      - Other
+      required: false
+    - id: 16
+      name: human_animal_interaction
+      label: human_animal_interaction
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: transfer_method
+      label: transfer_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Fax
+      - Mail
+      - In person
+      required: true
+    - id: 18
+      name: transfer_location
+      label: transfer_location
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Fax
+      - Email
+      - In person
+      required: false
+    - id: 19
+      name: clinic_address
+      label: clinic_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: clinic_phone
+      label: clinic_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: clinic_email
+      label: clinic_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: clinic_fax
+      label: clinic_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: clinic_fax_number
+      label: clinic_fax_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: record_status
+      label: record_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Partially active
+      - Not active
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

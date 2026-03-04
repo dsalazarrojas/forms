@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Onboarding Form
+    pages:
+    - id: 1
+      name: new_volunteer
+      label: New Volunteer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_info
+      label: Volunteer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Non-Volunteer
+      required: false
+    - id: 5
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Non-Volunteer
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbot
+      required: true
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Survey
+    pages:
+    - id: 1
+      name: pet_survey_first_page
+      label: what_is_your_purpose_for_visiting_us_tonight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: what_is_the_name_of_your_pet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: what_type_of_pet_do_you_own
+      hint: null
+      type: select_one
+      options:
+      - dog
+      - cat
+      - other
+      required: false
+    - id: 4
+      name: pet_age
+      label: what_is_your_pet_s_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: owner_info
+      label: who_does_the_pet_belong_to
+      hint: null
+      type: select_multiple
+      options:
+      - self
+      - family
+      - other
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false

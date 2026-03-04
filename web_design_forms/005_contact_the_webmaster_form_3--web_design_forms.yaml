@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact The Webmaster Form 3
+    pages:
+      - id: 1
+        name: section_sender_info
+        label: -- Sender Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: sender_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: sender_email
+        label: Your Email
+        hint: We'll use this for follow-up correspondence
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: inquiry_reason
+        label: Reason for Contacting the Webmaster
+        hint: Choosing a reason helps us route your inquiry correctly
+        type: select_one
+        options: [Report a Bug, Suggest Design Improvement, Content Correction, Accessibility Issue, Feature Request, Security Concern, Other]
+        required: true
+      - id: 5
+        name: section_issue_details
+        label: -- Technical & Design Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: affected_page_url
+        label: Affected Page URL
+        hint: Please paste the full URL where the issue occurred
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: device_type
+        label: Device Used
+        hint: null
+        type: select_one
+        options: [Desktop, Laptop, Tablet, Smartphone, Other]
+        required: true
+      - id: 8
+        name: browser_type
+        label: Web Browser Used
+        hint: null
+        type: select_one
+        options: [Chrome, Firefox, Safari, Edge, Opera, Other]
+        required: true
+      - id: 9
+        name: browser_version
+        label: Browser Version (if known)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: operating_system
+        label: Operating System
+        hint: null
+        type: select_one
+        options: [Windows, macOS, Linux, iOS, Android, Other]
+        required: true
+      - id: 11
+        name: issue_description
+        label: Detailed Description of the Inquiry
+        hint: Please be specific about what you encountered or what you'd like changed
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: reproduction_steps
+        label: Steps to Reproduce (if reporting a bug)
+        hint: How can the webmaster see the same issue?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_urgency_feedback
+        label: -- Feedback & Urgency --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: severity_rating
+        label: How critical is this inquiry?
+        hint: null
+        type: select_one
+        options: [P1 - Critical (Site Down), P2 - High (Feature Broken), P3 - Medium (UI/UX Glitch), P4 - Low (Minor Suggestion)]
+        required: true
+      - id: 15
+        name: follow_up_permission
+        label: May we contact you for more details?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 16
+        name: feedback_appreciation
+        label: Thank you for helping us improve our website!
+        hint: Your feedback is invaluable to our development team.
+        type: note
+        options: []
+        required: false

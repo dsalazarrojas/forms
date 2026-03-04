@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: email_design_questionnaire
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_content
+      label: Email Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: select_one
+      options:
+      - Email Address
+      - Phone Number
+      - Mobile Number
+      required: false
+    - id: 4
+      name: business_details
+      label: Business Details
+      hint: null
+      type: select_multiple
+      options:
+      - Business Name
+      - Company Address
+      - Business Phone Number
+      - Fax Number
+      required: false
+    - id: 5
+      name: visual_material
+      label: Visual Material
+      hint: null
+      type: select_multiple
+      options:
+      - Logo
+      - Image
+      - Icon
+      - Image Background
+      required: false
+    - id: 6
+      name: design_preferences
+      label: Design Preferences
+      hint: null
+      type: select_one
+      options:
+      - Simple
+      - Fancy
+      - Minimalist
+      required: false
+    - id: 7
+      name: email_subject
+      label: Email Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: false

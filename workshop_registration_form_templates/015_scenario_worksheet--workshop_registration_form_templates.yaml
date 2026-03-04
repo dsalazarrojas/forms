@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scenario Worksheet
+    pages:
+    - id: 1
+      name: base_info
+      label: Base Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_info
+      label: team_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: date
+      options: []
+      required: false

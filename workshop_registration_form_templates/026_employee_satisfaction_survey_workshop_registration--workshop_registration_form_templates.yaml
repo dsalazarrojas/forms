@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Satisfaction Survey Workshop Registration
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: dietary_requirement
+      label: Dietary Requirement
+      hint: null
+      type: select_one
+      options:
+      - Veggie
+      - Gluten-free
+      - Peanut-free
+      - Non
+      required: false
+    - id: 4
+      name: discussion_topics
+      label: Discussion Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Topic 1
+      - Topic 2
+      - Topic 3
+      required: false
+    - id: 5
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: no_code_field
+      label: No Code
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

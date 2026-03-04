@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Quote Request Form
+    pages:
+    - id: 1
+      name: wedding_quote_request_form_page_1
+      label: What is your wedding date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: wedding_quote_request_form_page_2
+      label: What is your ceremony venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wedding_quote_request_form_page_3
+      label: what_is_the_number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wedding_quote_request_form_page_4
+      label: What is your budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vendor_quotes
+      label: Which vendor are you looking to get quote from
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Planner
+      - Wedding Cake Baker
+      - Wedding Photographer
+      - Wedding Decor
+      required: false
+    - id: 6
+      name: wedding_quote_request_form_page_6
+      label: vendor_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wedding_quote_request_form_page_7
+      label: vendor_quote
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vendor_quote_details
+      label: vendor_quote_details
+      hint: null
+      type: text
+      options: []
+      required: false

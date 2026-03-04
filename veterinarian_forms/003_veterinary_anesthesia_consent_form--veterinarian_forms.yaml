@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Anesthesia Consent Form
+    pages:
+    - id: 1
+      name: owner_information
+      label: owner_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_information
+      label: animal_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: anesthesia_information
+      label: anesthesia_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: veterinarian_signature
+      label: veterinarian_signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dr Smith''}'
+      - '{''label'': ''Dr Johnson''}'
+      required: true
+    - id: 6
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Owner''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: treatment_options
+      label: treatment_options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Procedure 1''}'
+      - '{''label'': ''Procedure 2''}'
+      required: true
+    - id: 10
+      name: other_treatment_options
+      label: other_treatment_options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: veterinarian_note
+      label: veterinarian_note
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Note 1''}'
+      - '{''label'': ''Note 2''}'
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false

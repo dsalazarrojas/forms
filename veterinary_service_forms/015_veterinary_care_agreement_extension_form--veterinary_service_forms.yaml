@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Care Agreement Extension Form
+    pages:
+    - id: 1
+      name: pet_owners_information
+      label: Pet owners information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_information
+      label: Appointment information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: veterinary_clinic_information
+      label: Veterinary clinic information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: extension_reason
+      label: Extension reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian_signature
+      label: Veterinarian signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: pet_species
+      label: Pet species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: pet_breed
+      label: Pet breed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: pet_age
+      label: Pet age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: pet_sex
+      label: Pet sex
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

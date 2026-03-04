@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sick Pet Appointment Form
+    pages:
+    - id: 1
+      name: pet_id
+      label: pet id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: owner name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_info
+      label: pet info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian
+      label: veterinarian
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Dr. Smith''}'
+      - '{''id'': 2, ''name'': ''Dr. Johnson''}'
+      - '{''id'': 3, ''name'': ''Dr. Thompson''}'
+      required: false
+    - id: 7
+      name: appointment_note
+      label: appointment note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_condition
+      label: pet condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Fever''}'
+      - '{''id'': 2, ''name'': ''Allergies''}'
+      - '{''id'': 3, ''name'': ''Arthritis''}'
+      required: false
+    - id: 9
+      name: owner_contact
+      label: owner contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted
+      label: form submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Form Submitter''}'
+      - '{''id'': 2, ''name'': ''Owner''}'
+      required: false
+    - id: 11
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_organization
+      label: submitter organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false

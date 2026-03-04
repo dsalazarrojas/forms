@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Health Declaration Form
+    pages:
+    - id: 1
+      name: owner_full_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_species
+      label: Animal Species
+      hint: null
+      type: select_one
+      options:
+      - Canine
+      - Feline
+      - Equine
+      - Bovine
+      - Porcine
+      - Avian
+      - Other
+      required: true
+    - id: 4
+      name: last_vet_check_date
+      label: Date of Last Veterinary Check
+      hint: Approximate date is fine
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: current_medications
+      label: Current Medications
+      hint: List all medications or supplements
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: known_allergies
+      label: Known Allergies
+      hint: Food, environmental, or medication allergies
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Are all core vaccines current?
+      type: select_one
+      options:
+      - Up to Date
+      - Lapsed
+      - Unknown
+      - Exempt
+      required: true
+    - id: 8
+      name: recent_symptoms
+      label: Recent Symptoms - within last 14 days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Coughing or Sneezing
+      - Lethargy
+      - Loss of Appetite
+      - Vomiting or Diarrhea
+      - Discharge from eyes or nose
+      - None
+      required: true
+    - id: 9
+      name: declaration_confirmation
+      label: I declare the information provided is accurate
+      hint: Enter your name as a signature
+      type: text
+      options: []
+      required: true

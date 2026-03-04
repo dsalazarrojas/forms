@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Questionnaire RHWC Updated
+    pages:
+    - id: 1
+      name: wedding_day_details
+      label: Wedding day details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_party_details
+      label: Wedding party
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: wedding_date
+      label: Wedding date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: wedding_time
+      label: Wedding time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ceremony_details
+      label: ceremony details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reception_details
+      label: reception details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wedding_party_attire
+      label: wedding party attire
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Beige
+      - Other
+      required: false
+    - id: 8
+      name: wedding_theme
+      label: wedding theme
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Traditional
+      - Vintage
+      - Other
+      - None
+      required: false
+    - id: 9
+      name: dress_code
+      label: dress code
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Casual
+      - Semi-Formal
+      - Other
+      - None
+      required: false
+    - id: 10
+      name: reception_location
+      label: reception location
+      hint: null
+      type: select_one
+      options:
+      - Indoor
+      - Outdoor
+      - Outdoor/Indoor Hybrid
+      - None
+      required: false
+    - id: 11
+      name: photo_gallery
+      label: photo gallery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false

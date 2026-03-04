@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Prescription Form
+    pages:
+    - id: 1
+      name: owner_instructions
+      label: Owner Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: veterinarian_instructions
+      label: Veterinarian Instructions
+      hint: 'Note: Include any allergies or special instructions'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: treatment
+      label: Treatment
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Medication
+      - Procedure
+      - Surgery
+      - Diagnostic Testing
+      - Other
+      required: true
+    - id: 5
+      name: medication
+      label: Medication
+      hint: Prescription for medication, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: procedure
+      label: Procedure
+      hint: Name of procedure to be performed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: diagnostic_testing
+      label: Diagnostic Testing
+      hint: Name of diagnostic test
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_signature
+      label: Veterinarian Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: true

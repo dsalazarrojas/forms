@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Interest Form
+    pages:
+    - id: 1
+      name: volunteer_interest_form_1
+      label: Volunteer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_interest_form_2
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_interest_form_3
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_interest_form_4
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_interest_form_5
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_interest_form_6
+      label: What days are you available to volunteer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: volunteer_interest_form_7
+      label: How much time can you commit to volunteering per week?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

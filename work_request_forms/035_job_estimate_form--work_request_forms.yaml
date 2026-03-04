@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Estimate Form
+    pages:
+    - id: 1
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: estimated_budget
+      label: estimated_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: estimated_duration
+      label: estimated_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: estimated_price
+      label: estimated_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: timelines
+      label: timelines
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: completion_date
+      label: completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Shot List Worksheet
+    pages:
+    - id: 1
+      name: wedding_shot_list_workshop
+      label: wedding_shot_list_workshop
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Wedding Ceremony
+      - Reception
+      - Honeymoon
+      required: false
+    - id: 3
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer
+      label: photographer
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: false
+    - id: 5
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: ceremony_attire
+      label: ceremony_attire
+      hint: null
+      type: select_multiple
+      options:
+      - Formal
+      - Semi-formal
+      - Casual
+      - Other (Specify)
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: photo_location
+      label: photo_location
+      hint: null
+      type: select_multiple
+      options:
+      - Outdoor
+      - Indoor
+      - Other (Specify)
+      required: false
+    - id: 9
+      name: photographer_attire
+      label: photographer_attire
+      hint: null
+      type: select_multiple
+      options:
+      - Formal
+      - Casual
+      - Other (Specify)
+      required: false
+    - id: 10
+      name: number_of_hours
+      label: number_of_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_message
+      label: contact_message
+      hint: null
+      type: text
+      options: []
+      required: false

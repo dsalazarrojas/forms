@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Workforce Planning Program Registration
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: program_dates
+      label: Program Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: program_time
+      label: Program Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: session_selection
+      label: Session Selection
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: attendee_needs
+      label: Attendee Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false

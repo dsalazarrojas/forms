@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: public-relations-volunteer-application-form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''SMS''}'
+      - '{''id'': 4, ''label'': ''In Person''}'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills_and_qualifications
+      label: Skills and Qualifications
+      hint: List your skills and qualifications
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_experiences
+      label: Volunteer Experiences
+      hint: Briefly describe your volunteer experiences
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      - '{''id'': 6, ''label'': ''Saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday''}'
+      required: false
+    - id: 7
+      name: availability_confirmation
+      label: Availability Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available''}'
+      - '{''id'': 2, ''label'': ''Unavailable''}'
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter the name and phone number of an emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_availability_notice
+      label: Volunteer Availability Notice
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_reference
+      label: Volunteer Reference
+      hint: Enter the name and contact information of at least 2 volunteer references
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_reference_name_1
+      label: Reference Name 1
+      hint: Enter the name of your first reference
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_reference_name_2
+      label: Reference Name 2
+      hint: Enter the name of your second reference
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_reference_phone_1
+      label: Reference Phone 1
+      hint: Enter the phone number of your first reference
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_reference_phone_2
+      label: Reference Phone 2
+      hint: Enter the phone number of your second reference
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_reference_email_1
+      label: Reference Email 1
+      hint: Enter the email of your first reference
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_reference_email_2
+      label: Reference Email 2
+      hint: Enter the email of your second reference
+      type: text
+      options: []
+      required: false

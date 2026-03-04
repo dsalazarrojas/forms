@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Release And Waiver Of Liability Form
+    pages:
+    - id: 1
+      name: volunteer_information
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_and_waiver
+      label: Release And Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_signature
+      label: Volunteer Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ngos_signature
+      label: NGO Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: volunteer_information_2
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

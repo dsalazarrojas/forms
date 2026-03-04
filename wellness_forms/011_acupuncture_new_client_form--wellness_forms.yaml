@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture New Client Form
+    pages:
+    - id: 1
+      name: --personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Patient full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For medical records
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Appointment confirmations will be emailed
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide two numbers if possible
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: allergies_and_medications
+      label: Allergies and current medications
+      hint: List all relevant medications and allergies
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_history
+      label: Significant medical history
+      hint: Past surgeries chronic conditions etc
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent_to_treatment
+      label: Consent to treatment and privacy policy
+      hint: Agreement to clinic policies
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 10
+      name: practitioner_notes
+      label: Practitioner intake notes
+      hint: Clinician to complete after intake
+      type: text
+      options: []
+      required: false

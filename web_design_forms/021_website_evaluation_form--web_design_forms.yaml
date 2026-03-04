@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Evaluation Form
+    pages:
+    - id: 1
+      name: website_title
+      label: Website Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_domain
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: overall_quality
+      label: Overall Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: web_design
+      label: Web Design
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: navigation
+      label: Navigation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: content
+      label: Content
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: layout
+      label: Layout
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: mobile_friendly
+      label: Mobile Friendly
+      hint: null
+      type: select_one
+      options:
+      - Mobile Friendly
+      - Not Mobile Friendly
+      - Not Tested
+      required: true
+    - id: 10
+      name: speed
+      label: speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: security
+      label: Security
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: user_experience_2
+      label: User Experience 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

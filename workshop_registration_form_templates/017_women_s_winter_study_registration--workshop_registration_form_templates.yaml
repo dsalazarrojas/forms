@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Women's Winter Study Registration
+    pages:
+    - id: 1
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_data
+      label: Participant Data
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      required: false
+    - id: 3
+      name: study_type
+      label: Study Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Hybrid
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: study_session
+      label: Study Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_diet
+      label: Participant Diet
+      hint: null
+      type: select_one
+      options:
+      - Vegetarian
+      - Non-vegetarian
+      - Vegan
+      - Omnivore
+      required: false
+    - id: 11
+      name: participant_abilities
+      label: Participant Abilities
+      hint: null
+      type: text
+      options: []
+      required: false

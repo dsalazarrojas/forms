@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Volunteer Application Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Please enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will use this for primary communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Volunteers must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_header
+      label: -- Experience and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: childcare_experience
+      label: Describe your previous experience working with children
+      hint: Include volunteer and professional roles
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: certifications
+      label: Relevant Certifications
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - First Aid
+      - CPR - Infant and Child
+      - Early Childhood Education Degree
+      - Background Check Clearance
+      - None
+      required: false
+    - id: 10
+      name: preferred_age_groups
+      label: Preferred Age Groups to Work With
+      hint: null
+      type: select_multiple
+      options:
+      - Infants (0-12 months)
+      - Toddlers (1-3 years)
+      - Preschool (3-5 years)
+      - School Age (6+ years)
+      required: true
+    - id: 11
+      name: availability_header
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: available_days
+      label: Available Days
+      hint: Select your typical availability
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Weekends
+      required: true
+    - id: 13
+      name: start_date
+      label: Earliest Possible Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: references_header
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reference_name
+      label: Reference Name and Contact Info
+      hint: Please provide at least one professional reference
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: background_consent
+      label: Do you consent to a criminal background check?
+      hint: Required for all childcare positions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Signage Verification Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the person applying for verification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_title
+      label: Applicant Title
+      hint: Job title or role of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Name of the organization requesting verification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_address
+      label: Organization Address
+      hint: Complete address of the organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: Name of the facility requiring signage verification
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_address
+      label: Facility Address
+      hint: Complete address of the facility to be verified
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_type
+      label: Facility Type
+      hint: What type of facility is being verified?
+      type: select_one
+      options:
+      - Commercial Building
+      - Educational Institution
+      - Healthcare Facility
+      - Government Building
+      - Hospitality
+      - Retail Establishment
+      - Transportation Hub
+      - Recreation Facility
+      - Other
+      required: true
+    - id: 10
+      name: verification_scope
+      label: Verification Scope
+      hint: What areas of the facility require signage verification?
+      type: select_multiple
+      options:
+      - Main entrances
+      - Interior pathways
+      - Restrooms
+      - Emergency exits
+      - Parking areas
+      - Elevators
+      - Stairways
+      - Information desks
+      - Other
+      required: true
+    - id: 11
+      name: signage_types_included
+      label: Signage Types Included
+      hint: What types of signage are included in this verification?
+      type: select_multiple
+      options:
+      - Directional signs
+      - Room identification
+      - Restroom signs
+      - Emergency signs
+      - Parking signs
+      - Braille signage
+      - Tactile indicators
+      - Visual contrast signs
+      - Multilingual signs
+      - Other
+      required: true
+    - id: 12
+      name: accessibility_standards_applied
+      label: Accessibility Standards Applied
+      hint: Which accessibility standards are being verified against?
+      type: select_multiple
+      options:
+      - ADA Standards
+      - ICC A117.1
+      - Local building codes
+      - State accessibility laws
+      - International standards
+      - Other
+      required: true
+    - id: 13
+      name: verification_reason
+      label: Verification Reason
+      hint: Why is this verification being requested?
+      type: select_one
+      options:
+      - New construction
+      - Renovation
+      - Compliance audit
+      - Complaint response
+      - Periodic review
+      - Legal requirement
+      - Certification preparation
+      - Other
+      required: true
+    - id: 14
+      name: verification_timeline
+      label: Verification Timeline
+      hint: When is the verification needed?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Other timeline
+      required: true
+    - id: 15
+      name: current_signage_assessment
+      label: Current Signage Assessment
+      hint: How would you rate the current state of accessibility signage?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Improvement
+      - Significant Deficiencies
+      required: true
+    - id: 16
+      name: previous_verification_date
+      label: Previous Verification Date
+      hint: When was the last accessibility signage verification performed?
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: known_deficiencies
+      label: Known Deficiencies
+      hint: Are there any known deficiencies in current signage?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_allocation
+      label: Budget Allocation
+      hint: What budget has been allocated for signage improvements?
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$15,000
+      - $15,000-$30,000
+      - $30,000-$50,000
+      - Over $50,000
+      - Budget not determined
+      required: true
+    - id: 19
+      name: special_considerations
+      label: Special Considerations
+      hint: Are there any special considerations for this verification?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Electronic signature of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of application submission
+      type: date
+      options: []
+      required: true

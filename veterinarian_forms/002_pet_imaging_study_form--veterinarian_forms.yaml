@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Imaging Study Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: species
+      label: Species
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: imaging_study_type
+      label: Imaging Study Type
+      hint: null
+      type: select_one
+      options:
+      - CT
+      - MRI
+      - X-ray
+      - US
+      required: false
+    - id: 6
+      name: study_date
+      label: Study Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: study_time
+      label: Study Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: imaging_modality
+      label: Imaging Modality
+      hint: null
+      type: select_multiple
+      options:
+      - CT
+      - MRI
+      - X-ray
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

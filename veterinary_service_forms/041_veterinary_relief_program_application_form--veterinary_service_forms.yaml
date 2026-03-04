@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Relief Program Application Form
+    pages:
+    - id: 1
+      name: user_input_form
+      label: User Input Form
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: service_request
+      label: Service Request
+      hint: Please describe your service needs.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Veterinary Clinic
+      - Animal Hospital
+      - Independent Vet
+      required: false
+    - id: 4
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Veterinary Service Forms
+      - Forms
+      - Templates
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

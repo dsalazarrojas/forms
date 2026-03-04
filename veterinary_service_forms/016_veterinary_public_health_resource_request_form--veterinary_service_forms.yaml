@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Public Health Resource Request Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Veterinary Service Forms
+      - Other
+      required: true
+    - id: 4
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: public_health_concern
+      label: Public Health Concern
+      hint: null
+      type: select_multiple
+      options:
+      - Animal Diseases
+      - Human Diseases
+      - Environmental Concerns
+      required: true
+    - id: 6
+      name: resource_urgency
+      label: Resource Urgency
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

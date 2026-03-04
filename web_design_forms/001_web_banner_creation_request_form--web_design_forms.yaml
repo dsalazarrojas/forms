@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Banner Creation Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_type
+      label: form_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Banner''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: banner_size
+      label: banner_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      required: true
+    - id: 4
+      name: color_scheme
+      label: color_scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Blue''}'
+      - '{''id'': 2, ''label'': ''Red''}'
+      - '{''id'': 3, ''label'': ''Green''}'
+      required: true
+    - id: 5
+      name: font_scheme
+      label: font_scheme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Arial''}'
+      - '{''id'': 2, ''label'': ''Helvetica''}'
+      - '{''id'': 3, ''label'': ''Times New Roman''}'
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: banner_image
+      label: banner_image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit''}'
+      - '{''id'': 2, ''label'': ''Cancel''}'
+      required: true
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: form_comments_hint
+      label: form_comments_hint
+      hint: Please provide any additional information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email_phone
+      label: email_phone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_notes
+      label: form_notes
+      hint: null
+      type: text
+      options: []
+      required: false

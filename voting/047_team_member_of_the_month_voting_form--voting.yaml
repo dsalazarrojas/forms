@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Of The Month Voting Form
+    pages:
+    - id: 1
+      name: team_member_of_the_month_voting_form
+      label: Team Member Of The Month
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: select_member
+      label: Select Member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vote_type
+      label: Vote Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit_vote
+      label: Submit Vote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: member_of_the_month
+      label: Member Of The Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

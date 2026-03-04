@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Ceremony Script Questionnaire
+    pages:
+    - id: 1
+      name: welcome_page
+      label: Welcome Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: couple_info_page
+      label: Couple Information
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding Officiant
+      - Wedding Party
+      required: false
+    - id: 3
+      name: wedding_officiant_info_page
+      label: Wedding Officiant Info
+      hint: null
+      type: select_one
+      options:
+      - Pastor
+      - Rabbi
+      - Justice of the Peace
+      - Minister
+      required: false
+    - id: 4
+      name: ceremony_info_page
+      label: Ceremony Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vows_page
+      label: Vows
+      hint: null
+      type: select_multiple
+      options:
+      - Traditional
+      - Non-Traditional
+      required: false
+    - id: 6
+      name: ring_exchanging_page
+      label: Ring Exchanging
+      hint: null
+      type: select_one
+      options:
+      - Right Hand
+      - Left Hand
+      - Same Hand
+      - Other
+      required: false
+    - id: 7
+      name: unity_covenant_page
+      label: Unity Covenant
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: special_requests_page
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Ring Toss
+      - Sand Ceremony
+      - Sparkler Send-Off
+      - Other
+      required: false
+    - id: 9
+      name: ceremony_script_page
+      label: Ceremony Script
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: closing_page
+      label: Closing
+      hint: null
+      type: select_multiple
+      options:
+      - Traditional
+      - Non-Traditional
+      required: false
+    - id: 11
+      name: final_page
+      label: Final Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review_page
+      label: Review Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce UX Certification Registration
+    pages:
+    - id: 1
+      name: form_title
+      label: E Commerce UX Certification Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: experience_level
+      label: Experience level
+      hint: Please choose your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 5
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: Please choose your preferred contact method
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

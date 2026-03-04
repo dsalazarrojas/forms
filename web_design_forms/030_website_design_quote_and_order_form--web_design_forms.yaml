@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_design_quote_and_order_form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_quote
+      label: Customer Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_description
+      label: Website Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: designer_quote
+      label: Designer Quote
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Pay by bank transfer
+      - Pay by credit card
+      - Pay by cash
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit card
+      - Bank transfer
+      - Cash
+      required: false

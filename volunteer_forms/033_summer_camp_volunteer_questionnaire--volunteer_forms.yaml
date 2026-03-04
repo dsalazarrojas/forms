@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Volunteer Questionnaire
+    pages:
+    - id: 1
+      name: summer_camp_volunteer_questionnaire
+      label: Summer Camp Volunteer Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_email
+      label: Volunteer Email
+      hint: Please enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: Please enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_preferred_contact_method
+      label: Volunteer Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Text Message''}'
+      - '{''label'': ''In Person''}'
+      required: false
+    - id: 6
+      name: volunteer_preferred_language
+      label: Volunteer Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: volunteer_available_time
+      label: Volunteer Available Time
+      hint: Select a time when you are available
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_available_days
+      label: Volunteer Available Days
+      hint: Select all days you are available
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: false
+    - id: 9
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Summer Camps''}'
+      - '{''label'': ''Camp Counselor''}'
+      - '{''label'': ''Group Leader''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: volunteer_vehicles
+      label: Volunteer Vehicles
+      hint: Select all vehicles you own or have access to
+      type: select_multiple
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Truck''}'
+      - '{''label'': ''Bike''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: volunteer_medical_conditions
+      label: Volunteer Medical Conditions
+      hint: Select all medical conditions you have
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Allergies''}'
+      - '{''label'': ''Medical Condition 1''}'
+      - '{''label'': ''Medical Condition 2''}'
+      required: false
+    - id: 12
+      name: volunteer_medical_emergencies
+      label: Volunteer Medical Emergencies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''First Aid''}'
+      - '{''label'': ''CPR''}'
+      - '{''label'': ''EpiPen''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: volunteer_emergency_contacts
+      label: Volunteer Emergency Contacts
+      hint: Please enter at least one emergency contact
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Name1''}'
+      - '{''label'': ''Name2''}'
+      - '{''label'': ''Name3''}'
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Operator Identity Verification Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drone_license
+      label: Drone License
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: drone_experience
+      label: Drone Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: drone_license_type
+      label: Drone License Type
+      hint: null
+      type: select_one
+      options:
+      - Private Pilot
+      - Commercial Pilot
+      - Remote Operator
+      required: false
+    - id: 5
+      name: drone_license_issuing_authority
+      label: Drone License Issuing Authority
+      hint: null
+      type: select_multiple
+      options:
+      - Federal Aviation Administration (FAA)
+      - International Civil Aviation Organization (ICAO)
+      - EASA (European Aviation Safety Agency)
+      required: false
+    - id: 6
+      name: drone_license_number
+      label: Drone License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: drone_certification
+      label: Drone Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: drone_pilot_experience
+      label: Years of Drone Pilot Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: drone_certification_level
+      label: Drone Certification Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Advanced
+      - Expert
+      required: false
+    - id: 10
+      name: drone_certification_type
+      label: Drone Certification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Recreational
+      - Commercial
+      - Agricultural
+      required: false
+    - id: 11
+      name: drone_equipment_used
+      label: Drone Equipment Used
+      hint: null
+      type: select_one
+      options:
+      - Camera
+      - Sensors
+      - Mapping System
+      required: false
+    - id: 12
+      name: drone_operation_frequency
+      label: Drone Operation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Regularly
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 13
+      name: drone_license_status
+      label: Drone License Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Expired
+      - Suspended
+      required: false
+    - id: 14
+      name: drone_pilot_license_holder
+      label: Drone Pilot License Holder
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: contact_info
+      label: Contact Information
+      hint: Name and contact details of pilot, including phone and email.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: drone_pilot_signature
+      label: Pilot Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: drone_pilot_signature_date
+      label: Pilot Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: drone_pilot_signature_time
+      label: Pilot Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: drone_pilot_signature_place
+      label: Pilot Signature Place
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo_id_front
+      label: Photo ID - Front
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photo_id_back
+      label: Photo ID - Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: drone_license_photo
+      label: Drone License Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: drone_license_number_photo
+      label: Drone License Number Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: drone_pilot_info
+      label: Pilot Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Training Volunteer Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_experience
+      label: Sales Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''No Experience''}'
+      - '{''label'': ''1-2 years''}'
+      - '{''label'': ''2-5 years''}'
+      - '{''label'': ''More than 5 years''}'
+      required: false
+    - id: 5
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Product Knowledge''}'
+      - '{''label'': ''Sales Skills''}'
+      - '{''label'': ''Leadership''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

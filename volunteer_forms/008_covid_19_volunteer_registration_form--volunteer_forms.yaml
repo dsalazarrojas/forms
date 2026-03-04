@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: select_one
+      options:
+      - Medical Practice A
+      - Medical Practice B
+      - Medical Practice C
+      required: false
+    - id: 8
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer 1
+      - Volunteer 2
+      - Volunteer 3
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: false

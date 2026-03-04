@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Winds Clinic Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Cello
+      - Clarinet
+      - Flute
+      - Other
+      - Percussion
+      required: false
+    - id: 3
+      name: school_workshop
+      label: School/Workshop
+      hint: null
+      type: select_one
+      options:
+      - Band
+      - Community Music School
+      - School
+      - Other
+      required: false
+    - id: 4
+      name: instrument_details
+      label: Instrument Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instrument_name
+      label: Instrument Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_instrument
+      label: Teacher Instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_instrument_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

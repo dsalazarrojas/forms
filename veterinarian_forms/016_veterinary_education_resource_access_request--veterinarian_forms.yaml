@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Education Resource Access Request
+    pages:
+    - id: 1
+      name: university_name
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - Textbooks
+      - Journals
+      - Online Resources
+      - Other
+      required: false
+    - id: 4
+      name: resource_description
+      label: Resource Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: educational_purpose
+      label: Educational Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - For Research
+      - For Coursework
+      - For Presentation
+      - For Other
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resource_status
+      label: Resource Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Pending
+      - Denied
+      required: false
+    - id: 8
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

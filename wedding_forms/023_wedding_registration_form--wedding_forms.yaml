@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Registration Form
+    pages:
+    - id: 1
+      name: wedding_type
+      label: What kind of wedding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wedding_location
+      label: Wedding Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: bride_name
+      label: Bride Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bride_dob
+      label: Bride Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: bride_email
+      label: Bride Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: groom_name
+      label: Groom Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: groom_dob
+      label: Groom Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: groom_email
+      label: Groom Email
+      hint: null
+      type: email
+      options: []
+      required: false

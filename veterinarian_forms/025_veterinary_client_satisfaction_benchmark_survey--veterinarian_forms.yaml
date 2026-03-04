@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Client Satisfaction Benchmark Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_info
+      label: Visit Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_4
+      label: How likely are you to recommend our vet clinic to a friend or family
+        member on a scale of 1-5?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Not at all''}'
+      - '{''label'': ''2 - Slightly''}'
+      - '{''label'': ''3 - Neutral''}'
+      - '{''label'': ''4 - Somewhat''}'
+      - '{''label'': ''5 - Highly''}'
+      required: false
+    - id: 5
+      name: question_5
+      label: How satisfied are you with our clinic on a scale of 1-5?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Very dissatisfied''}'
+      - '{''label'': ''2 - Somewhat dissatisfied''}'
+      - '{''label'': ''3 - Neutral''}'
+      - '{''label'': ''4 - Somewhat satisfied''}'
+      - '{''label'': ''5 - Very satisfied''}'
+      required: false
+    - id: 6
+      name: question_6
+      label: What did you come in for?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Initial Exam''}'
+      - '{''label'': ''Vaccination''}'
+      - '{''label'': ''Routine Check-up''}'
+      - '{''label'': ''Medical Procedure''}'
+      - '{''label'': ''Other (please describe)''}'
+      required: false
+    - id: 7
+      name: question_7
+      label: What time did you arrive at the clinic?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_8
+      label: What time did you leave the clinic?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question_9
+      label: How long did your visit take?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question_10
+      label: Was the staff friendly?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: question_11
+      label: Was the staff helpful?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: question_12
+      label: Was the staff knowledgeable?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: question_13
+      label: Was the waiting time reasonable?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 15 minutes''}'
+      - '{''label'': ''Between 15-30 minutes''}'
+      - '{''label'': ''More than 30 minutes''}'
+      required: false
+    - id: 14
+      name: question_14
+      label: How satisfied are you with the quality of care provided by our clinic?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very dissatisfied''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Very satisfied''}'
+      required: false
+    - id: 15
+      name: question_15
+      label: How likely are you to return to our clinic for future visits?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Likely''}'
+      - '{''label'': ''Very likely''}'
+      - '{''label'': ''Highly likely''}'
+      required: false
+    - id: 16
+      name: question_16
+      label: How likely are you to recommend a friend or family member to our clinic?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Likely''}'
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Highly''}'
+      required: false
+    - id: 17
+      name: question_17
+      label: Do you have any additional comments or suggestions for our clinic?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: question_18
+      label: Is there anything we could have done to improve your visit?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: question_19
+      label: How can we improve our clinic?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: question_20
+      label: What time did you arrive at the clinic?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: question_21
+      label: What time did you leave the clinic?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: question_22
+      label: How long did your visit take?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question_23
+      label: Was the staff friendly?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: question_24
+      label: Was the staff helpful?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: question_25
+      label: Was the staff knowledgeable?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

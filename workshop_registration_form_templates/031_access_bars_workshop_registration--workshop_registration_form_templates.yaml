@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Bars Workshop Registration
+    pages:
+    - id: 1
+      name: section_registrant
+      label: -- Workshop Registrant --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: First and Last Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For workshop confirmation and reminders
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Phone Number
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Select from available dates
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: experience_level
+      label: Experience with Access Bars
+      hint: Select your current level
+      type: select_one
+      options:
+      - Beginner (First Class)
+      - Repeat Student
+      - Practitioner
+      - Facilitator
+      required: true
+    - id: 8
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you be paying for the class?
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash on Day
+      - Bank Transfer
+      required: true
+    - id: 9
+      name: section_prefs
+      label: -- Preferences and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Do you have dietary requirements for lunch or snacks?
+      hint: Select primary restriction
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      required: false
+    - id: 11
+      name: referral_source
+      label: How did you hear about this workshop?
+      hint: e.g. Social media, friend, website
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_legal
+      label: -- Legal and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: class_recording_consent
+      label: I consent to being included in any class photos or videos
+      hint: For marketing and educational use
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 14
+      name: privacy_policy_agreement
+      label: I agree to the privacy and cancellation policies
+      hint: Essential for registration
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: digital_signature
+      label: Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

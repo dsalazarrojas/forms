@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Verification Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: vendor-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email-address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: vendor_type
+      label: vendor-type
+      hint: null
+      type: select_one
+      options:
+      - wholesaler
+      - distributor
+      - other
+      required: false
+    - id: 6
+      name: tax_id_number
+      label: tax-id-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      required: false
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false

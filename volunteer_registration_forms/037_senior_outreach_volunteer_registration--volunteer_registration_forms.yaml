@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Outreach Volunteer Registration
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 8
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interest
+      label: Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Outreach Activities
+      - Support Groups
+      - Fundraising
+      - Social Services
+      - Education
+      - Healthcare
+      - Other
+      required: true
+    - id: 10
+      name: availability_frequency
+      label: Availability Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Holidays
+      - Flexible
+      - As needed
+      required: false
+    - id: 11
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - In-Home Volunteer
+      - Group Volunteer
+      - Phone Buddy
+      - Other
+      required: true
+    - id: 12
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
+      required: true
+    - id: 13
+      name: notes
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirmation
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

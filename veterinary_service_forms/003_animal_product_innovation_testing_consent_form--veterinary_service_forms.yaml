@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Product Innovation Testing Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Company or institution name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: study_title
+      label: Study Title
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: study_description
+      label: Animal Product Innovation Testing Study - This research evaluates new
+        animal care products for safety and efficacy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: purpose_explanation
+      label: Purpose of Study
+      hint: Understanding the research goals
+      type: select_one
+      options:
+      - I understand the purpose of this study
+      - I need more information
+      required: true
+    - id: 9
+      name: procedures_understood
+      label: Study Procedures
+      hint: All procedures have been explained
+      type: select_one
+      options:
+      - I understand all procedures involved
+      - I have questions about procedures
+      required: true
+    - id: 10
+      name: risks_acknowledged
+      label: Potential Risks and Benefits
+      hint: Risks and benefits have been discussed
+      type: select_one
+      options:
+      - I understand the risks and benefits
+      - I need clarification on risks
+      required: true
+    - id: 11
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Your data will be kept confidential
+      type: select_one
+      options:
+      - I agree to confidentiality terms
+      - I do not agree
+      required: true
+    - id: 12
+      name: voluntary_participation
+      label: Voluntary Participation Statement
+      hint: Participation is completely voluntary
+      type: select_one
+      options:
+      - I understand participation is voluntary
+      - I do not understand
+      required: true
+    - id: 13
+      name: withdrawal_rights
+      label: Right to Withdraw
+      hint: You may withdraw at any time without penalty
+      type: select_one
+      options:
+      - I understand my right to withdraw
+      - I need clarification
+      required: true
+    - id: 14
+      name: data_usage_consent
+      label: Consent for Data Usage
+      hint: How your data will be used
+      type: select_multiple
+      options:
+      - Research Analysis
+      - Publication in Scientific Journals
+      - Presentation at Conferences
+      - Internal Quality Improvement
+      - Regulatory Submissions
+      required: true
+    - id: 15
+      name: animal_welfare_confirmation
+      label: Animal Welfare Confirmation
+      hint: All animal welfare standards will be maintained
+      type: select_one
+      options:
+      - I confirm animal welfare is prioritized
+      - I have concerns
+      required: true
+    - id: 16
+      name: compensation_info
+      label: Compensation Information
+      hint: Details about participant compensation if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: investigator_contact
+      label: Principal Investigator Contact Information
+      hint: Contact details for study questions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_signature
+      label: Electronic Consent Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: witness_name
+      label: Witness Name (if applicable)
+      hint: Name of witness to consent process
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: final_consent
+      label: I voluntarily consent to participate in this animal product innovation
+        testing study
+      hint: null
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true

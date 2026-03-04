@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_gifts_registry_form
+    pages:
+    - id: 1
+      name: wedding_gifts_registration_form
+      label: Wedding Gifts Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_type
+      label: Gift Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Bride''}'
+      - '{''value'': ''Groom''}'
+      - '{''value'': ''Couple''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: gift_category
+      label: Gift Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Honeymoon''}'
+      - '{''value'': ''Kitchen''}'
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipient_email
+      label: Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: recipient_phone
+      label: Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_amount
+      label: Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: gift_date
+      label: Gift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: gift_time
+      label: Gift Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: gift_note
+      label: Gift Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: wedding_gifts_registry_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: wedding_gifts_registry_form_cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

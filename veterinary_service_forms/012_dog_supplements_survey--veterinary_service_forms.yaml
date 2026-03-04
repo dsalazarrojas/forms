@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Supplements Survey
+    pages:
+    - id: 1
+      name: dog_breed
+      label: Dog Breed
+      hint: null
+      type: select_one
+      options:
+      - Poodle
+      - Labrador
+      - Golden Retriever
+      - Beagle
+      - Other
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: select_multiple
+      options:
+      - Young
+      - Adult
+      - Senior
+      required: false
+    - id: 3
+      name: weight_range
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: supplement_use
+      label: Do you use dog supplements?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: supplement_type
+      label: What type of supplement?
+      hint: null
+      type: select_multiple
+      options:
+      - Joint
+      - Skin
+      - Coat
+      - Digestive
+      - Other
+      required: false
+    - id: 6
+      name: supplement_frequency
+      label: How often do you use dog supplements?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 7
+      name: supplement_dose
+      label: How much do you administer?
+      hint: null
+      type: select_one
+      options:
+      - Exactly as directed
+      - Less than directed
+      - More than directed
+      - No idea
+      required: false
+    - id: 8
+      name: supplement_side_effects
+      label: Have you experienced any side effects?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: customer_satisfaction
+      label: How satisfied are you with the supplements?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      - Not at all satisfied
+      - No idea
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

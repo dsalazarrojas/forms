@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Floral Arrangement Survey
+    pages:
+    - id: 1
+      name: wedding_floral_styles
+      label: Wedding Florals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: couples_color_palettes
+      label: Couples' Color Palettes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: arrangement_needs
+      label: Arrangement Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: flowers_and_foliage
+      label: Flowers And Foliage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: send_info
+      label: Send Info
+      hint: null
+      type: email
+      options: []
+      required: false

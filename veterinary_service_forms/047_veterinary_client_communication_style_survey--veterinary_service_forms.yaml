@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Client Communication Style Survey
+    pages:
+    - id: 1
+      name: pet_owner_info
+      label: Pet Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tone_choices
+      label: Tone Choices
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: reminder_preferences
+      label: Reminder Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_preferences
+      label: Follow Up Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

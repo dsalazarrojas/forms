@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Workshop Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name for contact and emergency notifications
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Name
+      hint: First and last name of child attending
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Child Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email for registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose the workshop session to attend
+      type: select_one
+      options:
+      - Early Years Playtime
+      - Toddler Social Skills
+      - Creative Storytelling
+      - Parenting Strategies
+      required: true
+    - id: 7
+      name: session_date
+      label: Preferred Session Date
+      hint: Select the date of the chosen workshop
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: special_needs
+      label: Special Needs or Allergies
+      hint: Provide any important medical or dietary notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Name of alternate contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: Choose method for workshop fee
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Pay on Arrival
+      required: true

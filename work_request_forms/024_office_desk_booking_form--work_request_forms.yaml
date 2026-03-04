@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Desk Booking Form
+    pages:
+    - id: 1
+      name: booking_form
+      label: Booking form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: desk_selection
+      label: Select Desk
+      hint: Select a desk to book
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Desk 1''}'
+      - '{''id'': 2, ''label'': ''Desk 2''}'
+      - '{''id'': 3, ''label'': ''Desk 3''}'
+      required: false
+    - id: 3
+      name: booking_date
+      label: Booking Date
+      hint: Booking date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: booking_time
+      label: Booking Time
+      hint: Booking time in 24-hour format
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: booking_duration
+      label: Booking Duration
+      hint: Booking duration in hours
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: booking_reason
+      label: Booking Reason
+      hint: Reason for booking
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: Your name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: Your e-mail
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: User who will be assigned to the desk
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3''}'
+      required: false
+    - id: 11
+      name: comment
+      label: Comment
+      hint: Optional comment
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

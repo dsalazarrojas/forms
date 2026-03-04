@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_resource_sharing_community_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: offer_help
+      label: Can you offer help with?
+      hint: null
+      type: select_one
+      options:
+      - Emergency Food
+      - Emergency Shelter
+      - Emergency Housing
+      - Other
+      required: false
+    - id: 8
+      name: need_help
+      label: Are you in need of help with?
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Food
+      - Emergency Shelter
+      - Emergency Housing
+      - Other
+      required: false
+    - id: 9
+      name: resource_types
+      label: What type of resource do you have to offer?
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Shelter
+      - Housing
+      - Clothing
+      - Other
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: community_info
+      label: Community Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - PST
+      - CST
+      - MST
+      - Other
+      required: false
+    - id: 20
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: confirm_time_zone
+      label: Confirm Timezone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - PST
+      - CST
+      - MST
+      - Other
+      required: false
+    - id: 23
+      name: confirm_time_zone_offset
+      label: Confirm Timezone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: confirm_availability
+      label: Confirm Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: confirm_location
+      label: Confirm Location
+      hint: null
+      type: text
+      options: []
+      required: false

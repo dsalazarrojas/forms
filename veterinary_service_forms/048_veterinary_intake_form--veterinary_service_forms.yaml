@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Intake Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_details
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_plans
+      label: treatment_plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian
+      label: veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinarian_phone
+      label: veterinarian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: veterinarian_email
+      label: veterinarian_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 12
+      name: pet_condition
+      label: pet_condition
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Allergies
+      - Cancer
+      - Chronic pain
+      - Diabetes
+      - Heart issues
+      - Other
+      required: false
+    - id: 13
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: ethics_review_board_volunteer_registration
+    pages:
+    - id: 1
+      name: user_info
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ethics_review_board
+      label: Ethics Review Board
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Ethics Review Board 1'', ''value'': 1}'
+      - '{''label'': ''Ethics Review Board 2'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: non_profits
+      label: Non Profits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''University'', ''value'': ''University''}'
+      - '{''label'': ''Hospital'', ''value'': ''Hospital''}'
+      - '{''label'': ''Non-Profit'', ''value'': ''Non-Profit''}'
+      required: false
+    - id: 5
+      name: details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I consent to serve on an Ethics Review Board'', ''value'':
+        1}'
+      - '{''label'': ''I do not consent to serve on an Ethics Review Board'', ''value'':
+        2}'
+      required: false
+    - id: 9
+      name: review_boards
+      label: Review Boards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: non_profit_board
+      label: Non-Profit Board
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: university
+      label: University
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: hospital
+      label: Hospital
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

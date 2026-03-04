@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: over-the-air-update-request-form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: device_id
+      label: Device ID
+      hint: Please enter the device ID number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_one
+      options:
+      - Device Firmware
+      - Device Software
+      required: false
+    - id: 5
+      name: scheduled_date
+      label: Scheduled Date
+      hint: Select date for over-the-air update
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requestor
+      label: Requestor
+      hint: null
+      type: select_one
+      options:
+      - IT Team
+      - Service Provider
+      - Other
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - IT Team
+      - Service Provider
+      - Other
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: assigned
+      label: Assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_id
+      label: Submitted By ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_by_id
+      label: Assigned By ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_by_email
+      label: Assigned By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: assigned_by_phone
+      label: Assigned By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_status
+      label: Submitted Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Complete
+      required: false

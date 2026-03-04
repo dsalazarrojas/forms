@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copywriting Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: writing_samples
+      label: writing samples
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: writing_samples_sample_one
+      label: writing samples sample 1
+      hint: null
+      type: select_one
+      options:
+      - writing samples sample 1 option 1
+      - writing samples sample 1 option 2
+      required: false
+    - id: 8
+      name: writing_samples_sample_two
+      label: writing samples sample 2
+      hint: null
+      type: select_multiple
+      options:
+      - writing samples sample 2 option 1
+      - writing samples sample 2 option 2
+      required: false
+    - id: 9
+      name: writing_samples_sample_three
+      label: writing samples sample 3
+      hint: null
+      type: select_multiple
+      options:
+      - writing samples sample 3 option 1
+      - writing samples sample 3 option 2
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Business Review Program Registration Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: passport_date_of_issue
+      label: Date of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: nationality_other
+      label: Nationality (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - Alabama
+      - California
+      - Florida
+      - New York
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak St
+      required: true
+    - id: 20
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - pdf
+      - docx
+      - xls
+      - csv
+      required: false
+    - id: 24
+      name: uploaded_file_date
+      label: Date of Upload
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: uploaded_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

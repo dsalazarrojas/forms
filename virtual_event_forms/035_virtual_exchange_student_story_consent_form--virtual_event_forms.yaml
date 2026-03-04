@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Exchange Student Story Consent Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: media_url
+      label: Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: story_type
+      label: Story Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: story_url
+      label: Story URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sharing_permission
+      label: Sharing Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: media_permission
+      label: Media Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

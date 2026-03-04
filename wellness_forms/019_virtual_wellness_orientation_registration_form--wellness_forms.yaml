@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: reporting_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_emos
+      label: Event Emos
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: true
+    - id: 12
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: true
+    - id: 13
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: true
+    - id: 14
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: false
+    - id: 15
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: false
+    - id: 16
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - UTC
+      - EST
+      - CST
+      - MST
+      - PST
+      required: false

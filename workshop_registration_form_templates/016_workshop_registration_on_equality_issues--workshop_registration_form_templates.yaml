@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Registration On Equality Issues
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_choices
+      label: session_choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: accessibility_needs
+      label: accessibility_needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

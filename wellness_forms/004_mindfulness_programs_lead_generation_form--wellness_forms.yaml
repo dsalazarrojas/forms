@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mindfulness Programs Lead Generation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interested_programs
+      label: Interested Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mindfulness Programs''}'
+      - '{''label'': ''Yoga Programs''}'
+      - '{''label'': ''Meditation Programs''}'
+      - '{''label'': ''Wellness Programs''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Website''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Referral''}'
+      - '{''label'': ''Other''}'
+      required: true

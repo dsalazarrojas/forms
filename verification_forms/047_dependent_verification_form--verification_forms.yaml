@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dependent Verification Form
+    pages:
+    - id: 1
+      name: dependent_details
+      label: dependent_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dependent_documents
+      label: dependent_documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: dependent_relationship_since
+      label: dependent_relationship_since
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: dependent_relationship_status
+      label: dependent_relationship_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Married''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: dependent_relationship_type
+      label: dependent_relationship_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Son''}'
+      - '{''label'': ''Daughter''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Step-Child''}'
+      required: true
+    - id: 6
+      name: dependent_age
+      label: dependent_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dependent_gender
+      label: dependent_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      required: true
+    - id: 8
+      name: dependent_income_verification
+      label: dependent_income_verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Self-Employed''}'
+      required: true
+    - id: 9
+      name: dependent_proof_of_income
+      label: dependent_proof_of_income
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: dependent_proof_of_employment
+      label: dependent_proof_of_employment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: dependent_proof_of_identity
+      label: dependent_proof_of_identity
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dependent_relationship_begin_date
+      label: dependent_relationship_begin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: dependent_last_name
+      label: dependent_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dependent_first_name
+      label: dependent_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dependent_middle_initials
+      label: dependent_middle_initials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dependent_last_four_digits
+      label: dependent_last_four_digits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dependent_ssn
+      label: dependent_ssn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dependent_dob
+      label: dependent_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: dependent_relationship_status_begin_date
+      label: dependent_relationship_status_begin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: dependent_employment_status
+      label: dependent_employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Unemployed''}'
+      required: true
+    - id: 21
+      name: dependent_proof_of_employment_last_four_digits
+      label: dependent_proof_of_employment_last_four_digits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dependent_proof_of_employment_date
+      label: dependent_proof_of_employment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: dependent_proof_of_id
+      label: dependent_proof_of_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: dependent_relationship_begin_date_month_year
+      label: dependent_relationship_begin_date_month_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: dependent_relationship_begin_date_day
+      label: dependent_relationship_begin_date_day
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Party Theme Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: department
+        label: Department
+        hint: To track participation by team
+        type: select_one
+        options: [Marketing, Sales, Engineering, HR, Finance, Operations, Customer Success]
+        required: true
+      - id: 3
+        name: header_voting
+        label: -- Cast Your Vote --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: primary_theme_choice
+        label: Which theme do you prefer for this year's party?
+        hint: Choose your favorite
+        type: select_one
+        options: [Winter Wonderland (Elegant White and Silver), Ugly Sweater Spectacular, Hollywood Glamour (Red Carpet), Candyland Christmas, Masquerade Ball, Retro 80s Holiday]
+        required: true
+      - id: 5
+        name: secondary_theme_choice
+        label: Second Choice (if primary is not selected)
+        hint: null
+        type: select_one
+        options: [Winter Wonderland, Ugly Sweater Spectacular, Hollywood Glamour, Candyland Christmas, Masquerade Ball, Retro 80s Holiday]
+        required: true
+      - id: 6
+        name: preferred_activity
+        label: Which activity would you enjoy most?
+        hint: null
+        type: select_multiple
+        options: [Live DJ and Dancing, Casino Night Games, Photo Booth with Props, Trivia Challenge, Karaoke, Craft Station]
+        required: true
+      - id: 7
+        name: drink_preference
+        label: Preferred Signature Cocktail/Mocktail Style
+        hint: null
+        type: select_one
+        options: [Spiced and Warm, Sweet and Fruity, Sophisticated and Tart, Non-Alcoholic Specialty]
+        required: true
+      - id: 8
+        name: music_genre
+        label: Preferred Music Genres
+        hint: null
+        type: select_multiple
+        options: [Top 40 Hits, Classic Holiday Jazz, 80s/90s Nostalgia, Rock and Indie, Electronic/Dance]
+        required: true
+      - id: 9
+        name: theme_idea_suggestion
+        label: Have a theme idea not listed?
+        hint: Suggest it here for future years
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: previous_party_feedback
+        label: What was your favorite part of last year's party?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: attendance_likelihood
+        label: How likely are you to attend on a Friday night?
+        hint: null
+        type: select_one
+        options: [100% Attending, Probably, Maybe, Unlikely]
+        required: true

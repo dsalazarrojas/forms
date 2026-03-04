@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing License Verification
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: license_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 4
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In person
+      required: false
+    - id: 5
+      name: verification_result
+      label: Verification Result
+      hint: null
+      type: select_multiple
+      options:
+      - Verified
+      - Not Verified
+      - Pending
+      required: false

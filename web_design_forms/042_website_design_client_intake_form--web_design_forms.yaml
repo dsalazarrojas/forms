@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Client Intake Form
+    pages:
+    - id: 1
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_preferences
+      label: Project Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: project_deadlines
+      label: Project Deadlines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_preferences
+      label: Email Preferences
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false

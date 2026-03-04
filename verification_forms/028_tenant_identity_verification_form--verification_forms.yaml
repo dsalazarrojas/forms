@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: tenant_identity_verification_form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_one
+      options:
+      - American
+      - British
+      - Australian
+      - Canadian
+      required: true
+    - id: 6
+      name: nationality_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: identification_document_type
+      label: ID Type
+      hint: null
+      type: select_multiple
+      options:
+      - Driver License
+      - Passport
+      - ID Card
+      - Other
+      required: true
+    - id: 8
+      name: identification_document_number
+      label: ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: building_name
+      label: Building
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: nationality_verified
+      label: Is Nationality Verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Friend
+      - Family
+      - Landlord
+      required: false
+    - id: 18
+      name: verified_by_other
+      label: Verified By (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reason_for_verification
+      label: Reason For Verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: verification_fee
+      label: Verification Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: verification_fee_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - Euro
+      - Pound
+      - Other
+      required: true
+    - id: 24
+      name: verification_fee_other
+      label: Verification Fee (other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

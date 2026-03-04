@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement Workshop Reservation Form
+    pages:
+    - id: 1
+      name: reservation_intro
+      label: -- Workshop Reservation Details --
+      hint: Reserve your spot for upcoming civic engagement workshops
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Primary Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: workshop_selection
+      label: Select a Workshop
+      hint: null
+      type: select_one
+      options:
+      - Community Organizing 101
+      - Public Speaking for Change
+      - Understanding Local Government
+      - Grant Writing for Nonprofits
+      - Effective Advocacy Campaigns
+      required: true
+    - id: 5
+      name: reservation_date
+      label: Preferred Date
+      hint: null
+      type: select_one
+      options:
+      - March 15 (9-00 AM - 12-00 PM)
+      - March 22 (1-00 PM - 4-00 PM)
+      - April 5 (10-00 AM - 1-00 PM)
+      required: true
+    - id: 6
+      name: attendance_format
+      label: How will you attend?
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual (via Zoom)
+      required: true
+    - id: 7
+      name: number_of_attendees
+      label: Number of people in your group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: organizational_affiliation
+      label: Organization/Group Name (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: primary_motivation
+      label: What is your primary goal for this workshop?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_accommodations
+      label: Accessibility or Dietary Needs
+      hint: For in-person attendance only
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referral_source
+      label: How did you hear about this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Local News
+      - Word of Mouth
+      required: false
+    - id: 12
+      name: communication_opt_in
+      label: Would you like to receive updates on future workshops?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: reservation_agreement
+      label: I understand that space is limited and will notify the organizer if I
+        cannot attend
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

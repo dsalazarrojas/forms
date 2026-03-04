@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Volunteer Application Form
+    pages:
+    - id: 1
+      name: section_volunteer_profile_app
+      label: -- Volunteer Profile --
+      hint: Please fill out your contact information and details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_full_name_app
+      label: Full Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email_app
+      label: Email Address
+      hint: For application status and results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone_app
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_dob_app
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_address_app
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_skills_experience_app
+      label: -- Skills and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: previous_volunteer_experience_app
+      label: Describe any previous volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: key_skills_expertise_app
+      label: What key skills or expertise would you bring to the community center
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: educational_background_app
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 11
+      name: current_occupation_app
+      label: Current Occupation (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_availability_interests_app
+      label: -- Availability and Interests --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_volunteer_interest_app
+      label: Which program area are you most interested in volunteering for
+      hint: null
+      type: select_one
+      options:
+      - Youth Programs
+      - Senior Services
+      - Arts and Culture
+      - Sports and Athletics
+      - Administrative/Office Support
+      - Special Events
+      required: true
+    - id: 14
+      name: weekly_availability_hours_app
+      label: How many hours per week can you commit to volunteering
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: preferred_volunteer_times_app
+      label: What are your preferred volunteer times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: true
+    - id: 16
+      name: reason_for_volunteering_app
+      label: Why are you interested in volunteering with us
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_references_acknowledgment_app
+      label: -- References and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: personal_reference_name_app
+      label: Personal Reference Name
+      hint: Someone not related to you
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: personal_reference_contact_app
+      label: Personal Reference Contact Info (Phone/Email)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: volunteer_signature_digital_app
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date_final_app
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: background_check_consent_app
+      label: I consent to a criminal background check as part of my application
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

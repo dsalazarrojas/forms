@@ -1,0 +1,332 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Intake Form
+    pages:
+    - id: 1
+      name: intake_date
+      label: Intake Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: intake_time
+      label: Intake Time
+      hint: Time of intake
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: intake_intro
+      label: Animal Intake Form
+      hint: Complete this form for all animals entering the facility
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: intake_type
+      label: Type of Intake
+      hint: How animal arrived
+      type: select_one
+      options:
+      - Owner surrender
+      - Stray
+      - Transfer from another shelter
+      - Seizure by animal control
+      - Found by good samaritan
+      - Returned adoption
+      - Returned foster
+      - Other
+      required: true
+    - id: 5
+      name: previous_location
+      label: Previous Location
+      hint: Where did animal come from
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: animal_information
+      label: Animal Information
+      hint: Basic details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: animal_name
+      label: Animal's Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_name
+      label: Assigned Shelter Name
+      hint: Shelter designation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small animal
+      - Livestock
+      - Wildlife
+      - Exotic
+      - Other
+      required: true
+    - id: 10
+      name: breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 12
+      name: age
+      label: Estimated Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: color_markings
+      label: Color and Markings
+      hint: Description
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: microchip
+      label: Is the Animal Microchipped
+      hint: Chip status
+      type: select_one
+      options:
+      - Yes - scanned
+      - Yes - not scanned
+      - No
+      - Unknown
+      required: true
+    - id: 16
+      name: microchip_number
+      label: Microchip Number
+      hint: If found
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: health_assessment
+      label: Health Assessment
+      hint: Medical evaluation
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: body_condition
+      label: Body Condition Score
+      hint: 1-9 scale
+      type: select_one
+      options:
+      - 1-3 - underweight
+      - 4-5 - ideal
+      - 6-7 - overweight
+      - 8-9 - obese
+      - Not assessed
+      required: true
+    - id: 19
+      name: visible_injuries
+      label: Are There Visible Injuries
+      hint: Injury status
+      type: select_one
+      options:
+      - No
+      - Yes - minor
+      - Yes - moderate
+      - Yes - severe
+      required: true
+    - id: 20
+      name: injury_description
+      label: Describe Any Injuries
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: health_concerns
+      label: Any Health Concerns
+      hint: Observations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: behavior_notes
+      label: Initial Behavior Observations
+      hint: Temperament
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vaccination_status
+      label: Vaccination Status at Intake
+      hint: Vaccine history
+      type: select_one
+      options:
+      - Current - records provided
+      - Unknown
+      - Not vaccinated
+      - Will vaccinate at intake
+      required: true
+    - id: 24
+      name: vaccines_given
+      label: Vaccines Given at Intake
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rabies
+      - DHPP - dogs
+      - FVRCP - cats
+      - Bordetella
+      - Leptospirosis
+      - Lyme
+      - Influenza
+      - None
+      required: false
+    - id: 25
+      name: deworming
+      label: Was Deworming Administered
+      hint: Parasite control
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Will schedule
+      required: true
+    - id: 26
+      name: flea_treatment
+      label: Was Flea Treatment Administered
+      hint: Flea control
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not needed
+      required: true
+    - id: 27
+      name: spay_neuter_status
+      label: Spay or Neuter Status
+      hint: Surgical status
+      type: select_one
+      options:
+      - Already altered
+      - Not altered - will schedule
+      - Not altered - too young
+      - Unknown
+      required: true
+    - id: 28
+      name: intake_photos
+      label: Were Intake Photos Taken
+      hint: Documentation
+      type: select_one
+      options:
+      - Yes - full set
+      - Yes - limited
+      - No
+      required: true
+    - id: 29
+      name: source_information
+      label: Source Information
+      hint: About who brought animal
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: surrenderer_name
+      label: Surrenderer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: surrenderer_contact
+      label: Surrenderer Contact
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: surrender_reason
+      label: Reason for Surrender
+      hint: Why
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: finder_name
+      label: Finder Name
+      hint: If stray
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: finder_contact
+      label: Finder Contact
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: found_location
+      label: Where Was Animal Found
+      hint: Location
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: staff_name
+      label: Staff Member Completing Intake
+      hint: Name
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: staff_signature
+      label: Staff Signature
+      hint: Type name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Participant Access Form
+    pages:
+    - id: 1
+      name: workshop_participant_access_form
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Completed
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_time
+      label: Participant Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: workshop_participants
+      label: Workshop Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - Leader
+      - Member
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pottery Session Reservation Form
+    pages:
+    - id: 1
+      name: pottery_session_reservation_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pottery_session_reservation_form_first_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pottery_session_reservation_form_last_name
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: pottery_session_reservation_form_email
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pottery_session_reservation_form_phone
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pottery_session_reservation_form_date
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: pottery_session_reservation_form_time
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: pottery_session_reservation_form_class
+      label: Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: pottery_session_reservation_form_session
+      label: Booking
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: pottery_session_reservation_form_booking
+      label: Instructor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: pottery_session_reservation_form_instructor
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pottery_session_reservation_form_notes
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: pottery_session_reservation_form_submission
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: pottery_session_reservation_form_submission
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Application Form
+    pages:
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Applicant full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_preference
+      label: Preferred pet type
+      hint: Dog, cat, other
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 6
+      name: experience_with_pets
+      label: Experience with pets
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_suitability
+      label: Home suitability for pet
+      hint: Yard, apartment, fenced area
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: Provide references if requested
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: I agree to meet adoption requirements
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

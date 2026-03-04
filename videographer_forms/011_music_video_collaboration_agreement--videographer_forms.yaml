@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Video Collaboration Agreement
+    pages:
+    - id: 1
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: collaboration_terms
+      label: Collaboration Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Director
+      - Videographer
+      - Other
+      required: true
+    - id: 5
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: credit_terms
+      label: Credit Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: compensation_terms
+      label: Compensation Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: music_video_title
+      label: Music Video Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: music_video_description
+      label: Music Video Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: music_video_genre
+      label: Music Video Genre
+      hint: null
+      type: select_one
+      options:
+      - Genre 1
+      - Genre 2
+      - Genre 3
+      - Genre 4
+      - Genre 5
+      required: true
+    - id: 15
+      name: music_video_release_date
+      label: Music Video Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: music_video_duration
+      label: Music Video Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: music_video_format
+      label: Music Video Format
+      hint: null
+      type: select_one
+      options:
+      - Format 1
+      - Format 2
+      - Format 3
+      required: true
+    - id: 18
+      name: music_video_resolution
+      label: Music Video Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolution 1
+      - Resolution 2
+      - Resolution 3
+      required: true
+    - id: 19
+      name: client_approvals
+      label: Client Approvals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: client_review
+      label: Client Review
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: client_confirmation
+      label: Client Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirm 1
+      - Confirm 2
+      - Confirm 3
+      required: true
+    - id: 22
+      name: client_confirmation_date
+      label: Client Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: music_video_collaboration_agreement
+      label: Music Video Collaboration Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: music_video_collaboration_agreement_version
+      label: Music Video Collaboration Agreement Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

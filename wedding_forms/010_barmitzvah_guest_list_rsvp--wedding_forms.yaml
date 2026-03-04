@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barmitzvah Guest List RSVP
+    pages:
+    - id: 1
+      name: guest_name
+      label: Your Full Name
+      hint: As you would like it to appear
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event updates and information
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: In case we need to reach you
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship_to_family
+      label: Relationship to the Honoree
+      hint: How do you know the celebrant
+      type: select_one
+      options:
+      - Family member
+      - Family friend
+      - Friend of honoree
+      - Colleague
+      - Neighbor
+      - Other
+      required: true
+    - id: 5
+      name: attending_status
+      label: Will You Be Attending
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe, will confirm soon
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests Including Yourself
+      hint: Total in your party
+      type: select_one
+      options:
+      - 1 - just myself
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: false
+    - id: 7
+      name: guest_names
+      label: Names of Additional Guests
+      hint: List all guests in your party
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: children_attending
+      label: Will Children Be Attending
+      hint: Number of children in your party
+      type: select_one
+      options:
+      - No children
+      - 1 child
+      - 2 children
+      - 3 or more children
+      required: true
+    - id: 9
+      name: ceremony_attendance
+      label: Will You Attend the Ceremony
+      hint: The religious service portion
+      type: select_one
+      options:
+      - true
+      - false
+      - Only the reception
+      required: true
+    - id: 10
+      name: reception_attendance
+      label: Will You Attend the Reception
+      hint: The celebration party
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: meal_preference
+      label: Meal Preference
+      hint: Select your preferred entree
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Kosher
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any special dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: alcohol_preference
+      label: Alcohol Preference
+      hint: Will you consume alcohol
+      type: select_one
+      options:
+      - true
+      - false
+      - Wine only
+      required: true
+    - id: 14
+      name: song_requests
+      label: Song Requests for Dancing
+      hint: Any songs you would like to hear
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: Shuttle service availability
+      type: select_one
+      options:
+      - Yes, from hotel
+      - Yes, from synagogue
+      - No, I have transportation
+      required: true
+    - id: 16
+      name: parking_needed
+      label: Will You Need Parking
+      hint: Parking information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: hotel_accommodation
+      label: Do You Need Hotel Recommendations
+      hint: Out of town guests
+      type: select_one
+      options:
+      - Yes, please send info
+      - No, already arranged
+      - Not applicable - local
+      required: true
+    - id: 18
+      name: gift_delivery
+      label: Gift Delivery Preference
+      hint: How will you deliver your gift
+      type: select_one
+      options:
+      - Bring to event
+      - Ship to family home
+      - Already sent
+      - Will send later
+      required: false
+    - id: 19
+      name: photo_consent
+      label: Photo Consent
+      hint: May you be included in event photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: message_to_honoree
+      label: Message to the Honoree
+      hint: Share a special message
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rsvp_deadline_acknowledged
+      label: RSVP Deadline Acknowledged
+      hint: Please respond by the deadline
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true

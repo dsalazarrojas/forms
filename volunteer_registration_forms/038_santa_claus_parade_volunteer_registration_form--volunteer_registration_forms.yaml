@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Santa Claus Parade Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration_form
+      label: Volunteer Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift_time
+      label: Shift Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM
+      - 10:00 AM
+      - 12:00 PM
+      required: true
+    - id: 6
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: true
+    - id: 7
+      name: task
+      label: Task
+      hint: null
+      type: select_one
+      options:
+      - Route Captain
+      - Parade Walker
+      - Stage Manager
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

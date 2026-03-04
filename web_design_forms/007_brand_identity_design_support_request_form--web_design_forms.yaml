@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Identity Design Support Request Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Current website URL if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Food and Beverage
+      - Professional Services
+      - Creative Arts
+      - Education
+      - Real Estate
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo Entrepreneur
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 200+ employees
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: What design support do you need
+      type: select_one
+      options:
+      - Complete Brand Identity
+      - Logo Design Only
+      - Brand Refresh
+      - Brand Guidelines Document
+      - Marketing Materials
+      - Website Design
+      - Social Media Assets
+      - Full Brand Package
+      required: true
+    - id: 9
+      name: current_brand_status
+      label: Current Brand Status
+      hint: Do you have existing branding
+      type: select_one
+      options:
+      - No Existing Brand
+      - Have Logo Only
+      - Have Partial Branding
+      - Need Complete Refresh
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who are your ideal customers
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: brand_values
+      label: Core Brand Values
+      hint: What values should your brand represent
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: design_preferences
+      label: Design Style Preferences
+      hint: Describe your preferred style
+      type: select_multiple
+      options:
+      - Modern and Minimalist
+      - Bold and Vibrant
+      - Classic and Traditional
+      - Playful and Fun
+      - Luxury and Elegant
+      - Eco-Friendly and Natural
+      - Tech and Futuristic
+      - Hand-Drawn and Artistic
+      required: true
+    - id: 13
+      name: color_preferences
+      label: Color Preferences
+      hint: Any colors you like or want to avoid
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: competitors
+      label: Main Competitors
+      hint: List your main competitors
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_timeline
+      label: Project Timeline
+      hint: When do you need this completed
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for this project
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 to $5,000
+      - $5,000 to $10,000
+      - $10,000 to $25,000
+      - $25,000+
+      required: true
+    - id: 17
+      name: inspiration_examples
+      label: Inspiration Examples
+      hint: Share links to designs you admire
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

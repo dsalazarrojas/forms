@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sanctuary Volunteer Shift Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer full name
+      hint: Full legal name preferred
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For scheduling confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional phone for urgent messages
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_roles
+      label: Preferred volunteer roles
+      hint: Select one or more roles
+      type: select_multiple
+      options:
+      - Animal care
+      - Cleaning and maintenance
+      - Administrative support
+      - Fundraising
+      - Education and outreach
+      required: true
+    - id: 6
+      name: availability_days
+      label: Availability days
+      hint: Select all days you are available
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      required: true
+    - id: 7
+      name: shift_length_preference
+      label: Preferred shift length
+      hint: Choose a typical shift length
+      type: select_one
+      options:
+      - 2 hours
+      - 4 hours
+      - 6 hours
+      required: true
+    - id: 8
+      name: experience
+      label: Relevant experience
+      hint: Briefly describe any related experience
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Preferred start date
+      hint: Date you can begin volunteering
+      type: date
+      options: []
+      required: false

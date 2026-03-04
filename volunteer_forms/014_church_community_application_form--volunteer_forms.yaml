@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Community Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: City and postal code helpful
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Which ministries or activities interest you
+      type: select_multiple
+      options:
+      - Youth ministry
+      - Outreach
+      - Worship team
+      - Hospitality
+      - Administration
+      required: true
+    - id: 6
+      name: availability
+      label: Typical availability
+      hint: Weekday evenings weekends or other
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: previous_experience
+      label: Previous volunteer experience
+      hint: Brief summary or null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_name
+      label: Reference name
+      hint: Optional reference for community roles or null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: background_check_consent
+      label: Consent to background check
+      hint: Required for certain roles
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else you want the team to know or null
+      type: text
+      options: []
+      required: false

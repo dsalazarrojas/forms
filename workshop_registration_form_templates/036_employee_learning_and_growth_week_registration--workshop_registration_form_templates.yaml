@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Learning And Growth Week Registration
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_info_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_info_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_info_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_info_participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Regular Employee''}'
+      - '{''value'': ''Management Team''}'
+      - '{''value'': ''Leadership Team''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: participant_info_participant_type_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

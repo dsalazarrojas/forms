@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fast Line Service Request
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: Second Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: third_page
+      label: Third Page
+      hint: null
+      type: text
+      options: []
+      required: false

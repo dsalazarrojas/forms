@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: expressive_lens_registration_form
+    pages:
+    - id: 1
+      name: workshop_info
+      label: Workshop Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lens_preferences
+      label: Lens Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_start_date
+      label: Workshop Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: workshop_end_date
+      label: Workshop End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_time_zone
+      label: Workshop Time Zone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

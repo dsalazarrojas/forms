@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscaping Association Workshop Membership Form
+    pages:
+    - id: 1
+      name: membership_application
+      label: Membership Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_participant_details
+      label: Workshop Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_participant_info
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: membership_info
+      label: Membership Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

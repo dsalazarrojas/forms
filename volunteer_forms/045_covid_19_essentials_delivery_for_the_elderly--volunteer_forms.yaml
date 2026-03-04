@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Essentials Delivery For The Elderly
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date you are submitting this request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: elderly_person_name
+      label: Elderly Person Name
+      hint: Full name of the person needing assistance
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Delivery address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: request_reason
+      label: Reason for Request
+      hint: Why does this person need assistance?
+      type: select_one
+      options:
+      - Homebound due to illness
+      - Homebound due to age/mobility
+      - No family support
+      - Financial hardship
+      - Transportation unavailable
+      - High-risk for COVID-19
+      - Other
+      required: true
+    - id: 11
+      name: assistance_needed
+      label: Type of Assistance Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Groceries
+      - Medications
+      - Household supplies
+      - Personal hygiene items
+      - Prepared meals
+      - Household maintenance
+      - Tech support
+      - Companionship/checking in
+      - Other
+      required: true
+    - id: 12
+      name: specific_items
+      label: Specific Items or Groceries Needed
+      hint: List items to be delivered
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: Allergies, preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_list
+      label: List of Medications Needed
+      hint: If medication pickup is needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pharmacy_name
+      label: Pharmacy Name
+      hint: If medications are being picked up
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: budget_available
+      label: Budget for Essentials
+      hint: Amount available for purchases
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: preferred_delivery_time
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Flexible
+      required: false
+    - id: 18
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: When should items be delivered?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: access_instructions
+      label: Access Instructions
+      hint: How to access the building or home
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for this person
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: health_concerns
+      label: Any Health or Safety Concerns?
+      hint: Mobility issues, health conditions, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: covid_exposure_risk
+      label: COVID-19 Exposure Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Very High - Confirmed/Suspected
+      - High - Recent exposure
+      - Moderate - General risk
+      - Low - Vaccinated, no exposure
+      - Unknown
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

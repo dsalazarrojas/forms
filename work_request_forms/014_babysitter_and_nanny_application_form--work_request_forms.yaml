@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter And Nanny Application Form
+    pages:
+    - id: 1
+      name: gm_elit_header
+      label: -- GM Elit Group - Babysitter and Nanny Official Application --
+      hint: Please complete all sections accurately to be considered for our professional
+        catalogue
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info_header
+      label: -- Contact and Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Street, City, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: photo_submission_note
+      label: Photo and Video Requirements
+      hint: Please ensure you upload a clear photo or CV with a photo as per the instructions
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photo_confirmed
+      label: I have a professional photo or CV with photo ready for submission
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have it ready
+      - Other
+      required: true
+    - id: 10
+      name: experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: years_of_experience
+      label: Total Years of Professional Childcare Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: previous_role_types
+      label: Types of Roles Previously Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full-time Nanny
+      - Part-time Babysitter
+      - Live-in Nanny
+      - Newborn Care Specialist
+      - After-school Sitter
+      required: true
+    - id: 13
+      name: languages_spoken
+      label: Languages Spoken Fluently
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: certifications_held
+      label: Childcare Related Certifications
+      hint: e.g., CPR, First Aid, Early Childhood Education degree
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reference_name_1
+      label: Professional Reference Name
+      hint: Name of previous employer
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reference_contact_1
+      label: Reference Phone or Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: background_check_consent
+      label: I consent to a full background and criminal record check
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - Other
+      required: true
+    - id: 18
+      name: motivation_text
+      label: Why do you want to work with GM Elit Group?
+      hint: Tell us about your passion for childcare
+      type: text
+      options: []
+      required: true

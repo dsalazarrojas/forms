@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Pool Waiver Release Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: select_one
+      options:
+      - Medical Certificate 1
+      - Medical Certificate 2
+      - Medical Certificate 3
+      required: true
+    - id: 12
+      name: waiver
+      label: Waiver Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to waive all rights and claims to any injuries that may occur while
+        in the pool
+      - I do not agree
+      required: true
+    - id: 13
+      name: swim_area
+      label: Swimming Pool Area
+      hint: null
+      type: select_multiple
+      options:
+      - In-pool areas
+      - Outside pool areas
+      required: true
+    - id: 14
+      name: swim_equipment
+      label: Swimming Pool Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Pool noodles
+      - Pool volleyball
+      - Pool chairs
+      required: true
+    - id: 15
+      name: swim_supervision
+      label: Swimming Pool Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - Adult supervision
+      - Adult supervision with lifeguard
+      - No supervision
+      required: true
+    - id: 16
+      name: swim_capacity
+      label: Swimming Pool Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - Up to 5
+      - Up to 10
+      - Up to 20
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship to Guest
+      hint: null
+      type: select_multiple
+      options:
+      - Parent/Child
+      - Spouse
+      - Other
+      required: true
+    - id: 18
+      name: swim_responsibility
+      label: Swimming Pool Responsibility
+      hint: null
+      type: select_multiple
+      options:
+      - Guest is solely responsible
+      - Guest and owner are responsible
+      required: true

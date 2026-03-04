@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Playlist Suggestion Form
+    pages:
+    - id: 1
+      name: guest_list
+      label: Guest List
+      hint: List of guests to be played for
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: music_request
+      label: Music Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: song_type
+      label: Song Type
+      hint: null
+      type: select_one
+      options:
+      - Acoustic
+      - Dance
+      - Classical
+      - Instrumental
+      - Pop
+      - Rock
+      - R&B
+      - Jazz
+      - Country
+      - Hip-hop
+      required: true
+    - id: 4
+      name: song_name
+      label: Song Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: album_name
+      label: Album Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_year
+      label: Release Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 9
+      name: note
+      label: Note to DJ
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: mobile
+      label: Mobile
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: qr_code
+      label: QR Code
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: generate_qr
+      label: Generate QR Code
+      hint: null
+      type: select_one
+      options:
+      - Generate
+      - Do Not Generate
+      required: true
+    - id: 14
+      name: generate_qr_text
+      label: QR Code Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: qr_code_text
+      label: Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: send_email
+      label: Send Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

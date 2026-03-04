@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Editing Process Checklist
+    pages:
+    - id: 1
+      name: video_editing_progress
+      label: Video Editing Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: video_quality_issues
+      label: Video Quality Issues
+      hint: List any video quality issues you find.
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: color_correction
+      label: Color Correction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: video_length
+      label: Video Length
+      hint: Please enter the video length in minutes.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: audio_quality
+      label: Audio Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: music_license
+      label: Music License
+      hint: Is the music licensed?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: color_grade
+      label: Color Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: video_resolution
+      label: Video Resolution
+      hint: Resolution (e.g., 1080p, 4K, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: video_format
+      label: Video Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: fps
+      label: FPS
+      hint: Frames per second
+      type: number
+      options: []
+      required: false

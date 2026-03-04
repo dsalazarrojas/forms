@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_recruitment_checklist_form
+    pages:
+    - id: 1
+      name: volunteer_checklist
+      label: Volunteer Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: essential_tasks
+      label: Essential Tasks
+      hint: Please select all essential tasks for volunteers.
+      type: select_one
+      options:
+      - task_1
+      - task_2
+      - task_3
+      required: true
+    - id: 3
+      name: qualification_requirements
+      label: Qualifications
+      hint: null
+      type: select_one
+      options:
+      - req_1
+      - req_2
+      required: true
+    - id: 4
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_requirements
+      label: Volunteer Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,468 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Boarding Facility Accreditation Application
+    pages:
+    - id: 1
+      name: form_1
+      label: form_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: facility_name
+      label: facility_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_address
+      label: facility_address_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_phone
+      label: facility_phone_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_email
+      label: facility_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: facility_website
+      label: facility_website_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_license
+      label: facility_license_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: facility_license_number
+      label: facility_license_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_license_expiration
+      label: facility_license_expiration_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: facility_insurance
+      label: facility_insurance_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: facility_insurance_provider
+      label: facility_insurance_provider_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_insurance_number
+      label: facility_insurance_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_insurance_provider_phone
+      label: facility_insurance_provider_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_insurance_provider_email
+      label: facility_insurance_provider_email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: facility_insurance_provider_address
+      label: facility_insurance_provider_address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_insurance_provider_license
+      label: facility_insurance_provider_license_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_insurance_provider_license_number
+      label: facility_insurance_provider_license_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_insurance_provider_license_expiration
+      label: facility_insurance_provider_license_expiration_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: facility_insurance_provider_tax_id
+      label: facility_insurance_provider_tax_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_insurance_provider_national_id
+      label: facility_insurance_provider_national_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_insurance_provider_licence_number
+      label: facility_insurance_provider_licence_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_insurance_provider_address_line1
+      label: facility_insurance_provider_address_line1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_insurance_provider_address_line2
+      label: facility_insurance_provider_address_line2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_insurance_provider_city
+      label: facility_insurance_provider_city_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_insurance_provider_state
+      label: facility_insurance_provider_state_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: facility_insurance_provider_postcode
+      label: facility_insurance_provider_postcode_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: facility_insurance_provider_country
+      label: facility_insurance_provider_country_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: facility_insurance_provider_email_1
+      label: facility_insurance_provider_email_1_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 29
+      name: facility_insurance_provider_phone_1
+      label: facility_insurance_provider_phone_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: facility_insurance_provider_fax
+      label: facility_insurance_provider_fax_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: facility_insurance_provider_license_provider
+      label: facility_insurance_provider_license_provider_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: facility_insurance_provider_licences
+      label: facility_insurance_provider_licences_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: facility_insurance_provider_license
+      label: facility_insurance_provider_license_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: facility_insurance_provider_license_type
+      label: facility_insurance_provider_license_type_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: facility_insurance_provider_license_number
+      label: facility_insurance_provider_license_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: facility_insurance_provider_insurer
+      label: facility_insurance_provider_insurer_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: facility_insurance_provider_address_line1
+      label: facility_insurance_provider_address_line1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: facility_insurance_provider_address_line2
+      label: facility_insurance_provider_address_line2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: facility_insurance_provider_city
+      label: facility_insurance_provider_city_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: facility_insurance_provider_state
+      label: facility_insurance_provider_state_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: facility_insurance_provider_postcode
+      label: facility_insurance_provider_postcode_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: facility_insurance_provider_country
+      label: facility_insurance_provider_country_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: facility_insurance_provider_insurance
+      label: facility_insurance_provider_insurance_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: facility_insurance_provider_licence
+      label: facility_insurance_provider_licence_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: facility_insurance_provider_licencedate
+      label: facility_insurance_provider_licencedate_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 46
+      name: facility_insurance_provider_tax_number
+      label: facility_insurance_provider_tax_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: facility_insurance_provider_national_id_number
+      label: facility_insurance_provider_national_id_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: facility_insurance_provider_taxpayer_id
+      label: facility_insurance_provider_taxpayer_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: facility_insurance_provider_taxes
+      label: facility_insurance_provider_taxes_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: facility_insurance_provider_taxpayer
+      label: facility_insurance_provider_taxpayer_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: facility_insurance_provider_employer
+      label: facility_insurance_provider_employer_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: facility_insurance_provider_employment_date
+      label: facility_insurance_provider_employment_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 53
+      name: facility_insurance_provider_license_type_number
+      label: facility_insurance_provider_license_type_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: facility_insurance_provider_taxpayer_identification
+      label: facility_insurance_provider_taxpayer_identification_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: facility_insurance_provider_national_id_provider
+      label: facility_insurance_provider_national_id_provider_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: facility_insurance_provider_tax_identification
+      label: facility_insurance_provider_tax_identification_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: facility_insurance_provider_tax_payer_id
+      label: facility_insurance_provider_tax_payer_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: facility_insurance_provider_license_provider_type
+      label: facility_insurance_provider_license_provider_type_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: facility_insurance_provider_insurer_id
+      label: facility_insurance_provider_insurer_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 60
+      name: facility_insurance_provider_licenced
+      label: facility_insurance_provider_licenced_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 61
+      name: facility_insurance_provider_licenced_provider
+      label: facility_insurance_provider_licenced_provider_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 62
+      name: facility_insurance_provider_licensee
+      label: facility_insurance_provider_licensee_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: facility_insurance_provider_licensee_number
+      label: facility_insurance_provider_licensee_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 64
+      name: facility_insurance_provider_insurer_id
+      label: facility_insurance_provider_insurer_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 65
+      name: facility_insurance_provider_taxes_number
+      label: facility_insurance_provider_taxes_number_label
+      hint: null
+      type: text
+      options: []
+      required: false

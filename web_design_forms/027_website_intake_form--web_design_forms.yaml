@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Intake Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: development_platform
+      label: Development Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''E-commerce''}'
+      - '{''id'': 2, ''name'': ''Blog''}'
+      - '{''id'': 3, ''name'': ''Brochure''}'
+      - '{''id'': 4, ''name'': ''Portfolio''}'
+      required: true
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: chat_with_dev
+      label: Chat with Development Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Chat with Development Team''}'
+      - '{''id'': 2, ''name'': ''Chat with Development Team 2''}'
+      - '{''id'': 3, ''name'': ''Chat with Development Team 3''}'
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatjimmy2''}'
+      required: false
+    - id: 15
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 18
+      name: tags_2
+      label: Tags 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 19
+      name: tags_3
+      label: Tags 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 20
+      name: tags_4
+      label: Tags 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 21
+      name: tags_5
+      label: Tags 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 22
+      name: tags_6
+      label: Tags 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 23
+      name: tags_7
+      label: Tags 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 24
+      name: tags_8
+      label: Tags 8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 25
+      name: tags_9
+      label: Tags 9
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 26
+      name: tags_10
+      label: Tags 10
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false

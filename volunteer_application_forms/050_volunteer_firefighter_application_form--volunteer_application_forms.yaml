@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Firefighter Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment
+      label: Employment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: firefighter_details
+      label: Firefighter Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''selected'': True}'
+      - '{''id'': 2, ''label'': ''Non-Active'', ''selected'': False}'
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_info
+      label: Emergency Info
+      hint: null
+      type: text
+      options: []
+      required: false

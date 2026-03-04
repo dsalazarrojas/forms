@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Statement Verification Form
+    pages:
+    - id: 1
+      name: financial_institution
+      label: financial institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investor_name
+      label: investor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investment_amount
+      label: investment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: statement_date
+      label: statement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: investor_statement
+      label: investor statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: verification_result
+      label: verification result
+      hint: null
+      type: select_one
+      options:
+      - verified
+      - not verified
+      - pending
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

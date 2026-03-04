@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Data Analytics Workshop Registration
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry_sector
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Hotels and resorts
+      - Short-term rentals
+      - Tourism and travel
+      - Property management
+      - Government or public sector
+      - Academic or research
+      - Other
+      required: true
+    - id: 8
+      name: section_workshop_details
+      label: -- Workshop Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_preference
+      label: Preferred Workshop Session
+      hint: null
+      type: select_one
+      options:
+      - Session A - Introduction to Accommodation Analytics
+      - Session B - Advanced Revenue Management Data
+      - Session C - Guest Behavior Analytics
+      - Session D - Predictive Modeling for Hospitality
+      required: true
+    - id: 10
+      name: analytics_experience
+      label: Experience Level with Data Analytics
+      hint: null
+      type: select_one
+      options:
+      - Beginner - No prior experience
+      - Intermediate - Some experience with data tools
+      - Advanced - Regular use of analytics platforms
+      - Expert - Professional data analyst
+      required: true
+    - id: 11
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Occupancy rate analysis
+      - Revenue per available room (RevPAR)
+      - Guest satisfaction metrics
+      - Booking channel performance
+      - Seasonal demand forecasting
+      - Competitor benchmarking
+      required: true
+    - id: 12
+      name: software_familiarity
+      label: Software Tools You Currently Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excel or Google Sheets
+      - Tableau
+      - Power BI
+      - Python or R
+      - PMS reporting tools
+      - None
+      required: false
+    - id: 13
+      name: section_logistics
+      label: -- Logistics and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: null
+      type: select_one
+      options:
+      - No special requirements
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Do You Have Any Accessibility Needs
+      hint: Please describe any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About This Workshop
+      hint: null
+      type: select_one
+      options:
+      - Email invitation
+      - Company intranet
+      - Social media
+      - Industry association
+      - Colleague referral
+      - Other
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

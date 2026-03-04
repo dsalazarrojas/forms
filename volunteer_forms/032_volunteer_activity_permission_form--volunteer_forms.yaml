@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Activity Permission Form
+    pages:
+    - id: 1
+      name: volunteer_activity_permission_form
+      label: Volunteer Activity Permission Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: volunteer_dob
+      label: Volunteer DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: activity_name
+      label: Activity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: activity_time
+      label: Activity Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: activity_location
+      label: Activity Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relation
+      label: Relation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_form_type
+      label: Volunteer Form Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: volunteer_form_version
+      label: Volunteer Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: volunteer_form_status
+      label: Volunteer Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

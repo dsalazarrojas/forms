@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Safety Workshop Booking Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: workshop_name
+      label: Workshop Name
+      hint: Select the workshop you want to attend
+      type: select_one
+      options:
+      - Basic Safety Orientation
+      - Advanced Fall Protection
+      - Scaffolding Safety Specialist
+      - Excavation and Trenching Safety
+      - Electrical Safety for Construction
+      - Crane and Rigging Safety
+      - Confined Space Entry
+      - OSHA 10-Hour Construction
+      - OSHA 30-Hour Construction
+      - Safety Manager Certification
+      required: true
+    - id: 3
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice if first is full
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_email
+      label: Email Address
+      hint: For confirmation and materials
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Employer or organization
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_experience
+      label: Years in Construction
+      hint: How long have you worked in construction
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 to 15 years
+      - More than 15 years
+      required: false
+    - id: 12
+      name: previous_training
+      label: Previous Safety Training
+      hint: Have you had similar training
+      type: select_one
+      options:
+      - Yes, Within 1 Year
+      - Yes, 1 to 3 Years Ago
+      - Yes, More Than 3 Years Ago
+      - No, First Time
+      required: true
+    - id: 13
+      name: certification_needed
+      label: Certification Needed
+      hint: Do you need certification upon completion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: If meals are provided
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Nut Allergy
+      - Other
+      required: false
+    - id: 16
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: Total registering from your company
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: additional_attendees
+      label: Additional Attendee Names
+      hint: List other participants
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Company Check
+      - Wire Transfer
+      - Invoice (Net 30)
+      - Purchase Order
+      required: true
+    - id: 19
+      name: registration_fee
+      label: Registration Fee
+      hint: Cost per attendee
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: total_amount
+      label: Total Amount
+      hint: Total registration cost
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: early_bird_discount
+      label: Early Bird Discount
+      hint: Applied if registering before deadline
+      type: select_one
+      options:
+      - Yes, Applied
+      - false
+      required: false
+    - id: 22
+      name: group_discount
+      label: Group Discount
+      hint: Applied for multiple attendees
+      type: select_one
+      options:
+      - Yes, Applied
+      - false
+      required: false
+    - id: 23
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: Do you agree to cancellation terms
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About This Workshop
+      hint: Source of information
+      type: select_one
+      options:
+      - Company Notification
+      - Website
+      - Social Media
+      - Email Newsletter
+      - Coworker Referral
+      - Industry Association
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: registrant_signature
+      label: Registrant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

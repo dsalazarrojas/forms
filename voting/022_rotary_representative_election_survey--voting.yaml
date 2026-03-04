@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rotary Representative Election Survey
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: voting_form
+      label: Voting Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: candidate_list
+      label: Candidate List
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Candidate 1''}'
+      - '{''id'': 2, ''name'': ''Candidate 2''}'
+      - '{''id'': 3, ''name'': ''Candidate 3''}'
+      required: true
+    - id: 4
+      name: candidate_info
+      label: Candidate Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominator_info
+      label: Nominator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominator_name
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominator_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Status Card Application Form
+    pages:
+    - id: 1
+      name: application_info
+      label: application_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Date of Birth
+      - Email
+      - Phone
+      required: true
+    - id: 3
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: select_multiple
+      options:
+      - Passport
+      - ID Card
+      - Birth Certificate
+      required: true
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_one
+      options:
+      - Address
+      - Phone
+      - Email
+      required: true
+    - id: 7
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - In progress
+      - Complete
+      required: true
+    - id: 8
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 11
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: submitted_status
+      label: submitted_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Rejected
+      required: true
+    - id: 14
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In progress
+      required: true
+    - id: 15
+      name: submitted_comments
+      label: submitted_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_info
+      label: reviewer_info
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 18
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 19
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_status
+      label: reviewer_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      required: false
+    - id: 21
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_notes
+      label: submitted_by_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_notes
+      label: reviewer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_status
+      label: submitted_by_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      required: false
+    - id: 25
+      name: submitted_by_comments
+      label: submitted_by_comments
+      hint: null
+      type: text
+      options: []
+      required: false

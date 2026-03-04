@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Request Form
+    pages:
+    - id: 1
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - logo
+      - banner
+      - brand
+      - social_media
+      - event_poster
+      - promotional_material
+      - illustration
+      - other
+      required: false
+    - id: 6
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Primary
+      - Secondary
+      - Accent
+      - Background
+      - Custom
+      required: true
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resolution
+      label: Resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_one
+      options:
+      - PNG
+      - JPEG
+      - GIF
+      - SVG
+      - PDF
+      required: true
+    - id: 10
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: asset_files
+      label: Asset Files
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_designer
+      label: Assigned Designer
+      hint: null
+      type: text
+      options: []
+      required: false

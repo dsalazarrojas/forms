@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Skills Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: select_one
+      label: What type of interview skills workshop are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Workshop 1
+      - Workshop 2
+      required: true
+    - id: 9
+      name: select_multiple
+      label: What type of skills do you want to improve?
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

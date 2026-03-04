@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Resource Coordinator Application Form
+    pages:
+    - id: 1
+      name: volunteer_application_intro
+      label: -- Volunteer Application --
+      hint: We are looking for dedicated individuals to help coordinate community
+        resources.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email_address
+      label: Applicant Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone_number
+      label: Applicant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: residency_status_check
+      label: Are you a current resident of the community?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: volunteer_availability_selection
+      label: Weekly Volunteer Availability
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Weekdays Morning
+      - Weekdays Afternoon
+      - Weekdays Evening
+      - Weekends Morning
+      - Weekends Afternoon
+      - Weekends Evening
+      required: true
+    - id: 7
+      name: volunteer_commitment_level
+      label: Desired Commitment Level
+      hint: Hours per week.
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - More than 20 hours
+      required: true
+    - id: 8
+      name: coordinator_skills_selection
+      label: Coordination Skills and Experience
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Event Planning
+      - Social Media Management
+      - Fundraising
+      - Resource Allocation
+      - Volunteer Management
+      - Data Entry
+      - First Aid
+      required: true
+    - id: 9
+      name: coordination_experience_desc
+      label: Tell us about your coordination experience
+      hint: Describe any past roles or projects.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: motivation_for_applying
+      label: Why do you want to be a Community Resource Coordinator?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: community_needs_perception
+      label: What do you see as the greatest need in our community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: professional_references_list
+      label: Professional or Personal References
+      hint: Please list name and contact info for 2-3 references.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: criminal_background_check_consent
+      label: I consent to a criminal background check.
+      hint: Required for coordination roles.
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 14
+      name: volunteer_signature
+      label: Applicant Signature
+      hint: Type your full name to sign.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: application_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: application_footer
+      label: -- Thank You for Your Interest --
+      hint: We will review your application and contact you soon.
+      type: note
+      options: []
+      required: false

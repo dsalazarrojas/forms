@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Rescue Logistics Network Registration
+    pages:
+    - id: 1
+      name: volunteer_name_full
+      label: Volunteer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: geographic_coverage
+      label: Region or County Covered
+      hint: Areas you are willing to drive to
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_type_selection
+      label: Vehicle Type
+      hint: Used for transport planning
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Pickup Truck
+      - Cargo Van
+      - Other
+      required: true
+    - id: 6
+      name: transport_capacity_desc
+      label: Transport Capacity
+      hint: What size crates fit in your vehicle?
+      type: select_one
+      options:
+      - Small Crate Only
+      - Medium Crate
+      - Large Crate
+      - Multiple Crates - SUV/Van Capacity
+      required: true
+    - id: 7
+      name: support_types_offered
+      label: Support Types Offered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ground Transport - Local
+      - Ground Transport - Long Distance
+      - Flight Courier - In-cabin
+      - Short-term Overnight Foster - Layover
+      - Logistics Coordination and Mapping
+      required: true
+    - id: 8
+      name: weekly_availability_desc
+      label: Weekly Availability
+      hint: e.g. Weekends only, Weekdays after 5pm
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_willingness
+      label: Willingness to Travel Distance
+      hint: Maximum distance for a single trip
+      type: select_one
+      options:
+      - Up to 50 miles
+      - Up to 100 miles
+      - Statewide Coverage
+      - Multi-state Coverage
+      required: true
+    - id: 10
+      name: difficulty_level_exp
+      label: Experience with Difficult or High-Anxiety Animals
+      hint: null
+      type: select_one
+      options:
+      - Beginner - Friendly animals only
+      - Intermediate - Some experience with fearful pets
+      - Advanced - Experienced with aggressive or feral animals
+      required: true
+    - id: 11
+      name: drivers_license_confirmed
+      label: Copy of Drivers License Provided?
+      hint: Required for all transport volunteers
+      type: select_one
+      options:
+      - Yes - Provided
+      - No - Will provide soon
+      required: true

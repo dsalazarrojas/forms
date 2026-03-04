@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Nomination Form
+    pages:
+    - id: 1
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_department
+      label: Teacher Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nomination_message
+      label: Nomination Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 8
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_institution
+      label: Submitter Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submit_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: tool_id
+      label: Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tool_description
+      label: Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_url
+      label: Tool URL
+      hint: null
+      type: text
+      options: []
+      required: false

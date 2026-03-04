@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPV Liability Waiver
+    pages:
+    - id: 1
+      name: form_number
+      label: Form Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ppv_fee
+      label: PPV Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ppv_fee_unit
+      label: PPV Fee Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: ppv_notes
+      label: PPV Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: ppv_agreement
+      label: PPV Agreement
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unity Event Registration
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: attendee_session_interests
+      label: session interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: accessibility_needs
+      label: accessibility needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: role_options
+      label: role options
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''participant'', ''label'': ''participant''}'
+      - '{''name'': ''organizer'', ''label'': ''organizer''}'
+      - '{''name'': ''volunteer'', ''label'': ''volunteer''}'
+      required: false
+    - id: 7
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_type_options
+      label: event type options
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''conference'', ''label'': ''conference''}'
+      - '{''name'': ''meetup'', ''label'': ''meetup''}'
+      - '{''name'': ''workshop'', ''label'': ''workshop''}'
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email
+      label: confirm email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: confirm_email_options
+      label: confirm email options
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True, ''label'': True}'
+      - '{''name'': False, ''label'': False}'
+      required: false
+    - id: 14
+      name: confirm_name
+      label: confirm name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: confirm_name_options
+      label: confirm name options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_email
+      label: confirm name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: confirm_email_options
+      label: confirm email options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_role
+      label: confirm role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: confirm_role_options
+      label: confirm role options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_event_type
+      label: confirm event type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: confirm_event_type_options
+      label: confirm event type options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_date
+      label: confirm date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: confirm_date_options
+      label: confirm date options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_time
+      label: confirm time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: confirm_time_options
+      label: confirm time options
+      hint: null
+      type: text
+      options: []
+      required: false

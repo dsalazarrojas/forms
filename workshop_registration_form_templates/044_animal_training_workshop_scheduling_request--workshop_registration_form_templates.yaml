@@ -1,0 +1,332 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Workshop Scheduling Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Workshop location address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_type
+      label: Type of Workshop Requested
+      hint: null
+      type: select_one
+      options:
+      - Basic Obedience Training
+      - Advanced Training Techniques
+      - Puppy Training Basics
+      - Behavior Modification
+      - Aggression Management
+      - Service Dog Training
+      - Therapy Animal Preparation
+      - Trick Training
+      - Canine Sports
+      - Cat Training
+      - Bird Training
+      - Horse Training
+      - Train the Trainer
+      - Other
+      required: true
+    - id: 10
+      name: workshop_format
+      label: Workshop Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person Group Workshop
+      - In-Person Private Session
+      - Virtual Workshop
+      - Hybrid Format
+      required: true
+    - id: 11
+      name: preferred_dates
+      label: Preferred Workshop Dates
+      hint: Select up to 3 options
+      type: select_multiple
+      options:
+      - Weekend Morning
+      - Weekend Afternoon
+      - Weekday Evening
+      - Weekday Morning
+      - Weekday Afternoon
+      - Flexible
+      required: true
+    - id: 12
+      name: date_range_start
+      label: Earliest Acceptable Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: date_range_end
+      label: Latest Acceptable Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: workshop_duration
+      label: Preferred Workshop Duration
+      hint: null
+      type: select_one
+      options:
+      - 2 Hours
+      - Half Day - 4 Hours
+      - Full Day - 8 Hours
+      - Multi-Day Workshop
+      - Weekly Series
+      required: true
+    - id: 15
+      name: number_of_participants
+      label: Expected Number of Participants
+      hint: Including animals
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: participant_experience
+      label: Participant Experience Level
+      hint: null
+      type: select_one
+      options:
+      - All Beginners
+      - Mixed Levels
+      - All Intermediate
+      - All Advanced
+      - Professionals Only
+      required: true
+    - id: 17
+      name: species_focus
+      label: Species Focus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Horses
+      - Birds
+      - Rabbits
+      - Multiple Species
+      - Other
+      required: true
+    - id: 18
+      name: specific_topics
+      label: Specific Topics to Cover
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Basic Commands
+      - Leash Training
+      - House Training
+      - Socialization
+      - Problem Behaviors
+      - Advanced Tricks
+      - Competition Prep
+      - Handler Skills
+      - Animal Psychology
+      - Training Equipment
+      - Other
+      required: true
+    - id: 19
+      name: topics_details
+      label: Please Specify Topics
+      hint: If other selected
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: venue_provided
+      label: Will You Provide the Venue
+      hint: null
+      type: select_one
+      options:
+      - Yes - We Have Venue
+      - No - Need Venue Assistance
+      - Undecided
+      required: true
+    - id: 21
+      name: venue_requirements
+      label: Venue Requirements
+      hint: Space needs and facilities
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Training Cones
+      - Agility Equipment
+      - Clickers
+      - Treats
+      - Training Leads
+      - Mats or Flooring
+      - Audio Visual Equipment
+      - Projector and Screen
+      - None - We Have Equipment
+      - Other
+      required: false
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: For workshop
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1001-$2500
+      - $2501-$5000
+      - Over $5000
+      - Need Quote
+      required: false
+    - id: 24
+      name: funding_source
+      label: Funding Source
+      hint: null
+      type: select_one
+      options:
+      - Self-Funded
+      - Organization Budget
+      - Grant Funded
+      - Sponsorship
+      - Participant Fees
+      - Other
+      required: false
+    - id: 25
+      name: marketing_support
+      label: Do You Need Marketing Support
+      hint: Help promoting the workshop
+      type: select_one
+      options:
+      - Yes - Full Support Needed
+      - Yes - Materials Only
+      - No - We Will Handle
+      required: true
+    - id: 26
+      name: certification_provided
+      label: Should Certificates Be Provided
+      hint: For participants
+      type: select_one
+      options:
+      - Yes - Certificates of Completion
+      - Yes - CEU Credits Needed
+      - No Certificates Needed
+      required: false
+    - id: 27
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Previous Workshop
+      - Search Engine
+      - Advertisement
+      - Other
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Share any other details
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: urgency
+      label: How Soon Do You Need This Workshop
+      hint: null
+      type: select_one
+      options:
+      - Urgent - Within 2 Weeks
+      - Soon - Within 1 Month
+      - Flexible - 1-3 Months
+      - Planning Ahead - 3+ Months
+      required: true
+    - id: 31
+      name: terms_acceptance
+      label: I Accept the Workshop Booking Terms
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 32
+      name: requester_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: vet_appointment_form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: veterinarian_specialization
+      label: Veterinarian Specialization
+      hint: null
+      type: select_one
+      options:
+      - General Practice
+      - Surgery
+      - Dentistry
+      - Cardiology
+      required: false
+    - id: 11
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Fish
+      - Reptile
+      - Other
+      required: false
+    - id: 12
+      name: owner_contact_method
+      label: Owner Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false

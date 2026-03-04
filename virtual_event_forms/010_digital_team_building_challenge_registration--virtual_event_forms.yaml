@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Team Building Challenge Registration
+    pages:
+    - id: 1
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: challenge_type
+      label: Challenge Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_challenge_type
+      label: Preferred Challenge Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_goal
+      label: Team Goal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: false

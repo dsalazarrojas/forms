@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: filming_interview_permission_form
+    pages:
+    - id: 1
+      name: subject_info
+      label: subject_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: filming_details
+      label: filming_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: filming_location
+      hint: null
+      type: select_multiple
+      options:
+      - Alley
+      - Beach
+      - City
+      - Forest
+      - Mountain
+      - Park
+      required: true
+    - id: 4
+      name: contact_info
+      label: subject_contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: release
+      label: release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planning Payment Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - E-Check
+      - PayPal
+      required: false
+    - id: 2
+      name: amount
+      label: Amount
+      hint: Enter the total amount to be paid.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

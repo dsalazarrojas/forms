@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Record Authentication Request Form
+    pages:
+    - id: 1
+      name: financial_record_authentication_request_form
+      label: financial record authentication request form
+      hint: null
+      type: select_multiple
+      options:
+      - account_number
+      - account_holder
+      required: false
+    - id: 2
+      name: account_number
+      label: account number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_holder
+      label: account holder
+      hint: null
+      type: select_one
+      options:
+      - individual
+      - business
+      required: false
+    - id: 4
+      name: individual_business
+      label: individual or business
+      hint: null
+      type: select_one
+      options:
+      - individual
+      - business
+      required: false
+    - id: 5
+      name: financial_institution
+      label: financial institution
+      hint: null
+      type: select_one
+      options:
+      - bank
+      - brokerage
+      - other
+      required: false
+    - id: 6
+      name: branch_location
+      label: branch location
+      hint: null
+      type: select_one
+      options:
+      - branch
+      - branch office
+      - branch office location
+      required: false
+    - id: 7
+      name: account_type
+      label: account type
+      hint: null
+      type: select_one
+      options:
+      - checking
+      - savings
+      - investment
+      - other
+      required: false
+    - id: 8
+      name: transaction_type
+      label: transaction type
+      hint: null
+      type: select_one
+      options:
+      - deposit
+      - withdrawal
+      - transfer
+      - other
+      required: false
+    - id: 9
+      name: date_of_transaction
+      label: date of transaction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_transaction
+      label: time of transaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: amount_of_transaction
+      label: amount of transaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: transaction_details
+      label: transaction details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: authentication_method
+      label: authentication method
+      hint: null
+      type: select_one
+      options:
+      - document
+      - phone call
+      - video call
+      - in-person
+      required: false
+    - id: 14
+      name: authentication_details
+      label: authentication details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_information
+      label: additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: false

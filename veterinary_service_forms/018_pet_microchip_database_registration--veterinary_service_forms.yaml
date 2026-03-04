@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Microchip Database Registration
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: microchip_id
+      label: Microchip ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: microchip_type
+      label: Microchip Type
+      hint: null
+      type: select_one
+      options:
+      - Microchip type 1
+      - Microchip type 2
+      - Microchip type 3
+      required: false
+    - id: 4
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: pet_details
+      label: Pet Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: clinic_info
+      label: Clinic Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Protection Volunteer Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_interests
+      label: Volunteer Interests
+      hint: List multiple volunteer interests separated by commas
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: volunteer_commitment
+      label: Volunteer Commitment
+      hint: Number of hours per week
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: nonprofit_affiliation
+      label: Nonprofit Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_group
+      label: School Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_nonprofit
+      label: Other Nonprofit
+      hint: null
+      type: text
+      options: []
+      required: false

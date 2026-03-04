@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Mentor Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or Institution
+        hint: Name of your school, company, or organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: mentor_name
+        label: Nominated Mentor Full Name
+        hint: Enter the full name of the mentor you are nominating
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: mentor_title
+        label: Mentor Title or Position
+        hint: What is their current role or position
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: mentor_organization
+        label: Mentor Organization
+        hint: Where does this mentor work or volunteer
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: mentorship_category
+        label: Mentorship Category
+        hint: What type of mentorship do they provide
+        type: select_one
+        options:
+          - Academic Mentor
+          - Career Mentor
+          - Business Mentor
+          - Life Coach
+          - Youth Mentor
+          - Peer Mentor
+          - Research Mentor
+          - Arts Mentor
+          - Sports Mentor
+          - Other
+        required: true
+      - id: 8
+        name: mentorship_duration
+        label: Duration of Mentorship
+        hint: How long have they been mentoring
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+        required: true
+      - id: 9
+        name: relationship_duration
+        label: Your Relationship Duration
+        hint: How long have you been mentored by this person
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - 2 to 5 years
+          - Over 5 years
+        required: true
+      - id: 10
+        name: guidance_rating
+        label: Quality of Guidance Rating
+        hint: How would you rate their guidance and advice
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: availability_rating
+        label: Availability Rating
+        hint: How available is this mentor when you need them
+        type: select_one
+        options:
+          - Always Available
+          - Very Available
+          - Mostly Available
+          - Somewhat Available
+          - Rarely Available
+        required: true
+      - id: 12
+        name: knowledge_rating
+        label: Knowledge and Expertise Rating
+        hint: Rate their level of knowledge in their field
+        type: select_one
+        options:
+          - Expert
+          - Very Knowledgeable
+          - Knowledgeable
+          - Somewhat Knowledgeable
+          - Lacks Knowledge
+        required: true
+      - id: 13
+        name: inspiration_rating
+        label: Inspiration and Motivation Rating
+        hint: How well do they inspire and motivate you
+        type: select_one
+        options:
+          - Extremely Inspiring
+          - Very Inspiring
+          - Inspiring
+          - Somewhat Inspiring
+          - Not Inspiring
+        required: true
+      - id: 14
+        name: impact_description
+        label: Describe Their Impact on Your Life
+        hint: How has this mentor helped you grow or succeed
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: standout_qualities
+        label: Standout Qualities
+        hint: What makes this mentor exceptional
+        type: select_multiple
+        options:
+          - Excellent Listener
+          - Provides Clear Guidance
+          - Shares Valuable Experience
+          - Encourages Growth
+          - Builds Confidence
+          - Offers Honest Feedback
+          - Leads by Example
+          - Patient and Understanding
+          - Connects You with Opportunities
+          - Genuinely Cares
+        required: true
+      - id: 16
+        name: success_story
+        label: Share a Success Story
+        hint: Describe a specific instance where their mentorship made a difference
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: would_recommend
+        label: Would You Recommend This Mentor
+        hint: Would you recommend this mentor to others seeking guidance
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other reasons why this mentor deserves recognition
+        type: text
+        options: []
+        required: false

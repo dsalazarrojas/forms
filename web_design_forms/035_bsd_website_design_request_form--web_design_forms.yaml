@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: BSD Website Design Request Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry
+      label: Industry or Business Type
+      hint: What does your company do?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Full street address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_project_scope
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_type
+      label: Project Type
+      hint: What type of website do you need?
+      type: select_one
+      options:
+      - New Website
+      - Website Redesign
+      - Landing Page
+      - E-commerce Site
+      - Blog or Content Site
+      - Portfolio
+      - Other
+      required: true
+    - id: 10
+      name: website_purpose
+      label: Primary Purpose of Website
+      hint: What is the main goal?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Who will visit your site?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: required_features
+      label: Required Features and Functionality
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contact Form
+      - E-commerce
+      - Blog
+      - Photo Gallery
+      - Video Integration
+      - Newsletter Signup
+      - Member Login
+      - Search Functionality
+      - Mobile Responsive
+      - Social Media Integration
+      - SEO Optimization
+      required: false
+    - id: 13
+      name: section_design_preferences
+      label: -- Design Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: design_style
+      label: Preferred Design Style
+      hint: Modern, minimalist, creative, corporate, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: color_preferences
+      label: Color Preferences
+      hint: Preferred colors or brand colors
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reference_sites
+      label: Reference Websites
+      hint: Sites you like or admire
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: logo_provided
+      label: Do You Have a Logo?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide later
+      required: false
+    - id: 18
+      name: section_timeline_budget
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: project_timeline
+      label: Desired Project Timeline
+      hint: When do you need it completed?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget in dollars
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: content_ready
+      label: Will You Provide Content?
+      hint: Text, images, etc.
+      type: select_one
+      options:
+      - Yes, we have it ready
+      - Partially ready
+      - No, we need help
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Additional Notes
+      hint: Any unique requirements?
+      type: text
+      options: []
+      required: false

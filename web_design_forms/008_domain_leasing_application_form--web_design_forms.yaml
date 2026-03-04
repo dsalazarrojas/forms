@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domain Leasing Application Form
+    pages:
+    - id: 1
+      name: domain_name
+      label: Domain Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lessee_name
+      label: Lessee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lessee_contact_info
+      label: Lessee Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: monthly_fee
+      label: Monthly Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: domains_available
+      label: Domains Available
+      hint: null
+      type: select_multiple
+      options:
+      - domain1
+      - domain2
+      - domain3
+      required: false
+    - id: 8
+      name: liability_clause
+      label: Liability Clause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website_maintenance
+      label: Website Maintenance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

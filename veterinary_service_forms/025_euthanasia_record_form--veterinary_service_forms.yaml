@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Euthanasia Record Form
+    pages:
+    - id: 1
+      name: animal_name
+      label: animal_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_euthanasia
+      label: reason_for_euthanasia
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: euthanasia_date
+      label: euthanasia_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: euthanasia_time
+      label: euthanasia_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: veterinary_clinician_name
+      label: veterinary_clinician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: owner_contact_number
+      label: owner_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signature_time
+      label: signature_date
+      hint: null
+      type: time
+      options: []
+      required: true

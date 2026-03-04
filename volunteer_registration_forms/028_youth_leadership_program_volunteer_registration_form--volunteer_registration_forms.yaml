@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Leadership Program Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_interests
+      label: Volunteer Interests
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Community Service''}'
+      - '{''value'': ''Arts''}'
+      - '{''value'': ''Athletics''}'
+      - '{''value'': ''Environmental''}'
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: confirm_availability
+      label: Confirm Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_committee_interests
+      label: Volunteer Committee Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Arts''}'
+      - '{''value'': ''Athletics''}'
+      - '{''value'': ''Community Service''}'
+      - '{''value'': ''Environmental''}'
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Leadership''}'
+      - '{''value'': ''Teamwork''}'
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Time Management''}'
+      - '{''value'': ''Organization''}'
+      required: false
+    - id: 10
+      name: volunteer_leadership_role
+      label: Volunteer Leadership Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Team Leader''}'
+      - '{''value'': ''Team Member''}'
+      - '{''value'': ''Committee Chair''}'
+      - '{''value'': ''Committee Member''}'
+      - '{''value'': ''Officer''}'
+      required: false
+    - id: 11
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

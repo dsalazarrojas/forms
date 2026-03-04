@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinarian Offboarding Form
+    pages:
+    - id: 1
+      name: pet_medical_history
+      label: Pet Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_procedure_list
+      label: Medical Procedure List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reason_for_offboarding
+      label: Reason for Offboarding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_clinic_info
+      label: Veterinary Clinic Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: time
+      options: []
+      required: false

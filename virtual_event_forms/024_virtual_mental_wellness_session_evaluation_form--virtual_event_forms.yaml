@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Mental Wellness Session Evaluation Form
+    pages:
+    - id: 1
+      name: virtual_mental_wellness_session
+      label: Virtual Mental Wellness Session Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very good''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Bad''}'
+      - '{''value'': ''Terrible''}'
+      required: true
+    - id: 3
+      name: mental_wellness
+      label: Mental Wellness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mental_wellness_level
+      label: Mental Wellness Level
+      hint: Scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mental_wellness_comments
+      label: Mental Wellness Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: followup_session
+      label: Followup Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: followup_session_date
+      label: Followup Session Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

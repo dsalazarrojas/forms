@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breed Verification Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Dog Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Owner Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dog_name
+      label: Dog's Name
+      hint: Full name of the dog
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dog_gender
+      label: Dog's Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 7
+      name: dog_microchip_id
+      label: Microchip ID Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dog_date_of_birth
+      label: Dog's Date of Birth
+      hint: Birth date or approximate age
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: dog_age
+      label: Dog's Approximate Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: breed_claimed
+      label: Primary Breed Claimed
+      hint: Breed you believe your dog is
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: secondary_breeds
+      label: Other Breeds or Mixed Breeding
+      hint: If mixed breed, list other breeds
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coat_color
+      label: Coat Color and Markings
+      hint: Describe the dog's color and markings
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: coat_type
+      label: Coat Type
+      hint: Type of coat
+      type: select_one
+      options:
+      - Short hair
+      - Long hair
+      - Curly
+      - Wire-haired
+      - Smooth
+      - Double-coated
+      - Other
+      required: true
+    - id: 14
+      name: dog_size
+      label: Dog Size
+      hint: Size category
+      type: select_one
+      options:
+      - Toy - Under 10 lbs
+      - Small - 10-25 lbs
+      - Medium - 25-50 lbs
+      - Large - 50-90 lbs
+      - Extra Large - Over 90 lbs
+      required: true
+    - id: 15
+      name: dog_weight
+      label: Dog's Current Weight
+      hint: Weight in pounds or kilograms
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: distinctive_features
+      label: Distinctive Features or Marks
+      hint: Scars, birth marks, unique features
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registration_history
+      label: Previous Registration or Pedigree
+      hint: Any existing breed registration
+      type: select_one
+      options:
+      - Yes - American Kennel Club
+      - Yes - United Kennel Club
+      - Yes - Other registry
+      - No previous registration
+      - Unknown
+      required: false
+    - id: 18
+      name: registration_number
+      label: Registration Number if Available
+      hint: If previously registered
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: breeding_history
+      label: Breeding or Parentage Information
+      hint: If known, describe parents or breeding history
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reason_for_verification
+      label: Reason for Breed Verification
+      hint: Why do you need verification
+      type: select_one
+      options:
+      - Registration purposes
+      - Insurance verification
+      - Housing requirements
+      - Breeding purposes
+      - Identification
+      - Other
+      required: true
+    - id: 21
+      name: behavioral_temperament
+      label: Dog's Behavioral Temperament
+      hint: Describe the dog's personality
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: health_information
+      label: Relevant Health Information
+      hint: Any breed-specific health concerns
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: veterinarian_name
+      label: Current or Previous Veterinarian Name
+      hint: Vet who can verify information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: veterinarian_contact
+      label: Veterinarian Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false

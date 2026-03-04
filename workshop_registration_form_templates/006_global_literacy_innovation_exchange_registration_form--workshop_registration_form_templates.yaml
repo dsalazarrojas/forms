@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Literacy Innovation Exchange Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pacific''}'
+      - '{''id'': 2, ''label'': ''Central''}'
+      - '{''id'': 3, ''label'': ''Eastern''}'
+      required: false
+    - id: 7
+      name: participant_country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''United States''}'
+      - '{''id'': 2, ''label'': ''Canada''}'
+      - '{''id'': 3, ''label'': ''Mexico''}'
+      required: true
+    - id: 8
+      name: registration_method
+      label: Registration Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''On-Site''}'
+      - '{''id'': 3, ''label'': ''Phone''}'
+      required: false
+    - id: 9
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''label'': ''Cash''}'
+      - '{''id'': 3, ''label'': ''Credit/Debit Card''}'
+      required: true
+    - id: 13
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: participant_agreement_terms
+      label: Participant Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: participant_agreement_date
+      label: Participant Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: participant_agreement_sign
+      label: Participant Agreement Sign
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: participant_agreement_signed_by
+      label: Participant Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: participant_agreement_signed_at
+      label: Participant Agreement Signed At
+      hint: null
+      type: date
+      options: []
+      required: true

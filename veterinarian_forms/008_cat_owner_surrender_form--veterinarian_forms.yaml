@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cat Owner Surrender Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Full Name
+      hint: Legal name of the owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: surrender_date
+      label: Surrender Date
+      hint: Date of surrender
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cat_name
+      label: Cat Name
+      hint: Name of your cat
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cat_breed
+      label: Cat Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cat_color
+      label: Cat Color
+      hint: Color and markings
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cat_age
+      label: Cat Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: cat_gender
+      label: Cat Gender
+      hint: Male or Female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 11
+      name: cat_weight
+      label: Cat Weight
+      hint: Current weight in pounds or kg
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: microchip_number
+      label: Microchip Number
+      hint: If your cat is microchipped
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: spayed_neutered
+      label: Spayed or Neutered
+      hint: Has your cat been altered
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: vaccination_records
+      label: Vaccination Records Available
+      hint: Do you have vaccination records
+      type: select_one
+      options:
+      - Yes - Complete Records
+      - Partial Records
+      - No Records
+      - Unknown
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any health issues or medications
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: behavioral_issues
+      label: Behavioral Issues
+      hint: Any behavior concerns
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: litter_trained
+      label: Litter Trained
+      hint: Is your cat litter trained
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: true
+    - id: 18
+      name: good_with_children
+      label: Good with Children
+      hint: Is your cat good with kids
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 19
+      name: good_with_pets
+      label: Good with Other Pets
+      hint: Is your cat good with other animals
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 20
+      name: surrender_reason
+      label: Reason for Surrender
+      hint: Why are you surrendering your cat
+      type: select_one
+      options:
+      - Moving
+      - Financial Hardship
+      - Allergies
+      - Behavior Issues
+      - No Time
+      - New Baby
+      - Death in Family
+      - Other
+      required: true
+    - id: 21
+      name: surrender_reason_details
+      label: Surrender Reason Details
+      hint: Please explain your situation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: willing_to_pay_fee
+      label: Willing to Pay Surrender Fee
+      hint: Some shelters require a fee
+      type: select_one
+      options:
+      - true
+      - false
+      - Unable
+      required: false
+    - id: 23
+      name: prefer_new_home
+      label: Would You Prefer to Find New Home Yourself
+      hint: Or surrender to shelter care
+      type: select_one
+      options:
+      - Yes - Find New Home
+      - No - Surrender to Shelter
+      - Open to Either
+      required: true
+    - id: 24
+      name: ownership_proof
+      label: Can You Prove Ownership
+      hint: Vet records - adoption papers - etc
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: owner_signature_date
+      label: Signature Date
+      hint: Date of owner signature
+      type: date
+      options: []
+      required: true

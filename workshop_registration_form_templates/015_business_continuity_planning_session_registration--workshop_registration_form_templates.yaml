@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Planning Session Registration
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_session_date
+      label: Preferred Session Date
+      hint: Which date works best?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: session_time
+      label: Preferred Session Time
+      hint: Morning or afternoon?
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (1pm-4pm)
+      - Evening (5pm-7pm)
+      - Full Day
+      required: true
+    - id: 12
+      name: session_duration
+      label: Expected Session Duration
+      hint: How long will you attend?
+      type: select_one
+      options:
+      - Half Day
+      - Full Day
+      - Multi-Day Workshop
+      - Ongoing Sessions
+      required: true
+    - id: 13
+      name: delivery_format
+      label: Preferred Delivery Format
+      hint: How would you prefer?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 14
+      name: session_objectives
+      label: -- Session Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: planning_goals
+      label: Planning Goals
+      hint: What do you want to achieve?
+      type: select_multiple
+      options:
+      - Develop Continuity Strategy
+      - Identify Critical Functions
+      - Create Recovery Plans
+      - Establish Team Roles
+      - Build Communication Plan
+      - Improve Resilience
+      required: true
+    - id: 16
+      name: main_challenge
+      label: Primary Continuity Challenge
+      hint: Your main concern
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: key_stakeholders
+      label: Key Stakeholders to Involve
+      hint: Who should be included?
+      type: select_multiple
+      options:
+      - Executive Leadership
+      - Department Heads
+      - IT Department
+      - HR Department
+      - Operations Team
+      - Risk Management
+      required: true
+    - id: 18
+      name: current_status
+      label: Current Continuity Planning Status
+      hint: Where are you now?
+      type: select_one
+      options:
+      - No Plan in Place
+      - Plan Under Development
+      - Plan Exists but Needs Update
+      - Plan Under Review
+      - Advanced Planning
+      required: true
+    - id: 19
+      name: logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Accessibility, dietary needs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_participants
+      label: Expected Number of Participants
+      hint: How many from your team?
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: pre_session_materials
+      label: Need Pre-Session Materials
+      hint: Would you like advance materials?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 23
+      name: additional_information
+      label: Additional Information or Questions
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

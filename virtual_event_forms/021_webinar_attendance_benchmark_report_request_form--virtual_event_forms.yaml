@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: webinar_attendance_benchmark_report_request_form
+    pages:
+    - id: 1
+      name: webinar_performance_details
+      label: Webinar Performance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: webinar_request_benchmark_report
+      label: Webinar Request Benchmark Report
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes'', ''value'': ''yes''}'
+      - '{''label'': ''No'', ''value'': ''no''}'
+      required: false
+    - id: 3
+      name: webinar_date
+      label: Webinar Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: webinar_start_time
+      label: Webinar Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: webinar_topic
+      label: Webinar Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attendee_feedback
+      label: Attendee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: marketing_channel
+      label: Marketing Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Social Media'', ''value'': ''social_media''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Influencer'', ''value'': ''influencer''}'
+      required: false
+    - id: 9
+      name: education_channel
+      label: Education Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Website'', ''value'': ''website''}'
+      - '{''label'': ''Blog'', ''value'': ''blog''}'
+      - '{''label'': ''Influencer'', ''value'': ''influencer''}'
+      required: false
+    - id: 10
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Awareness'', ''value'': ''awareness''}'
+      - '{''label'': ''Engagement'', ''value'': ''engagement''}'
+      - '{''label'': ''Conversion'', ''value'': ''conversion''}'
+      required: false
+    - id: 11
+      name: event_format
+      label: Event Format
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Live'', ''value'': ''live''}'
+      - '{''label'': ''Pre-recorded'', ''value'': ''pre-recorded''}'
+      - '{''label'': ''Hybrid'', ''value'': ''hybrid''}'
+      required: false
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''General public'', ''value'': ''general_public''}'
+      - '{''label'': ''Specific Industry'', ''value'': ''specific_industry''}'
+      - '{''label'': ''Targeted audience'', ''value'': ''targeted_audience''}'
+      required: false
+    - id: 13
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_format_detail
+      label: Event Format Detail
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Webinar'', ''value'': ''webinar''}'
+      - '{''label'': ''Video'', ''value'': ''video''}'
+      - '{''label'': ''Presentation'', ''value'': ''presentation''}'
+      required: false
+    - id: 16
+      name: event_language
+      label: Event Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English'', ''value'': ''english''}'
+      - '{''label'': ''Spanish'', ''value'': ''spanish''}'
+      - '{''label'': ''Chinese'', ''value'': ''chinese''}'
+      required: false
+    - id: 17
+      name: target_location
+      label: Target Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online'', ''value'': ''online''}'
+      - '{''label'': ''Offline'', ''value'': ''offline''}'
+      - '{''label'': ''Hybrid'', ''value'': ''hybrid''}'
+      required: false
+    - id: 19
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Upcoming'', ''value'': ''upcoming''}'
+      - '{''label'': ''Past'', ''value'': ''past''}'
+      - '{''label'': ''Future'', ''value'': ''future''}'
+      required: false
+    - id: 20
+      name: event_status_detail
+      label: Event Status Detail
+      hint: null
+      type: text
+      options: []
+      required: false

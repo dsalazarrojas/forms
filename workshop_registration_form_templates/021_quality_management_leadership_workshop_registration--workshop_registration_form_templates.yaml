@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Management Leadership Workshop Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - ประก
+      - อื่น
+      - อื่นๆ
+      required: false
+    - id: 9
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: select_one
+      options:
+      - ผู้ใช้
+      - ผู้ใช้ 1
+      - ผู้ใช้ 2
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

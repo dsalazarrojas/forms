@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: KYC Verification Form For Payment Processing
+    pages:
+    - id: 1
+      name: merchant_name
+      label: merchant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: merchant_address
+      label: merchant_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: merchant_phone
+      label: merchant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: merchant_email
+      label: merchant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: doc_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - Merchant ID
+      - Business License
+      - Proof of Address
+      - Proof of Income
+      - Bank Statement
+      - Utility Bill
+      - Passport
+      - ID Card
+      - Other
+      required: true
+    - id: 6
+      name: doc_file
+      label: document_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Veterinary Partnership Application Form
+    pages:
+    - id: 1
+      name: clinic_details
+      label: Clinic Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Vet Care
+      - Medical Services
+      - Surgical Services
+      - Dental Services
+      - Other Services
+      required: true
+    - id: 3
+      name: collaboration_preferences
+      label: Collaboration Preferences
+      hint: Check the boxes that apply
+      type: select_multiple
+      options:
+      - Regular Check-ins
+      - Regular Meetings
+      - Email Updates
+      - Phone Updates
+      required: true
+    - id: 4
+      name: collaboration_preferences_2
+      label: Additional Collaboration Preferences
+      hint: Please provide additional information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: clinic_email
+      label: Clinic Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: clinic_phone
+      label: Clinic Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: veterinary_clinics
+      label: Veterinary Clinics
+      hint: null
+      type: select_multiple
+      options:
+      - Shelter 1
+      - Shelter 2
+      - Shelter 3
+      required: true
+    - id: 8
+      name: veterinary_services
+      label: Veterinary Services
+      hint: null
+      type: select_multiple
+      options:
+      - Cat Services
+      - Dog Services
+      - Other Services
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: collaboration_preferences_3
+      label: Collaboration Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Check-ins
+      - Regular Meetings
+      - Email Updates
+      - Phone Updates
+      required: true
+    - id: 12
+      name: review_notes_2
+      label: Additional Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 14
+      name: clinic_address
+      label: Clinic Address
+      hint: Your clinic address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: clinic_address_2
+      label: Clinic Postal Code
+      hint: Your clinic postal code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: clinic_address_3
+      label: Clinic Province
+      hint: Your clinic province
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: clinic_address_4
+      label: Clinic Country
+      hint: Your clinic country
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: clinic_address_5
+      label: Clinic Region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: clinic_address_6
+      label: Clinic City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: clinic_address_7
+      label: Clinic Street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: clinic_address_8
+      label: Clinic Postal Code 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: clinic_address_9
+      label: Clinic Postal Code 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: clinic_address_10
+      label: Clinic Province 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: clinic_address_11
+      label: Clinic Province 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: review_comments_2
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

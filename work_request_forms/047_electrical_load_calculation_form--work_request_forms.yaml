@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Load Calculation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: calculated_value
+      label: Calculated Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: device_operating_hours
+      label: Device Operating Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: power_requirement
+      label: Power Requirement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: electrical_system
+      label: Electrical System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: calculated_power_requirement
+      label: Calculated Power Requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: calculated_energy_requirement
+      label: Calculated Energy Requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_energy_consumption
+      label: Total Energy Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: electrical_load
+      label: Electrical Load
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: device_rating
+      label: Device Rating
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '200'
+      - '300'
+      - '400'
+      - '500'
+      required: true
+    - id: 12
+      name: power_factor
+      label: Power Factor
+      hint: null
+      type: select_one
+      options:
+      - '0.5'
+      - '0.7'
+      - '0.9'
+      - '1.0'
+      required: true
+    - id: 13
+      name: phase
+      label: Phase
+      hint: null
+      type: select_one
+      options:
+      - 3 Phase
+      - 1 Phase
+      required: true
+    - id: 14
+      name: electrical_load_rating
+      label: Electrical Load Rating
+      hint: null
+      type: select_one
+      options:
+      - '100'
+      - '200'
+      - '300'
+      - '400'
+      required: false
+    - id: 15
+      name: device_rating_value
+      label: Device Rating Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: device_rating_unit
+      label: Device Rating Unit
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: power_factor_value
+      label: Power Factor Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: phase_value
+      label: Phase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: calculated_energy_requirement_kwh
+      label: Calculated Energy Requirement (kWh)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: calculated_power_requirement_kw
+      label: Calculated Power Requirement (kW)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: calculated_total_energy_requirement_kwh
+      label: Calculated Total Energy Requirement (kWh)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: calculated_total_power_requirement_kw
+      label: Calculated Total Power Requirement (kW)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: calculated_peak_demand_kva
+      label: Calculated Peak Demand (kVA)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: calculated_peak_demand_kw
+      label: Calculated Peak Demand (kW)
+      hint: null
+      type: number
+      options: []
+      required: false

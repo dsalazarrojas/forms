@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Identification Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of applicant
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: passport_id
+      label: Passport ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: country_of_birth
+      label: Country of Birth
+      hint: null
+      type: select_one
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - Andorra
+      - '...'
+      required: false

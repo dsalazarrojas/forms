@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Flowers Intake Form
+    pages:
+    - id: 1
+      name: wedding_theme
+      label: Wedding Theme
+      hint: null
+      type: select_one
+      options:
+      - Rustic
+      - Garden
+      - Vintage
+      - Romantic
+      - Whimsical
+      - Beach
+      - Glam
+      - Winter Wonderland
+      required: false
+    - id: 2
+      name: wedding_style
+      label: Wedding Style
+      hint: null
+      type: select_multiple
+      options:
+      - Formal
+      - Informal
+      - Vintage
+      - Beachy
+      - Rustic
+      - Garden
+      required: false
+    - id: 3
+      name: wedding_vision
+      label: Wedding Vision
+      hint: Try to be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_budget
+      label: Client Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: wedding_time
+      label: Wedding Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: wedding_location
+      label: Wedding Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: wedding_guests
+      label: Number of Guests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: wedding_color_scheme
+      label: Wedding Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - Neutral
+      - Bright
+      - Bold
+      - Pastel
+      - Metallic
+      required: false
+    - id: 10
+      name: wedding_decorations
+      label: Wedding Decorations
+      hint: null
+      type: select_multiple
+      options:
+      - Flowers
+      - Candles
+      - Lights
+      - Music
+      - Food
+      required: false
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: Enter Client name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: Enter Client Email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: client_phone
+      label: Client Phone
+      hint: Enter Client Phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Add any additional notes about client
+      type: text
+      options: []
+      required: false

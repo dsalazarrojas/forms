@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Day Questionnaire Template
+    pages:
+    - id: 1
+      name: wedding_day_questionnaire_template
+      label: Wedding Day Questionnaire Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_day_details
+      label: Wedding Day Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: wedding_party_info
+      label: Wedding Party Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''bride''}'
+      - '{''value'': ''groom''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: wedding_party_count
+      label: Wedding Party Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wedding_party_type
+      label: Wedding Party Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''bride''}'
+      - '{''value'': ''groom''}'
+      - '{''value'': ''family''}'
+      - '{''value'': ''friends''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: wedding_party_attendees
+      label: Wedding Party Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: wedding_party_special_services
+      label: Wedding Party Special Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: wedding_services
+      label: Wedding Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''flowers''}'
+      - '{''value'': ''music''}'
+      - '{''value'': ''transportation''}'
+      - '{''value'': ''photography''}'
+      required: false
+    - id: 9
+      name: ceremony_details
+      label: Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reception_details
+      label: Reception Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wedding_day_schedule
+      label: Wedding Day Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: wedding_day_notes
+      label: Wedding Day Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: photographer_notes
+      label: Photographer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wedding_party_special_services_details
+      label: Wedding Party Special Services Details
+      hint: null
+      type: text
+      options: []
+      required: false

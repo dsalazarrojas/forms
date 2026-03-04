@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Medication Tracker Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dosing_start_date
+      label: Dosing Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: dosing_end_date
+      label: Dosing End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: dosing_frequency
+      label: Dosing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every Other Day
+      - Every 2 days
+      - Weekly
+      - Every 2 weeks
+      required: false
+    - id: 7
+      name: medication_route
+      label: Medication Route
+      hint: null
+      type: select_multiple
+      options:
+      - Oral
+      - Injectable
+      - Inhalant
+      - Transdermal
+      - Topical
+      - Ophthalmic
+      - Otic
+      - Intraocular
+      - Intransal
+      required: false
+    - id: 8
+      name: medication_schedule
+      label: Medication Schedule
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      - Before Meals
+      - After Meals
+      - As Needed
+      required: false
+    - id: 9
+      name: medication_instructions
+      label: Medication Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dosage_strength
+      label: Dosage Strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dosage_frequency
+      label: Dosage Frequency
+      hint: null
+      type: select_one
+      options:
+      - As Needed
+      - Once per Day
+      - Two times per Day
+      - Three times per Day
+      - Four times per Day
+      - Five times per Day
+      - Every Other Day
+      required: false
+    - id: 12
+      name: dosing_interval
+      label: Dosing Interval
+      hint: null
+      type: select_one
+      options:
+      - As Needed
+      - Before Meals
+      - After Meals
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      - 6 hours
+      - 8 hours
+      - 12 hours
+      - 24 hours
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: owner_contact_info
+      label: Owner Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: veterinarian_contact_info
+      label: Veterinarian Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

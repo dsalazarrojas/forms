@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Flower Consultation Form
+    pages:
+    - id: 1
+      name: wedding_flower_consultation_form
+      label: wedding_flower_consultation_form_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: wedding_flower_type
+      label: wedding_flower_type_label
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Roses''}'
+      - '{''options'': ''Lilies''}'
+      - '{''options'': ''Orchids''}'
+      required: false
+    - id: 3
+      name: flower_focal_point
+      label: flower_focal_point_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Bouquets''}'
+      - '{''options'': ''Centerpieces''}'
+      - '{''options'': ''Corsages''}'
+      required: false
+    - id: 4
+      name: flower_color
+      label: flower_color_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Red''}'
+      - '{''options'': ''Pink''}'
+      - '{''options'': ''White''}'
+      required: false
+    - id: 5
+      name: wedding_dress_color
+      label: wedding_dress_color_label
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''White''}'
+      - '{''options'': ''Beige''}'
+      - '{''options'': ''Pastel''}'
+      required: false
+    - id: 6
+      name: wedding_theme
+      label: wedding_theme_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Rustic''}'
+      - '{''options'': ''Traditional''}'
+      - '{''options'': ''Modern''}'
+      required: false
+    - id: 7
+      name: wedding_flower_budget
+      label: wedding_flower_budget_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wedding_flower_budget_other
+      label: wedding_flower_budget_other
+      hint: null
+      type: note
+      options: []
+      required: false

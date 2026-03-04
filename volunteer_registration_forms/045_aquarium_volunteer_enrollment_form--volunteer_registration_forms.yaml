@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aquarium Volunteer Enrollment Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_preferences
+      label: Volunteer Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_role
+      label: Preferred Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - Guest Services
+      - Education Programs
+      - Animal Care
+      - Facility Maintenance
+      - Administrative Support
+      - Event Assistance
+      required: true
+    - id: 9
+      name: experience
+      label: Relevant Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Weekdays
+      - Weekends
+      - Both
+      - Flexible
+      required: true
+    - id: 11
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: motivation
+      label: Why Do You Want to Volunteer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: skills
+      label: Special Skills or Talents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: background_check
+      label: Consent to Background Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

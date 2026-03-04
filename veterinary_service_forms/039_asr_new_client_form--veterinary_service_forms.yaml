@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: ASR New Client Form
+    pages:
+    - id: 1
+      name: welcome_note
+      label: Welcome to All Souls Retreat Veterinary Services
+      hint: Please provide accurate information to help us serve you and your pets
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_alternate_phone
+      label: Alternate Phone Number
+      hint: Enter an alternate contact number if available
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Email Address
+      hint: Enter your active email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: client_address
+      label: Street Address
+      hint: Enter your complete residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_state
+      label: State
+      hint: Enter your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_zip_code
+      label: ZIP Code
+      hint: Enter your postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of someone we can contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: Describe your relationship to this person
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter the phone number for your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: how_did_you_hear_about_us
+      label: How did you hear about All Souls Retreat
+      hint: Select how you learned about our services
+      type: select_one
+      options:
+      - Friend/Family
+      - Online search
+      - Social media
+      - Veterinarian referral
+      - Pet store
+      - Advertisement
+      - Other
+      required: false
+    - id: 15
+      name: pet_name
+      label: Pet's Name
+      hint: Enter your pet's name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pet_species
+      label: Species
+      hint: Select your pet's species
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Reptile
+      - Small mammal
+      - Other
+      required: true
+    - id: 17
+      name: pet_breed
+      label: Breed
+      hint: Enter your pet's breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pet_sex
+      label: Sex
+      hint: Select your pet's sex
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 19
+      name: pet_age
+      label: Age
+      hint: Enter your pet's age in years
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: pet_weight
+      label: Weight
+      hint: Enter your pet's weight in pounds or kilograms
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: pet_spayed_neutered
+      label: Is your pet spayed or neutered
+      hint: Select the appropriate option
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 22
+      name: vaccination_status
+      label: Are vaccinations up to date
+      hint: Select if your pet's vaccinations are current
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 23
+      name: previous_veterinary_clinic
+      label: Previous Veterinary Clinic
+      hint: If transferring from another clinic, please provide the name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Briefly describe why you're bringing your pet to us
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_to_treatment
+      label: I authorize All Souls Retreat to provide necessary veterinary treatment
+      hint: Please acknowledge that you understand and consent to treatment
+      type: select_one
+      options:
+      - true
+      - I consent
+      - false
+      - I do not consent
+      required: true

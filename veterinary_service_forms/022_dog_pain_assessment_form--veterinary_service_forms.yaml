@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Pain Assessment Form
+    pages:
+    - id: 1
+      name: pain_level
+      label: pain_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: pain_area
+      label: pain_area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: pain_duration
+      label: pain_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pain_intensity
+      label: pain_intensity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pain_characteristics
+      label: pain_characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pain_type
+      label: pain_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pain_description
+      label: pain_description
+      hint: null
+      type: text
+      options: []
+      required: false

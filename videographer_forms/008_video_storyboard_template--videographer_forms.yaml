@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: videoStoryboardTemplate
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: projectName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: video_title
+      label: videoTitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: story_board_type
+      label: storyBoardType
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''name'': 2, ''label'': ''Type 2''}'
+      required: true
+    - id: 5
+      name: start_date
+      label: startDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: endDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assignedTool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''tool2'', ''label'': ''tool2''}'
+      required: false
+    - id: 8
+      name: output_file
+      label: outputFile
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Impact Project Registration
+    pages:
+    - id: 1
+      name: project_overview
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: Project title
+      hint: Short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_contact
+      label: Lead contact name
+      hint: Primary person responsible
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For project coordination
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_needs
+      label: Volunteer needs description
+      hint: Roles and estimated numbers
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Proposed start date
+      hint: When activities will begin
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: duration_months
+      label: Estimated duration in months
+      hint: Estimated project timeline
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resources_needed
+      label: Resources needed
+      hint: Materials, funding, or space
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: target_population
+      label: Target population served
+      hint: Age groups or demographic focus
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement
+      label: Agree to terms and follow guidelines
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true

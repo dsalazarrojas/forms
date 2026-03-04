@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Meeting Recording Consent Form
+    pages:
+    - id: 1
+      name: virtual_meeting_recording_consent_form
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recording_consent
+      label: Recording Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree to be recorded'', ''value'': ''agree''}'
+      - '{''label'': ''I disagree to be recorded'', ''value'': ''disagree''}'
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_type
+      label: participant type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Speaker'', ''value'': ''speaker''}'
+      - '{''label'': ''Panelist'', ''value'': ''panelist''}'
+      - '{''label'': ''Audience'', ''value'': ''audience''}'
+      required: true
+    - id: 8
+      name: meeting_details
+      label: meeting details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: meeting_id
+      label: meeting id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: meeting_title
+      label: meeting title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meeting_location
+      label: meeting location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_date
+      label: meeting date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: meeting_time
+      label: meeting time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: meeting_start
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: meeting_end
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: timezone
+      label: timezone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: language
+      label: language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: meeting_topic
+      label: meeting topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: meeting_description
+      label: meeting description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meeting_agenda
+      label: meeting agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: meeting_recording_method
+      label: recording method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: meeting_location_url
+      label: meeting location url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: meeting_video_url
+      label: meeting video url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: meeting_audio_url
+      label: meeting audio url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: meeting_presentation
+      label: meeting presentation
+      hint: null
+      type: text
+      options: []
+      required: false

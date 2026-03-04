@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Fridge Volunteer Application Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: When can you volunteer?
+      type: select_multiple
+      options:
+      - Monday Morning
+      - Monday Afternoon
+      - Monday Evening
+      - Tuesday Morning
+      - Tuesday Afternoon
+      - Tuesday Evening
+      - Wednesday Morning
+      - Wednesday Afternoon
+      - Wednesday Evening
+      - Thursday Morning
+      - Thursday Afternoon
+      - Thursday Evening
+      - Friday Morning
+      - Friday Afternoon
+      - Friday Evening
+      - Saturday Morning
+      - Saturday Afternoon
+      - Sunday Morning
+      - Sunday Afternoon
+      required: true
+    - id: 9
+      name: volunteer_role
+      label: Preferred Volunteer Role
+      hint: How would you like to help?
+      type: select_one
+      options:
+      - Food Sorting
+      - Fridge Restocking
+      - Food Collection
+      - Community Outreach
+      - Social Media
+      - General Maintenance
+      - Any Role
+      required: true
+    - id: 10
+      name: previous_experience
+      label: Previous Volunteer Experience
+      hint: Describe any relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: motivation
+      label: Why Do You Want to Volunteer
+      hint: Your motivation for volunteering
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: skills
+      label: Skills You Can Offer
+      hint: What skills can you contribute?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: Can you get to the fridge location?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: lifting_ability
+      label: Can You Lift Up to 25 Pounds
+      hint: Physical requirement for some tasks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: food_handling_certification
+      label: Do You Have Food Handling Certification
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes, Current
+      - Expired
+      - false
+      - Willing to Obtain
+      required: false
+    - id: 16
+      name: background_check
+      label: Willing to Complete Background Check
+      hint: Required for all volunteers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Community Organization
+      - Flyer or Poster
+      - Other
+      required: false
+    - id: 20
+      name: agreement
+      label: Volunteer Agreement
+      hint: I agree to follow volunteer guidelines
+      type: select_one
+      options:
+      - Yes, I Agree
+      - Other
+      required: true

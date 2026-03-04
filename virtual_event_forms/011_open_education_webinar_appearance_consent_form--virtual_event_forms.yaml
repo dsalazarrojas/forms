@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_education_webinar_appearance_consent_form
+    pages:
+    - id: 1
+      name: webinar_details
+      label: Webinar Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_record_audio
+      label: Consent To Record Audio
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 7
+      name: consent_to_share_audio_with_other_organizations
+      label: Consent To Share Audio With Other Organizations
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false

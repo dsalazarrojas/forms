@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Wellbeing Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: what_is_wellness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physical_health
+      label: how_do_you_rate_your_physical_health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mental_health
+      label: how_do_you_rate_your_mental_health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: emotional_health
+      label: how_do_you_rate_your_emotional_health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sleep
+      label: average_sleep_hours_last_night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: exercise
+      label: on_average_hours_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nutrition
+      label: how_much_do_you_spends_on_fast_food_last_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: social_connections
+      label: how_many_social_connections_do_you_have_per_week
+      hint: null
+      type: select_multiple
+      options:
+      - Friends
+      - Family
+      - Colleagues
+      - Online communities
+      - Other
+      required: false
+    - id: 9
+      name: work
+      label: work_life_balance
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Somewhat good
+      - Neutral
+      - Somewhat bad
+      - Very bad
+      required: false
+    - id: 10
+      name: stress
+      label: how_stressful_is_your_life
+      hint: null
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: false
+    - id: 11
+      name: goals
+      label: what_is_your_top_goal
+      hint: null
+      type: select_multiple
+      options:
+      - Improve physical health
+      - Improve mental health
+      - Improve relationships
+      - Improve productivity
+      - Other
+      required: false
+    - id: 12
+      name: sleep_goal
+      label: what_is_your_sleep_goal
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 5 hours
+      - 5-7 hours
+      - 8-10 hours
+      - More than 10 hours
+      required: false
+    - id: 13
+      name: exercise_goal
+      label: what_is_your_exercise_goal
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Less than 1 hour per week
+      - 1-2 hours per week
+      - More than 2 hours per week
+      required: false
+    - id: 14
+      name: nutrition_goal
+      label: what_is_your_nutrition_goal
+      hint: null
+      type: select_multiple
+      options:
+      - Eat less junk food
+      - Eat more fruits
+      - Eat more vegetables
+      - Eat more lean proteins
+      - Eat more whole grains
+      required: false
+    - id: 15
+      name: relationships_goal
+      label: what_is_your_relationships_goal
+      hint: null
+      type: select_multiple
+      options:
+      - Improve family connections
+      - Improve friendships
+      - Improve professional network
+      - Improve online communities
+      - Other
+      required: false
+    - id: 16
+      name: productivity_goal
+      label: what_is_your_productivity_goal
+      hint: null
+      type: select_multiple
+      options:
+      - Improve focus
+      - Improve time management
+      - Improve work-life balance
+      - Other
+      required: false
+    - id: 17
+      name: stress_goal
+      label: what_is_your_stress_goal
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Reduce stress
+      - Manage stress
+      - Eliminate stress
+      required: false
+    - id: 18
+      name: follow_up
+      label: would_you_like_to_receive_follow_up_reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_frequency
+      label: how_often_do_you_want_to_receive_follow_up_reminders
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Twice a month
+      - Once a month
+      - Every 2 months
+      - Every 3 months
+      required: false
+    - id: 23
+      name: follow_up_method
+      label: how_do_you_want_to_receive_follow_up_reminders
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Other
+      required: false
+    - id: 24
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

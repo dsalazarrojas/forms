@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: specialist_info
+      label: Specialist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: specialist_clinics
+      label: Specialist Clinics
+      hint: null
+      type: select_multiple
+      options:
+      - Clinic 1
+      - Clinic 2
+      - Clinic 3
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: specialist_note
+      label: Specialist Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_note
+      label: Patient Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: specialist_clinic
+      label: Specialist Clinic
+      hint: null
+      type: select_one
+      options:
+      - Clinic 1
+      - Clinic 2
+      - Clinic 3
+      required: false

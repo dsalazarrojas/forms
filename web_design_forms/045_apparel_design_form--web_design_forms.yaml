@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Design Form
+    pages:
+    - id: 1
+      name: section_project_overview
+      label: -- Project Overview --
+      hint: Provide design brief and specifications for apparel printing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Contact for design approval
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For proofs and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: apparel_type
+      label: Apparel type
+      hint: Select the kind of apparel to design
+      type: select_one
+      options:
+        - T shirt
+        - Hoodie
+        - Jacket
+        - Cap
+      required: true
+    - id: 5
+      name: sizes_and_quantities
+      label: Sizes and quantities required
+      hint: Provide size breakdown and counts
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: color_palette
+      label: Color palette or pantone codes
+      hint: Preferred colors for printing
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artwork_files
+      label: Artwork file references
+      hint: Provide links or filenames for logos and artwork
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: print_method
+      label: Preferred print method
+      hint: Screen printing digital or embroidery
+      type: select_one
+      options:
+        - Screen printing
+        - Direct to garment
+        - Embroidery
+        - Heat transfer
+      required: true
+    - id: 9
+      name: additional_instructions
+      label: Additional instructions for production
+      hint: Any special handling or notes
+      type: text
+      options: []
+      required: false

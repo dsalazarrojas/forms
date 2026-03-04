@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Classroom Research Collaboration Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: First name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Email address of the participant
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Mobile number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_title
+      label: Research title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: collaborators
+      label: Collaborators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Principal Investigator
+      - Co-Principal Investigator
+      - Research Assistant
+      - Other
+      required: true
+    - id: 9
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: departmental_affiliation
+      label: Departmental affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: research_area
+      label: Research area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: research_description
+      label: Research description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

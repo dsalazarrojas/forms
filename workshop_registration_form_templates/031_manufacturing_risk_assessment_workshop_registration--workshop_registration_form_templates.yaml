@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Risk Assessment Workshop Registration
+    pages:
+    - id: 1
+      name: session_choices
+      label: Session choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: workshop_sessions
+      label: Workshop sessions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: course_materials
+      label: Course materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment
+      label: Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_choice_details
+      label: Session choice details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: workshop_location
+      label: Workshop location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_time
+      label: Workshop time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: workshop_duration
+      label: Workshop duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: true

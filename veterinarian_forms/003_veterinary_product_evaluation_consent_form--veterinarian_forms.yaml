@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Product Evaluation Consent Form
+    pages:
+    - id: 1
+      name: pet_owner_details
+      label: pet_owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: owner_consent
+      label: owner_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_start_date
+      label: evaluation_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_end_date
+      label: evaluation_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: product_notes
+      label: product_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Giveaway Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Email
+      hint: example@gmail.com
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Phone Call''}'
+      - '{''option2'': ''Email''}'
+      - '{''option3'': ''In Person''}'
+      required: false
+    - id: 5
+      name: registrant_gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Female''}'
+      - '{''option2'': ''Male''}'
+      - '{''option3'': ''Non-binary''}'
+      required: true
+    - id: 6
+      name: registrant_event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: registrant_event_time
+      label: Event Time
+      hint: 24 hour clock
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: registrant_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: registrant_interest
+      label: Interest
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 10
+      name: registrant_referral
+      label: Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: registrant_volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false

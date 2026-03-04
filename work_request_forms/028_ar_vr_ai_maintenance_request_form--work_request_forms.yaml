@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AR/VR/AI Maintenance Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Requestor Email
+      hint: Your email for communication about this request
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_department
+      label: Requestor Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: What type of equipment needs maintenance?
+      type: select_one
+      options: ["AR Device", "VR Headset", "AI Hardware", "Server/Infrastructure", "Other"]
+      required: true
+    - id: 5
+      name: equipment_model
+      label: Equipment Model
+      hint: Model or specification of the equipment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: Serial number of the equipment
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: Where is the equipment located?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: Describe the problem with the equipment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issue_severity
+      label: Issue Severity
+      hint: How severe is the issue?
+      type: select_one
+      options: ["Critical", "High", "Medium", "Low"]
+      required: true
+    - id: 10
+      name: impact_on_operations
+      label: Impact on Operations
+      hint: How is this issue affecting operations?
+      type: select_one
+      options: ["Complete Shutdown", "Significant Impact", "Minor Impact", "Not Currently Impacting"]
+      required: true
+    - id: 11
+      name: issue_started_date
+      label: Issue Started Date
+      hint: When did the issue first occur?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: attempted_fixes
+      label: Attempted Fixes
+      hint: What attempts have been made to fix the issue?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: error_messages
+      label: Error Messages
+      hint: Any error messages or codes displayed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly does this need to be addressed?
+      type: select_one
+      options: ["Immediate (within 2 hours)", "Same day", "Within 24 hours", "Within 1 week", "Standard queue"]
+      required: true
+    - id: 15
+      name: preferred_resolution_date
+      label: Preferred Resolution Date
+      hint: When would you like to see the issue resolved?
+      type: date
+      options: []
+      required: false

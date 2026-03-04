@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_instructor_estimate_form
+    pages:
+    - id: 1
+      name: pricing
+      label: pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: yoga_services
+      label: yoga_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_rendered
+      label: services_rendered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services_description
+      label: services_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pricing_frequency
+      label: pricing_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pricing_duration
+      label: pricing_duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pricing_frequency_other
+      label: pricing_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false

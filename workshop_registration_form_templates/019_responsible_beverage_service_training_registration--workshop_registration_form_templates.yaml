@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsible Beverage Service Training Registration
+    pages:
+    - id: 1
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: training_date
+      label: training date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_details
+      label: participant details
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Order Form
+    pages:
+    - id: 1
+      name: form_title
+      label: website design order form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: estimated_turnaround
+      label: estimated turnaround time
+      hint: Days
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: project_theme
+      label: theme
+      hint: null
+      type: select_multiple
+      options:
+      - modern
+      - minimalist
+      - ecommerce
+      required: true
+    - id: 5
+      name: design_layout
+      label: design layout
+      hint: null
+      type: select_one
+      options:
+      - layout1
+      - layout2
+      - layout3
+      required: true
+    - id: 6
+      name: color_scheme
+      label: color scheme
+      hint: null
+      type: select_one
+      options:
+      - scheme1
+      - scheme2
+      - scheme3
+      required: false
+    - id: 7
+      name: font_style
+      label: font style
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: project description
+      hint: Describe the project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: additional_info
+      label: additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broodmare Reproductive Procedure Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner name
+      hint: Name of mare owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_contact
+      label: Owner contact phone
+      hint: Phone number for owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mare_name
+      label: Mare name
+      hint: Registered name of the mare
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mare_age
+      label: Mare age
+      hint: Age in years
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: procedure_type
+      label: Procedure type
+      hint: Type of reproductive procedure requested
+      type: select_one
+      options:
+      - Artificial insemination
+      - Embryo transfer
+      - Caslick procedure
+      - Other
+      required: true
+    - id: 6
+      name: veterinary_notes
+      label: Veterinary notes
+      hint: Pre procedure notes and instructions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_given
+      label: Consent given
+      hint: Owner authorization for procedure
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: follow_up_instructions
+      label: Follow up instructions
+      hint: Post procedure care notes
+      type: text
+      options: []
+      required: false

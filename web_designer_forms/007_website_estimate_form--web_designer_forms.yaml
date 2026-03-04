@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Estimate Form
+    pages:
+    - id: 1
+      name: website_estimate_form
+      label: Website Estimate Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: website_category
+      label: website_category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''e-commerce''}'
+      - '{''value'': ''blog''}'
+      - '{''value'': ''portfolio''}'
+      required: false
+    - id: 3
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: website_name
+      label: website_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website_description
+      label: website_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_estimated_cost
+      label: website_estimated_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: website_uploads
+      label: website_uploads
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''images''}'
+      - '{''value'': ''videos''}'
+      - '{''value'': ''documents''}'
+      - '{''value'': ''audio''}'
+      required: false
+    - id: 8
+      name: website_designer_name
+      label: website_designer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website_designer_email
+      label: website_designer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: website_designer_phone
+      label: website_designer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: website_estimate_form_submit
+      label: website_estimate_form_submit
+      hint: null
+      type: text
+      options: []
+      required: false

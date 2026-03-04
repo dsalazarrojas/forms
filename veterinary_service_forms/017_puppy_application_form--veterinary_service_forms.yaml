@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Application Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mr''}'
+      - '{''value'': ''Mrs''}'
+      - '{''value'': ''Dr''}'
+      required: false
+    - id: 2
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mr''}'
+      - '{''value'': ''Mrs''}'
+      - '{''value'': ''Dr''}'
+      required: false
+    - id: 3
+      name: pet_info
+      label: Pet Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dog''}'
+      - '{''value'': ''Cat''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_type
+      label: Type of Pet
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dog''}'
+      - '{''value'': ''Cat''}'
+      required: false
+    - id: 9
+      name: vet_referral
+      label: Vet Referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vet_name
+      label: Vet's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vet_clinic
+      label: Vet Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vet_phone
+      label: Vet's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_signature
+      label: Owner's Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: health_problems
+      label: Health Problems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_record
+      label: Vaccination Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: spay_neuter
+      label: Spay/Neuter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: adoption_date
+      label: Adoption Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: adoption_time
+      label: Adoption Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: owner_comments
+      label: Owner's Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

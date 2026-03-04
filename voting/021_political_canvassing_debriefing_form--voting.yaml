@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: political_canvassing_debriefing_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: canvasser_id
+      label: canvasser id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: canvassed_person
+      label: canvassed person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conversation_type
+      label: conversation type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: conversation_details
+      label: conversation details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

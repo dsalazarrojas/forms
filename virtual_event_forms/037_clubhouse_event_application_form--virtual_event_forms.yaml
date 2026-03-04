@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clubhouse Event Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: clubhouse_username
+      label: Clubhouse Username or Handle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_name
+      label: Which Event Are You Applying For
+      hint: Name of the Clubhouse event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: role_interest
+      label: Role You Are Applying For
+      hint: Select your desired role
+      type: select_one
+      options:
+      - Speaker
+      - Moderator
+      - Panelist
+      - Participant
+      - Listener
+      - Other
+      required: true
+    - id: 9
+      name: experience_background
+      label: Experience and Background
+      hint: Describe your relevant experience
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: speaking_experience
+      label: Previous Speaking Experience
+      hint: Have you spoken publicly before
+      type: select_one
+      options:
+      - No Experience
+      - Some Experience
+      - Moderate Experience
+      - Extensive Experience
+      required: false
+    - id: 11
+      name: topic_interest
+      label: Topic or Subject Expertise
+      hint: Your areas of knowledge
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: key_message
+      label: Key Message or Contribution
+      hint: What would you bring to event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: social_media
+      label: Social Media Reach
+      hint: Your follower count or influence
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time_zone
+      label: Your Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technical_readiness
+      label: Technical Readiness
+      hint: Do you have proper audio and internet
+      type: select_one
+      options:
+      - Yes, Fully Ready
+      - Mostly Ready
+      - Need Some Equipment
+      - Not Ready
+      required: true

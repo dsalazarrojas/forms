@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_holiday_club_volunteer_application_form
+    pages:
+    - id: 1
+      name: volunteer_application_form
+      label: Easter Holiday Club Volunteer Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_areas
+      label: What Areas Can You Help With
+      hint: null
+      type: select_multiple
+      options:
+      - catering
+      - watching_the_kids
+      - welcoming_parents
+      - etc
+      required: false
+    - id: 3
+      name: easter_event_date
+      label: Easter Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: easter_event_time
+      label: Easter Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_application_confirmation
+      label: I confirm I have read and agree with the terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false

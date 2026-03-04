@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Generator Maintenance Request Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: generator_type
+      label: Generator Type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Gas
+      - Solar
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scheduled_visit_date
+      label: Scheduled Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: scheduled_visit_time
+      label: Scheduled Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Service Provider 1
+      - Service Provider 2
+      - Service Provider 3
+      required: true
+    - id: 9
+      name: facility_contact_number
+      label: Facility Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false

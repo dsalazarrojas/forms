@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Romantic Note Template Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter recipient's email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: occasion
+      label: Occasion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: occasion_options
+      label: What is the occasion for this message?
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Birthday
+      - Anniversary
+      - Christmas
+      - New Year's Eve
+      - Valentine's Day
+      - Other
+      required: true
+    - id: 6
+      name: recipient_name
+      label: Recipient's Name
+      hint: null
+      type: text
+      options: []
+      required: false

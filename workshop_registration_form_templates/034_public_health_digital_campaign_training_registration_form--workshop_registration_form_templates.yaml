@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Digital Campaign Training Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare Provider
+      - Policy Maker
+      - Public Health Professional
+      - Other
+      required: false
+    - id: 7
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - Chicago, IL
+      - Los Angeles, CA
+      - New York City, NY
+      - Other (Please specify)
+      required: false
+    - id: 10
+      name: registration_method
+      label: Registration Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Phone
+      required: false
+    - id: 11
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: confirmation_number
+      label: Confirmation Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: select_multiple
+      options:
+      - Full payment
+      - Partial Payment
+      - Payment plan
+      required: false
+    - id: 14
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_special_request
+      label: Confirm Special Request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

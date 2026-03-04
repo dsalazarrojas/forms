@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: CCTV System Scoping Form
+    pages:
+    - id: 1
+      name: scoping_intro_cctv
+      label: -- CCTV Project Scoping and Design --
+      hint: Provide details to help us design the optimal security solution.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name_cctv
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_location_address
+      label: Site Installation Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: site_type_cctv
+      label: Type of Site
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial/Retail
+      - Industrial/Warehouse
+      - Public Space
+      - Educational Institution
+      required: true
+    - id: 5
+      name: camera_count_estimate
+      label: Estimated Total Number of Cameras
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: indoor_outdoor_split
+      label: Indoor vs Outdoor Camera Ratio
+      hint: e.g., 50/50
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resolution_requirements
+      label: Minimum Resolution Required
+      hint: null
+      type: select_one
+      options:
+      - 2MP (1080p)
+      - 4MP (2K)
+      - 8MP (4K)
+      - Special (Thermal/PTZ)
+      required: true
+    - id: 8
+      name: storage_retention_days
+      label: Required Footage Retention (Days)
+      hint: null
+      type: select_one
+      options:
+      - 7 Days
+      - 14 Days
+      - 30 Days
+      - 60 Days
+      - 90 plus Days
+      required: true
+    - id: 9
+      name: remote_access_needs
+      label: Is Remote Mobile/Web access required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: night_vision_requirements
+      label: Night Vision/Low Light Requirements
+      hint: null
+      type: select_one
+      options:
+      - Standard IR
+      - Full Color Night Vision
+      - Not Required
+      required: true
+    - id: 11
+      name: network_infrastructure_status
+      label: Current Network Infrastructure
+      hint: null
+      type: select_one
+      options:
+      - New Installation (No network)
+      - Existing PoE Network
+      - Existing Analog Cabling
+      - Wireless/WiFi Focus
+      required: true
+    - id: 12
+      name: audio_recording_needed
+      label: Is Audio Recording Required?
+      hint: Note local laws regarding audio recording.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: target_budget_range
+      label: Target Project Budget Range
+      hint: In USD
+      type: select_one
+      options:
+      - Under $2,500
+      - $2,500 - $5,000
+      - $5,000 - $10,000
+      - $10,000 plus
+      required: true
+    - id: 14
+      name: desired_install_timeline
+      label: Desired Installation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate (within 2 weeks)
+      - Within 1 Month
+      - 1-3 Months
+      - Planning Phase only
+      required: true
+    - id: 15
+      name: additional_technical_requirements
+      label: Other Technical Requirements or Constraints
+      hint: e.g., integration with access control
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: scoping_contact_person
+      label: Project Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true

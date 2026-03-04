@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Request Work Order
+    pages:
+    - id: 1
+      name: form_title
+      label: Service Request Work Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''Category 3''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Location 1''}'
+      - '{''id'': 2, ''name'': ''Location 2''}'
+      - '{''id'': 3, ''name'': ''Location 3''}'
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assign_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Chat''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''Phone''}'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Jimmy''}'
+      - '{''id'': 2, ''name'': ''John''}'
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John''}'
+      - '{''id'': 2, ''name'': ''Jane''}'
+      required: true
+    - id: 14
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''Active''}'
+      - '{''id'': 3, ''name'': ''Closed''}'
+      required: false
+    - id: 17
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: due_time
+      label: due_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Provider 1''}'
+      - '{''id'': 2, ''name'': ''Provider 2''}'
+      - '{''id'': 3, ''name'': ''Provider 3''}'
+      required: false
+    - id: 20
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: false
+    - id: 21
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_request
+      label: follow_up_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

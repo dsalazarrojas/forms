@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: life-verification-submission-form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: surname
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: date_of_entry
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: last_updated_reason
+      label: Last Updated Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - UK
+      - Canada
+      required: true

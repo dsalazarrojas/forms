@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: slate_of_officers_voting_form
+    pages:
+    - id: 1
+      name: form_page
+      label: Form Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_list
+      label: Candidate List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''president'', ''label'': ''President''}'
+      - '{''id'': 2, ''name'': ''vice_president'', ''label'': ''Vice President''}'
+      - '{''id'': 3, ''name'': ''secretary'', ''label'': ''Secretary''}'
+      required: false
+    - id: 3
+      name: cast_vote
+      label: Cast Vote
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_voting_form
+      label: Submit Voting Form
+      hint: null
+      type: note
+      options: []
+      required: false

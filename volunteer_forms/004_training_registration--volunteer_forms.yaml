@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Registration
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Corporate
+      - Nonprofit
+      - Event Management
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: true
+    - id: 8
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: training_notes
+      label: Training Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: training_manager
+      label: Training Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_manager
+      label: Event Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_address
+      label: Training Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_status_update
+      label: Training Status Update
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

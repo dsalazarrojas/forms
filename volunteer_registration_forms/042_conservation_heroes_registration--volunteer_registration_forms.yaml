@@ -1,0 +1,313 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Heroes Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: is_minor
+      label: Are You Under 18
+      hint: Minor status
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact for guardian
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: volunteer_interest
+      label: Why Do You Want to Volunteer
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: When can you volunteer
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Saturday mornings
+      - Saturday afternoons
+      - Sunday mornings
+      - Sunday afternoons
+      - Flexible schedule
+      required: true
+    - id: 19
+      name: program_preference
+      label: Program Preference
+      hint: Which program interests you
+      type: select_one
+      options:
+      - Habitat restoration
+      - Tree planting
+      - Trail maintenance
+      - Wildlife monitoring
+      - Water quality testing
+      - Education outreach
+      - Event support
+      - Administrative support
+      - Anywhere needed
+      required: true
+    - id: 20
+      name: skills
+      label: Relevant Skills
+      hint: What skills can you contribute
+      type: select_multiple
+      options:
+      - Land management
+      - Plant identification
+      - Wildlife identification
+      - Data collection
+      - Photography
+      - Teaching or education
+      - Event planning
+      - Social media
+      - Writing or communications
+      - Construction
+      - First aid certified
+      - Other
+      required: true
+    - id: 21
+      name: skills_other
+      label: Other Skills
+      hint: Describe if other selected
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: physical_ability
+      label: Physical Ability Level
+      hint: Field work can be demanding
+      type: select_one
+      options:
+      - Can perform heavy labor
+      - Can perform moderate labor
+      - Can perform light labor
+      - Limited physical ability
+      required: true
+    - id: 23
+      name: limitations
+      label: Physical Limitations
+      hint: Any restrictions we should know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_access
+      label: Do You Have Vehicle Access
+      hint: Reliable transportation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: group_registration
+      label: Are You Registering a Group
+      hint: Multiple volunteers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: group_size
+      label: Group Size
+      hint: Number of volunteers
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: group_name
+      label: Group Name
+      hint: Organization or team name
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For volunteer shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 29
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Do you consent if required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: liability_waiver
+      label: Liability Waiver Accepted
+      hint: Do you accept waiver terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 31
+      name: photo_release
+      label: Photo Release
+      hint: Can we use photos of you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Event
+      - School
+      - Workplace
+      - Other
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: volunteer_signature
+      label: Your Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: registration_status
+      label: Registration Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Under review
+      - Approved
+      - Waitlisted
+      - Declined
+      required: true

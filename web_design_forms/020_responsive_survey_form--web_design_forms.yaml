@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Survey Form
+    pages:
+    - id: 1
+      name: first_question
+      label: How do you rate this website?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 2
+      name: second_question
+      label: How can we improve this website?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: third_question
+      label: What do you like about this website?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fourth_question
+      label: What do you dislike about this website?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: fifth_question
+      label: What do you think about the color scheme?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sixth_question
+      label: What do you think about the design of this website?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: seventh_question
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: prophets_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: eighth_question
+      label: How do you rate the website overall?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: ninth_question
+      label: prophets_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tenth_question
+      label: What do you like most about this website?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: tenth_question_2
+      label: What do you like less about this website?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: eleventh_question
+      label: prophets_rating_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: twelfth_question
+      label: prophets_rating_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: thirteenth_question
+      label: What is your favorite color?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: fourteenth_question
+      label: Do you like dark mode?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: fifteenth_question
+      label: What is your favorite animal?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: sixteenth_question
+      label: What is your favorite fruit?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: seventeenth_question
+      label: How do you rate this form?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: prophets_rating_5
+      label: What do you like most about this form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: eighteenth_question
+      label: What do you dislike about this form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: eighteenth_question_2
+      label: What do you think about this form?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: nineteenth_question
+      label: How do you rate this form overall?
+      hint: null
+      type: number
+      options: []
+      required: false

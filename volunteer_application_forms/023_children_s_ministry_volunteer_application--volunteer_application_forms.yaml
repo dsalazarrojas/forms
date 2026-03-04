@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Ministry Volunteer Application
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Volunteers must be at least 18 years old
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: background_section
+      label: -- Background and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: childcare_experience
+      label: Years of experience working with children
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: previous_volunteer
+      label: Have you volunteered with children before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: volunteer_description
+      label: Describe your volunteer experience with children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: why_volunteer
+      label: Why are you interested in volunteering in children's ministry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: skills_section
+      label: -- Skills and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_skills
+      label: Special skills or talents that could benefit children
+      hint: Arts, music, sports, tutoring, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_age_group
+      label: Preferred age group to work with
+      hint: null
+      type: select_one
+      options:
+      - Infants (0-2 years)
+      - Toddlers (2-4 years)
+      - Preschool (4-6 years)
+      - Elementary (6-12 years)
+      - Tweens (10-13 years)
+      - Teens (13+ years)
+      - Any age group
+      required: true
+    - id: 19
+      name: ministry_areas
+      label: Areas of ministry you are interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classroom teaching
+      - Mentoring
+      - Activity leader
+      - Assistant
+      - Music or arts
+      - Special events
+      required: true
+    - id: 20
+      name: availability_section
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: availability
+      label: When are you available to volunteer
+      hint: null
+      type: select_multiple
+      options:
+      - Sundays
+      - Weekday evenings
+      - Weekday afternoons
+      - Saturdays
+      - Special events only
+      required: true
+    - id: 22
+      name: hours_per_month
+      label: Approximate hours available per month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: background_check
+      label: -- Background Check and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: background_check_consent
+      label: Do you consent to a background check
+      hint: Required for all child-serving volunteers
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: safety_agreement
+      label: I agree to follow our child safety policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Verification Of Deposit Form
+    pages:
+    - id: 1
+      name: first_page
+      label: welcome_to_our_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_info
+      label: information_about_the_tenant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_signature
+      label: the_tenants_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: landlord_info
+      label: information_about_the_landlord
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: landlord_signature
+      label: the_landlords_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date_of_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rent_details
+      label: rent_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amount_paid
+      label: amount_paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bank Draft''}'
+      - '{''label'': ''Check''}'
+      - '{''label'': ''Money Order''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: verification_date
+      label: verification_date
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''One Time Payment''}'
+      - '{''label'': ''Recurring Payment''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: verification_status
+      label: verification_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Verified''}'
+      - '{''label'': ''Unverified''}'
+      required: false
+    - id: 13
+      name: verification_method
+      label: verification_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

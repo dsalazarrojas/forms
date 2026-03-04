@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability Advocacy Network Registration Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Hearing''}'
+      - '{''label'': ''Speech''}'
+      - '{''label'': ''Mobility''}'
+      - '{''label'': ''Visual''}'
+      - '{''label'': ''Cognitive''}'
+      - '{''label'': ''Mental health''}'
+      - '{''label'': ''Physical''}'
+      - '{''label'': ''prophets''}'
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Arts and culture''}'
+      - '{''label'': ''Education''}'
+      - '{''label'': ''Employment''}'
+      - '{''label'': ''Health and wellness''}'
+      - '{''label'': ''Housing and transportation''}'
+      - '{''label'': ''Income and financial''}'
+      - '{''label'': ''Legal and advocacy''}'
+      - '{''label'': ''Living and social''}'
+      - '{''label'': ''Personal''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

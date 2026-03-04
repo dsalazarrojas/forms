@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Examiner Certification Verification Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_examiner_name
+      label: Medical Examiner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_certiification
+      label: Date of Certification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_institution
+      label: Medical Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_license
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false

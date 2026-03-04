@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Recycling Initiative Registration Form
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For program updates and communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_motivation
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: heard_about
+      label: How Did You Hear About This Initiative
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend or family
+      - School or workplace
+      - Community announcement
+      - Advertising
+      - Online search
+      - Other
+      required: true
+    - id: 15
+      name: motivation
+      label: What Motivates You to Participate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Environmental concern
+      - Community service
+      - Learning opportunity
+      - Social connection
+      - School requirement
+      - Reduce waste
+      - Sustainability
+      - Corporate responsibility
+      required: true
+    - id: 16
+      name: prior_recycling
+      label: Prior Recycling or Environmental Experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Limited experience
+      - No prior experience
+      required: true
+    - id: 17
+      name: section_header_involvement
+      label: -- Participation Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: participation_type
+      label: Type of Participation You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Collection events
+      - Sorting and processing
+      - Education and outreach
+      - Equipment operation
+      - Administration
+      - Fundraising
+      - Social media
+      - Leadership role
+      required: true
+    - id: 19
+      name: availability
+      label: Availability for Participation
+      hint: null
+      type: select_one
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Flexible schedule
+      - Limited availability
+      required: true
+    - id: 20
+      name: hours_per_week
+      label: Hours Per Week You Can Commit
+      hint: Approximate time available
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - 8-12 hours
+      - Over 12 hours
+      - Variable
+      required: true
+    - id: 21
+      name: duration_months
+      label: Duration of Commitment
+      hint: How long can you participate?
+      type: select_one
+      options:
+      - One-time event
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Ongoing
+      required: true
+    - id: 22
+      name: section_header_skills
+      label: -- Skills & Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: skills
+      label: Relevant Skills or Expertise
+      hint: Any special abilities we should know about?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: physical_requirements
+      label: Any Physical Limitations or Requirements
+      hint: For accommodation purposes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_terms
+      label: -- Registration Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: liability_waiver
+      label: I Agree to the Liability Waiver
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 27
+      name: conduct_agreement
+      label: I Agree to Follow Program Conduct Rules
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 28
+      name: data_privacy
+      label: I Consent to Data Privacy and Communication
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 29
+      name: background_check
+      label: Do You Consent to Background Check if Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 30
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

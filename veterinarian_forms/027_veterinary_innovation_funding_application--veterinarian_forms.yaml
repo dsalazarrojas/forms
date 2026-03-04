@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Innovation Funding Application
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_summary
+      label: Project Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_budget_currency
+      label: Project Budget Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Application Form
+      - Supporting Materials
+      - Project Plan
+      - Other
+      required: false
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Ongoing
+      - Upcoming
+      - Complete
+      required: false
+    - id: 13
+      name: application_deadline
+      label: Application Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: supporting_documents_uploaded
+      label: Supporting Documents Uploaded
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: applicant_address
+      label: Applicant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_funding_type
+      label: Project Funding Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: organization_url
+      label: Organization URL
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Existence Evidence Assessment
+    pages:
+    - id: 1
+      name: entity_name
+      label: enter_entity_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evidence_type
+      label: select_evidence_type
+      hint: Select one of the evidence types below
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Document
+      - Audio
+      required: false
+    - id: 3
+      name: rate_evidence_quality
+      label: rate_evidence_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evidence_rating
+      label: evidence_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: date_collected
+      label: date_collected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: collected_by
+      label: collected_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entity_description
+      label: entity_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entity_status
+      label: entity_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Active
+      required: false
+    - id: 12
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: time_collected
+      label: time_collected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false

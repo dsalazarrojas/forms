@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Imaging Study Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: imaging_request
+      label: imaging_request
+      hint: null
+      type: select_multiple
+      options:
+      - CT Scan
+      - MRI Scan
+      required: false
+    - id: 3
+      name: scan_location
+      label: scan_location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 4
+      name: radiologist_notes
+      label: radiologist_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_weight
+      label: patient_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_height
+      label: patient_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: scan_date
+      label: scan_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: scan_time
+      label: scan_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 10
+      name: veterinary_team_name
+      label: veterinary_team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: veterinary_team_contact
+      label: veterinary_team_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: veterinary_team_phone
+      label: veterinary_team_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: veterinary_team_email
+      label: veterinary_team_email
+      hint: null
+      type: email
+      options: []
+      required: false

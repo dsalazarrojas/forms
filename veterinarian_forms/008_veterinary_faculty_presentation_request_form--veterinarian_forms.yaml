@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Faculty Presentation Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: formSubmission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: eventDetails
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''lecture''}'
+      - '{''id'': 12, ''name'': ''talk''}'
+      required: true
+    - id: 3
+      name: university_school
+      label: universitySchool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': ''universities''}'
+      - '{''id'': 22, ''name'': ''schools''}'
+      - '{''id'': 23, ''name'': ''organizations''}'
+      required: false
+    - id: 4
+      name: presentation_details
+      label: presentationDetails
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: startDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: endDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: eventLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: contactPerson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assignedTool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: formId
+      hint: null
+      type: number
+      options: []
+      required: false

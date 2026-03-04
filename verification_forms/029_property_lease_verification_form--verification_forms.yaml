@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: property_lease_verification_form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lease_details
+      label: Lease Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''lease_status'', ''label'': ''Lease Status''}'
+      - '{''id'': 2, ''name'': ''lease_type'', ''label'': ''Lease Type''}'
+      - '{''id'': 3, ''name'': ''lease_length'', ''label'': ''Lease Length''}'
+      - '{''id'': 4, ''name'': ''lease_terms'', ''label'': ''Lease Terms''}'
+      required: false
+    - id: 3
+      name: tenant_experience
+      label: Tenant Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''name'': ''rental_history'', ''label'': ''Rental History''}'
+      - '{''id'': 6, ''name'': ''employment_status'', ''label'': ''Employment Status''}'
+      - '{''id'': 7, ''name'': ''income_verification'', ''label'': ''Income Verification''}'
+      required: false
+    - id: 4
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tenant_references
+      label: Tenant References
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8, ''name'': ''landlord_reference'', ''label'': ''Landlord Reference''}'
+      - '{''id'': 9, ''name'': ''property_manager_reference'', ''label'': ''Property
+        Manager Reference''}'
+      required: false
+    - id: 6
+      name: lease_end
+      label: Lease End
+      hint: null
+      type: date
+      options: []
+      required: false

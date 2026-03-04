@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AFP 2020 Board Of Directors Nominations
+    pages:
+    - id: 1
+      name: section_header_nominee_info
+      label: '--- Nominee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the nominee's full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Preferred contact email (work or personal)
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Best number to reach the nominee
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: current_city
+      label: Current city / residence
+      hint: City and state/province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Current employer or organization
+      hint: Organization name and role
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: position_nominated
+      label: Position nominated for
+      hint: Select the board role the nominee is being considered for
+      type: select_one
+      options:
+      - Board Chair
+      - Vice Chair
+      - Treasurer
+      - Secretary
+      - Board Member At-Large
+      - Committee Chair
+      required: true
+    - id: 10
+      name: years_of_membership
+      label: Years as an AFP member
+      hint: Whole number of years (enter 0 if not a member)
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: leadership_experience
+      label: Relevant leadership experience (select all that apply)
+      hint: Check all experiences that apply to the nominee
+      type: select_multiple
+      options:
+      - Board service
+      - Committee chair
+      - Fundraising lead
+      - Program management
+      - Volunteer coordination
+      - Strategic planning
+      - Other
+      required: false
+    - id: 12
+      name: statement_of_qualification
+      label: Statement of qualification
+      hint: Brief summary of qualifications and contributions (recommended 150-300
+        words)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: conflict_of_interest
+      label: Conflict of interest declaration
+      hint: Indicate whether any potential or actual conflicts exist
+      type: select_one
+      options:
+      - No known conflict
+      - Potential conflict (see details)
+      - Current conflict (see details)
+      required: true
+    - id: 14
+      name: conflict_details
+      label: Conflict details (if applicable)
+      hint: Describe any potential or actual conflicts; leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: availability
+      label: Availability for board duties
+      hint: Select all time commitments the nominee can accommodate
+      type: select_multiple
+      options:
+      - Weekday daytime
+      - Weekday evenings
+      - Weekends
+      - Quarterly meetings
+      - Annual planning retreat
+      - Ad-hoc committee work
+      required: true
+    - id: 16
+      name: professional_references
+      label: Professional references
+      hint: List two references with name, relationship, and contact info
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nominee_signature
+      label: Nominee electronic signature
+      hint: Type full name to indicate consent to nomination and role expectations
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_nominator_info
+      label: '--- Nominator Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: nominator_name
+      label: Nominator name
+      hint: Full name of the person submitting the nomination
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: nominator_email
+      label: Nominator email address
+      hint: Contact email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: nominator_relationship
+      label: Relationship of nominator to nominee
+      hint: How the nominator knows the nominee
+      type: select_one
+      options:
+      - Colleague
+      - Supervisor
+      - Former Committee Chair
+      - Member
+      - Other
+      required: true
+    - id: 22
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Optional extra information for the nomination committee
+      type: text
+      options: []
+      required: false

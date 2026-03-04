@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Video Package Inquiry
+    pages:
+    - id: 1
+      name: wedding_video_package_inquiry
+      label: Get Started
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: wedding_video_package_inquiry_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: event_budget_currency
+      label: Event Budget Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: event_budget_amount
+      label: Event Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: event_video_package
+      label: Event Video Package
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: event_video_package_details
+      label: Event Video Package Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: client_reference
+      label: Client Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_video_package_price
+      label: Event Video Package Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: text
+      options: []
+      required: true

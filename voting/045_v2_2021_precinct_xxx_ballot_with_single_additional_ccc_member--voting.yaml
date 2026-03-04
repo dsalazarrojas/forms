@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: V2 2021 Precinct Xxx Ballot With Single Additional CCC Member
+    pages:
+    - id: 1
+      name: precinct_xxx_id
+      label: precinct_xxx_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: additional_ccc_id
+      label: additional_ccc_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: additional_ccc_name
+      label: additional_ccc_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_ccc_party
+      label: additional_ccc_party
+      hint: null
+      type: select_one
+      options:
+      - Democratic
+      - Republican
+      - Independent
+      - Other
+      required: false
+    - id: 5
+      name: additional_ccc_address
+      label: additional_ccc_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_ccc_email
+      label: additional_ccc_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: additional_ccc_phone
+      label: additional_ccc_phone
+      hint: null
+      type: text
+      options: []
+      required: false

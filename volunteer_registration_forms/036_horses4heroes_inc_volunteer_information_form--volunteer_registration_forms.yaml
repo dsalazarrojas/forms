@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: horses4heroes_inc_volunteer_information_form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - NV
+      - Other
+      required: true
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_info
+      label: Volunteer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mailing_address_line_1
+      label: Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mailing_address_line_2
+      label: Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mailing_address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mailing_address_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mailing_address_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_days
+      label: Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 18
+      name: volunteer_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: volunteer_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: volunteer_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: volunteer_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: volunteer_position
+      label: Volunteer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: volunteer_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: volunteer_agreement
+      label: Volunteer Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and agree to the terms of the volunteer agreement
+      - I do not understand and/or do not agree to the terms of the volunteer agreement
+      required: true

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Quality Symposium Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Approval
+      - Confirmed
+      - Cancelled
+      - In Progress
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: true
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 12
+      name: symposium_attendee
+      label: Attendees (Symposium)
+      hint: null
+      type: select_multiple
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      - Dave
+      required: false
+    - id: 13
+      name: other_info
+      label: Other Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faith Based Health Worker Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: value_agreements
+      label: Value Agreements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

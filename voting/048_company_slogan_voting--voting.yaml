@@ -1,0 +1,259 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Slogan Voting
+    pages:
+      - id: 1
+        name: voter_full_name
+        label: Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: voter_type
+        label: I am a
+        hint: Your relationship to company
+        type: select_one
+        options:
+          - Employee
+          - Customer
+          - Partner
+          - Vendor
+          - Other
+        required: true
+      - id: 4
+        name: department
+        label: Department (if employee)
+        hint: Your department
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: section_slogans
+        label: -- Slogan Options --
+        hint: Review and vote for your favorite
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: slogan_a_rating
+        label: Slogan A - "Building Tomorrow Together"
+        hint: Rate this slogan
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - Neutral
+          - Dislike it
+          - Hate it
+        required: true
+      - id: 7
+        name: slogan_b_rating
+        label: Slogan B - "Innovation You Can Trust"
+        hint: Rate this slogan
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - Neutral
+          - Dislike it
+          - Hate it
+        required: true
+      - id: 8
+        name: slogan_c_rating
+        label: Slogan C - "Excellence in Every Detail"
+        hint: Rate this slogan
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - Neutral
+          - Dislike it
+          - Hate it
+        required: true
+      - id: 9
+        name: slogan_d_rating
+        label: Slogan D - "Your Success, Our Mission"
+        hint: Rate this slogan
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - Neutral
+          - Dislike it
+          - Hate it
+        required: true
+      - id: 10
+        name: slogan_e_rating
+        label: Slogan E - "Empowering Your Future"
+        hint: Rate this slogan
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - Neutral
+          - Dislike it
+          - Hate it
+        required: true
+      - id: 11
+        name: section_vote
+        label: -- Your Vote --
+        hint: Select your favorite
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: favorite_slogan
+        label: Which slogan is your favorite?
+        hint: Your top choice
+        type: select_one
+        options:
+          - Slogan A - Building Tomorrow Together
+          - Slogan B - Innovation You Can Trust
+          - Slogan C - Excellence in Every Detail
+          - Slogan D - Your Success, Our Mission
+          - Slogan E - Empowering Your Future
+        required: true
+      - id: 13
+        name: vote_reason
+        label: Why did you choose this slogan?
+        hint: Your reasoning
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: least_favorite_slogan
+        label: Which slogan is your least favorite?
+        hint: Your least preferred
+        type: select_one
+        options:
+          - Slogan A - Building Tomorrow Together
+          - Slogan B - Innovation You Can Trust
+          - Slogan C - Excellence in Every Detail
+          - Slogan D - Your Success, Our Mission
+          - Slogan E - Empowering Your Future
+          - No strong opinion
+        required: false
+      - id: 15
+        name: least_favorite_reason
+        label: Why is this your least favorite?
+        hint: Your reasoning
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_criteria
+        label: -- Evaluation Criteria --
+        hint: Rate each criterion
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: memorability
+        label: How important is memorability?
+        hint: Importance
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Neutral
+          - Not very important
+          - Not important
+        required: false
+      - id: 18
+        name: uniqueness
+        label: How important is uniqueness?
+        hint: Importance
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Neutral
+          - Not very important
+          - Not important
+        required: false
+      - id: 19
+        name: relevance
+        label: How important is relevance to our business?
+        hint: Importance
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Neutral
+          - Not very important
+          - Not important
+        required: false
+      - id: 20
+        name: inspiration
+        label: How important is inspirational quality?
+        hint: Importance
+        type: select_one
+        options:
+          - Very important
+          - Important
+          - Neutral
+          - Not very important
+          - Not important
+        required: false
+      - id: 21
+        name: section_feedback
+        label: -- Additional Feedback --
+        hint: Your suggestions
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: slogan_suggestions
+        label: Do you have any slogan suggestions?
+        hint: Your ideas
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: what_makes_great_slogan
+        label: What makes a great company slogan in your opinion?
+        hint: Your thoughts
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: brand_association
+        label: What words should our brand evoke?
+        hint: Brand attributes
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Any additional comments?
+        hint: Your thoughts
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: vote_date
+        label: Vote Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

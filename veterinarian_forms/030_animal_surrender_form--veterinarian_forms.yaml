@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Surrender Form
+    pages:
+    - id: 1
+      name: section_owner_info
+      label: -- Owner Information --
+      hint: Information about the surrendering owner
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: section_animal_info
+      label: -- Animal Information --
+      hint: Details about the animal being surrendered
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: animal_name
+      label: Animal Name
+      hint: Pet's name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: animal_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Hamster
+      - Guinea Pig
+      - Reptile
+      - Other
+      required: true
+    - id: 13
+      name: animal_breed
+      label: Breed
+      hint: Breed or mixed breed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: animal_age
+      label: Age
+      hint: Age of the animal
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: animal_color
+      label: Color or Markings
+      hint: Description of appearance
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: animal_weight
+      label: Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: animal_gender
+      label: Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 18
+      name: animal_microchip
+      label: Microchip Number
+      hint: Identification microchip if available
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_medical_history
+      label: -- Medical and Behavioral History --
+      hint: Important health and behavior information
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: Any health issues
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: Any medications the animal takes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies
+      label: Allergies or Dietary Restrictions
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: spay_neuter
+      label: Spay or Neuter Status
+      hint: Whether animal has been spayed or neutered
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 24
+      name: vaccinations
+      label: Current Vaccinations
+      hint: List of completed vaccinations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: behavioral_issues
+      label: Behavioral Issues or Concerns
+      hint: Any aggression, anxiety, or other issues
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: good_with_animals
+      label: Good with Other Animals
+      hint: Behavior around other pets
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 27
+      name: good_with_children
+      label: Good with Children
+      hint: Behavior around children
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 28
+      name: section_surrender_reason
+      label: -- Reason for Surrender --
+      hint: Why the owner is surrendering the animal
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: surrender_reason
+      label: Reason for Surrender
+      hint: Main reason for giving up the animal
+      type: select_one
+      options:
+      - Moving
+      - Allergies
+      - Financial Hardship
+      - Behavior Issues
+      - Illness or Death
+      - Work Commitments
+      - Lifestyle Change
+      - Other
+      required: true
+    - id: 30
+      name: surrender_reason_details
+      label: Additional Details
+      hint: More information about the reason
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: time_with_owner
+      label: Length of Time Owned
+      hint: How long the owner has had the animal
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: prior_homes
+      label: Number of Previous Homes
+      hint: How many owners before this
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: section_additional
+      label: -- Additional Information --
+      hint: Other relevant information
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Anything the shelter should know
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: confirm_surrender
+      label: I Confirm All Information is Accurate
+      hint: Acknowledge accuracy of form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

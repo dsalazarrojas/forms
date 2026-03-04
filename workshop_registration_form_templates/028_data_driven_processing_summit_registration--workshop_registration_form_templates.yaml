@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Driven Processing Summit Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: terms_agreement
+      label: terms_and_agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I accept the terms and conditions'', ''value'': True}'
+      - '{''label'': ''I do not accept the terms and conditions'', ''value'': False}'
+      required: false
+    - id: 6
+      name: attendance_preferences
+      label: Attendance preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Virtual'', ''value'': ''Virtual''}'
+      - '{''label'': ''In-person'', ''value'': ''In-person''}'
+      - '{''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vegetarian'', ''value'': ''Vegetarian''}'
+      - '{''label'': ''Vegan'', ''value'': ''Vegan''}'
+      - '{''label'': ''Gluten-free'', ''value'': ''Gluten-free''}'
+      - '{''label'': ''None of the above'', ''value'': ''None of the above''}'
+      required: false
+    - id: 8
+      name: dietary_restrictions_note
+      label: Dietary restrictions note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online payment'', ''value'': ''Online payment''}'
+      - '{''label'': ''Offline payment'', ''value'': ''Offline payment''}'
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I have any food allergies'', ''value'': ''I have any food allergies''}'
+      - '{''label'': ''I have any medical conditions'', ''value'': ''I have any medical
+        conditions''}'
+      - '{''label'': ''None of the above'', ''value'': ''None of the above''}'
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special requests
+      hint: null
+      type: text
+      options: []
+      required: false

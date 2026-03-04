@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Telemedicine Consent Form
+    pages:
+    - id: 1
+      name: owner_information
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_information
+      label: Pet Information
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 4
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 7
+      name: date_signature
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: consent_signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

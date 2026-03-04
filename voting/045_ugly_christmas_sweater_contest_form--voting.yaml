@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: ugly_christmas_sweater_contest_form
+    pages:
+    - id: 1
+      name: ugly_christmas_sweater_contest_form_1
+      label: voting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: voting_category
+      hint: null
+      type: select_multiple
+      options:
+      - Sweater Color
+      - Material
+      required: false
+    - id: 3
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: best_of_show
+      label: participant_best_of_show
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: best_of_party
+      label: participant_best_of_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo
+      label: photo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: best_of_sweater
+      label: best_of_sweater
+      hint: null
+      type: select_one
+      options:
+      - Ugly Sweater 1
+      - Ugly Sweater 2
+      - Ugly Sweater 3
+      required: true
+    - id: 10
+      name: best_of_sweater_color
+      label: best_of_sweater_color
+      hint: null
+      type: select_one
+      options:
+      - Ugly Sweater 1
+      - Ugly Sweater 2
+      - Ugly Sweater 3
+      required: true
+    - id: 11
+      name: best_of_sweater_material
+      label: best_of_sweater_material
+      hint: null
+      type: select_one
+      options:
+      - Material 1
+      - Material 2
+      required: true

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Form
+    pages:
+    - id: 1
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment method
+      hint: We accept payment via bank transfer, credit card or wire transfer.
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - Wire Transfer
+      required: false
+    - id: 4
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: website_type
+      label: website type
+      hint: null
+      type: select_one
+      options:
+      - Static Website
+      - Dynamic Website
+      - E-commerce Website
+      required: false
+    - id: 7
+      name: website_domain
+      label: website domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website_url
+      label: website url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false

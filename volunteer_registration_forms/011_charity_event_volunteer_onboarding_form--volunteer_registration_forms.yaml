@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Volunteer Onboarding Form
+    pages:
+    - id: 1
+      name: section_basic_info
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For communication and important updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_volunteer_interests
+      label: -- Volunteer Interests and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_type_interested
+      label: What Type of Event Are You Volunteering For
+      hint: Which charity event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: volunteer_interests
+      label: Areas of Interest
+      hint: What aspects interest you
+      type: select_multiple
+      options:
+      - Event Planning
+      - Fundraising
+      - Community Outreach
+      - Administration
+      - Marketing
+      - Physical Setup
+      - Guest Services
+      - Data Entry
+      required: true
+    - id: 14
+      name: availability
+      label: Availability
+      hint: When can you volunteer
+      type: select_one
+      options:
+      - Weekdays Only
+      - Weekends Only
+      - Flexible
+      - Evening Hours
+      - Full Day
+      required: true
+    - id: 15
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: How many hours can you commit
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: prior_volunteer_experience
+      label: Prior Volunteer Experience
+      hint: Have you volunteered before
+      type: select_one
+      options:
+      - No Experience
+      - Less than 1 Year
+      - 1-3 Years
+      - 3-5 Years
+      - 5+ Years
+      required: false
+    - id: 17
+      name: skills
+      label: Special Skills or Certifications
+      hint: Any relevant skills or certifications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_agreements
+      label: -- Agreements and Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: code_of_conduct_agree
+      label: I Agree to the Volunteer Code of Conduct
+      hint: Accept our volunteer guidelines
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: liability_waiver
+      label: I Acknowledge Liability Waiver
+      hint: Understand volunteer liability terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: background_check_consent
+      label: I Consent to Background Check
+      hint: If required by the organization
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

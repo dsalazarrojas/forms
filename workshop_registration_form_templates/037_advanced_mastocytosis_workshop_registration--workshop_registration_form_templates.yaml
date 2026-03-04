@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Mastocytosis Workshop Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Workshop Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiliation
+      label: Affiliation or organization
+      hint: Hospital, clinic, or institution
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact email
+      hint: For workshop materials
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Any food allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: professional_role
+      label: Professional role
+      hint: Physician, nurse, researcher, patient, other
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Researcher
+      - Patient
+      - Other
+      required: true
+    - id: 7
+      name: payment_status
+      label: Payment status
+      hint: Confirm payment or invoice needed
+      type: select_one
+      options:
+      - Paid
+      - Invoice me
+      - Sponsorship
+      required: true
+    - id: 8
+      name: special_accommodations
+      label: Special accommodations needed
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for safety
+      type: text
+      options: []
+      required: true

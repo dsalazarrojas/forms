@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Health Record Duplication Request Form
+    pages:
+    - id: 1
+      name: pet_owner_information
+      label: Pet Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: veterinarian_phone
+      label: Veterinarian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_details
+      label: Medical Record Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: duplicate_for
+      label: Duplicate For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: duplicate_for_options
+      label: Duplicate For Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

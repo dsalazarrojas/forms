@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: schedule_a_zoom_meeting_form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_type
+      label: Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Meeting''}'
+      - '{''id'': 2, ''label'': ''Event''}'
+      - '{''id'': 3, ''label'': ''Webinar''}'
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Coworker''}'
+      - '{''id'': 2, ''label'': ''Client''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registrants
+      label: Registrants
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Add''}'
+      - '{''id'': 2, ''label'': ''Remove''}'
+      - '{''id'': 3, ''label'': ''Update''}'
+      required: false
+    - id: 11
+      name: registrant_email
+      label: Registrant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: registrant_phone
+      label: Registrant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registrant_notes
+      label: Registrant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: registrant_attendance
+      label: Registrant Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Present''}'
+      - '{''id'': 2, ''label'': ''Absent''}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: false
+    - id: 15
+      name: registrant_notes2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

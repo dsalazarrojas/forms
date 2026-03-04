@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rate My Website Form
+    pages:
+    - id: 1
+      name: rate_my_website_form
+      label: Rate My Website
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: rate_my_website_form_page_1
+      label: How would you rate our website?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 3
+      name: rate_my_website_form_page_2
+      label: What do you like most about our website?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rate_my_website_form_page_3
+      label: What do you dislike about our website?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rate_my_website_form_page_4
+      label: How would you describe your experience with our website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rate_my_website_form_page_5
+      label: What did you like about our website?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

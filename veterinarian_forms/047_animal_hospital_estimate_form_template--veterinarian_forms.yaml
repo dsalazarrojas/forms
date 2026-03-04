@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Hospital Estimate Form Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Pet owner name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimate_intro
+      label: Veterinary Services Estimate
+      hint: Detailed cost estimate for veterinary services
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: estimate_date
+      label: Estimate Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: estimate_number
+      label: Estimate Number
+      hint: Reference ID
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_info
+      label: Patient Information
+      hint: Pet details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pet_name
+      label: Pet's Name
+      hint: Name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Horse
+      - Exotic
+      - Other
+      required: true
+    - id: 11
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pet_age
+      label: Age
+      hint: Years old
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Chief complaint
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: services_section
+      label: Estimated Services
+      hint: Breakdown of services
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: examination_fee
+      label: Examination Fee
+      hint: Cost
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: diagnostic_tests
+      label: Diagnostic Tests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Blood work - CBC
+      - Blood work - Chemistry
+      - Urinalysis
+      - Fecal exam
+      - X-rays
+      - Ultrasound
+      - ECG
+      - Other imaging
+      required: false
+    - id: 18
+      name: diagnostic_costs
+      label: Estimated Diagnostic Costs
+      hint: Total
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: procedures
+      label: Procedures
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vaccinations
+      - Dental cleaning
+      - Tooth extraction
+      - Minor surgery
+      - Major surgery
+      - Wound care
+      - Bandaging
+      - Nail trim
+      - Gland expression
+      - Other
+      required: false
+    - id: 20
+      name: procedure_costs
+      label: Estimated Procedure Costs
+      hint: Total
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medications
+      label: Medications
+      hint: Prescribed drugs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_costs
+      label: Estimated Medication Costs
+      hint: Total
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hospitalization
+      label: Hospitalization Required
+      hint: If applicable
+      type: select_one
+      options:
+      - false
+      - Yes - overnight
+      - Yes - multiple days
+      required: false
+    - id: 24
+      name: hospitalization_costs
+      label: Estimated Hospitalization Costs
+      hint: Total
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_services
+      label: Additional Services
+      hint: Other costs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_costs
+      label: Additional Costs
+      hint: Total
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: estimate_totals
+      label: Estimate Totals
+      hint: Summary
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: subtotal
+      label: Subtotal
+      hint: Before tax
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: tax
+      label: Tax
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: total_estimate
+      label: Total Estimated Cost
+      hint: Grand total
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: estimate_validity
+      label: This Estimate Is Valid Until
+      hint: Expiration
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: payment_options
+      label: Payment Options
+      hint: How to pay
+      type: select_multiple
+      options:
+      - Cash
+      - Credit card
+      - Debit card
+      - Check
+      - CareCredit
+      - Pet insurance
+      - Payment plan
+      required: false
+    - id: 33
+      name: deposit_required
+      label: Is a Deposit Required
+      hint: Deposit
+      type: select_one
+      options:
+      - false
+      - Yes - percentage
+      - Yes - fixed amount
+      required: false
+    - id: 34
+      name: deposit_amount
+      label: Deposit Amount
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: notes
+      label: Additional Notes
+      hint: Important information
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: client_approval
+      label: Do You Approve This Estimate
+      hint: Authorization
+      type: select_one
+      options:
+      - Yes - proceed with services
+      - Yes - with modifications
+      - No - decline
+      - Need time to consider
+      required: true
+    - id: 37
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Attending vet
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: vet_signature
+      label: Veterinarian Signature
+      hint: Type name
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: client_signature
+      label: Client Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

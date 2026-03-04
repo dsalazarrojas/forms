@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Trust Volunteer Registration
+    pages:
+    - id: 1
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: null
+      type: select_multiple
+      options:
+      - National Trust
+      - Conservation
+      - Community
+      - Events
+      - Fundraising
+      required: true
+    - id: 5
+      name: volunteer_skills
+      label: Volunteer Skills
+      hint: List your relevant skills
+      type: select_multiple
+      options:
+      - Gardening
+      - Photography
+      - Conservation
+      - Events
+      - Fundraising
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: email_confirmed
+      label: Email Confirmed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: Check this box to indicate you are willing to be contacted
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

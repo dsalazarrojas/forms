@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interdisciplinary Learning Summit Registration
+    pages:
+    - id: 1
+      name: session_interest
+      label: Session Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_interests
+      label: Interdisciplinary Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: university_organisation
+      label: University/Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: Select your role
+      type: select_one
+      options:
+      - University
+      - Organization
+      - Other
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any dietary restrictions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Science Event Registration
+    pages:
+      - id: 1
+        name: section_event_signup
+        label: -- Event Signup --
+        hint: Register attendees for computer science events
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Attendee name
+        hint: Full name for registration
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For event updates and materials
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: affiliation
+        label: Affiliation
+        hint: Company, school, or organization
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: ticket_type
+        label: Ticket type
+        hint: Choose ticket category
+        type: select_one
+        options: [Attendee, Speaker, Student, Volunteer]
+        required: true
+      - id: 6
+        name: sessions_selected
+        label: Sessions selected
+        hint: Select sessions you plan to attend
+        type: select_multiple
+        options: [Keynote, Workshop A, Workshop B, Tutorial, Panel]
+        required: false
+      - id: 7
+        name: dietary_requirements
+        label: Dietary requirements
+        hint: For catering planning
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Indicate any required accommodations
+        type: text
+        options: []
+        required: false

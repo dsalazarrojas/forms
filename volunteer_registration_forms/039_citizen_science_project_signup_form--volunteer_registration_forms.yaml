@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizen Science Project Signup Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: false
+    - id: 7
+      name: section_header_project_interest
+      label: -- Project Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interested_projects
+      label: Which Project Are You Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Environmental monitoring
+      - Wildlife tracking
+      - Plant identification
+      - Water quality testing
+      - Air quality monitoring
+      - Climate data collection
+      - Astronomy observation
+      - Other
+      required: true
+    - id: 9
+      name: project_description
+      label: Describe Your Research Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_background
+      label: -- Scientific Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school or less
+      - Some college
+      - Bachelor degree
+      - Master degree
+      - Doctoral degree
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: science_experience
+      label: Science or Research Experience
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Some informal experience
+      - Professional experience
+      - PhD or advanced research
+      required: false
+    - id: 13
+      name: science_background
+      label: Areas of Science Background (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Physics
+      - Environmental science
+      - Astronomy
+      - Geology
+      - Data analysis
+      - No formal background
+      required: false
+    - id: 14
+      name: section_header_availability
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: hours_per_week
+      label: Hours per Week You Can Dedicate
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20-30 hours
+      - 30+ hours
+      required: true
+    - id: 16
+      name: commitment_duration
+      label: Commitment Duration
+      hint: null
+      type: select_one
+      options:
+      - Short-term (1-3 months)
+      - Medium-term (3-6 months)
+      - Long-term (6-12 months)
+      - Ongoing
+      - Flexible
+      required: true
+    - id: 17
+      name: available_days
+      label: Days of Week You Are Available (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 18
+      name: section_header_skills
+      label: -- Skills and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: relevant_skills
+      label: Relevant Skills (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Data collection
+      - Data analysis
+      - Observation and documentation
+      - Photography
+      - GIS mapping
+      - Statistical analysis
+      - Writing and reporting
+      - Field work
+      - Laboratory skills
+      required: false
+    - id: 20
+      name: technical_proficiency
+      label: Technical Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 21
+      name: section_header_equipment
+      label: -- Equipment and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: equipment_available
+      label: Equipment You Have Access To (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Computer or laptop
+      - Smartphone with apps
+      - Camera
+      - Binoculars
+      - Magnifying glass
+      - Measuring tools
+      - Field notebook
+      - GPS device
+      required: false
+    - id: 23
+      name: transportation
+      label: Transportation Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 24
+      name: section_header_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: motivation
+      label: What Motivates You to Participate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: learning_goals
+      label: What Would You Like to Learn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: preferred_communication
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Online platform
+      required: false

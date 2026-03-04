@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Experience Production Request Form
+    pages:
+    - id: 1
+      name: production_request
+      label: Production Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual Conference
+      - Webinar
+      - Meeting
+      - Workshop
+      - Seminar
+      - Training
+      - Presentation
+      - Panel Discussion
+      - Trade Show
+      - Product Launch
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false

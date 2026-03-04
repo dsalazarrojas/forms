@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Wellness Questionnaire
+    pages:
+    - id: 1
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_one
+      options:
+      - Golden Retriever
+      - Labrador
+      - Poodle
+      required: false
+    - id: 2
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pet_weight
+      label: Pet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pet_health
+      label: Pet Health
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Up to date
+      - Not up to date
+      - Unknown
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian_note
+      label: Veterinarian Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergy
+      label: Allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: surgery
+      label: Surgery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 21
+      name: pet_description
+      label: Pet Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pet_image
+      label: Pet Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_condition_note
+      label: Medical Condition Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_device_note
+      label: Medical Device Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: veterinarian_recommendation
+      label: Veterinarian Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Marketing Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization Name
+      hint: Shelter or rescue name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Animal Shelter
+      - Rescue Organization
+      - Animal Sanctuary
+      - Veterinary Clinic
+      - Nonprofit Organization
+      - Government Agency
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_date
+      label: Select Workshop Date
+      hint: Choose your preferred session
+      type: select_one
+      options:
+      - Saturday March 21 2026 - In-Person
+      - Saturday March 21 2026 - Virtual
+      - Sunday March 22 2026 - In-Person
+      - Sunday March 22 2026 - Virtual
+      - Saturday March 28 2026 - In-Person
+      - Saturday March 28 2026 - Virtual
+      required: true
+    - id: 12
+      name: experience_level
+      label: Marketing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner - New to Marketing
+      - Intermediate - Some Experience
+      - Advanced - Experienced
+      - Expert - Marketing Professional
+      required: true
+    - id: 13
+      name: current_challenges
+      label: What Are Your Current Marketing Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Limited Budget
+      - Limited Staff Time
+      - Social Media Management
+      - Content Creation
+      - Email Marketing
+      - Event Promotion
+      - Donor Acquisition
+      - Adoption Promotion
+      - Brand Awareness
+      - Measuring Results
+      - Other
+      required: true
+    - id: 14
+      name: topics_of_interest
+      label: Which Topics Interest You Most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media Strategy
+      - Content Marketing
+      - Email Campaigns
+      - Storytelling for Animals
+      - Photography and Video
+      - Paid Advertising
+      - Community Outreach
+      - Partnership Building
+      - Fundraising Marketing
+      - Adoption Campaigns
+      - Analytics and Metrics
+      - Crisis Communication
+      required: true
+    - id: 15
+      name: organization_size
+      label: Organization Size
+      hint: Number of staff
+      type: select_one
+      options:
+      - 1-5 Staff
+      - 6-15 Staff
+      - 16-30 Staff
+      - 31-50 Staff
+      - Over 50 Staff
+      - All Volunteers
+      required: true
+    - id: 16
+      name: annual_budget
+      label: Annual Marketing Budget
+      hint: Approximate amount
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$5000
+      - $5001-$10000
+      - $10001-$25000
+      - Over $25000
+      - No Dedicated Budget
+      required: false
+    - id: 17
+      name: social_media_platforms
+      label: Which Social Media Platforms Do You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter or X
+      - TikTok
+      - LinkedIn
+      - YouTube
+      - Pinterest
+      - None
+      required: true
+    - id: 18
+      name: learning_goals
+      label: What Are Your Learning Goals for This Workshop
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Registration
+      - Team Registration - 2-3 People
+      - Team Registration - 4+ People
+      - Nonprofit Member Rate
+      - Student Rate
+      required: true
+    - id: 20
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: Total from your organization
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: workshop_fee
+      label: Workshop Fee
+      hint: Based on registration type
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Purchase Order
+      - Check by Mail
+      - Invoice Request
+      required: true
+    - id: 23
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For in-person sessions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Other
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: referral_source
+      label: How Did You Hear About This Workshop
+      hint: null
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague Recommendation
+      - Website
+      - Professional Association
+      - Previous Attendee
+      - Other
+      required: false
+    - id: 26
+      name: ceu_needed
+      label: Do You Need Continuing Education Units
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: terms_acceptance
+      label: I Accept the Workshop Terms and Cancellation Policy
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true

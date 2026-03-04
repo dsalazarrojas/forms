@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding-event-plan-questionnaire
+    pages:
+    - id: 1
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: wedding_location
+      label: Wedding Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wedding_package
+      label: Wedding Package
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: people_to_be_contacted
+      label: People to be Contacted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: wedding_coordinator
+      label: Wedding Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_situations
+      label: Family Situations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: photography
+      label: Photography
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: wedding_logistics
+      label: Wedding Logistics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meals
+      label: Meals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Form Web Design Quotation
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: client_email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_message
+      label: Your Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Project 1
+      - Project 2
+      - Project 3
+      required: false
+    - id: 7
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 8
+      name: project_deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

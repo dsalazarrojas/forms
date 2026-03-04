@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_designer_client_questionnaire
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_preferences
+      label: Design Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: design_requests
+      label: Design Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      required: false
+    - id: 5
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Today''}'
+      - '{''id'': 2, ''label'': ''Tomorrow''}'
+      required: false
+    - id: 7
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Light''}'
+      - '{''id'': 2, ''label'': ''Dark''}'
+      required: false
+    - id: 8
+      name: text_color
+      label: Text Color
+      hint: null
+      type: text
+      options: []
+      required: false

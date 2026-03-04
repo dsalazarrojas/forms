@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: BPT CAPA Response (Stake Holder) Form 2019
+    pages:
+    - id: 1
+      name: section_capa_info
+      label: -- CAPA Information --
+      hint: Corrective and Preventative Action
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: capa_number
+      label: CAPA Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: capa_title
+      label: CAPA Title
+      hint: Brief description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_date
+      label: Issue Identification Date
+      hint: When was the issue first identified?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_stakeholder_info
+      label: -- Stakeholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: Person responsible for response
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: stakeholder_title
+      label: Stakeholder Title or Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: stakeholder_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_root_cause
+      label: -- Root Cause Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: root_cause
+      label: Root Cause
+      hint: Why did this issue occur?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: immediate_action
+      label: Immediate Action Taken
+      hint: What was done right away?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_corrective_action
+      label: -- Corrective Action --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: corrective_action
+      label: Corrective Action
+      hint: What will be done to fix the issue?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: action_responsible
+      label: Responsible Person for Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: action_target_date
+      label: Target Completion Date
+      hint: When will this be completed?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: section_preventative_action
+      label: -- Preventative Action --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preventative_action
+      label: Preventative Action
+      hint: How will this be prevented in the future?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: prevention_responsible
+      label: Responsible Person for Prevention
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: prevention_target_date
+      label: Prevention Target Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: effectiveness_check
+      label: Effectiveness Check Date
+      hint: When will the effectiveness be verified?
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

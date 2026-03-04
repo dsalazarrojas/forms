@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Skills Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: workshop_code
+      label: workshop_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: workshop_type
+      label: workshop_type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Expert
+      required: false
+    - id: 9
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: workshop_time
+      label: workshop_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: workshop_location
+      label: workshop_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: number
+      options: []
+      required: false

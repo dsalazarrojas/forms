@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Participation Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waiver_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: organization_abbreviation
+      label: organization_abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_contact_info
+      label: participant_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

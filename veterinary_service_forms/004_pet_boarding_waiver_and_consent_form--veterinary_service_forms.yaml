@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Boarding Waiver And Consent Form
+    pages:
+    - id: 1
+      name: pet_boarding_waiver_and_consent_form
+      label: pet_boarding_waiver_and_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: vet_clinician_name
+      label: vet_clinician_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vet_clinician_phone
+      label: vet_clinician_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vet_clinician_email
+      label: vet_clinician_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: boarding_start_date
+      label: boarding_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: boarding_end_date
+      label: boarding_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 16
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: liability
+      label: liability
+      hint: null
+      type: select_multiple
+      options:
+      - Liability 1
+      - Liability 2
+      - Liability 3
+      required: false
+    - id: 19
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_multiple
+      options:
+      - type 1
+      - type 2
+      - type 3
+      - type 4
+      required: true
+    - id: 21
+      name: pet_health_issues
+      label: pet_health_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pet_medication
+      label: pet_medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pet_medication_dosage
+      label: pet_medication_dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: boarding_fees
+      label: boarding_fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: note
+      options: []
+      required: true

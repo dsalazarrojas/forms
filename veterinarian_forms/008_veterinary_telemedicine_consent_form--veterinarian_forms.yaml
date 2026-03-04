@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Telemedicine Consent Form
+    pages:
+    - id: 1
+      name: pet_owner
+      label: pet owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: owner info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: telehealth_agreement
+      label: telehealth agreement
+      hint: This form is required for all clients who want to engage in telehealth
+        services.
+      type: select_multiple
+      options:
+      - Client understands that our telehealth services are provided by licensed veterinarians
+        or other qualified healthcare professionals.
+      - Client understands that telehealth visits are subject to the laws and regulations
+        of their state and/or province of residence.
+      - Client agrees to participate in telehealth sessions with our licensed veterinarians
+        or other qualified healthcare professionals.
+      - Client understands that their data is secure and confidential.
+      - Client is at least 18 years of age or the appropriate age of majority in their
+        state and/or province of residence.
+      - Client has a working internet connection or a reliable data connection to
+        participate in telehealth sessions.
+      - Client understands that they will have a clear and timely response to their
+        medical inquiries and emergencies.
+      - Client understands that they will have the opportunity to ask questions during
+        the telehealth session.
+      required: false
+    - id: 4
+      name: owner_consent
+      label: owner consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: owner_signature
+      label: owner signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vet_signature
+      label: vet signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

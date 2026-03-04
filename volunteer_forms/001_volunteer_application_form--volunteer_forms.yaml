@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_application_form
+      label: volunteer_application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_hours
+      label: volunteer_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_shifts
+      label: volunteer_shifts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: volunteer_dates
+      label: volunteer_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_notes
+      label: volunteer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_email
+      label: volunteer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_phone
+      label: volunteer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_message
+      label: volunteer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_form_submission
+      label: volunteer_form_submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

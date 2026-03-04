@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSBG Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Name of applicant organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit
+      - Community action agency
+      - Local government
+      - Faith-based organization
+      - Other
+      required: true
+    - id: 3
+      name: ein
+      label: EIN - Employer Identification Number
+      hint: Federal tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: Principal office address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: website
+      label: Website
+      hint: Organization website URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact for application
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_person_title
+      label: Contact Person Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: executive_director
+      label: Executive Director or Executive Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: year_established
+      label: Year Organization Established
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: service_area
+      label: Service Area or Geographic Area
+      hint: Where organization operates
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: populations_served
+      label: Populations Served
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Low-income individuals
+      - Families
+      - Seniors
+      - Children
+      - Youth
+      - Veterans
+      - Homeless
+      - Migrant workers
+      - Other
+      required: true
+    - id: 15
+      name: services_provided
+      label: Services Provided
+      hint: Primary services offered
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: annual_budget
+      label: Annual Operating Budget
+      hint: Approximate annual budget
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: csbg_funding_requested
+      label: CSBG Funding Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: funding_use
+      label: How Funding Will Be Used
+      hint: Detailed description of use
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: measurable_outcomes
+      label: Measurable Outcomes and Goals
+      hint: What results do you expect
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: authorization_signature
+      label: Authorized Representative Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concussion Clinical Mastery Registration
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Full name as it should appear on certificate
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: professional_title
+        label: Professional title
+        hint: MD, PT, AT, RN, etc
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization or employer
+        hint: Institution or private practice
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email address
+        hint: For registration confirmation and materials
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: license_number
+        label: Professional license number
+        hint: Optional for CE tracking
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: session_selection
+        label: Session selection
+        hint: Select workshop sessions to attend
+        type: select_multiple
+        options:
+          - Core clinical mastery
+          - Advanced diagnostics
+          - Return to play protocols
+          - Case review lab
+        required: true
+      - id: 7
+        name: dietary_requirements
+        label: Dietary requirements
+        hint: For catered events
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: payment_status
+        label: Payment status
+        hint: Payment options and confirmation
+        type: select_one
+        options:
+          - Paid
+          - Pending
+          - Invoice required
+        required: true
+      - id: 9
+        name: special_accommodations
+        label: Special accommodations
+        hint: Accessibility or learning accommodations
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: consent_terms
+        label: Consent and terms
+        hint: Read only statement about data use and policies
+        type: note
+        options: []
+        required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Driven Diagnostics Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Professional email for workshop communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number for last-minute updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: professional_title
+      label: Professional Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution you represent
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry_sector
+      label: Industry Sector
+      hint: Field in which you work
+      type: select_one
+      options:
+      - Healthcare
+      - Technology
+      - Research
+      - Education
+      - Government
+      - Other
+      required: true
+    - id: 7
+      name: expertise_level
+      label: Current Expertise Level with AI
+      hint: Rate your familiarity with AI technologies
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 8
+      name: diagnostic_experience
+      label: Experience with Diagnostic Tools
+      hint: Years of experience with diagnostic systems
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workshop_expectations
+      label: Expected Learning Outcomes
+      hint: What do you hope to gain from this workshop?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or dietary requirements
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required for participation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_data_use
+      label: Consent for Data Use
+      hint: I agree to the terms of data collection and use
+      type: select_one
+      options:
+      - Agree
+      - Do not agree
+      required: true

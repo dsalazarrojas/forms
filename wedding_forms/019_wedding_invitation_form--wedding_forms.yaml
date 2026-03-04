@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Invitation Form
+    pages:
+    - id: 1
+      name: wedding_details
+      label: Wedding Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reception_time
+      label: Reception Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wedding_invitation_template
+      label: Wedding Invitation Template
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: wedding_invitation_template_id
+      label: Wedding Invitation Template
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: template_designer
+      label: Template Designer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: designer_email
+      label: Designer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wedding_invitation_note
+      label: Wedding Invitation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: published_by
+      label: Published By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: published_date
+      label: Published Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: published_time
+      label: Published Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: published_by_designer
+      label: Published By Designer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: published_by_email
+      label: Published By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: wedding_invitation_status
+      label: Wedding Invitation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

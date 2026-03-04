@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppetry Workshop Booking Form
+    pages:
+    - id: 1
+      name: workshop_registration_form
+      label: Workshop Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_details_2
+      label: Participant Details 2
+      hint: null
+      type: text
+      options: []
+      required: false

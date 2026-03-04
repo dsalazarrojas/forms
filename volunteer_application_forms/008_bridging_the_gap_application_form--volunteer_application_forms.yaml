@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridging The Gap Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Select your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Enter your street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Enter your state or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Enter your ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_background
+      label: -- Background and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_occupation
+      label: Current Occupation
+      hint: Enter your current occupation or status
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Highest Level of Education
+      hint: Select your highest education level
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associates Degree
+      - Bachelors Degree
+      - Masters Degree
+      - Doctoral Degree
+      required: true
+    - id: 13
+      name: relevant_experience
+      label: Relevant Volunteer or Work Experience
+      hint: Describe any relevant volunteer or work experience
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: skills
+      label: Skills and Qualifications
+      hint: List your relevant skills and qualifications
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_interest
+      label: -- Volunteer Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: area_of_interest
+      label: Preferred Area of Volunteering
+      hint: Select your preferred volunteer area
+      type: select_one
+      options:
+      - Mentoring
+      - Tutoring
+      - Event Support
+      - Administrative Support
+      - Outreach
+      - Fundraising
+      required: true
+    - id: 17
+      name: availability
+      label: Availability
+      hint: Select your availability
+      type: select_one
+      options:
+      - Weekdays Only
+      - Weekends Only
+      - Weekdays and Weekends
+      - Evenings Only
+      - Flexible
+      required: true
+    - id: 18
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: Enter the number of hours you can volunteer weekly
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: start_date
+      label: Earliest Start Date
+      hint: Select the earliest date you can start
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: duration_commitment
+      label: Duration Commitment
+      hint: Select how long you can commit
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1 year or more
+      required: true
+    - id: 21
+      name: section_motivation
+      label: -- Motivation and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: why_volunteer
+      label: Why do you want to volunteer with us
+      hint: Describe your motivation for volunteering
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: reference_name
+      label: Reference Name
+      hint: Enter the name of a professional or personal reference
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reference_contact
+      label: Reference Contact Information
+      hint: Enter email or phone for your reference
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Forum Panelist Registration Form
+    pages:
+    - id: 1
+      name: panelist_details
+      label: Panelist Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expertise_fields
+      label: Expertise Fields
+      hint: Please select all that apply
+      type: select_one
+      options:
+      - '{''value'': ''Carbon Footprint Reduction''}'
+      - '{''value'': ''Supply Chain Optimization''}'
+      - '{''value'': ''Sustainable Materials''}'
+      - '{''value'': ''Waste Minimization''}'
+      - '{''value'': ''Energy Conservation''}'
+      - '{''value'': ''Water Management''}'
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assisted Living Work Order Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: request_time
+      label: Request Time
+      hint: Time of request
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Who is requesting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_role
+      label: Requester Role
+      hint: Position
+      type: select_one
+      options:
+      - Resident
+      - Family Member
+      - Nurse
+      - Caregiver
+      - Administrator
+      - Maintenance Staff
+      - Other
+      required: true
+    - id: 5
+      name: resident_name
+      label: Resident Name
+      hint: If for resident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_number
+      label: Room or Unit Number
+      hint: Location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_wing
+      label: Building or Wing
+      hint: Which area
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_category
+      label: Issue Category
+      hint: Type of problem
+      type: select_one
+      options:
+      - Plumbing
+      - Electrical
+      - HVAC
+      - Appliance
+      - Furniture
+      - Safety Equipment
+      - Building Structure
+      - Grounds
+      - Pest Control
+      - Other
+      required: true
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: What is wrong
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_location_detail
+      label: Specific Location
+      hint: Where exactly
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Emergency - Immediate
+      - High - Within 4 Hours
+      - Medium - Within 24 Hours
+      - Low - Within 3 Days
+      - Routine - Schedule as Needed
+      required: true
+    - id: 12
+      name: safety_hazard
+      label: Is This a Safety Hazard
+      hint: Risk to residents
+      type: select_one
+      options:
+      - Yes - Immediate Danger
+      - Yes - Potential Danger
+      - 'No'
+      required: true
+    - id: 13
+      name: safety_details
+      label: Safety Details
+      hint: Describe hazard
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: affects_resident_care
+      label: Does This Affect Resident Care
+      hint: Impact on care
+      type: select_one
+      options:
+      - Yes - Significantly
+      - Yes - Somewhat
+      - 'No'
+      required: true
+    - id: 15
+      name: access_instructions
+      label: Access Instructions
+      hint: How to enter
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When to reach you
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Anytime
+      required: true
+    - id: 17
+      name: preferred_completion_date
+      label: Preferred Completion Date
+      hint: When needed by
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: photos_attached
+      label: Number of Photos Attached
+      hint: Documentation
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: previous_reports
+      label: Has This Been Reported Before
+      hint: Recurring issue
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: previous_report_date
+      label: Previous Report Date
+      hint: When before
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Special Requirements
+      hint: Any needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_assigned_to
+      label: Assigned To
+      hint: Who will fix
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estimated_completion
+      label: Estimated Completion
+      hint: When will be done
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: parts_needed
+      label: Are Parts Needed
+      hint: Materials required
+      type: select_one
+      options:
+      - Yes - Order Required
+      - Yes - In Stock
+      - 'No'
+      - Unknown
+      required: false
+    - id: 25
+      name: work_completed_date
+      label: Work Completed Date
+      hint: When finished
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: work_description
+      label: Work Performed Description
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: technician_name
+      label: Technician Name
+      hint: Who did work
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: resident_satisfaction
+      label: Resident Satisfaction
+      hint: How happy
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 29
+      name: follow_up_needed
+      label: Is Follow-up Needed
+      hint: More work required
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: requester_signature
+      label: Requester Signature
+      hint: Type name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Workshop Registration Form WorldPay UK Payment Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postcode
+      label: Postcode
+      hint: UK postcode
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United Kingdom
+      - England
+      - Scotland
+      - Wales
+      - Northern Ireland
+      - Other
+      required: true
+    - id: 9
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Select workshop to attend
+      type: select_one
+      options:
+      - Introduction to Oil Painting
+      - Watercolour Techniques
+      - Acrylic Painting Basics
+      - Advanced Portrait Drawing
+      - Sculpture Workshop
+      - Printmaking Basics
+      - Digital Art Fundamentals
+      - Mixed Media Exploration
+      required: true
+    - id: 10
+      name: workshop_date
+      label: Workshop Date
+      hint: Select preferred date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: workshop_time
+      label: Workshop Time
+      hint: Select preferred time
+      type: select_one
+      options:
+      - Morning Session (9 AM - 12 PM)
+      - Afternoon Session (1 PM - 4 PM)
+      - Evening Session (6 PM - 9 PM)
+      - Full Day (9 AM - 4 PM)
+      required: true
+    - id: 12
+      name: experience_level
+      label: Experience Level
+      hint: Your skill level
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 13
+      name: materials_option
+      label: Materials Option
+      hint: Select materials option
+      type: select_one
+      options:
+      - Full Materials Kit Included
+      - Basic Materials Kit
+      - No Materials - Bring My Own
+      required: true
+    - id: 14
+      name: refreshments
+      label: Refreshments
+      hint: Add refreshments package
+      type: select_one
+      options:
+      - Yes - Add Tea and Coffee
+      - Yes - Add Full Catering
+      - No - Not Required
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you need accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: workshop_fee
+      label: Workshop Fee
+      hint: Base workshop fee
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: materials_fee
+      label: Materials Fee
+      hint: Materials cost
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: refreshments_fee
+      label: Refreshments Fee
+      hint: Refreshments cost
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: subtotal
+      label: Subtotal
+      hint: Subtotal before VAT
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vat_rate
+      label: VAT Rate
+      hint: VAT percentage
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: vat_amount
+      label: VAT Amount
+      hint: VAT amount
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_amount
+      label: Total Amount
+      hint: Total amount in GBP
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: Select payment method
+      type: select_one
+      options:
+      - WorldPay Credit Card
+      - WorldPay Debit Card
+      - WorldPay PayPal
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 27
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Maestro
+      - Not Applicable
+      required: false
+    - id: 28
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: billing_address
+      label: Billing Address
+      hint: Billing address if different
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes - I Understand
+      - false
+      required: true
+    - id: 32
+      name: data_protection
+      label: Data Protection
+      hint: I agree to data protection terms
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

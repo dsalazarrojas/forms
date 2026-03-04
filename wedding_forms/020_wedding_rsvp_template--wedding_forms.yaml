@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding RSVP Template
+    pages:
+    - id: 1
+      name: wedding_details
+      label: wedding_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guests_attending
+      label: guests_attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: number_of_guests_attending
+      label: number_of_guests_attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: will_attend
+      label: will_attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_at
+      label: rsvp_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_time
+      label: rsvp_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: guests_children_attending
+      label: guests_children_attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

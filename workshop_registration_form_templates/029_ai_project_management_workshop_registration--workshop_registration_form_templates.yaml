@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Project Management Workshop Registration
+    pages:
+    - id: 1
+      name: --registrant_details--
+      label: -- Registrant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or team
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years experience managing projects
+      hint: Whole number
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: goals_for_attendance
+      label: Goals for attendance
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_preference
+      label: Session preference
+      hint: Select one
+      type: select_one
+      options:
+      - Weekday intensive
+      - Weekend bootcamp
+      - Remote self paced
+      required: true
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact details
+      hint: Optional
+      type: text
+      options: []
+      required: false

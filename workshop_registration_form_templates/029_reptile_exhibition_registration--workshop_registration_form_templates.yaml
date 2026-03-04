@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reptile Exhibition Registration
+    pages:
+    - id: 1
+      name: exhibit_name
+      label: exhibit_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: show_details
+      label: show_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: animal_info
+      label: animal_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: rule_agreement
+      label: i_agree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''i_agree'', ''value'': True}'
+      - '{''name'': ''i_dont_agree'', ''value'': False}'
+      required: true
+    - id: 6
+      name: exhibit_type
+      label: exhibit_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''reptile_show'', ''value'': ''Reptile Show''}'
+      - '{''name'': ''educational_event'', ''value'': ''Educational Event''}'
+      - '{''name'': ''trade_show'', ''value'': ''Trade Show''}'
+      required: true
+    - id: 7
+      name: animal_species
+      label: animal_species
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''reptile'', ''value'': ''Reptile''}'
+      - '{''name'': ''other'', ''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: show_location
+      label: show_location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''on_site'', ''value'': ''On Site''}'
+      - '{''name'': ''off_site'', ''value'': ''Off Site''}'
+      required: true
+    - id: 9
+      name: exhibit_size
+      label: exhibit_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: exhibit_setup_time
+      label: exhibit_setup_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: show_start_time
+      label: show_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: show_finish_time
+      label: show_finish_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: setup_cost
+      label: setup_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: teardown_cost
+      label: teardown_cost
+      hint: null
+      type: number
+      options: []
+      required: true

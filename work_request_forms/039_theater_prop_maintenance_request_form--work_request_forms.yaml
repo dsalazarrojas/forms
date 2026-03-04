@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Prop Maintenance Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Theater Prop Maintenance Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: Select a request type
+      type: select_one
+      options:
+      - General Maintenance
+      - Repair
+      - Request for new prop
+      required: false
+    - id: 3
+      name: prop_name
+      label: Prop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: related_work_orders
+      label: Related Work Orders
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Related
+      required: false
+    - id: 14
+      name: priority
+      label: Priority
+      hint: High, Medium, or Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: estimated_duration
+      label: Estimated Duration
+      hint: Estimate time required for completion
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Estimate cost of request
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: status_comments
+      label: Status Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: request_type_comments
+      label: Request Type Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: prop_name_comments
+      label: Prop Name Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: description_comments
+      label: Description Comments
+      hint: null
+      type: note
+      options: []
+      required: false

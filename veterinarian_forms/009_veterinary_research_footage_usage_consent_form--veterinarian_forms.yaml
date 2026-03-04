@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Research Footage Usage Consent Form
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animal_info
+      label: Animal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: footage_details
+      label: Footage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''yes'', ''label'': ''Yes''}'
+      - '{''id'': ''no'', ''label'': ''No''}'
+      required: false
+    - id: 5
+      name: date_recorded
+      label: Date Recorded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_recorded
+      label: Time Recorded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_recorded
+      label: Location Recorded
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: duration_recorded
+      label: Duration Recorded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: footage_purpose
+      label: Footage Purpose
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Research''}'
+      - '{''id'': 2, ''label'': ''Training''}'
+      - '{''id'': 3, ''label'': ''Commercial''}'
+      - '{''id'': 4, ''label'': ''Educational''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: owner_note
+      label: Owner Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: veterinarian_note
+      label: Veterinarian Note
+      hint: null
+      type: note
+      options: []
+      required: false

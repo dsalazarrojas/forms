@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Visual Inspection Checklist
+    pages:
+    - id: 1
+      name: website_visual_inspection_checklist
+      label: Website Visual Inspection Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_design_quality
+      label: Website Design Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - '1: Primary color'
+      - '2: Secondary color'
+      - '3: Accent color'
+      required: false
+    - id: 4
+      name: navigation_menu
+      label: Navigation Menu
+      hint: null
+      type: select_multiple
+      options:
+      - '1: Responsive'
+      - '2: Consistent'
+      - '3: Easy to navigate'
+      required: false
+    - id: 5
+      name: website_performance
+      label: Website Performance
+      hint: null
+      type: select_one
+      options:
+      - '1: Fast'
+      - '2: Slow'
+      required: false
+    - id: 6
+      name: content_quality
+      label: Content Quality
+      hint: null
+      type: select_one
+      options:
+      - '1: High quality'
+      - '2: Medium quality'
+      - '3: Low quality'
+      required: false
+    - id: 7
+      name: accessibility
+      label: Accessibility
+      hint: null
+      type: select_one
+      options:
+      - '1: Yes'
+      - '2: No'
+      required: false
+    - id: 8
+      name: content_updating
+      label: Content updating frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: content_updating_impact
+      label: Content updating impact
+      hint: null
+      type: select_one
+      options:
+      - '1: High impact'
+      - '2: Medium impact'
+      - '3: Low impact'
+      required: false
+    - id: 10
+      name: content_updating_frequency
+      label: Content updating frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: navigation_menu_items
+      label: Navigation Menu Items
+      hint: null
+      type: select_one
+      options:
+      - '1: Limited'
+      - '2: Moderate'
+      - '3: Extensive'
+      required: false
+    - id: 12
+      name: website_security
+      label: Website Security
+      hint: null
+      type: select_one
+      options:
+      - '1: Secure'
+      - '2: Insecure'
+      required: false
+    - id: 13
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: website_visual_inspection_checklist_verified
+      label: Website Visual Inspection Checklist Verified
+      hint: null
+      type: select_one
+      options:
+      - '1: Yes'
+      - '2: No'
+      required: false
+    - id: 15
+      name: website_visual_inspection_checklist_verified_impact
+      label: Website Visual Inspection Checklist Verified Impact
+      hint: null
+      type: select_one
+      options:
+      - '1: High impact'
+      - '2: Medium impact'
+      - '3: Low impact'
+      required: false

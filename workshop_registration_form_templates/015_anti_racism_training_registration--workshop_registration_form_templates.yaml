@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Racism Training Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For confirmation and materials
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization or Affiliation
+      hint: Your organization or school
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Corporate or business
+      - Nonprofit
+      - Educational institution
+      - Government agency
+      - Healthcare organization
+      - Community group
+      - Individual
+      - Other
+      required: true
+    - id: 6
+      name: job_role
+      label: Job Role or Position
+      hint: Your title or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Retail
+      - Manufacturing
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 8
+      name: team_size
+      label: Team or Organization Size
+      hint: Approximate number of people
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 to 1000
+      - More than 1000
+      required: false
+    - id: 9
+      name: training_type
+      label: Training Type
+      hint: Which training are you registering for
+      type: select_one
+      options:
+      - Introduction to Anti-Racism
+      - Advanced Anti-Racism Workshop
+      - Train the Trainer
+      - Leadership in Anti-Racism
+      - Bystander Intervention
+      - Custom program
+      required: true
+    - id: 10
+      name: number_of_participants
+      label: Number of Participants
+      hint: How many people are registering
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: preferred_date
+      label: Preferred Training Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_format
+      label: Delivery Format
+      hint: How should training be delivered
+      type: select_one
+      options:
+      - In-person onsite
+      - In-person at our location
+      - Virtual live
+      - Hybrid
+      - Recorded session
+      required: true
+    - id: 14
+      name: training_duration
+      label: Preferred Duration
+      hint: How long should the session be
+      type: select_one
+      options:
+      - Half day (4 hours)
+      - Full day (8 hours)
+      - Two days
+      - Multiple shorter sessions
+      - Custom duration
+      required: true
+    - id: 15
+      name: timezone
+      label: Timezone
+      hint: Your timezone for scheduling
+      type: select_one
+      options:
+      - Eastern Time
+      - Central Time
+      - Mountain Time
+      - Pacific Time
+      - Alaska Time
+      - Hawaii Time
+      - Other
+      required: true
+    - id: 16
+      name: learning_objectives
+      label: Primary Learning Objectives
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Build foundational knowledge
+      - Develop practical skills
+      - Create action plans
+      - Train others
+      - Address specific incidents
+      - Improve workplace culture
+      - Meet compliance requirements
+      required: true
+    - id: 17
+      name: current_initiatives
+      label: Current DEI Initiatives
+      hint: What is already in place
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specific_challenges
+      label: Specific Challenges to Address
+      hint: Any particular issues to focus on
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Accommodations needed
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair accessibility
+      - Sign language interpretation
+      - Closed captioning
+      - Accessible materials
+      - Other
+      required: true
+    - id: 20
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Please specify requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Invoice to organization
+      - Purchase order
+      - Grant funding
+      - Scholarship requested
+      required: true
+    - id: 22
+      name: billing_contact
+      label: Billing Contact Name
+      hint: Person responsible for payment
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: billing_email
+      label: Billing Email
+      hint: Email for invoices
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have a discount code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website search
+      - Social media
+      - Colleague recommendation
+      - Professional association
+      - Previous participant
+      - Other
+      required: true
+    - id: 26
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you agree to registration terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 27
+      name: cancellation_policy_acknowledged
+      label: Cancellation Policy Acknowledged
+      hint: Have you read the cancellation policy
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - Other
+      required: true
+    - id: 28
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

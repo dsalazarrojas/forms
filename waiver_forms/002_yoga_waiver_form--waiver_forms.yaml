@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_waiver_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_phone
+      label: doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_note
+      label: doctor_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parent_note
+      label: parent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_response
+      label: emergency_response
+      hint: null
+      type: select_one
+      options:
+      - emergency_response_option_1
+      - emergency_response_option_2
+      - emergency_response_option_3
+      - emergency_response_option_4
+      - emergency_response_option_5
+      required: true
+    - id: 18
+      name: medical_insurance
+      label: medical_insurance
+      hint: null
+      type: select_one
+      options:
+      - medical_insurance_option_1
+      - medical_insurance_option_2
+      - medical_insurance_option_3
+      required: false
+    - id: 19
+      name: emergency_contact_method
+      label: emergency_contact_method
+      hint: null
+      type: select_one
+      options:
+      - emergency_contact_method_option_1
+      - emergency_contact_method_option_2
+      - emergency_contact_method_option_3
+      required: false
+    - id: 20
+      name: emergency_response_method
+      label: emergency_response_method
+      hint: null
+      type: select_one
+      options:
+      - emergency_response_method_option_1
+      - emergency_response_method_option_2
+      - emergency_response_method_option_3
+      required: false
+    - id: 21
+      name: sign_date
+      label: sign_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: sign_time
+      label: sign_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: sign_location
+      label: sign_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: sign_ip
+      label: sign_ip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: sign_browser
+      label: sign_browser
+      hint: null
+      type: text
+      options: []
+      required: true

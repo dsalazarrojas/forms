@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Release Form
+    pages:
+    - id: 1
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: animal_info
+      label: Animal Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: release_info
+      label: Release Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: veterinarian_info
+      label: Veterinarian Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorization_info
+      label: Authorization Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: veterinary_info
+      label: Veterinary Info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_info
+      label: Signature Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: text
+      options: []
+      required: false

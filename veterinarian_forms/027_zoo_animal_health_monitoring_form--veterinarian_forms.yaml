@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Animal Health Monitoring Form
+    pages:
+    - id: 1
+      name: animal_id
+      label: Animal ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Zebra
+      - Elephant
+      - Lion
+      - Gorilla
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Unhealthy
+      - Sick
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medication
+      label: Medication
+      hint: Optional medication being taken by the animal
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinarian
+      label: Veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false

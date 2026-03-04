@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escape Room Form
+    pages:
+    - id: 1
+      name: escape_room_form_1
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: player_type
+      label: Player Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: player_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: age
+      hint: 16
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: escape_room_experience
+      label: Escape Room Experience
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Design And Development Requirement Form
+    pages:
+    - id: 1
+      name: website_design_requirements
+      label: What is the website for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: What is the project description?
+      hint: Briefly describe the website's purpose and goals
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: website_url
+      label: Website URL
+      hint: Enter the website's current URL
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: web_hosting
+      label: Web Hosting Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Hosting type
+      - Storage
+      - Security
+      - Bandwidth
+      - Support
+      required: false
+    - id: 5
+      name: content_management_system
+      label: Content Management System
+      hint: null
+      type: select_multiple
+      options:
+      - WordPress
+      - Joomla
+      - Drupal
+      - Other
+      required: false
+    - id: 6
+      name: website_functionality
+      label: What is the website's functionality?
+      hint: Choose the website's functionality
+      type: select_one
+      options:
+      - Blog
+      - E-commerce
+      - Portfolio
+      - Business
+      - Informational
+      - Other
+      required: true
+    - id: 7
+      name: project_deadline
+      label: What is the project deadline?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_budget
+      label: What is the project budget?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Behavior Information Form
+    pages:
+    - id: 1
+      name: section_behavior_header
+      label: -- Animal Behavior Information Questionnaire --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Canine
+      - Feline
+      - Other
+      required: true
+    - id: 5
+      name: section_behavior_assessment
+      label: -- Behavioral Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_behavior_concern
+      label: What is your primary behavior concern?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: onset_of_behavior
+      label: Onset of Behavior
+      hint: null
+      type: select_one
+      options:
+      - Sudden
+      - Gradual
+      - Always present
+      required: true
+    - id: 8
+      name: observed_behaviors
+      label: Observed Behaviors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Aggression towards people
+      - Aggression towards animals
+      - Separation Anxiety
+      - Excessive Barking / Meowing
+      - Destructive Chewing
+      - Inappropriate Elimination
+      required: false
+    - id: 9
+      name: intensity_of_behavior
+      label: Average Intensity of Behavior
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 10
+      name: section_environment_triggers
+      label: -- Environment and Triggers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: known_triggers
+      label: Known Triggers for This Behavior
+      hint: e.g. Loud noises, strangers, other animals
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: how_do_you_currently_respond_to_behavior
+      label: How do you currently respond to this behavior?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_training_experience
+      label: Previous Training Experience
+      hint: null
+      type: select_one
+      options:
+      - Professional Trainer
+      - Home Training
+      - No Training
+      required: true
+    - id: 14
+      name: section_final_details
+      label: -- Final Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: goals_for_behavior_modification
+      label: What are your primary goals for behavior modification?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

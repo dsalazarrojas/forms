@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Signing Volunteer Registration
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For day-of coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Book Signing Event
+      hint: Which event are you volunteering for
+      type: select_one
+      options:
+      - Author Meet and Greet March 15
+      - Book Launch Party April 5
+      - Library Book Signing April 20
+      - Bookstore Signing May 10
+      - Multiple Events
+      required: true
+    - id: 10
+      name: availability
+      label: Your Availability
+      hint: When can you volunteer
+      type: select_multiple
+      options:
+      - Setup 1 hour before
+      - Event Start
+      - Middle of Event
+      - End of Event
+      - Cleanup After
+      required: true
+    - id: 11
+      name: volunteer_role_preference
+      label: Preferred Volunteer Role
+      hint: Select your preferred role
+      type: select_one
+      options:
+      - Greeting Guests
+      - Line Management
+      - Book Sales
+      - Book Signing Assistant
+      - Photography
+      - Social Media
+      - Setup or Cleanup
+      - Any Role
+      required: true
+    - id: 12
+      name: previous_volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Have you volunteered before
+      type: select_one
+      options:
+      - Yes at book events
+      - Yes at other events
+      - No this is my first
+      required: false
+    - id: 13
+      name: skills
+      label: Relevant Skills
+      hint: Select any relevant skills
+      type: select_multiple
+      options:
+      - Customer Service
+      - Cash Handling
+      - Photography
+      - Social Media
+      - Event Planning
+      - First Aid Certified
+      - None
+      required: false
+    - id: 14
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For volunteer shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not Needed
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Do you consent if required
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: false
+    - id: 19
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability for volunteering
+      type: select_one
+      options:
+      - Yes I waive
+      - No I do not waive
+      required: true
+    - id: 20
+      name: photo_release
+      label: Photo Release
+      hint: Permission to use photos
+      type: select_one
+      options:
+      - Yes granted
+      - No not granted
+      required: true
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About This Opportunity
+      hint: How did you find out
+      type: select_one
+      options:
+      - Author Website
+      - Social Media
+      - Library
+      - Bookstore
+      - Friend Referral
+      - Other
+      required: false
+    - id: 22
+      name: why_volunteer
+      label: Why Do You Want to Volunteer
+      hint: Share your motivation
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I Agree to Volunteer Guidelines
+      hint: By selecting yes you agree to follow guidelines
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

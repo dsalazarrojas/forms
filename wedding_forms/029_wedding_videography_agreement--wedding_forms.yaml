@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Videography Agreement
+    pages:
+    - id: 1
+      name: wedding_videography_agreement_form
+      label: Wedding Videography Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: videography_services
+      label: Videography Services
+      hint: null
+      type: select_one
+      options:
+      - Wedding Videography Services
+      - Wedding Videography Services with Drone
+      - Wedding Videography Services with Aerial Videography
+      required: true
+    - id: 3
+      name: date_of_wedding
+      label: Date of Wedding
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: videographer_name
+      label: Videographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

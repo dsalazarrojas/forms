@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Success Framework Training Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: Register for Client Success Framework Training
+      hint: Join us for an interactive workshop on client success strategies
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: We will send training details to this email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_info_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team_size
+      label: Size of your team
+      hint: Number of people you manage or work with
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: years_in_role
+      label: Years in your current role
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_section
+      label: -- Training Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_date
+      label: Preferred Training Date
+      hint: null
+      type: select_one
+      options:
+      - March 15, 2024
+      - March 22, 2024
+      - March 29, 2024
+      - April 5, 2024
+      - April 12, 2024
+      required: true
+    - id: 15
+      name: preferred_format
+      label: Preferred Training Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 16
+      name: training_location
+      label: Preferred Location (if in-person)
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Dallas
+      - Miami
+      - San Francisco
+      - Boston
+      - Other
+      required: false
+    - id: 17
+      name: prior_training
+      label: Have you completed client success training before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: training_goals
+      label: -- Learning Goals and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: experience_level
+      label: Your experience level with client success
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 20
+      name: primary_goal
+      label: Primary goal for attending this training
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: learning_objectives
+      label: Which topics are you most interested in learning about?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Client Onboarding Best Practices
+      - Building Client Relationships
+      - Managing Client Expectations
+      - Measuring Client Success
+      - Proactive Problem Solving
+      - Growth and Expansion Strategies
+      - Communication Frameworks
+      - Technology and Tools
+      required: true
+    - id: 22
+      name: current_challenges
+      label: Current challenges in client success
+      hint: What problems are you trying to solve?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: logistics_section
+      label: -- Logistics and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: dietary_requirements
+      label: Dietary requirements or restrictions
+      hint: Meals will be provided at in-person events
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accessibility_needs
+      label: Any accessibility needs or accommodations needed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: hotel_needed
+      label: Do you need hotel accommodations?
+      hint: For in-person training
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: false
+    - id: 27
+      name: additional_section
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: how_heard
+      label: How did you hear about this training?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Social Media
+      - Colleague Recommendation
+      - Manager Recommendation
+      - Industry Event
+      - Other
+      required: false
+    - id: 29
+      name: agree_to_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional comments or questions?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: wage_loss_verification_form
+    pages:
+    - id: 1
+      name: injured_date
+      label: Injured Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employer_email
+      label: Employer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: wages_lost
+      label: Wages Lost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: wages_per_week
+      label: Wages Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: weeks_missed
+      label: Weeks Missed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_wages_lost
+      label: Total Wages Lost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: wage_rate
+      label: Wage Rate
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 11
+      name: wage_rate_other
+      label: Other Wage Rate
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_reason
+      label: Other Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: verified_on
+      label: Verified On
+      hint: null
+      type: date
+      options: []
+      required: false

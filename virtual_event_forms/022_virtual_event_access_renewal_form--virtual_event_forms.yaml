@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Access Renewal Form
+    pages:
+    - id: 1
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_method_1'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''online_payment_gateway'', ''label'': ''Online Payment
+        Gateway''}'
+      - '{''id'': 3, ''name'': ''offline_payment'', ''label'': ''Offline Payment''}'
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method_choice
+      label: Payment Method Choice
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''payment_method_1'', ''label'': ''Bank Transfer''}'
+      - '{''id'': 2, ''name'': ''online_payment_gateway'', ''label'': ''Online Payment
+        Gateway''}'
+      - '{''id'': 3, ''name'': ''offline_payment'', ''label'': ''Offline Payment''}'
+      required: false
+    - id: 5
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_frequency_1'', ''label'': ''One Time''}'
+      - '{''id'': 2, ''name'': ''payment_frequency_2'', ''label'': ''Multiple Times''}'
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event_status_1'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''event_status_2'', ''label'': ''Inactive''}'
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_status_1'', ''label'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''payment_status_2'', ''label'': ''Unpaid''}'
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event_type_1'', ''label'': ''Virtual''}'
+      - '{''id'': 2, ''name'': ''event_type_2'', ''label'': ''In-Person''}'
+      required: false
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''event_time_zone_1'', ''label'': ''UTC''}'
+      - '{''id'': 2, ''name'': ''event_time_zone_2'', ''label'': ''EST''}'
+      required: false
+    - id: 16
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

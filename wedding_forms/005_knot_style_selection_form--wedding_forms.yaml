@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knot Style Selection Form
+    pages:
+    - id: 1
+      name: wedding_knot_style
+      label: Wedding Knot Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: knot_style_option_1
+      label: Rope Knot
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: knot_style_option_2
+      label: Rope and Knot
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: knot_style_option_3
+      label: Square Knot
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Discovery Event Registration
+    pages:
+    - id: 1
+      name: section_attendee
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: false
+    - id: 6
+      name: section_event
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_location
+      label: Event Location or Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_interests
+      label: -- Art Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: art_interests
+      label: Types of Art Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Contemporary art
+      - Classical art
+      - Photography
+      - Sculpture
+      - Digital art
+      - Installation art
+      - Performance art
+      - Mixed media
+      required: true
+    - id: 13
+      name: experience_level
+      label: Art Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Casual enthusiast
+      - Experienced collector
+      - Artist
+      - Professional in field
+      required: false
+    - id: 14
+      name: section_accessibility
+      label: -- Accessibility and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: Wheelchair access, seating, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: If event includes refreshments
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assistant_needed
+      label: Will you be bringing an assistant or companion
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - one person
+      - Yes - multiple people
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: guest_count
+      label: Number of Guests Including You
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No further contact
+      required: true
+    - id: 21
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Website
+      - Email newsletter
+      - Friend or colleague
+      - Venue listing
+      - Other
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

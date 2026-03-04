@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Relinquishment Form
+    pages:
+    - id: 1
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_found
+      label: Date Found
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_found
+      label: Reason Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: adoption_agreement
+      label: Adoption Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: relinquish_date
+      label: Relinquish Date
+      hint: null
+      type: date
+      options: []
+      required: false

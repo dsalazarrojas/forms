@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planning Questionnaire Template
+    pages:
+    - id: 1
+      name: wedding_planning_questions
+      label: Wedding Planning Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: couple_details
+      label: Couple Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: ceremony_details
+      label: Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reception_details
+      label: Reception Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_gallery
+      label: Photo Gallery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wedding_party
+      label: Wedding Party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dress_code
+      label: Dress Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

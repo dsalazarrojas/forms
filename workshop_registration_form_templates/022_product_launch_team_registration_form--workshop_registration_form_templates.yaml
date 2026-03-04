@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Launch Team Registration Form
+    pages:
+    - id: 1
+      name: product_launch_team_registration
+      label: Product Launch Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_launch_team_registration_roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Development
+      - Design
+      - Product
+      required: false
+    - id: 3
+      name: product_launch_team_registration_skills
+      label: Skills
+      hint: null
+      type: select_one
+      options:
+      - Writing
+      - Design
+      - Development
+      - Analysis
+      - Testing
+      required: false
+    - id: 4
+      name: product_launch_team_registration_availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: product_launch_team_registration_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: product_launch_team_registration_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_launch_team_registration_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_launch_team_registration_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

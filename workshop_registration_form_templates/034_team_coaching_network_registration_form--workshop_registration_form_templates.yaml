@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Coaching Network Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Which of the following services do you want to join?
+      hint: null
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 8
+      name: select_multiple
+      label: Select multiple services
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: coach
+      label: Coach
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - Goalkeeper
+      - Forward
+      - Defense
+      - Midfielder
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Team Member
+      - Team Leader
+      - Team Coach
+      - Team Player
+      required: false
+    - id: 15
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: terms
+      label: Terms & Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Defense Signal Group Sign Up
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name for group membership
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_contact
+      label: Preferred contact method
+      hint: Phone number used for Signal group
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: neighborhood
+      label: Neighborhood or area
+      hint: Helps assign to local group
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: code_of_conduct_agreement
+      label: Agreement to group code of conduct
+      hint: Agree to guidelines for participation
+      type: select_one
+      options:
+      - I agree to follow the code of conduct
+      - I do not agree
+      required: true
+    - id: 5
+      name: safety_preferences
+      label: Safety and privacy preferences
+      hint: Any concerns about visibility or sharing
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability_for_alerts
+      label: Availability for urgent alerts
+      hint: Best times to contact you
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_upload_for_virtual_assessment
+    pages:
+    - id: 1
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_count
+      label: photo_count
+      hint: null
+      type: number
+      options: []
+      required: false

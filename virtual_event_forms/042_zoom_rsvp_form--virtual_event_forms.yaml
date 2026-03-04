@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pacific Time Zone'', ''value'': ''Pacific Time Zone''}'
+      - '{''label'': ''Central Time Zone'', ''value'': ''Central Time Zone''}'
+      - '{''label'': ''Eastern Time Zone'', ''value'': ''Eastern Time Zone''}'
+      required: true

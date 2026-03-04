@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Officer Election Form
+    pages:
+    - id: 1
+      name: general_informations
+      label: General Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: term_start
+      label: Term Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: term_end
+      label: Term End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vote_issued_by
+      label: Vote Issued By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''President''}'
+      - '{''id'': 2, ''label'': ''Vice President''}'
+      - '{''id'': 3, ''label'': ''Secretary''}'
+      - '{''id'': 4, ''label'': ''Treasurer''}'
+      required: false
+    - id: 7
+      name: vote_issued_by_other
+      label: Vote Issued By Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vote_issued_by_other_note
+      label: Vote Issued By Other Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      - '{''id'': 5, ''label'': ''Not Provided''}'
+      - '{''id'': 6, ''label'': ''Undecided''}'
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3''}'
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_designation
+      label: Submitter Designation
+      hint: null
+      type: text
+      options: []
+      required: false

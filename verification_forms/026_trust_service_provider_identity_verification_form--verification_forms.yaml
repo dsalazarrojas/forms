@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trust Service Provider Identity Verification Form
+    pages:
+    - id: 1
+      name: trust_service_provider_form_1
+      label: verify_identity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_provider_id
+      label: service_provider_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: verification_request_id
+      label: verification_request_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_provider_name
+      label: service_provider_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_provider_type
+      label: service_provider_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bank''}'
+      - '{''id'': 2, ''label'': ''Government''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: service_provider_logo
+      label: service_provider_logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_provider_license
+      label: service_provider_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_provider_cert
+      label: service_provider_cert
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: identity_verification_type
+      label: identity_verification_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manual Check''}'
+      - '{''id'': 2, ''label'': ''Automatic Check''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Approved''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: true
+    - id: 17
+      name: date_of_verification
+      label: date_of_verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time_of_verification
+      label: time_of_verification
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: verification_request_comments
+      label: verification_request_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trust_service_provider_comments
+      label: trust_service_provider_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: verification_status
+      label: verification_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Verified''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: true

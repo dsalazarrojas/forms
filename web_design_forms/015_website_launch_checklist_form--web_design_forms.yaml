@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Launch Checklist Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_creation_team
+      label: content_creation_team
+      hint: null
+      type: select_multiple
+      options:
+      - content_creation_team
+      - Other
+      required: false
+    - id: 4
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - in_progress
+      - launched
+      - cancelled
+      required: false
+    - id: 5
+      name: launch_date
+      label: launch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: testing_status
+      label: testing_status
+      hint: null
+      type: select_multiple
+      options:
+      - completed
+      - in_progress
+      - not_completed
+      required: false
+    - id: 7
+      name: launch_time
+      label: launch_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: website_launched
+      label: website_launched
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_leader
+      label: project_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_developer
+      label: project_developer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - awaiting_approval
+      - declined
+      required: false
+    - id: 17
+      name: testing_status
+      label: testing_status
+      hint: null
+      type: select_multiple
+      options:
+      - completed
+      - in_progress
+      - not_completed
+      required: false
+    - id: 18
+      name: launch_status
+      label: launch_status
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

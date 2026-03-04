@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Travel Assistance Program Application Form
+    pages:
+    - id: 1
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - dog
+      - cat
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_start_date
+      label: Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_end_date
+      label: Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_travel
+      label: Reason For Travel
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Business
+      required: false
+    - id: 12
+      name: travel_method
+      label: Travel Method
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Airplane
+      required: false
+    - id: 13
+      name: travel_frequency
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 14
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: travel_notes
+      label: Travel Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: travel_notes_other
+      label: Other Travel Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: travel_assistance_amount
+      label: Travel Assistance Amount
+      hint: null
+      type: select_one
+      options:
+      - $10-$50
+      - $51-$100
+      - $101-$200
+      - Other
+      required: false

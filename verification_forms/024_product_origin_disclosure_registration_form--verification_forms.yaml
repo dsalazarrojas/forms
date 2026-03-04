@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Product Origin Disclosure Registration Form
+    pages:
+    - id: 1
+      name: product_origin
+      label: Product Origin
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Food
+      - Non-Food
+      - Pet Food
+      - Beauty and Personal Care
+      - Pharmaceutical
+      - Cosmetic
+      - Baby Care
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - China
+      - Japan
+      - South Korea
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      required: false
+    - id: 5
+      name: product_description
+      label: Product Description
+      hint: Describe your product in 100 words
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_image
+      label: Product Image
+      hint: Upload a image of your product
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: origin_certifications
+      label: Origin Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - GMO-Free
+      - Halal
+      - Kosher
+      - Non-Gmo
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

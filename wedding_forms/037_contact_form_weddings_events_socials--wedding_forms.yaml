@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Weddings, Events, Socials
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email_address
+      label: Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone_number
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: type_of_event
+      label: Type of Event
+      hint: What kind of occasion is this?
+      type: select_one
+      options:
+      - Wedding
+      - Social Gathering
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Preferred date for the event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_theme
+      label: Event Theme
+      hint: Describe the desired theme or style
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: estimated_guest_count
+      label: Estimated Guest Count
+      hint: Number of people expected
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_budget_catering
+      label: -- Budget and Catering --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: realistic_budget_range
+      label: Realistic Budget Range
+      hint: Total budget for the event
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $10,000
+      - $10,001 - $25,000
+      - $25,001 - $50,000
+      - $50,000+
+      required: true
+    - id: 12
+      name: catering_preference
+      label: Catering Preference
+      hint: What type of food service do you prefer?
+      type: select_one
+      options:
+      - Buffet Style
+      - Plated Service
+      - Family Style
+      - Cocktail Reception
+      - Food Stations
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Any Dietary Restrictions?
+      hint: e.g., Vegetarian, Gluten-Free, Nut-Free
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: message_content
+      label: Your Detailed Message
+      hint: Any other information for the event planner?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

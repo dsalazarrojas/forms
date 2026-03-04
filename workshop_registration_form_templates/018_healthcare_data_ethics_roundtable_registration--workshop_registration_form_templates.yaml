@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Data Ethics Roundtable Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic_interest
+      label: Topic Interest
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Clinical
+      - Research
+      required: true
+    - id: 3
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: topic_interests_1
+      label: Topics of Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: topic_interests_2
+      label: Other Topics of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs_1
+      label: Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: accessibility_needs_2
+      label: Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

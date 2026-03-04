@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Workshop Volunteer Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the volunteer
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email address of the volunteer
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone number of the volunteer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_workshop
+      label: Select Workshop
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''workshop1''}'
+      - '{''value'': ''workshop2''}'
+      - '{''value'': ''workshop3''}'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Date of birth of the volunteer
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''student''}'
+      - '{''value'': ''staff''}'
+      - '{''value'': ''faculty''}'
+      required: false
+    - id: 9
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

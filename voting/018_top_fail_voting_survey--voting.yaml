@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: top_fail_voting_survey
+    pages:
+    - id: 1
+      name: team_select
+      label: Team Select
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fail_input
+      label: Fail Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: severity_rating
+      label: Severity Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: explanation
+      label: Explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audience_feedback
+      label: Audience Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vote_input
+      label: Vote Input
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vote
+      label: Vote
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

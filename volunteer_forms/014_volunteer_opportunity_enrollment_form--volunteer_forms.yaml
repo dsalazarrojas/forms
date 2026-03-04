@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer_opportunity_enrollment_form
+    pages:
+    - id: 1
+      name: volunteer_opportunity_name
+      label: What is the name of the volunteer opportunity?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_type
+      label: Type of Volunteer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 6
+      name: volunteer_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''label'': ''Morning''}'
+      - '{''id'': 5, ''label'': ''Afternoon''}'
+      - '{''id'': 6, ''label'': ''Evening''}'
+      - '{''id'': 7, ''label'': ''Weekend''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_form_id
+      label: Volunteer Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

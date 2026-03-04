@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Examination Appointment Form
+    pages:
+    - id: 1
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: examination_date
+      label: Examination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: examination_time
+      label: Examination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pet_owner_info
+      label: Pet Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: examination_notes
+      label: Examination Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian_info
+      label: Veterinarian Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: examination_result
+      label: Examination Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_medical_conditions
+      label: Pet Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

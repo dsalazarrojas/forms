@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Data Science Symposium Registration
+    pages:
+    - id: 1
+      name: registrant_info
+      label: -- Registrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affiliation
+      label: Organization/Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: professional_info
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: professional_role
+      label: Primary Professional Role
+      hint: null
+      type: select_one
+      options:
+      - Data Scientist
+      - Healthcare Provider
+      - Researcher
+      - Public Health Official
+      - Industry Professional
+      - Student
+      - Other
+      required: true
+    - id: 10
+      name: experience_level
+      label: Years of Experience in Field
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 11
+      name: expertise_area
+      label: Area of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Machine Learning
+      - Public Health
+      - Clinical Research
+      - Disease Epidemiology
+      - Health Informatics
+      - Data Visualization
+      - Statistical Analysis
+      required: true
+    - id: 12
+      name: symposium_details
+      label: -- Symposium Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: symposium_date
+      label: Symposium Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Workshop only
+      - Virtual attendance
+      - Group registration
+      required: true
+    - id: 15
+      name: sessions_interest
+      label: Session Preferences
+      hint: Select sessions you want to attend
+      type: select_multiple
+      options:
+      - Keynote Address
+      - Data Analytics in Healthcare
+      - Machine Learning Applications
+      - Policy and Prevention
+      - Case Studies
+      - Networking Session
+      - Workshop 1
+      - Workshop 2
+      required: true
+    - id: 16
+      name: special_needs
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accommodation_needs
+      label: Any Other Accommodation Needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: research_interests
+      label: -- Research Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: research_focus
+      label: Current Research Focus or Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: networking_interest
+      label: Interested in Networking Opportunities?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

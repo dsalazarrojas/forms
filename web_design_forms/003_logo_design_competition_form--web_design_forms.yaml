@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logo Design Competition Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: logo_designer_name
+      label: logo_designer_name
+      hint: The name of the logo designer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: logo_design
+      label: logo_design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: logo_type
+      label: logo_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vector''}'
+      - '{''label'': ''Raster''}'
+      - '{''label'': ''Vector or Raster''}'
+      required: false
+    - id: 5
+      name: color_scheme
+      label: color_scheme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monochromatic''}'
+      - '{''label'': ''Bicolor''}'
+      - '{''label'': ''Tricolor''}'
+      required: false
+    - id: 6
+      name: logo_file
+      label: logo_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_file
+      label: submission_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_url
+      label: submission_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I Agree''}'
+      - '{''label'': ''I Disagree''}'
+      required: false
+    - id: 14
+      name: submission_info
+      label: submission_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Web''}'
+      - '{''label'': ''Graphics''}'
+      required: false
+    - id: 16
+      name: submithed
+      label: submithed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 21
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submission_date_modified
+      label: submission_date_modified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submission_time_modified
+      label: submission_time_modified
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission_status_modified
+      label: submission_status_modified
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Cancelled''}'
+      required: false

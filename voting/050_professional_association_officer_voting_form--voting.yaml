@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Association Officer Voting Form
+    pages:
+    - id: 1
+      name: officer_title
+      label: Officer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: officer_description
+      label: Officer Description
+      hint: Briefly describe your officer role and qualifications
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: chapter_name
+      label: Chapter Name
+      hint: Enter your chapter name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: chapter_address
+      label: Chapter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: chapter_city
+      label: Chapter City
+      hint: Enter the city of your chapter
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: chapter_state
+      label: Chapter State
+      hint: Enter the state of your chapter
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: chapter_country
+      label: Chapter Country
+      hint: Enter the country of your chapter
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: officer_email
+      label: Contact Email
+      hint: Enter a contact email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: officer_phone
+      label: Contact Phone
+      hint: Enter a contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: voting_option_1
+      label: Voting Option 1
+      hint: Select voting option 1
+      type: select_one
+      options:
+      - '{''label'': ''Option A''}'
+      - '{''label'': ''Option B''}'
+      - '{''label'': ''Option C''}'
+      - '{''label'': ''Option D''}'
+      required: false
+    - id: 11
+      name: voting_option_2
+      label: Select Voting Option 2
+      hint: Select a voting option
+      type: select_multiple
+      options:
+      - '{''label'': ''Option E''}'
+      - '{''label'': ''Option F''}'
+      - '{''label'': ''Option G''}'
+      - '{''label'': ''Option H''}'
+      required: false
+    - id: 12
+      name: voting_option_3
+      label: Voting Option 3
+      hint: Select voting option 3
+      type: select_one
+      options:
+      - '{''label'': ''Option I''}'
+      - '{''label'': ''Option J''}'
+      - '{''label'': ''Option K''}'
+      - '{''label'': ''Option L''}'
+      required: false
+    - id: 13
+      name: vote_date
+      label: Voting Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: vote_time
+      label: Vote Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

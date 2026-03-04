@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collaborative Teaching Residency Registration Form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Teacher Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resident_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: resident_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: residency_term
+      label: Residency Term
+      hint: Which term are you applying for
+      type: select_one
+      options:
+      - Fall 2026
+      - Spring 2027
+      - Fall 2027
+      - Spring 2028
+      required: true
+    - id: 5
+      name: grade_level_preference
+      label: Grade Level Preference
+      hint: Preferred teaching level
+      type: select_one
+      options:
+      - Elementary K-5
+      - Middle School 6-8
+      - High School 9-12
+      - No Preference
+      required: true
+    - id: 6
+      name: subject_area
+      label: Subject Area
+      hint: Primary subject focus
+      type: select_one
+      options:
+      - General Elementary
+      - Mathematics
+      - Science
+      - English Language Arts
+      - Social Studies
+      - Special Education
+      - ESL
+      - Arts
+      - Physical Education
+      required: true
+    - id: 7
+      name: university_program
+      label: University or Teacher Preparation Program
+      hint: Your institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: degree_program
+      label: Degree Program
+      hint: What degree are you pursuing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_graduation
+      label: Expected Graduation Date
+      hint: When will you graduate
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gpa
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: prior_teaching_experience
+      label: Prior Teaching Experience
+      hint: Any previous teaching roles
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mentoring_preference
+      label: Mentoring Preference
+      hint: Type of mentorship desired
+      type: select_one
+      options:
+      - Weekly Meetings
+      - Bi-Weekly Meetings
+      - Daily Check-ins
+      - As Needed
+      - Peer Mentoring
+      required: true
+    - id: 13
+      name: mentor_teacher_interest
+      label: Interested in Being a Mentor Teacher
+      hint: Would you like to mentor others
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 14
+      name: school_preference
+      label: School Type Preference
+      hint: Preferred school setting
+      type: select_one
+      options:
+      - Public School
+      - Charter School
+      - Private School
+      - Magnet School
+      - No Preference
+      required: true
+    - id: 15
+      name: location_preference
+      label: Geographic Location Preference
+      hint: Preferred area
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability_schedule
+      label: Availability Schedule
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: residency_duration
+      label: Desired Residency Duration
+      hint: How long
+      type: select_one
+      options:
+      - One Semester
+      - Full Year
+      - Summer Program
+      - Extended Program
+      required: true
+    - id: 18
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you commute
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Public Transit
+      - Carpool
+      - Bicycle
+      - Walk
+      required: true
+    - id: 19
+      name: background_check_status
+      label: Background Check Status
+      hint: Have you completed one
+      type: select_one
+      options:
+      - Completed Within 6 Months
+      - Completed Over 6 Months Ago
+      - Not Yet Completed
+      - In Progress
+      required: true
+    - id: 20
+      name: tuberculosis_clearance
+      label: Tuberculosis Clearance
+      hint: TB test status
+      type: select_one
+      options:
+      - Current
+      - Expired
+      - Not Yet Done
+      required: true
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_needs_or_accommodations
+      label: Special Needs or Accommodations
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: statement_of_interest
+      label: Statement of Interest
+      hint: Why do you want this residency
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: references_available
+      label: References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

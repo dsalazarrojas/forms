@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transfer Of Dog Ownership Form
+    pages:
+    - id: 1
+      name: owner_information
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_owner_information
+      label: New Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: new_owner_signature
+      label: New Owner Signature
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_format
+      label: Date Format
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: veterinarian_info
+      label: Veterinarian Information
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 16
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: veterinary_license
+      label: Veterinary License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: transfer_reason
+      label: Transfer Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: transfer_note
+      label: Transfer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: transfer_status
+      label: Transfer Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 23
+      name: transfer_date_time
+      label: Transfer Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: transfer_by
+      label: Transfer By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: transfer_id
+      label: Transfer ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circular Economy Innovation Lab Registration Form
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail
+      - Technology
+      - Fashion
+      - Food and beverage
+      - Construction
+      - Energy
+      - Waste management
+      - Consulting
+      - Non-profit
+      - Government
+      - Other
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: expertise_areas
+      label: Areas of Expertise (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Product design
+      - Supply chain management
+      - Sustainability
+      - Business strategy
+      - Operations
+      - Marketing
+      - Finance
+      - Technology
+      - Policy
+      - Education
+      required: false
+    - id: 12
+      name: section_header_lab_interest
+      label: -- Lab Program Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: lab_session
+      label: Select Lab Session
+      hint: null
+      type: select_one
+      options:
+      - Session 1 - Fundamentals
+      - Session 2 - Advanced Design
+      - Session 3 - Implementation
+      - Intensive track
+      required: true
+    - id: 14
+      name: participation_level
+      label: Participation Level
+      hint: null
+      type: select_one
+      options:
+      - Observer
+      - Active participant
+      - Team lead
+      - Mentor
+      required: true
+    - id: 15
+      name: section_header_project
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_description
+      label: Project Description
+      hint: Brief overview of your circular economy project or idea
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_stage
+      label: Project Stage
+      hint: null
+      type: select_one
+      options:
+      - Idea stage
+      - Early development
+      - Prototype
+      - Pilot testing
+      - Market ready
+      - Scaling
+      required: true
+    - id: 18
+      name: project_goals
+      label: Project Goals and Expected Outcomes
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: expected_impact
+      label: Expected Environmental or Social Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_resources
+      label: -- Resources and Support Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: resources_needed
+      label: Resources or Support Needed (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Technical expertise
+      - Business mentoring
+      - Market research
+      - Funding guidance
+      - Networking opportunities
+      - Design assistance
+      - Materials or equipment
+      - Policy advice
+      required: false
+    - id: 22
+      name: collaboration_interest
+      label: Interested in Collaborating with Other Participants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 23
+      name: section_header_commitment
+      label: -- Commitment and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: time_commitment
+      label: Hours per Week You Can Dedicate
+      hint: null
+      type: select_one
+      options:
+      - 5-10 hours
+      - 10-20 hours
+      - 20-30 hours
+      - 30+ hours
+      required: true
+    - id: 25
+      name: start_date
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: availability_constraints
+      label: Any Availability Constraints or Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_expectations
+      label: -- Expectations and Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: learning_goals
+      label: Key Learning Goals from This Lab
+      hint: What skills or knowledge do you want to gain
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: success_metrics
+      label: How Will You Measure Success in This Lab
+      hint: null
+      type: text
+      options: []
+      required: false

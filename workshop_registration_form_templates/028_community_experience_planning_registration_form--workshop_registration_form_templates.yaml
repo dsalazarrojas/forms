@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Experience Planning Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_type
+      label: Experience Type
+      hint: Which experience are you registering for?
+      type: select_one
+      options:
+      - Planning Workshop
+      - Design Thinking Session
+      - Community Visioning
+      - Strategic Planning
+      - Innovation Lab
+      - Full Program
+      required: true
+    - id: 8
+      name: experience_date
+      label: Preferred Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: experience_level
+      label: Experience Level
+      hint: Your familiarity with planning
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: role_in_community
+      label: Your Role in Community
+      hint: How do you contribute?
+      type: select_one
+      options:
+      - Resident
+      - Business Owner
+      - Community Leader
+      - Nonprofit Staff
+      - Government Official
+      - Educator
+      - Other
+      required: true
+    - id: 11
+      name: planning_goals
+      label: Planning Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: challenges_faced
+      label: Challenges You Face
+      hint: What obstacles do you encounter?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: group_registration
+      label: Registering a Group
+      hint: Are you registering multiple people?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: group_size
+      label: Group Size
+      hint: Number of people in group
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If refreshments are provided
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice
+      - Purchase Order
+      - Waiver
+      required: true
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About This
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague
+      - Email
+      - Other Event
+      - Other
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

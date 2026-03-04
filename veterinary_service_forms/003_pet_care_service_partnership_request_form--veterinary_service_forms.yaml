@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Care Service Partnership Request Form
+    pages:
+    - id: 1
+      name: pet_care_service_partnership_request_form
+      label: Pet Care Service Partnership Request Form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select a Service''}'
+      - '{''label'': ''Select Another Service''}'
+      - '{''label'': ''Do Not Select''}'
+      required: true
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dog''}'
+      - '{''label'': ''Cat''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_phone_number
+      label: Partner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: partner_service_address
+      label: Partner Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agreement
+      label: I Agree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Terms & Conditions''}'
+      - '{''label'': ''Privacy & Consent''}'
+      - '{''label'': ''Both''}'
+      required: true

@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Sign Up Form
+    pages:
+    - id: 1
+      name: signup_intro
+      label: -- Become a Blogger With Us --
+      hint: Join our community of talented writers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: content_niche
+      label: Preferred Content Niche
+      hint: null
+      type: select_one
+      options:
+      - Lifestyle
+      - Fashion
+      - Travel
+      - Food
+      - Tech
+      - Business
+      - Health
+      - Parenting
+      - Beauty
+      - Mixed
+      required: true
+    - id: 7
+      name: blogging_experience
+      label: Blogging Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 8
+      name: portfolio_url
+      label: Portfolio or Blog URL
+      hint: Link to your previous work or blog
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: writing_samples
+      label: Number of Writing Samples Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: publishing_frequency
+      label: How frequently can you publish?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      - Multiple times per week
+      required: true
+    - id: 11
+      name: content_topics
+      label: Specific topics you want to cover
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: writing_skills
+      label: Rate your writing skills
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Very good
+      - Excellent
+      required: true
+    - id: 13
+      name: social_media_presence
+      label: Do you have social media presence?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: social_followers
+      label: Approximate social media followers
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: motivation
+      label: Why do you want to blog with us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: availability_start
+      label: When can you start?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: terms_accepted
+      label: I agree to the blogger terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: true

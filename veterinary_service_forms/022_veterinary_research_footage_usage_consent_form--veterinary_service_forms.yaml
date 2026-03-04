@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_research_footage_usage_consent_form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: animal_description
+      label: Animal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purpose_of_footage
+      label: Purpose of Footage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recording_conditions
+      label: Recording Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: storage_and_sharing
+      label: Storage and Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Shared
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

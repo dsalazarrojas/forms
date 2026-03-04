@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Innovation Funding Application
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_summary
+      label: Project Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: Funding Type
+      hint: null
+      type: select_one
+      options:
+      - Veterinary Research
+      - Veterinary Education
+      - Veterinary Community Development
+      required: false
+    - id: 6
+      name: select_multiple
+      label: Project Category
+      hint: null
+      type: select_multiple
+      options:
+      - Veterinary
+      - Education
+      - Research
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elections Volunteer Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: how_help
+      label: How will they help?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: best_days
+      label: Which days work best?
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_duration
+      label: Volunteer Duration
+      hint: null
+      type: select_one
+      options:
+      - Half-day
+      - Full-day
+      - Multi-day
+      required: false
+    - id: 10
+      name: volunteer_hours_details
+      label: Volunteer Hours Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_location
+      label: Volunteer Location
+      hint: null
+      type: text
+      options: []
+      required: false

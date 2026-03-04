@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_application_form
+      label: Volunteer Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_shifts
+      label: Volunteer Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: true
+    - id: 9
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Volunteer Leader
+      - Volunteer Team Leader
+      required: true
+    - id: 15
+      name: volunteer_group
+      label: Volunteer Group
+      hint: null
+      type: text
+      options: []
+      required: false

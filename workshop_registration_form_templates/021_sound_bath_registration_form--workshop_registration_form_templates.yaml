@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sound Bath Registration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_information
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_session_time
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - '720'
+      - '840'
+      - '960'
+      - '1080'
+      - '1200'
+      required: false
+    - id: 8
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

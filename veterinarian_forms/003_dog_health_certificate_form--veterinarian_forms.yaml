@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Health Certificate Form
+    pages:
+    - id: 1
+      name: owner_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: rabies
+      label: Rabies
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 6
+      name: distemper
+      label: Distemper
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 7
+      name: parvovirus
+      label: Parvovirus
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 12
+      name: veterinary_license_number
+      label: Veterinary License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: veterinary_name
+      label: Veterinary Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: veterinary_address
+      label: Veterinary Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: veterinary_phone
+      label: Veterinary Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: veterinary_email
+      label: Veterinary Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: veterinary_facility
+      label: Veterinary Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: veterinary_state_license
+      label: Veterinary State License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: veterinarian_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: veterinarian_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: veterinary_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: veterinary_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true

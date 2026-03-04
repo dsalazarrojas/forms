@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: puppy_aptitude_test_form
+    pages:
+    - id: 1
+      name: puppy_name
+      label: Puppy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 5
+      name: breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: size
+      label: Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 7
+      name: coat_length
+      label: Coat Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: coat_type
+      label: Coat Type
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 9
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: behavior_type
+      label: Behavior Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic Obedience
+      - Intermediate Training
+      - Advanced Training
+      required: false
+    - id: 12
+      name: socialization_status
+      label: Socialization Status
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Fully Socialized
+      required: false
+    - id: 13
+      name: health_issues
+      label: Health Issues
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Allergies
+      - Hip Dysplasia
+      - Other
+      required: false
+    - id: 14
+      name: medical_issues
+      label: Medical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Allergies
+      - Other
+      required: false
+    - id: 15
+      name: temperament
+      label: Temperament
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: energy_level
+      label: Energy Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 17
+      name: activity_level
+      label: Activity Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 18
+      name: training_method
+      label: Training Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Up to date
+      - Not up to date
+      required: false

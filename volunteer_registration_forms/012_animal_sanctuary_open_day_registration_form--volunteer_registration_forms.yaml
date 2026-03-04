@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Sanctuary Open Day Registration Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Select Open Day Date
+      hint: Choose your preferred date
+      type: select_one
+      options:
+      - Saturday March 15 2026 - Morning Session
+      - Saturday March 15 2026 - Afternoon Session
+      - Sunday March 16 2026 - Morning Session
+      - Sunday March 16 2026 - Afternoon Session
+      - Saturday March 22 2026 - Morning Session
+      - Saturday March 22 2026 - Afternoon Session
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests Including Yourself
+      hint: Maximum 6 per registration
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: guest_ages
+      label: Ages of All Guests
+      hint: List ages for all attendees
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: group_type
+      label: Type of Group
+      hint: null
+      type: select_one
+      options:
+      - Family with Children
+      - Adults Only
+      - School Group
+      - Community Organization
+      - Tour Group
+      - Individual Visitor
+      required: true
+    - id: 12
+      name: children_count
+      label: Number of Children Under 12
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Do You Have Any Accessibility Requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes please specify
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_interest
+      label: Are You Interested in Volunteering at the Sanctuary
+      hint: null
+      type: select_one
+      options:
+      - Yes Please Send Information
+      - Maybe - Want to Learn More
+      - No Thank You
+      required: false
+    - id: 16
+      name: tour_preference
+      label: Tour Preference
+      hint: null
+      type: select_one
+      options:
+      - Guided Group Tour
+      - Self-Guided Tour
+      - No Tour Needed
+      required: true
+    - id: 17
+      name: special_interests
+      label: Areas of Special Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Large Mammals
+      - Primates
+      - Birds
+      - Reptiles
+      - Small Animals
+      - Conservation Programs
+      - Education Programs
+      - Photography
+      required: false
+    - id: 18
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Sanctuary Website
+      - Social Media
+      - Email Newsletter
+      - Friend or Family
+      - Local Advertisement
+      - News Article
+      - Other
+      required: false
+    - id: 19
+      name: previous_visits
+      label: Have You Visited Our Sanctuary Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Multiple Times
+      - Yes - Once
+      - No - First Visit
+      required: true
+    - id: 20
+      name: donation_interest
+      label: Would You Like to Make a Donation During Your Visit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - No Thank You
+      required: false
+    - id: 21
+      name: membership_interest
+      label: Are You Interested in Sanctuary Membership
+      hint: null
+      type: select_one
+      options:
+      - Yes Please Send Information
+      - Already a Member
+      - Not Interested at This Time
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: waiver_agreement
+      label: I Agree to the Sanctuary Waiver and Safety Guidelines
+      hint: All visitors must agree to safety rules
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 25
+      name: photo_consent
+      label: May We Use Photos from the Event for Promotional Purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false

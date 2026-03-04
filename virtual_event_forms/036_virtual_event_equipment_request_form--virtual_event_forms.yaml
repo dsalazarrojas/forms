@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Event Equipment Request Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: Provide event name, start time, and end time for your request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_needs
+      label: Equipment Needs
+      hint: List the equipment you need for your event
+      type: select_multiple
+      options:
+      - Projector
+      - Screen
+      - Microphone
+      required: true
+    - id: 3
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_return
+      label: Equipment Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_name
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: room_details
+      label: Room Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: it_requirements
+      label: IT Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: it_notes
+      label: IT Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: av_requirements
+      label: AV Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: av_notes
+      label: AV Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: av_equipment
+      label: AV Equipment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Microphone
+      - Speaker System
+      required: true
+    - id: 19
+      name: av_notes_1
+      label: AV Notes 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: av_notes_2
+      label: AV Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: it_notes_1
+      label: IT Notes 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: it_notes_2
+      label: IT Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: it_equipment
+      label: IT Equipment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Computer
+      - Printer
+      required: true
+    - id: 24
+      name: av_notes_3
+      label: AV Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: it_notes_3
+      label: IT Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Infection Assessment
+    pages:
+    - id: 1
+      name: pet_details
+      label: Pet details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: infection_sites
+      label: Infection sites
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: treatments
+      label: Treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: veterinarian_name
+      label: Veterinarian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_clinic
+      label: Veterinary clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_contact
+      label: Owner contact
+      hint: null
+      type: text
+      options: []
+      required: false

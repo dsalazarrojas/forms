@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual-contest-registration-form
+    pages:
+    - id: 1
+      name: contest_date
+      label: Contest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: entry_title
+      label: Entry Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entry_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: entry_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: entry_url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: entry_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contest_url
+      label: Contest URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entry_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: entry_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: entry_file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - image
+      - video
+      required: true
+    - id: 13
+      name: entry_terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: entry_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: entry_entries
+      label: Entries
+      hint: null
+      type: number
+      options: []
+      required: false

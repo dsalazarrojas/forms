@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: HGV Training Registration
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Driver License Number
+      - Driving School ID
+      - Other
+      required: false
+    - id: 3
+      name: schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_one
+      options:
+      - Driving Schools
+      - Training Providers
+      - Other
+      required: false
+    - id: 5
+      name: driving_school
+      label: Driving School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Inquiry Form
+    pages:
+    - id: 1
+      name: wedding_inquiry_form
+      label: wedding_inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wedding_time
+      label: wedding_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: wedding_location
+      label: wedding_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wedding_services
+      label: wedding_services
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Medication Tracker Form
+    pages:
+    - id: 1
+      name: pet_medication_tracker_form
+      label: Pet Medication Tracker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_information
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 5
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dosage
+      label: Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: veterinary_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false

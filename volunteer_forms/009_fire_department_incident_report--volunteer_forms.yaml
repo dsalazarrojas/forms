@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_department_incident_report
+    pages:
+    - id: 1
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - Fire Department
+      - Medical
+      - Mutual Aid
+      - Other
+      required: true
+    - id: 2
+      name: situation_found
+      label: Situation Found
+      hint: Briefly describe the situation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: officer_in_charge
+      label: Officer in Charge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: units_involved
+      label: Units Involved
+      hint: null
+      type: select_multiple
+      options:
+      - Engine 1
+      - Engine 2
+      - Ladder 1
+      - Rescue 1
+      required: true
+    - id: 5
+      name: volunteer
+      label: Volunteer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: volunteer_fire
+      label: Volunteer Firefighter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: units_involved_other
+      label: Units Involved Other
+      hint: Units not listed above
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: location_other
+      label: Location Other
+      hint: null
+      type: text
+      options: []
+      required: false

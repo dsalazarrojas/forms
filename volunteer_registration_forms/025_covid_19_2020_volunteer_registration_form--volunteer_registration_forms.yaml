@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 2020 Volunteer Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: profession
+      label: Current Profession
+      hint: Your occupation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: healthcare_worker
+      label: Are You a Healthcare Worker
+      hint: Current healthcare employment
+      type: select_one
+      options:
+      - Yes - Active clinician
+      - Yes - Healthcare support
+      - Yes - Retired healthcare
+      - false
+      required: true
+    - id: 11
+      name: medical_credentials
+      label: Medical Credentials
+      hint: Licenses certifications
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_interest
+      label: Area of Interest
+      hint: How would you like to help
+      type: select_multiple
+      options:
+      - Patient care support
+      - Screening and testing
+      - Contact tracing
+      - Data entry
+      - Phone support
+      - Supply distribution
+      - Transportation
+      - Childcare for healthcare workers
+      - Grocery shopping
+      - Mental health support
+      - Other
+      required: true
+    - id: 13
+      name: availability
+      label: Availability
+      hint: When can you volunteer
+      type: select_multiple
+      options:
+      - Weekdays - Morning
+      - Weekdays - Afternoon
+      - Weekdays - Evening
+      - Weekends - Morning
+      - Weekends - Afternoon
+      - Weekends - Evening
+      - Flexible schedule
+      required: true
+    - id: 14
+      name: hours_per_week
+      label: Hours Per Week
+      hint: How many hours available
+      type: select_one
+      options:
+      - 1-5 hours
+      - 6-10 hours
+      - 11-20 hours
+      - 21-30 hours
+      - More than 30 hours
+      required: true
+    - id: 15
+      name: start_date
+      label: Available Start Date
+      hint: When can you begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: remote_preference
+      label: Remote or In-Person
+      hint: Preference for volunteering
+      type: select_one
+      options:
+      - Remote only
+      - In-person only
+      - Either is fine
+      - Prefer remote but flexible
+      required: true
+    - id: 17
+      name: high_risk_population
+      label: Are You High Risk
+      hint: COVID-19 risk factors
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: true
+    - id: 18
+      name: household_risk
+      label: High Risk Household Members
+      hint: Do you live with high-risk individuals
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: covid_training
+      label: COVID-19 Training Completed
+      hint: Have you completed infection control training
+      type: select_one
+      options:
+      - true
+      - No - Willing to complete
+      - No - Not interested
+      required: true
+    - id: 20
+      name: ppe_experience
+      label: PPE Experience
+      hint: Experience with personal protective equipment
+      type: select_one
+      options:
+      - Extensive - Daily use
+      - Some - Occasional use
+      - Minimal - Basic knowledge
+      - None - Need training
+      required: true
+    - id: 21
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Besides English
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: prior_volunteer_experience
+      label: Prior Volunteer Experience
+      hint: Describe relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: background_check
+      label: Background Check Consent
+      hint: I consent to background check
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 24
+      name: health_insurance
+      label: Do You Have Health Insurance
+      hint: Current coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand risks and release organization
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 26
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I will maintain patient confidentiality
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 27
+      name: motivation
+      label: Why Do You Want to Volunteer
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: additional_skills
+      label: Additional Skills
+      hint: Anything else you can contribute
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: questions
+      label: Questions
+      hint: Any questions for us
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: signature
+      label: Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

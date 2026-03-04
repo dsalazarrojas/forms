@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_event_talent_sign_up_form
+    pages:
+    - id: 1
+      name: virtual_event_talent_sign_up_form_page
+      label: Virtual Event Talent Sign Up Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: virtual_event_talent_sign_up_form_type
+      label: Talent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Musician''}'
+      - '{''label'': ''Dancer''}'
+      - '{''label'': ''Comedian''}'
+      required: false
+    - id: 3
+      name: virtual_event_talent_sign_up_form_length_of_act
+      label: Length of Act
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: virtual_event_talent_sign_up_form_details_of_performance
+      label: Details of Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: virtual_event_talent_sign_up_form_additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: virtual_event_talent_sign_up_form_additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

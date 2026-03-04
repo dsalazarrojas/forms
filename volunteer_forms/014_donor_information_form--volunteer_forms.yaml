@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: donor_information_form
+    pages:
+    - id: 1
+      name: donor_contact_info
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_street
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donor_donor_type
+      label: donor_type
+      hint: null
+      type: select_one
+      options:
+      - individual
+      - business
+      - organization
+      required: true
+    - id: 10
+      name: donor_donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - once
+      - regularly
+      - sporadically
+      required: true
+    - id: 11
+      name: donor_gift_frequency
+      label: gift_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - once
+      - weekly
+      - monthly
+      - quarterly
+      - annually
+      - as_needed
+      required: true
+    - id: 12
+      name: donor_first_donation_date
+      label: first_donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: donor_last_donation_date
+      label: last_donation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: donor_total_donated
+      label: total_donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

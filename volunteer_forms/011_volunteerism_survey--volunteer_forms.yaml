@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteerism Survey
+    pages:
+    - id: 1
+      name: volunteer_survey
+      label: Volunteer Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience_type
+      label: What type of experience?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: date_of_last_experience
+      label: Date of last experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_duration
+      label: Volunteer duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_leaving
+      label: Reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

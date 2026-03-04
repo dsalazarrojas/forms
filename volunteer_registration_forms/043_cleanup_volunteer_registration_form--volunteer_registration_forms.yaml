@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleanup Volunteer Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 65+
+      required: false
+    - id: 6
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_volunteer
+      label: -- Volunteer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Have you volunteered before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: volunteer_history
+      label: Describe Your Volunteer Experience
+      hint: Previous cleanup or volunteer work
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cleanup_project_interest
+      label: Type of Cleanup Project
+      hint: Which type interests you?
+      type: select_one
+      options:
+      - Park Cleanup
+      - Beach Cleanup
+      - River/Waterway Cleanup
+      - Urban Cleanup
+      - Community Center Cleanup
+      - Environmental Restoration
+      - Any Type
+      required: true
+    - id: 17
+      name: section_header_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: available_days
+      label: Available Days
+      hint: When are you available to volunteer?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Flexible
+      required: true
+    - id: 19
+      name: hours_per_week
+      label: Hours Per Week Available
+      hint: How much time can you commit?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: duration_commitment
+      label: Duration of Commitment
+      hint: How long can you volunteer?
+      type: select_one
+      options:
+      - One-time event
+      - Monthly
+      - Quarterly
+      - Ongoing
+      required: true
+    - id: 21
+      name: section_header_skills
+      label: -- Skills and Abilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: skills
+      label: Skills You Can Contribute
+      hint: Select all applicable skills
+      type: select_multiple
+      options:
+      - Physical labor
+      - Leadership
+      - Organization
+      - Communication
+      - Team coordination
+      - Equipment operation
+      - Technical skills
+      - Teaching
+      required: false
+    - id: 23
+      name: physical_limitations
+      label: Any Physical Limitations?
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_interests
+      label: -- Interests and Roles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: preferred_role
+      label: Preferred Volunteer Role
+      hint: What would you like to do?
+      type: select_one
+      options:
+      - Team Member
+      - Team Lead
+      - Coordinator
+      - No Preference
+      required: true
+    - id: 26
+      name: section_header_other
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: how_heard_about
+      label: How Did You Hear About Us?
+      hint: Where did you learn about this opportunity?
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Community Event
+      - Email
+      - Other
+      required: false
+    - id: 28
+      name: organization_affiliation
+      label: Organization/Group Affiliation
+      hint: If volunteering with a group
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: transportation_need
+      label: Do You Need Transportation?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 30
+      name: section_header_agreement
+      label: -- Agreement and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: agree_waiver
+      label: I agree to the volunteer waiver and liability release
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 32
+      name: agree_code_of_conduct
+      label: I agree to follow the Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

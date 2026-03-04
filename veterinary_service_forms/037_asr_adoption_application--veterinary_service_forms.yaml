@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: ASR Adoption Application
+    pages:
+    - id: 1
+      name: application_header
+      label: All Souls Retreat Adoption Application
+      hint: Thank you for your interest in adopting a pet from us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: Enter your legal name as it appears on identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email Address
+      hint: Enter your active email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_address
+      label: Current Address
+      hint: Enter your complete residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: housing_status
+      label: Housing Status
+      hint: Select your current living situation
+      type: select_one
+      options:
+      - Own home
+      - Rent house
+      - Rent apartment
+      - Live with family/friends
+      - Other
+      required: true
+    - id: 8
+      name: landlord_permission
+      label: If renting, do you have permission to have pets
+      hint: Landlord approval is required for rental properties
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable - I own my home
+      required: true
+    - id: 9
+      name: household_members
+      label: Who lives in your household
+      hint: Include adults, children, and other pets
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_pets
+      label: Do you currently have pets
+      hint: List any pets you currently own
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: current_pets_details
+      label: If yes, please list your current pets (species, age, spayed/neutered)
+      hint: Include species, age, and spay/neuter status
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_pet_experience
+      label: Describe your previous experience with pets
+      hint: Include past ownership, care responsibilities, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: adoption_reason
+      label: Why do you want to adopt a pet from All Souls Retreat
+      hint: Tell us about your motivation for adoption
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: ideal_pet_match
+      label: What type of pet are you looking to adopt
+      hint: Specify age, size, breed, temperament preferences
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: daily_schedule
+      label: Describe your typical daily schedule
+      hint: How much time will you spend home with your new pet
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_plan
+      label: What is your plan for pet care during emergencies or travel
+      hint: Describe arrangements for pet care when you're unavailable
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: veterinary_care_plan
+      label: Do you have a plan for veterinary care
+      hint: Select your preferred veterinary clinic or veterinarian
+      type: select_one
+      options:
+      - true
+      - I have a vet selected
+      - true
+      - I will find a vet
+      - false
+      - but I will arrange care
+      required: true
+    - id: 18
+      name: adoption_fee_agreement
+      label: Do you agree to pay the adoption fee and associated costs
+      hint: Fees vary by animal type and age
+      type: select_one
+      options:
+      - true
+      - I understand and agree
+      - false
+      - I need more information
+      required: true

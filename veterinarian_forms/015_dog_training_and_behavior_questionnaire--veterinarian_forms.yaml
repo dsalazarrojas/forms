@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training And Behavior Questionnaire
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Input Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_methods
+      label: Training Methods
+      hint: null
+      type: select_one
+      options:
+      - Agility
+      - Clicker Training
+      - Positive Reinforcement
+      required: true
+    - id: 3
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Behavior Change
+      - Problem Solving
+      - Skill Development
+      required: true
+    - id: 4
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_input_page
+      label: Owner Input Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_plan
+      label: Training Plan
+      hint: A plan of the training that needs to be executed in order to address the
+        behavior issues.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: behavior_assessment
+      label: Behavior Assessment
+      hint: A description of the dog’s behavior and what needs to be addressed.
+      type: text
+      options: []
+      required: true

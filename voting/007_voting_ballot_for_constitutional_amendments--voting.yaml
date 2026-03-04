@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voting Ballot For Constitutional Amendments
+    pages:
+    - id: 1
+      name: vote_for_change
+      label: Vote for change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vote_for_all_changes
+      label: Vote for all changes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vote_type
+      label: Vote type
+      hint: This field is for internal use only
+      type: select_one
+      options:
+      - Electronic
+      - Paper
+      - Other
+      required: false
+    - id: 4
+      name: vote_time
+      label: Vote time
+      hint: null
+      type: time
+      options: []
+      required: false

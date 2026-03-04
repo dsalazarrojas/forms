@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Student Disability Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_disability_verification
+      label: Date of Disability Verification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: disability
+      label: Disability
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hearing''}'
+      - '{''value'': ''Visual''}'
+      - '{''value'': ''Physical''}'
+      - '{''value'': ''Mental''}'
+      - '{''value'': ''Learning Disability''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: disability_description
+      label: Disability Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In person''}'
+      - '{''value'': ''Over video conference''}'
+      - '{''value'': ''By mail''}'
+      required: false

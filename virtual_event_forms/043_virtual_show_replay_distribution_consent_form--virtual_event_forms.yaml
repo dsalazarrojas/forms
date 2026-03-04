@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Show Replay Distribution Consent Form
+    pages:
+    - id: 1
+      name: virtual_show_replay_distribution_consent_form
+      label: Do you agree to the replay distribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Verify email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent
+      label: Do you consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to have my name and email address recorded
+      - I do not consent to have my name and email address recorded
+      required: false

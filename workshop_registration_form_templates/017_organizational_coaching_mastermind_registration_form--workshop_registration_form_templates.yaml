@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Coaching Mastermind Registration Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Registration form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_title
+      label: event-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: event-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: event-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: workshop_title
+      label: workshop-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_date
+      label: workshop-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: workshop_start_time
+      label: workshop-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: workshop_end_time
+      label: workshop-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 15
+      name: payment_amount
+      label: payment-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_currency
+      label: payment-currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false
+    - id: 17
+      name: payment_notes
+      label: payment-notes
+      hint: null
+      type: text
+      options: []
+      required: false

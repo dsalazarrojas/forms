@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grooming Service Agreement
+    pages:
+    - id: 1
+      name: pet_details
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - Grooming
+      - Nail Trim
+      - Haircut
+      - Bath
+      - Other
+      required: false
+    - id: 3
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: signed_consent
+      label: signed_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false

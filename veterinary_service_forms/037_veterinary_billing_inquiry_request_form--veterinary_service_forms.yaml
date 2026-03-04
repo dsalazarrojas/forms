@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Billing Inquiry Request Form
+    pages:
+    - id: 1
+      name: veterinary_billing_inquiry_request_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_person_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person_address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person_address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Pet
+      - Service
+      required: false
+    - id: 11
+      name: service_type_service
+      label: Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_type
+      label: Billing Type
+      hint: null
+      type: select_multiple
+      options:
+      - Account
+      - Invoices
+      - Statement
+      required: false
+    - id: 13
+      name: billing_type_account
+      label: Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_type_invoices
+      label: Invoices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_type_statement
+      label: Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: billing_questions
+      label: Billing Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

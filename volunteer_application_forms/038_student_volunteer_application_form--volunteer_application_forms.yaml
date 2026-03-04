@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Volunteer Application Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_info
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: application_reason
+      label: Application Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: available_hours
+      label: Available Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shifts
+      label: Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: available_dates
+      label: Available Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: application_comments
+      label: Application Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agreed_terms
+      label: Agreed Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: agreed_privacy_policy
+      label: Agreed Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: back
+      label: Back
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

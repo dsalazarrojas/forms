@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pet Health Record Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''Cat''}'
+      - '{''id'': 2.2, ''name'': ''Dog''}'
+      - '{''id'': 2.3, ''name'': ''Bird''}'
+      required: false
+    - id: 3
+      name: vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3.1, ''name'': ''Vaccinated''}'
+      - '{''id'': 3.2, ''name'': ''Not Vaccinated''}'
+      - '{''id'': 3.3, ''name'': ''Unknown''}'
+      required: true
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5.1, ''name'': ''Flea/Tick''}'
+      - '{''id'': 5.2, ''name'': ''Heartworms''}'
+      - '{''id'': 5.3, ''name'': ''Other''}'
+      required: true
+    - id: 6
+      name: food_allergies
+      label: food_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6.1, ''name'': ''Beef''}'
+      - '{''id'': 6.2, ''name'': ''Fish''}'
+      - '{''id'': 6.3, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: behavior
+      label: behavior
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 7.1, ''name'': ''Aggressive''}'
+      - '{''id'': 7.2, ''name'': ''Affected''}'
+      - '{''id'': 7.3, ''name'': ''Normal''}'
+      required: true
+    - id: 8
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes_2
+      label: medical_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_notes_3
+      label: medical_notes_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes_4
+      label: medical_notes_4
+      hint: null
+      type: text
+      options: []
+      required: false

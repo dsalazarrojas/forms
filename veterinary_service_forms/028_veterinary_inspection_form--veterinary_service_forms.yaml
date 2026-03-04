@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Inspection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: general_info
+      label: General info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_details
+      label: Animal details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medical_info
+      label: Medical info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_sign_off
+      label: Veterinarian Signoff
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Work Order Form
+    pages:
+    - id: 1
+      name: section_client_contact
+      label: -- Client and Work Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name_ident
+      label: Client Full Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_email_ident
+      label: Billing Email Address
+      hint: Invoice and receipt will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_ident
+      label: Contact Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_site_address
+      label: Site Address for Work Order
+      hint: City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_work_order_ident
+      label: -- Work Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: work_order_number_auto
+      label: Work Order Reference (Internal ID)
+      hint: For tracking and billing purposes
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_name_ident
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: wo_start_date
+      label: Scheduled Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: wo_end_date
+      label: Estimated Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: work_category_ident
+      label: Primary Work Category
+      hint: Select the main trade
+      type: select_one
+      options:
+      - General Carpentry/Framing
+      - Electrical/Power Systems
+      - Plumbing/HVAC
+      - Drywall and Painting
+      - Flooring/Tiling
+      - Exterior/Landscaping
+      - Structural Repair
+      required: true
+    - id: 12
+      name: scope_of_work_desc
+      label: Detailed Scope of Work
+      hint: Describe specific tasks to be performed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_labor_financials
+      label: -- Labor and Financial Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hourly_rate_per_service
+      label: Service Rate Per Hour ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_hours_estimated
+      label: Estimated Total Hours for Completion
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_labor_cost_auto
+      label: Estimated Total Labor Cost ($)
+      hint: Automatically calculated (Hours x Rate)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: material_cost_estimate
+      label: Estimated Material Cost ($)
+      hint: Excluding labor
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_wo_amount_calc
+      label: Total Work Order Amount ($)
+      hint: Labor plus material costs
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_auth_confirmation
+      label: -- Authorization and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: client_auth_ack
+      label: I authorize the work described above at the estimated cost
+      hint: null
+      type: select_one
+      options:
+      - I Authorize and Agree
+      - I Disagree
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Date of Work Order
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: supervisor_approval_name_label
+      label: Supervisor Approval (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: invoice_issued_checklist
+      label: Invoice Already Issued?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attached
+      - No - Will Issue Upon Completion
+      required: true

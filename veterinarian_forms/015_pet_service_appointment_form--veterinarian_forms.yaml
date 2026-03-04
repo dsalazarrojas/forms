@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Service Appointment Form
+    pages:
+    - id: 1
+      name: pet_owner_info
+      label: Pet owner info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bathing''}'
+      - '{''name'': ''Grooming''}'
+      - '{''name'': ''Nail Trimming''}'
+      - '{''name'': ''Vaccinations''}'
+      - '{''name'': ''Consultation''}'
+      required: false
+    - id: 4
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Dog''}'
+      - '{''name'': ''Cat''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: veterinarian_notes
+      label: Veterinarian Notes
+      hint: null
+      type: text
+      options: []
+      required: false

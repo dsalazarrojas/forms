@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Branding Material Upload Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name or reference for this project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: What type of project is this?
+      type: select_one
+      options:
+      - Website Redesign
+      - Brand Refresh
+      - New Brand Launch
+      - Marketing Campaign
+      - Product Launch
+      - Corporate Materials
+      - Other
+      required: true
+    - id: 8
+      name: asset_type
+      label: Asset Type Being Uploaded
+      hint: Category of branding materials
+      type: select_one
+      options:
+      - Logo Files
+      - Brand Guidelines
+      - Color Palettes
+      - Typography Files
+      - Marketing Materials
+      - Product Images
+      - Team Photos
+      - Icons and Graphics
+      - Other
+      required: true
+    - id: 9
+      name: file_format
+      label: File Formats Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AI (Adobe Illustrator)
+      - EPS
+      - SVG
+      - PNG
+      - JPG
+      - PDF
+      - PSD (Photoshop)
+      - INDD (InDesign)
+      - Other
+      required: true
+    - id: 10
+      name: brand_colors
+      label: Brand Colors
+      hint: List hex codes if available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: brand_fonts
+      label: Brand Fonts
+      hint: List font names if known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: logo_variations
+      label: Logo Variations Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Primary Logo
+      - Secondary Logo
+      - Icon Only
+      - Wordmark
+      - Black and White Version
+      - Reversed Version
+      - Favicon
+      - Social Media Versions
+      required: false
+    - id: 13
+      name: usage_guidelines
+      label: Are Usage Guidelines Included?
+      hint: Brand usage rules
+      type: select_one
+      options:
+      - Yes, Complete Guidelines
+      - Yes, Basic Guidelines
+      - No Guidelines
+      - Need Guidelines Created
+      required: true
+    - id: 14
+      name: file_count
+      label: Number of Files
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_size
+      label: Total File Size
+      hint: Approximate combined size
+      type: select_one
+      options:
+      - Under 10 MB
+      - 10-50 MB
+      - 50-100 MB
+      - 100-500 MB
+      - Over 500 MB
+      required: true
+    - id: 16
+      name: upload_purpose
+      label: Purpose of Upload
+      hint: Why are you submitting these?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: deadline_date
+      label: Project Deadline
+      hint: When do you need this completed?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Low - No Rush
+      - Medium - Within 2 Weeks
+      - High - Within 1 Week
+      - Urgent - Within 48 Hours
+      required: true
+    - id: 19
+      name: brand_approval_status
+      label: Are These Final Approved Assets?
+      hint: Confirm asset status
+      type: select_one
+      options:
+      - Yes, Final Approved Versions
+      - No, Draft Versions
+      - Pending Approval
+      required: true
+    - id: 20
+      name: third_party_assets
+      label: Do Any Assets Require Licensing?
+      hint: Stock photos, fonts, etc.
+      type: select_one
+      options:
+      - Yes, Licensed Assets Included
+      - No, All Original
+      - Not Sure
+      required: true
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorization_statement
+      label: I Confirm I Have Rights to Share These Assets
+      hint: Authorization confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

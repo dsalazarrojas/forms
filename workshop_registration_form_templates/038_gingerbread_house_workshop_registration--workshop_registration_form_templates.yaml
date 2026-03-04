@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: gingerbread_house_workshop_registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_schedule
+      label: Workshop Schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': datetime.date(2024, 1, 1)}'
+      - '{''name'': datetime.date(2024, 1, 15)}'
+      - '{''name'': datetime.date(2024, 3, 1)}'
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Bank Transfer''}'
+      required: true
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_confirmation
+      label: Phone Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note_confirmation
+      label: Note Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_conditions
+      label: Terms & Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''I agree to the Terms and Conditions''}'
+      - '{''name'': ''I disagree to the Terms and Conditions''}'
+      required: false
+    - id: 16
+      name: attendee_info_confirmation
+      label: Attendee Info Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registration_confirmation
+      label: Registration Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_registration_number
+      label: Workshop Registration Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Sent''}'
+      - '{''name'': ''Not Sent''}'
+      required: false
+    - id: 20
+      name: phone_sent
+      label: Phone Sent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Sent''}'
+      - '{''name'': ''Not Sent''}'
+      required: false
+    - id: 21
+      name: note_sent
+      label: Note Sent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Sent''}'
+      - '{''name'': ''Not Sent''}'
+      required: false
+    - id: 22
+      name: payment_method_sent
+      label: Payment Method Sent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Sent''}'
+      - '{''name'': ''Not Sent''}'
+      required: false
+    - id: 23
+      name: email_sent_date
+      label: Email Sent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: phone_sent_date
+      label: Phone Sent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: note_sent_date
+      label: Note Sent Date
+      hint: null
+      type: date
+      options: []
+      required: false

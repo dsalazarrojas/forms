@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Volunteer Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older for most roles
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: availability
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 12
+      name: available_times
+      label: Available Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning - 6 AM to 12 PM
+      - Afternoon - 12 PM to 5 PM
+      - Evening - 5 PM to 9 PM
+      required: true
+    - id: 13
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: null
+      type: select_one
+      options:
+      - 1-5 hours
+      - 6-10 hours
+      - 11-15 hours
+      - 16-20 hours
+      - Over 20 hours
+      - Flexible
+      required: true
+    - id: 14
+      name: volunteer_interests
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dog Walking
+      - Cat Socialization
+      - Small Animal Care
+      - Cleaning and Laundry
+      - Administrative Support
+      - Adoption Counseling
+      - Foster Care
+      - Transport
+      - Event Support
+      - Photography
+      - Social Media
+      - Grant Writing
+      - Medical Support
+      - Training and Behavior
+      - Other
+      required: true
+    - id: 15
+      name: preferred_role
+      label: Preferred Volunteer Role
+      hint: First choice
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: previous_experience
+      label: Do You Have Previous Volunteer Experience
+      hint: null
+      type: select_one
+      options:
+      - Yes - At Animal Shelter
+      - Yes - Other Organization
+      - No - First Time
+      required: true
+    - id: 17
+      name: experience_details
+      label: Describe Your Experience
+      hint: If yes provide details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: animal_experience
+      label: Experience with Animals
+      hint: Describe your background with animals
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: skills
+      label: Special Skills or Talents
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal Training
+      - Medical Knowledge
+      - Photography
+      - Writing
+      - Social Media
+      - Graphic Design
+      - Web Development
+      - Event Planning
+      - Teaching
+      - Counseling
+      - Cleaning
+      - Organization
+      - Other
+      required: false
+    - id: 20
+      name: physical_requirements
+      label: Can You Perform Physical Tasks
+      hint: Lifting bending walking with animals
+      type: select_one
+      options:
+      - Yes - No Limitations
+      - Yes - Some Limitations
+      - No - Prefer Sedentary Role
+      required: true
+    - id: 21
+      name: limitations
+      label: Please Describe Any Limitations
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies
+      label: Do You Have Any Animal Allergies
+      hint: null
+      type: select_one
+      options:
+      - No Allergies
+      - Mild Allergies
+      - Severe Allergies
+      required: true
+    - id: 23
+      name: allergy_details
+      label: Allergy Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: background_check
+      label: Are You Willing to Complete a Background Check
+      hint: Required for most positions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: references
+      label: Provide Two References
+      hint: Names and contact information
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Current Volunteer
+      - Event
+      - Search Engine
+      - Other
+      required: false
+    - id: 27
+      name: motivation
+      label: Why Do You Want to Volunteer With Us
+      hint: Share your motivation
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: commitment
+      label: Minimum Commitment Understanding
+      hint: Most roles require 3 month commitment
+      type: select_one
+      options:
+      - Yes I Understand and Agree
+      - No I Cannot Commit
+      required: true
+    - id: 29
+      name: terms_acceptance
+      label: I Agree to Follow All Shelter Policies and Procedures
+      hint: null
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 30
+      name: applicant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

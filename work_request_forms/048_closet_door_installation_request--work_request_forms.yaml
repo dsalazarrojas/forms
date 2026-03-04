@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closet Door Installation Request
+    pages:
+    - id: 1
+      name: form_header
+      label: Closet Door Installation Request
+      hint: Use this form to request closet door installation services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Street city state zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Commercial
+      - Other
+      required: true
+    - id: 9
+      name: ownership_status
+      label: Do You Own the Property
+      hint: null
+      type: select_one
+      options:
+      - Yes Owner
+      - No Renter
+      - Property Manager
+      required: true
+    - id: 10
+      name: landlord_approval
+      label: Landlord Approval Obtained
+      hint: If renting
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 11
+      name: number_of_closets
+      label: How Many Closet Doors Need Installation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: closet_locations
+      label: Closet Locations
+      hint: e.g. Master bedroom hallway etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: door_type
+      label: Type of Doors Desired
+      hint: null
+      type: select_one
+      options:
+      - Sliding Doors
+      - Bifold Doors
+      - French Doors
+      - Barn Doors
+      - Accordion Doors
+      - Custom
+      - Not Sure
+      required: true
+    - id: 14
+      name: door_material
+      label: Preferred Door Material
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - MDF
+      - Glass
+      - Mirror
+      - Metal
+      - Composite
+      - No Preference
+      required: false
+    - id: 15
+      name: door_style
+      label: Preferred Style
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Traditional
+      - Rustic
+      - Contemporary
+      - Farmhouse
+      - No Preference
+      required: false
+    - id: 16
+      name: door_color_finish
+      label: Preferred Color or Finish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: opening_width
+      label: Closet Opening Width
+      hint: In inches
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: opening_height
+      label: Closet Opening Height
+      hint: In inches
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: opening_depth
+      label: Closet Opening Depth
+      hint: In inches
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: existing_doors
+      label: Are There Existing Doors to Remove
+      hint: null
+      type: select_one
+      options:
+      - Yes Remove and Dispose
+      - Yes Remove Keep
+      - No New Installation
+      required: true
+    - id: 21
+      name: existing_hardware
+      label: Will Existing Hardware Be Reused
+      hint: Handles knobs tracks
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 22
+      name: additional_features
+      label: Additional Features Desired
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Soft-Close Mechanism
+      - Magnetic Catches
+      - Decorative Handles
+      - Locks
+      - Mirrors
+      - Frosted Glass
+      - Ventilation
+      - None
+      required: false
+    - id: 23
+      name: budget_range
+      label: Estimated Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2000
+      - $2000-$3000
+      - $3000-$5000
+      - Over $5000
+      - Not Sure
+      required: false
+    - id: 24
+      name: timeline
+      label: Desired Completion Timeline
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 2 months
+      - Flexible
+      required: true
+    - id: 25
+      name: preferred_installation_date
+      label: Preferred Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: access_considerations
+      label: Any Access Considerations
+      hint: Stairs elevator narrow hallways
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Online Search
+      - Social Media
+      - Home Improvement Store
+      - Advertisement
+      - Other
+      required: false
+    - id: 28
+      name: consultation_needed
+      label: Do You Need an In-Home Consultation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: agree_to_estimate
+      label: I Agree to Receive an Estimate
+      hint: null
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true

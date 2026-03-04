@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_client_survey
+    pages:
+    - id: 1
+      name: client_survey
+      label: Client Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: practice_info
+      label: Practice Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: practice_services
+      label: Practice Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: practice_equipment
+      label: Practice Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: practice_hours
+      label: Practice Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: vet_clinic
+      label: Vet Clinic
+      hint: null
+      type: note
+      options: []
+      required: false

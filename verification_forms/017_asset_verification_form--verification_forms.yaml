@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Verification Form
+    pages:
+    - id: 1
+      name: insurance_company
+      label: Insurance Company Name
+      hint: Your insurance provider
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: verification_date
+      label: Verification Date
+      hint: Date of asset verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claimant_first_name
+      label: Claimant First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claimant_last_name
+      label: Claimant Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claimant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: claimant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claim_number
+      label: Claim Number
+      hint: Insurance claim reference number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_description
+      label: Asset Description
+      hint: Complete description of the asset
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Jewelry
+      - Electronics
+      - Art and Collectibles
+      - Furniture
+      - Vehicles
+      - Home Equipment
+      - Sports Equipment
+      - Other
+      required: true
+    - id: 11
+      name: brand_manufacturer
+      label: Brand or Manufacturer
+      hint: Brand name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: model_number
+      label: Model or Serial Number
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: year_of_purchase
+      label: Year of Purchase
+      hint: When was it purchased?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: purchase_price
+      label: Original Purchase Price
+      hint: What was paid originally?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_condition
+      label: Current Condition
+      hint: Condition of the asset now
+      type: select_one
+      options:
+      - Like New
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 16
+      name: current_estimated_value
+      label: Current Estimated Value
+      hint: What is it worth now?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: where_asset_located
+      label: Where Is Asset Located?
+      hint: Home, office, storage, etc.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: maintenance_condition
+      label: Maintenance and Care
+      hint: How has asset been maintained?
+      type: select_one
+      options:
+      - Excellent Maintenance
+      - Good Maintenance
+      - Fair Maintenance
+      - Poor Maintenance
+      - No Maintenance
+      required: true
+    - id: 19
+      name: asset_damage_history
+      label: Any Damage or Loss History?
+      hint: Previous damage or repairs?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photos_attached
+      label: Photos of Asset Attached?
+      hint: Clear photos provided?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: documentation_provided
+      label: Supporting Documentation Provided
+      hint: Receipt, appraisal, certificate, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appraisal_document
+      label: Professional Appraisal Available?
+      hint: Certified valuation?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: accuracy_verification
+      label: I verify that the information above is accurate and complete
+      hint: Confirmation of accuracy
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: claimant_signature
+      label: Claimant Signature
+      hint: Your name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_submission_date
+      label: Form Submission Date
+      hint: Date form is completed
+      type: date
+      options: []
+      required: true

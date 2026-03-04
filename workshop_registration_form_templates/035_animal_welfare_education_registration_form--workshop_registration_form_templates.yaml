@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Education Registration Form
+    pages:
+    - id: 1
+      name: participant_name_full
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_age_status
+      label: Participant Age or Guardian Name
+      hint: Enter age if adult, or Guardian Name if minor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: primary_interest_area
+      label: Primary Interest Area
+      hint: null
+      type: select_one
+      options:
+      - Responsible Pet Ownership
+      - Wildlife Conservation and Habitat
+      - Shelter Volunteering and Support
+      - Animal Advocacy and Rights
+      - Veterinary Career Path
+      required: true
+    - id: 5
+      name: workshop_date_selection
+      label: Workshop Date Selection
+      hint: Select your preferred session
+      type: select_one
+      options:
+      - Session A - March 15
+      - Session B - April 12
+      - Session C - May 20
+      required: true
+    - id: 6
+      name: previous_education_summary
+      label: Previous Animal Welfare Education
+      hint: List any classes or workshops attended
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_needs_lunch
+      label: Dietary Restrictions for Provided Lunch
+      hint: Vegetarian, Vegan, Allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_consent_status
+      label: Photography and Media Consent
+      hint: Can we use your photo in our materials?
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 9
+      name: emergency_contact_full_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone_number
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_signature_digital
+      label: Digital Signature
+      hint: Enter full name of participant or guardian
+      type: text
+      options: []
+      required: true

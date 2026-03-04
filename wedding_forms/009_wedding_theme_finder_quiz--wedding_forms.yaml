@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_theme_finder_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Wedding Theme Finder Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_style
+      label: What style are you envisioning for your wedding?
+      hint: null
+      type: select_one
+      options:
+      - classic
+      - beach
+      - rustic
+      - vintage
+      - formal
+      - boho
+      - modern
+      - romantic
+      required: true
+    - id: 3
+      name: color_scheme
+      label: What's your favorite color scheme?
+      hint: null
+      type: select_multiple
+      options:
+      - monochromatic
+      - ombre
+      - pastel
+      - pastel-chic
+      - jewel-toned
+      - monochromatic-neutral
+      required: true
+    - id: 4
+      name: theme_element
+      label: What theme elements are you drawn to?
+      hint: null
+      type: select_multiple
+      options:
+      - flowers
+      - greenery
+      - greenery-great
+      - greenery-great-great
+      - candles
+      - greenery-great-great-great
+      - drapes
+      - greenery-great-great-great-great
+      required: true
+    - id: 5
+      name: number_guests
+      label: How many guests are attending your wedding?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: wedding_date
+      label: What date is your wedding?
+      hint: Please enter in MM/DD format.
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: wedding_time
+      label: What time is your wedding?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: ceremony_location
+      label: Where will the ceremony take place?
+      hint: null
+      type: select_multiple
+      options:
+      - garden
+      - beach
+      - restaurant
+      - hotel
+      - museum
+      - outdoors
+      - indoors
+      - historic-site
+      - church
+      required: true
+    - id: 9
+      name: reception_location
+      label: Where will the reception take place?
+      hint: null
+      type: select_multiple
+      options:
+      - garden
+      - beach
+      - restaurant
+      - hotel
+      - museum
+      - outdoors
+      - indoors
+      - historic-site
+      - church
+      required: true
+    - id: 10
+      name: dress_code
+      label: What dress code would you like to have for your wedding?
+      hint: null
+      type: select_multiple
+      options:
+      - none
+      - casual
+      - dressy-casual
+      - formal
+      required: true
+    - id: 11
+      name: wedding_theme
+      label: What theme would you like your wedding to be?
+      hint: null
+      type: select_multiple
+      options:
+      - classic
+      - boho
+      - rustic
+      - vintage
+      - formal
+      - modern
+      - romantic
+      - whimsical
+      - fairytale
+      - whimsical-fairytale
+      - nature-wild
+      - enchanted-garden
+      - vintage-gothic
+      required: true
+    - id: 12
+      name: wedding_color
+      label: What color would you like your wedding theme to be?
+      hint: null
+      type: select_one
+      options:
+      - red
+      - pink
+      - purple
+      - yellow
+      - blue
+      - green
+      - orange
+      - black
+      required: true
+    - id: 13
+      name: wedding_decor
+      label: What kind of decorations would you like at your wedding?
+      hint: null
+      type: select_multiple
+      options:
+      - flowers
+      - greenery
+      - drapes
+      - drapes-great-great
+      - drapes-great-great-great
+      - candles
+      - lights
+      - greenery-great-great-great-great
+      required: true
+    - id: 14
+      name: wedding_music
+      label: What kind of music would you like at your wedding?
+      hint: null
+      type: select_multiple
+      options:
+      - pop
+      - rock
+      - classical
+      - jazz
+      - country
+      - classical-great
+      - classical-great-great
+      - jazz-great
+      - jazz-great-great
+      required: true
+    - id: 15
+      name: wedding_favors
+      label: What kind of wedding favors do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - personal
+      - small-personal
+      - personal-great
+      - small-great
+      - small-great-great
+      required: true
+    - id: 16
+      name: final_question
+      label: Is there anything else we should know about our wedding theme?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

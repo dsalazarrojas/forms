@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website User Experience Survey Form
+    pages:
+    - id: 1
+      name: user_experience_survey_form_first_page
+      label: website_user_experience_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_user_experience_survey_form_first_question
+      label: first_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_experience_survey_form_second_question
+      label: second_question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: user_experience_survey_form_third_question
+      label: third_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_experience_survey_form_last_question
+      label: last_question
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: website_user_experience_survey_form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: website_user_experience_survey_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: website_user_experience_survey_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,270 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Canine Cushing's Quality Of Life Survey
+    pages:
+      - id: 1
+        name: intro_header
+        label: -- Cushing's Disease Quality of Life Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: intro_text
+        label: This survey helps us track your dog's well-being and response to Cushing's Disease management. Please answer based on your observations over the past month.
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: owner_pet_info_header
+        label: -- Owner and Pet Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: owner_name
+        label: Owner Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: email_address
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: pet_name
+        label: Pet Name
+        hint: Dog's name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: diagnosis_date
+        label: Date of Cushing's Diagnosis
+        hint: When diagnosed
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: treatment_status
+        label: Current Treatment Status
+        hint: Select one
+        type: select_one
+        options:
+          - Newly diagnosed, starting treatment
+          - Receiving medication
+          - Recently changed medication
+          - Stable on current treatment
+          - Treatment adjustment pending
+        required: true
+      - id: 9
+        name: clinical_signs_header
+        label: -- Clinical Signs and Symptoms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: polydipsia
+        label: Excessive thirst (Polydipsia)
+        hint: Rate frequency
+        type: select_one
+        options:
+          - Not observed
+          - Mild - slightly increased
+          - Moderate - noticeably increased
+          - Severe - constant drinking
+        required: true
+      - id: 11
+        name: polyuria
+        label: Excessive urination (Polyuria)
+        hint: Rate frequency
+        type: select_one
+        options:
+          - Not observed
+          - Mild - slightly increased frequency
+          - Moderate - noticeably increased frequency
+          - Severe - frequent accidents or inability to hold
+        required: true
+      - id: 12
+        name: appetite
+        label: Changes in Appetite
+        hint: Select one
+        type: select_one
+        options:
+          - Decreased appetite
+          - Normal appetite
+          - Increased appetite
+          - Variable appetite
+        required: true
+      - id: 13
+        name: hair_loss
+        label: Hair Loss or Thinning
+        hint: Rate severity
+        type: select_one
+        options:
+          - Not observed
+          - Mild - slight thinning
+          - Moderate - noticeable patches
+          - Severe - significant hair loss
+        required: true
+      - id: 14
+        name: skin_conditions
+        label: Skin Conditions
+        hint: Rate severity
+        type: select_one
+        options:
+          - Not observed
+          - Mild - occasional dryness or irritation
+          - Moderate - visible skin issues
+          - Severe - significant skin problems
+        required: false
+      - id: 15
+        name: abdominal_appearance
+        label: Abdominal Appearance
+        hint: Describe belly appearance
+        type: select_one
+        options:
+          - Normal
+          - Slightly pot-bellied
+          - Moderately enlarged
+          - Severely enlarged
+        required: true
+      - id: 16
+        name: activity_level_header
+        label: -- Activity and Behavior --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: energy_level
+        label: Overall Energy Level
+        hint: Rate energy
+        type: select_one
+        options:
+          - Very Low - Lethargic
+          - Low - Below normal
+          - Normal - Baseline
+          - High - Improved
+          - Very High - Significantly improved
+        required: true
+      - id: 18
+        name: exercise_tolerance
+        label: Exercise Tolerance
+        hint: Rate ability
+        type: select_one
+        options:
+          - Very Limited - Cannot walk far
+          - Limited - Tires easily
+          - Moderate - Reasonable activity
+          - Good - Normal activity level
+          - Excellent - Improved significantly
+        required: true
+      - id: 19
+        name: behavior_changes
+        label: Behavioral Changes
+        hint: Select all observed changes
+        type: select_multiple
+        options:
+          - Restlessness or pacing
+          - Anxiety or nervousness
+          - Aggression or irritability
+          - Depression or withdrawal
+          - Improved temperament
+          - No significant changes
+        required: false
+      - id: 20
+        name: sleep_patterns
+        label: Sleep Patterns
+        hint: Select one
+        type: select_one
+        options:
+          - Severely disrupted - Frequent waking
+          - Disrupted - Some sleeping difficulties
+          - Normal - Baseline sleep
+          - Improved - More restful
+          - Significantly improved
+        required: true
+      - id: 21
+        name: medication_info_header
+        label: -- Medication and Treatment Response --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: current_medication
+        label: Current Medication(s)
+        hint: Please list
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: medication_tolerance
+        label: How well is your dog tolerating the medication?
+        hint: Select one
+        type: select_one
+        options:
+          - Excellent - No side effects
+          - Good - Minimal side effects
+          - Fair - Some manageable side effects
+          - Poor - Significant side effects
+          - Unknown
+        required: true
+      - id: 24
+        name: treatment_response
+        label: Overall response to treatment
+        hint: Rate response
+        type: select_one
+        options:
+          - Excellent - Significant improvement
+          - Good - Noticeable improvement
+          - Moderate - Some improvement
+          - Minimal - Little improvement
+          - No improvement
+        required: true
+      - id: 25
+        name: quality_of_life_header
+        label: -- Overall Quality of Life --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: overall_quality_of_life
+        label: Overall Quality of Life
+        hint: Rate current quality of life
+        type: select_one
+        options:
+          - Excellent - Good quality of life
+          - Good - Acceptable quality of life
+          - Fair - Manageable but challenging
+          - Poor - Significant challenges
+          - Critical - Severe quality of life concerns
+        required: true
+      - id: 27
+        name: additional_concerns
+        label: Any additional concerns or symptoms?
+        hint: Optional
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,258 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Award Theme Selection Survey
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Optional - for tracking participation
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: Optional - to notify of results
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Which department are you in
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: event_name
+        label: Event Name
+        hint: Which awards event is this for
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: event_date
+        label: Event Date
+        hint: When is the event scheduled
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: theme_option_1
+        label: Theme Option 1 - Hollywood Glamour
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 7
+        name: theme_option_2
+        label: Theme Option 2 - Masquerade Ball
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 8
+        name: theme_option_3
+        label: Theme Option 3 - Garden Party
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 9
+        name: theme_option_4
+        label: Theme Option 4 - Black Tie Gala
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 10
+        name: theme_option_5
+        label: Theme Option 5 - Casino Night
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 11
+        name: theme_option_6
+        label: Theme Option 6 - Enchanted Forest
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 12
+        name: theme_option_7
+        label: Theme Option 7 - Roaring Twenties
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 13
+        name: theme_option_8
+        label: Theme Option 8 - Under the Stars
+        hint: Rate this theme
+        type: select_one
+        options:
+          - Love it - first choice
+          - Like it - would be great
+          - It's okay - acceptable
+          - Don't like it
+          - Strongly dislike
+        required: true
+      - id: 14
+        name: favorite_theme
+        label: Your Favorite Theme
+        hint: Select your absolute favorite
+        type: select_one
+        options:
+          - Hollywood Glamour
+          - Masquerade Ball
+          - Garden Party
+          - Black Tie Gala
+          - Casino Night
+          - Enchanted Forest
+          - Roaring Twenties
+          - Under the Stars
+        required: true
+      - id: 15
+        name: dress_code_preference
+        label: Dress Code Preference
+        hint: What dress code do you prefer
+        type: select_one
+        options:
+          - Formal/Black tie
+          - Semi-formal
+          - Cocktail attire
+          - Themed costume encouraged
+          - Business casual
+        required: true
+      - id: 16
+        name: venue_preference
+        label: Venue Preference
+        hint: What type of venue
+        type: select_one
+        options:
+          - Hotel ballroom
+          - Outdoor garden
+          - Historic mansion
+          - Modern event space
+          - Restaurant private room
+          - Other
+        required: false
+      - id: 17
+        name: budget_concern
+        label: Budget Consideration
+        hint: How important is cost
+        type: select_one
+        options:
+          - Very important - keep it simple
+          - Somewhat important
+          - Neutral
+          - Not important - go all out
+        required: true
+      - id: 18
+        name: dietary_requirements
+        label: Dietary Requirements
+        hint: Any dietary needs for catering
+        type: select_multiple
+        options:
+          - None
+          - Vegetarian
+          - Vegan
+          - Gluten-free
+          - Kosher
+          - Halal
+          - Nut allergy
+          - Other
+        required: false
+      - id: 19
+        name: entertainment_preference
+        label: Entertainment Preference
+        hint: What entertainment do you prefer
+        type: select_one
+        options:
+          - Live band
+          - DJ
+          - String quartet
+          - Silent disco
+          - No entertainment needed
+        required: false
+      - id: 20
+        name: additional_theme_ideas
+        label: Additional Theme Ideas
+        hint: Suggest other themes not listed
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: decoration_suggestions
+        label: Decoration Suggestions
+        hint: Any decoration ideas
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: would_attend
+        label: Likelihood of Attendance
+        hint: Based on theme selection
+        type: select_one
+        options:
+          - Definitely attending
+          - Probably attending
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about the event
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Volunteer Registration Form
+    pages:
+    - id: 1
+      name: new_vols_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: new_vols_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: new_vols_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_vols_address
+      label: Volunteer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_vols_zip
+      label: Volunteer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: new_vols_country
+      label: Volunteer Country
+      hint: null
+      type: select_one
+      options:
+      - Canada
+      - USA
+      - Mexico
+      - UK
+      - Australia
+      - Japan
+      required: true
+    - id: 7
+      name: new_vols_state
+      label: Volunteer State
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - California
+      - Florida
+      - Texas
+      - Illinois
+      - Ohio
+      required: true
+    - id: 8
+      name: new_vols_volunteer_date
+      label: Volunteer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: new_vols_volunteer_time
+      label: Volunteer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: new_vols_volunteer_note
+      label: Volunteer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_vols_volunteer_additional_info
+      label: Volunteer Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_vols_volunteer_skills
+      label: Volunteer Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Skill1
+      - Skill2
+      - Skill3
+      required: false
+    - id: 13
+      name: new_vols_volunteer_interests
+      label: Volunteer Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Interest1
+      - Interest2
+      - Interest3
+      required: false
+    - id: 14
+      name: new_vols_volunteer_languages
+      label: Volunteer Languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: new_vols_volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: new_vols_volunteer_education
+      label: Volunteer Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: new_vols_volunteer_availability
+      label: Volunteer Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Available
+      - Available
+      required: true
+    - id: 18
+      name: new_vols_volunteer_shift
+      label: Volunteer Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: true
+    - id: 19
+      name: new_vols_volunteer_flexible_time
+      label: Volunteer Flexible Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: true
+    - id: 20
+      name: new_vols_volunteer_volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type1
+      - Type2
+      - Type3
+      required: false
+    - id: 21
+      name: new_vols_volunteer_volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: new_vols_volunteer_shift_hours
+      label: Shift Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: new_vols_volunteer_terminology
+      label: Volunteer Termination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: new_vols_volunteer_reference
+      label: Volunteer Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: new_vols_volunteer_agreement
+      label: Volunteer Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

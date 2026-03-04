@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animated Feature Elimination Game
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will use this for results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 13
+      - 13-18
+      - 19-25
+      - 26-35
+      - 36-50
+      - 50+
+      required: false
+    - id: 5
+      name: game_rules_header
+      label: -- Game Rules --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: game_instructions
+      label: How the Elimination Game Works
+      hint: In each round, vote to ELIMINATE one animated feature
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: round_one_header
+      label: -- Round 1 - Initial Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: round_one_eliminate
+      label: Which feature should be ELIMINATED in Round 1
+      hint: Vote for the feature you like the LEAST
+      type: select_one
+      options:
+      - Hand-drawn Animation
+      - CGI 3D Animation
+      - Stop-Motion Animation
+      - Motion Capture Technology
+      - Traditional Cel Animation
+      - Digital Vector Animation
+      required: true
+    - id: 9
+      name: round_two_header
+      label: -- Round 2 - Remaining Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: round_two_eliminate
+      label: Which feature should be ELIMINATED in Round 2
+      hint: Vote for the next feature you like the LEAST
+      type: select_one
+      options:
+      - Hand-drawn Animation
+      - CGI 3D Animation
+      - Stop-Motion Animation
+      - Motion Capture Technology
+      - Traditional Cel Animation
+      - Digital Vector Animation
+      required: true
+    - id: 11
+      name: round_three_header
+      label: -- Round 3 - More Eliminations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: round_three_eliminate
+      label: Which feature should be ELIMINATED in Round 3
+      hint: Vote for the next feature you like the LEAST
+      type: select_one
+      options:
+      - Hand-drawn Animation
+      - CGI 3D Animation
+      - Stop-Motion Animation
+      - Motion Capture Technology
+      - Traditional Cel Animation
+      - Digital Vector Animation
+      required: true
+    - id: 13
+      name: round_four_header
+      label: -- Round 4 - Two Remain --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: round_four_eliminate
+      label: Which feature should be ELIMINATED in Round 4
+      hint: Vote for the next feature you like the LEAST
+      type: select_one
+      options:
+      - Hand-drawn Animation
+      - CGI 3D Animation
+      - Stop-Motion Animation
+      - Motion Capture Technology
+      - Traditional Cel Animation
+      - Digital Vector Animation
+      required: true
+    - id: 15
+      name: final_winner_header
+      label: -- Final Winner --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: favorite_wins
+      label: Your Favorite Animated Feature
+      hint: Which one do you like the MOST of the original six
+      type: select_one
+      options:
+      - Hand-drawn Animation
+      - CGI 3D Animation
+      - Stop-Motion Animation
+      - Motion Capture Technology
+      - Traditional Cel Animation
+      - Digital Vector Animation
+      required: true
+    - id: 17
+      name: feedback_header
+      label: -- Feedback Section --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: game_experience
+      label: How was your experience with this game
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent - Very fun
+      - Good - Enjoyed it
+      - Okay - It was alright
+      - Poor - Not very fun
+      - Terrible - Did not enjoy
+      required: false
+    - id: 19
+      name: why_elimination_choices
+      label: What influenced your elimination choices
+      hint: Tell us about your voting strategy
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_features
+      label: What other animation features would you add
+      hint: Suggestions for future game rounds
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: animation_preference_header
+      label: -- Animation Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: favorite_animated_shows
+      label: What is your favorite animated series or movie
+      hint: Name your favorite animated content
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: share_results
+      label: Can we share your results on social media
+      hint: Your anonymized votes may be shared
+      type: select_one
+      options:
+      - Yes, share my results
+      - No, keep them private
+      - Share anonymously only
+      required: true

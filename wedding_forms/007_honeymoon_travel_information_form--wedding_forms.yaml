@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Honeymoon Travel Information Form
+    pages:
+    - id: 1
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_departure
+      label: Date of Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_return
+      label: Date of Return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: number_of_people
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transportation
+      label: Transportation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: activities
+      label: Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: honeymoon_budget
+      label: Honeymoon Budget
+      hint: null
+      type: number
+      options: []
+      required: false

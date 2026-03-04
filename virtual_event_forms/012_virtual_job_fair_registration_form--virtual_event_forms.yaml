@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Job Fair Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Product Manager
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_fair_date
+      label: Job Fair Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 9:00 am - 10:00 am
+      - 10:00 am - 11:00 am
+      - 11:00 am - 12:00 pm
+      - 12:00 pm - 1:00 pm
+      - 1:00 pm - 2:00 pm
+      - 2:00 pm - 3:00 pm
+      - 3:00 pm - 4:00 pm
+      - 4:00 pm - 5:00 pm
+      - 5:00 pm - 6:00 pm
+      required: false
+    - id: 11
+      name: job_fair_time
+      label: Job Fair Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: job_fair_location
+      label: Job Fair Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Pending
+      - Cancelled
+      required: false
+    - id: 14
+      name: company_rep
+      label: Company Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_manager
+      label: Event Manager
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Software Feature Preference Survey
+    pages:
+    - id: 1
+      name: page1
+      label: form_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: phone_number
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Home''}'
+      - '{2: ''Mobile''}'
+      required: false
+    - id: 5
+      name: features
+      label: software_features
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''User Interface''}'
+      - '{2: ''Security and Data Storage''}'
+      - '{3: ''Data Analysis''}'
+      - '{4: ''Reporting and Customization''}'
+      required: false
+    - id: 6
+      name: priority
+      label: priority_ordering
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page2
+      label: thank_you
+      hint: null
+      type: note
+      options: []
+      required: false

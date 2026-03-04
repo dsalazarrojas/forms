@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom Appointment Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: provider_info
+      label: Provider Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Zoom''}'
+      - '{''value'': ''Zoom''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Participant 1''}'
+      - '{''value'': ''Participant 2''}'
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: zoom_url
+      label: Zoom Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pay Now''}'
+      - '{''value'': ''Pay Later''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid''}'
+      - '{''value'': ''Unpaid''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 10
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Host''}'
+      - '{''value'': ''Host''}'
+      - '{''value'': ''Participant''}'
+      required: false
+    - id: 11
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Scheduled''}'
+      - '{''value'': ''Unavailable''}'
+      - '{''value'': ''Available''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 12
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false

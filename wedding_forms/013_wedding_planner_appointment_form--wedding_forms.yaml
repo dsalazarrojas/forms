@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Planner Appointment Form
+    pages:
+    - id: 1
+      name: wedding_planner_appointment_form
+      label: wedding_planner_appointment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_planner
+      label: wedding_planner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: false
+    - id: 3
+      name: wedding_date
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: wedding_time
+      label: wedding_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: couple_phone
+      label: couple_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

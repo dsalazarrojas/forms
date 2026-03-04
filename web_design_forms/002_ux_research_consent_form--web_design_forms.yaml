@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: UX Research Consent Form
+    pages:
+    - id: 1
+      name: research_participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: Please provide the following information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_consent
+      label: Participant Consent
+      hint: Please provide the participant consent
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - I am unsure
+      required: true
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: researcher_info
+      label: Researcher Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_goals
+      label: Research Goals
+      hint: Please provide a detailed description of your research goals
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

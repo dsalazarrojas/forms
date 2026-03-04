@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Hospital Treatment Form
+    pages:
+    - id: 1
+      name: pet_owner_name
+      label: Pet Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_owner_phone
+      label: pet owner phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_weight
+      label: Pet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: monitoring_tracker
+      label: Monitoring Tracker
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: complications
+      label: Complications
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''Undetermined'', ''value'': ''undetermined''}'
+      required: true
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

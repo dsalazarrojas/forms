@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_items
+      label: Order Items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Item 1'', ''value'': ''Item 1''}'
+      - '{''id'': 2, ''label'': ''Item 2'', ''value'': ''Item 2''}'
+      - '{''id'': 3, ''label'': ''Item 3'', ''value'': ''Item 3''}'
+      required: true
+    - id: 3
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Credit Card'', ''value'': ''Credit Card''}'
+      - '{''id'': 3, ''label'': ''PayPal'', ''value'': ''PayPal''}'
+      required: true

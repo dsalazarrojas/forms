@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blackjack Animal Rescue Online Application Form
+    pages:
+    - id: 1
+      name: app_intro
+      label: -- Animal Adoption Application --
+      hint: Help us find the perfect home for our rescue animals
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: housing_type
+      label: Type of Housing
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condo
+      - Farm
+      - Other
+      required: true
+    - id: 9
+      name: home_ownership
+      label: Do you own or rent your home?
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Other
+      required: true
+    - id: 10
+      name: landlord_allows_pets
+      label: If renting, does landlord allow pets?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 11
+      name: yard_enclosed
+      label: Do you have an enclosed yard?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully fenced
+      - Yes, partially fenced
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 12
+      name: current_pets
+      label: Do you have other pets?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: current_pets_details
+      label: Please describe your current pets
+      hint: Species, age, temperament
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pet_experience
+      label: Experience with pets
+      hint: null
+      type: select_one
+      options:
+      - First time owner
+      - Some experience
+      - Very experienced
+      required: true
+    - id: 15
+      name: desired_animal_type
+      label: Type of animal interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Guinea Pig
+      - Other
+      required: true
+    - id: 16
+      name: animal_purpose
+      label: What is the primary purpose of adopting?
+      hint: null
+      type: select_one
+      options:
+      - Companion
+      - Family pet
+      - Working animal
+      - Therapy animal
+      required: true
+    - id: 17
+      name: veterinary_reference
+      label: Veterinary Reference (if applicable)
+      hint: Name and contact of previous vet
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: commitment_level
+      label: How long do you plan to keep this animal?
+      hint: null
+      type: select_one
+      options:
+      - For life
+      - 5-10 years
+      - 1-5 years
+      - Not sure
+      required: true
+    - id: 19
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

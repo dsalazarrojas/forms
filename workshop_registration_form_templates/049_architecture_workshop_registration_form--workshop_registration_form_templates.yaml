@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architecture Workshop Registration Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title or Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_workshop_selection
+      label: -- Workshop Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: workshop_name
+      label: Workshop Name
+      hint: Which workshop are you registering for?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: workshop_time
+      label: Workshop Time
+      hint: Start time of the workshop
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: instructor_name
+      label: Instructor or Facilitator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_experience
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: experience_level
+      label: Your Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 15
+      name: prior_workshops
+      label: Prior Workshop Attendance
+      hint: Have you attended similar workshops?
+      type: select_one
+      options:
+      - false
+      - Yes, one
+      - Yes, multiple
+      required: false
+    - id: 16
+      name: section_expectations
+      label: -- Workshop Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: learning_goals
+      label: What do you want to learn?
+      hint: Your goals for this workshop
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specific_interests
+      label: Specific Topics of Interest
+      hint: Particular areas you want to focus on
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: registration_fee_paid
+      label: Registration fee payment status
+      hint: null
+      type: select_one
+      options:
+      - Already paid
+      - Will pay at registration
+      - Awaiting payment information
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Special Accessibility Needs
+      hint: Let us know how we can accommodate you
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions (if lunch provided)
+      hint: null
+      type: text
+      options: []
+      required: false

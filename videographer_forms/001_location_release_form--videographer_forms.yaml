@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location Release Form
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location_type
+      label: Location Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: release_type
+      label: Release Type
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - Film
+      - TV Show
+      - Video
+      required: true
+    - id: 12
+      name: release_duration
+      label: Release Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: release_description
+      label: Release Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: signature_time
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: signature_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: signature_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_note
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_note
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

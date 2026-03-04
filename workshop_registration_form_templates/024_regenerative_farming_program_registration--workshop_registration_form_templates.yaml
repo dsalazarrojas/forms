@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regenerative Farming Program Registration
+    pages:
+    - id: 1
+      name: user
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 6
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: farm_type
+      label: Farm Type
+      hint: null
+      type: select_multiple
+      options:
+      - Organic
+      - Conventional
+      - Other
+      required: false
+    - id: 8
+      name: program_acceptance
+      label: Program Acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Regenerative Agriculture
+      - Conservation Agriculture
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: farm_details
+      label: Farm Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: experience_details
+      label: Experience Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: true

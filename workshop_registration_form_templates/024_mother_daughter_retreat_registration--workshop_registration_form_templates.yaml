@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mother Daughter Retreat Registration
+    pages:
+    - id: 1
+      name: mother_daughter_event_details
+      label: Mother Daughter Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mother_name
+      label: mother_name
+      hint: Mother's Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: daughter_age
+      label: daughter_age
+      hint: Age of Daughter
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: dates_attending
+      label: Dates Attending
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mother_consent
+      label: Mother Consent
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: mother_contact_info
+      label: Mother Contact Info
+      hint: Mother's Phone and Email
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: daughter_contact_info
+      label: Daughter Contact Info
+      hint: Daughter's Phone and Email
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false

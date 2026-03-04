@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Guest Check In Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_host
+      label: Assigned Host
+      hint: null
+      type: select_one
+      options:
+      - Caterer
+      - DJ
+      - Photographer
+      - Planner
+      - Venue Manager
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: wedding_party
+      label: Wedding Party
+      hint: null
+      type: select_multiple
+      options:
+      - Bride
+      - Groom
+      - Both
+      - Neither
+      required: false
+    - id: 12
+      name: is_plus_one
+      label: Is Plus One?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: is_baby
+      label: Is Baby?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: is_parking
+      label: Is Parking Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: parking_details
+      label: Parking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: is_allergic
+      label: Is Allergic?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: allergic_details
+      label: Allergic Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: is_medications
+      label: Is Medications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: medications_details
+      label: Medications Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: is_food_restrictions
+      label: Is Food Restrictions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: food_restrictions_details
+      label: Food Restrictions Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: is_special_requests
+      label: Is Special Requests?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: special_requests_details
+      label: Special Requests Details
+      hint: null
+      type: text
+      options: []
+      required: false

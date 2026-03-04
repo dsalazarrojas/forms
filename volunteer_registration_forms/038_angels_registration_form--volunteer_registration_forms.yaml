@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angels Registration Form
+    pages:
+    - id: 1
+      name: section_registration
+      label: -- Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: availability
+      label: Availability
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: areas_of_interest
+      label: Areas of interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mentoring
+      - Fundraising
+      - Event support
+      required: false
+    - id: 6
+      name: background_check_consent
+      label: Consent to background check
+      hint: Select yes to consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

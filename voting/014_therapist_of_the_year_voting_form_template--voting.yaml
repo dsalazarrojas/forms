@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapist Of The Year Voting Form Template
+    pages:
+    - id: 1
+      name: user_name
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_therapist
+      label: name_of_therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: voting_justification
+      label: voting_justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vote_for_therapist
+      label: vote_for_therapist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vote_for_therapist_options
+      label: vote_for_therapist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_of_voting
+      label: date_of_voting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_voting
+      label: time_of_voting
+      hint: null
+      type: time
+      options: []
+      required: false

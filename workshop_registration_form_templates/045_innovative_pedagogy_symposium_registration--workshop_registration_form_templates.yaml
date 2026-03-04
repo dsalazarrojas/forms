@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovative Pedagogy Symposium Registration
+    pages:
+    - id: 1
+      name: conference_name
+      label: conference name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_interests
+      label: Session interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accommodations''}'
+      - '{''label'': ''Assistive Technology''}'
+      - '{''label'': ''Dietary restrictions''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_details
+      label: Attendee details
+      hint: null
+      type: text
+      options: []
+      required: false

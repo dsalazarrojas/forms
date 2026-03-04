@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: two_factor_authentication_verification_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: Enter your First Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: Enter your Email Address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: verification_method
+      label: verification_method
+      hint: null
+      type: select_one
+      options:
+      - SMS
+      - Email
+      - Voice Call
+      required: true
+    - id: 6
+      name: verification_code
+      label: verification_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: verification_expiration
+      label: verification_expiration
+      hint: null
+      type: select_one
+      options:
+      - One Hour
+      - Two Hours
+      - Half Day
+      required: true
+    - id: 8
+      name: verification_expiration_2
+      label: verification_expiration_2
+      hint: null
+      type: select_multiple
+      options:
+      - Half Day
+      - One Day
+      - Half Month
+      - One Month
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: .report
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: country_code
+      label: country_code
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 12
+      name: verification_code_2
+      label: verification_code_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: verification_expiration_3
+      label: verification_expiration_3
+      hint: null
+      type: select_multiple
+      options:
+      - One Day
+      - One Week
+      - One Month
+      - One Quarter
+      required: false
+    - id: 14
+      name: verification_expiration_4
+      label: verification_expiration_4
+      hint: null
+      type: select_multiple
+      options:
+      - One Month
+      - Half Year
+      - One Year
+      required: false
+    - id: 15
+      name: verification_method_2
+      label: verification_method_2
+      hint: null
+      type: select_one
+      options:
+      - SMS
+      - Email
+      - Voice Call
+      required: true
+    - id: 16
+      name: verification_code_3
+      label: verification_code_3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_of_birth_2
+      label: date_of_birth_2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: time_of_birth_2
+      label: time_of_birth_2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: country_code_2
+      label: country_code_2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 20
+      name: verification_expiration_5
+      label: verification_expiration_5
+      hint: null
+      type: select_one
+      options:
+      - One Week
+      - One Month
+      - One Half
+      required: false
+    - id: 21
+      name: verification_code_4
+      label: verification_code_4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date_of_birth_3
+      label: date_of_birth_3
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time_of_birth_3
+      label: time_of_birth_3
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: verification_expiration_6
+      label: verification_expiration_6
+      hint: null
+      type: select_multiple
+      options:
+      - One Half
+      - One Day
+      - One Year
+      required: false
+    - id: 25
+      name: verification_method_3
+      label: verification_method_3
+      hint: null
+      type: select_one
+      options:
+      - SMS
+      - Email
+      - Voice Call
+      required: true

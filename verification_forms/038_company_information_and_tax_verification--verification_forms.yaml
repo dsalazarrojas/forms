@@ -1,0 +1,434 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Information And Tax Verification
+    pages:
+    - id: 1
+      name: company_legal_name
+      label: Company Legal Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_trade_name
+      label: Trade Name/DBA
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_registration_number
+      label: Company Registration Number
+      hint: Official registration ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incorporation_date
+      label: Date of Incorporation
+      hint: When company was formed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incorporation_jurisdiction
+      label: Jurisdiction of Incorporation
+      hint: State/country
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_type
+      label: Company Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Corporation (C-Corp)
+      - Corporation (S-Corp)
+      - Limited Liability Company (LLC)
+      - Partnership
+      - Sole Proprietorship
+      - Nonprofit
+      - Government Entity
+      - Other
+      required: true
+    - id: 7
+      name: business_address
+      label: Principal Business Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: registered_agent
+      label: Registered Agent Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registered_agent_address
+      label: Registered Agent Address
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_tax
+      label: -- Tax Information --
+      hint: Tax identification
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tax_id_ein
+      label: Tax ID / EIN
+      hint: Federal tax ID
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tax_id_type
+      label: Type of Tax ID
+      hint: ID classification
+      type: select_one
+      options:
+      - Federal EIN
+      - State Tax ID
+      - VAT Number
+      - GST Number
+      - Other
+      required: true
+    - id: 14
+      name: state_tax_id
+      label: State Tax ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sales_tax_permit
+      label: Sales Tax Permit Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_classification
+      label: Tax Classification
+      hint: How taxed
+      type: select_one
+      options:
+      - C Corporation
+      - S Corporation
+      - Partnership
+      - Disregarded Entity
+      - Nonprofit (501c3)
+      - Other
+      required: true
+    - id: 17
+      name: fiscal_year_end
+      label: Fiscal Year End
+      hint: Month and day
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: tax_exempt_status
+      label: Tax-Exempt Status
+      hint: If applicable
+      type: select_one
+      options:
+      - Not applicable
+      - 501(c)(3)
+      - 501(c)(4)
+      - 501(c)(6)
+      - Other 501(c)
+      - Government exempt
+      required: false
+    - id: 19
+      name: section_verification
+      label: -- Document Verification --
+      hint: Required documents
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: documents_submitted
+      label: Which documents are you submitting?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Certificate of Incorporation
+      - Articles of Organization
+      - EIN Confirmation Letter
+      - Tax Return (latest)
+      - Financial Statements
+      - Business License
+      - Operating Agreement
+      - Bylaws
+      - Good Standing Certificate
+      - Other
+      required: true
+    - id: 21
+      name: document_upload_note
+      label: -- Document Upload --
+      hint: Upload documents separately if required
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: section_business
+      label: -- Business Information --
+      hint: Business details
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: primary_business_activity
+      label: Primary Business Activity
+      hint: Main business purpose
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: naics_code
+      label: NAICS Code
+      hint: Industry code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sic_code
+      label: SIC Code
+      hint: Industry code
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: years_in_business
+      label: Years in Business
+      hint: Since inception
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total headcount
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: annual_revenue_range
+      label: Annual Revenue Range
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,001 - $1 million
+      - $1 million - $5 million
+      - $5 million - $10 million
+      - $10 million - $50 million
+      - Over $50 million
+      required: true
+    - id: 29
+      name: section_ownership
+      label: -- Ownership Information --
+      hint: Ownership structure
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: ownership_structure
+      label: Ownership Structure
+      hint: Who owns the company
+      type: select_one
+      options:
+      - Privately held
+      - Publicly traded
+      - Government owned
+      - Nonprofit
+      - Cooperative
+      - Other
+      required: true
+    - id: 31
+      name: public_company_symbol
+      label: Stock Ticker Symbol
+      hint: If publicly traded
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: public_company_exchange
+      label: Stock Exchange
+      hint: If publicly traded
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: beneficial_owners
+      label: Number of Beneficial Owners (25%+)
+      hint: Major owners
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: section_contact
+      label: -- Contact Information --
+      hint: Primary contacts
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 38
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: secondary_contact_email
+      label: Secondary Contact Email
+      hint: If applicable
+      type: email
+      options: []
+      required: false
+    - id: 41
+      name: section_compliance
+      label: -- Compliance Declaration --
+      hint: Compliance status
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: good_standing
+      label: Is the company in good standing?
+      hint: Registration status
+      type: select_one
+      options:
+      - Yes, in good standing
+      - Yes, with minor exceptions
+      - No, issues exist
+      - Not sure
+      required: true
+    - id: 43
+      name: compliance_issues
+      label: If no, please explain compliance issues
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: pending_litigation
+      label: Is there pending litigation?
+      hint: Legal actions
+      type: select_one
+      options:
+      - false
+      - Yes, as plaintiff
+      - Yes, as defendant
+      - Yes, both
+      required: true
+    - id: 45
+      name: bankruptcy_history
+      label: Has the company ever filed for bankruptcy?
+      hint: Bankruptcy history
+      type: select_one
+      options:
+      - false
+      - Yes, Chapter 7
+      - Yes, Chapter 11
+      - Yes, Chapter 13
+      - Yes, other
+      required: true
+    - id: 46
+      name: section_certification
+      label: -- Certification --
+      hint: Legal certification
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: certification_accuracy
+      label: I certify that the information provided is accurate
+      hint: Accuracy statement
+      type: select_one
+      options:
+      - Yes, I Certify
+      - No, I Cannot Certify
+      required: true
+    - id: 48
+      name: certification_authority
+      label: I have authority to submit this verification
+      hint: Authority confirmation
+      type: select_one
+      options:
+      - Yes, I Have Authority
+      - No, I Do Not Have Authority
+      required: true
+    - id: 49
+      name: authorized_signatory
+      label: Authorized Signatory Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: authorized_signatory_title
+      label: Authorized Signatory Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: verification_date
+      label: Verification Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

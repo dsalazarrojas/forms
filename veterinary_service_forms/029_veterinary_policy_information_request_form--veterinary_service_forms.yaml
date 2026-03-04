@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Policy Information Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Veterinary Policy Information Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: policy_effective_date
+      label: policy_effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_end_date
+      label: policy_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: policy_start_date
+      label: policy_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coverage_type
+      label: coverage_type
+      hint: null
+      type: select_one
+      options:
+      - Pet
+      - Equine
+      - Livestock
+      required: false
+    - id: 10
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 11
+      name: coverage_start_date
+      label: coverage_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: policy_owners_name
+      label: policy_owners_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_owners_relationship
+      label: policy_owners_relationship
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Guarantor
+      - Beneficiary
+      required: false
+    - id: 14
+      name: policy_owners_address
+      label: policy_owners_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_owners_phone
+      label: policy_owners_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      - Fish
+      - Bird
+      - Equine
+      - Livestock
+      required: false
+    - id: 18
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: policy_coverage
+      label: policy_coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: policy_coverage_amount
+      label: policy_coverage_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: policy_owners_phone_number
+      label: policy_owners_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pet_microchip
+      label: pet_microchip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_owners_gender
+      label: policy_owners_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 25
+      name: policy_owners_race
+      label: policy_owners_race
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black or African American
+      - White
+      - Hispanic or Latino
+      - Other
+      required: false

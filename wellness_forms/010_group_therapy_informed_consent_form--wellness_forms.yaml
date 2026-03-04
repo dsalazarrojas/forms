@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Therapy Informed Consent Form
+    pages:
+    - id: 1
+      name: group_therapy_informed_consent_form
+      label: What is group therapy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_consent
+      label: client_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: informed_consent
+      label: informed_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services
+      label: services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confidentiality
+      label: confidentiality
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: therapist_role
+      label: therapist_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_privileges
+      label: client_privileges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Booking Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Schedule Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Date
+      hint: Please enter the date of your appointment
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Time
+      hint: Please enter the time of your appointment
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: appointment_duration
+      label: Duration
+      hint: Select duration of the appointment
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
+      required: false
+    - id: 5
+      name: appointment_duration
+      label: Select appointment duration
+      hint: Select appointment duration
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      - 120 minutes
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Select appointment time
+      hint: Select appointment time
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: false
+    - id: 7
+      name: therapist_availability
+      label: Select therapist
+      hint: null
+      type: select_one
+      options:
+      - Therapist 1
+      - Therapist 2
+      - Therapist 3
+      - Therapist 4
+      required: false
+    - id: 8
+      name: appointment_note
+      label: Additional Information
+      hint: Additional information about your appointment
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Please enter your email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: Form 12
+      hint: null
+      type: text
+      options: []
+      required: false

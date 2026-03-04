@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: epa_certification_registration
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: proof_of_completion
+      label: Proof of Completion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

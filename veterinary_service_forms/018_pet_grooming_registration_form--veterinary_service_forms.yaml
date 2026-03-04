@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Grooming Registration Form
+    pages:
+    - id: 1
+      name: pet_details
+      label: pet_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_details
+      label: owner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      required: false
+    - id: 6
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_multiple
+      options:
+      - Bath
+      - Groom
+      - Trim
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

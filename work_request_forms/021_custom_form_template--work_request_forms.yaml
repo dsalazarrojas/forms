@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Form Template
+    pages:
+    - id: 1
+      name: custom_form_template
+      label: Work Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: Order status
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''shipped''}'
+      - '{''value'': ''cancelled''}'
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Industry Certification Registration Form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: previous_training
+      label: previous_training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: verify_training
+      label: verify_training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: training_details
+      label: training_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: salon_info
+      label: salon_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: trainer_info
+      label: trainer_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: training_program
+      label: training_program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

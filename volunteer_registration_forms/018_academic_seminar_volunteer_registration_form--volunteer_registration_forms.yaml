@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Seminar Volunteer Registration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Seminar Volunteer Registration Form --
+      hint: Register as a volunteer for an upcoming academic seminar. We appreciate
+        your support.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affiliation
+      label: University or organization affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: role_at_institution
+      label: Your current role
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate Student
+      - Graduate Student
+      - Faculty
+      - Staff
+      - Alumni
+      - Community Member
+      required: true
+    - id: 8
+      name: seminar_name
+      label: Name of the seminar you are volunteering for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: seminar_date
+      label: Date of the seminar
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_role_preference
+      label: Preferred volunteer role (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Registration desk
+      - Room setup and teardown
+      - Audio/visual support
+      - Guest speaker escort
+      - Catering and refreshments
+      - Photography
+      - General assistance
+      required: true
+    - id: 11
+      name: availability
+      label: What times are you available on the event day
+      hint: null
+      type: select_multiple
+      options:
+      - Morning setup (before event)
+      - Morning session
+      - Afternoon session
+      - Evening session
+      - Post-event cleanup
+      required: true
+    - id: 12
+      name: previous_volunteer_experience
+      label: Have you volunteered at academic events before
+      hint: null
+      type: select_one
+      options:
+      - Yes - multiple events
+      - Yes - one event
+      - No - this is my first time
+      required: true
+    - id: 13
+      name: special_skills
+      label: Do you have any special skills relevant to event support
+      hint: e.g. AV equipment, first aid, languages spoken
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: t_shirt_size
+      label: T-shirt size (for volunteer shirts)
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Any dietary restrictions or allergies
+      hint: For volunteer meals
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agreement
+      label: I agree to fulfill my volunteer responsibilities and follow event guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true

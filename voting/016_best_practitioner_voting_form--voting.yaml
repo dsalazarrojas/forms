@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Practitioner Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: We will send confirmation to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: voter_organization
+        label: Your Organization
+        hint: Name of your company or institution
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: practitioner_name
+        label: Nominated Practitioner Full Name
+        hint: Enter the full name of the practitioner
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: practitioner_title
+        label: Practitioner Title or Designation
+        hint: What is their professional title
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: practitioner_organization
+        label: Practitioner Organization
+        hint: Where do they practice
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: practitioner_location
+        label: Practice Location
+        hint: City and state of their practice
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: practice_category
+        label: Practice Category
+        hint: Select the category for this nomination
+        type: select_one
+        options:
+          - Medical Practitioner
+          - Legal Practitioner
+          - Mental Health Practitioner
+          - Physical Therapist
+          - Occupational Therapist
+          - Chiropractor
+          - Naturopath
+          - Acupuncturist
+          - Speech Therapist
+          - Other
+        required: true
+      - id: 9
+        name: years_of_practice
+        label: Years of Practice
+        hint: How long have they been practicing
+        type: select_one
+        options:
+          - Less than 5 years
+          - 5 to 10 years
+          - 10 to 15 years
+          - 15 to 20 years
+          - Over 20 years
+        required: true
+      - id: 10
+        name: relationship_duration
+        label: Your Relationship Duration
+        hint: How long have you been their patient or client
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - Over 5 years
+        required: true
+      - id: 11
+        name: expertise_rating
+        label: Professional Expertise Rating
+        hint: Rate their level of expertise
+        type: select_one
+        options:
+          - Expert
+          - Very Knowledgeable
+          - Knowledgeable
+          - Somewhat Knowledgeable
+          - Lacks Knowledge
+        required: true
+      - id: 12
+        name: care_quality_rating
+        label: Quality of Care Rating
+        hint: How would you rate the quality of care or service
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: communication_rating
+        label: Communication Skills Rating
+        hint: How well do they explain and listen
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: professionalism_rating
+        label: Professionalism Rating
+        hint: Rate their professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: outcomes_rating
+        label: Treatment Outcomes Rating
+        hint: How effective have their treatments been
+        type: select_one
+        options:
+          - Excellent Outcomes
+          - Very Good Outcomes
+          - Good Outcomes
+          - Fair Outcomes
+          - Poor Outcomes
+        required: true
+      - id: 16
+        name: standout_qualities
+        label: Standout Qualities
+        hint: What makes this practitioner exceptional
+        type: select_multiple
+        options:
+          - Deep Expertise
+          - Compassionate Care
+          - Excellent Communication
+          - Patient-Centered Approach
+          - Innovative Techniques
+          - Thorough Explanations
+          - Accessible and Available
+          - Respectful of Time
+          - Holistic Approach
+          - Other
+        required: true
+      - id: 17
+        name: nomination_reason
+        label: Why Are You Nominating This Practitioner
+        hint: Explain why they deserve recognition
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: success_story
+        label: Share a Success Story
+        hint: Describe a specific instance where they made a difference
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_recommend
+        label: Would You Recommend This Practitioner
+        hint: Would you recommend them to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or recognition
+        type: text
+        options: []
+        required: false

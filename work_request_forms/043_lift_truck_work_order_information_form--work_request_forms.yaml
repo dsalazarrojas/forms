@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lift Truck Work Order Information Form
+    pages:
+    - id: 1
+      name: lift_truck_work_order_id
+      label: Lift Truck Work Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lift_truck_work_order_date
+      label: Lift Truck Work Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: work_order_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 4
+      name: work_order_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Lift Truck
+      - Other
+      - Specialized
+      required: false
+    - id: 5
+      name: equipment_make
+      label: Equipment Make
+      hint: null
+      type: text
+      options: []
+      required: false

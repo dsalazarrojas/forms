@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethical Research In Education Workshop Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: attendee_phonenumber
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_to_share_data
+      label: Consent to Share Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: attendee_interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Music
+      - Sports
+      - Hiking
+      required: false
+    - id: 6
+      name: workshop_preferences
+      label: Workshop Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Full day
+      required: false
+    - id: 7
+      name: workshop_dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Veggie
+      - Meat
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_button_text
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Selection Form
+    pages:
+    - id: 1
+      name: select_site
+      label: Select Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: site_selection_criteria
+      label: Site Selection Criteria
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: selected_site
+      label: Selected Site
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_manager_id
+      label: Project Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_id
+      label: Client ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: external_notes
+      label: External Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: site_selection_form_report
+      label: Site Selection Form Report
+      hint: Report of the Site Selection Form
+      type: text
+      options: []
+      required: false

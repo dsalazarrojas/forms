@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Volunteer Feedback Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_role
+      label: Volunteer Role
+      hint: Your position
+      type: select_one
+      options:
+      - Camp counselor
+      - Activity leader
+      - Support staff
+      - Kitchen helper
+      - Administrative support
+      - Maintenance
+      - Medical staff
+      - Other
+      required: true
+    - id: 5
+      name: session_volunteered
+      label: Session You Volunteered For
+      hint: Select session
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Full summer
+      - Multiple sessions
+      required: true
+    - id: 6
+      name: total_hours
+      label: Total Volunteer Hours
+      hint: Approximate hours
+      type: select_one
+      options:
+      - Less than 10 hours
+      - 10-20 hours
+      - 21-40 hours
+      - 41-80 hours
+      - Over 80 hours
+      required: true
+    - id: 7
+      name: overall_experience
+      label: Overall Volunteer Experience
+      hint: Rate your experience
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 8
+      name: staff_support
+      label: Support from Camp Staff
+      hint: Rate staff support
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: training_quality
+      label: Quality of Volunteer Training
+      hint: Rate the training
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not receive training
+      required: true
+    - id: 10
+      name: role_clarity
+      label: Clarity of Your Role and Responsibilities
+      hint: Rate clarity
+      type: select_one
+      options:
+      - Very clear
+      - Mostly clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 11
+      name: resources_provided
+      label: Resources and Materials Provided
+      hint: Rate adequacy
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Somewhat adequate
+      - Inadequate
+      - Very inadequate
+      required: true
+    - id: 12
+      name: camper_interaction
+      label: Experience Interacting with Campers
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Extremely rewarding
+      - Very rewarding
+      - Rewarding
+      - Neutral
+      - Challenging
+      - Very challenging
+      required: true
+    - id: 13
+      name: workload
+      label: Workload Manageability
+      hint: How manageable was your workload
+      type: select_one
+      options:
+      - Very manageable
+      - Manageable
+      - Somewhat manageable
+      - Overwhelming at times
+      - Too overwhelming
+      required: true
+    - id: 14
+      name: schedule_flexibility
+      label: Schedule Flexibility
+      hint: Rate flexibility
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Neutral
+      - Inflexible
+      - Very inflexible
+      required: true
+    - id: 15
+      name: favorite_part
+      label: What Was Your Favorite Part of Volunteering
+      hint: Describe
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: most_challenging_part
+      label: What Was the Most Challenging Part
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: skills_gained
+      label: What Skills Did You Gain or Improve
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Teamwork
+      - Problem solving
+      - Youth mentoring
+      - Activity planning
+      - Conflict resolution
+      - Time management
+      - Outdoor skills
+      - None
+      - Other
+      required: true
+    - id: 18
+      name: would_volunteer_again
+      label: Would You Volunteer Again Next Year
+      hint: Yes or no
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 19
+      name: recommend_to_others
+      label: Would You Recommend Volunteering to Others
+      hint: Yes or no
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 20
+      name: improvements_suggested
+      label: What Improvements Would You Suggest
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_training_needed
+      label: What Additional Training Would Be Helpful
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: communication_feedback
+      label: How Was Communication from Camp Leadership
+      hint: Rate communication
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: recognition_appreciation
+      label: Did You Feel Appreciated as a Volunteer
+      hint: Rate recognition
+      type: select_one
+      options:
+      - Very appreciated
+      - Appreciated
+      - Somewhat appreciated
+      - Neutral
+      - Not appreciated
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

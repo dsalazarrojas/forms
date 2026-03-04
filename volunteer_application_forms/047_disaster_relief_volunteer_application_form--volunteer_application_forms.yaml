@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Relief Volunteer Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteers_name
+      label: volunteers_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: volunteers_email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: volunteers_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: volunteers_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: available_to_work
+      label: available_to_work
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: preferred_role
+      label: preferred_role
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: skills_and_experience
+      label: skills_and_experience
+      hint: Please include any relevant skills or experience you have.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: volunteers_availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: volunteers_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_group
+      label: volunteers_group
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: message
+      label: volunteers_message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Allocation Roundtable Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Registration
+      - Other
+      required: false
+    - id: 9
+      name: budget_amount
+      label: Budget Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: budget_start_date
+      label: Budget Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: budget_end_date
+      label: Budget End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Travel
+      - Accommodation
+      - Food
+      - Other
+      required: false
+    - id: 13
+      name: expense_note
+      label: Expense Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_on
+      label: Created On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: number
+      options: []
+      required: false

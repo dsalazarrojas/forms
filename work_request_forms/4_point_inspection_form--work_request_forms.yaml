@@ -1,0 +1,148 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 4 Point Inspection Form
+    pages:
+    - id: 1
+      name: section_header_property
+      label: "--- Property & Inspection Details ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property address
+      hint: Include unit/suite if applicable
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: roof_condition
+      label: Roof condition
+      hint: Look for leaks, missing shingles, sagging
+      type: select_one
+      options:
+        - Good
+        - Fair
+        - Poor
+        - Failed / urgent repair
+      required: true
+    - id: 6
+      name: electrical_condition
+      label: Electrical system condition
+      hint: Check panel, wiring, outlets, visible hazards
+      type: select_one
+      options:
+        - Good
+        - Fair
+        - Poor
+        - Unsafe / requires immediate attention
+      required: true
+    - id: 7
+      name: plumbing_condition
+      label: Plumbing system condition
+      hint: Look for leaks, water pressure issues, corrosion
+      type: select_one
+      options:
+        - Good
+        - Fair
+        - Poor
+        - Failed / active leak
+      required: true
+    - id: 8
+      name: hvac_condition
+      label: HVAC / heating condition
+      hint: Check operation, filters, visible damage
+      type: select_one
+      options:
+        - Good
+        - Fair
+        - Poor
+        - Not operational
+      required: true
+    - id: 9
+      name: foundation_observations
+      label: Foundation / structural observations
+      hint: Cracks, settlement, moisture intrusion
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_hazards
+      label: Safety hazards observed (select all that apply)
+      hint: Mark all that apply or leave blank
+      type: select_multiple
+      options:
+        - Trip / fall hazards
+        - Exposed wiring
+        - Mold / mildew evidence
+        - Active water intrusion
+        - Fire hazard
+      required: false
+    - id: 11
+      name: overall_score
+      label: Overall condition score (1-10)
+      hint: 10 = excellent, 1 = failed
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: immediate_repair_required
+      label: Immediate repair recommended?
+      hint: Choose Yes if unsafe conditions found
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 13
+      name: estimated_repair_cost
+      label: Estimated repair cost (if applicable)
+      hint: Enter best estimate (no currency symbol)
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Recommended follow-up inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: inspector_notes
+      label: Inspector additional notes and recommendations
+      hint: Describe observed issues and recommended actions
+      type: text
+      options: []
+      required: false

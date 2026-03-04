@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Student Volunteer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Non-Student
+      required: false
+    - id: 8
+      name: volunteer_start_date
+      label: volunteer_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_end_date
+      label: volunteer_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_volunteering
+      label: reason_for_volunteering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false

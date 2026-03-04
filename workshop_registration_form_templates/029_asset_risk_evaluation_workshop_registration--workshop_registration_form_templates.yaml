@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Risk Evaluation Workshop Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Position held
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry
+      label: Industry
+      hint: What industry
+      type: select_one
+      options:
+      - Finance and Banking
+      - Insurance
+      - Healthcare
+      - Manufacturing
+      - Technology
+      - Energy and Utilities
+      - Government
+      - Education
+      - Retail
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_address
+      label: Work Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: workshop_date
+      label: Workshop Date
+      hint: When attending
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: workshop_location
+      label: Workshop Location
+      hint: Where held
+      type: select_one
+      options:
+      - New York - Main Conference Center
+      - Chicago - Downtown Hotel
+      - San Francisco - Tech Hub
+      - London - International Center
+      - Online - Virtual Attendance
+      required: true
+    - id: 10
+      name: experience_level
+      label: Risk Management Experience
+      hint: How experienced
+      type: select_one
+      options:
+      - Beginner - Less than 2 years
+      - Intermediate - 2 to 5 years
+      - Advanced - 5 to 10 years
+      - Expert - Over 10 years
+      required: true
+    - id: 11
+      name: current_role
+      label: Current Role Related to Risk
+      hint: Your involvement
+      type: select_one
+      options:
+      - Direct Risk Management
+      - Oversight Role
+      - Support Function
+      - Learning for Career Change
+      - Other
+      required: true
+    - id: 12
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you want to learn
+      type: select_multiple
+      options:
+      - Risk Identification
+      - Risk Assessment Methods
+      - Risk Mitigation Strategies
+      - Regulatory Compliance
+      - Technology Tools
+      - Case Studies
+      - Best Practices
+      required: true
+    - id: 13
+      name: asset_types_focus
+      label: Asset Types of Focus
+      hint: What interests you
+      type: select_multiple
+      options:
+      - Financial Assets
+      - Physical Assets
+      - Digital Assets
+      - Intellectual Property
+      - Human Capital
+      - Reputation
+      - All Types
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 15
+      name: accommodation_needed
+      label: Special Accommodations Needed
+      hint: Accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How paying
+      type: select_one
+      options:
+      - Credit Card
+      - Company Invoice
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 17
+      name: registration_fee
+      label: Registration Fee
+      hint: Workshop cost
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: early_bird_discount
+      label: Early Bird Discount Applied
+      hint: If applicable
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: group_discount
+      label: Group Discount Applied
+      hint: Multiple registrants
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: certificate_needed
+      label: Need Certificate of Completion
+      hint: For continuing education
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: continuing_edition_credits
+      label: Continuing Education Credits Needed
+      hint: CPE or similar
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: marketing_consent
+      label: Consent to Receive Marketing
+      hint: Future communications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: referral_source
+      label: How Did You Hear About Workshop
+      hint: Referral source
+      type: select_one
+      options:
+      - Company Training Program
+      - Professional Association
+      - Online Search
+      - Colleague Referral
+      - Social Media
+      - Advertisement
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement to policies
+      type: select_one
+      options:
+      - Yes I Accept
+      - 'No'
+      required: true
+    - id: 26
+      name: cancellation_policy_understood
+      label: I Understand Cancellation Policy
+      hint: Read refund policy
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

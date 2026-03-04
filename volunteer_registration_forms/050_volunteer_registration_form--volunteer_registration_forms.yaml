@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_registration_form_first_page
+      label: first_page
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_details
+      label: volunteer_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_skills
+      label: volunteer_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assign_tool
+      label: assign_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''tool1''}'
+      - '{''id'': 2, ''label'': ''tool2''}'
+      - '{''id'': 3, ''label'': ''tool3''}'
+      required: true
+    - id: 10
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

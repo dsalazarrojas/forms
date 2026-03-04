@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Compliance Verification Form
+    pages:
+    - id: 1
+      name: vendor_compliance_verification_form_vendor
+      label: vendor
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: false
+    - id: 2
+      name: vendor_compliance_verification_form_vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_compliance_verification_form_vendor_phone
+      label: vendor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vendor_compliance_verification_form_vendor_email
+      label: vendor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: vendor_compliance_verification_form_vendor_notes
+      label: vendor_notes
+      hint: null
+      type: note
+      options: []
+      required: false

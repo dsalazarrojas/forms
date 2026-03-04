@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_rescue_community_registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 4
+      name: volunteer_info
+      label: Volunteer Information
+      hint: Please provide information about your volunteer experience
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_schedule
+      label: Volunteer Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: activity_dates
+      label: Activity Dates
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Music System Repair Request Form
+    pages:
+    - id: 1
+      name: elevator_music_system_repair_request_form
+      label: Music System Repair Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: elevator_music_system_status
+      label: Music System Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Working''}'
+      - '{''value'': ''Not Working''}'
+      - '{''value'': ''Maintenance Required''}'
+      required: false
+    - id: 3
+      name: repair_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: music_source
+      label: Music Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Local''}'
+      - '{''value'': ''Satellite''}'
+      - '{''value'': ''Streaming''}'
+      required: false
+    - id: 6
+      name: audio_format
+      label: Audio Format
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''MP3''}'
+      - '{''value'': ''WAV''}'
+      - '{''value'': ''FLAC''}'
+      required: false
+    - id: 7
+      name: audio_volume
+      label: Audio Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: elevator_id
+      label: Elevator ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: music_schedule
+      label: Music Schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''24/7''}'
+      - '{''value'': ''On Demand''}'
+      - '{''value'': ''Custom''}'
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false

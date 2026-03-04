@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Art Commission Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: commission_type
+      label: Commission Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: commission_date
+      label: Commission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: image_count
+      label: Image Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: image_size
+      label: Image Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 9
+      name: image_format
+      label: Image Format
+      hint: null
+      type: select_one
+      options:
+      - JPEG
+      - PNG
+      - GIF
+      - BMP
+      required: false
+    - id: 10
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_information_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_information_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_information_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_information_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_information_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_information_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_information_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_information_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: commission_terms
+      label: Commission Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: commission_notes
+      label: Commission Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: artist_statement
+      label: Artist Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: artist_agreement
+      label: Artist Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: true

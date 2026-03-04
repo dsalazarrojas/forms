@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Veterinary Interview Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: consent_time
+      label: Time of Consent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consent_reason
+      label: Reason for Interview
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 9
+      name: participant_ethnicity
+      label: Participant Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black or African American
+      - Native American/Alaska Native
+      - Other
+      - White
+      required: true
+    - id: 10
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Other
+      required: false
+    - id: 11
+      name: participant_education
+      label: Participant Education
+      hint: null
+      type: select_one
+      options:
+      - Primary School
+      - High School
+      - College/University
+      - Other
+      required: true
+    - id: 12
+      name: participant_occupation
+      label: Participant Occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Worker
+      - Retiree
+      - Other
+      required: false
+    - id: 13
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Town
+      - Village
+      - Other
+      required: false
+    - id: 14
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false

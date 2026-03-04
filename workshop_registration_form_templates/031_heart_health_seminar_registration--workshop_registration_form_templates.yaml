@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: heart_health_seminar_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 6
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English'', ''value'': ''english''}'
+      - '{''label'': ''Spanish'', ''value'': ''spanish''}'
+      - '{''label'': ''Chinese'', ''value'': ''chinese''}'
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lunch'', ''value'': ''lunch''}'
+      - '{''label'': ''Snacks'', ''value'': ''snacks''}'
+      - '{''label'': ''Parking'', ''value'': ''parking''}'
+      required: false
+    - id: 11
+      name: workshop_preferences
+      label: Workshop Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Heart Health'', ''value'': ''heart_health''}'
+      - '{''label'': ''Nutrition'', ''value'': ''nutrition''}'
+      - '{''label'': ''Fitness'', ''value'': ''fitness''}'
+      required: false
+    - id: 12
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nonprofit_name
+      label: Nonprofit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_mvp_voting_form
+    pages:
+    - id: 1
+      name: select_mvp
+      label: Choose Mvp
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nominee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: nominee_job_title
+      label: Nominee Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominee_contribution
+      label: Nominee Contribution
+      hint: Describe the nominee's contribution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_reason_for_nomination
+      label: Reason For Nomination
+      hint: Explain the reason for the nomination
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members_voted_for
+      label: Team Members Voted For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: month
+      label: Month
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vote
+      label: Vote
+      hint: Enter your vote for
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vote_for
+      label: Vote For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: Enter comments about the nomination
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit_button
+      label: Submit Button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: nominee
+      label: Nominee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: mvp_form_submit
+      label: MVP Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mvp_note
+      label: Note
+      hint: Additional notes about the submission
+      type: note
+      options: []
+      required: false

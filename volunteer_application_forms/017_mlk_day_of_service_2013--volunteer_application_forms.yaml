@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: mlk_day_of_service_2013
+    pages:
+    - id: 1
+      name: volunteer_application_forms
+      label: Volunteer Application Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: volunteer_application_forms
+      label: Volunteer Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: this_is_for_the_icc_of_minnesota_day_of_service
+      label: This is for the ICC of Minnesota Day of Service
+      hint: null
+      type: text
+      options: []
+      required: false

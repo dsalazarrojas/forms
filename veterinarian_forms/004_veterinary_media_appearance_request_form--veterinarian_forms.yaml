@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Media Appearance Request Form
+    pages:
+    - id: 1
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: media_name
+      label: Media Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_event
+      label: Date Of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_event
+      label: Time Of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_of_event
+      label: Location Of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_media
+      label: Additional Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: event_category
+      label: Event Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: veterinary_clinic_name
+      label: Veterinary Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: media_contact_name
+      label: Media Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: media_contact_number
+      label: Media Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: media_email
+      label: Media Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: media_website
+      label: Media Website
+      hint: null
+      type: text
+      options: []
+      required: false

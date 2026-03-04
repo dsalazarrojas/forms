@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Sitting Pet Form
+    pages:
+    - id: 1
+      name: pet_sitting_pet_form_1
+      label: pet_sitting_pet_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_id
+      label: pet id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: owner_id
+      label: owner id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3, ''value'': 3, ''name'': ''owner 1''}'
+      - '{''id'': 4, ''value'': 4, ''name'': ''owner 2''}'
+      required: false
+    - id: 4
+      name: pet_type
+      label: pet type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 1, ''name'': ''pet type 1''}'
+      - '{''id'': 2, ''value'': 2, ''name'': ''pet type 2''}'
+      - '{''id'': 3, ''value'': 3, ''name'': ''pet type 3''}'
+      required: false
+    - id: 5
+      name: pet_name
+      label: pet name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_species
+      label: pet species
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_name
+      label: owner name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false

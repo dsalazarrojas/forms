@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Prescription Form
+    pages:
+    - id: 1
+      name: pet_owner_info
+      label: Pet Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: Pet Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prescription_info
+      label: Prescription Info
+      hint: Enter prescription details here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: veterinary_signature
+      label: Veterinarian Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John Smith
+      - Dr. Jane Doe
+      - Dr. John Doe
+      required: true
+    - id: 5
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      required: true
+    - id: 6
+      name: date_given
+      label: Date Given
+      hint: Date of prescription
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_given
+      label: Time Given
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian_comments
+      label: Veterinarian Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_comments
+      label: Owner Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prescription_number
+      label: Prescription Number
+      hint: Enter prescription number here
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: expiration_date
+      label: Expiration Date
+      hint: Date of expiration
+      type: date
+      options: []
+      required: false

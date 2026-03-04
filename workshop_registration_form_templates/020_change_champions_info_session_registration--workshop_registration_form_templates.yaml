@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Champions Info Session Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: When registering
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Company Name
+      hint: Where you work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title or Position
+      hint: Current position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department_division
+      label: Department or Division
+      hint: Part of organization
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: info_session_date
+      label: Preferred Info Session Date
+      hint: Which session would you like to attend
+      type: select_one
+      options:
+      - Session A - March 15
+      - Session B - March 22
+      - Session C - March 29
+      - Session D - April 5
+      - Any Available Date
+      required: true
+    - id: 9
+      name: session_time_preference
+      label: Time Preference
+      hint: Morning or afternoon session
+      type: select_one
+      options:
+      - Morning - 9am-11am
+      - Afternoon - 2pm-4pm
+      - No Preference
+      required: false
+    - id: 10
+      name: attendance_format
+      label: Attendance Format
+      hint: In-person or virtual
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - No Preference
+      required: true
+    - id: 11
+      name: change_initiative_role
+      label: Role in Change Initiative
+      hint: Your involvement
+      type: select_one
+      options:
+      - Change Leader
+      - Change Team Member
+      - Department Representative
+      - Interested Participant
+      - Other
+      required: false
+    - id: 12
+      name: change_experience
+      label: Prior Change Management Experience
+      hint: Do you have experience in change management
+      type: select_one
+      options:
+      - Extensive Experience
+      - Some Experience
+      - Minimal Experience
+      - No Experience
+      required: false
+    - id: 13
+      name: goals_for_session
+      label: What Do You Hope to Learn
+      hint: Your objectives for attending
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_challenges
+      label: Current Change Challenges or Concerns
+      hint: Challenges you're facing
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organizational_readiness
+      label: Organization Readiness for Change
+      hint: How prepared is your organization
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Not Ready
+      required: false
+    - id: 16
+      name: stakeholder_engagement
+      label: Stakeholder Engagement Level
+      hint: How engaged are stakeholders
+      type: select_one
+      options:
+      - Highly Engaged
+      - Moderately Engaged
+      - Minimally Engaged
+      - Not Engaged
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food restrictions for event
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Any special accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Interpreting Services
+      - Other
+      required: false
+    - id: 19
+      name: accessibility_details
+      label: Describe Accessibility Needs
+      hint: Details about accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: communication_opt_in
+      label: Opt-In for Future Communications
+      hint: Receive updates about change champion program
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

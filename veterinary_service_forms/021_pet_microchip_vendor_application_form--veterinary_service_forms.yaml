@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Microchip Vendor Application Form
+    pages:
+    - id: 1
+      name: vendor_info
+      label: Vendor Information
+      hint: Enter vendor information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: about_us
+      label: About Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: microchip_vendor_license
+      label: Microchip Vendor License
+      hint: Is this entity a certified microchip vendor?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: certification_number
+      label: Certification Number
+      hint: If yes, please enter certification number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment
+      label: Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

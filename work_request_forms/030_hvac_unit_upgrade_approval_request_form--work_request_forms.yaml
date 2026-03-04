@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hvac_unit_upgrade_approval_request_form
+    pages:
+    - id: 1
+      name: upgrade_request
+      label: Upgrade Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hgvu_id
+      label: hgvu_id
+      hint: null
+      type: select_one
+      options:
+      - HVAC-001
+      - HVAC-002
+      - HVAC-003
+      - HVAC-004
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: upgrade_type
+      label: Upgrade Type
+      hint: null
+      type: select_one
+      options:
+      - Replace
+      - Upgrade
+      - Repair
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: documents
+      label: Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Property Manager
+      - Facility Team
+      - Owner
+      required: false
+    - id: 8
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Property Manager
+      - Facility Team
+      - Owner
+      required: false

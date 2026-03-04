@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Prescription Form
+    pages:
+    - id: 1
+      name: pet_prescription_form
+      label: pet_prescription_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_owner_name
+      label: pet_owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 5
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prescription_notes
+      label: prescription_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pet_health
+      label: pet_health
+      hint: null
+      type: select_multiple
+      options:
+      - Healthy
+      - Sick
+      - Critical
+      required: false
+    - id: 8
+      name: veterinarian_signature
+      label: veterinarian_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_clinic
+      label: veterinary_clinic
+      hint: null
+      type: select_one
+      options:
+      - Clinic 1
+      - Clinic 2
+      - Clinic 3
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prescription_request
+      label: prescription_request
+      hint: null
+      type: select_one
+      options:
+      - Prescription 1
+      - Prescription 2
+      - Prescription 3
+      required: false
+    - id: 16
+      name: veterinarian_notes
+      label: veterinarian_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_instructions
+      label: follow_up_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_email
+      label: follow_up_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 24
+      name: follow_up_note
+      label: follow_up_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

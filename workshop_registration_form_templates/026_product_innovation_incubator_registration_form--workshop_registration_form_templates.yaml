@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Innovation Incubator Registration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: founder_name
+      label: founder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: founder_email
+      label: founder_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: idea_description
+      label: idea_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_goal
+      label: program_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: idea_stage
+      label: idea_stage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: industry_sector
+      label: industry_sector
+      hint: null
+      type: select_one
+      options:
+      - Innovation
+      - Product
+      - Service
+      - Other
+      required: false
+    - id: 8
+      name: team_members
+      label: team_members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_location
+      label: team_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: idea_status
+      label: idea_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: target_market
+      label: target_market
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: product_stage
+      label: product_stage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - Seed
+      - Accelerator
+      - Incubator
+      - University
+      - Other
+      required: false
+    - id: 14
+      name: program_length
+      label: program_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_owner_survey
+    pages:
+    - id: 1
+      name: pet_owner_survey_page1
+      label: What type of pet do you have
+      hint: Please select one
+      type: select_one
+      options:
+      - cat
+      - dog
+      - other
+      required: false
+    - id: 2
+      name: pet_owner_age
+      label: What is your pet's age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pet_owner_contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_owner_survey_page2
+      label: What is your pet's habits?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pet_owner_survey_page3
+      label: Additional information
+      hint: null
+      type: select_multiple
+      options:
+      - I have pet insurance
+      - I do not have pet insurance
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: pet_owner_survey_page4
+      label: How many pets do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pet_owner_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pet_owner_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pet_owner_employment_status
+      label: Do you work from home?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: pet_owner_education
+      label: What is your educational background?
+      hint: null
+      type: select_multiple
+      options:
+      - High school
+      - Bachelor
+      - Master
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: pet_owner_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false

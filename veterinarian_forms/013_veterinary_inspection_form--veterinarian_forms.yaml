@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cat''}'
+      - '{''value'': ''Dog''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_note
+      label: Inspection Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: animal_condition
+      label: Animal Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Unhealthy''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: inspection_findings
+      label: Inspection Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommended_treatment
+      label: Recommended Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_visit
+      label: Next Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_phone_number
+      label: Follow-up Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_email
+      label: Follow-up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_animal_condition
+      label: Follow-up Animal Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Healthy''}'
+      - '{''value'': ''Unhealthy''}'
+      - '{''value'': ''Unknown''}'
+      required: false
+    - id: 23
+      name: follow_up_inspection_notes
+      label: Follow-up Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_inspection_findings
+      label: Follow-up Inspection Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_action_plan
+      label: Follow-up Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false

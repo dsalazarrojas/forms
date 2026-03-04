@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: mockup_design_feedback_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mockup_usability_rating
+      label: Mockup Usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mockup_comments
+      label: Mockup Comments
+      hint: Please provide any thoughts or feedback on the design.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Web Design Forms''}'
+      - '{''label'': ''Web Forms''}'
+      required: false

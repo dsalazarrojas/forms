@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Pet Grooming
+      - Pet Vaccination
+      - Veterinary Consultation
+      required: false
+    - id: 5
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: veterinarian
+      label: Veterinarian
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
+      required: false
+    - id: 10
+      name: clinic_location
+      label: Clinic Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false

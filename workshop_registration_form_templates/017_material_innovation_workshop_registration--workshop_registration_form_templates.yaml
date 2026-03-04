@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: material_innovation_workshop_registration
+    pages:
+    - id: 1
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: topic_interests
+      label: Topic Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Materials Science
+      - Materials Chemistry
+      - Materials Physics
+      - Materials Engineering
+      - Materials Science and Technology
+      - Materials Processing and Manufacturing
+      - Materials Characterization
+      - Materials Applications
+      - Materials and Manufacturing
+      required: false
+    - id: 4
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair
+      - Hearing Impairment
+      - Vision Impairment
+      - Speech or Communication Impairment
+      - Other
+      required: false
+    - id: 5
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

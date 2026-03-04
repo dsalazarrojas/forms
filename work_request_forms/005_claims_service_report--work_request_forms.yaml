@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claims Service Report
+    pages:
+    - id: 1
+      name: service_info_header
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_technician
+      label: Service Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claim_reference
+      label: Claim Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_details_header
+      label: -- Report Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of Service Provided
+      hint: null
+      type: select_one
+      options:
+      - Initial Assessment
+      - Mitigation
+      - Restoration
+      - Final Inspection
+      - Emergency Tarping
+      - Water Extraction
+      required: true
+    - id: 8
+      name: status_update
+      label: Current Status of Work
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - On Hold - Awaiting Parts
+      - On Hold - Awaiting Approval
+      required: true
+    - id: 9
+      name: work_description
+      label: Summary of Work Performed Today
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: materials_used
+      label: Materials or Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hours_worked
+      label: Total Labor Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: issues_encountered
+      label: Any issues or delays encountered?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_needed
+      label: Is follow-up work required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: follow_up_date
+      label: Proposed Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: client_acknowledgement_header
+      label: -- Client Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: client_satisfied
+      label: Is the client satisfied with today's work?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Client not present
+      required: true
+    - id: 17
+      name: technician_notes
+      label: Technician Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false

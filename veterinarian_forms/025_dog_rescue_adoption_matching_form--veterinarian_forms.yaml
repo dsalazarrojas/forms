@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Rescue Adoption Matching Form
+    pages:
+    - id: 1
+      name: adopter_details
+      label: Adopter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: matching_criteria
+      label: Matching Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: adopter_email
+      label: Email
+      hint: A valid email address for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: adopter_phone
+      label: Phone
+      hint: A valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one_adopted_dog
+      label: Adopted Dog
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dog 1''}'
+      - '{''label'': ''Dog 2''}'
+      - '{''label'': ''Dog 3''}'
+      required: false
+    - id: 8
+      name: select_multiple_additional_dogs
+      label: Additional Dogs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Dog 1''}'
+      - '{''label'': ''Dog 2''}'
+      - '{''label'': ''Dog 3''}'
+      required: false

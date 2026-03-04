@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Food Systems Workshop Registration Form
+    pages:
+    - id: 1
+      name: registration_form_participant
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_selection
+      label: Which Workshop
+      hint: null
+      type: select_one
+      options:
+      - Workshop A
+      - Workshop B
+      - Workshop C
+      required: false
+    - id: 3
+      name: workshop_dates
+      label: Select Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Date 1
+      - Date 2
+      - Date 3
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

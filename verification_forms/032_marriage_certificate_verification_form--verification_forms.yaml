@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Certificate Verification Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: marriage_certificate_number
+      label: Marriage Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: verification_officer
+      label: Verification Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_verification_form
+      label: Submit Verification Form
+      hint: null
+      type: text
+      options: []
+      required: false

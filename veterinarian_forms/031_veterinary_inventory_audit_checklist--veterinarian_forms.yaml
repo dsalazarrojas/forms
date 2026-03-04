@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Inventory Audit Checklist
+    pages:
+    - id: 1
+      name: clinic_stock
+      label: Clinic Stock
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_checks
+      label: Equipment Checks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_observations
+      label: Safety Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stock_levels
+      label: Stock Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      - Needs Replace
+      required: false
+    - id: 6
+      name: equipment_serial_numbers
+      label: Equipment Serial Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: stock_location
+      label: Stock Location
+      hint: null
+      type: select_one
+      options:
+      - Storage room
+      - Office
+      - Lab
+      - Operating Room
+      required: false
+    - id: 9
+      name: last_check
+      label: Last Check
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_checked_by
+      label: Last Checked By
+      hint: null
+      type: select_one
+      options:
+      - Dr. John
+      - Dr. Jane
+      - Veterinary Assistant
+      required: false
+    - id: 11
+      name: next_check
+      label: Next Check
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: select_one
+      options:
+      - Dr. John
+      - Dr. Jane
+      - Veterinary Assistant
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: stock_status
+      label: Stock Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

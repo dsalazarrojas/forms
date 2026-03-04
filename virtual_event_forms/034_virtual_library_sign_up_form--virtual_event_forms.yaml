@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_library_sign_up_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reading_habits
+      label: Reading Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_preferences
+      label: Book Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: favorite_genre
+      label: Favorite Genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: favorite_author
+      label: Favorite Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: favorite_book
+      label: Favorite Book
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

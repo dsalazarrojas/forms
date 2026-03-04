@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Repair Work Order Form
+    pages:
+      - id: 1
+        name: section_work_order
+        label: -- Repair Work Order --
+        hint: Submit repair requests and track resolution
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Name of person requesting repair
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact email
+        hint: For updates about repair status
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: device_type
+        label: Device type
+        hint: Laptop, Desktop, or other
+        type: select_one
+        options: [Laptop, Desktop, Tablet, Mobile, Other]
+        required: true
+      - id: 5
+        name: problem_description
+        label: Problem description
+        hint: Detailed description of the issue
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: priority
+        label: Priority
+        hint: Request priority for scheduling
+        type: select_one
+        options: [Low, Normal, High, Urgent]
+        required: true
+      - id: 7
+        name: location
+        label: Location
+        hint: Where the device is located
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: work_performed
+        label: Work performed
+        hint: For technician to record actions taken
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: resolution_status
+        label: Resolution status
+        hint: Open, In progress, Completed
+        type: select_one
+        options: [Open, In progress, Completed]
+        required: false

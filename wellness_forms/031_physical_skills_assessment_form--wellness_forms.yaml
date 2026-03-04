@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Skills Assessment Form
+    pages:
+    - id: 1
+      name: physical_skills_assessment
+      label: Physical Skills Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physical_skills_assessment_participants
+      label: Physical Skills Assessment Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physical_skills_rating
+      label: Physical Skills Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 4}'
+      - '{''value'': 2, ''label'': 3}'
+      - '{''value'': 3, ''label'': 5}'
+      - '{''value'': 4, ''label'': 6}'
+      - '{''value'': 7, ''label'': 8}'
+      - '{''value'': 9, ''label'': 9}'
+      - '{''value'': 10, ''label'': 10}'
+      required: true
+    - id: 5
+      name: physical_skills_comments
+      label: Physical Skills Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coaching_name
+      label: Coaching Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false

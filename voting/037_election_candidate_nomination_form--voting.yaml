@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Election Candidate Nomination Form
+    pages:
+    - id: 1
+      name: form_data_1
+      label: election_candidate_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nomination_candidate_form
+      label: nomination_candidate_form
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''candidate1'', ''value'': ''candidate1''}'
+      - '{''name'': ''candidate2'', ''value'': ''candidate2''}'
+      - '{''name'': ''candidate3'', ''value'': ''candidate3''}'
+      required: false
+    - id: 3
+      name: nomination_reason_form
+      label: nomination_reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_person_1
+      label: contact_person_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info_1
+      label: contact_info_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info_2
+      label: contact_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: nomination_form_attachments
+      label: nomination_form_attachments
+      hint: null
+      type: text
+      options: []
+      required: false

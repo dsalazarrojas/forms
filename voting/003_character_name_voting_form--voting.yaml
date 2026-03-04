@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Character Name Voting Form
+    pages:
+      - id: 1
+        name: voter_name
+        label: Voter Name
+        hint: Your name or username
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: voter_email
+        label: Email Address
+        hint: For vote confirmation
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: character_gender
+        label: Character Gender
+        hint: Select the character gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Other
+          - Prefer not to say
+        required: true
+      - id: 4
+        name: preferred_name_male
+        label: Preferred name for male character
+        hint: Choose your favorite
+        type: select_one
+        options:
+          - Alexander
+          - Benjamin
+          - Christopher
+          - Daniel
+          - Ethan
+          - Gabriel
+          - Harrison
+        required: false
+      - id: 5
+        name: preferred_name_female
+        label: Preferred name for female character
+        hint: Choose your favorite
+        type: select_one
+        options:
+          - Amelia
+          - Charlotte
+          - Eleanor
+          - Isabella
+          - Olivia
+          - Sophia
+          - Victoria
+        required: false
+      - id: 6
+        name: preferred_name_nonbinary
+        label: Preferred name for non-binary character
+        hint: Choose your favorite
+        type: select_one
+        options:
+          - Alex
+          - Avery
+          - Jordan
+          - Morgan
+          - Quinn
+          - Riley
+          - Taylor
+        required: false
+      - id: 7
+        name: name_style_preference
+        label: What name style do you prefer
+        hint: Overall naming style
+        type: select_one
+        options:
+          - Classic and traditional
+          - Modern and unique
+          - Fantasy inspired
+          - Historical
+          - Nature based
+          - Cultural heritage
+        required: true
+      - id: 8
+        name: name_meaning_important
+        label: Is name meaning important to you
+        hint: Should the name have significance
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Neutral
+          - Not important
+        required: true
+      - id: 9
+        name: custom_suggestion
+        label: Do you have a custom name suggestion
+        hint: Share your idea
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: vote_reasoning
+        label: Why did you choose this name
+        hint: Explain your preference
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: character_personality
+        label: What personality should the name reflect
+        hint: Character traits
+        type: select_multiple
+        options:
+          - Strong and bold
+          - Gentle and kind
+          - Mysterious
+          - Intelligent
+          - Playful
+          - Noble
+          - Rebellious
+        required: false
+      - id: 12
+        name: age_group
+        label: Voter age group
+        hint: For demographic purposes
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 or older
+        required: false

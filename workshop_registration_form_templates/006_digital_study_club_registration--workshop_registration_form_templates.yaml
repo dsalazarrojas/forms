@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Study Club Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_type
+      label: Membership Type
+      hint: Select a membership type
+      type: select_multiple
+      options:
+      - Member
+      - Non-Member
+      - Guest
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: What are your interests?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: format_preferences
+      label: Format Preferences
+      hint: Select your format preferences
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 5
+      name: session_format
+      label: Session Format
+      hint: Select your session format
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      required: false
+    - id: 6
+      name: preferred_date_time
+      label: Preferred Date and Time
+      hint: Select your preferred date and time
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 7
+      name: session_preferences
+      label: Session Preferences
+      hint: Select your session preferences
+      type: select_multiple
+      options:
+      - Virtual
+      - In-person
+      - Both
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Art Class Registration Form
+    pages:
+    - id: 1
+      name: registration_name
+      label: registration-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_name
+      label: course-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: registration_fee
+      label: registration-fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank
+      - Transfer
+      - Card
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_count
+      label: student-count
+      hint: null
+      type: select_multiple
+      options:
+      - '2'
+      - '5'
+      - '10'
+      - '20'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenniffer
+      - bob
+      required: false

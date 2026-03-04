@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Volunteer Program Enrollment Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: shift_preference
+      label: Shift Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_agreement
+      label: Volunteer Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

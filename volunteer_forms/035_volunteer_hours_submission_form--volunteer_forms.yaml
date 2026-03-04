@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Hours Submission Form
+    pages:
+    - id: 1
+      name: volunteer_hours_submission_form
+      label: Volunteer hours submission form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_hours_earned
+      label: Volunteer hours earned
+      hint: Enter the total hours earned by the volunteer
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_hours_approved
+      label: Volunteer hours approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_hours
+      label: Project hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_hours_date
+      label: Volunteer hours date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter email
+      hint: null
+      type: email
+      options: []
+      required: false

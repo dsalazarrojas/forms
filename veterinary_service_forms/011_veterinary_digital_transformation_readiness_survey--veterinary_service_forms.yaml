@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Digital Transformation Readiness Survey
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: What's your role in the clinic?
+      hint: null
+      type: select_one
+      options:
+      - Clinic Administrator
+      - Veterinarian
+      - DVM
+      - DVM Assistant
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: digital_transformation
+      label: How would you rate your current level of digital maturity?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: leadership_support
+      label: Does your leadership team support digital transformation?
+      hint: null
+      type: select_one
+      options:
+      - Strongly support
+      - Somewhat support
+      - Neutral
+      - Somewhat do not support
+      - Strongly do not support
+      required: false
+    - id: 4
+      name: technology_infrastructure
+      label: What is the current state of your technology infrastructure?
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud-based systems
+      - Legacy systems
+      - Hybrid model
+      - No systems
+      required: false
+    - id: 5
+      name: digital_skills
+      label: Who in your clinic has the digital skills to support your digital transformation?
+      hint: null
+      type: select_multiple
+      options:
+      - Veterinarian
+      - DVM
+      - DVM Assistant
+      - IT Department
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: training_support
+      label: Are there training programs available to support digital transformation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: budget
+      label: How much does your clinic budget for digital transformation?
+      hint: null
+      type: select_one
+      options:
+      - $0-$1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - $10,000-$50,000
+      - $50,000+
+      required: false
+    - id: 8
+      name: implementation_strategy
+      label: Which strategy best describes your approach to digital transformation?
+      hint: null
+      type: select_one
+      options:
+      - Top-down approach
+      - Bottom-up approach
+      - No strategy
+      required: false

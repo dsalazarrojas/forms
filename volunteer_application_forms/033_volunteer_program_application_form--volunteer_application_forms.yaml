@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Program Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer Co-Ordinator
+      - Community Outreach
+      - Program Assistant
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: why_volunteer
+      label: Why Volunteer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability_details
+      label: Availability Details
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      - Holidays
+      required: false
+    - id: 13
+      name: application_comments
+      label: Application Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_reference
+      label: Volunteer Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_application_status
+      label: Volunteer Application Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Accepted
+      - Rejected
+      - Cancelled
+      required: false
+    - id: 16
+      name: volunteer_application_notes
+      label: Volunteer Application Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
