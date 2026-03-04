@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poetry Contest Registration Form
+    pages:
+    - id: 1
+      name: school_or_organization
+      label: school_or_organization
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Organization
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: participant_first_name
+      hint: Enter first name of participant
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_last_name
+      label: participant_last_name
+      hint: Enter last name of participant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: participant_email
+      hint: Email address of participant
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: participant_phone
+      hint: Phone number of participant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: poetry_type
+      label: poetry_type
+      hint: Select type of poetry
+      type: select_multiple
+      options:
+      - Free Verse
+      - Narrative
+      - Sonnet
+      required: false
+    - id: 7
+      name: entry_form
+      label: entry_form
+      hint: null
+      type: select_one
+      options:
+      - Entry Form 1
+      - Entry Form 2
+      - Entry Form 3
+      required: false
+    - id: 8
+      name: entry_title
+      label: entry_title
+      hint: Enter title of poem
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entry_poem
+      label: entry_poem
+      hint: Enter poem
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_address
+      label: participant_address
+      hint: Address of participant
+      type: text
+      options: []
+      required: false

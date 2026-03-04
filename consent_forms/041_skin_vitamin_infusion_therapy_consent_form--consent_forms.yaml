@@ -1,0 +1,57 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: skin-vitamin-infusion-therapy-consent-form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_consent
+      label: Treatment Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the information about the treatment
+      - I have not read and do not understand the information about the treatment
+      required: true
+    - id: 4
+      name: skin_vitamin_treatments
+      label: Skin Vitamin Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Aminobutyric Acid (Aminobutyric Acid 0.05%)
+      - Biotin (Biotin 0.1mg/0.1ml)
+      - Glycoprotein (Glycoprotein 0.05%)
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Please provide any additional information that may be helpful for our
+        treatment.
+      type: text
+      options: []
+      required: false

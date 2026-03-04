@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Reopening Survey
+    pages:
+    - id: 1
+      name: office_reopening_survey_1
+      label: Is the office ready to reopen?
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Not Yet
+      - Still Considering
+      required: false
+    - id: 2
+      name: reopening_date_planned
+      label: What date do you plan to reopen?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: office_capacity
+      label: How many employees can fit in the office?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: safety_measures
+      label: Are you going to implement safety measures like hand sanitizer and masks?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: false
+    - id: 5
+      name: employee_testing
+      label: What testing would be necessary for employees?
+      hint: null
+      type: select_multiple
+      options:
+      - Temperature Check
+      - PCR Test
+      - Rapid Antigen Test
+      required: false
+    - id: 6
+      name: employee_vaccination
+      label: Are employees required to be vaccinated?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: remote_work_options
+      label: Will remote work be available after reopening?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Only for certain roles
+      required: false
+    - id: 8
+      name: office_capacity_percent
+      label: How many employees can fit in the office with social distancing?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reopening_costs
+      label: What is the estimated cost of reopening?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: employee_concerns
+      label: Are there any employee concerns or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reopening_timeline
+      label: What is the planned reopening date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reopening_status
+      label: Is the office currently open?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: reopening_comments
+      label: Any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email_address
+      label: Email address to contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: Phone number to contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reopening_notes
+      label: Reopening notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: employee_feedback
+      label: Employee feedback?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: reopening_frequency
+      label: How often do you want to reopen the office?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 20
+      name: reopening_capacity_1
+      label: Reopening capacity 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: reopening_capacity_2
+      label: Reopening capacity 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: reopening_capacity_3
+      label: Reopening capacity 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: reopening_capacity_4
+      label: Reopening capacity 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: reopening_capacity_5
+      label: Reopening capacity 5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: reopening_capacity_6
+      label: Reopening capacity 6
+      hint: null
+      type: number
+      options: []
+      required: false

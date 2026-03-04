@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_content_request_form
+    pages:
+    - id: 1
+      name: seo_content_form_details
+      label: SEO Content Request Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - Brand
+      - Blog
+      - Article
+      - Press Release
+      - Video
+      - Audio
+      - Infographic
+      - Email Newsletter
+      - Presentation
+      - Social Media Post
+      - Podcast
+      - Live Event
+      - Case Study
+      - Webinar
+      - Whitepaper
+      - Report
+      - Slide Deck
+      required: true
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - B2B
+      - B2C
+      - C2C
+      required: true
+    - id: 5
+      name: keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: content_length
+      label: Content Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: word_count
+      label: Word Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: format
+      label: Format
+      hint: null
+      type: select_one
+      options:
+      - Article
+      - Blog
+      - Social Media Post
+      - Email Newsletter
+      - Presentation
+      - Slide Deck
+      - Video
+      - Audio
+      - Infographic
+      - Press Release
+      - Webinar
+      - Podcast
+      - Whitepaper
+      - Report
+      required: true
+    - id: 11
+      name: content_request_type
+      label: Content Request Type
+      hint: null
+      type: select_one
+      options:
+      - Article
+      - Blog
+      - Social Media Post
+      - Email Newsletter
+      - Presentation
+      - Slide Deck
+      - Video
+      - Audio
+      - Infographic
+      - Press Release
+      - Webinar
+      - Podcast
+      - Whitepaper
+      - Report
+      required: true
+    - id: 12
+      name: content_request
+      label: Content Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_attachment
+      label: File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: file_attachment_type
+      label: File Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Video
+      - Document
+      - Audio
+      - PDF
+      required: false
+    - id: 18
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false

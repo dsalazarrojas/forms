@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: LLC Consent Letter Form
+    pages:
+    - id: 1
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: Enter member name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_address
+      label: Member Address
+      hint: Enter member address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: member_title
+      label: Member Title
+      hint: Enter member title
+      type: select_one
+      options:
+      - Member
+      - Officer
+      - Partner
+      required: false
+    - id: 6
+      name: action_description
+      label: Action Description
+      hint: Brief description of the company action
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consent_given
+      label: Consent Given
+      hint: Check to confirm consent
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: company_action
+      label: Company Action
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Additional comments about the member consent
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

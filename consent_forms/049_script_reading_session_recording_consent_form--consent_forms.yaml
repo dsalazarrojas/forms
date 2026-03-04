@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Reading Session Recording Consent Form
+    pages:
+    - id: 1
+      name: script_reading_session_recording_consent_form_1
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: Participant's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone Number
+      hint: Participant's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: script_reading_session_recording_consent_form_2
+      label: Script Reading Session Recording Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_consent
+      label: Participant Consent
+      hint: Participant gives consent to record their script reading session
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 7
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

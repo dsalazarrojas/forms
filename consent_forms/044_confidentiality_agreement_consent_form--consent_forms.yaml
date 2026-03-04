@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidentiality Agreement Consent Form
+    pages:
+    - id: 1
+      name: party_name
+      label: Full Legal Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_type
+      label: Agreement Type
+      hint: What type of NDA
+      type: select_one
+      options:
+      - Mutual NDA
+      - One-Way NDA
+      - Employee NDA
+      - Contractor NDA
+      - Vendor NDA
+      - Other
+      required: true
+    - id: 11
+      name: disclosing_party
+      label: Disclosing Party
+      hint: Who is sharing info
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: receiving_party
+      label: Receiving Party
+      hint: Who is receiving info
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: purpose
+      label: Purpose of Agreement
+      hint: Why sharing information
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: effective_date
+      label: Effective Date
+      hint: When agreement starts
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: duration
+      label: Agreement Duration
+      hint: How long it lasts
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - Indefinite
+      - Other
+      required: true
+    - id: 16
+      name: duration_details
+      label: Duration Details
+      hint: If other specify
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confidential_info_definition
+      label: Definition of Confidential Information
+      hint: What is considered confidential
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: exclusions
+      label: Exclusions from Confidentiality
+      hint: What is not confidential
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: obligations
+      label: Your Obligations
+      hint: What you must do
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: permitted_disclosures
+      label: Permitted Disclosures
+      hint: Who you can share with
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: return_of_materials
+      label: Return of Materials
+      hint: When and how
+      type: select_one
+      options:
+      - Upon Request
+      - Upon Agreement End
+      - Both
+      - Not Required
+      required: true
+    - id: 22
+      name: remedies
+      label: Remedies for Breach
+      hint: Consequences
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: governing_law
+      label: Governing Law
+      hint: Which jurisdiction
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Delaware
+      - Other
+      required: true
+    - id: 24
+      name: governing_state
+      label: Governing State
+      hint: If other specify
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: legal_review
+      label: Have You Had Legal Review
+      hint: Did a lawyer review
+      type: select_one
+      options:
+      - Yes Reviewed by Counsel
+      - No Not Reviewed
+      - Planning to Review
+      required: true
+    - id: 26
+      name: attorney_name
+      label: Attorney Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: voluntary_agreement
+      label: Voluntary Agreement
+      hint: Are you signing voluntarily
+      type: select_one
+      options:
+      - Yes Voluntary
+      - No Under Duress
+      required: true
+    - id: 28
+      name: understanding_statement
+      label: Understanding Statement
+      hint: Do you understand terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No Need Clarification
+      required: true
+    - id: 29
+      name: consent_statement
+      label: Consent Statement
+      hint: Do you consent
+      type: select_one
+      options:
+      - I Consent and Agree
+      - I Do Not Consent
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: witness_signature
+      label: Witness Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false

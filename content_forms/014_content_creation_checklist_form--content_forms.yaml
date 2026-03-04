@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Checklist Form
+    pages:
+      - id: 1
+        name: project_name
+        label: Project Name
+        hint: Name of the content project
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_manager
+        label: Project Manager
+        hint: Name of person managing this project
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: content_creator
+        label: Content Creator
+        hint: Name of primary content creator
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_start_date
+        label: Project Start Date
+        hint: When did this project begin?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: project_deadline
+        label: Project Deadline
+        hint: Final due date for content
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: content_type
+        label: Content Type
+        hint: What type of content is being created?
+        type: select_one
+        options:
+          - Blog Post
+          - Social Media Post
+          - Video
+          - Podcast
+          - Infographic
+          - E-book
+          - White Paper
+          - Email Campaign
+        required: true
+      - id: 7
+        name: pre_production_brief_completed
+        label: Pre-Production Brief Completed
+        hint: Has the creative brief been finalized?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 8
+        name: target_audience_defined
+        label: Target Audience Defined
+        hint: Is the target audience clearly identified?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: keywords_researched
+        label: Keywords Researched
+        hint: Have SEO keywords been researched?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 10
+        name: outline_approved
+        label: Outline Approved
+        hint: Has the content outline been approved?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 11
+        name: first_draft_completed
+        label: First Draft Completed
+        hint: Is the first draft finished?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: internal_review_completed
+        label: Internal Review Completed
+        hint: Has the internal team reviewed the content?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: client_review_completed
+        label: Client Review Completed
+        hint: Has the client reviewed the content?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 14
+        name: revisions_completed
+        label: Revisions Completed
+        hint: Have all requested revisions been made?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 15
+        name: seo_optimization_completed
+        label: SEO Optimization Completed
+        hint: Has the content been optimized for search?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 16
+        name: graphics_created
+        label: Graphics Created
+        hint: Are all required graphics/visuals ready?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 17
+        name: proofreading_completed
+        label: Proofreading Completed
+        hint: Has the content been proofread?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 18
+        name: final_approval_received
+        label: Final Approval Received
+        hint: Has final approval been granted?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 19
+        name: content_published
+        label: Content Published
+        hint: Has the content been published?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Scheduled
+        required: true
+      - id: 20
+        name: publication_date
+        label: Publication Date
+        hint: When was or will the content be published?
+        type: date
+        options: []
+        required: false
+      - id: 21
+        name: distribution_channels
+        label: Distribution Channels
+        hint: Where will the content be distributed?
+        type: select_multiple
+        options:
+          - Company Website
+          - Blog
+          - Facebook
+          - Instagram
+          - LinkedIn
+          - Twitter
+          - Email Newsletter
+          - YouTube
+        required: true
+      - id: 22
+        name: performance_tracking_enabled
+        label: Performance Tracking Enabled
+        hint: Is analytics tracking set up?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 23
+        name: project_notes
+        label: Project Notes
+        hint: Any additional notes about this project
+        type: text
+        options: []
+        required: false

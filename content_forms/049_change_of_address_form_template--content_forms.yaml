@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Address Form Template
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of address change request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_id
+      label: Customer ID Number
+      hint: Account or customer number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: old_street_address
+      label: Old Street Address
+      hint: Previous street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: old_city
+      label: Old City
+      hint: Previous city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: old_state
+      label: Old State
+      hint: Previous state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: old_zip_code
+      label: Old ZIP Code
+      hint: Previous postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: old_country
+      label: Old Country
+      hint: Previous country
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: new_street_address
+      label: New Street Address
+      hint: New street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_city
+      label: New City
+      hint: New city
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_state
+      label: New State
+      hint: New state
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_zip_code
+      label: New ZIP Code
+      hint: New postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: new_country
+      label: New Country
+      hint: New country
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: move_date
+      label: Move Date
+      hint: When are you moving
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: address_type
+      label: Address Type
+      hint: Type of new address
+      type: select_one
+      options:
+      - Residential
+      - Business
+      - PO Box
+      - Military
+      - Other
+      required: true
+    - id: 18
+      name: forwarding_request
+      label: Mail Forwarding Request
+      hint: Do you want mail forwarded
+      type: select_one
+      options:
+      - Yes - Forward all mail
+      - Yes - Forward for 6 months
+      - Yes - Forward for 1 year
+      - No - Do not forward
+      required: true
+    - id: 19
+      name: effective_date
+      label: Effective Date
+      hint: When should address change take effect
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: notification_preference
+      label: Notification Preference
+      hint: How should we notify you
+      type: select_one
+      options:
+      - Email
+      - Postal mail
+      - Phone call
+      - No notification needed
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_signature
+      label: Customer Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

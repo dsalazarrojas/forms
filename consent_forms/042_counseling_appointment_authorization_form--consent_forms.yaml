@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: counseling_appointment_authorization_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      required: true
+    - id: 9
+      name: authorized_name
+      label: Authorized Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: authorized_date
+      label: Authorized Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false

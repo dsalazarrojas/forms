@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_prediction_competition_entry_form
+    pages:
+    - id: 1
+      name: competition_report_score
+      label: entry_form_competition_report_score
+      hint: Enter your predicted score
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: entry_form_event
+      label: entry_form_event
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''event_1'', ''label'': ''Event 1''}'
+      - '{''id'': 2, ''value'': ''event_2'', ''label'': ''Event 2''}'
+      - '{''id'': 3, ''value'': ''event_3'', ''label'': ''Event 3''}'
+      required: true
+    - id: 3
+      name: entry_form_payout
+      label: entry_form_payout
+      hint: Payout for winning entry
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: entry_form_user_prediction
+      label: entry_form_user_prediction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: entry_form_user_comment
+      label: entry_form_user_comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: entry_form_date_submitted
+      label: entry_form_date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: entry_form_user_name
+      label: entry_form_user_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: entry_form_email
+      label: entry_form_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: entry_form_phone
+      label: entry_form_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: entry_form_additional_info
+      label: entry_form_additional_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Additional Info 1'', ''label'': ''Additional Info
+        1''}'
+      - '{''id'': 2, ''value'': ''Additional Info 2'', ''label'': ''Additional Info
+        2''}'
+      - '{''id'': 3, ''value'': ''Additional Info 3'', ''label'': ''Additional Info
+        3''}'
+      required: false
+    - id: 11
+      name: entry_form_submit
+      label: entry_form_submit
+      hint: null
+      type: text
+      options: []
+      required: true

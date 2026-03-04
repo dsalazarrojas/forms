@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Verbal Parental Consent For HUMAN TRAFFICKING SAFETY & AWARENESS
+    pages:
+    - id: 1
+      name: verbal_parental_consent_form
+      label: Verbal Parental Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: human_trafficking_safety_and_awareness
+      label: Human Trafficking Safety & Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: i_am_the_parent_or_guardian
+      label: I am the parent or guardian
+      hint: null
+      type: select_one
+      options:
+      - I am the parent or guardian
+      - I am the step-parent
+      - I am the legal guardian
+      required: false
+    - id: 4
+      name: have_signed_a_consent_form_before
+      label: Have you signed a consent form before?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: have_signed_a_consent_form_before_other_organization
+      label: Have you signed a consent form before for any other organizations?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: have_discussed_human_trafficking_safety_and_awareness
+      label: Have you discussed Human Trafficking Safety & Awareness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: will_sign_consent_form
+      label: Will you sign the consent form
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: reason_for_not_signing_consent_form
+      label: Reason for not signing the consent form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: have_signed_consent_form_for_any_other_organization
+      label: Have you signed consent form for any other organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: will_sign_consent_form_for_any_other_organization
+      label: Will you sign consent form for any other organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

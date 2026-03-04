@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Reengineering Consultation Request Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objectives
+      label: Objectives
+      hint: What are your current objectives?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_meeting_times
+      label: Preferred Meeting Times
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Any time
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_meeting_time_range
+      label: Preferred Meeting Time Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: preferred_meeting_day
+      label: Preferred Meeting Day
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: preferred_meeting_duration
+      label: Preferred Meeting Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      - Other
+      required: false
+    - id: 11
+      name: preferred_meeting_time
+      label: Preferred Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: preferred_meeting_format
+      label: Preferred Meeting Format
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Video conference
+      - Phone
+      - Email
+      - Other
+      required: false

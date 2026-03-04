@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Art Aftercare Instructions
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: procedure_date
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: procedure_type
+      label: Type of Body Art Procedure
+      hint: null
+      type: select_one
+      options:
+      - Tattoo
+      - Body Piercing
+      - Microblading
+      - Body Modification
+      - Scarification
+      - Henna
+      - Other
+      required: true
+    - id: 6
+      name: procedure_location
+      label: Location on Body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artist_name
+      label: Artist or Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: general_care_received
+      label: I understand the general aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - Mostly understood
+      - Somewhat understood
+      - Did not understand
+      required: true
+    - id: 9
+      name: instructions_provided_format
+      label: Format of Instructions Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Written Paper
+      - Digital Copy
+      - Verbal Explanation
+      - Video Tutorial
+      - All of the Above
+      required: false
+    - id: 10
+      name: keep_clean
+      label: I will keep the area clean and dry
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 11
+      name: avoid_water
+      label: I understand to limit water exposure
+      hint: Showers, swimming, etc
+      type: select_one
+      options:
+      - true
+      - false
+      - Need Clarification
+      required: true
+    - id: 12
+      name: fragrance_products
+      label: I will avoid fragrances and scented products
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need Clarification
+      required: true
+    - id: 13
+      name: sunlight_exposure
+      label: I will avoid direct sunlight
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need Clarification
+      required: true
+    - id: 14
+      name: lotion_use
+      label: I understand what lotion to use
+      hint: null
+      type: select_one
+      options:
+      - Yes, clear instructions
+      - Mostly clear
+      - Somewhat unclear
+      - Unclear
+      required: true
+    - id: 15
+      name: frequency_lotion_application
+      label: I understand how often to apply lotion
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need Clarification
+      required: true
+    - id: 16
+      name: avoid_picking_scratching
+      label: I understand not to pick or scratch
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Need Clarification
+      required: true
+    - id: 17
+      name: healing_timeline
+      label: I understand the healing timeline
+      hint: How long it will take to heal
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 18
+      name: expected_appearance
+      label: I understand what to expect as it heals
+      hint: Scabbing, color changes, etc
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 19
+      name: infection_signs
+      label: I know the signs of infection
+      hint: Excessive redness, swelling, discharge
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 20
+      name: when_to_contact
+      label: I know when to contact the artist or doctor
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 21
+      name: contact_information
+      label: I have the studio contact information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Received but Unclear
+      required: true
+    - id: 22
+      name: allergies_sensitivities
+      label: Do you have any allergies or sensitivities
+      hint: Important for aftercare products
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: questions_or_concerns
+      label: Questions or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: acknowledgment
+      label: I acknowledge receiving aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Authorization Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Position or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Type of Organization
+      hint: null
+      type: select_one
+      options:
+      - Government agency
+      - Healthcare facility
+      - Business
+      - Educational institution
+      - Non-profit
+      - Other
+      required: true
+    - id: 8
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organization_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorization_section
+      label: -- Vaccination Authorization Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: authorization_purpose
+      label: Purpose of Authorization Request
+      hint: null
+      type: select_one
+      options:
+      - Employee vaccination program
+      - Customer access requirements
+      - Supplier vaccination verification
+      - Facility access control
+      - Other
+      required: true
+    - id: 14
+      name: number_of_individuals
+      label: Estimated Number of Individuals to be Vaccinated
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: target_groups
+      label: Target Groups for Vaccination
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Employees
+      - Customers
+      - Contractors
+      - Visitors
+      - General population
+      required: true
+    - id: 16
+      name: vaccination_timeline
+      label: Proposed Vaccination Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      required: true
+    - id: 17
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - Multiple types
+      - No preference
+      required: true
+    - id: 18
+      name: authorization_section2
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: implementation_plan
+      label: Vaccination Implementation Plan
+      hint: How will you manage the program
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: site_location
+      label: Vaccination Site Location
+      hint: On-site, off-site, third-party provider
+      type: select_one
+      options:
+      - On-site facility
+      - Off-site clinic
+      - Third-party provider
+      - Multiple locations
+      - Not yet determined
+      required: true
+    - id: 21
+      name: records_management
+      label: Plan for Record Keeping and Verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: funding_source
+      label: Funding Source for Vaccination Program
+      hint: null
+      type: select_one
+      options:
+      - Organization funds
+      - Government funds
+      - Insurance coverage
+      - Grant funding
+      - Combination
+      required: true
+    - id: 23
+      name: challenges_section
+      label: -- Potential Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: anticipated_barriers
+      label: Anticipated Barriers or Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: mitigation_strategy
+      label: Strategy to Address Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: support_needed
+      label: Support or Resources Needed from Government
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: certification
+      label: I certify this authorization request is accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

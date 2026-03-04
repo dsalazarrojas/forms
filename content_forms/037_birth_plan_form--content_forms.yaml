@@ -1,0 +1,328 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Birth Plan Form
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Birth Plan Form --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: intro_message
+        label: Document your birth preferences and wishes
+        hint: Share this plan with your healthcare team
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: section_parent_info
+        label: -- Parent and Provider Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: mother_name
+        label: Mother's Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: due_date
+        label: Due Date
+        hint: Expected birth date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: partner_name
+        label: Birth Partner's Name
+        hint: Support person
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: obstetrician
+        label: Primary Obstetrician or Midwife
+        hint: Main healthcare provider
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: hospital_birth_center
+        label: Hospital or Birth Center Name
+        hint: Where you plan to give birth
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: section_labor_and_delivery
+        label: -- Labor and Delivery Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: labor_activities
+        label: Activities and Movement During Labor
+        hint: What you want to do
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: ambulation_preference
+        label: Preference for Continuous Monitoring
+        hint: Mobile vs continuous monitoring
+        type: select_one
+        options:
+          - Prefer To Be Mobile
+          - Intermittent Monitoring
+          - Continuous Monitoring Okay
+          - No Preference
+        required: true
+      - id: 12
+        name: pain_relief_preferences
+        label: Pain Relief Preferences
+        hint: Your comfort level with options
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: labor_support
+        label: Labor Support People
+        hint: Who should be present
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: position_preferences
+        label: Preferred Positions for Labor and Delivery
+        hint: Upright, squatting, side-lying, etc.
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: environment
+        label: Environmental Preferences
+        hint: Lighting, music, temperature, ambiance
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_delivery_procedures
+        label: -- Delivery Procedures --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: tearing_prevention
+        label: Preferences for Tearing Prevention
+        hint: Perineal support, massage, etc.
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: episiotomy
+        label: Episiotomy Preference
+        hint: Only if necessary, avoid, etc.
+        type: select_one
+        options:
+          - Prefer to Avoid
+          - Only If Medically Necessary
+          - Allow if Needed
+          - No Preference
+        required: true
+      - id: 19
+        name: cord_management
+        label: Cord Management and Clamping
+        hint: When and how cord is handled
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: placenta_delivery
+        label: Placenta Delivery Preferences
+        hint: Natural delivery, active management, etc.
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: section_newborn_care
+        label: -- Newborn Care Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: skin_to_skin
+        label: Immediate Skin-to-Skin Contact
+        hint: Bonding with newborn
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Nice to Have
+          - Not Important
+        required: true
+      - id: 23
+        name: delayed_cord_clamping
+        label: Delayed Cord Clamping
+        hint: How long before clamping
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: newborn_screening
+        label: Newborn Screening and Testing
+        hint: Required tests and procedures
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: vitamins_medicines
+        label: Newborn Vitamins and Medicines
+        hint: Vitamin K, eye ointment, vaccinations
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: feeding_plan
+        label: Feeding Plan
+        hint: Breastfeeding, bottle, combination
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: circumcision
+        label: Circumcision Preference
+        hint: If applicable for male infants
+        type: select_one
+        options:
+          - Yes, Desire Circumcision
+          - No, Prefer Not to Circumcise
+          - Undecided
+          - Not Applicable
+        required: false
+      - id: 28
+        name: rooming_in
+        label: Rooming-In Preference
+        hint: Baby staying with you vs nursery
+        type: select_one
+        options:
+          - Rooming-In Preferred
+          - Nursery Preferred
+          - Flexible
+        required: true
+      - id: 29
+        name: visitors
+        label: Visitor Policy Preferences
+        hint: When family and friends can visit
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: section_complications
+        label: -- If Complications Arise --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: induction_preference
+        label: If Induction Becomes Necessary
+        hint: Your preferences and concerns
+        type: text
+        options: []
+        required: true
+      - id: 32
+        name: cesarean_preference
+        label: If Cesarean Becomes Necessary
+        hint: Your preferences and requests
+        type: text
+        options: []
+        required: true
+      - id: 33
+        name: medical_interventions
+        label: Preferences for Medical Interventions
+        hint: If complications arise
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: section_postpartum
+        label: -- Postpartum Care --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: early_discharge
+        label: Interest in Early Discharge
+        hint: If medically appropriate
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Prefer Standard Stay
+          - No Preference
+        required: false
+      - id: 36
+        name: postpartum_support
+        label: Postpartum Support Needs
+        hint: Breastfeeding help, newborn care, etc.
+        type: text
+        options: []
+        required: true
+      - id: 37
+        name: postpartum_recovery
+        label: Postpartum Recovery Priorities
+        hint: Rest, bonding, feeding support
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: section_special_wishes
+        label: -- Special Wishes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 39
+        name: special_requests
+        label: Special Requests or Considerations
+        hint: Anything else important to you
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: communication_preferences
+        label: Communication Preferences
+        hint: How you want to be kept informed
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: acknowledgment
+        label: I acknowledge that this birth plan is a preference guide
+        hint: Check to confirm understanding
+        type: select_one
+        options:
+          - I Acknowledge
+          - I Do Not Acknowledge
+        required: true

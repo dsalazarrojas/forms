@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ADHD Consultation Form
+    pages:
+    - id: 1
+      name: client_basic_info
+      label: --- Client Basic Information ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_occupation
+      label: Occupation/Grade in School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultation_reason
+      label: Reason for Seeking Consultation
+      hint: Why are you seeking an ADHD evaluation at this time?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_symptoms_header
+      label: --- Primary Symptom Assessment ---
+      hint: Please indicate the frequency of the following behaviors.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: symptom_inattention
+      label: Difficulty sustaining attention in tasks or play activities
+      hint: null
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Rarely
+        value: rarely
+      - label: Sometimes
+        value: sometimes
+      - label: Often
+        value: often
+      - label: Very Often
+        value: very_often
+      required: true
+    - id: 8
+      name: symptom_disorganization
+      label: Difficulty organizing tasks and activities
+      hint: null
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Rarely
+        value: rarely
+      - label: Sometimes
+        value: sometimes
+      - label: Often
+        value: often
+      - label: Very Often
+        value: very_often
+      required: true
+    - id: 9
+      name: symptom_hyperactivity
+      label: Fidgets with or taps hands or feet or squirms in seat
+      hint: null
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Rarely
+        value: rarely
+      - label: Sometimes
+        value: sometimes
+      - label: Often
+        value: often
+      - label: Very Often
+        value: very_often
+      required: true
+    - id: 10
+      name: impact_areas_header
+      label: --- Impact on Daily Life ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: impact_academic_work
+      label: How much do these symptoms interfere with your school or work performance?
+      hint: null
+      type: select_one
+      options:
+      - label: Not at all
+        value: none
+      - label: Mildly
+        value: mild
+      - label: Moderately
+        value: moderate
+      - label: Severely
+        value: severe
+      required: true
+    - id: 12
+      name: impact_social_relationships
+      label: How much do these symptoms interfere with your social life or relationships?
+      hint: null
+      type: select_one
+      options:
+      - label: Not at all
+        value: none
+      - label: Mildly
+        value: mild
+      - label: Moderately
+        value: moderate
+      - label: Severely
+        value: severe
+      required: true
+    - id: 13
+      name: clinical_history_header
+      label: --- Clinical and Developmental History ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: previous_adhd_diagnosis
+      label: Have you ever been diagnosed with ADHD before?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes
+        value: yes
+      - label: No
+        value: no
+      required: true
+    - id: 15
+      name: previous_diagnosis_details
+      label: If yes, please provide details (when, by whom).
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: List any medications currently being taken for ADHD or other conditions.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: co_occurring_conditions
+      label: Other Diagnosed Conditions
+      hint: e.g., Anxiety, Depression, Learning Disability, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: family_history_adhd
+      label: Is there a family history of ADHD or other neurodevelopmental disorders?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes
+        value: yes
+      - label: No
+        value: no
+      - label: Unsure
+        value: unsure
+      required: false
+    - id: 19
+      name: consultation_goals
+      label: What are your primary goals for this consultation?
+      hint: e.g., diagnosis, medication management, behavioral strategies.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - label: Phone
+        value: phone
+      - label: Email
+        value: email
+      required: true
+    - id: 21
+      name: therapist_assignment
+      label: Assigned Clinician (Internal Use Only)
+      hint: null
+      type: text
+      options: []
+      required: false

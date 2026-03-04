@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertisement Text Generator
+    pages:
+    - id: 1
+      name: product_service_details_section
+      label: -- Product Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product or Service Name
+      hint: Name of the product or service being advertised
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: Brief description of the product or service
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: key_features
+      label: Key Features
+      hint: What are the key features of the product or service
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: unique_selling_proposition
+      label: Unique Selling Proposition
+      hint: What makes this product or service unique
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_audience_section
+      label: -- Target Audience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: target_demographics
+      label: Target Demographics
+      hint: Who is the target audience for this product or service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: audience_pain_points
+      label: Audience Pain Points
+      hint: What problems does the target audience face that this product solves
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: audience_desired_outcome
+      label: Audience Desired Outcome
+      hint: What does the target audience want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ad_placement_section
+      label: -- Ad Placement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ad_platform
+      label: Ad Platform
+      hint: Where will the advertisement be displayed
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Google Ads
+      - Twitter
+      - LinkedIn
+      - YouTube
+      - Print
+      - Radio
+      - Other
+      required: true
+    - id: 12
+      name: ad_format
+      label: Ad Format
+      hint: What format will the advertisement take
+      type: select_one
+      options:
+      - Headline
+      - Body Copy
+      - Tagline
+      - Complete Ad
+      - Social Media Post
+      - Email Subject Line
+      - Other
+      required: true
+    - id: 13
+      name: ad_character_limit
+      label: Ad Character Limit
+      hint: Is there a character limit for the advertisement
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: messaging_preferences_section
+      label: -- Messaging Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: brand_voice
+      label: Brand Voice
+      hint: What is the desired brand voice for the advertisement
+      type: select_one
+      options:
+      - Professional
+      - Friendly
+      - Playful
+      - Authoritative
+      - Inspirational
+      - Casual
+      - Other
+      required: true
+    - id: 16
+      name: call_to_action_preference
+      label: Call to Action Preference
+      hint: What call to action should be included
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: competitor_differentiation
+      label: Competitor Differentiation
+      hint: How does this product differ from competitors
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: proof_elements_section
+      label: -- Proof Elements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: social_proof_elements
+      label: Social Proof Elements
+      hint: What social proof can be included in the ad
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: urgency_scarcity_elements
+      label: Urgency Scarcity Elements
+      hint: What elements of urgency or scarcity should be included
+      type: text
+      options: []
+      required: false

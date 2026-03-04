@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Call Submission Form
+    pages:
+    - id: 1
+      name: artist_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media_handles
+      label: Social Media Handles
+      hint: Instagram, Facebook, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: art_medium
+      label: Primary Art Medium
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Drawing
+      - Photography
+      - Digital Art
+      - Mixed Media
+      - Performance
+      - Other
+      required: true
+    - id: 8
+      name: years_practicing
+      label: Years of Professional Practice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: education_background
+      label: Formal Education or Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artwork_title
+      label: Primary Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artwork_description
+      label: Artwork Description
+      hint: Concept, process, inspiration
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_dimensions
+      label: Artwork Dimensions or Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artwork_image
+      label: Artwork Image Upload
+      hint: Submit high-quality image
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: previous_exhibitions
+      label: Previous Exhibition or Show History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: awards_recognition
+      label: Awards or Recognition Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: artist_statement
+      label: Artist Statement
+      hint: 100-300 words
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_fee
+      label: Submission or Entry Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rights_granted
+      label: Rights to Use Images for Promotion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Lead Generation Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_arrival
+      label: Date Of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''January 1, 2022''}'
+      - '{2: ''February 1, 2022''}'
+      - '{3: ''March 1, 2022''}'
+      required: true
+    - id: 8
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Business''}'
+      - '{2: ''Leisure''}'
+      required: true
+    - id: 9
+      name: membership_details
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: membership_id
+      label: Membership Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: membership_terms
+      label: Membership Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Active''}'
+      - '{2: ''Inactive''}'
+      required: true
+    - id: 14
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_agency_address
+      label: Travel Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false

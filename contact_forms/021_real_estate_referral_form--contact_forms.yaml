@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_referral_form
+    pages:
+    - id: 1
+      name: real_estate_agent
+      label: real_estate_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_property
+      label: real_estate_property
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_reason
+      label: why_referring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: agent_referrals
+      label: referrals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: real_estate_property_type
+      label: real_estate_property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: real_estate_address
+      label: real_estate_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

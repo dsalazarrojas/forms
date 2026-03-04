@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: responsive-wordpress-sidebar-contact-form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: user_select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 7
+      name: user_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: field_8
+      label: Field 8
+      hint: null
+      type: text
+      options: []
+      required: false

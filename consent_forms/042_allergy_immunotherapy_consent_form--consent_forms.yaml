@@ -1,0 +1,293 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Allergy Immunotherapy Consent Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Patient first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Patient last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: physician_name
+      label: Treating Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: procedure_description
+      label: Procedure Description Acknowledgment
+      hint: Do you understand the procedure?
+      type: select_one
+      options:
+      - Yes, I understand allergy immunotherapy
+      - No, I need more explanation
+      required: true
+    - id: 8
+      name: treatment_understanding
+      label: Treatment Understanding
+      hint: What is immunotherapy?
+      type: select_one
+      options:
+      - I understand it involves gradual exposure to allergens
+      - I understand it helps build tolerance
+      - I understand it requires regular visits
+      - I need more information
+      required: true
+    - id: 9
+      name: treatment_duration
+      label: Treatment Duration Understanding
+      hint: Do you understand the timeline?
+      type: select_one
+      options:
+      - Yes, I understand it takes 3-5 years
+      - Yes, but I need more details
+      - No, I was not aware
+      required: true
+    - id: 10
+      name: benefits_understood
+      label: Benefits Understood
+      hint: Do you understand potential benefits?
+      type: select_multiple
+      options:
+      - Reduced allergy symptoms
+      - Decreased medication need
+      - Long-term relief
+      - Prevention of new allergies
+      - Improved quality of life
+      - May prevent asthma development
+      required: true
+    - id: 11
+      name: risks_understood
+      label: Risks Understood
+      hint: Do you understand potential risks?
+      type: select_multiple
+      options:
+      - Local reactions at injection site
+      - Systemic allergic reactions
+      - Anaphylaxis (rare)
+      - Worsening of asthma
+      - Fatigue after injections
+      - Headache
+      required: true
+    - id: 12
+      name: local_reactions
+      label: Local Reactions Acknowledgment
+      hint: Do you understand local reactions?
+      type: select_one
+      options:
+      - Yes, I understand redness and swelling may occur
+      - No, I need more information
+      required: true
+    - id: 13
+      name: systemic_reactions
+      label: Systemic Reactions Acknowledgment
+      hint: Do you understand systemic reactions?
+      type: select_one
+      options:
+      - Yes, I understand rare systemic reactions may occur
+      - No, I need more information
+      required: true
+    - id: 14
+      name: observation_period
+      label: Observation Period Agreement
+      hint: Will you stay for observation?
+      type: select_one
+      options:
+      - Yes, I will remain 30 minutes after each injection
+      - No, I cannot comply
+      required: true
+    - id: 15
+      name: health_status_reporting
+      label: Health Status Reporting Agreement
+      hint: Will you report health changes?
+      type: select_one
+      options:
+      - Yes, I will report any illness or symptoms
+      - No
+      required: true
+    - id: 16
+      name: medication_disclosure
+      label: Medication Disclosure Agreement
+      hint: Will you disclose all medications?
+      type: select_one
+      options:
+      - Yes, I will disclose all medications
+      - No
+      required: true
+    - id: 17
+      name: beta_blocker_acknowledgment
+      label: Beta-Blocker Acknowledgment
+      hint: Do you understand beta-blocker risks?
+      type: select_one
+      options:
+      - Yes, I understand beta-blockers may interfere
+      - No, I need more information
+      required: true
+    - id: 18
+      name: pregnancy_acknowledgment
+      label: Pregnancy Acknowledgment
+      hint: Will you inform if pregnant or planning?
+      type: select_one
+      options:
+      - Yes, I will inform immediately
+      - Not applicable
+      - No
+      required: true
+    - id: 19
+      name: appointment_compliance
+      label: Appointment Compliance
+      hint: Can you commit to regular visits?
+      type: select_one
+      options:
+      - Yes, I can commit to regular appointments
+      - I will try my best
+      - No, I cannot commit
+      required: true
+    - id: 20
+      name: injection_schedule
+      label: Injection Schedule Understanding
+      hint: Do you understand the schedule?
+      type: select_one
+      options:
+      - Yes, I understand build-up and maintenance phases
+      - No, I need more information
+      required: true
+    - id: 21
+      name: activity_restrictions
+      label: Activity Restrictions Understanding
+      hint: Do you understand activity limits?
+      type: select_one
+      options:
+      - Yes, I will avoid strenuous activity after injections
+      - No, I need more information
+      required: true
+    - id: 22
+      name: emergency_plan
+      label: Emergency Plan Understanding
+      hint: Do you know what to do in emergency?
+      type: select_one
+      options:
+      - Yes, I understand emergency procedures
+      - No, I need more information
+      required: true
+    - id: 23
+      name: alternative_treatments
+      label: Alternative Treatments Discussed
+      hint: Have alternatives been discussed?
+      type: select_one
+      options:
+      - Yes, medications discussed
+      - Yes, avoidance strategies discussed
+      - Yes, both discussed
+      - No
+      required: true
+    - id: 24
+      name: questions_answered
+      label: Questions Answered
+      hint: Have all your questions been answered?
+      type: select_one
+      options:
+      - Yes, all questions answered
+      - Most questions answered
+      - No, I still have questions
+      required: true
+    - id: 25
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: Is your consent voluntary?
+      type: select_one
+      options:
+      - Yes, I consent voluntarily
+      - No
+      required: true
+    - id: 26
+      name: right_to_withdraw
+      label: Right to Withdraw Understanding
+      hint: Do you understand you can withdraw?
+      type: select_one
+      options:
+      - Yes, I understand I can withdraw anytime
+      - No
+      required: true
+    - id: 27
+      name: patient_signature
+      label: Patient Signature
+      hint: Patient consent
+      type: select_one
+      options:
+      - I consent to allergy immunotherapy
+      - I do not consent
+      required: true
+    - id: 28
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: witness_name
+      label: Witness Name
+      hint: Witness to consent
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: physician_signature
+      label: Physician Signature
+      hint: Doctor authorization
+      type: select_one
+      options:
+      - I have explained the procedure and risks
+      - Not yet signed
+      required: true
+    - id: 31
+      name: physician_signature_date
+      label: Physician Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

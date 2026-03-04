@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Scheduled Work Agreement
+    pages:
+    - id: 1
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: work_description
+      label: Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rate_hour
+      label: Rate/Hour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rate_amount
+      label: Rate Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rate_currency
+      label: Rate Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Payment on receipt of invoice
+      - Payment within 30 days
+      - Payment within 60 days
+      - Other (explain)
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Cheque
+      - Direct Deposit
+      - Other (explain)
+      required: false
+    - id: 12
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - One-time payment
+      - Recurring payment
+      - Payment on completion
+      required: false
+    - id: 13
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 16
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contractor_notes
+      label: Contractor Notes
+      hint: null
+      type: note
+      options: []
+      required: false

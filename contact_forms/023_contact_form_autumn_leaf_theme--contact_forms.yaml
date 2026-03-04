@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Autumn Leaf Theme
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_seasonal_inquiry
+      label: -- Seasonal Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: interest_in_autumn_events
+      label: Interest in Autumn Events
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Harvest Festival
+      - Pumpkin Carving Workshop
+      - Autumn Hike
+      - Cider Tasting
+      - Community Potluck
+      required: false
+    - id: 7
+      name: preferred_visit_date
+      label: Preferred Visit Date
+      hint: When would you like to visit?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: section_message_details
+      label: -- Message Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: message_subject
+      label: Subject
+      hint: What is your inquiry about?
+      type: select_one
+      options:
+      - Event Inquiry
+      - Vendor Opportunity
+      - Feedback
+      - Other
+      required: true
+    - id: 10
+      name: message_content
+      label: Your Message
+      hint: Enter your message or feedback here
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Photography Contract
+    pages:
+    - id: 1
+      name: agreement
+      label: Legal Photography Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_details
+      label: Session Details
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 3
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: purpose
+      label: Purpose of this Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Check
+      - Cash
+      - Online Payment
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cancellation
+      label: Cancellation
+      hint: null
+      type: select_one
+      options:
+      - No Cancellation
+      - 15 minutes prior
+      - 30 minutes prior
+      required: false
+    - id: 8
+      name: late_fees
+      label: Late Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: no_show
+      label: No-show
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false

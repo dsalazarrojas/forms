@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Business Consultant Job Application
+    pages:
+    - id: 1
+      name: section_applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Contact email for application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Mobile phone for scheduling interviews
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: Years of experience
+      hint: Total years in consulting or related fields
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: core_skills
+      label: Core skills
+      hint: Key consulting skills and tools
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resume_link
+      label: Resume link or summary
+      hint: URL to resume or paste brief summary
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability_to_start
+      label: Availability to start
+      hint: Earliest start date or notice period
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Red Envelope Theme 2
+    pages:
+    - id: 1
+      name: contact_header
+      label: -- Send Us a Message --
+      hint: We would love to hear from you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Contact Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Message Subject
+      hint: null
+      type: select_one
+      options:
+      - General Inquiry
+      - Delivery Status
+      - Technical Support
+      - Feedback
+      - Other
+      required: true
+    - id: 6
+      name: message_content
+      label: Your Message
+      hint: Please provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: How should we contact you?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 8
+      name: attachment_check
+      label: Do you have a photo of your envelope or package?
+      hint: We may ask for this later
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: submission_date
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true

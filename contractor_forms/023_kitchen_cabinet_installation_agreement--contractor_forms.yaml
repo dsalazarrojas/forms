@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Cabinet Installation Agreement
+    pages:
+    - id: 1
+      name: customer_authorization
+      label: customer_authorization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cabinet_details
+      label: cabinet_details
+      hint: null
+      type: select_one
+      options:
+      - Cabinets Installed
+      - Countertops Installed
+      - Hardware Installed
+      required: false
+    - id: 4
+      name: installation_location
+      label: installation_location
+      hint: null
+      type: select_multiple
+      options:
+      - Bedroom
+      - Living Room
+      - Kitchen
+      - Bathroom
+      required: false
+    - id: 5
+      name: installation_date
+      label: installation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: installation_time
+      label: installation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: authorization
+      label: authorization
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Un-Authorized
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

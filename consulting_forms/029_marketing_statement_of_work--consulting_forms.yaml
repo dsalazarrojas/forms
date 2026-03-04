@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Statement Of Work
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: Briefly describe the project scope and objectives
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Increase brand awareness'', ''value'': ''Brand Awareness''}'
+      - '{''id'': 2, ''name'': ''Increase engagement'', ''value'': ''Engagement''}'
+      - '{''id'': 3, ''name'': ''Increase conversion'', ''value'': ''Conversion''}'
+      required: false
+    - id: 4
+      name: project_timelines
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_end_date
+      label: Expected End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: actual_start_date
+      label: Actual Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: actual_end_date
+      label: Actual End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Labor costs'', ''value'': ''Labor Costs''}'
+      - '{''id'': 2, ''name'': ''Equipment costs'', ''value'': ''Equipment Costs''}'
+      - '{''id'': 3, ''name'': ''Other costs'', ''value'': ''Other Costs''}'
+      required: false

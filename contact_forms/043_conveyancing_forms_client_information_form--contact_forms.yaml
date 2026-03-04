@@ -1,0 +1,363 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conveyancing Forms Client Information Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Legal name of client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mobile
+      label: Mobile Number
+      hint: Mobile phone for urgent matters
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_address
+      label: -- Current Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address_type
+      label: Address Type
+      hint: null
+      type: select_one
+      options:
+      - Owned
+      - Rented
+      - Living with Family
+      - Other
+      required: true
+    - id: 8
+      name: how_long_at_address
+      label: How long have you lived at this address
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: false
+    - id: 9
+      name: section_transaction
+      label: -- Transaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: transaction_type
+      label: Type of Transaction
+      hint: What service do you need
+      type: select_one
+      options:
+      - Buying Property
+      - Selling Property
+      - Buying and Selling
+      - Remortgaging
+      - Transfer of Equity
+      - Lease Extension
+      - Other
+      required: true
+    - id: 11
+      name: property_address
+      label: Property Address
+      hint: Address of property being bought or sold
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Detached House
+      - Semi-Detached House
+      - Terraced House
+      - Flat or Apartment
+      - Bungalow
+      - Land
+      - Commercial Property
+      - Other
+      required: true
+    - id: 13
+      name: purchase_price
+      label: Purchase Price
+      hint: Agreed or expected price
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: expected_completion
+      label: Expected Completion Date
+      hint: When do you want to complete
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: section_personal_details
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: occupation
+      label: Occupation
+      hint: Your profession
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employer_name
+      label: Employer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_id_verification
+      label: -- ID Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: id_type
+      label: Type of ID Provided
+      hint: null
+      type: select_one
+      options:
+      - Passport
+      - Driving License
+      - National ID Card
+      - Other
+      required: true
+    - id: 22
+      name: id_number
+      label: ID Number
+      hint: Passport or license number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: proof_of_address
+      label: Proof of Address Provided
+      hint: null
+      type: select_one
+      options:
+      - Utility Bill
+      - Bank Statement
+      - Council Tax Bill
+      - Other
+      required: true
+    - id: 24
+      name: section_financial
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: mortgage_required
+      label: Do you need a mortgage
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 26
+      name: mortgage_agreement_in_principle
+      label: Do you have a mortgage agreement in principle
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 27
+      name: lender_name
+      label: Lender Name
+      hint: Name of mortgage lender
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Available deposit
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: source_of_funds
+      label: Source of Funds
+      hint: Where are funds coming from
+      type: select_one
+      options:
+      - Savings
+      - Sale of Property
+      - Gift from Family
+      - Inheritance
+      - Investment
+      - Other
+      required: true
+    - id: 30
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: first_time_buyer
+      label: Are you a first time buyer
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: buy_to_let
+      label: Is this a buy to let property
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 33
+      name: shared_ownership
+      label: Is this shared ownership
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 34
+      name: help_to_buy
+      label: Are you using Help to Buy scheme
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 35
+      name: section_contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mobile
+      - Post
+      required: true
+    - id: 37
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any Time
+      required: false
+    - id: 38
+      name: section_terms
+      label: -- Terms Acceptance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: terms_accepted
+      label: I accept the terms of business
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 40
+      name: privacy_policy_accepted
+      label: I accept the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 41
+      name: signature_date
+      label: Signature Date
+      hint: Date of acceptance
+      type: date
+      options: []
+      required: true
+    - id: 42
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

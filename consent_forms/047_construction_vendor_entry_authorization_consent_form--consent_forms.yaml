@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Vendor Entry Authorization Consent Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: Full name of visitor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_company
+      label: Vendor Company
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vendor_address
+      label: Vendor Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_email
+      label: Vendor Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: vendor_phone
+      label: Vendor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_license
+      label: Vendor License Number
+      hint: Contractor or business license
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_insurance
+      label: Insurance Policy Number
+      hint: Liability insurance policy
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: Why are you visiting
+      type: select_one
+      options:
+      - Delivery
+      - Service or Maintenance
+      - Sales Presentation
+      - Site Survey
+      - Meeting
+      - Inspection
+      - Installation
+      - Pickup
+      - Other
+      required: true
+    - id: 10
+      name: purpose_details
+      label: Purpose Details
+      hint: Describe in more detail
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: Which project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_address
+      label: Project Address
+      hint: Site to visit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: entry_date
+      label: Requested Entry Date
+      hint: When do you need access
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: entry_time
+      label: Requested Entry Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: expected_duration
+      label: Expected Duration
+      hint: How long will you stay
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - Full Day
+      - Multiple Days
+      required: true
+    - id: 16
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Make, model, color, plate
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_brought
+      label: Equipment Being Brought
+      hint: Tools or materials
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: site_contact_name
+      label: Site Contact Name
+      hint: Who are you meeting
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: site_contact_phone
+      label: Site Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: safety_orientation_completed
+      label: Safety Orientation Completed
+      hint: Have you completed site orientation
+      type: select_one
+      options:
+      - Yes, Previously
+      - Yes, Will Complete Today
+      - No, Need Orientation
+      required: true
+    - id: 21
+      name: ppe_requirements
+      label: PPE Requirements Understood
+      hint: Do you understand PPE rules
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: site_rules_acknowledged
+      label: Site Rules Acknowledged
+      hint: Do you agree to follow all rules
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 26
+      name: liability_waiver
+      label: Liability Waiver Accepted
+      hint: Do you accept liability terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - false
+      required: true
+    - id: 27
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to keep information confidential
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: false
+    - id: 28
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you authorize background verification
+      type: select_one
+      options:
+      - Yes, I Consent
+      - false
+      required: false
+    - id: 29
+      name: vendor_signature
+      label: Vendor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: authorized_by
+      label: Authorized By
+      hint: Site authorization name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

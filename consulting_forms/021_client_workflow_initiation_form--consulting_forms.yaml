@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Workflow Initiation Form
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_section
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Provide a brief overview of your project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Strategy Development
+      - Process Improvement
+      - Systems Implementation
+      - Organizational Change
+      - Training and Development
+      - Other
+      required: true
+    - id: 10
+      name: timeline_section
+      label: -- Timeline and Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_start_date
+      label: Desired Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date
+      label: Target Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: timeline_flexibility
+      label: Timeline flexibility
+      hint: null
+      type: select_one
+      options:
+      - Fixed deadline
+      - Somewhat flexible
+      - Flexible
+      required: false
+    - id: 14
+      name: priority_section
+      label: -- Priority and Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: urgency_level
+      label: Project urgency level
+      hint: null
+      type: select_one
+      options:
+      - Low priority
+      - Medium priority
+      - High priority
+      - Critical/Urgent
+      required: true
+    - id: 16
+      name: business_impact
+      label: Expected business impact
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Significant
+      - Transformational
+      required: true
+    - id: 17
+      name: resources_section
+      label: -- Resources and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: budget_currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_size
+      label: Internal team size assigned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: stakeholders
+      label: Key stakeholders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: documentation_section
+      label: -- Supporting Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: supporting_documents
+      label: Upload supporting documents
+      hint: Optional - requirements, specs, etc.
+      type: text
+      options: []
+      required: false

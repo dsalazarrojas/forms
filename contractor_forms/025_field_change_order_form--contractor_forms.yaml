@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Change Order Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contractor_info
+      label: Contractor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: change_status
+      label: Change Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - In Progress
+      - Cancelled
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      - Normal
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

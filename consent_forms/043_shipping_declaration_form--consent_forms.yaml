@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Declaration Form
+    pages:
+    - id: 1
+      name: shipping_company_name
+      label: shipping_company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipper_name
+      label: shipper name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipper_address
+      label: shipper address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipper_phone
+      label: shipper phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipper_email
+      label: shipper email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: shipper_country
+      label: shipper country
+      hint: null
+      type: select_one
+      options:
+      - United Kingdom
+      - United States
+      required: false
+    - id: 7
+      name: package_description
+      label: package description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: package_weight
+      label: package weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: package_dimensions
+      label: package dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contents
+      label: contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipper_signature
+      label: shipper signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: declaration_type
+      label: declaration type
+      hint: null
+      type: select_one
+      options:
+      - Express
+      - Parcel
+      required: false
+    - id: 13
+      name: declaration_date
+      label: declaration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: declaration_time
+      label: declaration time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Other
+      required: false

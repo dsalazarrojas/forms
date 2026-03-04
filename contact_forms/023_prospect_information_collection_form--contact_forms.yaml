@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospect Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prospect_title
+      label: Prospect Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prospect_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: about_company
+      label: About the Company
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: why_we_should_follow_up_with_you
+      label: Why we should follow up with you
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: prospect_description
+      label: Prospect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Entry Level'', ''value'': ''entry_level''}'
+      - '{''label'': ''Management'', ''value'': ''management''}'
+      - '{''label'': ''Leadership'', ''value'': ''leadership''}'
+      - '{''label'': ''Executive'', ''value'': ''executive''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 16
+      name: preferred_method_of_contact
+      label: Preferred method of contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 17
+      name: best_time_of_day
+      label: Best time of day to contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: best_day_of_week
+      label: Best day of week to contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday'', ''value'': ''monday''}'
+      - '{''label'': ''Tuesday'', ''value'': ''tuesday''}'
+      - '{''label'': ''Wednesday'', ''value'': ''wednesday''}'
+      - '{''label'': ''Thursday'', ''value'': ''thursday''}'
+      - '{''label'': ''Friday'', ''value'': ''friday''}'
+      - '{''label'': ''Saturday'', ''value'': ''saturday''}'
+      - '{''label'': ''Sunday'', ''value'': ''sunday''}'
+      required: false
+    - id: 19
+      name: best_time_of_day_in_range
+      label: Best time of day to contact in range
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''label'': ''Evening'', ''value'': ''evening''}'
+      - '{''label'': ''Anytime'', ''value'': ''anytime''}'
+      required: false
+    - id: 20
+      name: job_opening_status
+      label: Job opening status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Open'', ''value'': ''open''}'
+      - '{''label'': ''Not Specified'', ''value'': ''not_specified''}'
+      required: false
+    - id: 21
+      name: job_opening_type
+      label: Job opening type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Temporary'', ''value'': ''temporary''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 22
+      name: job_opening_urgency
+      label: Job opening urgency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High'', ''value'': ''high''}'
+      - '{''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''label'': ''Low'', ''value'': ''low''}'
+      - '{''label'': ''Not Specified'', ''value'': ''not_specified''}'
+      required: false
+    - id: 23
+      name: job_opening_frequency
+      label: Job opening frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ongoing'', ''value'': ''ongoing''}'
+      - '{''label'': ''As needed'', ''value'': ''as_needed''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 24
+      name: how_did_you_find_us
+      label: How did you find us
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referral'', ''value'': ''referral''}'
+      - '{''label'': ''In Person'', ''value'': ''in_person''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

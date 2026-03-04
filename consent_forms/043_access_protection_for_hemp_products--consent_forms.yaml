@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Protection For Hemp Products
+    pages:
+    - id: 1
+      name: section_verification
+      label: -- Customer Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Used for age verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_eligibility
+      label: -- Eligibility Acknowledgements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: age_verification
+      label: I certify that I am at least 21 years of age
+      hint: Minimum age requirement
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 6
+      name: id_upload_confirmation
+      label: I have provided a valid government-issued ID for verification
+      hint: physical verification step
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true
+    - id: 7
+      name: section_safety
+      label: -- Product Use and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: local_laws_compliance
+      label: I understand and will comply with all local and state laws regarding
+        hemp products
+      hint: Legal compliance acknowledgement
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 9
+      name: health_warning_acknowledgement
+      label: I acknowledge the health warnings associated with hemp-derived products
+      hint: Safety acknowledgement
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 10
+      name: non_redistribution_pledge
+      label: I pledge that these products are for personal use and not for redistribution
+        to minors
+      hint: Usage agreement
+      type: select_one
+      options:
+      - I Pledge
+      - Other
+      required: true
+    - id: 11
+      name: section_legal
+      label: -- Legal Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: terms_of_service_agreement
+      label: I agree to the retailers terms of service and privacy policy
+      hint: Essential for access
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: liability_release
+      label: I release the vendor from liability related to the misuse of these products
+      hint: Legal release
+      type: select_one
+      options:
+      - I Release
+      - Other
+      required: true
+    - id: 14
+      name: section_sig
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Full Name as Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_date
+      label: Todays Date
+      hint: current date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: win_a_dinner_for_two_entry_form
+    pages:
+    - id: 1
+      name: entry_form
+      label: Enter Contest
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

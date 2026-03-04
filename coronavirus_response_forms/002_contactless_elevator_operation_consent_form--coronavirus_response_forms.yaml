@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contactless Elevator Operation Consent Form
+    pages:
+    - id: 1
+      name: resident_full_name
+      label: Resident Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: unit_number
+      label: Unit Number
+      hint: Your apartment or office unit number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: building_name
+      label: Building Name
+      hint: Name of your building
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For confirmation and records
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agree_to_contactless_operation
+      label: I Agree to Contactless Elevator Operation
+      hint: I understand and consent to the use of contactless elevator controls
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 8
+      name: understand_health_risks
+      label: Understanding of Health Risks
+      hint: I understand this measure is to reduce COVID-19 transmission risk
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 9
+      name: alternative_access_needed
+      label: Alternative Access Needed
+      hint: Do you require alternative access due to disability or medical condition?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: household_members
+      label: Number of Household Members
+      hint: How many people live in your unit?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: frequency_of_use
+      label: Estimated Daily Elevator Use
+      hint: How many times per day do you typically use the elevator?
+      type: select_one
+      options:
+      - 1-3 times
+      - 4-6 times
+      - 7-10 times
+      - More than 10 times
+      required: false
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: additional_accommodations
+      label: Additional Accommodations Requested
+      hint: Please describe any additional accommodations needed
+      type: text
+      options: []
+      required: false

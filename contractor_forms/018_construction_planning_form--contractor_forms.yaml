@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Planning Form
+    pages:
+    - id: 1
+      name: plan_date
+      label: Planning Date
+      hint: Date of this planning document
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Official project name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_number
+      label: Project Number
+      hint: Internal project reference
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: Full site location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_type
+      label: Project Type
+      hint: Category of construction
+      type: select_one
+      options:
+      - Residential Single Family
+      - Residential Multi-Family
+      - Commercial Office
+      - Commercial Retail
+      - Industrial
+      - Institutional
+      - Infrastructure
+      - Mixed Use
+      required: true
+    - id: 6
+      name: project_scope
+      label: Project Scope Description
+      hint: Detailed description of project scope
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Project owner or developer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: architect_name
+      label: Architect Name
+      hint: Lead architect or firm
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: engineer_name
+      label: Engineer Name
+      hint: Structural or civil engineer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: general_contractor
+      label: General Contractor
+      hint: Primary construction company
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_start_date
+      label: Estimated Start Date
+      hint: Planned construction start
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: estimated_completion_date
+      label: Estimated Completion Date
+      hint: Planned project completion
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: total_project_budget
+      label: Total Project Budget
+      hint: Overall budget amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: construction_budget
+      label: Construction Budget
+      hint: Budget for construction work only
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: site_conditions
+      label: Site Conditions
+      hint: Description of current site conditions
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zoning_requirements
+      label: Zoning Requirements
+      hint: Applicable zoning regulations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: permit_requirements
+      label: Permit Requirements
+      hint: List of required permits
+      type: select_multiple
+      options:
+      - Building Permit
+      - Electrical Permit
+      - Plumbing Permit
+      - Mechanical Permit
+      - Demolition Permit
+      - Environmental Permit
+      - Zoning Variance
+      - Other
+      required: true
+    - id: 18
+      name: utility_requirements
+      label: Utility Requirements
+      hint: Utilities needed for project
+      type: select_multiple
+      options:
+      - Water Connection
+      - Sewer Connection
+      - Electrical Service
+      - Gas Service
+      - Telecommunications
+      - Storm Drainage
+      - None Required
+      required: true
+    - id: 19
+      name: major_milestones
+      label: Major Project Milestones
+      hint: Key dates and deliverables
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: critical_path_items
+      label: Critical Path Items
+      hint: Tasks that affect overall timeline
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: potential_risks
+      label: Potential Risks
+      hint: Identified project risks
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mitigation_strategies
+      label: Risk Mitigation Strategies
+      hint: How risks will be addressed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quality_requirements
+      label: Quality Requirements
+      hint: Special quality standards or certifications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_requirements
+      label: Safety Requirements
+      hint: Special safety protocols needed
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: environmental_considerations
+      label: Environmental Considerations
+      hint: Environmental protections or requirements
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: planner_name
+      label: Prepared By
+      hint: Name of planner
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: planner_signature
+      label: Planner Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

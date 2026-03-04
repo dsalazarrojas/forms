@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Volunteer Application Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time employed
+      - Part-time employed
+      - Student
+      - Retired
+      - Unemployed
+      - Self-employed
+      required: false
+    - id: 8
+      name: occupation
+      label: Current or Previous Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_role_interest
+      label: Volunteer Role Interested In
+      hint: Select area of interest
+      type: select_one
+      options:
+      - Administrative support
+      - Community outreach
+      - Medical assistance
+      - Fundraising
+      - Logistics and supplies
+      - Contact tracing
+      - Other
+      required: true
+    - id: 10
+      name: role_description
+      label: Describe Preferred Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: Availability
+      hint: When can you volunteer
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 12
+      name: hours_per_week
+      label: Hours Available Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: duration_commitment
+      label: Volunteer Duration
+      hint: How long can you commit
+      type: select_one
+      options:
+      - One-time event
+      - A few weeks
+      - One to three months
+      - Three to six months
+      - Six months or longer
+      required: true
+    - id: 14
+      name: special_skills
+      label: Special Skills or Certifications
+      hint: First aid, languages, medical training etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Unvaccinated
+      - Prefer not to answer
+      required: false
+    - id: 16
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: training_willing
+      label: Willing to Receive Training
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: transportation_own
+      label: Have Own Transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: reference_name
+      label: Reference Name
+      hint: Person who can vouch for you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reference_phone
+      label: Reference Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

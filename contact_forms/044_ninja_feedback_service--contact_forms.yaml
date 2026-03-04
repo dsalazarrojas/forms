@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: ninja_feedback_service
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: your-email@example.com
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Bug
+      - Feature Request
+      - Other
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: Please describe your feedback
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: feedback_location
+      label: Feedback Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment
+      label: Attach File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback_status
+      label: Feedback Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 14
+      name: priority
+      label: Feedback Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment
+      label: Attach File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: your-email@example.com
+      type: text
+      options: []
+      required: false

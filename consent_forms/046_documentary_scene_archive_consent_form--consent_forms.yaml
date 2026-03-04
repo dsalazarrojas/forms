@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Scene Archive Consent Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: subject_first_name
+      label: subject_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subject_last_name
+      label: subject_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject_email
+      label: subject_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: subject_address
+      label: subject_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_consent
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_consent
+      label: time_of_consent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness
+      label: witness
+      hint: null
+      type: select_one
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

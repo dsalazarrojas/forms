@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Entry Form
+    pages:
+    - id: 1
+      name: entry_intro_header
+      label: -- Competition Entry Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrant_full_name
+      label: Entrant Full Name
+      hint: Individual or group leader name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entrant_email_address
+      label: Entrant Email Address
+      hint: For official entry notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: competition_category_entry
+      label: Competition Category
+      hint: Select the category you are entering
+      type: select_one
+      options:
+      - Arts and Design
+      - Technology / Innovation
+      - Writing / Literature
+      - Performance / Music
+      - Business Pitch
+      - Other
+      required: true
+    - id: 5
+      name: specific_entry_title
+      label: Title of Your Entry
+      hint: e.g., Project Name, Song Title, or Portfolio Name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: entry_description_summary
+      label: Brief Description of Entry
+      hint: Max 200 words summary of your work
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_section_header
+      label: -- Entry Fee and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: entry_fee_amount
+      label: Total Entry Fee Amount
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method_selection
+      label: Preferred Payment Method
+      hint: Select how you will pay the entry fee
+      type: select_one
+      options:
+      - Credit / Debit Card
+      - PayPal
+      - Bank Transfer
+      - Pay at Event
+      required: true
+    - id: 10
+      name: payment_reference_number
+      label: Payment Reference (If Paid)
+      hint: Enter transaction ID if bank transfer or online payment was used
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_upload_instruction_note
+      label: Please ensure all supporting files are uploaded via the secure link sent
+        to your email.
+      hint: Final step after form submission
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: terms_and_conditions_entry
+      label: I agree to the competition terms and conditions
+      hint: Includes copyright and usage rights
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 13
+      name: entry_submission_date
+      label: Date of Entry
+      hint: Today's date
+      type: date
+      options: []
+      required: true

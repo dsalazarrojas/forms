@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Travel Declaration Form
+    pages:
+    - id: 1
+      name: travel_declaration_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: select_one
+      options:
+      - Free of COVID-19
+      - Has Fever
+      - Has Cough
+      - Has Fatigue
+      - Has Shortness of Breath
+      - Has Sore Throat
+      - Has Runny Nose/Sore Throat
+      - Other (please specify)
+      - Unknown
+      required: false
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Sore Throat
+      - Runny Nose/Sore Throat
+      - Shortness of Breath
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: recent_travel
+      label: Recent Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false

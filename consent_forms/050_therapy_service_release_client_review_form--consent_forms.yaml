@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Service Release & Client Review Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: therapist_email
+      label: Therapist Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: therapist_number
+      label: Therapist Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: therapist_license_number
+      label: Licensing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: therapist_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: therapist_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: therapist_zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_share_testimonial
+      label: Consent to Share Testimonial
+      hint: Client agrees to share this testimonial
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: release_of_privacy_info
+      label: Release of Privacy Information
+      hint: Please review privacy information carefully and sign below
+      type: select_multiple
+      options:
+      - I have reviewed and agreed to the privacy information
+      - I have not yet reviewed the privacy information
+      required: false
+    - id: 16
+      name: signed_release_date
+      label: Signed Release Date
+      hint: null
+      type: date
+      options: []
+      required: false

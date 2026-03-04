@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_coverage_inquiry_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: insurance_product
+      label: insurance_product
+      hint: null
+      type: select_multiple
+      options:
+      - Life
+      - Auto
+      - Home
+      - Health
+      - Other
+      required: true
+    - id: 7
+      name: coverage_start_date
+      label: coverage_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: coverage_end_date
+      label: coverage_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: insurance_agency_name
+      label: insurance_agency_name
+      hint: Please enter the name of the insurance agency, if not applicable please
+        enter None.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audition Form
+    pages:
+    - id: 1
+      name: performer_full_name
+      label: Performer Full Name
+      hint: Legal name of performer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_name
+      label: Stage Name
+      hint: Professional or stage name (if different)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor
+      required: true
+    - id: 8
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_contact
+      label: Parent or Guardian Contact
+      hint: Contact information for parent or guardian
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_name
+      label: Production Name
+      hint: Name of production you are auditioning for
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: role_auditioning
+      label: Role Auditioning For
+      hint: Which role are you auditioning for?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: audition_date
+      label: Audition Date
+      hint: Date of audition
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: audition_location
+      label: Audition Location
+      hint: Where is the audition taking place?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: performance_type
+      label: Performance Type
+      hint: What type of performance is this?
+      type: select_one
+      options:
+      - Theater
+      - Film
+      - Television
+      - Commercial
+      - Music Video
+      - Voice Over
+      - Dance
+      - Other
+      required: true
+    - id: 15
+      name: skills_and_talents
+      label: Skills and Talents
+      hint: List your relevant skills and talents
+      type: select_multiple
+      options:
+      - Acting
+      - Singing
+      - Dancing
+      - Instrument playing
+      - Acrobatics
+      - Martial arts
+      - Comedy
+      - Improvisation
+      required: true
+    - id: 16
+      name: experience_level
+      label: Experience Level
+      hint: What is your experience level?
+      type: select_one
+      options:
+      - Professional
+      - Semi-professional
+      - Trained
+      - Amateur
+      - Beginner
+      required: true
+    - id: 17
+      name: union_membership
+      label: Union Membership
+      hint: Are you a union member?
+      type: select_one
+      options:
+      - SAG-AFTRA
+      - Equity
+      - Other union
+      - Non-union
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: What is your availability?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: representation
+      label: Representation
+      hint: Do you have an agent or manager?
+      type: select_one
+      options:
+      - Yes, have agent
+      - Yes, have manager
+      - Yes, have both
+      - No representation
+      required: true
+    - id: 20
+      name: representation_contact
+      label: Representation Contact
+      hint: Contact info for agent or manager
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: headshot_submitted
+      label: Headshot Submitted
+      hint: Have you submitted a headshot?
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, previously submitted
+      - No, will submit
+      - false
+      required: true
+    - id: 22
+      name: resume_submitted
+      label: Resume Submitted
+      hint: Have you submitted a resume?
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, previously submitted
+      - No, will submit
+      - false
+      required: true
+    - id: 23
+      name: demo_reel_link
+      label: Demo Reel Link
+      hint: URL to your demo reel or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: performer_signature
+      label: Performer Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true

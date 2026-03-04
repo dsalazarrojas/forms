@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Incident Injury Reporting Form Template
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_occurrence
+      label: Date of Occurrence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: injury_description
+      label: Injury Description
+      hint: Provide details of the injury
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: injury_severity
+      label: Injury Severity
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - Minor
+      - Serious
+      - Critical
+      required: false
+    - id: 8
+      name: body_area_affected
+      label: Body Area Affected
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Face
+      - Eyes
+      - Ears
+      - Hands
+      - Arms
+      - Back
+      - Abdomen
+      - Legs
+      - Feet
+      required: true
+    - id: 9
+      name: medical_care
+      label: Medical Care
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Care 24/7
+      - Medical Care 9-5
+      - Medical Care 6-8 hours
+      required: false
+    - id: 10
+      name: incident_narrative
+      label: Incident Narrative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Disapproved
+      - Pending
+      required: false
+    - id: 12
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Disapproved
+      - Pending
+      required: true
+    - id: 13
+      name: safety_officer_approval
+      label: Safety Officer Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Disapproved
+      - Pending
+      required: true
+    - id: 14
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: incident_closed
+      label: Incident Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_closed_by
+      label: Incident Closed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_cause
+      label: Incident Cause
+      hint: Provide cause of incident
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_cause_category
+      label: Incident Cause Category
+      hint: null
+      type: select_one
+      options:
+      - Human Error
+      - Machinery
+      - Environmental
+      - Tools
+      required: true
+    - id: 19
+      name: incident_cause_subcategory
+      label: Incident Cause Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Human Error
+      - Human Error
+      - Human Error
+      - Human Error
+      - Human Error
+      - Human Error
+      - Human Error
+      - Human Error
+      - Human Error
+      required: false
+    - id: 20
+      name: incident_cause_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_cause_other_description
+      label: Incident Cause Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_cause_hazards
+      label: Incident Cause Hazards
+      hint: Provide hazards involved
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_cause_hazards_list
+      label: Incident Cause Hazards List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employer_response
+      label: Employer Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false

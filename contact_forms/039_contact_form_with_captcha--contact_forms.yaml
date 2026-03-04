@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With CAPTCHA
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_callback_preferences
+      label: -- Callback Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_callback_method
+      label: Preferred Callback Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Phone Call
+      - SMS/Text
+      - Email Response
+      required: true
+    - id: 7
+      name: preferred_callback_day
+      label: Preferred Callback Day
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 8
+      name: preferred_callback_time
+      label: Preferred Callback Time
+      hint: When is the best time to call?
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      required: true
+    - id: 9
+      name: section_message_details
+      label: -- Message and Security --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: inquiry_subject
+      label: Inquiry Subject
+      hint: Provide a brief summary
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: detailed_message
+      label: Your Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: are_you_human
+      label: Are you human? (CAPTCHA Verification)
+      hint: Please confirm you are not a robot
+      type: select_one
+      options:
+      - I am human
+      - I am not human
+      required: true
+    - id: 13
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

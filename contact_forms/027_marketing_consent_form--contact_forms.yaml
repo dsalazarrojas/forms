@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Consent Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CEO''}'
+      - '{''id'': 2, ''name'': ''CMO''}'
+      - '{''id'': 3, ''name'': ''Customer Service''}'
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_type
+      label: Email Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Personal''}'
+      - '{''id'': 2, ''name'': ''Work''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 8
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Never''}'
+      - '{''id'': 2, ''name'': ''Occasionally''}'
+      - '{''id'': 3, ''name'': ''Frequently''}'
+      required: false
+    - id: 9
+      name: phone_type
+      label: Phone Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mobile''}'
+      - '{''id'': 2, ''name'': ''Landline''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 10
+      name: phone_frequency
+      label: Phone Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Never''}'
+      - '{''id'': 2, ''name'': ''Occasionally''}'
+      - '{''id'': 3, ''name'': ''Frequently''}'
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 12
+      name: contact_methods
+      label: Contact Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''In-person''}'
+      required: false
+    - id: 13
+      name: marketing_materials
+      label: Marketing Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent
+      label: Consent
+      hint: Please sign below to consent to receive marketing materials
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Local''}'
+      - '{''id'': 2, ''name'': ''UTC''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 18
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Morning''}'
+      - '{''id'': 2, ''name'': ''Afternoon''}'
+      - '{''id'': 3, ''name'': ''Night''}'
+      required: false
+    - id: 19
+      name: time_zone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: time_of_year
+      label: Time of Year
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''January''}'
+      - '{''id'': 2, ''name'': ''February''}'
+      - '{''id'': 3, ''name'': ''March''}'
+      required: false
+    - id: 21
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''January''}'
+      - '{''id'': 2, ''name'': ''February''}'
+      - '{''id'': 3, ''name'': ''March''}'
+      required: false
+    - id: 23
+      name: month_end_day
+      label: Month End Day
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''First''}'
+      - '{''id'': 2, ''name'': ''Second''}'
+      - '{''id'': 3, ''name'': ''Last''}'
+      required: false
+    - id: 24
+      name: month_day
+      label: Month Day
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''First''}'
+      - '{''id'': 2, ''name'': ''Second''}'
+      - '{''id'': 3, ''name'': ''Last''}'
+      required: false
+    - id: 25
+      name: month_day_of_week
+      label: Month Day of Week
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Monday''}'
+      - '{''id'': 2, ''name'': ''Tuesday''}'
+      - '{''id'': 3, ''name'': ''Wednesday''}'
+      required: false

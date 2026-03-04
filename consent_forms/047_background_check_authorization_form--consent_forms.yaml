@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Authorization Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: For identity verification
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: social_security_last4
+      label: Last four digits of SSN
+      hint: For verification only
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_applied
+      label: Position applied for
+      hint: Role requiring background check
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_to_check
+      label: Consent to background check
+      hint: Applicant authorization
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: consent_signature
+      label: Signature name
+      hint: Typed full name indicates consent
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_date
+      label: Date of consent
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For results and questions
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: privacy_notice
+      label: Privacy notice
+      hint: How data will be used and stored
+      type: note
+      options: []
+      required: true

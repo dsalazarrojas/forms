@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Procurement Intake Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_email
+      label: vendor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: vendor_phone
+      label: vendor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: procurement_type
+      label: procurement_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Direct Procurement'', ''value'': ''Direct_Procurement''}'
+      - '{''text'': ''Indirect Procurement'', ''value'': ''Indirect_Procurement''}'
+      required: false
+    - id: 6
+      name: procurement_method
+      label: procurement_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Electronic Bid'', ''value'': ''Electronic_Bid''}'
+      - '{''text'': ''Physical Bid'', ''value'': ''Physical_Bid''}'
+      required: false
+    - id: 7
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Fixed-Price Contract'', ''value'': ''Fixed_Price_Contract''}'
+      - '{''text'': ''Cost-Plus Contract'', ''value'': ''CostPlus_Contract''}'
+      required: false
+    - id: 8
+      name: procurement_status
+      label: procurement_status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Open Procurement'', ''value'': ''Open_Procurement''}'
+      - '{''text'': ''Closed Procurement'', ''value'': ''Closed_Procurement''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_rep
+      label: vendor_rep
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Internal'', ''value'': ''Internal''}'
+      - '{''text'': ''External'', ''value'': ''External''}'
+      required: false
+    - id: 11
+      name: procurement_date
+      label: procurement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: procurement_time
+      label: procurement_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: procurement_value
+      label: procurement_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: purchase_order_number
+      label: purchase_order_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contract_number
+      label: contract_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: contract_time
+      label: contract_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: contract_status
+      label: contract_status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Active'', ''value'': ''Active''}'
+      - '{''text'': ''Cancelled'', ''value'': ''Cancelled''}'
+      - '{''text'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vendor
+      label: vendor
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Vendor 1'', ''value'': ''Vendor_1''}'
+      - '{''text'': ''Vendor 2'', ''value'': ''Vendor_2''}'
+      - '{''text'': ''Vendor 3'', ''value'': ''Vendor_3''}'
+      required: false
+    - id: 23
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vendor_contact
+      label: vendor_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Email'', ''value'': ''Email''}'
+      - '{''text'': ''Phone'', ''value'': ''Phone''}'
+      - '{''text'': ''In-person'', ''value'': ''In_person''}'
+      required: false
+    - id: 26
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

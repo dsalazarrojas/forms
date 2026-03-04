@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: B2B Contract Agreement Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal name of your business entity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorized_representative
+      label: Authorized Representative Name
+      hint: Person signing on behalf of the company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: representative_title
+      label: Representative Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: representative_email
+      label: Representative Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: representative_phone
+      label: Representative Phone
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_type
+      label: Type of Contract
+      hint: Select the agreement type
+      type: select_one
+      options:
+      - Service Agreement
+      - Partnership Agreement
+      - Vendor Agreement
+      - Consulting Agreement
+      - Distribution Agreement
+      - Other
+      required: true
+    - id: 8
+      name: contract_start_date
+      label: Contract Start Date
+      hint: When does the agreement begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contract_end_date
+      label: Contract End Date
+      hint: When does the agreement end
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: contract_value
+      label: Total Contract Value
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_terms
+      label: Payment Terms
+      hint: Select preferred payment schedule
+      type: select_one
+      options:
+      - Net 15
+      - Net 30
+      - Net 45
+      - Net 60
+      - Upon completion
+      - Milestone-based
+      required: true
+    - id: 12
+      name: scope_of_work
+      label: Scope of Work Description
+      hint: Detailed description of services or deliverables
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confidentiality_clause
+      label: Confidentiality Agreement
+      hint: Do you agree to confidentiality terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 14
+      name: termination_notice
+      label: Termination Notice Period
+      hint: Required notice for contract termination
+      type: select_one
+      options:
+      - 15 days
+      - 30 days
+      - 60 days
+      - 90 days
+      required: true
+    - id: 15
+      name: additional_terms
+      label: Additional Terms and Conditions
+      hint: Any special provisions or amendments
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature_date
+      label: Date of Signature
+      hint: Date when signing this agreement
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: agreement_accepted
+      label: Agreement Acceptance
+      hint: I have read and agree to all terms
+      type: select_one
+      options:
+      - Yes, I accept all terms
+      - No, I do not accept
+      required: true

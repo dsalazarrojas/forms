@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cognitive Learning Study Consent
+    pages:
+    - id: 1
+      name: section_info
+      label: -- Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_name
+      label: Study Name
+      hint: Title of the research study
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: Lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution
+      hint: University or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: study_description
+      label: Study Description
+      hint: Brief overview of the research
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_purpose
+      label: -- Study Purpose --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: understand_purpose
+      label: I understand the purpose of this study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: understand_procedures
+      label: I understand the procedures involved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: section_risks
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: understand_risks
+      label: I understand potential risks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: understand_benefits
+      label: I understand potential benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: section_privacy
+      label: -- Privacy and Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: privacy_protected
+      label: I understand how my privacy will be protected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: data_use
+      label: I understand how my data will be used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: data_retention
+      label: I understand how long my data will be kept
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: section_voluntary
+      label: -- Voluntary Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: voluntary
+      label: I understand my participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: can_withdraw
+      label: I understand I can withdraw at any time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: no_penalty
+      label: I understand there is no penalty for withdrawal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: section_agreement
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: consent_agreement
+      label: I agree to participate in this study
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 27
+      name: questions
+      label: Do you have questions about this study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: contact_name
+      label: Contact Person for Questions
+      hint: Researcher name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 30
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Communication Data Request Form
+    pages:
+    - id: 1
+      name: patient_communication_data_request_form
+      label: Patient Communication Data Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: communication_channels
+      label: Channels Used
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      required: false
+    - id: 3
+      name: communication_frequency
+      label: How Often
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time_of_day
+      label: Time of Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: communication_preferences
+      label: Preferred Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      required: false

@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Waiver Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_info
+      label: Service Information
+      hint: About the activity
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: service_activity
+      label: Service Activity
+      hint: What will you be doing
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: service_location
+      label: Service Location
+      hint: Where will it take place
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: health_info
+      label: Health Information
+      hint: For safety
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: We should know about
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medications
+      label: Current Medications
+      hint: If relevant
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physical_limitations
+      label: Physical Limitations
+      hint: That may affect participation
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance
+      label: Do You Have Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: waiver_section
+      label: Waiver and Release
+      hint: Important legal information
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: risk_acknowledgment
+      label: I Understand There Are Risks
+      hint: I acknowledge potential risks
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - I Do Not Understand
+      required: true
+    - id: 25
+      name: voluntary_participation
+      label: My Participation Is Voluntary
+      hint: I am participating willingly
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 26
+      name: liability_release
+      label: I Release the Organization from Liability
+      hint: To the extent permitted by law
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 27
+      name: medical_treatment
+      label: I Consent to Emergency Medical Treatment
+      hint: If needed during activity
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 28
+      name: photo_release
+      label: Photo and Video Release
+      hint: Organization may take photos
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 29
+      name: rules_agreement
+      label: I Agree to Follow All Rules
+      hint: Safety and conduct rules
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 30
+      name: accuracy_statement
+      label: I Certify This Information Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Certify
+      - No - I Do Not Certify
+      required: true
+    - id: 31
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: guardian_section
+      label: Parent or Guardian Consent
+      hint: If participant is under 18
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: is_minor
+      label: Is Participant Under 18
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: guardian_signature
+      label: Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: guardian_date
+      label: Guardian Date
+      hint: null
+      type: date
+      options: []
+      required: false

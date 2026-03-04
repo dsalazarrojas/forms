@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Dining Application Form
+    pages:
+    - id: 1
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Credit
+      - Check
+      - Cash
+      required: false
+    - id: 2
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: host_name
+      label: Host Name
+      hint: Name of the establishment
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: host_address
+      label: Host Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: host_phone
+      label: Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: host_email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter
+      label: Form Submitter
+      hint: Submitter name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submitter_email
+      label: Form Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Cash
+      - Check
+      required: false
+    - id: 14
+      name: reservation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      required: false
+    - id: 16
+      name: host_phone2
+      label: Host Alternate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: host_email2
+      label: Host Alternate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: notes2
+      label: Additional Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

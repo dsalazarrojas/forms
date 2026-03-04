@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Peer Story Archive Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 5
+      name: non_profit
+      label: Non-profit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Non-profit 1''}'
+      - '{''label'': ''Non-profit 2''}'
+      - '{''label'': ''Non-profit 3''}'
+      required: false
+    - id: 6
+      name: support_group
+      label: Support Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: advocacy_project
+      label: Advocacy Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_instructions
+      label: Form Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

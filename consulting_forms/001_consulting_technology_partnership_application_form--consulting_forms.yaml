@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Technology Partnership Application Form
+    pages:
+    - id: 1
+      name: section_organization_information
+      label: -- Applicant Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Full legal name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_website
+      label: Organization website
+      hint: Provide main website or portfolio URL
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_contact_name
+      label: Primary contact name
+      hint: Person responsible for partnership communications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_email
+      label: Primary contact email
+      hint: Business email for partnership correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: company_technology_expertise
+      label: Technology expertise areas
+      hint: Select the primary technology domains you work in
+      type: select_multiple
+      options:
+      - Cloud infrastructure
+      - AI and machine learning
+      - Data engineering
+      - Mobile and web applications
+      - Embedded systems
+      required: true
+    - id: 7
+      name: partnership_goals
+      label: Partnership goals
+      hint: Briefly describe what you hope to achieve from this partnership
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: typical_project_size
+      label: Typical project size in months
+      hint: Enter whole number of months
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: budget_range
+      label: Budget range
+      hint: Select the approximate budget range for collaborative projects
+      type: select_one
+      options:
+      - Under 25k
+      - 25k to 100k
+      - 100k to 500k
+      - Over 500k
+      required: true
+    - id: 10
+      name: sample_projects
+      label: Recent sample projects
+      hint: List up to three representative projects and links
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: timeline_availability
+      label: Timeline availability
+      hint: Preferred start date for partnership activities
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information the review team should know
+      type: text
+      options: []
+      required: false

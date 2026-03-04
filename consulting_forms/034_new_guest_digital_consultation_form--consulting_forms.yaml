@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Guest Digital Consultation Form
+    pages:
+    - id: 1
+      name: new_guest_digital_consultation_form_consulting_forms
+      label: new_guest_digital_consultation_form__consulting_forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration_of_service
+      label: duration_of_service
+      hint: null
+      type: select_one
+      options:
+      - 15-30
+      - 30-60
+      - 60-90
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 12
+      name: first_contact
+      label: first_contact
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - chat
+      - text
+      required: false
+    - id: 13
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 14
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: confirm_signature
+      label: confirm_signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: confirm_terms_and_conditions
+      label: confirm_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

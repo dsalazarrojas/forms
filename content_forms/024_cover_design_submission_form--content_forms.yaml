@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cover Design Submission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: cover_design_image_url
+      label: cover design image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_time
+      label: submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: cover_design_description
+      label: cover design description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: is_urgent
+      label: is urgent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 9
+      name: submission_type
+      label: submission type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''cover design''}'
+      - '{''id'': 2, ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: submission_status
+      label: submission status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''submitted''}'
+      - '{''id'': 2, ''value'': ''not submitted''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_upload_url
+      label: file upload URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_name
+      label: file name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_size
+      label: file size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: file_type
+      label: file type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_date_uploadeed
+      label: file date uploadeed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: file_time_uploaded
+      label: file time uploaded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: file_status
+      label: file status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''uploaded''}'
+      - '{''id'': 2, ''value'': ''not uploaded''}'
+      required: false
+    - id: 19
+      name: file_url
+      label: file URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file_description
+      label: file description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cover_design_file_size_bytes
+      label: cover design file size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submission_date_due
+      label: submission date due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: submission_time_due
+      label: submission time due
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false

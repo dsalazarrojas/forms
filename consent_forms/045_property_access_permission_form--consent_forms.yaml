@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Access Permission Form
+    pages:
+    - id: 1
+      name: property_access_permission_form_page_1
+      label: property_access_permission_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_request_details
+      label: access_request_details_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: preferred_contact_method_label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Text''}'
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: access_request_date
+      label: access_request_date_label
+      hint: null
+      type: date
+      options: []
+      required: false

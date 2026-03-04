@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chaperone Release Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: chaperone_name
+      label: Chaperone Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For background check
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event or Trip Name
+      hint: What trip or event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_dates
+      label: Event Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: destination
+      label: Trip Destination
+      hint: Where you are going
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_supervised
+      label: Group Being Supervised
+      hint: Number of people
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: age_group
+      label: Age Group of Participants
+      hint: Students or participants ages
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supervision_experience
+      label: Experience Supervising Youth
+      hint: Prior experience
+      type: select_one
+      options:
+      - Extensive Experience
+      - Some Experience
+      - Limited Experience
+      - No Experience
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Important health information
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: liability_acknowledgment
+      label: Acknowledgment of Liability Risks
+      hint: Understand risks of activity
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - 'No'
+      required: true
+    - id: 17
+      name: responsibility_acceptance
+      label: Acceptance of Supervision Responsibility
+      hint: Accept duty of care
+      type: select_one
+      options:
+      - Yes, I Accept
+      - 'No'
+      required: true
+    - id: 18
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Permission for background screening
+      type: select_one
+      options:
+      - Yes, I Consent
+      - 'No'
+      required: true
+    - id: 19
+      name: code_of_conduct_agreement
+      label: Agreement to Code of Conduct
+      hint: Agree to behavioral standards
+      type: select_one
+      options:
+      - Yes, I Agree
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_confirmation
+      label: I Have Read and Agree to Terms
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - 'No'
+      required: true

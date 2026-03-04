@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Information Form Home Buyers
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cobuyer_name
+      label: Co-Buyer Name
+      hint: If buying with another person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cobuyer_phone
+      label: Co-Buyer Phone
+      hint: Co-buyer contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_residence_type
+      label: Current Residence Type
+      hint: What type of home do you live in now
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Townhouse
+      - Condo
+      - Other
+      required: true
+    - id: 7
+      name: first_time_buyer
+      label: First Time Home Buyer
+      hint: Is this your first home purchase
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: timeframe
+      label: Purchase Timeframe
+      hint: When are you looking to buy
+      type: select_one
+      options:
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 9
+      name: budget_range
+      label: Budget Range
+      hint: Your price range
+      type: select_one
+      options:
+      - Less than 200000
+      - 200000 - 300000
+      - 300000 - 400000
+      - 400000 - 500000
+      - 500000 - 750000
+      - Over 750000
+      required: true
+    - id: 10
+      name: property_type_preference
+      label: Preferred Property Type
+      hint: What type of home do you want
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Townhouse
+      - Condo
+      - New Construction
+      - Fixer Upper
+      - Multi-unit Property
+      required: true
+    - id: 11
+      name: location_preferences
+      label: Location Preferences
+      hint: Areas or neighborhoods you prefer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: must_have_features
+      label: Must Have Features
+      hint: Essential features or amenities
+      type: select_multiple
+      options:
+      - Garage
+      - Backyard
+      - Pool
+      - Modern Kitchen
+      - Basement
+      - Fireplace
+      - Large Lot
+      - Other
+      required: false
+    - id: 13
+      name: square_footage
+      label: Preferred Square Footage
+      hint: Approximate size needed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: number_bedrooms
+      label: Number of Bedrooms
+      hint: How many bedrooms do you need
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: number_bathrooms
+      label: Number of Bathrooms
+      hint: How many bathrooms needed
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: school_district
+      label: School District Important
+      hint: Is school quality a priority
+      type: select_one
+      options:
+      - Yes, very important
+      - Somewhat important
+      - Not important
+      - Not applicable
+      required: true
+    - id: 17
+      name: financing_arranged
+      label: Financing Arranged
+      hint: Do you have pre-approval
+      type: select_one
+      options:
+      - Yes, pre-approved
+      - In process
+      - Not yet
+      - Paying cash
+      required: true
+    - id: 18
+      name: open_houses
+      label: Interested in Open Houses
+      hint: Can we notify you of open houses
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 19
+      name: agent_contact_preference
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - In Person
+      required: true

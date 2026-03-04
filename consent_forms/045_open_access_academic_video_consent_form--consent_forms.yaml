@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: open-access-academic-video-consent-form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_information
+      label: Participant Information
+      hint: Please provide information about the participant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purpose_recording_video
+      label: Recording Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: publication_permission
+      label: Publication Permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_consent
+      label: Participant Consent
+      hint: Participant consent is required
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 9
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: consent_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: false

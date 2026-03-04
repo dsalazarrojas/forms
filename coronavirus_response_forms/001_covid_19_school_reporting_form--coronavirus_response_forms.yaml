@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 School Reporting Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: Name of your educational institution
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_district
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: Select the timeframe for this report
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 4
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: staff_section
+      label: -- Staff Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_staff
+      label: Total Staff Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: staff_vaccinated
+      label: Staff Vaccinated
+      hint: Number of fully vaccinated staff
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: staff_partially_vaccinated
+      label: Staff Partially Vaccinated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_section
+      label: -- Student Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_students
+      label: Total Students Enrolled
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: students_vaccinated
+      label: Students Vaccinated
+      hint: Number of fully vaccinated students
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: students_partially_vaccinated
+      label: Students Partially Vaccinated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: cases_section
+      label: -- Recent COVID Cases --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: positive_cases_this_week
+      label: Confirmed Positive Cases This Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: staff_cases
+      label: Cases Among Staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: student_cases
+      label: Cases Among Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: current_outbreak_status
+      label: Current Outbreak Status
+      hint: Select the status at your school
+      type: select_one
+      options:
+      - No active cases
+      - Sporadic cases
+      - Cluster outbreak
+      - School closure
+      required: true
+    - id: 18
+      name: quarantine_count
+      label: Students in Quarantine
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: facilities_section
+      label: -- School Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: in_person_status
+      label: In-Person Classes Status
+      hint: null
+      type: select_one
+      options:
+      - Full in-person
+      - Hybrid learning
+      - Remote only
+      required: true
+    - id: 21
+      name: facilities_closed
+      label: Any Facilities Closed
+      hint: Gym, cafeteria, library, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: contact_person_name
+      label: Report Submitted By - Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

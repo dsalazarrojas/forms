@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Facial Treatments And Chemical Peels Client Consent Form
+    pages:
+    - id: 1
+      name: section_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_skin
+      label: -- Skin History and Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_skin_concerns
+      label: Current Skin Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acne
+      - Hyperpigmentation
+      - Fine Lines
+      - Sensitivity
+      - Dryness
+      required: false
+    - id: 8
+      name: history_of_cold_sores
+      label: History of Cold Sores
+      hint: important for chemical peel safety
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: currently_using_retinoids_or_accutane
+      label: Currently Using Retinoids or Accutane
+      hint: includes prescription skin creams
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: known_allergies_to_skincare_ingredients
+      label: Known Allergies to Skincare Ingredients
+      hint: e.g. aspirin, salicylic acid, nuts
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_consent
+      label: -- Treatment Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: treatment_type
+      label: Treatment Type
+      hint: select the service being performed today
+      type: select_one
+      options:
+      - Chemical Peel
+      - Microdermabrasion
+      - Microneedling
+      - Advanced Facial
+      required: true
+    - id: 13
+      name: consent_statement
+      label: I understand that results vary and side effects like redness or peeling
+        may occur.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: informed_consent_agreement
+      label: Informed Consent Agreement
+      hint: I authorize the clinician to perform the treatment
+      type: select_one
+      options:
+      - I agree to the treatment
+      - I do not agree
+      required: true
+    - id: 15
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: client_signature
+      label: Client Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

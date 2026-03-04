@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Advisory Services Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: challenge
+      label: Challenge
+      hint: What challenge are you facing?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: challenge_select
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - New referral
+      - Online Search
+      - Online ad
+      - Word of mouth
+      required: false
+    - id: 9
+      name: lead_qualify
+      label: How qualified is this lead?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lead_stage
+      label: Lead Stage
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Qualified
+      - Converted
+      - Lost
+      required: true

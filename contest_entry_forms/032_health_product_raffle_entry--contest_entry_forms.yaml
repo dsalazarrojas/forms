@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Product Raffle Entry
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Orange
+      - Grapes
+      - Mango
+      - Watermelon
+      - Pears
+      - Cherries
+      - Apricots
+      - Berries
+      - Avocado
+      - Papaya
+      - Pineapple
+      - Peach
+      - Plum
+      - Kiwi
+      - Strawberry
+      - Pomegranate
+      - Pineapple
+      - Pears
+      - Watermelon
+      - Blueberry
+      - Banana
+      - Mango
+      - Orange
+      - Grapes
+      - Avocado
+      - Pineapple
+      - Pears
+      - Watermelon
+      - Cherries
+      - Blueberry
+      - Pomegranate
+      - Apple
+      - Berries
+      - Kiwi
+      - Apricots
+      - Pears
+      - Pineapple
+      - Pomegranate
+      - Grapes
+      - Apricots
+      - Pears
+      - Pineapple
+      - Pomegranate
+      - Grapes
+      required: true
+    - id: 8
+      name: product_details
+      label: Product Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: how_did_you_hear
+      label: How did you hear?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Google
+      - Instagram
+      - Friends
+      - Family
+      - Online Ads
+      - Email
+      - Word of Mouth
+      - Social Media
+      - Print Media
+      - Radio
+      - TV
+      - Podcasts
+      - Online Influencers
+      - Other
+      required: true
+    - id: 11
+      name: how_prophets
+      label: How Prophets
+      hint: probs
+      type: select_one
+      options:
+      - Facebook
+      - Google
+      - Instagram
+      - Friends
+      - Family
+      - Online Ads
+      - Email
+      - Word of Mouth
+      - Social Media
+      - Print Media
+      - Radio
+      - TV
+      - Podcasts
+      - Online Influencers
+      - Other
+      required: true
+    - id: 12
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_enter
+      label: How did you enter?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - App
+      - In-app
+      - In-store
+      - Phone
+      - Mail
+      - Email
+      - Text
+      - Website
+      - Social Media
+      - Google Search
+      - Facebook
+      - Other
+      required: true
+    - id: 14
+      name: email_opt_in
+      label: Email Opt-in
+      hint: probs
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - UK
+      - Australia
+      - Japan
+      - Other
+      required: true
+    - id: 20
+      name: agree_terms
+      label: Agree Terms
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 21
+      name: agree_privacy
+      label: Agree Privacy
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true

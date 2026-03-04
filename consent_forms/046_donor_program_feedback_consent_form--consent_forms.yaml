@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Program Feedback Consent Form
+    pages:
+    - id: 1
+      name: donor_program_feedback_consent_form_page
+      label: Donor Program Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_feedback
+      label: How would you describe your feedback experience with our Donor Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_program_consent
+      label: We would like to obtain your consent to contact you via
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Mail''}'
+      required: false
+    - id: 4
+      name: consent_frequency
+      label: How often do you wish to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: contact_preference
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Mail''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

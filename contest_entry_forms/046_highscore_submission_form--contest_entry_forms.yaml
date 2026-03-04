@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Highscore Submission Form
+    pages:
+    - id: 1
+      name: highscore_submissions
+      label: Highscore Submissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: proof_url
+      label: Proof URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: username
+      label: Username
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: game_version
+      label: Game Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ranking
+      label: Ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: leaderboard_proof
+      label: Leaderboard Proof
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: proof_upload_description
+      label: Proof Upload Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: proof_upload_title
+      label: Proof Upload Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: proof_url
+      label: Proof URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_platform
+      label: Game Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: proof_upload_type
+      label: Proof Upload Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: proof_upload_format
+      label: Proof Upload Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: proof_upload_size
+      label: Proof Upload Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: proof_upload_size_type
+      label: Proof Upload Size Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: proof_upload_date
+      label: Proof Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: proof_upload_time
+      label: Proof Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: proof_upload_description
+      label: Proof Upload Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

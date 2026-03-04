@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Address Change Declaration Form
+    pages:
+    - id: 1
+      name: declarant_information
+      label: Declarant information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: As currently on record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: old_address
+      label: Old address
+      hint: Previous full address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_address
+      label: New address
+      hint: New full address to update
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: effective_date
+      label: Effective date of change
+      hint: Date change should take effect
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: For confirmation if needed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: identification
+      label: Identification provided
+      hint: ID type and number supporting change
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_change
+      label: Reason for change
+      hint: Optional explanation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature name
+      hint: Typed name for declaration
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true

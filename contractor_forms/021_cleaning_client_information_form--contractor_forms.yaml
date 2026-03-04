@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Client Information Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: Client's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: Client's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Primary Phone Number
+      hint: Phone number to contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_phone_secondary
+      label: Secondary Phone Number
+      hint: Alternate phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Street address of property to be cleaned
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: What type of property is this?
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condo
+      - Office
+      - Commercial Space
+      - Other
+      required: true
+    - id: 14
+      name: property_size_sqft
+      label: Approximate Property Size
+      hint: Square footage or total area
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: number_bedrooms
+      label: Number of Bedrooms
+      hint: For residential properties
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: number_bathrooms
+      label: Number of Bathrooms
+      hint: For residential properties
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_cleaning
+      label: -- Cleaning Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: service_frequency
+      label: Desired Service Frequency
+      hint: How often do you need cleaning?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      - One-Time Service
+      required: true
+    - id: 19
+      name: service_type
+      label: Service Type
+      hint: Type of cleaning service needed
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In/Move-Out
+      - Post-Construction
+      - Carpet Cleaning
+      - Window Cleaning
+      - Other
+      required: true
+    - id: 20
+      name: preferred_cleaning_time
+      label: Preferred Cleaning Time
+      hint: When would you like the service?
+      type: select_one
+      options:
+      - Morning (Before 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (After 5 PM)
+      - Weekend
+      - Flexible
+      required: true
+    - id: 21
+      name: areas_to_clean
+      label: Areas to be Cleaned
+      hint: Select all areas that need cleaning
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathrooms
+      - Bedrooms
+      - Living/Dining Areas
+      - Hallways
+      - Floors
+      - Windows
+      - Carpets
+      - All Areas
+      required: true
+    - id: 22
+      name: section_header_access
+      label: -- Access and Special Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: access_method
+      label: How Will We Access the Property?
+      hint: null
+      type: select_one
+      options:
+      - I will be home
+      - Hidden key location
+      - Keypad code
+      - Other arrangement
+      required: true
+    - id: 24
+      name: access_instructions
+      label: Detailed Access Instructions
+      hint: Provide specific directions if needed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pets_in_home
+      label: Pets in the Home
+      hint: Do you have any pets?
+      type: select_one
+      options:
+      - Yes, Dogs
+      - Yes, Cats
+      - Yes, Other
+      - false
+      required: true
+    - id: 26
+      name: pet_details
+      label: Pet Details
+      hint: Breed, size, temperament, special care needed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any specific cleaning preferences or allergies to cleaning products?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_header_reference
+      label: -- Reference Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: how_found_us
+      label: How Did You Hear About Us?
+      hint: null
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Referral from Friend
+      - Online Review Site
+      - Advertisement
+      - Other
+      required: false
+    - id: 30
+      name: client_date_registered
+      label: Date Registered
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

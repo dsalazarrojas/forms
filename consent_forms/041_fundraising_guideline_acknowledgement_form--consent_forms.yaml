@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Guideline Acknowledgement Form
+    pages:
+    - id: 1
+      name: fundraising_guideline_acknowledgement_form_page_1
+      label: Fundraising Guidelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgement_form_acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Fundraising guidelines will be followed
+      - Fundraising guidelines will not be followed
+      required: false
+    - id: 3
+      name: acknowledgement_form_agreed
+      label: Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 4
+      name: acknowledgement_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acknowledgement_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: acknowledgement_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement_form_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: acknowledgement_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

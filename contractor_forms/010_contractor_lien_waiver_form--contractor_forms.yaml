@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Lien Waiver Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of contractor or company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_address
+      label: Contractor Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contractor_email
+      label: Contractor Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_owner_name
+      label: Property Owner Name
+      hint: Legal name of property owner
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full address of the property
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_legal_description
+      label: Property Legal Description
+      hint: Legal description from deed if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Description of work performed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contract_date
+      label: Original Contract Date
+      hint: Date when contract was signed
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: work_start_date
+      label: Work Start Date
+      hint: When work began
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: work_completion_date
+      label: Work Completion Date
+      hint: When work was completed
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: section_payment_info
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: original_contract_amount
+      label: Original Contract Amount
+      hint: Total value of original contract
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_amount
+      label: Payment Amount Being Made
+      hint: Amount of current payment
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_type
+      label: Payment Type
+      hint: Type of payment being made
+      type: select_one
+      options:
+      - Progress Payment
+      - Final Payment
+      - Retainage Release
+      - Settlement Payment
+      required: true
+    - id: 18
+      name: check_number
+      label: Check Number
+      hint: Check or transaction reference number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: section_waiver_type
+      label: -- Waiver Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: waiver_type
+      label: Type of Lien Waiver
+      hint: Select the type of waiver
+      type: select_one
+      options:
+      - Conditional Waiver on Progress Payment
+      - Unconditional Waiver on Progress Payment
+      - Conditional Waiver on Final Payment
+      - Unconditional Waiver on Final Payment
+      required: true
+    - id: 22
+      name: waiver_period_from
+      label: Waiver Period From
+      hint: Start date of waiver period
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: waiver_period_through
+      label: Waiver Period Through
+      hint: End date of waiver period
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: section_exceptions
+      label: -- Exceptions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: disputed_amounts
+      label: Disputed Amounts
+      hint: Any amounts still in dispute
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: exceptions_description
+      label: Description of Exceptions
+      hint: Describe any exceptions to the waiver
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: authorized_signer_name
+      label: Authorized Signer Name
+      hint: Name of person signing
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: authorized_signer_title
+      label: Authorized Signer Title
+      hint: Title or position
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: notary_required
+      label: Notary Required
+      hint: Does this form require notarization
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

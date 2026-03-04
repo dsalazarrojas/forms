@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Content Release Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: content_type
+      label: Content Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: content_location
+      label: Content Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: content_description
+      label: Content Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: permission_level
+      label: Permission Level
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Confidential
+      required: false
+    - id: 12
+      name: distribution_channels
+      label: Distribution Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Print
+      - Email
+      - Phone
+      - Social Media
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: vendor_signature
+      label: Vendor Signature
+      hint: null
+      type: note
+      options: []
+      required: false

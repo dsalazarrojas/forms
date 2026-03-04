@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Low Code Development Consultation Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_contact
+      label: Lead Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultation_scheduling
+      label: Consultation Scheduling
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 9
+      name: lead_email
+      label: Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: lead_phone
+      label: Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consultation_time
+      label: Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: project_lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: project_lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: lead_qualifications
+      label: Lead Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lead_notes
+      label: Lead Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_lead_comment
+      label: Lead Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Charging Station Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_type
+      label: Inquiriy Type
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Hybrid
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: select_multiple
+      options:
+      - Type
+      - Make
+      - Model
+      - Year
+      - Color
+      required: false
+    - id: 8
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

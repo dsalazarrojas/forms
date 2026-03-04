@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Inspection Entry Consent Form
+    pages:
+    - id: 1
+      name: property_owner
+      label: Property Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_number
+      label: Unit Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Commercial Unit
+      - Other
+      required: true
+    - id: 8
+      name: tenant_name
+      label: Tenant Name
+      hint: If occupied by tenant
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_contact
+      label: Tenant Contact
+      hint: Tenant phone or email
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inspector_company
+      label: Inspector Company
+      hint: Inspection company
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: inspector_license
+      label: Inspector License Number
+      hint: License or certification
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: inspection_type
+      label: Inspection Type
+      hint: Purpose of inspection
+      type: select_one
+      options:
+      - Routine Inspection
+      - Pre-Purchase Inspection
+      - Annual Safety Inspection
+      - Code Compliance
+      - Insurance Requirement
+      - Tenant Complaint
+      - Post-Damage Assessment
+      - Other
+      required: true
+    - id: 14
+      name: inspection_description
+      label: Inspection Description
+      hint: Describe the inspection
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: scheduled_date
+      label: Scheduled Inspection Date
+      hint: When will inspection occur
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: scheduled_time
+      label: Scheduled Time
+      hint: Expected time
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: estimated_duration
+      label: Estimated Duration
+      hint: How long will it take
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - Half Day
+      - Full Day
+      required: true
+    - id: 18
+      name: areas_to_inspect
+      label: Areas to Inspect
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Exterior
+      - Interior All Rooms
+      - Roof
+      - Basement
+      - Attic
+      - Garage
+      - Mechanical Systems
+      - Electrical Panel
+      - Plumbing
+      - HVAC
+      - Other
+      required: true
+    - id: 19
+      name: special_access_needed
+      label: Special Access Needed
+      hint: Any locked areas
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pets_on_property
+      label: Pets on Property
+      hint: Are there pets
+      type: select_one
+      options:
+      - Yes - Will Be Secured
+      - Yes - Will Be Present
+      - false
+      required: true
+    - id: 21
+      name: occupancy_during
+      label: Occupancy During Inspection
+      hint: Will anyone be home
+      type: select_one
+      options:
+      - Yes - Owner Present
+      - Yes - Tenant Present
+      - Yes - Representative Present
+      - No - Property Vacant
+      - No - Inspector Alone
+      required: true
+    - id: 22
+      name: entry_method
+      label: Entry Method
+      hint: How will inspector enter
+      type: select_one
+      options:
+      - Owner Will Be Present
+      - Lockbox
+      - Key Provided
+      - Tenant Will Admit
+      - Other Arrangement
+      required: true
+    - id: 23
+      name: photo_consent
+      label: Photo Consent
+      hint: Consent to take photos
+      type: select_one
+      options:
+      - Yes - For Inspection Report
+      - Yes - For Records Only
+      - No - No Photos
+      required: true
+    - id: 24
+      name: damage_liability
+      label: Damage Liability Acknowledgment
+      hint: Inspector not liable for pre-existing damage
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - I Do Not Understand
+      required: true
+    - id: 25
+      name: privacy_agreement
+      label: Privacy Agreement
+      hint: Inspector will respect privacy
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 26
+      name: consent_valid_until
+      label: Consent Valid Until
+      hint: Expiration date
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: consent_signature
+      label: Consent Acknowledgment
+      hint: I consent to this inspection
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true

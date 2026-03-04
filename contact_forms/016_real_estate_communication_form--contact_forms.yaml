@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_communication_form
+    pages:
+    - id: 1
+      name: new_inquiry
+      label: New Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_appointment
+      label: Schedule an Appointment
+      hint: Please select a date and time
+      type: select_one
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      required: false
+    - id: 3
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS
+      - Mail
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: Please provide your message
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_info
+      label: Real Estate Information
+      hint: Provide your real estate agent information
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: real_estate_license
+      label: Real Estate License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Transformation Story Consent Form
+    pages:
+    - id: 1
+      name: consent
+      label: client consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: client story
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: client_story
+      label: client success story
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: time
+      options: []
+      required: true

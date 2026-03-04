@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Over Service Agreement
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: Enter client name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: voice_over_artist
+      label: voice_over_artist
+      hint: null
+      type: select_one
+      options:
+      - Artist 1
+      - Artist 2
+      - Artist 3
+      - Artist 4
+      required: false
+    - id: 6
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: project_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_terms
+      label: project_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Term 1
+      - Term 2
+      - Term 3
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signed_by
+      label: signed_by
+      hint: Enter name of signatory
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_agreement
+      label: client_agreement
+      hint: null
+      type: select_one
+      options:
+      - Term 1
+      - Term 2
+      - Term 3
+      required: false

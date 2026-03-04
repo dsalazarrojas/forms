@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Salon Venus Nails Bar Consent Form
+    pages:
+    - id: 1
+      name: customer_name_full
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_no_val
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nail_service_cat
+      label: Nail Service Type
+      hint: null
+      type: select_one
+      options:
+      - Manicure
+      - Pedicure
+      - Gel/Acrylic
+      - Nail Art
+      - Removal
+      required: true
+    - id: 4
+      name: temp_reading_val
+      label: Temperature Reading (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: health_status_cat
+      label: Current Health Status
+      hint: null
+      type: select_one
+      options:
+      - Feeling Great
+      - Minor cold symptoms
+      - Recovering from illness
+      required: true
+    - id: 6
+      name: recent_illness_yn
+      label: Have you or anyone in your household been sick in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: venus_safety_agree
+      label: I agree to follow Venus Nails Bar safety protocols
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: risk_assumption_ack
+      label: I assume all risks related to nail treatment during COVID-19
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and assume risk
+      - Other
+      required: true
+    - id: 9
+      name: wash_hands_agree
+      label: I agree to wash or sanitize my hands before treatment begins
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 10
+      name: appt_time_val
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: venus_consent_cert
+      label: I certify that all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarantine Birthday Event Registration Form
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: connection_details
+      label: Connection Details
+      hint: null
+      type: select_multiple
+      options:
+      - Zoom
+      - Second Life
+      required: true
+    - id: 4
+      name: participant_count
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: birthday_wish
+      label: Birthday Wish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tool_id
+      label: Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Painting Estimate Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: select_one
+      options:
+      - Interior
+      - Exterior
+      - Both
+      required: true
+    - id: 4
+      name: minimalist_painting
+      label: Minimalist Painting
+      hint: null
+      type: select_one
+      options:
+      - Interior
+      - Exterior
+      - Both
+      required: true
+    - id: 5
+      name: interior_painting
+      label: Interior Painting
+      hint: null
+      type: select_one
+      options:
+      - Living Room
+      - Kitchen
+      - Bathroom
+      - Bedroom
+      - Hallway
+      - Dining Room
+      - Office/Study
+      - Other
+      required: true
+    - id: 6
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: exterior_painting
+      label: Exterior Painting
+      hint: null
+      type: select_one
+      options:
+      - Fence
+      - Roof
+      - Trim
+      - Siding
+      - Deck
+      required: true
+    - id: 8
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      required: true
+    - id: 12
+      name: painting_schedule
+      label: Painting Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

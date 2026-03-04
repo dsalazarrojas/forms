@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: recurring_credit_card_authorization_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: card_number
+      label: card number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cvv
+      label: cvv
+      hint: Card Verification Value (CVV) - 3-digit code on the back of the card
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exp_date
+      label: expiration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: month
+      label: month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 7
+      name: year
+      label: year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: month_start
+      label: month start
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 9
+      name: day
+      label: day
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: month_end
+      label: month end
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 11
+      name: year_end
+      label: year end
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: month_interval
+      label: charge interval
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1 month
+      - Every 2 months
+      - Every 3 months
+      - Every 4 months
+      - Every 5 months
+      - Every 6 months
+      - Every 7 months
+      - Every 8 months
+      - Every 9 months
+      - Every 10 months
+      - Every 11 months
+      - Every 12 months
+      required: true
+    - id: 13
+      name: amount
+      label: amount
+      hint: The amount that will be charged each interval, e.g. 50.00
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_processor
+      label: payment processor
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Other
+      required: true
+    - id: 15
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Direct Debit
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: card_type
+      label: card type
+      hint: null
+      type: select_one
+      options:
+      - VISA
+      - Mastercard
+      - Amex
+      required: false
+    - id: 18
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: card_number_label
+      label: card number label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: card_expiry_date_label
+      label: card expiry date label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: card_cvv_label
+      label: card cvv label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: card_start_date_label
+      label: card start date label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: card_end_date_label
+      label: card end date label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: card_frequency
+      label: card frequency
+      hint: null
+      type: text
+      options: []
+      required: false

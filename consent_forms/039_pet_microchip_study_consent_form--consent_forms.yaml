@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_microchip_study_consent_form
+    pages:
+    - id: 1
+      name: pet_owners_details
+      label: pet owners details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_micorchip_details
+      label: pet microchip details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pet_owner_consent_prophets
+      label: pet owner consent
+      hint: prophets
+      type: select_one
+      options:
+      - Pet Microchip Study
+      - Other
+      - None
+      required: false
+    - id: 4
+      name: pet_breed
+      label: pet breed
+      hint: null
+      type: select_multiple
+      options:
+      - golden
+      - mixed
+      - Other
+      required: false
+    - id: 5
+      name: pet_color
+      label: pet color
+      hint: null
+      type: select_multiple
+      options:
+      - black
+      - white
+      - gray
+      - golden
+      - brown
+      - blue
+      - green
+      - Other
+      required: false
+    - id: 6
+      name: pet_size
+      label: pet size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pet_weight
+      label: pet weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: owner_signature
+      label: owner signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_of_signature
+      label: date of signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_signature
+      label: time of signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

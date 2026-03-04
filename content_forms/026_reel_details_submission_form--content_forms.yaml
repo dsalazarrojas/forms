@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reel Details Submission Form
+    pages:
+    - id: 1
+      name: reel_details
+      label: Reel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reel_title
+      label: Reel Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reel_description
+      label: Reel Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reel_link
+      label: Reel Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reel_tags
+      label: Reel Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reel_image_url
+      label: Reel Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reel_video_url
+      label: Reel Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reel_video_type
+      label: Reel Video Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Image
+      - Live
+      - Live Stream
+      - Carousel
+      required: false
+    - id: 9
+      name: reel_video_length
+      label: Reel Video Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reel_video_format
+      label: Reel Video Format
+      hint: null
+      type: select_one
+      options:
+      - mp4
+      - mpeg
+      - flv
+      - webm
+      - avi
+      required: false
+    - id: 11
+      name: reel_audio_format
+      label: Reel Audio Format
+      hint: null
+      type: select_one
+      options:
+      - mp3
+      - flac
+      - m4a
+      - m4b
+      required: false
+    - id: 12
+      name: reel_image_width
+      label: Reel Image Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: reel_image_height
+      label: Reel Image Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: reel_image_type
+      label: Reel Image Type
+      hint: null
+      type: select_one
+      options:
+      - JPEG
+      - GIF
+      - PNG
+      - JPG
+      required: false
+    - id: 15
+      name: reel_image_size
+      label: Reel Image Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 16
+      name: reel_video_bitrate
+      label: Reel Video Bitrate
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 17
+      name: reel_video_frame_rate
+      label: Reel Video Frame Rate
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 18
+      name: reel_audio_bitrate
+      label: Reel Audio Bitrate
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 19
+      name: reel_video_codec
+      label: Reel Video Codec
+      hint: null
+      type: select_one
+      options:
+      - h.264
+      - mpeg4
+      - x264
+      - xvid
+      required: false
+    - id: 20
+      name: reel_audio_codec
+      label: Reel Audio Codec
+      hint: null
+      type: select_one
+      options:
+      - mp3
+      - m4a
+      - aac
+      - wav
+      required: false
+    - id: 21
+      name: reel_capture_width
+      label: Reel Capture Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: reel_capture_height
+      label: Reel Capture Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: reel_capture_duration
+      label: Reel Capture Duration
+      hint: null
+      type: select_one
+      options:
+      - short
+      - medium
+      - long
+      required: false
+    - id: 24
+      name: reel_capture_date
+      label: Reel Capture Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: reel_capture_time
+      label: Reel Capture Time
+      hint: null
+      type: time
+      options: []
+      required: false

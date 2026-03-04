@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: travel_movement_declaration_form
+    pages:
+    - id: 1
+      name: daily_health_temperature_check
+      label: Daily health temperature checks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: have_you_traveled_outside
+      label: Have you traveled outside
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      - '{''option3'': ''Maybe''}'
+      required: true
+    - id: 3
+      name: travel_date
+      label: Travel date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_location
+      label: Travel location
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Office''}'
+      - '{''option2'': ''Home''}'
+      - '{''option3'': ''Other''}'
+      required: true
+    - id: 5
+      name: return_time
+      label: Return time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_travel
+      label: Reason for travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_frequency
+      label: Travel frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

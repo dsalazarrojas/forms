@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audition Tape Usage Consent Form
+    pages:
+    - id: 1
+      name: performer_full_name
+      label: Performer Full Name
+      hint: Legal name of performer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performer_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: performer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: performer_address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_verification
+      label: Age Verification
+      hint: Are you 18 years of age or older?
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am a minor
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature (if minor)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_company
+      label: Production Company
+      hint: Name of production company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: production_name
+      label: Production Name
+      hint: Name of production or project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: audition_date
+      label: Audition Date
+      hint: Date of audition recording
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: role_auditioned
+      label: Role Auditioned For
+      hint: Name of role you auditioned for
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tape_content
+      label: Tape Content
+      hint: What does the audition tape contain?
+      type: select_multiple
+      options:
+      - Monologue
+      - Scene reading
+      - Song performance
+      - Dance routine
+      - Cold reading
+      - Improvisation
+      - Other
+      required: true
+    - id: 14
+      name: usage_purpose
+      label: Usage Purpose
+      hint: What is the purpose of tape usage?
+      type: select_multiple
+      options:
+      - Casting decisions
+      - Director review
+      - Producer review
+      - Marketing materials
+      - Internal archives
+      - Training purposes
+      required: true
+    - id: 15
+      name: usage_duration
+      label: Usage Duration
+      hint: How long may the tape be used?
+      type: select_one
+      options:
+      - For this production only
+      - 1 year
+      - 3 years
+      - 5 years
+      - Perpetual
+      required: true
+    - id: 16
+      name: distribution_scope
+      label: Distribution Scope
+      hint: Where may the tape be distributed?
+      type: select_one
+      options:
+      - Internal use only
+      - Production team only
+      - Industry professionals
+      - Public distribution
+      - Unlimited distribution
+      required: true
+    - id: 17
+      name: compensation_for_usage
+      label: Compensation for Usage
+      hint: Will you receive compensation?
+      type: select_one
+      options:
+      - Yes, monetary payment
+      - Yes, consideration for role
+      - No, voluntary submission
+      required: true
+    - id: 18
+      name: exclusivity_clause
+      label: Exclusivity Clause
+      hint: Is this consent exclusive?
+      type: select_one
+      options:
+      - Yes, exclusive to this production
+      - No, non-exclusive
+      - Limited exclusivity
+      required: true
+    - id: 19
+      name: deletion_request
+      label: Deletion Request
+      hint: Can you request tape deletion?
+      type: select_one
+      options:
+      - Yes, may request deletion
+      - Yes, automatic deletion after period
+      - No, tape will be retained
+      required: true
+    - id: 20
+      name: liability_release
+      label: Liability Release
+      hint: I release the company from claims related to tape usage
+      type: select_one
+      options:
+      - Yes, I release liability
+      - No, I do not agree
+      required: true
+    - id: 21
+      name: performer_signature
+      label: Performer Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

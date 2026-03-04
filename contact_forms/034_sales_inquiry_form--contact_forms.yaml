@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_request
+      label: customer_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_type
+      label: contact_type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      required: false
+    - id: 6
+      name: additional_questions
+      label: additional_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: salesperson
+      label: salesperson
+      hint: null
+      type: text
+      options: []
+      required: false

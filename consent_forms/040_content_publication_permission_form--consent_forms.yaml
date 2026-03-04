@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Publication Permission Form
+    pages:
+    - id: 1
+      name: content_creator_name
+      label: Content Creator Name
+      hint: Full name of content creator
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: content_creator_email
+      label: Content Creator Email
+      hint: Email address of creator
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: content_creator_phone
+      label: Content Creator Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publisher_name
+      label: Publisher Name
+      hint: Name of person or organization publishing
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: publisher_email
+      label: Publisher Email
+      hint: Email of publisher
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: permission_date
+      label: Permission Date
+      hint: Date of this permission request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: content_title
+      label: Content Title
+      hint: Title of content to be published
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: content_description
+      label: Content Description
+      hint: Describe the content
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_type
+      label: Content Type
+      hint: What format is the content?
+      type: select_one
+      options:
+      - Article
+      - Blog Post
+      - Photograph
+      - Video
+      - Audio Recording
+      - Illustration
+      - Written Work
+      - Multiple Types
+      required: true
+    - id: 10
+      name: publication_name
+      label: Publication Name
+      hint: Name of publication or platform
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: publication_type
+      label: Publication Type
+      hint: What type of publication is this?
+      type: select_one
+      options:
+      - Online Website
+      - Print Magazine
+      - Print Newspaper
+      - Academic Journal
+      - Book
+      - Social Media
+      - Newsletter
+      - Multiple Platforms
+      required: true
+    - id: 12
+      name: publication_url
+      label: Publication URL
+      hint: Website URL if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: permission_type
+      label: Permission Type
+      hint: What type of permission is granted?
+      type: select_one
+      options:
+      - One-Time Publication
+      - Multiple Publications
+      - Unlimited Publication
+      - Exclusive Rights
+      - Non-Exclusive Rights
+      required: true
+    - id: 14
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where can content be published?
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 15
+      name: language_rights
+      label: Language Rights
+      hint: In what languages can content be published?
+      type: select_one
+      options:
+      - English Only
+      - Specific Languages
+      - Any Language
+      required: true
+    - id: 16
+      name: modification_permission
+      label: Modification Permission
+      hint: Can content be edited or modified?
+      type: select_one
+      options:
+      - No Modifications Allowed
+      - Minor Edits Allowed
+      - Significant Edits Allowed
+      - Full Modification Rights
+      required: true
+    - id: 17
+      name: attribution_requirement
+      label: Attribution Requirement
+      hint: How should creator be credited?
+      type: select_one
+      options:
+      - Full Attribution Required
+      - Partial Attribution
+      - No Attribution Required
+      - Anonymous Publication
+      required: true
+    - id: 18
+      name: attribution_format
+      label: Attribution Format
+      hint: How should credit appear?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: compensation
+      label: Compensation
+      hint: Is there payment for publication?
+      type: select_one
+      options:
+      - No Compensation
+      - One-Time Fee
+      - Royalty Payment
+      - Revenue Share
+      - Trade Agreement
+      required: true
+    - id: 20
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Specify amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: publication_timeline
+      label: Publication Timeline
+      hint: When will content be published?
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - No Specific Timeline
+      required: true
+    - id: 22
+      name: permission_duration
+      label: Permission Duration
+      hint: How long is permission valid?
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Perpetual
+      required: true
+    - id: 23
+      name: exclusivity
+      label: Exclusivity
+      hint: Is this permission exclusive?
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      - Semi-Exclusive
+      required: true
+    - id: 24
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: permission_granted
+      label: Permission Granted
+      hint: Do you grant permission for publication?
+      type: select_one
+      options:
+      - Yes, I Grant Permission
+      - No, I Do Not Grant Permission
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_measures_checklist
+    pages:
+    - id: 1
+      name: check_symptoms
+      label: Check Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: take_temperature
+      label: Take Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: check_vaccination_status
+      label: Check Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Vaccinated
+      - Not vaccinated
+      - Unknown
+      required: false
+    - id: 4
+      name: check_travel_history
+      label: Check Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - Recent international travel
+      - Contact with confirmed case
+      - None of above
+      required: false
+    - id: 5
+      name: check_symptom_status
+      label: Symptom Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active symptoms
+      - None
+      - Recovered
+      required: false
+    - id: 6
+      name: check_contact
+      label: Check Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Exposed to COVID-19
+      - Has contact with confirmed case
+      - None
+      required: false
+    - id: 7
+      name: check_temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: check_travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - No travel plans
+      - Traveling
+      - Recently returned to work
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

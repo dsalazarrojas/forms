@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Waiver Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: waiver_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: signature_1
+      label: Parent Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: signature_2
+      label: Student Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false

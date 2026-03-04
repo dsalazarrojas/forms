@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baking Contest Application Form
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Baking Contest Application --
+        hint: Apply to compete in our baking contest
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: applicant_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: applicant_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: organization
+        label: Bakery or Organization Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_contest
+        label: -- Contest Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: contest_category
+        Label: Contest Category
+        hint: null
+        type: select_one
+        options:
+          - Bread
+          - Cake
+          - Pastries
+          - Cookies
+          - Chocolate
+          - Decorative Baking
+          - Innovation
+          - Student Category
+        required: true
+      - id: 8
+        name: entry_name
+        Label: Name of Your Entry
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: entry_description
+        Label: Detailed Description of Your Entry
+        hint: Ingredients, inspiration, techniques used
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_experience
+        label: -- Experience and Background --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: baking_experience
+        Label: Years of Baking Experience
+        hint: null
+        type: integer
+        options: []
+        required: true
+      - id: 12
+        name: professional_status
+        Label: Professional Status
+        hint: null
+        type: select_one
+        options:
+          - Professional Baker
+          - Amateur
+          - Hobbyist
+          - Student
+        required: true
+      - id: 13
+        name: previous_awards
+        Label: Previous Awards or Recognition
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: section_entry_details
+        label: -- Entry Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: main_ingredient_focus
+        Label: Main Ingredient or Focus
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: special_techniques
+        Label: Special Techniques or Methods
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: flavor_profile
+        Label: Flavor Profile
+        hint: Sweet, savory, etc.
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_logistics
+        label: -- Logistics and Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: submission_method
+        Label: How Will You Submit Your Entry?
+        hint: null
+        type: select_one
+        options:
+          - In-Person
+          - Delivery Service
+          - Postal Service
+          - Other
+        required: true
+      - id: 20
+        name: submission_date
+        Label: Planned Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 21
+        name: section_agreement
+        label: -- Contest Agreement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: rules_agreement
+        Label: I Agree to All Contest Rules
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 23
+        name: original_work
+        Label: This Is Original Work
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true
+      - id: 24
+        name: rights_release
+        Label: Release Consent for Photos and Promotion
+        hint: null
+        type: select_one
+        options:
+          - I Consent
+          - I Do Not Consent
+        required: true
+      - id: 25
+        name: application_submission
+        Label: I Submit This Contest Application
+        hint: null
+        type: select_one
+        options:
+          - Submit Application
+          - Save for Later
+        required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Photo Contest Registration Form
+    pages:
+    - id: 1
+      name: entrant_name
+      label: Entrant name
+      hint: Parent or guardian name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_name
+      label: Child name
+      hint: As appears on entry
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_of_child
+      label: Age of child
+      hint: Age at time of submission in months or years
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Contact email
+      hint: For notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Contact phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_title
+      label: Photo title
+      hint: Brief caption
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Contest category
+      hint: Choose one
+      type: select_one
+      options:
+      - Best smile
+      - Best candid
+      - Most creative
+      - Cutest outfit
+      required: true
+    - id: 8
+      name: consent_release
+      label: Consent and release
+      hint: Permission to use photo for promotion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: submission_notes
+      label: Submission notes
+      hint: Any additional details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entry_date
+      label: Entry date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

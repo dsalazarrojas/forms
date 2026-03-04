@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTA Event Suggestion Contact Form
+    pages:
+    - id: 1
+      name: event_suggestion
+      label: Event Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_multiple
+      options:
+      - Event
+      - Fundraiser
+      - Game
+      - Meeting
+      required: false
+    - id: 8
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Homecoming Dance
+      - School
+      required: false

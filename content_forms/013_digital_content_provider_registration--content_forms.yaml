@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Content Provider Registration
+    pages:
+    - id: 1
+      name: creator_name
+      label: Creator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: creator_email
+      label: Creator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: portfolio_url
+      label: Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: portfolio_sample
+      label: Portfolio sample
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: portfolio_sample_alt
+      label: Alternate portfolio sample
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: content_type
+      label: Content type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Video'', ''value'': ''video''}'
+      - '{''id'': 11, ''label'': ''Audio'', ''value'': ''audio''}'
+      - '{''id'': 12, ''label'': ''Image'', ''value'': ''image''}'
+      - '{''id'': 13, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: content_length
+      label: Content length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: content_description
+      label: Content description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: content_sample_file
+      label: Content Sample
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: content_sample_alt
+      label: Alternate content sample
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_address
+      label: Contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_social_media
+      label: Social media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_other
+      label: Other contact info
+      hint: null
+      type: text
+      options: []
+      required: false

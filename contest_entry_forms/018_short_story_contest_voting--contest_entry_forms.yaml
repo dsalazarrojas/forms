@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: short_story_contest_voting
+    pages:
+    - id: 1
+      name: vote_for_story
+      label: Vote For Story
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Vote Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reader_comments
+      label: Reader Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reader_voted
+      label: Has Reader Voted
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: submit_vote
+      label: Submit Vote
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: manuscript
+      label: Manuscript
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: abstract
+      label: Abstract
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: file_attachment
+      label: File Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: keywords
+      label: Keywords
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manuscript_type
+      label: Manuscript Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: manuscript_status
+      label: Manuscript Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: article_type
+      label: Article Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: manuscript_id
+      label: Manuscript ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: article_id
+      label: Article ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: editor_comments
+      label: Editor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: file_attachment_2
+      label: File Attachment 2
+      hint: null
+      type: text
+      options: []
+      required: false

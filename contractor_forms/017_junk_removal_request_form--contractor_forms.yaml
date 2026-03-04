@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junk Removal Request Form
+    pages:
+    - id: 1
+      name: junk_removal_request_form
+      label: Junk Removal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: items_to_removal
+      label: Items To Removal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: junk_removal_business
+      label: Junk Removal Business
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Junk Removal Service''}'
+      - '{''value'': ''Garage Sale''}'
+      required: true
+    - id: 7
+      name: date_and_time
+      label: Date And Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: junk_removal_service
+      label: Junk Removal Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 14
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chatjimmy''}'
+      - '{''value'': ''Another User''}'
+      required: true
+    - id: 18
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 19
+      name: confirmation_required
+      label: Confirmation Required
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 20
+      name: confirmation_code
+      label: Confirmation Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirmation_sent
+      label: Confirmation Sent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 22
+      name: confirmation_method
+      label: Confirmation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''SMS''}'
+      required: true
+    - id: 23
+      name: confirmation_code_required
+      label: Confirmation Code Required
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 24
+      name: date_confirmation
+      label: Date Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

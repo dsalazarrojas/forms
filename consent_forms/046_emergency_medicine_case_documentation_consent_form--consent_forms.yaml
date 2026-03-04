@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_medicine_case_documentation_consent_form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization
+      label: Authorization
+      hint: Please select all applicable options
+      type: select_multiple
+      options:
+      - Emergency Departments
+      - Clinics
+      - Hospitals
+      required: true
+    - id: 3
+      name: case_info
+      label: Case Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: Please select one option
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_info
+      label: Emergency Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: authorization_details
+      label: Authorization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: Please sign and date the form
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: Please select all applicable options
+      type: select_multiple
+      options:
+      - Penicillin
+      - Aspirin
+      - Codeine
+      required: true
+    - id: 11
+      name: emergency_services
+      label: Emergency Services
+      hint: Does the patient have any emergency services?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: insurance
+      label: Insurance
+      hint: Does the patient have any insurance coverage?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_status
+      label: Patient Status
+      hint: Please select all applicable options
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Deceased
+      required: true
+    - id: 15
+      name: case_type
+      label: Case Type
+      hint: Please select all applicable options
+      type: select_multiple
+      options:
+      - Urgent
+      - Emergency
+      - Elective
+      required: true
+    - id: 16
+      name: case_severity
+      label: Case Severity
+      hint: Please select all applicable options
+      type: select_multiple
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 17
+      name: case_location
+      label: Case Location
+      hint: Please select all applicable options
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinic
+      - Home
+      required: true
+    - id: 18
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_status
+      label: Case Status
+      hint: What is the current status of the case?
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Discharged
+      required: true
+    - id: 20
+      name: consent_version
+      label: Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

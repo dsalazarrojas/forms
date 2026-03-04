@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution And Promotion Agreement Form
+    pages:
+    - id: 1
+      name: distribution_and_promotion_agreement_form
+      label: distribution_and_promotion_agreement_form_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_details
+      label: agreement_details_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contract_file
+      label: contract_file_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signatures
+      label: signatures_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email_label
+      hint: null
+      type: email
+      options: []
+      required: false

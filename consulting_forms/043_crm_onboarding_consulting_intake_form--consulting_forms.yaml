@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Onboarding Consulting Intake Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: industry
+      label: Industry or Business Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-200)
+      - Large (201-1000)
+      - Enterprise (1000+)
+      required: true
+    - id: 5
+      name: primary_contact
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: crm_experience
+      label: CRM Experience Level
+      hint: Your team's CRM expertise
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Moderate experience
+      - Extensive experience
+      required: true
+    - id: 10
+      name: current_crm
+      label: Currently Using CRM System
+      hint: If yes, which CRM
+      type: select_one
+      options:
+      - Salesforce
+      - HubSpot
+      - Microsoft Dynamics
+      - Pipedrive
+      - Zoho
+      - Other
+      - Not using CRM
+      required: true
+    - id: 11
+      name: current_crm_name
+      label: Current CRM System Name
+      hint: If using other CRM
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: onboarding_goals
+      label: Main Onboarding Goals
+      hint: What you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_challenges
+      label: Current Business Challenges
+      hint: Problems that CRM will help solve
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: required_features
+      label: Required CRM Features
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Sales pipeline management
+      - Contact management
+      - Lead scoring
+      - Workflow automation
+      - Reporting and analytics
+      - Email integration
+      - Mobile app
+      - API access
+      - Integration with other systems
+      required: true
+    - id: 15
+      name: data_migration
+      label: Data Migration Needed
+      hint: Import existing data
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: data_source
+      label: Data Source for Migration
+      hint: Current system or format
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_size
+      label: CRM User Team Size
+      hint: Number of team members using CRM
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: training_needs
+      label: Training and Support Needs
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - User training
+      - Administrator training
+      - Documentation
+      - Ongoing support
+      - Custom development
+      required: false
+    - id: 19
+      name: timeline
+      label: Preferred Timeline
+      hint: When should onboarding be complete
+      type: select_one
+      options:
+      - 2-4 weeks
+      - 1 month
+      - 2-3 months
+      - 3-6 months
+      - 6+ months
+      - Flexible
+      required: true
+    - id: 20
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Approximate budget for project
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-15000
+      - 15000-25000
+      - 25000-50000
+      - Over 50000
+      - To be determined
+      required: true

@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Research Participation Consent Form
+    pages:
+    - id: 1
+      name: study_identifiers_header
+      label: '--- Study and Researcher Information ---'
+      hint: Details regarding the research project.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Research Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: principal_investigator
+      label: Principal Investigator (PI) Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institutional_affiliation
+      label: Institutional Affiliation
+      hint: e.g., University, Lab, or Research Center
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: irb_approval_info
+      label: IRB Approval Number
+      hint: Internal Ethics Review Board Reference
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_details_header
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: study_disclosure_note
+      label: '--- Study Disclosure and Purpose ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: study_purpose_desc
+      label: Purpose of Research
+      hint: This study investigates human interaction with Artificial Intelligence
+        models. We aim to understand how users perceive AI-generated content and its
+        impact on decision-making. Your participation will involve interacting with
+        an AI interface and answering survey questions.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: risk_benefit_acknowledgment
+      label: Understanding of Risks & Benefits
+      hint: I acknowledge that there are no significant physical risks, but I may
+        experience cognitive frustration or encounter biased information typical of
+        experimental AI. There may be no direct benefit to me other than helping scientific
+        progress.
+      type: select_one
+      options:
+      - label: I understand and acknowledge
+        value: acknowledged
+      - Other
+      required: true
+    - id: 13
+      name: participation_consent
+      label: Informed Consent for Participation
+      hint: Do you voluntarily agree to participate in this study?
+      type: select_one
+      options:
+      - label: Yes, I consent to participate
+        value: true
+      - label: No, I do not consent
+        value: false
+      required: true
+    - id: 14
+      name: data_sharing_consent
+      label: Data Sharing & Publication Consent
+      hint: Do you consent to having your anonymized data used in scientific publications
+        and shared in open research repositories?
+      type: select_one
+      options:
+      - label: Yes, I consent to anonymized data sharing
+        value: true
+      - label: No, only use my data for this specific study
+        value: false
+      required: true
+    - id: 15
+      name: recording_consent
+      label: Consent to Audio/Video Recording
+      hint: Does the study have permission to record your session for later analysis?
+      type: select_one
+      options:
+      - label: Yes, I consent to being recorded
+        value: true
+      - label: No, I do not consent to recording
+        value: false
+      - label: Not applicable for this study
+        value: na
+      required: true
+    - id: 16
+      name: withdrawal_rights_ack
+      label: Right to Withdraw Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - label: I understand I can stop participating at any time without penalty or
+          loss of compensation.
+        value: understood
+      - Other
+      required: true
+    - id: 17
+      name: signature_confirmation
+      label: Participant Digital Signature
+      hint: null
+      type: select_one
+      options:
+      - label: I sign and confirm my agreement to the terms above.
+        value: signed
+      - Other
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: researcher_contact_note
+      label: '--- Questions or Concerns? ---'
+      hint: If you have any questions, please contact the PI at the email listed above.
+      type: note
+      options: []
+      required: false

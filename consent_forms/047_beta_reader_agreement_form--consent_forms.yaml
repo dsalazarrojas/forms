@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beta Reader Agreement Form
+    pages:
+    - id: 1
+      name: agreement_intro_header
+      label: -- Beta Reader Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reader_full_name
+      label: Reader Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reader_email_addr
+      label: Reader Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: manuscript_title_text
+      label: Manuscript Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: author_full_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_due_date
+      label: Expected Feedback Date
+      hint: When you plan to return your notes
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: confidentiality_header
+      label: -- Confidentiality and Non-Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: nda_agreement_status
+      label: NDA Agreement
+      hint: I agree to keep all content confidential
+      type: select_one
+      options:
+      - I agree to the terms
+      - I do not agree
+      required: true
+    - id: 9
+      name: third_party_sharing_ack
+      label: I will not share the manuscript with anyone else
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 10
+      name: distribution_restriction_ack
+      label: I will not distribute or copy the manuscript
+      hint: Includes digital and physical copies
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: feedback_expectations_header
+      label: -- Feedback Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feedback_focus_areas
+      label: Primary Areas of Focus for Feedback
+      hint: What should the author pay attention to
+      type: select_multiple
+      options:
+      - Plot and Story Arc
+      - Character Development
+      - Pacing and Flow
+      - Tone and Voice
+      - Dialogue and Interaction
+      - Grammar and Style
+      - Consistency and World-building
+      - Other
+      required: true
+    - id: 13
+      name: feedback_format_choice
+      label: Preferred Feedback Format
+      hint: How will you provide your notes
+      type: select_one
+      options:
+      - Inline Comments (MS Word/Google Docs)
+      - Separate Review Document
+      - Verbal Discussion (Call/Video)
+      - Structured Survey
+      required: true
+    - id: 14
+      name: rights_credit_header
+      label: -- Rights and Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ownership_rights_ack
+      label: I understand I have no ownership rights to the work
+      hint: All rights remain with the author
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 16
+      name: acknowledgment_interest
+      label: Would you like to be mentioned in the acknowledgments
+      hint: In the published version of the book
+      type: select_one
+      options:
+      - Yes - Please mention me
+      - No - Thank you
+      - Depends on the final version
+      required: true
+    - id: 17
+      name: acknowledgment_name_input
+      label: Name as it should appear in acknowledgments
+      hint: Exact spelling please
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: final_confirmation_header
+      label: -- Final Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: author_notes_text
+      label: Any additional notes for the author
+      hint: Final thoughts or specific requests
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: electronic_signature_input
+      label: Electronic Signature
+      hint: Typing your name acts as a legal signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: agreement_date_stamp
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Booking System
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultant_selection
+      label: Select Consultant
+      hint: Choose your preferred consultant
+      type: select_one
+      options:
+      - Any Available Consultant
+      - Dr. Sarah Johnson
+      - Michael Chen
+      - Emily Rodriguez
+      - David Thompson
+      - Lisa Anderson
+      - James Wilson
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: Type of consultation needed
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow-up Session
+      - Strategy Session
+      - Review and Analysis
+      - Implementation Support
+      - Training Session
+      - Other
+      required: true
+    - id: 8
+      name: consultation_topic
+      label: Consultation Topic
+      hint: Main topic or focus area
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_date
+      label: Preferred Date
+      hint: Select your preferred appointment date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Time
+      hint: Select your preferred time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 11
+      name: consultation_format
+      label: Consultation Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - Email Consultation
+      required: true
+    - id: 12
+      name: session_duration
+      label: Session Duration
+      hint: How long do you need
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 1 Hour
+      - 1.5 Hours
+      - 2 Hours
+      required: true
+    - id: 13
+      name: number_of_participants
+      label: Number of Participants
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: participant_names
+      label: Participant Names
+      hint: List names of all attendees
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accessibility or technical needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: background_information
+      label: Background Information
+      hint: Provide context for the consultation
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: goals_for_session
+      label: Goals for This Session
+      hint: What do you hope to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: documents_to_review
+      label: Documents to Review
+      hint: List any documents the consultant should preview
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_client
+      label: Are You a Previous Client
+      hint: Have you worked with us before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Previous Client
+      - Advertisement
+      - Conference
+      - Other
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this session
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Invoice to Company
+      - Insurance
+      - Other
+      required: false
+    - id: 22
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 23
+      name: booking_date
+      label: Booking Date
+      hint: Date of this booking request
+      type: date
+      options: []
+      required: true

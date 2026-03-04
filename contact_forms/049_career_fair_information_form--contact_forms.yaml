@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Fair Information Form
+    pages:
+    - id: 1
+      name: exhibitor_header
+      label: -- Exhibitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Name of exhibiting organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary exhibitor contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: booth_requirements
+      label: Booth requirements
+      hint: Power space furniture needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_reps
+      label: Number of representatives
+      hint: How many staff will attend
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: internet_needs
+      label: Internet needs
+      hint: Wifi or wired requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: promotional_materials
+      label: Promotional materials to bring
+      hint: Brochures swag or demo equipment
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special requests
+      hint: Any other event accommodations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_terms
+      label: Agree to exhibitor terms and rules
+      hint: Required to participate
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

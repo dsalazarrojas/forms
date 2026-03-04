@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Counseling Waiver Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_signed
+      label: Date Signed
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: mental_health_counseling_services
+      label: Mental Health Counseling Services
+      hint: null
+      type: select_multiple
+      options:
+      - Cognitive Therapy
+      - Individual Counseling
+      - Group Counseling
+      - Family Therapy
+      required: true
+    - id: 4
+      name: acknowledgment_of_risks
+      label: Acknowledgment of Risks
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the risks involved with mental health services.
+      - I have not read and do not understand the risks involved with mental health
+        services.
+      required: true
+    - id: 5
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms and conditions.
+      - I have not read and do not agree to the terms and conditions.
+      required: true
+    - id: 6
+      name: mental_health_counseling_goals
+      label: Mental Health Counseling Goals
+      hint: What are the client's mental health counseling goals?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship to Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: true

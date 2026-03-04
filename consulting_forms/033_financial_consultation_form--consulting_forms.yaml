@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Consultation Form
+    pages:
+    - id: 1
+      name: financial_consultation_form
+      label: Financial Consultation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_adviser
+      label: financial_adviser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: financial_products
+      label: financial_products
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: financial_products_options
+      label: financial_products_options
+      hint: null
+      type: select_one
+      options:
+      - optionA
+      - optionB
+      - optionC
+      required: true
+    - id: 6
+      name: additional_financial_products
+      label: additional_financial_products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: financial_consultation_date
+      label: Financial Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: financial_consultation_time
+      label: Financial Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

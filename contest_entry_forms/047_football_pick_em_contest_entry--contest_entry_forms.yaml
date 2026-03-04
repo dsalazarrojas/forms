@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Pick'em Contest Entry
+    pages:
+    - id: 1
+      name: week
+      label: Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: game_id
+      label: Game ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_points
+      label: Team Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submit_date
+      label: Form Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: form_submit_time
+      label: Form Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_user_agent
+      label: Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_referrer
+      label: Submission Referrer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organizer_name
+      label: Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: organizer_email
+      label: Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: organizer_phone
+      label: Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organizer_address
+      label: Organizer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contest_name
+      label: Contest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contest_id
+      label: Contest ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: contest_start_date
+      label: Contest Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: contest_end_date
+      label: Contest End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: rule_1
+      label: Rule 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: rule_2
+      label: Rule 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: rule_3
+      label: Rule 3
+      hint: null
+      type: text
+      options: []
+      required: true

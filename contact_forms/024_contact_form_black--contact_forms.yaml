@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Black
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Your Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_time
+      label: Preferred Time for Contact
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      required: true
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS/Text
+      required: true
+    - id: 7
+      name: section_inquiry_details
+      label: -- Inquiry Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_category
+      label: Inquiry Category
+      hint: Select the best match
+      type: select_one
+      options:
+      - Sales Inquiry
+      - Support Request
+      - Business Partnership
+      - Media Inquiry
+      - Other
+      required: true
+    - id: 9
+      name: message_subject
+      label: Subject of Inquiry
+      hint: Provide a brief summary
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: detailed_message
+      label: Your Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: urgency_of_inquiry
+      label: Urgency Level
+      hint: How quickly do you need a response?
+      type: select_one
+      options:
+      - Urgent - High
+      - Normal - Medium
+      - Low - Informational
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

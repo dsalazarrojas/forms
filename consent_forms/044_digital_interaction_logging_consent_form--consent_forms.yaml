@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Interaction Logging Consent Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interaction_type
+      label: Interaction Type
+      hint: null
+      type: select_one
+      options:
+      - Monitoring
+      - Recording
+      required: false
+    - id: 3
+      name: consent_to_interactions
+      label: Consent To Interactions
+      hint: null
+      type: select_multiple
+      options:
+      - Monitoring
+      - Recording
+      - Recording and Monitoring
+      required: false
+    - id: 4
+      name: interaction_details
+      label: Interaction Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: interaction_start_time
+      label: Interaction Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: interaction_end_time
+      label: Interaction End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: interaction_log
+      label: Interaction Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false

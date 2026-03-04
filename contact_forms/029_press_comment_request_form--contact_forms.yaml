@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Press Comment Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment_request
+      label: Comment request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: press_type
+      label: Press type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Newspaper''}'
+      - '{''id'': 2, ''label'': ''Magazine''}'
+      - '{''id'': 3, ''label'': ''Online news site''}'
+      required: true
+    - id: 9
+      name: press_frequency
+      label: Press frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 10
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: date_time
+      label: Date and time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comment_request
+      label: Comment request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: press_type
+      label: Press type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Newspaper''}'
+      - '{''id'': 2, ''label'': ''Magazine''}'
+      - '{''id'': 3, ''label'': ''Online news site''}'
+      required: false
+    - id: 23
+      name: press_frequency
+      label: Press frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: date_time
+      label: Date and time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: comment_request
+      label: Comment request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: press_comment
+      label: Press comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: press_frequency
+      label: Press frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 35
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 38
+      name: date_time
+      label: Date and time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: press_type
+      label: Press type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Newspaper''}'
+      - '{''id'': 2, ''label'': ''Magazine''}'
+      - '{''id'': 3, ''label'': ''Online news site''}'
+      required: false
+    - id: 41
+      name: press_comment
+      label: Press comment
+      hint: null
+      type: text
+      options: []
+      required: false

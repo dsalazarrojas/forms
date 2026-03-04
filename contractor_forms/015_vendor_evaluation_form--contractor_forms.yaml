@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Evaluation Form
+    pages:
+    - id: 1
+      name: vendor_evaluation_form
+      label: vendor_evaluation_form_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_name
+      label: vendor_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_contact_information
+      label: vendor_contact_information_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: evaluation_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: rating_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: true
+    - id: 6
+      name: vendor_comments
+      label: vendor_comments_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_sent
+      label: email_sent_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: phone_number_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: submitted_by_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_on
+      label: submitted_on_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: vendor_evaluation_form_comments
+      label: vendor_evaluation_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false

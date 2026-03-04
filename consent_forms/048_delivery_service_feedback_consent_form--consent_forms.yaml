@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: delivery_service_feedback_consent_form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_experiences
+      label: Delivery Experiences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_and_suggestions
+      label: Feedback and Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_for_data_use
+      label: Consent for Data Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_service_improvement
+      label: Delivery Service Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_experience_improvement
+      label: Customer Experience Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

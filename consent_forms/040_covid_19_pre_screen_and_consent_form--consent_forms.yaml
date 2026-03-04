@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pre Screen and Consent Form
+    pages:
+    - id: 1
+      name: section_participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_health_screening
+      label: -- Health Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fever_symptom
+      label: Do you have fever or chills?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: cough_symptom
+      label: Do you have a cough?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: breath_symptom
+      label: Do you have shortness of breath or difficulty breathing?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: taste_smell_symptom
+      label: Have you lost your sense of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: other_symptoms
+      label: Other COVID-19 symptoms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_exposure_risk
+      label: -- Exposure Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: covid_positive
+      label: Have you tested positive for COVID-19 in the past 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: close_contact_positive
+      label: Have you been in close contact with a confirmed COVID-19 case?
+      hint: In the past 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 16
+      name: recent_travel
+      label: Have you traveled to a high-risk area recently?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: section_health_conditions
+      label: -- Pre-existing Health Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: chronic_illness
+      label: Do you have chronic health conditions?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: condition_list
+      label: If yes, describe conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: immunocompromised_status
+      label: Are you immunocompromised?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 21
+      name: section_consent_agreement
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: understand_questions
+      label: I have answered all questions truthfully and accurately
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: understand_procedures
+      label: I understand the screening and procedures
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: consent_services
+      label: I consent to receive COVID-19 screening and services
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

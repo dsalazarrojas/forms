@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Contact Form V3
+    pages:
+    - id: 1
+      name: welcome_message
+      label: -- Get in Touch --
+      hint: Please fill out the form below to contact our team.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Company or Organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Nature of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Media/Press
+      - Jobs
+      - Other
+      required: true
+    - id: 8
+      name: message_details
+      label: Message Details
+      hint: Please be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - High
+      - Critical
+      required: true
+    - id: 10
+      name: find_us
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Word of Mouth
+      - Advertisement
+      - Event
+      required: false
+    - id: 11
+      name: terms_agreement
+      label: I agree to the privacy policy and terms of service
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 12
+      name: form_footer
+      label: -- Thank you for contacting us! --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: request_id
+      label: Internal Request ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: referral_code
+      label: Referral Code
+      hint: null
+      type: text
+      options: []
+      required: false

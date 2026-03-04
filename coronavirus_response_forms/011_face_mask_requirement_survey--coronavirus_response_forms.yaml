@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Face Mask Requirement Survey
+    pages:
+    - id: 1
+      name: worker_type
+      label: Worker Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: face_mask_requirement
+      label: Face Mask Requirement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''YeschartInstance''}'
+      - '{''value'': False}'
+      required: true
+    - id: 3
+      name: reason_for_no_requirement
+      label: Reason for no Requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

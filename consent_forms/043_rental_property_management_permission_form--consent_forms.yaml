@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Management Permission Form
+    pages:
+    - id: 1
+      name: rental_property_management_permission_form_section_1
+      label: Tenant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rental_property_management_permission_form_section_2
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_property_management_permission_form_section_3
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Tenant agrees to
+      - Tenant declines
+      - Tenant is unavailable
+      required: false
+    - id: 4
+      name: rental_property_management_permission_form_section_4
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rental_property_management_permission_form_section_5
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rental_property_management_permission_form_section_6
+      label: Landlord Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: rental_property_management_permission_form_section_7
+      label: Tenant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rental_property_management_permission_form_section_8
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rental_property_management_permission_form_section_9
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rental_property_management_permission_form_section_10
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: rental_property_management_permission_form_section_11
+      label: Signature
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant's signature is acknowledged
+      - Tenant's signature is not acknowledged
+      required: false

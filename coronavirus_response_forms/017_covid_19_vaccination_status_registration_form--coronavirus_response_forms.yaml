@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Status Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_section
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_appointment_date
+      label: Date of First Doctor Appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - New patient
+      - Follow-up
+      - Routine checkup
+      - Specific concern
+      - Other
+      required: true
+    - id: 9
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: clinic_name
+      label: Clinic or Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vaccination_section
+      label: -- COVID-19 Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Unsure
+      required: true
+    - id: 13
+      name: vaccine_type
+      label: Vaccine Type Received
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Novavax
+      - Other
+      - Unknown
+      required: false
+    - id: 14
+      name: first_dose_date
+      label: Date of First Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: second_dose_date
+      label: Date of Second Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: booster_date
+      label: Date of Last Booster Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vaccination_location
+      label: Location Where Vaccinated
+      hint: Hospital, pharmacy, clinic, other
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: card_available
+      label: Vaccination Card Available
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Lost or misplaced
+      required: false
+    - id: 19
+      name: health_section
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: side_effects_experienced
+      label: Experienced side effects from vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 21
+      name: side_effects_description
+      label: If yes, describe side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: covid_diagnosed
+      label: Have you been diagnosed with COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: covid_diagnosis_date
+      label: If yes, date of diagnosis or positive test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: covid_recovery_status
+      label: Current status if diagnosed
+      hint: null
+      type: select_one
+      options:
+      - Recovered
+      - Currently affected
+      - Long COVID symptoms
+      - Not applicable
+      required: false
+    - id: 25
+      name: reason_section
+      label: -- Reason for Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: vaccination_reason
+      label: If not fully vaccinated, reason
+      hint: null
+      type: select_one
+      options:
+      - Medical contraindication
+      - Personal choice
+      - Pending appointment
+      - Not eligible
+      - Other reason
+      - Prefer not to answer
+      required: false
+    - id: 27
+      name: intent_to_vaccinate
+      label: Do you intend to get vaccinated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Already completed
+      required: false
+    - id: 28
+      name: additional_notes
+      label: Additional Notes or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Study Video Diary Consent Form
+    pages:
+    - id: 1
+      name: video_diary_consent_intro
+      label: Academic Study Video Diary Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person giving consent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email for the participant
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: study_title
+      label: Study Title
+      hint: Title of the academic study involving video diaries
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: study_principal_investigator
+      label: Principal Investigator
+      hint: Name of the lead researcher for the study
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: study_duration
+      label: Study Duration
+      hint: How long will the video diary study last?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: Do you consent to participate in the video diary study?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with conditions", "No, I do not consent"]
+      required: true
+    - id: 9
+      name: consent_to_video_recording
+      label: Consent to Video Recording
+      hint: Do you consent to recording video diaries for this study?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 10
+      name: consent_to_audio_recording
+      label: Consent to Audio Recording
+      hint: Do you consent to having your voice recorded in the video diaries?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 11
+      name: consent_to_image_use
+      label: Consent to Image Use
+      hint: Do you consent to your image being used in the research?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 12
+      name: consent_to_data_analysis
+      label: Consent to Data Analysis
+      hint: Do you consent to your video diaries being analyzed for research purposes?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 13
+      name: consent_to_publication
+      label: Consent to Publication
+      hint: Do you consent to findings being published (without identifying information)?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with editorial review", "No, not for publication", "Conditional on anonymity"]
+      required: true
+    - id: 14
+      name: data_retention_period
+      label: Data Retention Period
+      hint: How long should your video diary data be retained?
+      type: select_one
+      options: ["Duration of study only", "One year after study", "Three years after study", "Five years after study", "Permanently"]
+      required: true
+    - id: 15
+      name: data_deletion_rights
+      label: Data Deletion Rights
+      hint: Do you understand you have the right to request deletion of your data?
+      type: select_one
+      options: ["Yes, I understand", "No, need clarification"]
+      required: true
+    - id: 16
+      name: special_conditions_restrictions
+      label: Special Conditions or Restrictions
+      hint: Do you have any special conditions or restrictions for your participation?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

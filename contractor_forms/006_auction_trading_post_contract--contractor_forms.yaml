@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Trading Post Contract
+    pages:
+    - id: 1
+      name: consignor_full_name
+      label: Consignor Full Name
+      hint: Legal name of person or entity consigning items
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consignor_business_name
+      label: Business Name
+      hint: Business or organization name (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consignor_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consignor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consignor_address
+      label: Mailing Address
+      hint: Full address for correspondence and payments
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_id_number
+      label: Tax ID or SSN
+      hint: Tax identification number for payment reporting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contract_date
+      label: Contract Date
+      hint: Date of contract agreement
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: contract_term_length
+      label: Contract Term Length
+      hint: Duration of this consignment agreement
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 180 days
+      - 1 year
+      - Until sold
+      required: true
+    - id: 9
+      name: item_category
+      label: Item Category
+      hint: Primary category of items being consigned
+      type: select_one
+      options:
+      - Antiques
+      - Collectibles
+      - Jewelry
+      - Art
+      - Electronics
+      - Furniture
+      - Sports Memorabilia
+      - Other
+      required: true
+    - id: 10
+      name: estimated_total_value
+      label: Estimated Total Value
+      hint: Total estimated value of all consigned items in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: commission_rate
+      label: Commission Rate
+      hint: Agreed commission percentage for trading post
+      type: select_one
+      options:
+      - 20%
+      - 25%
+      - 30%
+      - 35%
+      - 40%
+      - Custom (specify in notes)
+      required: true
+    - id: 12
+      name: minimum_sale_price
+      label: Minimum Sale Price
+      hint: Lowest acceptable sale price for items
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: pricing_flexibility
+      label: Pricing Flexibility
+      hint: Can the trading post adjust prices if items do not sell?
+      type: select_one
+      options:
+      - Yes, may reduce after 30 days
+      - Yes, may reduce after 60 days
+      - No, price must remain fixed
+      - Contact me before any price change
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to receive proceeds?
+      type: select_one
+      options:
+      - Check by mail
+      - Direct deposit
+      - PayPal
+      - Store credit
+      - Cash pickup
+      required: true
+    - id: 15
+      name: payment_threshold
+      label: Payment Threshold
+      hint: Minimum amount before payment is issued
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - No threshold, pay after each sale
+      required: true
+    - id: 16
+      name: unsolicited_items_policy
+      label: Unsold Items Policy
+      hint: What should happen to items that do not sell?
+      type: select_one
+      options:
+      - Return to consignor
+      - Donate to charity
+      - Reduce price by 50%
+      - Dispose after contract ends
+      required: true
+    - id: 17
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Items will be insured while in trading post custody
+      type: select_one
+      options:
+      - Yes, I understand items are insured
+      - No, I decline insurance
+      required: true
+    - id: 18
+      name: terms_conditions_agreement
+      label: Terms and Conditions Agreement
+      hint: I have read and agree to the trading post terms
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - No, I need to review terms
+      required: true
+    - id: 19
+      name: consignor_signature
+      label: Consignor Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

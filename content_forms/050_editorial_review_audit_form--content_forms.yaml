@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Editorial Review Audit Form
+    pages:
+    - id: 1
+      name: editorial_review_form_page_1
+      label: Review Manuscript
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manuscript_status
+      label: Manuscript Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Review''}'
+      - '{''id'': 2, ''label'': ''Ready to Publish''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 3
+      name: editorial_review_form_page_2
+      label: Editorial Comments
+      hint: Provide detailed feedback on the manuscript.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommendations
+      label: Editorial Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Insignificant Changes''}'
+      - '{''id'': 2, ''label'': ''Major Revisions Required''}'
+      - '{''id'': 3, ''label'': ''Reject Manuscript''}'
+      required: false
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_role
+      label: Reviewer Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: editorial_board_comments
+      label: Editorial Board Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false

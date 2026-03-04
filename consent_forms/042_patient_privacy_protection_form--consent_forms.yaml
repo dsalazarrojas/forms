@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Privacy Protection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_other
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_share
+      label: Share
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: consent_to_share_with
+      label: With
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Hospital''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: consent_to_share_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_provide
+      label: Provide
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 12
+      name: consent_to_provide_with
+      label: With
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Hospital''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 13
+      name: consent_to_provide_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

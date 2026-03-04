@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Service Information Collection Form
+    pages:
+    - id: 1
+      name: section_client_ident
+      label: -- Client and Organization Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name_ident
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_legal_name
+      label: Organization/Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email_ident
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone_ident
+      label: Primary Contact Phone
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_website_ident
+      label: Organization Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization_location_address
+      label: Organization Location (City, State, Country)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_service_inquiry
+      label: -- Service Inquiry and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_service_needed_ident
+      label: Primary Service Area of Interest
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Strategy/Management Consulting
+      - Technology/IT Transformation
+      - Financial/Risk Advisory
+      - Human Capital/Talent Management
+      - Operations/Process Optimization
+      - Marketing/Growth Strategy
+      - Sustainability/ESG Consulting
+      required: true
+    - id: 10
+      name: project_scope_summary_desc
+      label: Brief Summary of the Project or Problem to be Solved
+      hint: Max 1000 characters
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_project_duration_ident
+      label: Estimated Project Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 Month (Assessment only)
+      - 1-3 Months (Phase 1)
+      - 3-6 Months (Standard Delivery)
+      - 6-12 Months (Transformation)
+      - Ongoing Partnership
+      required: true
+    - id: 12
+      name: section_financial_logistics
+      label: -- Financial and Logistics Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: estimated_project_budget_range
+      label: Estimated Project Budget Range ($)
+      hint: null
+      type: select_one
+      options:
+      - Less than $10,000
+      - $10,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000+
+      required: true
+    - id: 14
+      name: project_urgency_ident
+      label: How soon do you plan to start?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - Planning Phase (6+ Months)
+      required: true
+    - id: 15
+      name: preferred_engagement_model_ident
+      label: Preferred Engagement Model
+      hint: null
+      type: select_one
+      options:
+      - Time and Materials (T&M)
+      - Fixed Price/Scope
+      - Retainer-based
+      - Performance/Success-based
+      required: true
+    - id: 16
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: referral_source_ident
+      label: How did you hear about our consultancy?
+      hint: null
+      type: select_one
+      options:
+      - Website/Search Engine
+      - Professional Referral
+      - Conference/Event
+      - Social Media (LinkedIn)
+      - Advertising/PR
+      - Other
+      required: false
+    - id: 18
+      name: additional_comments_desc
+      label: Any additional details you'd like to share
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: registration_date
+      label: Date of Service Information Collection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: confirmation_email_opt_in
+      label: Would you like to receive our quarterly industry insights?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: authorized_representative_name_label
+      label: Authorized Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: authorized_representative_title_label
+      label: Authorized Representative Title
+      hint: null
+      type: text
+      options: []
+      required: true

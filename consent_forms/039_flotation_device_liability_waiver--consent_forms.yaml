@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flotation Device Liability Waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_or_guardian
+      label: Parent or Guardian
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_weight
+      label: Participant Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_height
+      label: Participant Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participant_height_unit
+      label: Participant Height Unit
+      hint: null
+      type: select_multiple
+      options:
+      - ft
+      - in
+      required: true
+    - id: 13
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: participant_safety_question_1
+      label: Participant Safety Question 1
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: participant_safety_question_2
+      label: Participant Safety Question 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: participant_safety_question_3
+      label: Participant Safety Question 3
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: participant_safety_question_4
+      label: Participant Safety Question 4
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: participant_safety_question_5
+      label: Participant Safety Question 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_medical_devices
+      label: Participant Medical Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_medical_notes
+      label: Participant Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parent_or_guardian_signature
+      label: Parent or Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true

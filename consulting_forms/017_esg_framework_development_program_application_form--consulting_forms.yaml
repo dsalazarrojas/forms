@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESG Framework Development Program Application Form
+    pages:
+    - id: 1
+      name: esg_framework_development_program_application_form_page_1
+      label: esg_framework_development_program_application_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant
+      label: applicant_label
+      hint: null
+      type: select_one
+      options:
+      - ESG Framework Developer
+      - Sustainability Consultant
+      - ESG Framework Project Manager
+      required: false
+    - id: 3
+      name: organization_name
+      label: organization_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_address
+      label: organization_address_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: esg_readiness
+      label: esg_readiness_label
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: goals_participation
+      label: goals_participation_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: goals_participation_hint
+      label: goals_participation_hint
+      hint: What are the goals you are seeking participation in ESG development programs
+        for your organization?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: esg_development_programs
+      label: esg_development_programs_label
+      hint: null
+      type: select_multiple
+      options:
+      - ESG Framework Development Program
+      - ESG Framework Project Management Program
+      - ESG Framework Sustainability Program
+      required: false
+    - id: 11
+      name: esg_commitment_statement
+      label: esg_commitment_statement_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: esg_commitment_statement_hint
+      label: esg_commitment_statement_hint
+      hint: Brief statement of your organization's commitment to ESG
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: esg_framework_development
+      label: esg_framework_development_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: esg_framework_development_hint
+      label: esg_framework_development_hint
+      hint: How will you implement ESG in your organization?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: esg_framework_readiness
+      label: esg_framework_readiness_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: esg_framework_readiness_hint
+      label: esg_framework_readiness_hint
+      hint: How is your ESG readiness? What are the steps you plan to take to improve
+        ESG readiness?
+      type: text
+      options: []
+      required: false

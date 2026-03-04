@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firearms Training Release Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: firearms_owned
+      label: Do you own a gun?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: firearms_training
+      label: Have you received firearms training?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name of person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Phone number of contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship to contact person
+      hint: Type of relationship (e.g. spouse, parent, roommate)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_signature
+      label: Instructor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_hours
+      label: Total hours of training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_days
+      label: Total days of training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_agreement
+      label: I understand and will follow all rules and regulations.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_waiver
+      label: I grant permission for my child/children to participate in this firearms
+        training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_consequences
+      label: I understand that if I am ejected from the course, I will not be refunded
+        any fees paid.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_agree
+      label: Participant Agreements
+      hint: null
+      type: select_multiple
+      options:
+      - I will follow all rules and regulations.
+      - I will not touch any live fire until I have been properly cleared by an instructor.
+      - I will not shoot at any person or animal.
+      - I will keep a safe distance from the instructor's gun.
+      - I will keep my eyes on the target and the safety pin in the trigger guard.
+      - I will not touch any live fire until I have been properly cleared by an instructor.
+      - I will keep my finger off the trigger until I am ready to shoot.
+      - I will be aware of my surroundings.
+      - I will follow all safety rules.
+      - I will keep a safe distance from other students.
+      - I will follow all instructions given by the instructor.
+      - I will wear eye and ear protection at all times.
+      - I will keep my hands and face covered during all live fire exercises.
+      - I will follow all safety rules.
+      - I will stay alert and awake during all training sessions.
+      - I will not shoot at any object that is not authorized by the instructor.
+      - I will not take any live fire until I have been properly cleared by an instructor.
+      - I will follow all safety rules.
+      - I will keep my face and hair covered during all live fire exercises.
+      - I will follow all rules and regulations.
+      - I will be aware of my surroundings at all times.
+      - I will not touch or manipulate any live fire until I have been properly cleared
+        by an instructor.
+      - I will not take any unauthorized live fire.
+      - I will wear proper safety equipment at all times.
+      - I will be aware of the target.
+      - I will not shoot at the instructor.
+      required: false
+    - id: 20
+      name: instructor_agreement
+      label: Instructor Agreements
+      hint: null
+      type: select_multiple
+      options:
+      - I will keep a safe distance from students.
+      - I will keep all safety equipment at all times.
+      - I will make sure students are aware of their surroundings.
+      - I will follow all safety rules.
+      - I will not touch any live fire until I have been properly cleared by a student.
+      - I will keep students informed of any safety rules.
+      - I will not let students shoot at the instructor.
+      - I will keep a safe distance from other instructors.
+      - I will follow all safety rules.
+      - I will keep students informed of any safety rules.
+      - I will follow all safety rules.
+      - I will keep a safe distance from students.
+      - I will follow all safety rules.
+      - I will keep a safe distance from other students.
+      - I will follow all safety rules.
+      - I will make sure students are aware of the target.
+      - I will follow all safety rules.
+      - I will keep students informed of any safety rules.
+      - I will follow all safety rules.
+      - I will keep a safe distance from students.
+      - I will follow all safety rules.
+      - I will make sure students are aware of their surroundings.
+      - I will follow all safety rules.
+      - I will keep students informed of any safety rules.
+      - I will follow all safety rules.
+      - I will keep a safe distance from other instructors.
+      - I will follow all safety rules.
+      required: false
+    - id: 21
+      name: instructor_agreement
+      label: I agree to the above terms and conditions.
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 22
+      name: participant_agree_date
+      label: Participant Agreed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: instructor_agree_date
+      label: Instructor Agreed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: participant_agree_time
+      label: Participant Agreed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: instructor_agree_time
+      label: Instructor Agreed Time
+      hint: null
+      type: time
+      options: []
+      required: false

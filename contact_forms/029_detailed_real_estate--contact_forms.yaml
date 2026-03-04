@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Detailed Real Estate?
+    pages:
+    - id: 1
+      name: real_estate_first_contact
+      label: First Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: ZIP code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CA'', ''value'': ''CA''}'
+      - '{''id'': 2, ''name'': ''NY'', ''value'': ''NY''}'
+      - '{''id'': 3, ''name'': ''TX'', ''value'': ''TX''}'
+      required: true
+    - id: 11
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: realtor_info
+      label: Realtor Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: followup
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: true
+    - id: 14
+      name: followup_note
+      label: Follow-up note
+      hint: null
+      type: text
+      options: []
+      required: false

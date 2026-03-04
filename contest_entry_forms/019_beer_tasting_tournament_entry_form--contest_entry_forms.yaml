@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Tasting Tournament Entry Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 21 years or older
+      type: select_one
+      options:
+      - Yes I am 21 or older
+      - No I am under 21
+      required: true
+    - id: 6
+      name: address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or Province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tournament_category
+      label: Tournament Category
+      hint: Which category are you entering
+      type: select_one
+      options:
+      - Amateur Taster
+      - Homebrewer
+      - Beer Enthusiast
+      - Industry Professional
+      - Beer Judge
+      - Media or Press
+      required: true
+    - id: 11
+      name: beer_experience
+      label: Beer Experience Level
+      hint: How would you rate your beer knowledge
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Cicerone Certified
+      - BJCP Judge
+      required: true
+    - id: 12
+      name: tasting_rounds
+      label: Tasting Rounds
+      hint: Select rounds you want to participate in
+      type: select_multiple
+      options:
+      - Round 1 - Lager Tasting
+      - Round 2 - Ale Tasting
+      - Round 3 - Specialty Beer Tasting
+      - Round 4 - Blind Identification
+      - Round 5 - Style Identification
+      - Final Round - Grand Tasting
+      required: true
+    - id: 13
+      name: beer_preferences
+      label: Beer Style Preferences
+      hint: Select your preferred styles
+      type: select_multiple
+      options:
+      - IPA
+      - Pale Ale
+      - Stout
+      - Porter
+      - Lager
+      - Pilsner
+      - Wheat Beer
+      - Sour Beer
+      - Belgian Styles
+      - Seasonal
+      - No Preference
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Gluten Sensitivity
+      - Celiac Disease
+      - Yeast Allergy
+      - Hop Allergy
+      - Other Food Allergies
+      required: true
+    - id: 15
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you get to the event
+      type: select_one
+      options:
+      - Driving (will not drink)
+      - Rideshare or Taxi
+      - Public Transportation
+      - Walking
+      - Designated Driver
+      required: true
+    - id: 16
+      name: event_date_preference
+      label: Event Date Preference
+      hint: Preferred date if multiple options
+      type: select_one
+      options:
+      - No Preference
+      - Saturday Morning
+      - Saturday Afternoon
+      - Sunday Morning
+      - Sunday Afternoon
+      required: true
+    - id: 17
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event shirt if provided
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I release organizers from liability
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: alcohol_acknowledgment
+      label: Alcohol Consumption Acknowledgment
+      hint: I understand the risks of alcohol consumption
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 22
+      name: photography_consent
+      label: Photography Consent
+      hint: I consent to being photographed
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 23
+      name: entry_fee_paid
+      label: Entry Fee Paid
+      hint: Has the entry fee been paid
+      type: select_one
+      options:
+      - Yes paid
+      - Not yet
+      - Paying with this form
+      required: true
+    - id: 24
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: How did you find out about this tournament
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family
+      - Brewery
+      - Email Newsletter
+      - Website
+      - Advertisement
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

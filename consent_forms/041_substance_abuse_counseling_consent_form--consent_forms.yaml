@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: substance abuse counseling consent form
+    pages:
+    - id: 1
+      name: page_1
+      label: page 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false

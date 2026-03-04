@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Painting Tournament Entry Form
+    pages:
+      - id: 1
+        name: artist_name
+        label: Artist name
+        hint: Full name of entrant
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For competition correspondence
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: artwork_title
+        label: Artwork title
+        hint: Title of submitted painting
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: medium
+        label: Medium
+        hint: Materials used in the work
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: dimensions
+        label: Dimensions
+        hint: Width x height
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: entry_fee_paid
+        label: Entry fee paid
+        hint: Confirmation of fee payment
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 7
+        name: image_filename
+        label: Image filename
+        hint: Uploaded image file name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: artist_statement
+        label: Artist statement
+        hint: Short statement about the work
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: agree_terms
+        label: Agree to competition terms
+        hint: Confirm acceptance of rules
+        type: select_one
+        options: [I agree, I do not agree]
+        required: true
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other information
+        type: text
+        options: []
+        required: false

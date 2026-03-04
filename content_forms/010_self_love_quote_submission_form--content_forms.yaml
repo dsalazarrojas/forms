@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_love_quote_submission_form
+    pages:
+    - id: 1
+      name: quote
+      label: Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quote_author
+      label: Quote Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quote_image
+      label: Quote Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: quote_tagged
+      label: Quote Tagged
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: quote_tagged_2
+      label: Quote Tagged 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Information Form
+    pages:
+    - id: 1
+      name: user_input_name
+      label: User Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_input_phone
+      label: User Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_input_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: user_input_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: user_input_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: user_input_comments
+      label: Comments
+      hint: Please enter your comments
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: user_select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 10
+      name: user_select_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: user_select_time
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: user_select_text
+      label: Select Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: user_note
+      label: Note
+      hint: Please enter your note
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: user_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: user_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: user_text
+      label: Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: user_decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: user_select_decimal
+      label: Select Decimal
+      hint: null
+      type: select_one
+      options:
+      - '1.0'
+      - '2.0'
+      - '3.0'
+      required: false
+    - id: 22
+      name: user_select_integer
+      label: Select Integer
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: true
+    - id: 23
+      name: user_decimal_choice
+      label: Decimal Choice
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: user_integer_choice
+      label: Integer Choice
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: user_text_area
+      label: Text Area
+      hint: null
+      type: text
+      options: []
+      required: false

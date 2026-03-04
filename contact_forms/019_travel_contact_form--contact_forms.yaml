@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Travel Contact Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_info
+      label: Travel Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: home_info
+      label: Home-Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_arrangement
+      label: Travel Arrangement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''Air'', ''label'': ''Air'', ''value'': ''Air'',
+        ''required'': True}'
+      - '{''id'': 5.2, ''name'': ''Train'', ''label'': ''Train'', ''value'': ''Train'',
+        ''required'': False}'
+      - '{''id'': 5.3, ''name'': ''Bus'', ''label'': ''Bus'', ''value'': ''Bus'',
+        ''required'': False}'
+      required: false
+    - id: 6
+      name: hotel
+      label: Hotel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6.1, ''name'': ''Hotel'', ''label'': ''Hotel'', ''value'': ''Hotel'',
+        ''required'': True}'
+      - '{''id'': 6.2, ''name'': ''Resort'', ''label'': ''Resort'', ''value'': ''Resort'',
+        ''required'': False}'
+      - '{''id'': 6.3, ''name'': ''Hostel'', ''label'': ''Hostel'', ''value'': ''Hostel'',
+        ''required'': False}'
+      required: false
+    - id: 7
+      name: flight
+      label: Flight
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''name'': True, ''label'': True, ''value'': True, ''required'':
+        True}'
+      - '{''id'': 7.2, ''name'': False, ''label'': False, ''value'': False, ''required'':
+        False}'
+      required: false

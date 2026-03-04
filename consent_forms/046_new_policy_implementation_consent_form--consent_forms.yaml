@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Policy Implementation Consent Form
+    pages:
+    - id: 1
+      name: new_policy_implementation_consent_form
+      label: New Policy Implementation Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stakeholder
+      label: Stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Based Paint Disclosure Form
+    pages:
+    - id: 1
+      name: lead_based_paint_disclosure_form_page_1
+      label: lead_based_paint_disclosure
+      hint: null
+      type: select_one
+      options:
+      - Lead-based Paint is Present
+      - No Lead-based Paint is Present
+      required: false
+    - id: 2
+      name: contact_information_form_page
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lead_paint_homes_page
+      label: lead_paint_homes
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: contact_number_form_page
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_paint_disclosure_form_date
+      label: lead_paint_disclosure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lead_paint_disclosure_form_time
+      label: lead_paint_disclosure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: lead_paint_disclosure_form
+      label: lead_paint_disclosure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lead_paint_disclosure_form_email
+      label: lead_paint_disclosure_email
+      hint: null
+      type: email
+      options: []
+      required: false

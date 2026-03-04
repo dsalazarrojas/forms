@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liability Waiver For Youth Activities
+    pages:
+    - id: 1
+      name: consent_section
+      label: Consent Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: guardian_consent
+      label: Guardian Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''I have read and understand the liability waiver. I grant
+        permission for my child to participate in [Program Name].''}'
+      - '{''option2'': ''I do not grant permission for my child to participate in
+        [Program Name].''}'
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: List all emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: Date format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_start_time
+      label: Program Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: program_end_time
+      label: Program End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false

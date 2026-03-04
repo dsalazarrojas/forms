@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_provider_referral_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_provider_name
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_provider_description
+      label: Service Provider Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: true

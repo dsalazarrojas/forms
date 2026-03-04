@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Planning Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: strategies
+      label: Strategies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: meetings
+      label: Meetings
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

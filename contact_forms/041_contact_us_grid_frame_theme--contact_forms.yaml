@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Grid Frame Theme
+    pages:
+    - id: 1
+      name: welcome
+      label: Get In Touch
+      hint: We are here to help
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_interest
+      label: Service of Interest
+      hint: What interests you
+      type: select_one
+      options:
+      - Web Design
+      - Development
+      - Marketing
+      - Consulting
+      - Support
+      - Other
+      required: true
+    - id: 7
+      name: budget
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $5000
+      - $5000 to $15000
+      - $15000 to $50000
+      - Over $50000
+      required: false
+    - id: 8
+      name: timeline
+      label: Project Timeline
+      hint: When to start
+      type: select_one
+      options:
+      - Immediately
+      - 1-2 months
+      - 2-3 months
+      - 3-6 months
+      - Just researching
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: Your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: how_found
+      label: How Did You Find Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Portfolio
+      - Other
+      required: false
+    - id: 11
+      name: preferred_contact
+      label: Preferred Contact
+      hint: How to respond
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      required: true

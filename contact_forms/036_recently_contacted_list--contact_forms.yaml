@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: recently_contacted_list
+    pages:
+    - id: 1
+      name: patient_last_contacted
+      label: patient_last_contacted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contacted_person
+      label: contacted_person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_last_contacted
+      label: date_last_contacted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_last_contacted
+      label: time_last_contacted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: stop_spreading
+      label: stop_spreading
+      hint: null
+      type: text
+      options: []
+      required: false

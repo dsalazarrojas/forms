@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Library Access Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Your institutional or work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your school or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization are you with?
+      type: select_one
+      options:
+      - Educational Institution
+      - Corporate
+      - Nonprofit
+      - Government
+      - Research Organization
+      - Media Organization
+      - Other
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: Date of access request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: access_type
+      label: Access Type
+      hint: What level of access do you need?
+      type: select_one
+      options:
+      - View Only
+      - Download Access
+      - Edit Access
+      - Full Access
+      - Temporary Access
+      required: true
+    - id: 10
+      name: access_duration
+      label: Access Duration
+      hint: How long do you need access?
+      type: select_one
+      options:
+      - One Day
+      - One Week
+      - One Month
+      - Three Months
+      - Six Months
+      - One Year
+      - Indefinite
+      required: true
+    - id: 11
+      name: library_sections
+      label: Library Sections Needed
+      hint: Which sections do you need access to?
+      type: select_multiple
+      options:
+      - Articles and Blog Posts
+      - Video Content
+      - Audio and Podcasts
+      - Templates and Tools
+      - Research Reports
+      - Case Studies
+      - Graphics and Images
+      - All Sections
+      required: true
+    - id: 12
+      name: purpose_of_access
+      label: Purpose of Access
+      hint: Why do you need access?
+      type: select_one
+      options:
+      - Research
+      - Education
+      - Content Creation
+      - Business Planning
+      - Professional Development
+      - Client Work
+      - Other
+      required: true
+    - id: 13
+      name: purpose_details
+      label: Purpose Details
+      hint: Please provide more details about your purpose
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: specific_resources
+      label: Specific Resources Needed
+      hint: Are there specific resources you need?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your supervisor or manager
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_email
+      label: Supervisor Email
+      hint: Email for verification
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: terms_of_use_accepted
+      label: Terms of Use Accepted
+      hint: I agree to the terms of use
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 18
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I agree to maintain confidentiality
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 19
+      name: intended_use
+      label: Intended Use
+      hint: How will you use the content?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: sharing_permissions
+      label: Sharing Permissions
+      hint: Will you share content with others?
+      type: select_one
+      options:
+      - No, personal use only
+      - Yes, with my team
+      - Yes, with clients
+      - Yes, publicly
+      required: true
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Our Library?
+      hint: How did you learn about our content library?
+      type: select_one
+      options:
+      - Website
+      - Colleague Referral
+      - Social Media
+      - Search Engine
+      - Advertisement
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

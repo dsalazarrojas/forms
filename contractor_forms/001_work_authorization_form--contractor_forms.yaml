@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Authorization Form
+    pages:
+    - id: 1
+      name: work_authorization_form_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: work_authorization_number
+      label: Work Authorization Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorized_on
+      label: Authorized On
+      hint: null
+      type: date
+      options: []
+      required: false

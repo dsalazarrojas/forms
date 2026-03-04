@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: trestle-academy-ghana-hackahon-contest-entry-form
+    pages:
+    - id: 1
+      name: general_info
+      label: first-and-last-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: project-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: team-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: github_link
+      label: github-link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: project-description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_url
+      label: submission-url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: submission-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: submission-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submission_duration
+      label: submission-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submission_location
+      label: submission-location
+      hint: null
+      type: text
+      options: []
+      required: false

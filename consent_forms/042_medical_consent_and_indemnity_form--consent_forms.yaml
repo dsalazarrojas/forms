@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consent And Indemnity Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_to_treatment
+      label: consent_to_treatment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 3
+      name: treatment_details
+      label: treatment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medical_procedures
+      label: medical_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_contact_information
+      label: patient_contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: witness_information
+      label: witness_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''date'', ''label'': ''today''}'
+      - '{''value'': ''later'', ''label'': ''other''}'
+      required: false
+    - id: 12
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: signature_notary
+      label: signature_notary
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''notary'', ''label'': ''notarized''}'
+      - '{''value'': ''non_notarized'', ''label'': ''non-notarized''}'
+      - '{''value'': ''notarized'', ''label'': ''notarized''}'
+      required: false
+    - id: 14
+      name: notarized_date
+      label: notarized_date
+      hint: null
+      type: date
+      options: []
+      required: false

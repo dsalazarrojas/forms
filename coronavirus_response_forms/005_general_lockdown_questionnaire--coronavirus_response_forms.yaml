@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Lockdown Questionnaire
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_note
+      label: Student Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_response
+      label: Student Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_response
+      label: Teacher Response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: teacher_attendance
+      label: Teacher Attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: teacher_note
+      label: Teacher Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_survey
+      label: Teacher Survey
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: student_survey
+      label: Student Survey
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

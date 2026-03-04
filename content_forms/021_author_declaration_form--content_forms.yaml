@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author Declaration Form
+    pages:
+    - id: 1
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of this declaration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: Name of the project or publication
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_type
+      label: Project Type
+      hint: What type of project
+      type: select_one
+      options:
+      - Research Paper
+      - Book
+      - Journal Article
+      - Thesis
+      - Report
+      - Whitepaper
+      - Conference Paper
+      - Other
+      required: true
+    - id: 4
+      name: author_one_name
+      label: Primary Author Name
+      hint: Full name of first author
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: author_one_affiliation
+      label: Primary Author Affiliation
+      hint: Institution or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: author_one_email
+      label: Primary Author Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: author_one_contribution
+      label: Primary Author Contribution
+      hint: What did this author contribute
+      type: select_multiple
+      options:
+      - Concept/Design
+      - Data Collection
+      - Analysis
+      - Writing
+      - Review/Editing
+      - Technical Support
+      - Funding
+      - Other
+      required: true
+    - id: 8
+      name: author_one_percentage
+      label: Percentage of Contribution - Author 1
+      hint: Estimated percentage
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: author_two_name
+      label: Second Author Name
+      hint: Full name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: author_two_affiliation
+      label: Second Author Affiliation
+      hint: Institution or organization
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: author_two_email
+      label: Second Author Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: author_two_contribution
+      label: Second Author Contribution
+      hint: What did this author contribute
+      type: select_multiple
+      options:
+      - Concept/Design
+      - Data Collection
+      - Analysis
+      - Writing
+      - Review/Editing
+      - Technical Support
+      - Funding
+      - Other
+      required: false
+    - id: 13
+      name: author_two_percentage
+      label: Percentage of Contribution - Author 2
+      hint: Estimated percentage
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: author_three_name
+      label: Third Author Name
+      hint: Full name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: author_three_affiliation
+      label: Third Author Affiliation
+      hint: Institution or organization
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: author_three_contribution
+      label: Third Author Contribution
+      hint: What did this author contribute
+      type: select_multiple
+      options:
+      - Concept/Design
+      - Data Collection
+      - Analysis
+      - Writing
+      - Review/Editing
+      - Technical Support
+      - Funding
+      - Other
+      required: false
+    - id: 17
+      name: author_three_percentage
+      label: Percentage of Contribution - Author 3
+      hint: Estimated percentage
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_authors
+      label: Total Number of Authors
+      hint: How many authors total
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: corresponding_author
+      label: Corresponding Author Name
+      hint: Who is the point of contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: corresponding_author_email
+      label: Corresponding Author Email
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: funding_sources
+      label: Funding Sources
+      hint: Grants, sponsors, funding bodies
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: conflict_of_interest
+      label: Conflicts of Interest
+      hint: Any financial or personal interests
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: acknowledgments
+      label: Acknowledgments
+      hint: People or organizations to acknowledge
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorship_agreement
+      label: All Authors Agree to Submission
+      hint: Declaration that all authors agree
+      type: select_one
+      options:
+      - Yes - All Authors Agree
+      - No - Not All Agree
+      - Pending Approval
+      required: true

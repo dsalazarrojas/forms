@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Franchise Consulting Quotation Form
+    pages:
+    - id: 1
+      name: consultant_info
+      label: Consultant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quotation_info
+      label: Quotation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: dates
+      label: Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Date 1
+      - Date 2
+      - Date 3
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: quotation
+      label: Quotation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: consultant_signature
+      label: Consultant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agreement 1
+      - Agreement 2
+      required: false

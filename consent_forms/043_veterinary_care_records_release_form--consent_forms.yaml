@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Care Records Release Form
+    pages:
+    - id: 1
+      name: pet_owner_name
+      label: pet_owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_contact_number
+      label: owner_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: clinic_name
+      label: clinic_name
+      hint: null
+      type: select_multiple
+      options:
+      - clinic_1
+      - clinic_2
+      - clinic_3
+      required: false
+    - id: 4
+      name: medical_record
+      label: medical_record
+      hint: null
+      type: select_one
+      options:
+      - medical_1
+      - medical_2
+      - medical_3
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I
+      - II
+      - III
+      required: true
+    - id: 6
+      name: date_of_transfer
+      label: date_of_transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_transfer
+      label: time_of_transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_clinic
+      label: veterinary_clinic
+      hint: null
+      type: select_one
+      options:
+      - clinic_1
+      - clinic_2
+      - clinic_3
+      required: false

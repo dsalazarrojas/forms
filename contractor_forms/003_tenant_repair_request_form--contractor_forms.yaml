@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Repair Request Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: form_section_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_info
+      label: tenant_info_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_type
+      label: issue_type_label
+      hint: null
+      type: select_one
+      options:
+      - Leaky faucet
+      - Broken light
+      - Clogged drain
+      required: false
+    - id: 5
+      name: issue_priority
+      label: issue_priority_label
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: requested_by
+      label: requested_by_label
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Property Manager
+      - Other
+      required: false
+    - id: 7
+      name: contact_information
+      label: contact_information_label
+      hint: First and last name, email, phone number, and address
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: date_submitted_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: date_completed_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false

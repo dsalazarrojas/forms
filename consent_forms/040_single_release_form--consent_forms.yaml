@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Single Release Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contributor_permission
+      label: Contributor Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 5
+      name: contributor_signature
+      label: Contributor Signature
+      hint: null
+      type: note
+      options: []
+      required: false

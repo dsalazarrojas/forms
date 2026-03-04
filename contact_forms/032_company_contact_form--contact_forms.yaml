@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: false
+    - id: 9
+      name: subject
+      label: What is this regarding?
+      hint: Inquiry type
+      type: select_one
+      options:
+      - General Inquiry
+      - Product Information
+      - Sales Question
+      - Pricing Request
+      - Support Request
+      - Partnership Opportunity
+      - Media Inquiry
+      - Investor Relations
+      - Careers
+      - Feedback
+      - Other
+      required: true
+    - id: 10
+      name: message
+      label: Your Message
+      hint: How can we help you?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: false
+    - id: 12
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When to reach you
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 13
+      name: how_heard_about
+      label: How did you hear about us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Search Engine
+      - Social Media
+      - Friend or Colleague
+      - Advertisement
+      - Trade Show
+      - Email Campaign
+      - Other
+      required: false
+    - id: 14
+      name: newsletter_signup
+      label: Would you like to receive our newsletter?
+      hint: Marketing updates
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: false
+    - id: 15
+      name: submit_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

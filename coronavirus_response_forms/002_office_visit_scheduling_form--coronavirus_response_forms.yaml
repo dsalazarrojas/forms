@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Visit Scheduling Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: visit_length
+      label: Visit Length
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Licensing Contract Form
+    pages:
+    - id: 1
+      name: contract_date
+      label: Contract Date
+      hint: Date of contract
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: licensor_name
+      label: Licensor Name
+      hint: Name of artist or rights holder
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: licensor_email
+      label: Licensor Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: licensor_phone
+      label: Licensor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: licensor_address
+      label: Licensor Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: licensee_name
+      label: Licensee Name
+      hint: Name of company or individual
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: licensee_email
+      label: Licensee Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: licensee_phone
+      label: Licensee Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: licensee_address
+      label: Licensee Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_title
+      label: Artwork Title
+      hint: Title of artwork being licensed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artwork_description
+      label: Artwork Description
+      hint: Description of artwork
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_id
+      label: Artwork ID
+      hint: Identification number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: license_type
+      label: License Type
+      hint: Type of license granted
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      - Sole
+      - Limited
+      required: true
+    - id: 14
+      name: licensed_products
+      label: Licensed Products
+      hint: Products artwork may be used on
+      type: select_multiple
+      options:
+      - Prints and Posters
+      - Greeting Cards
+      - Calendars
+      - Home Decor
+      - Apparel
+      - Stationery
+      - Digital Media
+      - Packaging
+      - Other
+      required: true
+    - id: 15
+      name: licensed_territory
+      label: Licensed Territory
+      hint: Geographic territory
+      type: select_one
+      options:
+      - Worldwide
+      - North America
+      - United States Only
+      - Europe
+      - Asia
+      - Other
+      required: true
+    - id: 16
+      name: license_duration
+      label: License Duration
+      hint: Length of license term
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - Perpetual
+      - Custom
+      required: true
+    - id: 17
+      name: license_start_date
+      label: License Start Date
+      hint: When does license begin
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: license_end_date
+      label: License End Date
+      hint: When does license end
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: royalty_rate
+      label: Royalty Rate
+      hint: Percentage royalty rate
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: advance_payment
+      label: Advance Payment
+      hint: Advance payment amount
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: minimum_guarantee
+      label: Minimum Guarantee
+      hint: Minimum guaranteed payment
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: When are payments due
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - Upon Sale
+      - Other
+      required: true
+    - id: 23
+      name: approval_required
+      label: Approval Required
+      hint: Is licensor approval required for products
+      type: select_one
+      options:
+      - Yes - All Products
+      - Yes - Key Products Only
+      - false
+      required: true
+    - id: 24
+      name: credit_line
+      label: Credit Line
+      hint: Required artist credit format
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: sample_required
+      label: Sample Required
+      hint: Are product samples required before sale
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: termination_clause
+      label: Termination Clause
+      hint: Conditions for termination
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: exclusivity_terms
+      label: Exclusivity Terms
+      hint: Any exclusivity restrictions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: sublicensing_allowed
+      label: Sublicensing Allowed
+      hint: Can licensee sublicense rights
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: quality_control
+      label: Quality Control
+      hint: Quality control requirements
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_terms
+      label: Additional Terms
+      hint: Any additional terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: licensor_signature
+      label: Licensor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: licensor_signature_date
+      label: Licensor Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: licensee_signature
+      label: Licensee Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: licensee_signature_date
+      label: Licensee Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

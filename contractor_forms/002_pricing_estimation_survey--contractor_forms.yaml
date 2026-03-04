@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pricing Estimation Survey
+    pages:
+    - id: 1
+      name: pricing_estimation_survey
+      label: What's your target price range?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price_range_1
+      label: Less than 1000
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than 1000''}'
+      - '{''value'': ''1000 - 2000''}'
+      - '{''value'': ''2000 - 3000''}'
+      - '{''value'': ''More than 3000''}'
+      required: false
+    - id: 3
+      name: price_range_2
+      label: What's your target price range for this project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: What type of project is this?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Residential''}'
+      - '{''value'': ''Commercial''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: estimated_budget
+      label: What's your estimated budget for this project?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: actual_budget
+      label: What's your actual budget for this project?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pricing_strategy
+      label: What's your pricing strategy?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fixed''}'
+      - '{''value'': ''Cost Plus''}'
+      - '{''value'': ''Time and Materials''}'
+      required: false
+    - id: 8
+      name: pricing_strategy_details
+      label: Can you elaborate on your pricing strategy?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Notification Consent Form
+    pages:
+    - id: 1
+      name: user_id_email
+      label: User Identifier (Email or ID)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: app_version
+      label: Current App Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: push_consent_header
+      label: -- Notification Settings --
+      hint: Choose what information you would like to receive
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: enable_notifications
+      label: Do you wish to receive push notifications?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I opt-in
+      - No, I opt-out
+      required: true
+    - id: 5
+      name: notification_categories
+      label: Select Notification Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Product Updates and New Features
+      - Promotional Offers and Discounts
+      - Critical Account Alerts
+      - Community Activity and Social Mentions
+      required: true
+    - id: 6
+      name: frequency_preference
+      label: Desired Notification Frequency
+      hint: null
+      type: select_one
+      options:
+      - Real-time
+      - Daily Digest
+      - Weekly Summary
+      required: true
+    - id: 7
+      name: quiet_hours_note
+      label: We respect your time - No non-critical notifications will be sent between
+        10 PM and 7 AM
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: data_usage_acknowledgement
+      label: I acknowledge that notification delivery may use minimal data
+      hint: null
+      type: select_multiple
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 9
+      name: setting_change_awareness
+      label: I understand I can change these settings at any time in the app
+      hint: null
+      type: select_multiple
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 10
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

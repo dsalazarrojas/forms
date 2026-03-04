@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Art Aftercare Instructions
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: procedure_date
+      label: Procedure Date
+      hint: Date of procedure
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: procedure_type
+      label: Procedure Type
+      hint: What type of procedure?
+      type: select_one
+      options:
+      - Tattoo
+      - Body Piercing
+      - Microblading
+      - Permanent Makeup
+      - Other
+      required: true
+    - id: 6
+      name: procedure_location
+      label: Procedure Location on Body
+      hint: Where was it done?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artist_name
+      label: Artist Name
+      hint: Who performed the procedure?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: studio_name
+      label: Studio Name
+      hint: Name of studio
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: aftercare_instructions_provided
+      label: Aftercare Instructions Provided
+      hint: Did you receive instructions?
+      type: select_one
+      options:
+      - Yes, Written and Verbal
+      - Yes, Verbal Only
+      - Yes, Written Only
+      - false
+      required: true
+    - id: 10
+      name: instructions_understood
+      label: Instructions Understood
+      hint: Do you understand the aftercare?
+      type: select_one
+      options:
+      - Yes, Completely
+      - Mostly
+      - Somewhat
+      - No, Need Clarification
+      required: true
+    - id: 11
+      name: cleaning_products
+      label: Cleaning Products Provided
+      hint: What products were given?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cleaning_frequency
+      label: Cleaning Frequency
+      hint: How often to clean?
+      type: select_one
+      options:
+      - 2-3 times daily
+      - Once daily
+      - Twice daily
+      - As needed
+      required: true
+    - id: 13
+      name: ointment_application
+      label: Ointment Application
+      hint: How to apply ointment?
+      type: select_one
+      options:
+      - 2-3 times daily
+      - Once daily
+      - Twice daily
+      - Not required
+      required: true
+    - id: 14
+      name: activities_to_avoid
+      label: Activities to Avoid
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Swimming
+      - Hot Tubs
+      - Saunas
+      - Direct Sunlight
+      - Heavy Exercise
+      - Tight Clothing
+      - Makeup on Area
+      - Picking or Scratching
+      required: true
+    - id: 15
+      name: healing_time_expected
+      label: Expected Healing Time
+      hint: How long to heal?
+      type: select_one
+      options:
+      - 1-2 weeks
+      - 2-4 weeks
+      - 4-6 weeks
+      - 6-8 weeks
+      - 2-6 months
+      required: true
+    - id: 16
+      name: follow_up_appointment
+      label: Follow-Up Appointment
+      hint: Do you have one scheduled?
+      type: select_one
+      options:
+      - Yes, scheduled
+      - No, but recommended
+      - Not needed
+      required: false
+    - id: 17
+      name: emergency_contact_provided
+      label: Emergency Contact Provided
+      hint: Do you have contact info?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: warning_signs_understood
+      label: Warning Signs Understood
+      hint: Do you know signs of infection?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: infection_signs
+      label: Signs of Infection to Watch
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excessive Redness
+      - Swelling
+      - Pus or Discharge
+      - Fever
+      - Severe Pain
+      - Red Streaks
+      - Heat at Site
+      required: true
+    - id: 20
+      name: questions_about_aftercare
+      label: Questions About Aftercare
+      hint: Any questions?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_acknowledgment
+      label: Client Acknowledgment
+      hint: I understand and will follow aftercare
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - false
+      required: true
+    - id: 22
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of acknowledgment
+      type: date
+      options: []
+      required: true

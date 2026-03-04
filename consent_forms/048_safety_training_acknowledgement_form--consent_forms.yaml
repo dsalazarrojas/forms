@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Training Acknowledgement Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_program
+      label: training program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_date
+      label: training date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_location
+      label: training location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_facilitator
+      label: training facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: employee signature
+      hint: null
+      type: text
+      options: []
+      required: false

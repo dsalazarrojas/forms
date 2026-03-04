@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Asset Upload Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: We will confirm receipt via email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: For urgent questions about your assets
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Name or reference for this project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: What type of project is this?
+      type: select_one
+      options:
+      - Website Design
+      - Marketing Campaign
+      - Brand Development
+      - Content Creation
+      - Video Production
+      - Photography
+      - Other
+      required: true
+    - id: 7
+      name: asset_category
+      label: Asset Category
+      hint: Type of assets you are uploading
+      type: select_one
+      options:
+      - Images and Photos
+      - Documents and PDFs
+      - Logos and Graphics
+      - Video Files
+      - Audio Files
+      - Brand Guidelines
+      - Other
+      required: true
+    - id: 8
+      name: asset_description
+      label: Asset Description
+      hint: Briefly describe what you are uploading
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: file_count
+      label: Approximate Number of Files
+      hint: Estimated count of files
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_file_size
+      label: Total File Size Estimate
+      hint: Approximate combined size
+      type: select_one
+      options:
+      - Under 10 MB
+      - 10-50 MB
+      - 50-100 MB
+      - 100-500 MB
+      - Over 500 MB
+      required: true
+    - id: 11
+      name: upload_purpose
+      label: Purpose of Upload
+      hint: Why are you submitting these assets?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: usage_rights_confirmation
+      label: Do You Have Rights to These Assets?
+      hint: Confirm you own or have permission to use
+      type: select_one
+      options:
+      - Yes, I own the rights
+      - Yes, I have written permission
+      - No, I do not have rights
+      required: true
+    - id: 13
+      name: third_party_credits
+      label: Third Party Credits Required
+      hint: List any required attributions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: deadline_date
+      label: Project Deadline
+      hint: When do you need this completed?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Low - No Rush
+      - Medium - Within 2 Weeks
+      - High - Within 1 Week
+      - Urgent - Within 48 Hours
+      required: true
+    - id: 16
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_members_cc
+      label: Team Members to CC
+      hint: Email addresses of colleagues to include
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: authorization_statement
+      label: I authorize the use of these assets for the specified project
+      hint: Confirm your authorization
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true
+    - id: 19
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

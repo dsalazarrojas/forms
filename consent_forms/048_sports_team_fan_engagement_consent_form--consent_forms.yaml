@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Team Fan Engagement Consent Form
+    pages:
+    - id: 1
+      name: fan_contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_preferences
+      label: Marketing Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Newsletter''}'
+      - '{''option'': ''Social Media''}'
+      - '{''option'': ''Push Notification''}'
+      required: false
+    - id: 3
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_preference
+      label: Time Preference
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

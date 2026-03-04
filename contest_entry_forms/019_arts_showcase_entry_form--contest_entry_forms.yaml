@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts Showcase Entry Form
+    pages:
+    - id: 1
+      name: entrant_name
+      label: Entrant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age_category
+      label: Age Category
+      hint: null
+      type: select_one
+      options:
+      - Youth - under 18
+      - Emerging Artist - 18 to 25
+      - Professional/Adult
+      - Senior - 65 plus
+      required: true
+    - id: 3
+      name: entry_title
+      label: Title of the Artwork
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medium_technique
+      label: Medium and Technique Used
+      hint: e.g. Watercolor on Paper, Bronze Casting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dimensions_entry
+      label: Dimensions of Entry
+      hint: H x W x D in inches
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: weight_if_applicable
+      label: Weight in pounds
+      hint: Required for sculptures only
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: artist_statement_short
+      label: Short Artist Statement
+      hint: Describe the inspiration behind this piece
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: portfolio_link
+      label: Link to Artist Portfolio or Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fee_payment_status
+      label: Has the entry fee been paid
+      hint: null
+      type: select_one
+      options:
+      - Yes, via Online Portal
+      - Yes, by Check/Cash
+      - Not Yet
+      required: true
+    - id: 10
+      name: display_consent
+      label: I agree to have my work displayed for the duration of the showcase
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 11
+      name: sale_price
+      label: Sale Price if for Sale
+      hint: Enter NFS if not for sale
+      type: text
+      options: []
+      required: false

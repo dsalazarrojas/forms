@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Data Privacy Policy Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question1
+      label: What do you think about our data privacy practices?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly Effective''}'
+      - '{''label'': ''Not Effective''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Not Effective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Very Effective''}'
+      required: true
+    - id: 6
+      name: question2
+      label: How would you rate our data collection methods?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Highly Effective''}'
+      - '{''label'': ''Not Effective''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Not Effective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Very Effective''}'
+      required: true
+    - id: 7
+      name: question3
+      label: How would you rate our data use practices?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Highly Effective''}'
+      - '{''label'': ''Not Effective''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Not Effective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Very Effective''}'
+      required: true
+    - id: 8
+      name: question4
+      label: How would you rate our data security practices?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Highly Effective''}'
+      - '{''label'': ''Not Effective''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Not Effective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Very Effective''}'
+      required: true
+    - id: 9
+      name: question5
+      label: Have you contacted us about our data privacy practices before?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Astrology Reading Giveaway Entry
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Date
+      hint: Date of giveaway entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: birth_city
+      label: Birth City
+      hint: Where were you born?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sun_sign
+      label: Sun Sign (Zodiac)
+      hint: Your astrological sign
+      type: select_one
+      options:
+      - Aries
+      - Taurus
+      - Gemini
+      - Cancer
+      - Leo
+      - Virgo
+      - Libra
+      - Scorpio
+      - Sagittarius
+      - Capricorn
+      - Aquarius
+      - Pisces
+      required: true
+    - id: 9
+      name: address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state_province
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: giveaway_promo_code
+      label: How Did You Hear About This Giveaway
+      hint: Source of promotion
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Website
+      - Friend Referral
+      - Instagram
+      - Facebook
+      - TikTok
+      - Other
+      required: true
+    - id: 15
+      name: social_media_follow
+      label: Following on Social Media
+      hint: Which platforms follow?
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - YouTube
+      - TikTok
+      - None
+      required: false
+    - id: 16
+      name: newsletter_subscription
+      label: Subscribe to Newsletter
+      hint: Receive updates?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: astrology_interest
+      label: Interest in Astrology
+      hint: How interested are you?
+      type: select_one
+      options:
+      - Casual Interest
+      - Moderate Interest
+      - Very Interested
+      - Highly Devoted
+      required: true
+    - id: 18
+      name: reading_type_preference
+      label: Preferred Type of Reading
+      hint: If you win, what reading type?
+      type: select_one
+      options:
+      - Birth Chart Reading
+      - Transit Chart
+      - Relationship Reading
+      - Career Guidance
+      - General Life Reading
+      - No Preference
+      required: true
+    - id: 19
+      name: why_want_reading
+      label: Why Would You Like This Reading
+      hint: Tell us your interest
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: astrology_experience
+      label: Experience with Astrology
+      hint: Familiarity level
+      type: select_one
+      options:
+      - Never explored
+      - Casual interest
+      - Regular follower
+      - Devoted enthusiast
+      required: true
+    - id: 21
+      name: referral_codes
+      label: Referral Entry Codes (if applicable)
+      hint: Additional entries from referrals
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_and_conditions
+      label: I agree to the official giveaway rules
+      hint: Confirm acceptance
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: age_verification
+      label: I am 18 years or older
+      hint: Age requirement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: entry_completion_date
+      label: Entry Submission Date
+      hint: Date entry submitted
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Portfolio Submission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: portfolio_link
+      label: portfolio_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portfolio_attachment
+      label: portfolio_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio_type
+      label: portfolio_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Spine Contest Submission
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For contest coordination
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age category
+      type: select_one
+      options:
+      - Child under 12
+      - Teen 13-17
+      - Adult 18-64
+      - Senior 65 Plus
+      required: true
+    - id: 5
+      name: library_card_number
+      label: Library Card Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: If student
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: If student
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contest_category
+      label: Contest Category
+      hint: Select your entry category
+      type: select_one
+      options:
+      - Single Book Spine
+      - Multiple Book Stack
+      - Themed Collection
+      - Color Coordinated
+      - Title Story
+      - Open Category
+      required: true
+    - id: 9
+      name: entry_title
+      label: Entry Title
+      hint: Creative title for your submission
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: entry_description
+      label: Entry Description
+      hint: Describe your book spine creation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: theme_interpretation
+      label: Theme Interpretation
+      hint: How does your entry fit the theme
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_of_books
+      label: Number of Books Used
+      hint: Total books in your creation
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: book_sources
+      label: Where Did You Get the Books
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Home Library
+      - Public Library
+      - School Library
+      - Friend or Family
+      - Bookstore
+      - Other
+      required: false
+    - id: 14
+      name: photo_upload
+      label: Photo of Your Entry
+      hint: Upload a clear photo
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: additional_photos
+      label: Additional Photos
+      hint: Upload more photos if desired
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: creation_time
+      label: How Long Did It Take
+      hint: Approximate time spent
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30 minutes to 1 hour
+      - 1-2 hours
+      - Over 2 hours
+      required: true
+    - id: 17
+      name: team_entry
+      label: Is This a Team Entry
+      hint: Select if multiple people created this
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: team_members
+      label: Team Member Names
+      hint: List all team members
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_contests
+      label: Have You Entered Before
+      hint: Your previous participation
+      type: select_one
+      options:
+      - Yes this is my first
+      - Yes I have entered before
+      - Yes I have won before
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About This Contest
+      hint: How did you find out
+      type: select_one
+      options:
+      - Library Website
+      - Social Media
+      - Library Poster
+      - Librarian
+      - Friend or Family
+      - School
+      - Other
+      required: false
+    - id: 21
+      name: permission_to_display
+      label: Permission to Display Entry
+      hint: Can we display your photo
+      type: select_one
+      options:
+      - Yes display publicly
+      - Yes with name
+      - No private only
+      required: true
+    - id: 22
+      name: permission_social_media
+      label: Permission for Social Media
+      hint: Can we share on social media
+      type: select_one
+      options:
+      - Yes with credit
+      - Yes without credit
+      - No do not share
+      required: true
+    - id: 23
+      name: agree_to_rules
+      label: I Agree to Contest Rules
+      hint: By selecting yes you agree to all rules
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

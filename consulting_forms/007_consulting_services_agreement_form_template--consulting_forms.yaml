@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Services Agreement Form Template
+    pages:
+    - id: 1
+      name: section_consultant_details
+      label: -- Consultant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_full_name
+      label: Consultant Full Name
+      hint: Enter the consultant's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_address
+      label: Consultant Business Address
+      hint: Enter your primary business address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_client_details
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_company_name
+      label: Client Company Name
+      hint: Name of the company hiring the consultant
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_contact_name
+      label: Client Contact Name
+      hint: Full name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_contact_email
+      label: Client Contact Email
+      hint: Email address of the primary contact
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_scope_of_work
+      label: -- Scope of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: Give the project a name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: scope_description
+      label: Scope Description
+      hint: Detailed description of work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_project_duration
+      label: Estimated Project Duration
+      hint: How long do you expect this to take?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: deliverables
+      label: Key Deliverables
+      hint: List the primary outputs of the project
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_financial_terms
+      label: -- Financial Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: fee_structure
+      label: Fee Structure
+      hint: How will you be paid?
+      type: select_one
+      options:
+      - Hourly Rate
+      - Fixed Project Fee
+      - Monthly Retainer
+      - Performance Based
+      required: true
+    - id: 15
+      name: fee_amount
+      label: Fee Amount
+      hint: Specify the dollar amount (e.g., 50.00)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms_net_days
+      label: Payment Terms (Net Days)
+      hint: Number of days to pay after invoice
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_legal_agreement
+      label: -- Legal Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: agreement_effective_date
+      label: Agreement Effective Date
+      hint: Date when the agreement starts
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: confidentiality_clause
+      label: Confidentiality Clause
+      hint: Consultant agrees to keep client data private
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: agreement_signature_date
+      label: Agreement Signature Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

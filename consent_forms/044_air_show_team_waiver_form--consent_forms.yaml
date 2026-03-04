@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Show Team Waiver Form
+    pages:
+    - id: 1
+      name: team_info_header
+      label: -- Team / Pilot Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Aerobatic Team Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pilot_name
+      label: Pilot Name
+      hint: Full Legal Name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: aircraft_type
+      label: Aircraft Type
+      hint: Make and Model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_number
+      label: Aircraft Registration Number
+      hint: Tail Number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license_number
+      label: Pilot License Number
+      hint: FAA / CAA ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_policy
+      label: Insurance Policy Number
+      hint: Liability coverage
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_header
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: legal_header
+      label: -- Legal Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: waiver_liability
+      label: Waiver of Liability
+      hint: I release the organizers from all liability regarding injury or damage.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: media_release
+      label: Media Release
+      hint: I grant permission for photos and video to be used for promotion.
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: signature
+      label: Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: lawn_topdressing_quote_request
+    pages:
+    - id: 1
+      name: lawn_topdressing_quote_request_form
+      label: Lawn Topdressing Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lawn_area
+      label: Lawn Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lawn_area_length
+      label: Lawn Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lawn_area_width
+      label: Lawn Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lawn_description
+      label: Lawn Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Lawn Mowing
+      - Lawn Edging
+      - Lawn Aeration
+      - Lawn Topdressing
+      - Yard Cleanup
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false

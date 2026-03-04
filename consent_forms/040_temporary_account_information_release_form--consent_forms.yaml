@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Account Information Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Temporary Account Information Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Consent Forms''}'
+      - '{''id'': 2, ''label'': ''Another Category''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Consent Forms''}'
+      - Other
+      required: false
+    - id: 8
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false

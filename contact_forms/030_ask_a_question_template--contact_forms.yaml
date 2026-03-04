@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask A Question Template
+    pages:
+    - id: 1
+      name: requester_name_at
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email_at
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_at
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: industry_at
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Manufacturing
+      - Other
+      required: false
+    - id: 5
+      name: topic_interest_at
+      label: Topic of Interest
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - Product Features
+      - Pricing and Licensing
+      - Technical Support
+      - Partnership Opportunities
+      - General Feedback
+      required: true
+    - id: 6
+      name: question_feedback_at
+      label: Your Question or Feedback
+      hint: Please be as detailed as possible
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attachment_notice_at
+      label: If you have a screenshot or file, please describe it here
+      hint: File uploads are available on the next step
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: referral_source_at
+      label: How did you find our website
+      hint: null
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Professional Network
+      - Advertisement
+      - Word of Mouth
+      required: false
+    - id: 9
+      name: privacy_agreement_at
+      label: I agree to the privacy policy and data handling terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 10
+      name: submission_date_at
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: urgent_flag_at
+      label: Is this an urgent request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

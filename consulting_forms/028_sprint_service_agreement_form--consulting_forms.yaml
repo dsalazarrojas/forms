@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: sprint_service_agreement_form
+    pages:
+    - id: 1
+      name: first_page
+      label: first page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sprint_details
+      label: sprint_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_details
+      label: team_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: scope
+      label: scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goals_and_objectives
+      label: goals_and_objectives
+      hint: null
+      type: text
+      options: []
+      required: false

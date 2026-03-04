@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Consent Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_vaccination_history
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_dose_date
+      label: Date of First COVID-19 Dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: second_dose_date
+      label: Date of Second COVID-19 Dose (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_manufacturer
+      label: COVID-19 Vaccine Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Other
+      - Not sure
+      required: true
+    - id: 11
+      name: section_medical_screening
+      label: -- Medical Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: known_allergies
+      label: Do you have any known allergies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: List any medications you are currently taking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_adverse_reaction
+      label: Have you had any adverse reactions to vaccines?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes, minor
+      - Yes, severe
+      - Unsure
+      required: true
+    - id: 15
+      name: immunocompromised
+      label: Are you immunocompromised or on immunosuppressive therapy?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 16
+      name: section_consent_declaration
+      label: -- Consent and Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: read_information
+      label: I have read and understood the information about the booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: questions_answered
+      label: All my questions have been answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: consent_booster
+      label: I consent to receive the COVID-19 booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 20
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true

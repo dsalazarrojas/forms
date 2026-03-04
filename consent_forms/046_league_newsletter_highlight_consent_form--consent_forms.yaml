@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Newsletter Highlight Consent Form
+    pages:
+    - id: 1
+      name: individual_consent
+      label: individual_consent
+      hint: null
+      type: select_one
+      options:
+      - Individual consent
+      - Team consent
+      - Both
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: team_consent
+      label: team_consent
+      hint: null
+      type: select_one
+      options:
+      - Team consent
+      - Other
+      required: false
+    - id: 6
+      name: both_consent
+      label: both_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

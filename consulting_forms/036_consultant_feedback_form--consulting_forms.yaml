@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Feedback Form
+    pages:
+      - id: 1
+        name: section_feedback_header
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client name
+        hint: Optional for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: consultant_name
+        label: Consultant name
+        hint: Name of consultant being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: rating_overall
+        label: Overall rating
+        hint: Rate overall consulting experience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 5
+        name: communication
+        label: Communication
+        hint: Rate consultant communication
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: timeliness
+        label: Timeliness
+        hint: Rate delivery against schedule
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: strengths
+        label: Strengths
+        hint: What the consultant did well
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: improvement_areas
+        label: Improvement areas
+        hint: Areas for development
+        type: text
+        options: []
+        required: false

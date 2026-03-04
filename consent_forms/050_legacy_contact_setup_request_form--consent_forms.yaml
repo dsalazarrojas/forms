@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legacy Contact Setup Request Form
+    pages:
+    - id: 1
+      name: legacy_contact_setup
+      label: Legacy Contact Setup Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trusty_person
+      label: Trusted Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: account
+      label: Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_type
+      label: Account Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: legacy_contact_method
+      label: Legacy Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: legacy_contact
+      label: Legacy Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

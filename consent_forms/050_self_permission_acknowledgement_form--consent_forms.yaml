@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Permission Acknowledgement Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_permission_acknowledgement
+      label: Self-Permission Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: i_agree
+      label: I Agree
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I do not agree
+      - Decline
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number_1
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_1
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Consent Form
+    pages:
+    - id: 1
+      name: photography_consent_form_title
+      label: Photography Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: Subject Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subject_email
+      label: Subject Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: subject_phone
+      label: Subject Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject_image_release
+      label: Image Release
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer_email
+      label: Photographer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: photographer_phone
+      label: Photographer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: release_date
+      label: Release Date
+      hint: yyyy-MM-dd
+      type: date
+      options: []
+      required: false

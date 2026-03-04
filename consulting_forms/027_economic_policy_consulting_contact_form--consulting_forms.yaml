@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: economic_policy_consulting_contact_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Consulting Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consulting Forms
+      - Other
+      - Services
+      required: false
+    - id: 3
+      name: form_description
+      label: What can we help you with?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjim
+      - chatjimmy
+      - chatjimmy_2
+      required: false
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

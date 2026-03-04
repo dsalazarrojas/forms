@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Symptom Checker Use Consent Form
+    pages:
+    - id: 1
+      name: patient_info_section
+      label: '--- Patient Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: biological_sex
+      label: Biological Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Intersex
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: health_concerns_section
+      label: '--- Current Health Concerns ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_symptoms
+      label: Primary Symptoms or Reason for Checking
+      hint: Briefly describe what you are experiencing.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: symptom_duration
+      label: Duration of Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 1 to 3 days
+      - 4 to 7 days
+      - Over a week
+      - Chronic / Ongoing
+      required: true
+    - id: 10
+      name: discomfort_severity
+      label: Severity of current discomfort (1-10)
+      hint: 1 = Minimal, 10 = Extreme
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 11
+      name: consent_disclaimers_section
+      label: '--- Informed Consent & Disclaimers ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_disclaimer_note
+      label: 'IMPORTANT: NOT A MEDICAL DIAGNOSIS'
+      hint: The AI symptom checker is for informational purposes only. It is NOT a
+        substitute for professional medical advice, diagnosis, or treatment. Always
+        seek the advice of your physician or other qualified health provider with
+        any questions you may have regarding a medical condition.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_disclaimer_ack
+      label: I understand that this tool is NOT for emergency medical situations.
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 14
+      name: inaccuracy_ack
+      label: I understand that the AI may provide incorrect, incomplete, or biased
+        information.
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 15
+      name: data_processing_consent
+      label: I consent to the collection and processing of my health data for the
+        purpose of the symptom check.
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 16
+      name: privacy_policy_ack
+      label: I understand that my data will be handled according to the Privacy Policy
+        (HIPAA/GDPR compliant).
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 17
+      name: emergency_alert_section
+      label: '--- Emergency Acknowledgement ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: emergency_symptoms_alert
+      label: If you are experiencing chest pain, difficulty breathing, or severe bleeding,
+        call 911 (or local emergency services) immediately.
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and will call emergency services if needed.
+      - Other
+      required: true
+    - id: 19
+      name: signature_section
+      label: '--- Signature ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: digital_signature
+      label: Type Full Name as Digital Signature
+      hint: By typing your name, you are providing a legal digital signature.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

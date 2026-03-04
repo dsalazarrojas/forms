@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Commercial: Rent Deferment (Payment Holiday) Agreement, Incorporating
+      Deed Of Surety'
+    pages:
+    - id: 1
+      name: section_parties
+      label: -- Parties to the Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: landlord_name
+      label: Full Legal Name of Landlord
+      hint: Also known as the Lessor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: landlord_contact_details
+      label: Landlord Contact Address and Email
+      hint: For formal notifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tenant_name
+      label: Full Legal Name of Tenant
+      hint: Also known as the Lessee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenant_registration_number
+      label: Tenant Company Registration Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_leased_premises
+      label: -- Leased Premises --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Full Address of the Leased Premises
+      hint: As specified in the original lease agreement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lease_reference_number
+      label: Original Lease Agreement Reference Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_deferment_terms
+      label: -- Deferment and Payment Holiday Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: monthly_rent_amount
+      label: Regular Monthly Rent Amount
+      hint: Exclusive of utilities and extras
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: holiday_start_date
+      label: Payment Holiday Start Date
+      hint: When the deferment begins
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: holiday_end_date
+      label: Payment Holiday End Date
+      hint: When the deferment ends
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: deferred_rent_repayment_start
+      label: Repayment Commencement Date
+      hint: When the deferred rent starts being paid back
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: repayment_installments
+      label: Number of Repayment Installments
+      hint: For the deferred amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_surety_details
+      label: -- Deed of Surety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: surety_full_name
+      label: Full Legal Name of the Surety (Guarantor)
+      hint: The person/entity guaranteeing the payment
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: surety_id_number
+      label: Surety ID or Registration Number
+      hint: National ID, Passport, or Business Registration
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: surety_physical_address
+      label: Surety Physical Residential or Business Address
+      hint: No PO Boxes
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: surety_contact_phone
+      label: Surety Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_acceptance
+      label: -- Formal Acceptance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: landlord_acceptance_check
+      label: Landlord - I agree to the terms of this deferment agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 22
+      name: tenant_acceptance_check
+      label: Tenant - I agree to the terms of this deferment agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 23
+      name: date_of_agreement
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

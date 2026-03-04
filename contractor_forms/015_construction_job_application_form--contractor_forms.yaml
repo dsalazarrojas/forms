@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Job Application Form
+    pages:
+    - id: 1
+      name: position_applied
+      label: Position Applied For
+      hint: Select the job you are applying for
+      type: select_one
+      options:
+      - General Laborer
+      - Carpenter
+      - Electrician
+      - Plumber
+      - Equipment Operator
+      - Site Supervisor
+      - Project Manager
+      - Safety Officer
+      - Apprentice
+      - Other
+      required: true
+    - id: 2
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you begin work
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_address
+      label: Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_city
+      label: City
+      hint: City where you live
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: social_security
+      label: Social Security Number
+      hint: For employment verification
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_authorization
+      label: Work Authorization
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - Yes, Citizen
+      - Yes, Permanent Resident
+      - Yes, Work Visa Holder
+      - false
+      required: true
+    - id: 13
+      name: drivers_license
+      label: Do You Have a Valid Driver's License
+      hint: Required for some positions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: license_class
+      label: License Class
+      hint: Type of license held
+      type: select_one
+      options:
+      - Class A CDL
+      - Class B CDL
+      - Class C
+      - Regular License
+      - Not Applicable
+      required: false
+    - id: 15
+      name: years_experience
+      label: Years of Experience
+      hint: In construction or related field
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 7 years
+      - 8 to 15 years
+      - More than 15 years
+      required: true
+    - id: 16
+      name: skills_certifications
+      label: Skills and Certifications
+      hint: List relevant skills and certifications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_operated
+      label: Equipment You Can Operate
+      hint: List construction equipment you are trained on
+      type: select_multiple
+      options:
+      - Excavator
+      - Bulldozer
+      - Backhoe
+      - Crane
+      - Forklift
+      - Scissor Lift
+      - Boom Lift
+      - Concrete Mixer
+      - Compactor
+      - None
+      required: false
+    - id: 18
+      name: previous_employer_1
+      label: Most Recent Employer
+      hint: Company name and dates
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: previous_position_1
+      label: Previous Position
+      hint: Job title and duties
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reason_leaving
+      label: Reason for Leaving
+      hint: Why did you leave this position
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reference_name
+      label: Professional Reference
+      hint: Name and contact of reference
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: safety_training
+      label: Safety Training Completed
+      hint: List safety courses or OSHA training
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: physical_ability
+      label: Can You Perform Physical Labor
+      hint: Including lifting, climbing, standing for long periods
+      type: select_one
+      options:
+      - Yes, Without Limitations
+      - Yes, With Some Limitations
+      - false
+      required: true
+    - id: 24
+      name: drug_test_consent
+      label: Consent to Drug Test
+      hint: Do you agree to pre-employment drug screening
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: Do you authorize background verification
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you want us to know
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

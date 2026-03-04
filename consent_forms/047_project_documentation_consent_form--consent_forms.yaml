@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: project_documentation_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: What type of consent will be obtained?
+      hint: null
+      type: select_one
+      options:
+      - Educational
+      - Research
+      - Promotional
+      required: false
+    - id: 3
+      name: photo_consent
+      label: Will you be photographed?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: video_consent
+      label: Will you be recorded?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: project_materials_consent
+      label: Will you grant permission for your project materials to be shared?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: educational_purpose
+      label: For educational purposes, what will the materials be used for?
+      hint: null
+      type: select_multiple
+      options:
+      - Teaching
+      - Research
+      - Project presentation
+      required: false
+    - id: 7
+      name: research_purpose
+      label: For research purposes, what will the materials be used for?
+      hint: null
+      type: select_multiple
+      options:
+      - Study
+      - Analysis
+      - Presentation
+      required: false
+    - id: 8
+      name: promotional_purpose
+      label: For promotional purposes, what will the materials be used for?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Website
+      - Print materials
+      required: false

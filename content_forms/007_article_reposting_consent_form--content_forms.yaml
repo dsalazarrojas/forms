@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Reposting Consent Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_website
+      label: Author Website or Blog
+      hint: Your personal or professional website
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Optional backup contact method
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Article Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: article_title
+      label: Article Title
+      hint: Official title of the article
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: article_url
+      label: Original Article URL
+      hint: Link to the original published article
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: publication_date
+      label: Original Publication Date
+      hint: When was it first published?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: article_length
+      label: Approximate Article Length
+      hint: Word count or length category
+      type: select_one
+      options:
+      - Under 500 words
+      - 500 - 1000 words
+      - 1000 - 2000 words
+      - 2000 - 5000 words
+      - Over 5000 words
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Reposting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: republishing_platform
+      label: Where will the article be reposted?
+      hint: Destination platform or publication
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: republish_date
+      label: Planned Reposting Date
+      hint: When do you plan to republish?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: content_modifications
+      label: Will the article be modified?
+      hint: Any significant changes or edits?
+      type: select_one
+      options:
+      - No modifications
+      - Minor edits only
+      - Significant revisions
+      - Updates and additions
+      required: true
+    - id: 15
+      name: modification_details
+      label: Describe Proposed Modifications
+      hint: What changes will be made to the article?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: author_credit
+      label: Will you provide author credit?
+      hint: Will original author be credited?
+      type: select_one
+      options:
+      - Yes, full byline
+      - Yes, anonymous
+      - Yes, as contributor
+      - No credit provided
+      required: true
+    - id: 18
+      name: original_link_included
+      label: Will you link back to the original article?
+      hint: Canonical or reference link to original
+      type: select_one
+      options:
+      - Yes, in the beginning
+      - Yes, at the end
+      - Yes, in footer
+      - No link included
+      required: false
+    - id: 19
+      name: exclusive_rights
+      label: Are you requesting exclusive publication rights?
+      hint: Can the author republish elsewhere during exclusivity period?
+      type: select_one
+      options:
+      - No, not exclusive
+      - Yes, 30 days exclusive
+      - Yes, 60 days exclusive
+      - Yes, 90 days exclusive
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Permissions and Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: permitted_platforms
+      label: Permitted Publication Platforms
+      hint: Select all authorized platforms
+      type: select_multiple
+      options:
+      - Blog or Website
+      - Social Media
+      - Newsletter
+      - Magazine or Journal
+      - Educational Platform
+      - Commercial Website
+      - Open Access Repository
+      required: true
+    - id: 22
+      name: monetization_allowed
+      label: May the republisher monetize this content?
+      hint: Can ads or paywalls be used?
+      type: select_one
+      options:
+      - Yes, fully monetized
+      - Yes, with revenue share
+      - No, non-commercial only
+      - No monetization allowed
+      required: false
+    - id: 23
+      name: section_header_6
+      label: -- Final Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: author_confirms_ownership
+      label: I confirm I own the rights to this article
+      hint: Verify you have authority to grant these permissions
+      type: select_one
+      options:
+      - Yes, I own the rights
+      - No, I do not own the rights
+      required: true
+    - id: 25
+      name: consent_agreement
+      label: I consent to the reposting of this article under the terms above
+      hint: Final agreement to all specified conditions
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

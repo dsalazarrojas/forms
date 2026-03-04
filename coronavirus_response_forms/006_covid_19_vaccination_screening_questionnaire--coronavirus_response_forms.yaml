@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Screening Questionnaire
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Demographics --
+      hint: Please provide your personal information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: Your current email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: screening_header
+      label: -- Health Screening Questions --
+      hint: Please answer the following questions honestly
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: severe_allergic_reactions
+      label: Do You Have Severe Allergic Reactions to Vaccine Components
+      hint: Any severe allergies to vaccine ingredients
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 9
+      name: allergic_reaction_details
+      label: If Yes, Please Describe the Allergy
+      hint: Details about allergic reactions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_illness
+      label: Are You Currently Ill
+      hint: Do you have an acute illness or fever
+      type: select_one
+      options:
+      - true
+      - false
+      - Have Mild Symptoms
+      required: true
+    - id: 11
+      name: illness_details
+      label: Describe Current Symptoms
+      hint: If ill, describe your symptoms
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: covid_positive_recently
+      label: Have You Tested Positive for COVID-19 in the Last 90 Days
+      hint: Recent positive COVID-19 test result
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: positive_test_date
+      label: Date of Positive Test if Applicable
+      hint: When did you test positive
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: vaccine_history_header
+      label: -- Previous Vaccination History --
+      hint: Information about your previous vaccines
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_covid_vaccines
+      label: Number of Previous COVID-19 Vaccine Doses
+      hint: How many doses have you received
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: previous_vaccine_type
+      label: Type of Previous COVID-19 Vaccine
+      hint: What vaccine did you receive before
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - Mixed Types
+      - Unsure
+      - None
+      required: false
+    - id: 17
+      name: adverse_reactions_previous_vaccines
+      label: Adverse Reactions to Previous COVID-19 Vaccines
+      hint: Did you experience any side effects
+      type: select_one
+      options:
+      - No reactions
+      - Mild reactions
+      - Moderate reactions
+      - Severe reactions
+      - Unsure
+      required: true
+    - id: 18
+      name: medical_conditions_header
+      label: -- Medical History --
+      hint: Do you have any chronic conditions
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: chronic_conditions
+      label: Select Any Chronic Medical Conditions
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Disease
+      - Lung Disease
+      - Kidney Disease
+      - Liver Disease
+      - Cancer
+      - Immunocompromised
+      - Hypertension
+      - None
+      required: false
+    - id: 20
+      name: current_medications
+      label: Current Medications
+      hint: List medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: blood_thinner_use
+      label: Do You Take Blood Thinning Medications
+      hint: Medications like warfarin or aspirin therapy
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 22
+      name: immunosuppressed
+      label: Are You Immunocompromised or Taking Immunosuppressive Medications
+      hint: Medications affecting your immune system
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: pregnancy_status
+      label: Are You Currently Pregnant or Breastfeeding
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+      - Pregnant
+      - Breastfeeding
+      - Neither
+      - Prefer Not to Say
+      required: false
+    - id: 24
+      name: physician_clearance
+      label: Do You Have Physician Clearance to Receive the Vaccine
+      hint: Has your doctor approved this vaccination
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 25
+      name: consent_statement
+      label: I Consent to COVID-19 Vaccination
+      hint: I agree to proceed with vaccination
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

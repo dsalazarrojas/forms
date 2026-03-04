@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Immunization Screening and Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_screening_questions
+      label: -- Health Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_illness
+      label: Are you currently experiencing any illness or fever?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 9
+      name: severe_allergies
+      label: Do you have any severe allergies?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: allergies_list
+      label: If yes, please list them
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: immunocompromised
+      label: Are you immunocompromised or on immunosuppressive therapy?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 12
+      name: thrombosis_disorder
+      label: Do you have a history of thrombosis or blood clotting disorders?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 13
+      name: vaccination_reaction
+      label: Have you had a severe reaction to previous vaccines?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 14
+      name: section_vaccination_history
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_covid_vaccine
+      label: Have you received a COVID-19 vaccine previously?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: previous_vaccine_type
+      label: If yes, which vaccine did you receive?
+      hint: null
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - Other
+      - Not applicable
+      required: false
+    - id: 17
+      name: previous_vaccine_date
+      label: Date of previous vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: section_consent_documentation
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: received_information
+      label: I have received and reviewed information about COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: questions_answered
+      label: My questions have been answered satisfactorily
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: consent_vaccine
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 22
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: healthcare_provider
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true

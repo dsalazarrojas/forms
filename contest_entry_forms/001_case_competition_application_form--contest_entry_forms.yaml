@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Competition Application Form
+    pages:
+    - id: 1
+      name: section_team_info
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Enter your chosen team name for the competition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: university_name
+      label: University or Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_member_1
+      label: -- Team Leader (Member 1) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: leader_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: leader_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: leader_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: leader_major
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_other_members
+      label: -- Other Team Members --
+      hint: List other team members and their majors
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: member_2_name
+      label: Member 2 Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: member_3_name
+      label: Member 3 Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: member_4_name
+      label: Member 4 Full Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_application_details
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: previous_experience
+      label: Has your team participated in case competitions before
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - 'No'
+      required: true
+    - id: 15
+      name: interest_reason
+      label: Why is your team interested in this specific case competition
+      hint: Briefly describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: preferred_track
+      label: Preferred Competition Track
+      hint: Choose your area of focus
+      type: select_one
+      options:
+      - Marketing and Sales
+      - Finance and Strategy
+      - Operations and Supply Chain
+      - Sustainability and CSR
+      required: true
+    - id: 17
+      name: resume_link
+      label: Link to Team Folder with Resumes
+      hint: Please provide a link to a Google Drive or Dropbox folder
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: hearing_about_us
+      label: How did you hear about this competition
+      hint: null
+      type: select_one
+      options:
+      - University Newsletter
+      - Social Media
+      - Professor Recommendation
+      - Friend or Colleague
+      - Online Search
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Study Publication Release Form
+    pages:
+    - id: 1
+      name: medical_study_publication_form
+      label: Medical Study Publication Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: publication_status
+      label: Publication Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: study_id
+      label: Study ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: e_signatures
+      label: E-Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: approved_by_name
+      label: Approved By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_phone_number
+      label: Reviewer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: publication_status_approved
+      label: Publication Status Approved
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: reviewer_signature_date
+      label: Reviewer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: e_reviewer_signatures
+      label: E-Reviewer Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

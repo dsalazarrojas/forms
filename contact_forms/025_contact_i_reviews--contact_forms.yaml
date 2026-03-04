@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact I Reviews
+    pages:
+      - id: 1
+        name: header
+        label: -- Contact and Privacy Inquiries --
+        hint: Use this form for questions about reviews or privacy policy
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: Email for our response
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: related_form_id
+        label: Related form or reference
+        hint: If your inquiry relates to a specific form or review, provide its ID
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: inquiry_type
+        label: Inquiry type
+        hint: Nature of your question or request
+        type: select_one
+        options:
+          - Privacy question
+          - Review issue
+          - General question
+          - Other
+        required: true
+      - id: 6
+        name: message
+        label: Message
+        hint: Provide details so we can respond accurately
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: attach_files_note
+        label: Attach supporting documents via email
+        hint: Use email for large attachments
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: consent_for_follow_up
+        label: Consent for follow up
+        hint: Do you consent to be contacted for more information
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: additional_comments
+        label: Additional comments
+        hint: Any other details you want to add
+        type: text
+        options: []
+        required: false

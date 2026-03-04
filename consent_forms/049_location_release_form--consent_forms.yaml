@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Location Release Form
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_type
+      label: Type of Release
+      hint: null
+      type: select_multiple
+      options:
+      - Location Usage Rights
+      - Equipment Usage Rights
+      - Talent Usage Rights
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: duration_start
+      label: Duration Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: duration_end
+      label: Duration End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Release Notes
+      hint: null
+      type: note
+      options: []
+      required: false

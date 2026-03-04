@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Macarons Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: macaron_size
+      label: Macaron Size
+      hint: null
+      type: select_one
+      options:
+      - '4'
+      - '6'
+      - '8'
+      - '10'
+      required: false
+    - id: 3
+      name: macaron_type
+      label: Macaron Type
+      hint: null
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Fruit
+      required: false
+    - id: 4
+      name: macarons_quantity
+      label: Macarons Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: macarons_special_instructions
+      label: Macarons Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

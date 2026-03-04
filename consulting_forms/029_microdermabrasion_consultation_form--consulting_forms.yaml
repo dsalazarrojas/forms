@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microdermabrasion Consultation Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medications_2
+      label: Medications 2
+      hint: null
+      type: text
+      options: []
+      required: true

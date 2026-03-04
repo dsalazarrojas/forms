@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: hedging_match_entry_form
+    pages:
+    - id: 1
+      name: hedging_type
+      label: hedge_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: underlying_asset
+      label: underlying_asset
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: match_timing
+      label: match_timing
+      hint: null
+      type: select_one
+      options:
+      - time_1
+      - time_2
+      - time_3
+      required: false
+    - id: 4
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - risk_1
+      - risk_2
+      - risk_3
+      required: false
+    - id: 5
+      name: entry_name
+      label: entry_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_type
+      label: entry_type
+      hint: null
+      type: select_one
+      options:
+      - entry_type_1
+      - entry_type_2
+      required: false
+    - id: 7
+      name: asset_allocation
+      label: asset_allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: entry_time
+      label: entry_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: entry_status
+      label: entry_status
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      - status_3
+      required: false
+    - id: 11
+      name: match_id
+      label: match_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: entry_id
+      label: entry_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: entry_notes
+      label: entry_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_id
+      label: asset_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: asset_value
+      label: asset_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: match_duration
+      label: match_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: entry_fee
+      label: entry_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: entry_type_id
+      label: entry_type_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: asset_type_id
+      label: asset_type_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: risk_level_id
+      label: risk_level_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: entry_status_id
+      label: entry_status_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false

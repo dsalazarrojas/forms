@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butcher Competition Registration
+    pages:
+    - id: 1
+      name: competitor_name
+      label: Competitor Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competitor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: competitor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business or Shop Name
+      hint: Name of your butcher shop
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full address of your business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_phone
+      label: Business Phone Number
+      hint: Main contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_in_business
+      label: Years in Butchering Business
+      hint: How long have you been operating
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: experience_level
+      label: Experience Level
+      hint: Select your expertise level
+      type: select_one
+      options:
+      - Professional - 10+ years
+      - Professional - 5-10 years
+      - Intermediate - 2-5 years
+      - Beginner - Less than 2 years
+      required: true
+    - id: 9
+      name: competition_category
+      label: Competition Category
+      hint: Which category are you entering
+      type: select_one
+      options:
+      - Whole Animal Butchering
+      - Meat Cutting Skills
+      - Specialty Cuts
+      - Speed Challenge
+      - Product Creation
+      - Open Category
+      required: true
+    - id: 10
+      name: team_participation
+      label: Will You Compete as Team
+      hint: Solo or team entry
+      type: select_one
+      options:
+      - Solo competitor
+      - Team of 2
+      - Team of 3
+      - Team of 4 or more
+      required: true
+    - id: 11
+      name: team_members
+      label: Team Members Names
+      hint: List names of other team members if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_requirements
+      label: Special Equipment or Requirements
+      hint: Specific tools or items needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rules_agreement
+      label: Do You Agree to Competition Rules
+      hint: Must agree to participate
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 14
+      name: liability_waiver
+      label: Do You Accept Liability Waiver
+      hint: Acknowledge risks and liability
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 15
+      name: registration_fee
+      label: Registration Fee Amount
+      hint: Amount to be paid
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Cash at Event
+      required: true

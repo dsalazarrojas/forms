@@ -1,0 +1,325 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to participant
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: training_program
+      label: Training Program
+      hint: Which program are you participating in
+      type: select_one
+      options:
+      - Strength and Conditioning
+      - Speed and Agility
+      - Sport-Specific Training
+      - Rehabilitation Program
+      - Injury Prevention
+      - Performance Enhancement
+      - General Athletic Training
+      - Other
+      required: true
+    - id: 14
+      name: program_duration
+      label: Program Duration
+      hint: Length of participation
+      type: select_one
+      options:
+      - One-Time Session
+      - One Week
+      - Two to Four Weeks
+      - One to Three Months
+      - Full Season
+      - Year-Round
+      - Ongoing
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_injuries
+      label: Previous Injuries
+      hint: List any significant injuries
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: current_injuries
+      label: Current Injuries or Limitations
+      hint: Any current issues
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: physician_name
+      label: Primary Physician Name
+      hint: Name of regular doctor
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: physician_phone
+      label: Primary Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: physical_exam_date
+      label: Physical Examination Date
+      hint: Date of sports physical
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: medical_clearance
+      label: Medical Clearance Status
+      hint: Are you cleared for training
+      type: select_one
+      options:
+      - Cleared Without Restrictions
+      - Cleared With Restrictions
+      - Not Cleared
+      - Pending Review
+      required: true
+    - id: 23
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand there are inherent risks in athletic training
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 24
+      name: injury_risks
+      label: Injury Risks Acknowledgment
+      hint: I understand injuries may occur including sprains, strains, and fractures
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 25
+      name: equipment_risks
+      label: Equipment Risks Acknowledgment
+      hint: I understand equipment malfunction may cause injury
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 26
+      name: voluntary_participation
+      label: Voluntary Participation
+      hint: I am participating voluntarily
+      type: select_one
+      options:
+      - Yes - I Confirm
+      - 'No'
+      required: true
+    - id: 27
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive claims against the organization for ordinary negligence
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 28
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I assume all risks associated with athletic training
+      type: select_one
+      options:
+      - Yes - I Assume
+      - 'No'
+      required: true
+    - id: 29
+      name: indemnification
+      label: Indemnification Agreement
+      hint: I agree to indemnify the organization from claims
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 30
+      name: medical_treatment_permission
+      label: Medical Treatment Permission
+      hint: Permission to seek emergency medical treatment
+      type: select_one
+      options:
+      - Yes - I Grant Permission
+      - 'No'
+      required: true
+    - id: 31
+      name: insurance_responsibility
+      label: Insurance Responsibility
+      hint: I understand I am responsible for my own medical insurance
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 32
+      name: rule_compliance
+      label: Rule Compliance Agreement
+      hint: I agree to follow all rules and instructions
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 33
+      name: termination_clause
+      label: Termination Clause
+      hint: I understand participation may be terminated at any time
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 34
+      name: photo_release
+      label: Photo and Video Release
+      hint: Permission for photos and videos during training
+      type: select_one
+      options:
+      - Yes - Allowed
+      - No - Not Allowed
+      required: true
+    - id: 35
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if participant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature if under 18
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

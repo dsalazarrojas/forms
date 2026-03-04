@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Support Agreement Form
+    pages:
+    - id: 1
+      name: section_parent_a_info
+      label: -- Parent A Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_a_name
+      label: Parent A Full Name
+      hint: Legal name of first parent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_parent_b_info
+      label: -- Parent B Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: parent_b_name
+      label: Parent B Full Name
+      hint: Legal name of second parent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_children_info
+      label: -- Children Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: children_names_birthdates
+      label: Names and Birthdates of children
+      hint: List all minors covered by this agreement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_financial_support
+      label: -- Financial Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: monthly_support_amount
+      label: Monthly Support Amount
+      hint: Numeric value only
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_commencement_date
+      label: Payment Commencement Date
+      hint: Effective date of support
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How often should payments occur?
+      type: select_one
+      options:
+      - label: Monthly
+        value: monthly
+      - label: Bi-weekly
+        value: biweekly
+      - label: Weekly
+        value: weekly
+      required: true
+    - id: 11
+      name: section_additional_expenses
+      label: -- Additional Expenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shared_expenses
+      label: Shared Expenses and Responsibilities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Health and Dental Insurance
+        value: insurance
+      - label: School Tuition and Fees
+        value: education
+      - label: Extracurricular and Sports
+        value: sports
+      - label: Childcare and Daycare
+        value: childcare
+      required: false
+    - id: 13
+      name: section_custody_visitation
+      label: -- Custody and Visitation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: custody_arrangement
+      label: Primary Custody Arrangement
+      hint: Physical custody status
+      type: select_one
+      options:
+      - label: Sole Custody Parent A
+        value: sole_a
+      - label: Sole Custody Parent B
+        value: sole_b
+      - label: Joint Physical Custody
+        value: joint
+      required: true
+    - id: 15
+      name: visitation_schedule_desc
+      label: Description of Visitation Schedule
+      hint: Include weekends, holidays, and weekdays
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_agreement_consent
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: terms_acceptance
+      label: We both agree to the terms listed above
+      hint: Mutual consent acknowledgement
+      type: select_one
+      options:
+      - label: Yes - We Agree
+        value: true
+      - label: No - Not yet agreed
+        value: false
+      required: true
+    - id: 18
+      name: agreement_signing_date
+      label: Date of Agreement Signing
+      hint: Effective execution date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Activity Liability Waiver
+    pages:
+    - id: 1
+      name: participant_name
+      label: prophets_participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_name
+      label: guardians_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_relationship
+      label: guardians_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_school
+      label: participant_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophets_school
+      label: prophets_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waiver_signed
+      label: waiver_signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: participant_signature
+      label: participants_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_signature
+      label: guardians_signature
+      hint: null
+      type: text
+      options: []
+      required: false

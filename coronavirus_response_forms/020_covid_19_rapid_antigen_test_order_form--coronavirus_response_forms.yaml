@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid Antigen Test Order Form
+    pages:
+    - id: 1
+      name: provider_facility_name
+      label: Provider or Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_license_no
+      label: Medical License or DEA Number
+      hint: Required for professional-grade kits
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_full
+      label: Primary Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_no
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_addr
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: antigen_test_qty
+      label: Quantity of Antigen Test Kits
+      hint: Sold in packs of 25
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bulk_discount_status
+      label: Bulk Discount Category
+      hint: Select based on your total order quantity
+      type: select_one
+      options:
+      - Standard (1-4 packs)
+      - Silver (5-19 packs)
+      - Gold (20+ packs)
+      required: true
+    - id: 8
+      name: ship_method_pref
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground
+      - Overnight Air
+      - Priority Handling
+      required: true
+    - id: 9
+      name: po_number_ref
+      label: Purchase Order (PO) Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ship_instr_special
+      label: Special Shipping Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_ack_agreement
+      label: I agree to the sales and distribution terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 12
+      name: professional_use_cert
+      label: I certify that these tests will be used for professional screening only
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true

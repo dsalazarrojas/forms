@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Declaration Form COVID 19
+    pages:
+    - id: 1
+      name: visitor_arrival_time
+      label: Arrive at
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_phone_number
+      label: Employee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visitor_reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visitor_country_of_origin
+      label: Country of Origin
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Belgium
+      - Canada
+      - Germany
+      - Ireland
+      - Japan
+      - South Korea
+      - United Kingdom
+      required: false
+    - id: 7
+      name: last_contacted_countries
+      label: Last Contacted Countries
+      hint: null
+      type: select_multiple
+      options:
+      - Australia
+      - Belgium
+      - Canada
+      - Germany
+      - Ireland
+      - Japan
+      - South Korea
+      - United Kingdom
+      required: false
+    - id: 8
+      name: last_contacted_details
+      label: Last Contacted Details
+      hint: Provide additional information about last contacted countries
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: visited_countries
+      label: Visited Countries
+      hint: null
+      type: select_multiple
+      options:
+      - Australia
+      - Belgium
+      - Canada
+      - Germany
+      - Ireland
+      - Japan
+      - South Korea
+      - United Kingdom
+      required: false

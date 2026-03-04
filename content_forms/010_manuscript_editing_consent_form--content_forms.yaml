@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Manuscript Editing Consent Form
+    pages:
+    - id: 1
+      name: manuscript_editing_consent_form
+      label: Manuscript Editing Consent Form
+      hint: null
+      type: select_one
+      options:
+      - '{''Project Type'': ''Article''}'
+      - '{''Project Type'': ''Book''}'
+      - '{''Project Type'': ''Other''}'
+      required: false
+    - id: 2
+      name: author_information
+      label: Author Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manuscript_type
+      label: Manuscript Type
+      hint: null
+      type: select_one
+      options:
+      - Article
+      - Book
+      - Thesis
+      - Research Report
+      required: false
+    - id: 4
+      name: author_consent
+      label: Author Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Explicit
+      - Implied
+      required: false
+    - id: 5
+      name: manuscript_details
+      label: Manuscript Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manuscript_status
+      label: Manuscript Status
+      hint: null
+      type: select_one
+      options:
+      - In progress
+      - Published
+      - Pending
+      - Completed
+      required: false
+    - id: 8
+      name: editor_involvement
+      label: Editor Involvement
+      hint: null
+      type: select_one
+      options:
+      - No involvement
+      - Minimal involvement
+      - Substantial involvement
+      - Significant involvement
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

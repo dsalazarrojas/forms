@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Contact Information Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_email_optout
+      label: Email Opt-out
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: donor_preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 7
+      name: donor_communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Once a month
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: donor_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

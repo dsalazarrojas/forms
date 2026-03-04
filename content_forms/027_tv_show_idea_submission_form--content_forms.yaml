@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: TV Show Idea Submission Form
+    pages:
+    - id: 1
+      name: tv_show_title
+      label: TV Show Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: genre
+      label: TV Show Genre
+      hint: null
+      type: select_one
+      options:
+      - Horror
+      - Comedy
+      - Drama
+      required: true
+    - id: 3
+      name: logline
+      label: Log Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: synopsis
+      label: Synopsis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: main_character
+      label: Main Character
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Adult
+      - Teen
+      - Family
+      required: true
+    - id: 7
+      name: file_upload
+      label: Optional File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false

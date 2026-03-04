@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: enquiry_form_template
+    pages:
+    - id: 1
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_multiple
+      options:
+      - Question
+      - Feedback
+      - Other
+      required: false
+    - id: 2
+      name: what_regards
+      label: What Regards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: questions
+      label: Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: questions
+      label: Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_info_2
+      label: Submitter Info 2
+      hint: null
+      type: text
+      options: []
+      required: false

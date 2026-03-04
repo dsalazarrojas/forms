@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: talent_photo_shoot_release_form
+    pages:
+    - id: 1
+      name: photo_shoot_details
+      label: Photo Shoot Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: photo_shoot_date
+      label: Photo Shoot Date
+      hint: Please provide the date of the photo shoot
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: photo_shoot_time
+      label: Photo Shoot Time
+      hint: Please provide the start and end time of the photo shoot
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: talent_details
+      label: Talent Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_consent
+      label: Guardian Consent
+      hint: Please provide guardian consent for the photo shoot
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: photo_shoot_location
+      label: Photo Shoot Location
+      hint: Please provide the location of the photo shoot
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agency_details
+      label: Agency Details
+      hint: Please provide agency details
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photographer_details
+      label: Photographer Details
+      hint: Please select the photographer
+      type: select_one
+      options:
+      - John Doe Photography
+      - Jane Doe Photography
+      - Another Photographer
+      required: true
+    - id: 9
+      name: campaign_details
+      label: Campaign Details
+      hint: Please select the campaign(s)
+      type: select_multiple
+      options:
+      - Campaign 1
+      - Campaign 2
+      - Campaign 3
+      required: true

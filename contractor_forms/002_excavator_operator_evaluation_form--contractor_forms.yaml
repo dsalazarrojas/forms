@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: excavatorOperatorEvaluationForm
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_visited
+      label: Site Visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_started
+      label: Date Started
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: site_condition
+      label: Site Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: safety_hazard
+      label: Safety Hazard
+      hint: null
+      type: select_one
+      options:
+      - Hazard
+      - Near Miss
+      - Incident
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: operator_rating
+      label: Operator Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: completed
+      label: Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_location
+      label: Supervisor Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: site_contact
+      label: Site Contact
+      hint: null
+      type: text
+      options: []
+      required: false

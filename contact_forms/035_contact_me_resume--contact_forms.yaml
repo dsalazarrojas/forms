@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Me Resume
+    pages:
+    - id: 1
+      name: header
+      label: -- Resume Contact --
+      hint: Use this form to share your resume or request follow up
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email for application correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Best number for contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: linkedin_profile
+      label: LinkedIn profile URL
+      hint: Optional link to professional profile
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_applied_for
+      label: Position applied for
+      hint: Job title you are applying to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resume_submission_note
+      label: Attach resume via email or upload link
+      hint: Use email for large attachments or the provided upload link
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: cover_letter
+      label: Cover letter summary
+      hint: Brief summary of your qualifications
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: availability
+      label: Availability for interview
+      hint: Dates or times you are available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Other details relevant to your application
+      type: text
+      options: []
+      required: false

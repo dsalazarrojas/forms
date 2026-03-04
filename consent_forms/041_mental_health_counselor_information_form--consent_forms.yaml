@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Counselor Information Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: counselor_notes
+      label: Counselor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: mental_health_counselor_name
+      label: Mental Health Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mental_health_counselor_role
+      label: Mental Health Counselor Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mental_health_counselor_specialty
+      label: Mental Health Counselor Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mental_health_counselor_education
+      label: Mental Health Counselor Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mental_health_counselor_license
+      label: Mental Health Counselor License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: mental_health_counselor_certification
+      label: Mental Health Counselor Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: mental_health_counselor_languages_spoken
+      label: Mental Health Counselor Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: mental_health_counselor_experience
+      label: Mental Health Counselor Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mental_health_counselor_education_level
+      label: Mental Health Counselor Education Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: mental_health_counselor_licensed_in
+      label: Mental Health Counselor Licensed In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: mental_health_counselor_license_number
+      label: Mental Health Counselor License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: mental_health_counselor_licenses
+      label: Mental Health Counselor Licenses
+      hint: null
+      type: select_one
+      options:
+      - American Board of Professional Hypnotherapy
+      - American Society of Clinical Hypnosis
+      - Certified Clinical Hypnotherapist
+      - Board of Clinical Hypnotherapists
+      - Hypnotherapist Board
+      - Hypnotherapist License
+      required: true
+    - id: 22
+      name: mental_health_counselor_insurance
+      label: Mental Health Counselor Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: mental_health_counselor_therapist_license
+      label: Mental Health Counselor Therapist License
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: mental_health_counselor_board_certification
+      label: Mental Health Counselor Board Certification
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Intake Form For Massage Therapists
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter client email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: YYYY-MM
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: Enter any new or changed symptoms you have experienced
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_history
+      label: Contact History
+      hint: Describe any recent travel or close contact with someone infected
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: temperature
+      label: Temperature
+      hint: Enter your body temperature (F)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exposure
+      label: Exposure
+      hint: List any recent exposure to known or suspected COVID-19
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: symptoms_since_last_visit
+      label: Symptoms Since Last Visit
+      hint: Describe any new or changed symptoms since last visit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: health_insurance
+      label: Health Insurance
+      hint: Enter your health insurance information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: Describe any medical conditions you have or are being treated for
+      type: text
+      options: []
+      required: false

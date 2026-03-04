@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Writing Volunteer Application Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Volunteer Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_city_state
+      label: City and State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience_skills_header
+      label: -- Experience and Skills --
+      hint: Tell us about your writing background
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_of_writing_experience
+      label: Years of Writing Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: expertise_areas
+      label: Areas of Interest/Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Environmental Conservation
+      - Education and Literacy
+      - Social Justice
+      - Health and Wellness
+      - Technology for Good
+      - Grant Writing
+      required: true
+    - id: 9
+      name: portfolio_link
+      label: Link to Writing Portfolio or Samples
+      hint: Use a website, LinkedIn, or shared folder URL
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: why_volunteer
+      label: Why do you want to write for us
+      hint: Briefly describe your motivation (max 100 words)
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: availability_header
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hours_per_week
+      label: Weekly Commitment (Hours)
+      hint: How many hours can you dedicate to writing
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: preferred_writing_days
+      label: Preferred Days to Write
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Evenings
+      - Weekends
+      required: false
+    - id: 14
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: signature_confirmation
+      label: I certify the information provided is correct
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Salon Company Consent Form
+    pages:
+    - id: 1
+      name: client_name_full
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: appt_date_val
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_type_cat
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Haircut/Style
+      - Color Treatment
+      - Facial
+      - Massage
+      - Waxing
+      required: true
+    - id: 4
+      name: stylist_name_val
+      label: Stylist or Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: symptom_check_yn
+      label: I certify that I do not have a fever, cough, or shortness of breath
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true
+    - id: 6
+      name: exposure_check_yn
+      label: I certify that I have not been in contact with anyone positive for COVID-19
+        in 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true
+    - id: 7
+      name: liability_waiver_ack
+      label: I waive and release the Salon from any liability related to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 8
+      name: mask_agreement_yn
+      label: I agree to wear a mask at all times during my service
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 9
+      name: temp_record_val
+      label: Temperature Record (F)
+      hint: To be filled by salon staff
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone_no
+      label: Contact Phone Number
+      hint: For contact tracing if necessary
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email_addr
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: salon_terms_ack
+      label: I have read and agree to the salon safety terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

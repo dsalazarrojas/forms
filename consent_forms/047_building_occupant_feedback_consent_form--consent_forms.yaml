@@ -1,0 +1,310 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupant Feedback Consent Form
+    pages:
+    - id: 1
+      name: consent_intro
+      label: -- Building Occupant Feedback Consent --
+      hint: Authorization for occupant surveys and feedback collection
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: occupant_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_area
+      label: Building or area you occupy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_purpose
+      label: -- Feedback Collection Purpose --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: survey_topic
+      label: Feedback topic or survey topic
+      hint: null
+      type: select_one
+      options:
+      - Overall building satisfaction
+      - Space utilization and design
+      - Facility maintenance
+      - Safety and security
+      - Amenities and services
+      - Noise and environmental
+      - Accessibility
+      - Technology and connectivity
+      - Multiple topics
+      - Other
+      required: true
+    - id: 8
+      name: survey_frequency
+      label: Frequency of surveys
+      hint: null
+      type: select_one
+      options:
+      - One-time survey
+      - Annual survey
+      - Quarterly surveys
+      - Monthly surveys
+      - As needed basis
+      - Regular ongoing
+      required: true
+    - id: 9
+      name: feedback_use
+      label: How will feedback be used?
+      hint: null
+      type: select_multiple
+      options:
+      - Improve building operations
+      - Inform design decisions
+      - Address concerns
+      - Plan improvements
+      - Satisfaction tracking
+      - Benchmarking
+      - Reporting to stakeholders
+      - Strategic planning
+      - Other
+      required: true
+    - id: 10
+      name: communication_section
+      label: -- Communication and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_methods
+      label: Methods I can be contacted for feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Text message
+      - Online portal
+      - Mail/postal
+      - Other
+      required: true
+    - id: 12
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      - No preference
+      required: true
+    - id: 13
+      name: contact_frequency
+      label: How often are you willing to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Frequently - weekly
+      - Regularly - monthly
+      - Periodically - quarterly
+      - Occasionally - annually
+      - As needed only
+      - Minimally - rarely
+      required: true
+    - id: 14
+      name: ideal_time
+      label: Ideal time for contact or surveys
+      hint: null
+      type: select_one
+      options:
+      - Business hours
+      - After hours
+      - Weekdays
+      - Weekends
+      - Flexible
+      - No preference
+      required: false
+    - id: 15
+      name: data_handling
+      label: -- Data Handling and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: data_anonymity
+      label: Response anonymity
+      hint: Will your name be attached to feedback?
+      type: select_one
+      options:
+      - Fully anonymous - no identification
+      - Anonymous responses only
+      - Identified only to management
+      - May be shared with vendors
+      - No anonymity expected
+      required: true
+    - id: 17
+      name: data_retention
+      label: How long will your data be kept?
+      hint: null
+      type: select_one
+      options:
+      - Immediate deletion - not stored
+      - 30 days
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2-3 years
+      - Indefinitely
+      - As long as retained for analysis
+      required: true
+    - id: 18
+      name: data_access
+      label: Who will have access to your feedback?
+      hint: null
+      type: select_one
+      options:
+      - Facility management only
+      - Building management team
+      - Senior leadership
+      - External consultants
+      - Third-party survey vendors
+      - Multiple parties
+      - Unsure
+      required: true
+    - id: 19
+      name: data_sharing
+      label: Will feedback be shared externally?
+      hint: null
+      type: select_one
+      options:
+      - No - internal use only
+      - Aggregated only - no personal data
+      - With service providers
+      - For benchmarking comparisons
+      - Publicly reported
+      - Other
+      required: true
+    - id: 20
+      name: confidentiality
+      label: Confidentiality of feedback
+      hint: null
+      type: select_one
+      options:
+      - Fully confidential
+      - Confidential within management
+      - Limited confidentiality
+      - Not confidential
+      - Unsure
+      required: true
+    - id: 21
+      name: sensitive_info
+      label: -- Sensitive Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: health_info
+      label: Will feedback involve health or medical information?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Possibly
+      - true
+      required: false
+    - id: 23
+      name: personal_info
+      label: Willing to share personal information
+      hint: If relevant to feedback
+      type: select_one
+      options:
+      - Yes, if necessary
+      - Limited personal info only
+      - Prefer not to share
+      - Only demographic information
+      required: false
+    - id: 24
+      name: consent_authorization
+      label: -- Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: understand_purpose
+      label: I understand the purpose of feedback collection
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 26
+      name: understand_use
+      label: I understand how my feedback will be used
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 27
+      name: consent_to_feedback
+      label: I consent to provide feedback and participate in surveys
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional - with limitations
+      required: true
+    - id: 28
+      name: consent_limitations
+      label: Limitations on my consent
+      hint: Any restrictions or conditions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: withdrawal_understanding
+      label: I understand I can withdraw consent at any time
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - false
+      required: true
+    - id: 30
+      name: additional_info
+      label: Additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Lab Report Form
+    pages:
+    - id: 1
+      name: section_lab_info
+      label: -- Laboratory Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lab_name
+      label: Laboratory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: lab_id
+      label: Lab Report ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_patient_details
+      label: -- Patient Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_test_details
+      label: -- Test Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: test_type
+      label: Type of Test
+      hint: null
+      type: select_one
+      options:
+      - RT-PCR
+      - Rapid Antigen
+      - Antibody - IgG
+      - Antibody - IgM
+      - Antigen
+      - Other
+      required: true
+    - id: 13
+      name: specimen_type
+      label: Specimen Type
+      hint: null
+      type: select_one
+      options:
+      - Nasopharyngeal swab
+      - Oropharyngeal swab
+      - Saliva
+      - Bronchoalveolar lavage
+      - Sputum
+      - Blood
+      - Other
+      required: true
+    - id: 14
+      name: specimen_collection_date
+      label: Specimen Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: specimen_collection_time
+      label: Specimen Collection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: section_test_results
+      label: -- Test Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Indeterminate
+      required: true
+    - id: 18
+      name: ct_value
+      label: CT Value (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: result_notes
+      label: Additional Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_clinical_interpretation
+      label: -- Clinical Interpretation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: clinical_interpretation
+      label: Clinical Interpretation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_signoff
+      label: -- Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reviewing_physician
+      label: Reviewing Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: review_date
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true

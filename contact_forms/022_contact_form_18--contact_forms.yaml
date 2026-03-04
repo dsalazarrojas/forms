@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form 18
+    pages:
+    - id: 1
+      name: section_user_details
+      label: -- User Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Your Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Your Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_message_details
+      label: -- Message Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: message_subject
+      label: Message Subject
+      hint: Select a subject
+      type: select_one
+      options:
+      - General Inquiry
+      - Support Request
+      - Sales Inquiry
+      - Feedback/Suggestion
+      - Other
+      required: true
+    - id: 6
+      name: message_content
+      label: Your Message
+      hint: Enter your message here
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we get back to you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number (Optional)
+      hint: If you prefer to be contacted by phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

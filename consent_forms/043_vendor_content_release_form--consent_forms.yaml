@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Content Release Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Vendors Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: permission_date
+      label: Date of Permission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: release_agreement_signed
+      label: Release Agreement Signed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: agreement_expires
+      label: Agreement Expires
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: partner_materials
+      label: Partner Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: vendor_signature
+      label: Vendors Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_title
+      label: Company Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: content_agreement
+      label: Content Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

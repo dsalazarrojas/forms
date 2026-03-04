@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Inclusion Initiative Showcase Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: story_shared
+      label: Stories Shared
+      hint: null
+      type: select_multiple
+      options:
+      - Stories from my work
+      - Stories from my personal life
+      - Other (Please specify)
+      required: false
+    - id: 4
+      name: story_shared_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to sharing my stories
+      - I do not consent to sharing my stories
+      required: true
+    - id: 6
+      name: data_shared
+      label: Data Shared
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

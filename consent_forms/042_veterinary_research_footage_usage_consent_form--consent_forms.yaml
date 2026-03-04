@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Research Footage Usage Consent Form
+    pages:
+    - id: 1
+      name: research_footage_title
+      label: Research Footage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_title
+      label: Owner Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_description
+      label: Research Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: recording_start_date
+      label: Recording Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: recording_end_date
+      label: Recording End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: recording_location_prophets
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recording_method
+      label: Recording Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: usage_description
+      label: Usage Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: usage_purpose
+      label: Usage Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: data_sharing_reason
+      label: Data Sharing Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: consent_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_to_share_anonymously
+      label: Consent to Share Anonymously
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: consent_to_share_anonymously_reason
+      label: Consent to Share Anonymously Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent_to_share_anonymously_with
+      label: Consent to Share Anonymously with
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Research Team
+      - Other (please specify)
+      required: false
+    - id: 22
+      name: research_contact_information
+      label: Research Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: research_contact_name
+      label: Research Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: research_contact_email
+      label: Research Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: research_contact_phone
+      label: Research Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

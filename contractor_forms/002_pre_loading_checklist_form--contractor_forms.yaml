@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Loading Checklist Form
+    pages:
+    - id: 1
+      name: confirm_completed_tasks
+      label: Confirm Completed Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: confirm_equipment_loaded
+      label: Confirm Equipment Loaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: confirm_circuit_breaker_tested
+      label: Confirm Circuit Breaker
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: confirm_circuit_breaker_tested_note
+      label: Confirm Circuit Breaker Test
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: confirm_circuit_breaker_tested_email
+      label: Confirm Circuit Breaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: confirm_circuit_breaker_tested_phone
+      label: Confirm Circuit Breaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_all_equipment_loaded
+      label: Confirm All Equipment Loaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: confirm_all_equipment_loaded_note
+      label: Confirm All Equipment Loaded Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_all_equipment_loaded_email
+      label: Confirm All Equipment Loaded Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: confirm_all_equipment_loaded_phone
+      label: Confirm All Equipment Loaded Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_critical_systems
+      label: Confirm Critical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: confirm_critical_systems_note
+      label: Confirm Critical Systems Test
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_critical_systems_email
+      label: Confirm Critical Systems Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: confirm_critical_systems_phone
+      label: Confirm Critical Systems Phone
+      hint: null
+      type: text
+      options: []
+      required: false

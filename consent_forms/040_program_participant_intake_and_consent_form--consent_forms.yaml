@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Participant Intake And Consent Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_participation
+      label: Program Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Contact via Email
+      - Contact via Phone
+      - Contact via SMS
+      - Contact via Mail
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false

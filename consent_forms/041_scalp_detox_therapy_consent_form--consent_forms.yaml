@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scalp Detox Therapy Consent Form
+    pages:
+    - id: 1
+      name: client_consent
+      label: Client Consents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scalp_health
+      label: Scalp Health
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Client Signature
+      - Parent/Guardian Signature
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: salon_address
+      label: Salon Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: salons
+      label: Salons
+      hint: null
+      type: select_one
+      options:
+      - Salon 1
+      - Salon 2
+      required: true
+    - id: 11
+      name: therapist
+      label: Therapist
+      hint: null
+      type: select_one
+      options:
+      - Therapist 1
+      - Therapist 2
+      required: true
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: minor
+      label: Minor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to the scalp detoxy therapy
+      - I do not consent to the scalp detoxy therapy
+      required: true
+    - id: 19
+      name: signature_text
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

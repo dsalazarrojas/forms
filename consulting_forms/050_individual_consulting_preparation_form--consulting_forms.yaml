@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Consulting Preparation Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consulting_info
+      label: Consulting Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option_value'': ''Meeting'', ''option_label'': ''Meeting''}'
+      - '{''option_value'': ''Other'', ''option_label'': ''Other''}'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consultant_comments
+      label: Consultant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_value'': ''email'', ''option_label'': ''Email''}'
+      - '{''option_value'': ''phone'', ''option_label'': ''Phone''}'
+      required: true
+    - id: 14
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

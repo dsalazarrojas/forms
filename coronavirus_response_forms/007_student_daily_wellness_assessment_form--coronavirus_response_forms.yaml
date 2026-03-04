@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Daily Wellness Assessment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_temperature
+      label: Student Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: student_symptoms
+      label: Student Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: school_administrator
+      label: School Administrator
+      hint: null
+      type: select_one
+      options:
+      - School Administrator A
+      - School Administrator B
+      - School Administrator C
+      required: true
+    - id: 8
+      name: school_administrator_phone
+      label: School Administrator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_administrator_email
+      label: School Administrator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: school_administrator_comments
+      label: School Administrator Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_today
+      label: Date Today
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_today
+      label: Time Today
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,139 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clubhouse Question Submit Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: clubhouse_username
+      label: Clubhouse Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_submit_date
+      label: Date of Question Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: room_name
+      label: Room Name
+      hint: Which room is this question for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: When is the session
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_category
+      label: Question Category
+      hint: Type of question
+      type: select_one
+      options:
+      - General Question
+      - Technical Question
+      - Business Related
+      - Personal Development
+      - Topic Clarification
+      - Other
+      required: true
+    - id: 9
+      name: question_text
+      label: Your Question
+      hint: What would you like to ask
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_context
+      label: Additional Context
+      hint: Provide background if needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: priority_level
+      label: Question Priority
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Low Priority
+      - Medium Priority
+      - High Priority
+      - Urgent
+      required: false
+    - id: 12
+      name: target_speaker
+      label: Intended Speaker or Panelist
+      hint: Who should answer this
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: related_topic
+      label: Related to Earlier Discussion
+      hint: Is this a follow-up
+      type: select_one
+      options:
+      - Yes, Follow-Up Question
+      - No, New Topic
+      - Not Applicable
+      required: false
+    - id: 14
+      name: share_publicly
+      label: Share Question Publicly in Room
+      hint: Can moderator share your question
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Read Aloud Anonymously
+      required: true
+    - id: 15
+      name: followup_contact
+      label: Want Follow-Up Response
+      hint: Send answer to your email
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false

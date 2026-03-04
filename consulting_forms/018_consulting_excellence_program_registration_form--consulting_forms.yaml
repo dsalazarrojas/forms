@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Excellence Program Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_industry
+      label: Company Industry
+      hint: Industry sector
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Consulting
+      - Government
+      - Education
+      - Nonprofit
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: true
+    - id: 9
+      name: program_selection
+      label: Select Program
+      hint: Which excellence program are you registering for
+      type: select_one
+      options:
+      - Leadership Excellence
+      - Strategic Thinking
+      - Client Management
+      - Project Management
+      - Communication Skills
+      - Business Development
+      - Full Excellence Program
+      required: true
+    - id: 10
+      name: program_format
+      label: Program Format
+      hint: How will you participate
+      type: select_one
+      options:
+      - In Person
+      - Online Live
+      - Self-Paced Online
+      - Hybrid
+      required: true
+    - id: 11
+      name: program_start_date
+      label: Preferred Start Date
+      hint: When do you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: Total years in the workforce
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: consulting_experience
+      label: Years of Consulting Experience
+      hint: Years specifically in consulting
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: current_role_level
+      label: Current Role Level
+      hint: Select your career level
+      type: select_one
+      options:
+      - Entry Level
+      - Associate
+      - Manager
+      - Senior Manager
+      - Director
+      - Executive
+      - Partner
+      required: true
+    - id: 15
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: skill_areas
+      label: Skill Areas to Develop
+      hint: Select areas you want to improve
+      type: select_multiple
+      options:
+      - Leadership
+      - Strategic Planning
+      - Client Relations
+      - Problem Solving
+      - Data Analysis
+      - Presentation Skills
+      - Negotiation
+      - Team Management
+      - Time Management
+      - Business Writing
+      required: true
+    - id: 17
+      name: previous_training
+      label: Previous Related Training
+      hint: List any relevant training completed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sponsorship
+      label: Is Your Company Sponsoring
+      hint: Select if your employer is paying
+      type: select_one
+      options:
+      - Yes, Company Sponsored
+      - No, Self-Funded
+      - Partially Sponsored
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Company Invoice
+      - PayPal
+      - Other
+      required: true
+    - id: 20
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions for in-person events
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About This Program
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Email Campaign
+      - Conference
+      - Search Engine
+      - Other
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the program terms and conditions
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

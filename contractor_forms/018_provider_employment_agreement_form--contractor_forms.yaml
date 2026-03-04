@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: provider_employment_agreement_form
+    pages:
+    - id: 1
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_email
+      label: provider_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: provider_phone
+      label: provider_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agreement_type
+      label: agreement_type
+      hint: null
+      type: select_one
+      options:
+      - hourly
+      - monthly
+      - yearly
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: compensation_terms
+      label: compensation_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signatures
+      label: signatures
+      hint: null
+      type: note
+      options: []
+      required: true

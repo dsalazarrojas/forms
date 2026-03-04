@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization To Represent Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: principal_name
+      label: Principal Name
+      hint: Full legal name of person being represented
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: principal_address
+      label: Principal Address
+      hint: Residential address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: principal_email
+      label: Principal Email
+      hint: Email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: principal_phone
+      label: Principal Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: representative_name
+      label: Representative Full Name
+      hint: Name of person who will represent you
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: representative_relationship
+      label: Relationship to Principal
+      hint: How is representative related
+      type: select_one
+      options:
+      - Spouse
+      - Family Member
+      - Attorney
+      - Accountant
+      - Business Partner
+      - Trusted Friend
+      - Other
+      required: true
+    - id: 8
+      name: representative_address
+      label: Representative Address
+      hint: Address of representative
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: representative_email
+      label: Representative Email
+      hint: Email contact for representative
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: representative_phone
+      label: Representative Phone
+      hint: Phone contact for representative
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: scope_of_authority
+      label: Scope of Representation
+      hint: What matters can representative handle
+      type: select_one
+      options:
+      - Specific Matter Only
+      - Limited Matters
+      - General Representation
+      - Full Authority
+      - Conditional Authority
+      required: true
+    - id: 12
+      name: specific_matters
+      label: Specific Matters of Representation
+      hint: Describe what representative can do
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: representation_type
+      label: Type of Representation
+      hint: What kind of representation
+      type: select_one
+      options:
+      - Legal Representation
+      - Financial/Business
+      - Medical Decisions
+      - Administrative
+      - Multiple Matters
+      - Other
+      required: true
+    - id: 14
+      name: start_date
+      label: Start Date of Representation
+      hint: When does authorization begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: end_date
+      label: End Date of Representation
+      hint: When does it expire
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: duration_type
+      label: Duration of Authorization
+      hint: How long is this valid
+      type: select_one
+      options:
+      - One-Time/Single Matter
+      - Temporary - Specific Period
+      - Ongoing Until Revoked
+      - Indefinite
+      - Conditional Termination
+      required: true
+    - id: 17
+      name: financial_authority
+      label: Financial Decision Authority
+      hint: Can representative make financial decisions
+      type: select_one
+      options:
+      - No Financial Authority
+      - Limited Financial Authority
+      - Specific Amount Limit
+      - Broad Financial Authority
+      - Full Financial Authority
+      required: true
+    - id: 18
+      name: financial_limit
+      label: Financial Decision Limit
+      hint: Maximum amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: signing_authority
+      label: Authority to Sign Documents
+      hint: Can representative sign on your behalf
+      type: select_one
+      options:
+      - Cannot Sign
+      - Limited Signing Rights
+      - Can Sign Specific Documents
+      - Full Signing Authority
+      required: true
+    - id: 20
+      name: medical_authority
+      label: Medical Decision Authority
+      hint: Can representative make medical decisions
+      type: select_one
+      options:
+      - No Medical Authority
+      - Limited Medical Decisions
+      - Emergency Medical Decisions
+      - Full Medical Authority
+      required: false
+    - id: 21
+      name: communication_authority
+      label: Authority to Communicate on Behalf
+      hint: Can representative speak for you
+      type: select_one
+      options:
+      - Limited Communication
+      - Broad Communication Rights
+      - Full Authority to Communicate
+      required: false
+    - id: 22
+      name: limitation_details
+      label: Specific Limitations
+      hint: Any restrictions on authority
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: duties_and_obligations
+      label: Representative Duties and Obligations
+      hint: What must representative do
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: termination_conditions
+      label: Termination Conditions
+      hint: How can this authorization end
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: principal_authorization
+      label: Principal Authorization
+      hint: Do you authorize this representation
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - Do Not Authorize
+      - Conditional - With Modifications
+      required: true

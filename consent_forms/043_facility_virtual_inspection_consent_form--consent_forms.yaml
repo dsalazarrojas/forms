@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Virtual Inspection Consent Form
+    pages:
+    - id: 1
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_inspector
+      label: Facility Inspector
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jimmy''}'
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      required: false
+    - id: 3
+      name: preferred_inspection_time
+      label: Preferred Inspection Time
+      hint: 24 hours a day, 7 days a week
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: signed_consent
+      label: Signed Consent
+      hint: I have read and agree to the terms and conditions.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: facility_manager_name
+      label: Facility Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_manager_email
+      label: Facility Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: facility_manager_phone
+      label: Facility Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_number_verification_form
+    pages:
+    - id: 1
+      name: phone_number
+      label: Phone Number
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: verify
+      label: Verify
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: result
+      label: Result
+      hint: null
+      type: note
+      options: []
+      required: false

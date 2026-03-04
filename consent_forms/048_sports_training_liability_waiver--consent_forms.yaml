@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Training Liability Waiver
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_permission
+      label: parent permission
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Parent''}'
+      - '{''option2'': ''Guardian''}'
+      - '{''option3'': ''Both''}'
+      required: false
+    - id: 9
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_signature
+      label: emergency contact signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_address
+      label: facility address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_phone
+      label: facility phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_email
+      label: facility email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: facility_website
+      label: facility website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_license
+      label: facility license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_business_name
+      label: facility business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''None''}'
+      - '{''option2'': ''Asthma''}'
+      - '{''option3'': ''Epilepsy''}'
+      - '{''option4'': ''Diabetes''}'
+      - '{''option5'': ''Allergies''}'
+      required: false
+    - id: 23
+      name: emergency_contact_authorized
+      label: emergency contact authorized
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 24
+      name: waiver_signed
+      label: waiver
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 25
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: false

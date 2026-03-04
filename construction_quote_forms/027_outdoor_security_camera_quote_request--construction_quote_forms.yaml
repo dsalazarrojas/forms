@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Security Camera Quote Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_cams
+      label: Number of Cams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: camera_type
+      label: Camera Type
+      hint: null
+      type: select_one
+      options:
+      - '{''type'': ''Wired''}'
+      - '{''type'': ''Wireless''}'
+      - '{''type'': ''Hybrid''}'
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

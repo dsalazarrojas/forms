@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blue Sky Contact Form
+    pages:
+    - id: 1
+      name: contact_intro
+      label: -- Contact Us --
+      hint: We would love to hear from you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_or_organization
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_reason
+      label: Reason for Contacting
+      hint: null
+      type: select_one
+      options:
+      - Sales inquiry
+      - Technical support
+      - Partnership
+      - Job inquiry
+      - Media request
+      - Feedback
+      - Other
+      required: true
+    - id: 8
+      name: subject_line
+      label: Subject
+      hint: What is this about?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message_content
+      label: Message
+      hint: Tell us more
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: inquiry_product_service
+      label: Product or Service Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Education
+      - Manufacturing
+      - Other
+      required: false
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Startup
+      - Small (1-50)
+      - Medium (50-500)
+      - Large (500+)
+      - Individual/Freelance
+      required: false
+    - id: 13
+      name: response_timeframe
+      label: When do you need a response?
+      hint: null
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within 3 days
+      - Within 1 week
+      - No rush
+      required: false
+    - id: 14
+      name: how_found_us
+      label: How did you find us?
+      hint: null
+      type: select_one
+      options:
+      - Search engine
+      - Social media
+      - Referral
+      - Advertisement
+      - Word of mouth
+      - Other
+      required: false
+    - id: 15
+      name: subscribe_newsletter
+      label: Subscribe to our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

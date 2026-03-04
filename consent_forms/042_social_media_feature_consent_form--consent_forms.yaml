@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Feature Consent Form
+    pages:
+    - id: 1
+      name: social_media_feature_consent_form
+      label: Social media feature consent form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feature_content
+      label: Feature content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: social_media_purposes
+      label: Social media purposes
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Social media advertising''}'
+      - '{''option2'': ''Social media promotions''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 4
+      name: social_media_channels
+      label: Social media channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Facebook''}'
+      - '{''option2'': ''Instagram''}'
+      - '{''option3'': ''Twitter''}'
+      - '{''option4'': ''TikTok''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Chat Jimmy''}'
+      - '{''option2'': ''Another user''}'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

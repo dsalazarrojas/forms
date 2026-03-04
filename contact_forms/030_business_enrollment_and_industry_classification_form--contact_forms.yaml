@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Enrollment And Industry Classification Form
+    pages:
+    - id: 1
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_dba
+      label: Doing Business As (DBA)
+      hint: Any assumed names
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Structure
+      hint: Type of entity
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Limited Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Cooperative
+      - Other
+      required: true
+    - id: 5
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_license
+      label: State License Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: Physical business location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: industry_classification
+      label: -- Industry Classification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_industry
+      label: Primary Industry
+      hint: Main type of business
+      type: select_one
+      options:
+      - Agriculture
+      - Manufacturing
+      - Construction
+      - Retail Trade
+      - Transportation
+      - Information Technology
+      - Financial Services
+      - Healthcare
+      - Education
+      - Professional Services
+      - Hospitality
+      - Entertainment
+      - Real Estate
+      - Other
+      required: true
+    - id: 13
+      name: naics_code
+      label: NAICS Code
+      hint: If you know it
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: primary_products
+      label: Primary Products or Services
+      hint: What do you offer?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: owner_name
+      label: Owner or Principal Name
+      hint: Name of owner or principal
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: phone
+      label: Business Phone
+      hint: Primary business phone
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: email
+      label: Business Email
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: website
+      label: Website
+      hint: Company website
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employees
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: founding_date
+      label: Business Start Date
+      hint: When did you start?
+      type: date
+      options: []
+      required: true

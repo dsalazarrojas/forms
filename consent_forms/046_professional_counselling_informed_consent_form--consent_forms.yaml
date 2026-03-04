@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Counselling Informed Consent Form
+    pages:
+    - id: 1
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_sessions
+      label: Frequency of Sessions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Weekly''}'
+      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''As Needed''}'
+      required: false
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false

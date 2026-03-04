@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Contact Us Form
+      hint: Fill out to get in touch
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role or Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: subject
+      label: Subject
+      hint: Message subject
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: category
+      label: Category
+      hint: Inquiry type
+      type: select_one
+      options:
+      - Information Request
+      - Support
+      - Feedback
+      - Partnership
+      - Media Inquiry
+      - Other
+      required: true
+    - id: 10
+      name: message
+      label: Message
+      hint: Your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attachment
+      label: Attachment
+      hint: Optional file
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_preference
+      label: Contact Preference
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true
+    - id: 13
+      name: availability
+      label: Availability
+      hint: Best time
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false

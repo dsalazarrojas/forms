@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Wait List Sign Up Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For waitlist notification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: For appointment confirmation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How to reach you about appointment
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Current COVID-19 vaccine status
+      type: select_one
+      options:
+      - Unvaccinated
+      - One dose received
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 11
+      name: vaccine_preference
+      label: Vaccine Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No preference
+      required: false
+    - id: 12
+      name: dose_seeking
+      label: Dose Being Sought
+      hint: null
+      type: select_one
+      options:
+      - First dose
+      - Second dose
+      - Booster dose
+      - Additional booster
+      required: true
+    - id: 13
+      name: priority_status
+      label: Priority Status
+      hint: Reason for prioritization if applicable
+      type: select_one
+      options:
+      - Healthcare worker
+      - Essential worker
+      - Age 65 or older
+      - Medical condition
+      - No priority
+      required: false
+    - id: 14
+      name: allergies
+      label: Known Allergies
+      hint: Especially vaccine component allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any serious health conditions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: appointment_availability
+      label: Preferred Appointment Window
+      hint: Timeframe when you can receive vaccine
+      type: select_one
+      options:
+      - As soon as possible
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekends
+      - Flexible
+      required: true
+    - id: 17
+      name: transportation_needed
+      label: Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: consent
+      label: I consent to join the vaccine waitlist
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

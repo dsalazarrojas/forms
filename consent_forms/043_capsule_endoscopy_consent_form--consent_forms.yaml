@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capsule Endoscopy Consent Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capsule Endoscopy Procedure Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: This form documents your informed consent for capsule endoscopy. Please
+        read carefully and ask questions before signing.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient birthday
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Hospital/clinic ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Patient email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: procedure_date
+      label: Procedure Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: physician_name
+      label: Physician Name
+      hint: Doctor's name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: procedure_info_header
+      label: -- Procedure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: procedure_indication
+      label: Reason for Procedure
+      hint: Clinical indication
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: procedure_understanding
+      label: I understand the procedure
+      hint: Confirm understanding
+      type: select_one
+      options:
+      - Yes, fully explained
+      - Yes, somewhat
+      - Need more explanation
+      - No, not explained
+      required: true
+    - id: 14
+      name: medical_history_header
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_procedures
+      label: Have you had capsule endoscopy before?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 16
+      name: pacemaker_status
+      label: Do you have a pacemaker or implanted device?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 17
+      name: bowel_obstruction
+      label: History of bowel obstruction or stricture?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 18
+      name: crohns_disease
+      label: History of Crohn's disease?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: List medications
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: allergies
+      label: Drug Allergies
+      hint: List allergies
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: risks_benefits_header
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: risks_explained
+      label: Potential risks were explained to me
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly
+      - Somewhat
+      - false
+      required: true
+    - id: 23
+      name: common_risks
+      label: I understand common risks include
+      hint: Confirm understanding
+      type: select_multiple
+      options:
+      - Capsule retention
+      - Bowel obstruction
+      - Aspiration
+      - Incomplete examination
+      - Minor discomfort
+      - Failure to diagnose
+      required: true
+    - id: 24
+      name: rare_risks
+      label: I acknowledge rare complications may occur
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, I understand
+      - No"
+      required: true
+    - id: 25
+      name: benefits_understood
+      label: Benefits of the procedure were explained
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, clear
+      - Yes, somewhat
+      - Need clarification
+      - false
+      required: true
+    - id: 26
+      name: alternatives_header
+      label: -- Alternative Procedures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: alternatives_explained
+      label: Alternative procedures were discussed
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 28
+      name: alternative_options
+      label: Alternatives discussed (if any)
+      hint: Describe options
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: questions_header
+      label: -- Questions and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: questions_answered
+      label: All my questions were answered
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Mostly
+      required: true
+    - id: 31
+      name: additional_questions
+      label: Additional questions or concerns
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: consent_statement
+      label: I voluntarily consent to the capsule endoscopy procedure
+      hint: Required for procedure
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

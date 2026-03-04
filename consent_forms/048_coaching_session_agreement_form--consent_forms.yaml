@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Agreement Form
+    pages:
+    - id: 1
+      name: coach_name
+      label: Coach Full Name
+      hint: Legal name of the coach
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Full Name
+      hint: Legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: Client contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_type
+      label: Type of Session
+      hint: What type of coaching session
+      type: select_one
+      options:
+      - Initial Consultation
+      - Regular Coaching Session
+      - Follow-Up Session
+      - Assessment Session
+      - Intensive Session
+      required: true
+    - id: 9
+      name: session_date
+      label: Session Date
+      hint: When is the session scheduled
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: What time is the session
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: session_duration
+      label: Session Duration
+      hint: How long is the session
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - 120 Minutes
+      required: true
+    - id: 12
+      name: session_format
+      label: Session Format
+      hint: How will the session be conducted
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      required: true
+    - id: 13
+      name: session_location
+      label: Session Location
+      hint: Where will the session take place
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_fee
+      label: Session Fee
+      hint: Cost of this session
+      type: select_one
+      options:
+      - $50-$100
+      - $101-$200
+      - $201-$300
+      - $301-$500
+      - Over $500
+      - Package Included
+      required: true
+    - id: 15
+      name: payment_due
+      label: Payment Due Date
+      hint: When is payment due
+      type: select_one
+      options:
+      - Before Session
+      - Day of Session
+      - After Session
+      - End of Month
+      required: true
+    - id: 16
+      name: session_goals
+      label: Goals for This Session
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: cancellation_terms
+      label: Cancellation Terms Understood
+      hint: You understand cancellation policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 18
+      name: cancellation_notice
+      label: Required Cancellation Notice
+      hint: How much notice is required
+      type: select_one
+      options:
+      - 12 Hours
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
+      required: true
+    - id: 19
+      name: late_cancellation_fee
+      label: Late Cancellation Fee Applies
+      hint: You understand fees apply
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 20
+      name: confidentiality_terms
+      label: Confidentiality Terms Accepted
+      hint: Both parties agree to privacy
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 21
+      name: recording_policy
+      label: Session Recording Policy
+      hint: Can sessions be recorded
+      type: select_one
+      options:
+      - Not Allowed
+      - Allowed With Consent
+      - Coach Records Only
+      - Client May Record
+      required: true
+    - id: 22
+      name: participation_commitment
+      label: I Commit to Full Participation
+      hint: You agree to actively participate
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 23
+      name: honesty_commitment
+      label: I Commit to Honesty and Openness
+      hint: You agree to be truthful
+      type: select_one
+      options:
+      - Yes I Commit
+      - false
+      required: true
+    - id: 24
+      name: medical_disclaimer
+      label: Medical Disclaimer Acknowledged
+      hint: Coaching is not medical advice
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 25
+      name: liability_waiver
+      label: Liability Waiver Signed
+      hint: You release coach from certain liabilities
+      type: select_one
+      options:
+      - Yes I Sign
+      - false
+      required: true
+    - id: 26
+      name: client_agreement
+      label: Client Agrees to Session Terms
+      hint: Client accepts all terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 27
+      name: coach_agreement
+      label: Coach Agrees to Session Terms
+      hint: Coach accepts all terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date of Agreement
+      hint: Today date
+      type: date
+      options: []
+      required: true

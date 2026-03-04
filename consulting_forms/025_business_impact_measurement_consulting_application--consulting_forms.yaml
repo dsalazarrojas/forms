@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Impact Measurement Consulting Application
+    pages:
+      - id: 1
+        name: section_company_impact_profile
+        label: -- Company Profile --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name_impact
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: impact_measurement_project_type
+        label: Project Type
+        hint: What kind of impact are you looking to measure
+        type: select_one
+        options:
+          - Social Impact Assessment
+          - Environmental / ESG Reporting
+          - Economic Impact Analysis
+          - Comprehensive Integrated Impact
+        required: true
+      - id: 4
+        name: section_current_capabilities
+        label: -- Current Capabilities and Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: existing_measurement_tools_usage
+        label: Current Measurement Tools in Use
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Internal Spreadsheets
+          - Specialized ESG Software
+          - Third-party Reporting Frameworks (e.g. GRI)
+          - Annual Surveys
+          - No formal tools currently
+        required: true
+      - id: 6
+        name: primary_measurement_goals_desc
+        label: Measurement Goals
+        hint: What do you hope to achieve with this data
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: biggest_impact_tracking_challenge
+        label: Biggest Challenge in Impact Tracking
+        hint: e.g. Data collection, lack of internal expertise, stakeholder alignment
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: existing_data_availability_status
+        label: Existing Data Availability
+        hint: How ready is your data for analysis
+        type: select_one
+        options:
+          - High (Structured and ready)
+          - Moderate (Some clean-up required)
+          - Low (Mostly unstructured/paper-based)
+          - Very Low (Data collection needs to start from scratch)
+        required: true
+      - id: 9
+        name: section_consulting_logistics
+        label: -- Consulting Logistics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: expected_consulting_duration_months
+        label: Expected Duration of Consulting
+        hint: Target timeline for the project
+        type: select_one
+        options:
+          - 3 Months
+          - 6 Months
+          - 12 Months
+          - Ongoing Partnership
+        required: true
+      - id: 11
+        name: impact_measurement_budget_range
+        label: Budget Allocation for Project (USD)
+        hint: Optional - helps us tailor our proposal
+        type: select_one
+        options:
+          - Under 10,000
+          - 10,001 - 50,000
+          - 50,001 - 100,000
+          - 100,000+
+        required: false
+      - id: 12
+        name: primary_project_contact_person
+        label: Primary Contact for the Project
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: primary_contact_email_impact
+        label: Contact Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 14
+        name: preferred_consulting_start_date
+        label: Preferred Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: impact_application_submission_date
+        label: Application Date
+        hint: null
+        type: date
+        options: []
+        required: true

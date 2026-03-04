@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Order Form
+    pages:
+    - id: 1
+      name: facility_info_header
+      label: -- Ordering Facility Information --
+      hint: Details about your facility
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: Name of your healthcare facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_type
+      label: Facility Type
+      hint: Type of healthcare facility
+      type: select_one
+      options:
+        - Hospital
+        - Clinic
+        - Pharmacy
+        - Public Health Department
+        - Medical Practice
+        - Long-Term Care Facility
+        - Other
+      required: true
+    - id: 4
+      name: facility_address
+      label: Facility Address
+      hint: Street address of facility
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_city_state_zip
+      label: City, State, and ZIP Code
+      hint: Location information
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_phone
+      label: Facility Phone Number
+      hint: Main contact phone number
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: facility_email
+      label: Facility Email Address
+      hint: Main contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_person_order_header
+      label: -- Ordering Contact Person --
+      hint: Person placing this vaccine order
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: order_contact_name
+      label: Contact Person Name
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: order_contact_title
+      label: Contact Person Title
+      hint: Position or title of contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: order_contact_phone
+      label: Contact Person Phone
+      hint: Direct phone number
+      type: phone
+      options: []
+      required: true
+    - id: 12
+      name: order_contact_email
+      Label: Contact Person Email
+      hint: Direct email address
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: vaccine_order_header
+      label: -- Vaccine Order Details --
+      hint: What vaccines are you ordering
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vaccine_product_order
+      label: Vaccine Product Requested
+      hint: Which COVID-19 vaccine product
+      type: select_one
+      options:
+        - Pfizer-BioNTech
+        - Moderna
+        - Johnson & Johnson
+        - AstraZeneca
+        - Novavax
+        - Mixed Products
+      required: true
+    - id: 15
+      name: vaccine_doses_requested
+      label: Number of Vaccine Doses Requested
+      hint: How many doses do you need
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: vaccine_strength
+      Label: Vaccine Strength
+      hint: Adult, pediatric, or other formulation
+      type: select_one
+      options:
+        - Adult Dose
+        - Pediatric Dose - 5-11 years
+        - Pediatric Dose - 6 months to 4 years
+        - Mixed
+        - Unsure
+      required: true
+    - id: 17
+      name: delivery_details_header
+      label: -- Delivery Details --
+      hint: How you want your order delivered
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should vaccines be delivered
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: delivery_date_preference
+      Label: Preferred Delivery Date
+      hint: When do you need the vaccines
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: storage_capacity
+      label: Cold Storage Capacity - Doses
+      hint: How many doses can you store
+      type: integer
+      options: []
+      required: false
+    - id: 21
+      name: cold_chain_equipment
+      Label: Do You Have Appropriate Cold Chain Equipment
+      hint: Ultra-cold freezers, refrigeration, dry ice, etc.
+      type: select_one
+      options:
+        - Yes, ultra-cold storage
+        - Yes, standard refrigeration
+        - Yes, both types
+        - No, need recommendations
+      required: true
+    - id: 22
+      name: staff_training_header
+      label: -- Staff and Training --
+      hint: Vaccination administration details
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: trained_administrators
+      label: Number of Trained Vaccine Administrators
+      hint: How many staff are trained
+      type: integer
+      options: []
+      required: true
+    - id: 24
+      name: daily_vaccination_capacity
+      Label: Daily Vaccination Capacity - Doses
+      hint: How many doses can you administer daily
+      type: integer
+      options: []
+      required: true
+    - id: 25
+      name: authorization_statement
+      label: I Authorize This Vaccine Order
+      hint: Authorized to place this order
+      type: select_one
+      options:
+        - I authorize this order
+        - I do not authorize
+      required: true

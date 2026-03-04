@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Appointment Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_address
+      label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_header
+      label: -- Appointment Details --
+      hint: Select your preferred appointment time
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: Select a date from the calendar
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time_slot
+      label: Preferred Time Slot
+      hint: Select your preferred appointment time
+      type: select_one
+      options:
+      - 8:00 AM - 8:30 AM
+      - 8:30 AM - 9:00 AM
+      - 9:00 AM - 9:30 AM
+      - 10:00 AM - 10:30 AM
+      - 10:30 AM - 11:00 AM
+      - 11:00 AM - 11:30 AM
+      - 2:00 PM - 2:30 PM
+      - 2:30 PM - 3:00 PM
+      - 3:00 PM - 3:30 PM
+      - 4:00 PM - 4:30 PM
+      - 4:30 PM - 5:00 PM
+      required: true
+    - id: 11
+      name: appointment_type
+      label: Appointment Type
+      hint: What type of appointment do you need
+      type: select_one
+      options:
+      - First Dose
+      - Second Dose
+      - Booster Dose
+      - Single Dose Vaccine
+      - Unsure
+      required: true
+    - id: 12
+      name: vaccination_location
+      label: Preferred Vaccination Location
+      hint: Select a clinic location
+      type: select_one
+      options:
+      - Main Clinic
+      - Downtown Location
+      - Uptown Location
+      - Community Health Center
+      required: true
+    - id: 13
+      name: vaccine_preference
+      label: Vaccine Preference if Available
+      hint: Your preferred vaccine type
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No Preference
+      required: false
+    - id: 14
+      name: accessibility_header
+      label: -- Accessibility and Special Needs --
+      hint: Let us know if you need any accommodations
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Do You Require Any Accessibility Accommodations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair Accessible Entrance
+      - Sign Language Interpreter
+      - Large Print Materials
+      - Assistance with Mobility
+      - Language Interpretation
+      - None
+      required: false
+    - id: 16
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: Can we help arrange transportation
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: medical_header
+      label: -- Medical Information --
+      hint: Important health details for your appointment
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in emergency
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Your health insurance provider or uninsured
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirmation_header
+      label: -- Appointment Confirmation --
+      hint: Review and confirm your appointment details
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: confirm_information
+      label: I Confirm That All Information is Accurate
+      hint: Please review and confirm accuracy
+      type: select_one
+      options:
+      - Yes, information is accurate
+      - I need to make corrections
+      required: true
+    - id: 23
+      name: appointment_reminder
+      label: How Would You Like to Receive Appointment Reminder
+      hint: Preferred reminder method
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - No Reminder
+      required: false

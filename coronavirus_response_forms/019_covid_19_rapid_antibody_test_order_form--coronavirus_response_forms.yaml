@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid Antibody Test Order Form
+    pages:
+    - id: 1
+      name: cust_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cust_org
+      label: Organization Name
+      hint: Leave blank for individual orders
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_addr
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: billing_addr
+      label: Billing Address
+      hint: If different from shipping address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: test_kit_count
+      label: Number of Test Kits Ordered
+      hint: Minimum order 1 kit
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: kit_type_pref
+      label: Kit Type
+      hint: null
+      type: select_one
+      options:
+      - IgG/IgM Rapid Test
+      - Total Antibody Test
+      - Professional Use Only Kit
+      required: true
+    - id: 7
+      name: payment_confirm_id
+      label: Payment Confirmation ID
+      hint: Enter the ID from your receipt
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: intended_use_reason
+      label: Intended Use
+      hint: null
+      type: select_one
+      options:
+      - Home Testing
+      - Clinical Trial
+      - Workplace Screening
+      - Educational Use
+      required: true
+    - id: 9
+      name: date_needed
+      label: Date Needed By
+      hint: Standard shipping is 3-5 business days
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tracking_email
+      label: Email for Shipping Tracking
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: compliance_header
+      label: -- Compliance and Disclaimer --
+      hint: This test is for informational purposes and should be followed up with
+        clinical consultation
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: liability_waiver
+      label: I acknowledge that this test result is not a diagnosis of current infection
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true

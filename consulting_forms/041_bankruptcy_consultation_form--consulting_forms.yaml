@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bankruptcy Consultation Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 7
+      name: spouse_name
+      label: Spouse Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dependents
+      label: Number of Dependents
+      hint: Children or others
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: true
+    - id: 10
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: monthly_income
+      label: Monthly Gross Income
+      hint: Before taxes
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_debt_amount
+      label: Total Debt Amount
+      hint: Approximate total
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: debt_types
+      label: Types of Debt
+      hint: What debts do you have
+      type: select_multiple
+      options:
+      - Credit Cards
+      - Medical Bills
+      - Personal Loans
+      - Auto Loans
+      - Mortgage
+      - Student Loans
+      - Tax Debt
+      - Payday Loans
+      - Business Debt
+      required: true
+    - id: 14
+      name: assets_real_estate
+      label: Real Estate Assets
+      hint: Property owned
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assets_vehicles
+      label: Vehicle Assets
+      hint: Cars, trucks, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assets_bank_accounts
+      label: Bank Account Balances
+      hint: Total balances
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: assets_other
+      label: Other Assets
+      hint: Investments, valuables
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: monthly_expenses
+      label: Monthly Expenses
+      hint: Total living expenses
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: foreclosure_status
+      label: Foreclosure Status
+      hint: Any foreclosure actions
+      type: select_one
+      options:
+      - Not Applicable
+      - Threatened
+      - In Progress
+      - Scheduled Sale
+      required: false
+    - id: 20
+      name: repossession_status
+      label: Repossession Status
+      hint: Any repossession actions
+      type: select_one
+      options:
+      - Not Applicable
+      - Threatened
+      - In Progress
+      - Completed
+      required: false
+    - id: 21
+      name: wage_garnishment
+      label: Wage Garnishment
+      hint: Is your wages being garnished
+      type: select_one
+      options:
+      - Yes, currently
+      - Yes, previously
+      - No, never
+      - Threatened
+      required: true
+    - id: 22
+      name: previous_bankruptcy
+      label: Previous Bankruptcy Filing
+      hint: Have you filed before
+      type: select_one
+      options:
+      - Yes, Chapter 7
+      - Yes, Chapter 13
+      - Yes, Chapter 11
+      - No, never filed
+      required: true
+    - id: 23
+      name: consultation_type
+      label: Consultation Type
+      hint: What type of meeting
+      type: select_one
+      options:
+      - In-Person
+      - Phone Call
+      - Video Conference
+      - Email Consultation
+      required: true
+    - id: 24
+      name: preferred_date
+      label: Preferred Consultation Date
+      hint: When to meet
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: how_heard_about
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online Search
+      - Attorney Referral
+      - Friend or Family
+      - Advertisement
+      - Other
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

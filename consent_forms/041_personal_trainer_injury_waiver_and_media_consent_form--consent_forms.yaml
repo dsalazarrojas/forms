@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Injury Waiver And Media Consent Form
+    pages:
+    - id: 1
+      name: waiver
+      label: Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_consent
+      label: Media Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relation
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergy
+      label: Allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: media_release
+      label: Media Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: video_release
+      label: Video Release
+      hint: null
+      type: text
+      options: []
+      required: true

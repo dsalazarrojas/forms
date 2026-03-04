@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animated Contact Form
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email for our reply
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional - for quick response
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject_header
+      label: -- Message Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: subject
+      label: Subject
+      hint: What is this about
+      type: select_one
+      options:
+      - General Inquiry
+      - Product Question
+      - Service Request
+      - Partnership Opportunity
+      - Feedback
+      - Bug Report
+      - Other
+      required: true
+    - id: 7
+      name: message
+      label: Your Message
+      hint: Tell us what you would like to discuss
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: Priority Level
+      hint: How urgent is this matter
+      type: select_one
+      options:
+      - Low - General inquiry
+      - Medium - Normal priority
+      - High - Important matter
+      - Urgent - Immediate attention needed
+      required: false
+    - id: 9
+      name: company_info_header
+      label: -- Company Information (Optional) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: industry
+      label: Industry
+      hint: Your industry or field
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Services
+      - Other
+      required: false
+    - id: 13
+      name: preferences_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: How should we contact you
+      hint: Your preferred communication method
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either method
+      - Schedule a call
+      required: true
+    - id: 15
+      name: contact_time
+      label: Best time to contact you
+      hint: When is best for us to reach out
+      type: select_one
+      options:
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 9 PM)
+      - Anytime
+      - Weekdays only
+      - Weekends only
+      required: false
+    - id: 16
+      name: follow_up
+      label: May we follow up with you
+      hint: Can we contact you for additional information
+      type: select_one
+      options:
+      - Yes, please follow up
+      - No, do not follow up
+      - Only if necessary
+      required: true
+    - id: 17
+      name: newsletter
+      label: Subscribe to our newsletter
+      hint: Receive updates and news from us
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, do not subscribe
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional Information
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_note
+      label: File Attachments
+      hint: Attach relevant documents if needed
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: agreement
+      label: I agree to the privacy policy
+      hint: Your information will be kept confidential
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

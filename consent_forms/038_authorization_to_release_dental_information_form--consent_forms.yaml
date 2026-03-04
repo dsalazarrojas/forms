@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization To Release Dental Information Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of this authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: Your dental record number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_dentist
+      label: Current Dental Provider Name
+      hint: Your current dentist or practice
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: practice_name
+      label: Practice Name
+      hint: Dental office/practice name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: practice_address
+      label: Practice Address
+      hint: Current dentist address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: practice_phone
+      label: Practice Phone
+      hint: Current practice phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: records_to_release
+      label: Types of Records to Release
+      hint: Select records you want transferred
+      type: select_multiple
+      options:
+      - Complete Dental Records
+      - X-rays and Radiographs
+      - Treatment Plans
+      - Clinical Notes
+      - Laboratory Reports
+      - Previous Treatments
+      - Insurance Information
+      - Prescription Records
+      required: true
+    - id: 12
+      name: date_range_start
+      label: Records Date Range - From
+      hint: Earliest records date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: date_range_end
+      label: Records Date Range - To
+      hint: Latest records date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: recipient_name
+      label: Recipient Name
+      hint: Who will receive the records
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recipient_type
+      label: Recipient Type
+      hint: What type of recipient
+      type: select_one
+      options:
+      - Another Dentist
+      - Dental Specialist
+      - Insurance Company
+      - Self - Patient Copy
+      - Dental School
+      - Employer
+      - Other Healthcare Provider
+      required: true
+    - id: 16
+      name: recipient_practice_name
+      label: Recipient Practice or Organization Name
+      hint: Name of receiving practice/org
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recipient_address
+      label: Recipient Address
+      hint: Where to send records
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recipient_phone
+      label: Recipient Phone
+      hint: Contact phone for recipient
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recipient_fax
+      label: Recipient Fax Number
+      hint: Fax for records transmission
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recipient_email
+      label: Recipient Email
+      hint: Email for electronic records
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: release_method
+      label: Preferred Release Method
+      hint: How to send records
+      type: select_one
+      options:
+      - Fax
+      - Email - Secure
+      - Mail - Standard
+      - Mail - Certified
+      - Pick Up In Person
+      - Electronic Portal
+      - Other
+      required: true
+    - id: 22
+      name: reason_for_release
+      label: Reason for Release
+      hint: Why records are being released
+      type: select_one
+      options:
+      - Continuing Care with New Dentist
+      - Specialist Consultation
+      - Insurance Claim
+      - Second Opinion
+      - Personal Records
+      - Legal/Litigation
+      - Employment
+      - Other
+      required: true
+    - id: 23
+      name: release_authorization
+      label: Authorization to Release Records
+      hint: Do you authorize release
+      type: select_one
+      options:
+      - Yes - Release All Records
+      - Yes - Specific Records Only
+      - No - Do Not Release
+      - Conditional - With Restrictions
+      required: true
+    - id: 24
+      name: restrictions
+      label: Any Restrictions on Records
+      hint: Any specific restrictions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: one_time_authorization
+      label: One-Time or Standing Authorization
+      hint: Is this a single release
+      type: select_one
+      options:
+      - One-Time Release
+      - Standing Authorization - Future Records
+      - Limited Period Authorization
+      required: true

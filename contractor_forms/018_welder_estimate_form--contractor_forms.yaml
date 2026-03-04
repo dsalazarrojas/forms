@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Welder Estimate Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - MIG
+      - Arc
+      - Spot
+      - Orbital
+      - Other
+      required: true
+    - id: 4
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_date
+      label: Job Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: job_time
+      label: Job Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 9
+      name: welder_info
+      label: Welder Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_estimate
+      label: Job Estimate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Upload Function
+    pages:
+    - id: 1
+      name: header_note
+      label: -- Upload Inquiry --
+      hint: Use this form to submit files and a description of your request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Name of person submitting files
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_description
+      label: Upload description
+      hint: Describe the files you will upload and purpose
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_upload_note
+      label: File upload instructions
+      hint: Attach files via email or use provided upload link
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: file_types_supported
+      label: Supported file types
+      hint: Common supported formats
+      type: select_multiple
+      options:
+      - PDF
+      - JPG
+      - PNG
+      - DOCX
+      - CSV
+      required: false
+    - id: 8
+      name: max_file_size
+      label: Maximum file size per upload
+      hint: Provide an estimate for large multi-file submissions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Request priority
+      hint: Select how urgent the upload is
+      type: select_one
+      options:
+      - Normal
+      - High
+      - Urgent
+      required: false
+    - id: 10
+      name: consent_to_process
+      label: Consent to process uploaded files
+      hint: Confirm you own the rights to share these files
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any other details to help process your upload
+      type: text
+      options: []
+      required: false

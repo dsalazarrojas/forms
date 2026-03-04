@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Salon Client Liability Release Form
+    pages:
+    - id: 1
+      name: client_agreement
+      label: Client Agrees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: risk_acceptance
+      label: Risk Acceptance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_multiple
+      options:
+      - Client agrees to accept all responsibility for the risk that they may contract
+        COVID-19.
+      - Client acknowledges that their risk of contracting COVID-19 is not limited
+        to this salon
+      - Client agrees that this salon is not responsible for any damage or harm to
+        the client
+      required: true
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Client Name
+      - Client Date of Birth
+      - Client Contact Number
+      - Client Email Address
+      required: true
+    - id: 5
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: false

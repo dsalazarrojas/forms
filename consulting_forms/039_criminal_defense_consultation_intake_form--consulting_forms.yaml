@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Criminal Defense Consultation Intake Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_methods
+      label: Contact Methods
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 4
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Pending
+      - Closed
+      required: true
+    - id: 5
+      name: defense_attorney
+      label: Defense Attorney
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_documents
+      label: Other Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: law_firm
+      label: Law Firm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Other
+      required: true
+    - id: 12
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: intake_form_date
+      label: Intake Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

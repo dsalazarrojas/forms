@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Consultation Questionnaire
+    pages:
+    - id: 1
+      name: first_meeting_details
+      label: First Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_outcome
+      label: Meeting Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Successful Onboarding''}'
+      - '{''id'': 2, ''value'': ''Reschedule Meeting''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_info
+      label: Provider Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_language
+      label: First Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''English''}'
+      - '{''id'': 2, ''value'': ''Spanish''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: provider_specialties
+      label: Provider Specialties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_meeting_details
+      label: Next Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: first_language_spoken
+      label: First Language Spoken
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''English''}'
+      - '{''id'': 2, ''value'': ''Spanish''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 16
+      name: provider_availability
+      label: Provider Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: next_meeting_type
+      label: Next Meeting Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: next_meeting_date
+      label: Next Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: next_meeting_time
+      label: Next Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: next_meeting_duration
+      label: Next Meeting Duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: provider_specialties_2
+      label: Provider Specialties 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: provider_specialties_3
+      label: Provider Specialties 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_specialties_4
+      label: Provider Specialties 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: provider_specialties_5
+      label: Provider Specialties 5
+      hint: null
+      type: text
+      options: []
+      required: false

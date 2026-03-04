@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Advisory Insight Request Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry or market
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-250 employees
+      - 251-1000 employees
+      - 1000+ employees
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 1 million
+      - 1-5 million
+      - 5-10 million
+      - 10-50 million
+      - 50+ million
+      required: true
+    - id: 6
+      name: contact_person
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requester_name
+      label: Requester Name
+      hint: Name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Position or title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Business email for contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consultation_topic
+      label: -- Consultation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_topic
+      label: Primary Topic of Request
+      hint: Main area requiring advisory
+      type: select_one
+      options:
+      - Strategy and Planning
+      - Operations Improvement
+      - Financial Management
+      - Marketing and Sales
+      - Digital Transformation
+      - Organizational Change
+      - Risk Management
+      - Other
+      required: true
+    - id: 13
+      name: specific_challenges
+      label: Specific Challenges or Issues
+      hint: Detailed description of issues
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_goals
+      label: Business Goals
+      hint: What you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_efforts
+      label: Current Efforts or Attempts
+      hint: What steps have been taken so far
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: timeline
+      label: Timeline for Solution
+      hint: When do you need results
+      type: select_one
+      options:
+      - Immediate (1-4 weeks)
+      - Short-term (1-3 months)
+      - Medium-term (3-6 months)
+      - Long-term (6+ months)
+      required: true
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for consulting
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-15000
+      - 15000-50000
+      - 50000-100000
+      - 100000+
+      - Flexible
+      required: false
+    - id: 18
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What success looks like
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: stakeholder_info
+      label: -- Stakeholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: decision_makers
+      label: Key Decision Makers
+      hint: Who needs to approve recommendations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_needed
+      label: Board or Executive Approval Needed
+      hint: Will internal approval be required
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Context
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

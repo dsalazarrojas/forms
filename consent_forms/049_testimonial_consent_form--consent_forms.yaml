@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: test_prophet_name
+      label: Testimonial Prophet Name
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      - Other
+      required: false
+    - id: 4
+      name: testimonial_text
+      label: Testimonial Text
+      hint: Please write a testimonial about your experience with us.
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: consent
+      label: Consent
+      hint: Please indicate which areas you agree to
+      type: select_multiple
+      options:
+      - Marketing Materials
+      - Social Media
+      - Press Releases
+      - Other
+      required: true
+    - id: 6
+      name: other_consent_area
+      label: Other (if applicable)
+      hint: Please enter other (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agreement_date
+      label: Agreement Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: true

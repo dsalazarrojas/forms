@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Laptop Agreement Form
+    pages:
+    - id: 1
+      name: employee_laptop_agreement_form
+      label: form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_signature
+      label: employee-signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: manager_signature
+      label: manager-signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_issue
+      label: date-of-issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: issue_date
+      label: issue-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_return
+      label: date-of-return
+      hint: null
+      type: date
+      options: []
+      required: false

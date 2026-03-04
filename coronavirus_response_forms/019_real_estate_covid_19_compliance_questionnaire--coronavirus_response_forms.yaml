@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_covid_19_compliance_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - buyer
+      - seller
+      - other
+      required: true
+    - id: 4
+      name: have_symptoms
+      label: Have you or any household member have any symptoms of COVID-19
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: contact_exposure
+      label: Have you or any household member been exposed to anyone with COVID-19
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: travel_restrictions
+      label: Are there any travel restrictions that would prevent us from showing
+        the property
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Yes - buyer is not allowed on property
+      - Yes - buyer is allowed in property but needs accompaniment by real estate
+        agent
+      - Yes - property is not open to buyer
+      required: true
+    - id: 8
+      name: contact_request
+      label: Request to contact the buyer or seller
+      hint: null
+      type: select_one
+      options:
+      - buyer
+      - seller
+      - other
+      required: true
+    - id: 9
+      name: contact_request_other
+      label: Other (please specify)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

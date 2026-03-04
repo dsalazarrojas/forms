@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Lease Permission Form
+    pages:
+    - id: 1
+      name: property_lease_permission_form
+      label: Property Lease Permission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant Name
+      hint: Enter the tenant's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_visit_details
+      label: Guest Visits
+      hint: Enter the number and duration of guest visits
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: subleasing_status
+      label: Subleasing Status
+      hint: null
+      type: select_one
+      options:
+      - Allowed
+      - Not Allowed
+      - Pending
+      required: false
+    - id: 5
+      name: subleasing_details
+      label: Subleasing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: landlord_signature
+      label: Landlord Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: subleasing_start_date
+      label: Subleasing Start Date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: subleasing_end_date
+      label: Subleasing End Date
+      hint: yyyy-mm-dd
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: subleasing_status_update
+      label: Subleasing Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

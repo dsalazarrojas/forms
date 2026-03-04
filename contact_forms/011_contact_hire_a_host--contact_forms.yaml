@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Hire A Host
+    pages:
+    - id: 1
+      name: hosting_inquiry_header
+      label: Hosting Service Inquiry
+      hint: Quick and easy contact for your hosting needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: website_domain
+      label: Current Domain (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hosting_plan_interest
+      label: Hosting Plan Interest
+      hint: null
+      type: select_one
+      options:
+      - Shared Hosting
+      - VPS Hosting
+      - Dedicated Server
+      - Managed WordPress
+      required: true
+    - id: 6
+      name: estimated_traffic
+      label: Estimated Monthly Traffic
+      hint: null
+      type: select_one
+      options:
+      - 0-5k
+      - 5k-25k
+      - 25k-100k
+      - 100k+
+      required: false
+    - id: 7
+      name: specific_requirements
+      label: Specific Requirements or Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: migration_help
+      label: Do you need help with migration?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: preferred_os
+      label: Preferred Operating System
+      hint: null
+      type: select_one
+      options:
+      - Linux
+      - Windows
+      - No Preference
+      required: false
+    - id: 10
+      name: contact_consent
+      label: I consent to being contacted regarding this inquiry
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Proposal Submission
+    pages:
+    - id: 1
+      name: vendor_information
+      label: Vendor Information
+      hint: Details about the submitting vendor or company
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal name of the submitting company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Name of primary contact for this proposal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address for proposal communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposal_details
+      label: Proposal Details
+      hint: Information about the proposal being submitted
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rfp_reference_number
+      label: RFP Reference Number
+      hint: Request for Proposal reference number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: proposal_title
+      label: Proposal Title
+      hint: Title or name of your proposal
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: proposal_category
+      label: Proposal Category
+      hint: Category of services being proposed
+      type: select_one
+      options:
+      - Consulting Services
+      - IT Solutions
+      - Marketing Services
+      - Financial Services
+      - Legal Services
+      - Construction/Contracting
+      - Supply/Procurement
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: Date of proposal submission
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Project Timeline
+      hint: Estimated project duration
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 13
+      name: budget_proposal
+      label: Budget Proposal
+      hint: Total proposed budget in USD
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pricing_structure
+      label: Pricing Structure
+      hint: How is the pricing structured
+      type: select_one
+      options:
+      - Fixed Price
+      - Hourly Rate
+      - Retainer
+      - Cost Plus
+      - Performance Based
+      required: true
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: Proposed payment terms
+      type: select_one
+      options:
+      - Net 15
+      - Net 30
+      - Net 45
+      - Net 60
+      - Milestone Based
+      - Upfront Payment
+      required: true
+    - id: 16
+      name: team_size
+      label: Team Size
+      hint: Number of team members assigned to project
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: relevant_experience
+      label: Relevant Experience
+      hint: Years of relevant experience in this field
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: certifications_held
+      label: Certifications Held
+      hint: Relevant professional certifications
+      type: select_multiple
+      options:
+      - ISO Certified
+      - Industry Specific License
+      - Professional Certification
+      - Safety Certified
+      - Quality Management
+      - None
+      required: false
+    - id: 19
+      name: proposal_document
+      label: Proposal Document
+      hint: Upload your detailed proposal document
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: references_available
+      label: References Available
+      hint: Can you provide client references
+      type: select_one
+      options:
+      - Yes - Included
+      - Yes - Upon Request
+      - 'No'
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information or comments
+      type: text
+      options: []
+      required: false

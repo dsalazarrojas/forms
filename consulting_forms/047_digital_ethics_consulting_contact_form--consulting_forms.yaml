@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital-ethics-consulting-contact-form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Artificial Intelligence
+      - Data and Privacy
+      - Digital Identity
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_addr_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_addr_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_city
+      label: Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_state
+      label: Contact State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Other
+      required: false
+    - id: 13
+      name: contact_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: inquiry_questions
+      label: Inquiry Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inquiry_comments
+      label: Inquiry Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inquiry_file_upload
+      label: Inquiry File Upload
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: inquiry_file_url
+      label: Inquiry File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: inquiry_file_name
+      label: Inquiry File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inquiry_file_size
+      label: Inquiry File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: inquiry_file_extension
+      label: Inquiry File Extension
+      hint: null
+      type: select_one
+      options:
+      - doc
+      - xls
+      - pdf
+      - jpg
+      required: false
+    - id: 24
+      name: submission_review_status
+      label: Submission Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Held
+      required: false
+    - id: 25
+      name: submission_review_by
+      label: Submission Review By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

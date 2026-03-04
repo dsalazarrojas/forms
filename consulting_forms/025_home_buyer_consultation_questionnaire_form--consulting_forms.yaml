@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Consultation Questionnaire Form
+    pages:
+    - id: 1
+      name: home_buyer_consultation
+      label: home_buyer_consultation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_type
+      label: home_type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Apartment
+      - Condo
+      - House
+      - Townhouse
+      required: false
+    - id: 7
+      name: home_status
+      label: home_status
+      hint: null
+      type: select_multiple
+      options:
+      - Owned
+      - Renting
+      - Buying
+      required: false
+    - id: 8
+      name: reason_for_selling
+      label: reason_for_selling
+      hint: null
+      type: select_multiple
+      options:
+      - Selling
+      - Buying
+      - Relocating
+      - Other
+      required: false
+    - id: 9
+      name: expected_move_in_date
+      label: expected_move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_location
+      label: preferred_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: budget_range
+      label: budget_range
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $0
+      - $0-100k
+      - $100k-200k
+      - $200k-500k
+      - More than $500k
+      required: false
+    - id: 12
+      name: family_size
+      label: family_size
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Couple
+      - Family
+      required: false
+    - id: 13
+      name: home_type_features
+      label: home_type_features
+      hint: null
+      type: select_multiple
+      options:
+      - Pool
+      - Parking
+      - Balcony
+      - View
+      - Patio
+      required: false
+    - id: 14
+      name: home_location
+      label: home_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: home_neighborhood
+      label: home_neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: home_address
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: home_city
+      label: home_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: home_province
+      label: home_province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: home_postal_code
+      label: home_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: home_number
+      label: home_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: home_street
+      label: home_street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: home_building
+      label: home_building
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: home_floor
+      label: home_floor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: home_unit
+      label: home_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: home_building_type
+      label: home_building_type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Semi-detached
+      - Townhouse
+      - Duplex
+      - Condo
+      - Townhome
+      - Townhouse
+      - Other
+      required: false
+    - id: 26
+      name: home_age_of_building
+      label: home_age_of_building
+      hint: null
+      type: select_one
+      options:
+      - Less than 5
+      - 5-10
+      - 10-20
+      - More than 20
+      required: false
+    - id: 27
+      name: home_neighborhood_features
+      label: home_neighborhood_features
+      hint: null
+      type: select_multiple
+      options:
+      - Park
+      - School
+      - Grocery
+      - Highway
+      - Highway-5min
+      - Close to public transport
+      - View
+      - Other
+      required: false
+    - id: 28
+      name: preferred_commute_time
+      label: preferred_commute_time
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 10
+      - 10-20
+      - 20-30
+      - 30-40
+      - More than 40
+      required: false
+    - id: 29
+      name: preferred_commute_type
+      label: preferred_commute_type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Public Transit
+      - Walk
+      - Bike
+      required: false
+    - id: 30
+      name: preferred_work_hours
+      label: preferred_work_hours
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 4
+      - 4-6
+      - 6-8
+      - 8-12
+      - More than 12
+      required: false

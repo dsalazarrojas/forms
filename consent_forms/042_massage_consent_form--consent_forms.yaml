@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: massage_consent_form
+    pages:
+    - id: 1
+      name: massage_consent_form_1
+      label: client_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: massage_type
+      label: what_kind_of_massage
+      hint: null
+      type: select_one
+      options:
+      - Swedish massage
+      - Deep Tissue massage
+      - Sports massage
+      required: false
+    - id: 3
+      name: massage_length
+      label: massage_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: massage_area
+      label: massage_area
+      hint: null
+      type: select_multiple
+      options:
+      - Back
+      - Neck
+      - Shoulders
+      - Legs
+      - Arms
+      required: false
+    - id: 5
+      name: massage_pressure
+      label: massage_pressure
+      hint: null
+      type: select_multiple
+      options:
+      - Gentle
+      - Medium
+      - Deep
+      required: false
+    - id: 6
+      name: massage_frequency
+      label: how_often
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Twice
+      - Three or more times
+      required: false
+    - id: 7
+      name: massage_duration
+      label: massage_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: massage_cost
+      label: massage_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: how_will_you_pay
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: massage_consent_form_12
+      label: massage_consent_form_12
+      hint: null
+      type: note
+      options: []
+      required: false

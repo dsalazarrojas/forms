@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_project_consultation_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_2
+      label: Contact Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''home'', ''label'': ''Home''}'
+      - '{''id'': 2, ''name'': ''office'', ''label'': ''Office''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: project_scope
+      label: Project Scope
+      hint: Briefly describe your project scope.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: Describe your project in detail.
+      type: text
+      options: []
+      required: false

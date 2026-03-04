@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawn Care Service Form
+    pages:
+    - id: 1
+      name: lawn_care_service_form
+      label: Lawn Care Service Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_address
+      label: service_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lawn_area
+      label: lawn_area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: equipment_used
+      label: equipment_used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_services
+      label: additional_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

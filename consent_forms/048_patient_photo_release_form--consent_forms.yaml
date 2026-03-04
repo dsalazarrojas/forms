@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Photo Release Form
+    pages:
+    - id: 1
+      name: patient_photo_release_form
+      label: Patient Photo Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photo_release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: consent_type
+      label: Type of Consent
+      hint: null
+      type: select_one
+      options:
+      - Patient Information
+      - Medical Information
+      - Other
+      required: false
+    - id: 6
+      name: photo_release_location
+      label: Release Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_release_notes
+      label: Release Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photo_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Blue And Responsive
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact Page --
+      hint: Mobile friendly blue themed contact page
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email to receive reply
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: Describe your request or feedback
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Optional phone for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Time window for follow up
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information to help our response
+      type: text
+      options: []
+      required: false

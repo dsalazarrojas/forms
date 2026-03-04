@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: how_to_become_a_motives_beauty_advisor
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule_follow_up
+      label: Schedule Follow up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: candidate_email
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: candidate_phone
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_method
+      label: Follow up Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''mail''}'
+      - '{''value'': ''in_person''}'
+      required: true
+    - id: 10
+      name: follow_up_message
+      label: Follow up Message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Business Assistance Survey
+    pages:
+    - id: 1
+      name: business_header
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Retail
+      - Food Service
+      - Healthcare
+      - Manufacturing
+      - Professional Services
+      - Other
+      required: true
+    - id: 4
+      name: ownership_type
+      label: Business Ownership
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 5
+      name: employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: impact_header
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: revenue_impact
+      label: Revenue impact from pandemic
+      hint: null
+      type: select_one
+      options:
+      - Severe Decline (Over 50%)
+      - Moderate Decline (25-50%)
+      - Slight Decline (Under 25%)
+      - No Impact
+      - Increased Revenue
+      required: true
+    - id: 10
+      name: operating_status
+      label: Current Operating Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Open
+      - Partially Open
+      - Temporarily Closed
+      - Permanently Closed
+      required: true
+    - id: 11
+      name: employee_challenges
+      label: Employee challenges faced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Staff Shortages
+      - Payroll Issues
+      - Health Concerns
+      - Childcare
+      - Transportation
+      - Other
+      required: false
+    - id: 12
+      name: assistance_needed
+      label: Types of assistance needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Funding
+      - PPE Supplies
+      - Testing
+      - Consulting
+      - Regulatory Guidance
+      - Other
+      required: true
+    - id: 13
+      name: priority_assistance
+      label: Priority assistance needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: outlook
+      label: Business outlook for next 6 months
+      hint: null
+      type: select_one
+      options:
+      - Very Optimistic
+      - Somewhat Optimistic
+      - Neutral
+      - Somewhat Pessimistic
+      - Very Pessimistic
+      required: true

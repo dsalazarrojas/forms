@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circumcision Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: For adult patients
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent/Guardian Full Name
+      hint: For minor patients
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: child_name
+      label: Child's Full Name
+      hint: If patient is a minor
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: patient_date_of_birth
+      label: Patient's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: procedure_type
+      label: Type of Procedure
+      hint: null
+      type: select_one
+      options:
+      - Infant circumcision
+      - Child circumcision
+      - Adult circumcision
+      - Revision circumcision
+      required: true
+    - id: 10
+      name: medical_reason
+      label: Reason for Procedure
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Religious/cultural
+      - Medical necessity
+      - Recurrent infections
+      - Phimosis
+      - Personal preference
+      - Other
+      required: true
+    - id: 11
+      name: medical_history
+      label: Relevant Medical History
+      hint: Bleeding disorders, allergies, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_medications
+      label: Current Medications
+      hint: Include supplements
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: allergies
+      label: Known Allergies
+      hint: Medications, latex, etc.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: anesthesia_type
+      label: Anesthesia Preference
+      hint: null
+      type: select_one
+      options:
+      - Local anesthesia
+      - Regional anesthesia
+      - General anesthesia
+      - No preference
+      required: true
+    - id: 15
+      name: procedure_risks
+      label: Understanding of Risks
+      hint: I understand the risks involved
+      type: select_one
+      options:
+      - I understand and accept the risks
+      - I have questions about risks
+      required: true
+    - id: 16
+      name: risks_acknowledged
+      label: Risks Acknowledged
+      hint: Bleeding, infection, etc.
+      type: select_multiple
+      options:
+      - Bleeding
+      - Infection
+      - Pain
+      - Scarring
+      - Anesthesia complications
+      - Need for additional procedures
+      required: true
+    - id: 17
+      name: benefits_understood
+      label: Benefits Understood
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand the benefits
+      - I have questions about benefits
+      required: true
+    - id: 18
+      name: alternatives_discussed
+      label: Alternatives Discussed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: post_care_understanding
+      label: Understanding of Post-Procedure Care
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - I need more information
+      required: true
+    - id: 20
+      name: follow_up_appointment
+      label: Follow-Up Appointment Scheduled
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will schedule later
+      required: true
+    - id: 21
+      name: insurance_info
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consent_grant
+      label: Consent to Procedure
+      hint: I consent to the circumcision procedure
+      type: select_one
+      options:
+      - I give consent
+      - I do not give consent
+      required: true
+    - id: 23
+      name: signature
+      label: Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false

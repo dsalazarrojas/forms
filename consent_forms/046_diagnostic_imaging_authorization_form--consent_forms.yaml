@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diagnostic Imaging Authorization Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization_request
+      label: Authorization Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent_procedure
+      label: Consent for Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_imaging_authorization
+      label: Medical Imaging Authorization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_organization
+      label: Medical Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: procedure_code
+      label: Procedure Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: authorization_status
+      label: Authorization Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

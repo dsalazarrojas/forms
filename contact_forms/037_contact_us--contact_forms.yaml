@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us
+    pages:
+    - id: 1
+      name: header
+      label: Contact Us
+      hint: Get in touch
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Your phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: Message subject
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: Your message
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Billing
+      - General
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: Urgency level
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: Preferred Contact
+      hint: How to respond
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true

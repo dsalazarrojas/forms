@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Renovation Quote Request
+    pages:
+    - id: 1
+      name: general_info
+      label: general-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: project-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Other
+      required: false
+    - id: 12
+      name: project_quantity
+      label: Project Quantity
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Multi
+      - Entire House
+      required: false
+    - id: 13
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Inactive
+      required: false
+    - id: 14
+      name: contact_status
+      label: Contact Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: project_urgency
+      label: Project Urgency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: contract_method
+      label: Contract Method
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Project Basis
+      - Lump Sum
+      required: false
+    - id: 19
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: select_one
+      options:
+      - Weeks
+      - Months
+      - Years
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Check
+      required: false
+    - id: 21
+      name: payment_frequencies
+      label: Payment Frequencies
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Fortnightly
+      - Monthly
+      required: false
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Outstanding
+      - Partial
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_multiple
+      options:
+      - Signed
+      - Signed and Delivered
+      - Not Signed
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Change Order Form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: client
+      label: Client
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contractor
+      label: Contractor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_change
+      label: Total Change
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approved_by_signature
+      label: Approved By Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approved_by_title
+      label: Approved By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_number
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_name
+      label: Job Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: total_change
+      label: Total Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

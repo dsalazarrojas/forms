@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscape Service Work Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_date
+      label: Job Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: Please select a valid status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: Select multiple users
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_status
+      label: Service Status
+      hint: Please select a valid service status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: completed
+      label: Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: work_order_number
+      label: Work Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: job_status_update
+      label: Job Status Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: service_time
+      label: Service Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false

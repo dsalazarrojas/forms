@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Estimate Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_cost
+      label: project cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_hours
+      label: job hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_location
+      label: project location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: project status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false
+    - id: 10
+      name: job_manager
+      label: job manager
+      hint: null
+      type: select_multiple
+      options:
+      - John Smith
+      - Jane Doe
+      - Jim Brown
+      required: false

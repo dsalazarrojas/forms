@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Services Inquiry Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Education
+      - Real Estate
+      - Manufacturing
+      - Professional Services
+      - Nonprofit
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: true
+    - id: 8
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of this inquiry
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: services_interested
+      label: Services Interested In
+      hint: Which services do you need?
+      type: select_multiple
+      options:
+      - Content Strategy
+      - Blog Writing
+      - Social Media Content
+      - Video Production
+      - Graphic Design
+      - SEO Services
+      - Email Marketing
+      - Website Copywriting
+      - Brand Messaging
+      - Full-Service Content Marketing
+      required: true
+    - id: 10
+      name: primary_goal
+      label: Primary Goal
+      hint: What is your main objective?
+      type: select_one
+      options:
+      - Increase Brand Awareness
+      - Generate More Leads
+      - Improve SEO Rankings
+      - Drive More Sales
+      - Engage Existing Customers
+      - Launch New Product
+      - Rebrand Company
+      - Other
+      required: true
+    - id: 11
+      name: current_challenges
+      label: Current Challenges
+      hint: What content challenges are you facing?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Who are you trying to reach?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_content_efforts
+      label: Current Content Efforts
+      hint: What content marketing are you currently doing?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_agencies
+      label: Previous Agencies
+      hint: Have you worked with content agencies before?
+      type: select_one
+      options:
+      - Yes, currently working with one
+      - Yes, in the past
+      - No, this is our first time
+      required: true
+    - id: 15
+      name: what_didnt_work
+      label: What Did not Work Before
+      hint: If yes, what did not work well?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: monthly_budget
+      label: Monthly Budget
+      hint: What is your content marketing budget?
+      type: select_one
+      options:
+      - Under $2,500
+      - $2,500-$5,000
+      - $5,000-$10,000
+      - $10,000-$25,000
+      - $25,000-$50,000
+      - Over $50,000
+      required: true
+    - id: 17
+      name: timeline
+      label: Timeline
+      hint: When do you want to start?
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Just researching options
+      required: true
+    - id: 18
+      name: decision_makers
+      label: Decision Makers
+      hint: Who else is involved in the decision?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: competitors
+      label: Main Competitors
+      hint: Who are your main competitors?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: How did you find our agency?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Search Engine
+      - Advertisement
+      - Industry Event
+      - Other
+      required: true
+    - id: 21
+      name: referral_source
+      label: Referral Source
+      hint: If referred, who referred you?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: questions
+      label: Questions
+      hint: Do you have any questions for us?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Call
+      - Text Message
+      required: true
+    - id: 24
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When is the best time to reach you?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

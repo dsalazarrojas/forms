@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Lead Generation Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of this inquiry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: lead_source
+      label: How Did You Hear About Us
+      hint: Source of this lead
+      type: select_one
+      options:
+      - Website
+      - Google Search
+      - Social Media
+      - Referral
+      - Advertisement
+      - Home Show
+      - Previous Customer
+      - Other
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - Any Method
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: What type of project do you need
+      type: select_one
+      options:
+      - New Home Construction
+      - Home Addition
+      - Kitchen Remodel
+      - Bathroom Remodel
+      - Full Home Renovation
+      - Commercial Construction
+      - Roofing
+      - Siding
+      - Deck or Patio
+      - Other
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: Address where work will be done
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single Family Home
+      - Townhouse
+      - Condominium
+      - Multi-Family
+      - Commercial Building
+      - Industrial Building
+      - Other
+      required: true
+    - id: 11
+      name: project_size
+      label: Project Size
+      hint: Approximate square footage
+      type: select_one
+      options:
+      - Under 500 sq ft
+      - 500 to 1000 sq ft
+      - 1000 to 2500 sq ft
+      - 2500 to 5000 sq ft
+      - Over 5000 sq ft
+      required: false
+    - id: 12
+      name: project_description
+      label: Project Description
+      hint: Describe your project in detail
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for your project
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 to $25,000
+      - $25,000 to $50,000
+      - $50,000 to $100,000
+      - $100,000 to $250,000
+      - Over $250,000
+      - Not Sure
+      required: true
+    - id: 14
+      name: financing_status
+      label: Financing Status
+      hint: How will you finance this project
+      type: select_one
+      options:
+      - Cash
+      - Home Equity Loan
+      - Construction Loan
+      - Need Financing Assistance
+      - Not Sure Yet
+      required: false
+    - id: 15
+      name: timeline
+      label: When Do You Want to Start
+      hint: Your preferred start timeframe
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - 1 to 3 Months
+      - 3 to 6 Months
+      - 6 Months or More
+      - Just Planning
+      required: true
+    - id: 16
+      name: decision_timeframe
+      label: When Do You Plan to Decide
+      hint: When will you select a contractor
+      type: select_one
+      options:
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - 1 to 3 Months
+      - Not Sure
+      required: false
+    - id: 17
+      name: other_contractors
+      label: Are You Getting Other Bids
+      hint: Are you contacting other contractors
+      type: select_one
+      options:
+      - Yes, Multiple
+      - Yes, One or Two
+      - No, You Are First
+      - Not Sure
+      required: false
+    - id: 18
+      name: previous_experience
+      label: Previous Construction Experience
+      hint: Have you done similar projects before
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, First Time
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs or considerations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: best_time_contact
+      label: Best Time to Contact
+      hint: When are you most available
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Weekend
+      - Any Time
+      required: false
+    - id: 21
+      name: referral_source
+      label: Who Referred You
+      hint: Name of person who referred you
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consent_contact
+      label: Consent to Contact
+      hint: Do you agree to be contacted about your project
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Transfer Consent Form
+    pages:
+    - id: 1
+      name: data_transfer_consent_form
+      label: Data Transfer Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: Consent Forms
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_ids
+      label: Form ID
+      hint: '39934'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: 049_data_transfer_consent_form--consent_forms.yaml
+      type: text
+      options: []
+      required: false

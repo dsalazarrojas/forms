@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Plan Acknowledgment Form
+    pages:
+    - id: 1
+      name: safety_plan_acknowledgment_form
+      label: Acknowledge The Safety Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_information
+      label: Employee Information
+      hint: Enter your employee ID and other relevant information
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Provide emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Sign Below
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

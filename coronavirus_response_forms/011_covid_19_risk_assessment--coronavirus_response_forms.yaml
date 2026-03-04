@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Risk Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_environment
+      label: What is your primary work environment
+      hint: Work setting
+      type: select_one
+      options:
+      - Office
+      - Remote from home
+      - Hybrid
+      - Retail store
+      - Healthcare facility
+      - Manufacturing facility
+      - Construction site
+      - Restaurant or food service
+      - School or educational institution
+      - Other
+      required: true
+    - id: 8
+      name: daily_contact_level
+      label: How many people do you come in close contact with daily
+      hint: Close contact means within 6 feet
+      type: select_one
+      options:
+      - None - I work alone
+      - 1-5 people
+      - 6-10 people
+      - 11-25 people
+      - 26-50 people
+      - More than 50 people
+      required: true
+    - id: 9
+      name: high_risk_population_contact
+      label: Do you have regular contact with high-risk populations
+      hint: Elderly or immunocompromised
+      type: select_one
+      options:
+      - Yes regularly
+      - Yes occasionally
+      - false
+      - Not sure
+      required: true
+    - id: 10
+      name: household_members
+      label: How many people live in your household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: household_high_risk
+      label: Does anyone in your household have high-risk conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Age 65 or older
+      - Chronic lung disease
+      - Heart condition
+      - Diabetes
+      - Obesity
+      - Immunocompromised
+      - Cancer
+      - Kidney disease
+      - Liver disease
+      required: true
+    - id: 12
+      name: personal_health_conditions
+      label: Do you have any of the following health conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Age 65 or older
+      - Chronic lung disease
+      - Heart condition
+      - Diabetes
+      - Obesity
+      - Immunocompromised
+      - Cancer
+      - Kidney disease
+      - Liver disease
+      - Prefer not to say
+      required: true
+    - id: 13
+      name: public_transportation_use
+      label: Do you use public transportation
+      hint: Bus, train, subway, etc.
+      type: select_one
+      options:
+      - Yes daily
+      - Yes occasionally
+      - No never
+      required: true
+    - id: 14
+      name: travel_frequency
+      label: How often do you travel outside your local area
+      hint: More than 50 miles from home
+      type: select_one
+      options:
+      - Never
+      - Once a month or less
+      - 2-3 times per month
+      - Weekly
+      - Multiple times per week
+      required: true
+    - id: 15
+      name: mask_compliance
+      label: How consistently do you wear a mask in public
+      hint: Mask wearing habits
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: social_distancing_compliance
+      label: How consistently do you practice social distancing
+      hint: Maintaining 6 feet distance
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: hand_hygiene
+      label: How often do you wash or sanitize your hands
+      hint: Hand hygiene frequency
+      type: select_one
+      options:
+      - Very frequently - multiple times per hour
+      - Frequently - hourly
+      - Moderately - several times per day
+      - Occasionally - once or twice per day
+      - Rarely
+      required: true
+    - id: 18
+      name: gathering_attendance
+      label: How often do you attend indoor gatherings with people outside your household
+      hint: Social gatherings
+      type: select_one
+      options:
+      - Never
+      - Once a month or less
+      - 2-3 times per month
+      - Weekly
+      - Multiple times per week
+      required: true
+    - id: 19
+      name: dining_out_frequency
+      label: How often do you dine indoors at restaurants
+      hint: Indoor dining
+      type: select_one
+      options:
+      - Never
+      - Once a month or less
+      - 2-3 times per month
+      - Weekly
+      - Multiple times per week
+      required: true
+    - id: 20
+      name: grocery_shopping_method
+      label: How do you typically shop for groceries
+      hint: Shopping method
+      type: select_one
+      options:
+      - In-person during off-peak hours
+      - In-person during peak hours
+      - Curbside pickup
+      - Delivery service
+      - Someone else shops for me
+      required: true
+    - id: 21
+      name: vaccination_status
+      label: What is your COVID-19 vaccination status
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated but planning to
+      - Not vaccinated and not planning to
+      required: true
+    - id: 22
+      name: recent_symptoms
+      label: Have you experienced any COVID-19 symptoms in the past 14 days
+      hint: Recent symptoms
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 23
+      name: recent_exposure
+      label: Have you been exposed to anyone with COVID-19 in the past 14 days
+      hint: Recent exposure
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 24
+      name: overall_risk_level
+      label: How would you assess your overall COVID-19 risk level
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 25
+      name: additional_risk_factors
+      label: Are there any additional risk factors you would like to report
+      hint: Other concerns
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Agreement Extension Form
+    pages:
+    - id: 1
+      name: vendor_agreement_extension_form
+      label: agreement_extension_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contract_id
+      label: contract_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: extension_date
+      label: extension_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: extension_reason
+      label: extension_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: renewal_status
+      label: renewal_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: renewal_date
+      label: renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: renewal_reason
+      label: renewal_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_signature
+      label: vendor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contract_status
+      label: contract_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: contract_amount
+      label: contract_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vendor_address
+      label: vendor_address
+      hint: null
+      type: text
+      options: []
+      required: false

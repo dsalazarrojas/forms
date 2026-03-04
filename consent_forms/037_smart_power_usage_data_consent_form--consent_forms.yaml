@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Power Usage Data Consent Form
+    pages:
+    - id: 1
+      name: smart_power_usage_data_consent
+      label: Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: acknowledgement_1
+      label: Acknowledgement 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: acknowledgement_2
+      label: Acknowledgement 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: acknowledgement_3
+      label: Acknowledgement 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

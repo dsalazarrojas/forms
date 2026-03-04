@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Request Contact Form
+    pages:
+    - id: 1
+      name: maintenance_request_form
+      label: Maintenance Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''service'', ''description'': ''Service''}'
+      - '{''id'': 11, ''name'': ''product'', ''description'': ''Product''}'
+      - '{''id'': 12, ''name'': ''other'', ''description'': ''Other''}'
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13, ''name'': ''installation'', ''description'': ''Installation''}'
+      - '{''id'': 14, ''name'': ''repair'', ''description'': ''Repair''}'
+      - '{''id'': 15, ''name'': ''maintenance'', ''description'': ''Maintenance''}'
+      required: false
+    - id: 8
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false

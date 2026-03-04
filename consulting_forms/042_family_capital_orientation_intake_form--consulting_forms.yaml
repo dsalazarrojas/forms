@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Capital Orientation Intake Form
+    pages:
+    - id: 1
+      name: family_capital_orientation_intake_form
+      label: family-capital-orientation-intake-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Consulting Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: client_goals
+      label: client-goals
+      hint: null
+      type: text
+      options: []
+      required: false

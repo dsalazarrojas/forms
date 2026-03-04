@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restart Agreement Form
+    pages:
+    - id: 1
+      name: contract_id
+      label: Contract ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contractor_name
+      label: contractor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: team_name
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team_manager
+      label: Team Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reason_for_restart
+      label: Reason For Restart
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: restart_approvals
+      label: Restart Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: restart_date
+      label: Restart Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contract_file_upload
+      label: Contract File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Smart Appliance Activation Consent Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: Enter customer details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization
+      label: Authorization
+      hint: Enter authorization details
+      type: select_multiple
+      options:
+      - Utility Company
+      - Retailer
+      - Installer
+      required: false
+    - id: 3
+      name: activation_details
+      label: Activation Details
+      hint: Enter activation details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: Select a date and time for activation
+      type: select_one
+      options:
+      - 1st Available
+      - 2nd Available
+      - 3rd Available
+      - Custom
+      - Not Available
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Enter notes
+      type: note
+      options: []
+      required: false

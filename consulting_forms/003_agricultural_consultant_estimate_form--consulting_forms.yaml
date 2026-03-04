@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Consultant Estimate Form
+    pages:
+    - id: 1
+      name: client_details_header
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_business_name
+      label: Farm or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consultant_name
+      label: Consultant Name
+      hint: Name of person preparing estimate
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimate_date
+      label: Date of Estimate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_details_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consultation_type
+      label: Consultation Type
+      hint: Primary area of consultation
+      type: select_one
+      options:
+      - Crop Management
+      - Soil Analysis
+      - Pest Control
+      - Livestock Health
+      - Business Strategy
+      - Regulatory Compliance
+      required: true
+    - id: 8
+      name: service_description
+      label: Service Description
+      hint: Detailed breakdown of services
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cost_breakdown_header
+      label: -- Cost Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: estimated_hours
+      label: Estimated Hours
+      hint: Number of hours expected
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: hourly_rate
+      label: Hourly Rate
+      hint: Cost per hour
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: material_costs
+      label: Material Costs
+      hint: Estimated cost of materials
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: travel_expenses
+      label: Travel Expenses
+      hint: Estimated travel costs
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Sum of all costs
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: valid_until
+      label: Valid Until
+      hint: Date this estimate expires
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_schedule
+      label: Payment Schedule
+      hint: Preferred payment terms
+      type: select_one
+      options:
+      - Upfront
+      - 50% Deposit
+      - Upon Completion
+      - Net 30
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: Additional terms or conditions
+      type: text
+      options: []
+      required: false

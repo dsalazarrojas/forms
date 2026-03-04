@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Service Agreement Form
+    pages:
+    - id: 1
+      name: service_provider_name
+      label: Service Provider Name
+      hint: Your full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_email
+      label: Provider Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: provider_phone
+      label: Provider Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: Name of the client receiving services
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client Email Address
+      hint: Client contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone Number
+      hint: Client contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Type of Service
+      hint: What service will be provided?
+      type: select_one
+      options:
+      - Consulting
+      - Design and Creative
+      - Technical Services
+      - Maintenance and Repair
+      - Professional Services
+      - Construction
+      - Training
+      - Other
+      required: true
+    - id: 8
+      name: service_description
+      label: Detailed Service Description
+      hint: Explain the work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_start_date
+      label: Project Start Date
+      hint: When will services begin?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: project_end_date
+      label: Project End Date or Duration
+      hint: When will services be completed?
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: select_one
+      options:
+      - One-time project
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Ongoing
+      required: true
+    - id: 12
+      name: total_cost
+      label: Total Service Cost
+      hint: In USD or local currency
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: When and how payment is made
+      type: select_one
+      options:
+      - Full payment upfront
+      - 50% deposit, 50% upon completion
+      - Monthly installments
+      - Upon completion
+      - Custom arrangement
+      required: true
+    - id: 14
+      name: payment_method
+      label: Accepted Payment Methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Check
+      - Bank transfer
+      - Credit card
+      - Wire transfer
+      - PayPal
+      - Cash
+      required: true
+    - id: 15
+      name: deliverables
+      label: What are the key deliverables?
+      hint: Specific items or outcomes to be provided
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: revision_rounds
+      label: How many revision rounds are included?
+      hint: Number of changes allowed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: What happens if either party wants to cancel?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confidentiality_required
+      label: Is confidentiality required?
+      hint: null
+      type: select_one
+      options:
+      - Yes, NDA required
+      - Yes, basic confidentiality
+      - No confidentiality needed
+      required: true
+    - id: 19
+      name: liability_insurance
+      label: Is liability insurance required?
+      hint: null
+      type: select_one
+      options:
+      - Yes, required
+      - Preferred but not required
+      - Not required
+      required: true
+    - id: 20
+      name: project_terms
+      label: Any special terms or conditions?
+      hint: null
+      type: text
+      options: []
+      required: false

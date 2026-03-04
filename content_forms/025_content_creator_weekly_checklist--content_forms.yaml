@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creator Weekly Checklist
+    pages:
+    - id: 1
+      name: creator_name
+      label: Creator Name
+      hint: Full name of content creator
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: week_start_date
+      label: Week Start Date
+      hint: Monday of this week
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: week_end_date
+      label: Week End Date
+      hint: Sunday of this week
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: content_goal_for_week
+      label: Content Goal for Week
+      hint: What is your main goal this week?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_platforms
+      label: Target Platforms
+      hint: Which platforms will you post to?
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - LinkedIn
+      - TikTok
+      - YouTube
+      - Blog
+      - Pinterest
+      required: true
+    - id: 6
+      name: monday_content_plan
+      label: Monday Content Plan
+      hint: What content will you create on Monday?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: monday_status
+      label: Monday Status
+      hint: Completion status for Monday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: true
+    - id: 8
+      name: tuesday_content_plan
+      label: Tuesday Content Plan
+      hint: What content will you create on Tuesday?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tuesday_status
+      label: Tuesday Status
+      hint: Completion status for Tuesday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: true
+    - id: 10
+      name: wednesday_content_plan
+      label: Wednesday Content Plan
+      hint: What content will you create on Wednesday?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: wednesday_status
+      label: Wednesday Status
+      hint: Completion status for Wednesday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: true
+    - id: 12
+      name: thursday_content_plan
+      label: Thursday Content Plan
+      hint: What content will you create on Thursday?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: thursday_status
+      label: Thursday Status
+      hint: Completion status for Thursday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: true
+    - id: 14
+      name: friday_content_plan
+      label: Friday Content Plan
+      hint: What content will you create on Friday?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: friday_status
+      label: Friday Status
+      hint: Completion status for Friday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: true
+    - id: 16
+      name: saturday_content_plan
+      label: Saturday Content Plan
+      hint: What content will you create on Saturday?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: saturday_status
+      label: Saturday Status
+      hint: Completion status for Saturday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: false
+    - id: 18
+      name: sunday_content_plan
+      label: Sunday Content Plan
+      hint: What content will you create on Sunday?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sunday_status
+      label: Sunday Status
+      hint: Completion status for Sunday
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Skipped
+      required: false
+    - id: 20
+      name: total_content_pieces_planned
+      label: Total Content Pieces Planned
+      hint: How many pieces of content are planned?
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_content_pieces_completed
+      label: Total Content Pieces Completed
+      hint: How many pieces were completed?
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: engagement_goals
+      label: Engagement Goals
+      hint: What engagement metrics are you targeting?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: collaborations_this_week
+      label: Collaborations This Week
+      hint: Any collaborations planned?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges did you encounter?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: weekly_reflection
+      label: Weekly Reflection
+      hint: What went well and what could improve?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: next_week_priorities
+      label: Next Week Priorities
+      hint: What are your priorities for next week?
+      type: text
+      options: []
+      required: true

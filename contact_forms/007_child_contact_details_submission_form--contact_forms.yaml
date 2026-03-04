@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Contact Details Submission Form
+    pages:
+    - id: 1
+      name: section_child_info
+      label: -- Primary Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Enter full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: Used for identification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_address_info
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: home_address
+      label: Home Street Address
+      hint: Primary residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_postal_code
+      label: City and Postal Code
+      hint: e.g., Seattle, 98101
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_primary_contact
+      label: -- Primary Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guardian_name
+      label: Guardian Full Name
+      hint: Primary point of contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mobile_phone
+      label: Mobile Phone Number
+      hint: For urgent communication
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_email
+      label: Primary Email Address
+      hint: For regular correspondence
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: section_secondary_contact
+      label: -- Secondary Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: secondary_info
+      label: Secondary Contact Name and Phone
+      hint: Backup contact person
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Change Order Form
+    pages:
+    - id: 1
+      name: change_order_number
+      label: Change Order Number
+      hint: Sequential change order number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: change_order_date
+      label: Change Order Date
+      hint: Date of this change order
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_number
+      label: Project Number
+      hint: Contract or project reference number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_name
+      label: Owner Name
+      hint: Project owner or client
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contractor_name
+      label: Contractor Name
+      hint: General contractor company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: original_contract_amount
+      label: Original Contract Amount
+      hint: Initial contract value
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: previous_change_orders
+      label: Total Previous Change Orders
+      hint: Sum of all prior change orders
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: change_description
+      label: Description of Change
+      hint: Detailed description of what is changing
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: change_reason
+      label: Reason for Change
+      hint: Why is this change necessary
+      type: select_one
+      options:
+      - Owner Request
+      - Design Change
+      - Unforeseen Condition
+      - Code Requirement
+      - Material Substitution
+      - Schedule Adjustment
+      - Error or Omission
+      - Other
+      required: true
+    - id: 11
+      name: scope_impact
+      label: Scope Impact
+      hint: How does this affect project scope
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cost_increase
+      label: Cost Increase Amount
+      hint: Additional cost if applicable
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: cost_decrease
+      label: Cost Decrease Amount
+      hint: Cost reduction if applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: net_cost_change
+      label: Net Cost Change
+      hint: Total change in contract amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: schedule_impact
+      label: Schedule Impact
+      hint: Effect on project timeline
+      type: select_one
+      options:
+      - No Impact
+      - Delay (1-5 days)
+      - Delay (6-15 days)
+      - Delay (16-30 days)
+      - Delay (More than 30 days)
+      - Time Savings
+      required: true
+    - id: 16
+      name: days_impact
+      label: Number of Days Impact
+      hint: Positive for delay, negative for savings
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: new_completion_date
+      label: Revised Completion Date
+      hint: New estimated completion date
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: materials_affected
+      label: Materials Affected
+      hint: List materials impacted by change
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: labor_affected
+      label: Labor Impact
+      hint: Describe labor hours or staffing changes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: subcontractors_affected
+      label: Subcontractors Affected
+      hint: Which subcontractors are impacted
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: Supporting Documents
+      hint: List any attached documentation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: owner_approval
+      label: Owner Approval
+      hint: Does owner approve this change
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      required: true
+    - id: 23
+      name: contractor_approval
+      label: Contractor Approval
+      hint: Contractor agreement to change
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      required: true
+    - id: 24
+      name: architect_approval
+      label: Architect Approval
+      hint: Architect or engineer approval
+      type: select_one
+      options:
+      - Approved
+      - Not Required
+      - Pending Review
+      required: false
+    - id: 25
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

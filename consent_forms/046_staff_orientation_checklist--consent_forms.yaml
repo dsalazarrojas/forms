@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Orientation Checklist
+    pages:
+    - id: 1
+      name: general_knowledge
+      label: General Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_policies
+      label: staff-policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: emergency_procedures
+      label: emergency-procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_policies_2
+      label: staff-policies-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: staff_training
+      label: staff-training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: staff_training_2
+      label: staff-training-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_info
+      label: emergency-contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: sign_date
+      label: sign-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: sign_time
+      label: sign-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: staff_id
+      label: staff-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: staff_name
+      label: staff-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shift
+      label: shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: work_hours
+      label: work-hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: staff_status
+      label: staff-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: review_date
+      label: review-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reviewed_by
+      label: reviewed-by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_time
+      label: review-time
+      hint: null
+      type: time
+      options: []
+      required: false

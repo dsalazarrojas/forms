@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academy Salon Waiver
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academy Salon Waiver --
+      hint: Please read and complete this waiver form before receiving any salon services
+        at the academy.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_date
+      label: Date of service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: services_requested
+      label: Services requested (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut and styling
+      - Hair coloring or highlights
+      - Chemical treatment (perm, relaxer)
+      - Facial or skincare
+      - Manicure or pedicure
+      - Waxing
+      - Makeup application
+      required: true
+    - id: 9
+      name: allergies_section
+      label: -- Health and Safety Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: known_allergies
+      label: Do you have any known allergies to beauty or chemical products
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 11
+      name: allergy_details
+      label: If yes, please list your allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skin_conditions
+      label: Do you have any skin conditions or sensitivities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: skin_condition_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: waiver_acknowledgment
+      label: I understand that services are performed by students under supervision
+        and I accept the associated risks
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand and accept
+      - Other
+      required: true
+    - id: 15
+      name: liability_release
+      label: I release the academy, its staff, and students from liability for any
+        adverse reactions or dissatisfaction with services
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 16
+      name: photo_consent
+      label: Do you consent to before and after photos being taken for educational
+        purposes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of signature
+      hint: null
+      type: date
+      options: []
+      required: true

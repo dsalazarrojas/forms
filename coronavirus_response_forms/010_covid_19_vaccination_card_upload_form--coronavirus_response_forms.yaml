@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccination Card Upload Form
+    pages:
+    - id: 1
+      name: person_name
+      label: Full Name
+      hint: As it appears on vaccination card
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: person_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vaccination_section
+      label: -- Vaccination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Novavax
+      - Other
+      required: true
+    - id: 7
+      name: first_dose_date
+      label: Date of First Dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: second_dose_date
+      label: Date of Second Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: booster_dose_date
+      label: Date of Booster Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vaccination_location
+      label: Vaccination Location
+      hint: Clinic, hospital, pharmacy, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fully_vaccinated
+      label: Fully Vaccinated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 12
+      name: upload_section
+      label: -- Vaccination Card Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: card_photo_front
+      label: Upload Front of Vaccination Card
+      hint: PDF, JPG, or PNG format
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: card_photo_back
+      label: Upload Back of Vaccination Card
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: alternative_section
+      label: -- Manual Entry Alternative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: unable_to_upload
+      label: Unable to upload vaccination card image
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: batch_number_first
+      label: Batch Number - First Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: batch_number_second
+      label: Batch Number - Second Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: batch_number_booster
+      label: Batch Number - Booster Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: healthcare_provider
+      label: Healthcare Provider or Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: verification_section
+      label: -- Verification and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: certification
+      label: I certify that the information is accurate and authentic
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: privacy_consent
+      label: I consent to sharing my vaccination information
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 24
+      name: intended_use
+      label: Intended Use of Vaccination Record
+      hint: null
+      type: select_one
+      options:
+      - Employment verification
+      - Travel
+      - School enrollment
+      - Healthcare facility access
+      - Other
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Writing Competition Entry
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: entry_title
+      label: Entry Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: genre
+      label: genre
+      hint: null
+      type: select_one
+      options:
+      - Fantasy
+      - Romance
+      - Horror
+      - Science Fiction
+      - Mystery
+      - Historical Fiction
+      - Humor
+      - Drama
+      - Poetry
+      - Non-Fiction
+      - Graphic Novel
+      - Science Fiction/ Fantasy
+      - Young Adult
+      - Crime
+      required: false
+    - id: 5
+      name: story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_url
+      label: Upload URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_class
+      label: Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_grade
+      label: Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_permission
+      label: Permission
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Teacher
+      - Guardian
+      - School
+      - Self
+      - Other (Please specify)
+      - Other (Please specify, teacher)
+      - Other (Please specify, guardian)
+      - Other (Please specify, school)
+      required: true
+    - id: 16
+      name: submitter_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter_upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitter_upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitter_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Poetry
+      required: true
+    - id: 20
+      name: submitter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_uploads
+      label: Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_upload_type
+      label: Upload Type
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - Image
+      - Audio
+      - Document
+      - Video
+      - Other (Please specify)
+      required: true
+    - id: 23
+      name: submitter_upload_url
+      label: Upload URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agreed
+      label: Agreed
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 25
+      name: submitter_terms_of_use
+      label: Terms of Use
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true

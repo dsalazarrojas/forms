@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_esg_data_consent_form
+    pages:
+    - id: 1
+      name: user_name
+      label: real_estate_esg_data_consent_form_user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: real_estate_esg_data_consent_form_company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_address
+      label: real_estate_esg_data_consent_form_company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: real_estate_esg_data_consent_form_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: real_estate_esg_data_consent_form_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: real_estate_esg_data_consent_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: esg_data_purpose
+      label: real_estate_esg_data_consent_form_esg_data_purpose
+      hint: null
+      type: select_one
+      options:
+      - ESG reporting
+      - Analysis
+      - Communications
+      required: true
+    - id: 8
+      name: data_use_agreement
+      label: real_estate_esg_data_consent_form_data_use_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to use the collected data for ESG reporting.
+      - I agree to use the collected data for analysis.
+      - I agree to use the collected data for communications.
+      required: true
+    - id: 9
+      name: data_retention
+      label: real_estate_esg_data_consent_form_data_retention
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: real_estate_esg_data_consent_form_consent_to_share
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: consent_to_share_with
+      label: real_estate_esg_data_consent_form_consent_to_share_with
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate ESG Data
+      - Other (please specify)
+      required: true
+    - id: 12
+      name: notes
+      label: real_estate_esg_data_consent_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false

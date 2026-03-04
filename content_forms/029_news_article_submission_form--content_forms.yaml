@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: News Article Submission Form
+    pages:
+    - id: 1
+      name: news_article_submission_form
+      label: News Article Submission Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: article_content
+      label: Article Content
+      hint: Brief article content
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: article_author
+      label: Article Author
+      hint: Author name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: article_email
+      label: Article Email
+      hint: Author email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: article_phone
+      label: Article Phone
+      hint: Author phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: Select a category
+      type: select_one
+      options:
+      - '{''category-1'': ''News''}'
+      - '{''category-2'': ''Article''}'
+      - '{''category-3'': ''Blog''}'
+      required: true
+    - id: 7
+      name: article_title
+      label: Article Title
+      hint: Article title
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: article_date
+      label: Article Date
+      hint: Article date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: article_time
+      label: Article Time
+      hint: Article time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_form_button
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: article_url
+      label: Article Url
+      hint: Article URL
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: article_image_url
+      label: Article Image Url
+      hint: Article image URL
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: article_tags
+      label: Article Tags
+      hint: Tags for article
+      type: select_multiple
+      options:
+      - '{''tag-1'': ''tag1''}'
+      - '{''tag-2'': ''tag2''}'
+      - '{''tag-3'': ''tag3''}'
+      required: true
+    - id: 16
+      name: article_attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: article_video_url
+      label: Article Video Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: article_audio_url
+      label: Article Audio Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: article_gallery
+      label: Article Gallery
+      hint: Article Gallery
+      type: select_multiple
+      options:
+      - '{''option-1'': ''option-1''}'
+      - '{''option-2'': ''option-2''}'
+      - '{''option-3'': ''option-3''}'
+      required: false
+    - id: 20
+      name: article_note
+      label: Article Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: article_text_area
+      label: Article Text Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: article_date_picker
+      label: Article Date Picker
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: article_time_picker
+      label: Article Time Picker
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: article_checkbox_group
+      label: Article Checkbox Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''option-1''}'
+      - '{''option-2'': ''option-2''}'
+      - '{''option-3'': ''option-3''}'
+      required: true
+    - id: 25
+      name: article_dropdown
+      label: Article Dropdown
+      hint: null
+      type: select_one
+      options:
+      - '{''option-1'': ''option-1''}'
+      - '{''option-2'': ''option-2''}'
+      - '{''option-3'': ''option-3''}'
+      required: true

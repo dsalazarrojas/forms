@@ -1,0 +1,332 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Treatment Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: How related
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_phone
+      label: Physician Phone
+      hint: Office number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: covid_diagnosis_date
+      label: COVID-19 Diagnosis Date
+      hint: When diagnosed
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: current_symptoms
+      label: Current Symptoms
+      hint: What you are experiencing
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: true
+    - id: 21
+      name: symptom_severity
+      label: Overall Symptom Severity
+      hint: Impact level
+      type: select_one
+      options:
+      - Mild - manageable at home
+      - Moderate - some limitation
+      - Severe - significant limitation
+      - Very severe - unable to perform daily activities
+      required: true
+    - id: 22
+      name: underlying_conditions
+      label: Underlying Medical Conditions
+      hint: High-risk conditions
+      type: select_multiple
+      options:
+      - None
+      - Heart disease
+      - Lung disease
+      - Diabetes
+      - Obesity
+      - Cancer
+      - Kidney disease
+      - Liver disease
+      - Immunocompromised
+      - Pregnancy
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: treatment_options_reviewed
+      label: Have treatment options been explained to you
+      hint: Treatment understanding
+      type: select_one
+      options:
+      - Yes fully explained
+      - Partially explained
+      - No not explained
+      required: true
+    - id: 26
+      name: treatment_type_consent
+      label: What treatment are you consenting to
+      hint: Treatment selection
+      type: select_multiple
+      options:
+      - Antiviral medication
+      - Monoclonal antibody therapy
+      - Steroid treatment
+      - Oxygen therapy
+      - Supportive care
+      - Clinical trial participation
+      - Telemedicine follow-up
+      required: true
+    - id: 27
+      name: treatment_risks_understood
+      label: Do you understand the potential risks and side effects of treatment
+      hint: Risk understanding
+      type: select_one
+      options:
+      - Yes I understand all risks
+      - Yes I understand most risks
+      - Partially I have questions
+      - No risks not explained
+      required: true
+    - id: 28
+      name: treatment_benefits_understood
+      label: Do you understand the potential benefits of treatment
+      hint: Benefit understanding
+      type: select_one
+      options:
+      - Yes I understand
+      - Partially I have questions
+      - No benefits not explained
+      required: true
+    - id: 29
+      name: alternative_treatments_discussed
+      label: Have alternative treatments been discussed
+      hint: Alternatives discussion
+      type: select_one
+      options:
+      - Yes alternatives discussed
+      - No alternatives discussed
+      required: true
+    - id: 30
+      name: voluntary_consent
+      label: Is your consent to treatment voluntary
+      hint: Voluntary agreement
+      type: select_one
+      options:
+      - Yes fully voluntary
+      - Yes with some pressure
+      - No feel coerced
+      required: true
+    - id: 31
+      name: right_to_refuse
+      label: Do you understand you have the right to refuse treatment
+      hint: Right to refuse
+      type: select_one
+      options:
+      - Yes I understand
+      - No I was not informed
+      required: true
+    - id: 32
+      name: questions_opportunity
+      label: Have you had the opportunity to ask questions
+      hint: Questions asked
+      type: select_one
+      options:
+      - Yes all questions answered
+      - Yes some questions remain
+      - No opportunity to ask
+      required: true
+    - id: 33
+      name: treatment_consent_agreement
+      label: I consent to receive COVID-19 treatment as recommended by my healthcare
+        provider
+      hint: Treatment consent
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 34
+      name: hipaa_acknowledgment
+      label: I acknowledge receipt of the HIPAA Privacy Notice
+      hint: HIPAA acknowledgment
+      type: select_one
+      options:
+      - Yes acknowledged
+      - No not received
+      required: true
+    - id: 35
+      name: patient_signature_date
+      label: Patient Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: provider_signature_date
+      label: Provider Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

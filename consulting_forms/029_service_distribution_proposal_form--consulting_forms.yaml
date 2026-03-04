@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Distribution Proposal Form
+    pages:
+    - id: 1
+      name: service_distribution_proposal_form
+      label: Service Distribution Proposal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

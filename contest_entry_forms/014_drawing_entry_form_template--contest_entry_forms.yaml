@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drawing Entry Form Template
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drawing_type
+      label: Type of Drawing
+      hint: null
+      type: select_multiple
+      options:
+      - Charity
+      - Non-Profit
+      - Commercial
+      required: true
+    - id: 6
+      name: prize_type
+      label: Prize Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Non-Cash
+      - Other
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_confirmed
+      label: Email Confirmed
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: drawing_description
+      label: Drawing Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: prize_description
+      label: Prize Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: winner_announced
+      label: Winner Announced
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: entry_closed
+      label: Entry Closed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: drawing_opened
+      label: Drawing Opened
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: first_name_s
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: last_name_s
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: entry_date_s
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: entry_time_s
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: entry_closed_s
+      label: Entry Closed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: drawing_opened_s
+      label: Drawing Opened
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

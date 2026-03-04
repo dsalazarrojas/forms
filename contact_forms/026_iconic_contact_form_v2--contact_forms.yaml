@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Iconic Contact Form V2
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_message
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Favorite Color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      - yellow
+      - orange
+      - purple
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Favorite Colors
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - green
+      - yellow
+      - orange
+      - purple
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: feedback_box
+      label: Feedback Box
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      required: false

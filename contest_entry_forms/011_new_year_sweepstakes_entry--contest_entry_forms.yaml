@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_year_sweepstakes_entry
+    pages:
+    - id: 1
+      name: entry_type
+      label: entry_type
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Last
+      - Both
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birthday
+      label: birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: anniversary
+      label: anniversary
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sweepstakes_pledge
+      label: sweepstakes_pledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: other_sweepstakes_pledge
+      label: other_sweepstakes_pledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions_checkbox
+      label: terms_and_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: error_message
+      label: error_message
+      hint: null
+      type: text
+      options: []
+      required: false

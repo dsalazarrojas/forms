@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Facial Client Intake And Consent Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the form
+      - I have not read and understand the form
+      required: true
+    - id: 3
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: note2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Exfoliation
+      - Chemical Peel
+      required: true
+    - id: 6
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      required: true
+    - id: 8
+      name: skin_concern
+      label: Skin Concern
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Hyper-pigmentation
+      required: true
+    - id: 9
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Coarse
+      required: true

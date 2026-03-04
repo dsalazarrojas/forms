@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Orange And Responsive
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact Page --
+      hint: Warm orange themed responsive contact page
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Visitor name
+      hint: Full name for follow up
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: Describe your inquiry or feedback
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Select how you want to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No preference
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time zone
+      hint: Optional time zone for scheduling
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional information
+      hint: Any other details to help our team
+      type: text
+      options: []
+      required: false

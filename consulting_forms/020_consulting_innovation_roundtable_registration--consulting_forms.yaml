@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Innovation Roundtable Registration
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Email for event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_industry
+      label: Company Industry
+      hint: Industry sector
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Consulting
+      - Energy
+      - Government
+      - Education
+      - Other
+      required: true
+    - id: 8
+      name: seniority_level
+      label: Seniority Level
+      hint: Select your level
+      type: select_one
+      options:
+      - C-Level Executive
+      - VP / SVP
+      - Director
+      - Senior Manager
+      - Manager
+      - Other
+      required: true
+    - id: 9
+      name: roundtable_date
+      label: Event Date
+      hint: Select the date you will attend
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: attendance_format
+      label: Attendance Format
+      hint: How will you attend
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      required: true
+    - id: 11
+      name: innovation_topics
+      label: Innovation Topics of Interest
+      hint: Select topics you want to discuss
+      type: select_multiple
+      options:
+      - Digital Transformation
+      - AI and Machine Learning
+      - Business Model Innovation
+      - Product Innovation
+      - Process Innovation
+      - Customer Experience
+      - Sustainability
+      - Disruptive Technologies
+      - Change Management
+      - Innovation Culture
+      required: true
+    - id: 12
+      name: discussion_goals
+      label: What Do You Hope to Gain
+      hint: Your goals for attending
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: innovation_challenges
+      label: Current Innovation Challenges
+      hint: What challenges is your organization facing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: willing_to_share
+      label: Willing to Share Experiences
+      hint: Will you share your innovation journey
+      type: select_one
+      options:
+      - Yes, Gladly
+      - Yes, If Asked
+      - Prefer to Listen Only
+      required: true
+    - id: 15
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not a Priority
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Source of information
+      type: select_one
+      options:
+      - Email Invitation
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Previous Event
+      - Other
+      required: false
+    - id: 19
+      name: referral_name
+      label: Referred By
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: marketing_consent
+      label: Marketing Communications
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - Yes, Please
+      - No, Thank You
+      required: false
+    - id: 21
+      name: photo_consent
+      label: Photo and Recording Consent
+      hint: Agree to be photographed or recorded
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 22
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the event terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 23
+      name: registration_date
+      label: Registration Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

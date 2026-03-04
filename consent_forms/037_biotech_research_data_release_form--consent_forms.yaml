@@ -1,0 +1,440 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Data Release Form
+    pages:
+    - id: 1
+      name: requestor_information
+      label: Requestor Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_title
+      label: Professional Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: Your company or institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Academic Institution
+      - Research Institute
+      - Biotechnology Company
+      - Pharmaceutical Company
+      - Government Agency
+      - Hospital or Medical Center
+      - Other
+      required: true
+    - id: 9
+      name: organization_address
+      label: Organization Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: data_request_details
+      label: Data Request Details
+      hint: Specify data being requested
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: Name of research project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_id
+      label: Project ID
+      hint: Project identification number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: data_type_requested
+      label: Type of Data Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clinical Trial Data
+      - Preclinical Study Data
+      - Genomic Data
+      - Proteomic Data
+      - Imaging Data
+      - Laboratory Results
+      - Statistical Analysis
+      - Raw Data
+      - Processed Data
+      - Metadata
+      - Other
+      required: true
+    - id: 14
+      name: data_description
+      label: Detailed Data Description
+      hint: Describe specific data needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_range
+      label: Date Range of Data
+      hint: Time period of data needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why do you need this data
+      type: select_one
+      options:
+      - Academic Research
+      - Commercial Development
+      - Regulatory Submission
+      - Meta-Analysis
+      - Validation Study
+      - Educational Purpose
+      - Other
+      required: true
+    - id: 17
+      name: purpose_description
+      label: Purpose Description
+      hint: Describe intended use in detail
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: intended_use
+      label: Intended Use
+      hint: How will data be used
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: publication_intent
+      label: Publication Intent
+      hint: Do you plan to publish results
+      type: select_one
+      options:
+      - Yes - Plan to Publish
+      - No - Internal Use Only
+      - Maybe - Depends on Results
+      required: true
+    - id: 20
+      name: data_format_preference
+      label: Data Format Preference
+      hint: Preferred format for data delivery
+      type: select_multiple
+      options:
+      - CSV
+      - Excel
+      - PDF
+      - JSON
+      - XML
+      - SAS
+      - R Data Frame
+      - SPSS
+      - No Preference
+      required: true
+    - id: 21
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should data be delivered
+      type: select_one
+      options:
+      - Secure Email
+      - Secure File Transfer
+      - Physical Drive
+      - Cloud Storage Link
+      - API Access
+      required: true
+    - id: 22
+      name: timeline
+      label: Required Timeline
+      hint: When do you need the data
+      type: select_one
+      options:
+      - As Soon As Possible
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Flexible
+      required: true
+    - id: 23
+      name: security_compliance
+      label: Security and Compliance
+      hint: Data security requirements
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: data_security_plan
+      label: Data Security Plan
+      hint: How will you secure the data
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: storage_location
+      label: Data Storage Location
+      hint: Where will data be stored
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: access_controls
+      label: Access Controls
+      hint: Who will have access to data
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: data_retention_plan
+      label: Data Retention Plan
+      hint: How long will you keep the data
+      type: select_one
+      options:
+      - Duration of Project Only
+      - 1 Year After Project
+      - 3 Years After Project
+      - 5 Years After Project
+      - Indefinitely
+      required: true
+    - id: 28
+      name: data_destruction_plan
+      label: Data Destruction Plan
+      hint: How will data be destroyed after retention
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: regulatory_compliance
+      label: Regulatory Compliance
+      hint: Applicable regulations
+      type: select_multiple
+      options:
+      - HIPAA
+      - GDPR
+      - FDA Regulations
+      - Institutional Review Board
+      - Data Use Agreement
+      - Other
+      required: true
+    - id: 30
+      name: approvals_required
+      label: Approvals Required
+      hint: What approvals do you have
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: irb_approval
+      label: IRB Approval
+      hint: Do you have IRB approval
+      type: select_one
+      options:
+      - Yes - Approved
+      - Pending
+      - Not Required
+      - Not Yet Applied
+      required: true
+    - id: 32
+      name: irb_number
+      label: IRB Approval Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: institutional_approval
+      label: Institutional Approval
+      hint: Do you have institutional approval
+      type: select_one
+      options:
+      - Yes - Approved
+      - Pending
+      - Not Required
+      required: true
+    - id: 34
+      name: funding_source
+      label: Funding Source
+      hint: How is this research funded
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Agree to data use terms
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to keep data confidential
+      type: select_one
+      options:
+      - Yes - I Agree to Maintain Confidentiality
+      - Yes - With Modifications Noted
+      - false
+      required: true
+    - id: 37
+      name: redistribution_prohibition
+      label: Redistribution Prohibition
+      hint: Do you agree not to redistribute data
+      type: select_one
+      options:
+      - Yes - I Will Not Redistribute Data
+      - Yes - Except to Authorized Team Members
+      - false
+      required: true
+    - id: 38
+      name: acknowledgment_requirement
+      label: Acknowledgment Requirement
+      hint: Do you agree to acknowledge data source
+      type: select_one
+      options:
+      - Yes - Will Acknowledge in Publications
+      - Yes - Will Acknowledge as Required
+      - false
+      required: true
+    - id: 39
+      name: liability_understanding
+      label: Liability Understanding
+      hint: Understand liability limitations
+      type: select_one
+      options:
+      - I Understand Data Is Provided As-Is
+      - I Understand No Warranty Is Provided
+      required: true
+    - id: 40
+      name: authorized_signatory
+      label: Authorized Signatory
+      hint: Person authorized to sign
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: signatory_name
+      label: Signatory Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: signatory_title
+      label: Signatory Title
+      hint: Official title
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: signatory_authority
+      label: Signatory Authority
+      hint: Authority to sign agreements
+      type: select_one
+      options:
+      - I Have Authority to Sign This Agreement
+      - I Am Authorized by My Institution
+      required: true
+    - id: 44
+      name: signature
+      label: Signature
+      hint: Electronic signature
+      type: select_one
+      options:
+      - I Sign Electronically
+      - I Agree to All Terms
+      required: true
+    - id: 45
+      name: signature_date
+      label: Date of Signature
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 46
+      name: internal_use_only
+      label: For Internal Use Only
+      hint: Review and approval section
+      type: note
+      options: []
+      required: false
+    - id: 47
+      name: review_status
+      label: Review Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending Review
+      - Under Review
+      - Approved
+      - Denied
+      - Additional Information Required
+      required: false
+    - id: 48
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of reviewer
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: false
+    - id: 50
+      name: review_comments
+      label: Review Comments
+      hint: Any conditions or notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asphalt Shingles Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Roofing company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: When inspection was performed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Full address of property
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: roof_age_years
+      label: Roof Age in Years
+      hint: Approximate age of roof
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: shingle_type
+      label: Shingle Type
+      hint: Type of asphalt shingles
+      type: select_one
+      options:
+      - 3-Tab Asphalt
+      - Architectural Asphalt
+      - Luxury Asphalt
+      - Designer Asphalt
+      - Unknown
+      required: true
+    - id: 7
+      name: shingle_brand
+      label: Shingle Brand
+      hint: Manufacturer if known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: roof_square_footage
+      label: Roof Square Footage
+      hint: Total area in square feet
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: roof_pitch
+      label: Roof Pitch
+      hint: Slope of the roof
+      type: select_one
+      options:
+      - Low Pitch - 3/12 or less
+      - Medium Pitch - 4/12 to 6/12
+      - Steep Pitch - 7/12 to 9/12
+      - Very Steep - 10/12 or more
+      required: true
+    - id: 10
+      name: shingle_condition
+      label: Overall Shingle Condition
+      hint: General state of shingles
+      type: select_one
+      options:
+      - Excellent - Like New
+      - Good - Minor Wear
+      - Fair - Moderate Wear
+      - Poor - Significant Damage
+      - Failed - Replacement Needed
+      required: true
+    - id: 11
+      name: granule_loss
+      label: Granule Loss Assessment
+      hint: Amount of granules lost from shingles
+      type: select_one
+      options:
+      - None - No Loss
+      - Minimal - Slight Loss
+      - Moderate - Noticeable Loss
+      - Severe - Heavy Loss
+      - Complete - Bare Shingles
+      required: true
+    - id: 12
+      name: curling_present
+      label: Is Shingle Curling Present
+      hint: Edges turning up or down
+      type: select_one
+      options:
+      - Yes - Cupping
+      - Yes - Clawing
+      - Yes - Both
+      - 'No'
+      required: true
+    - id: 13
+      name: cracked_shingles
+      label: Number of Cracked Shingles
+      hint: Estimate of cracked shingles
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: missing_shingles
+      label: Number of Missing Shingles
+      hint: Count of completely missing shingles
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: blistering_observed
+      label: Is Blistering Observed
+      hint: Bubbles or raised areas on shingles
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: moss_algae_growth
+      label: Moss or Algae Growth
+      hint: Presence of organic growth
+      type: select_one
+      options:
+      - None
+      - Light - Small Patches
+      - Moderate - Multiple Areas
+      - Heavy - Widespread
+      required: true
+    - id: 17
+      name: flashing_condition
+      label: Flashing Condition
+      hint: State of metal flashing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Missing or Damaged
+      required: true
+    - id: 18
+      name: gutter_condition
+      label: Gutter and Downspout Condition
+      hint: State of drainage system
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 19
+      name: ventilation_adequate
+      label: Is Roof Ventilation Adequate
+      hint: Proper airflow in attic
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unable to Assess
+      required: true
+    - id: 20
+      name: estimated_remaining_life
+      label: Estimated Remaining Life in Years
+      hint: How long until replacement needed
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: repair_recommendations
+      label: Repair Recommendations
+      hint: Summary of recommended repairs
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: replacement_recommended
+      label: Is Full Replacement Recommended
+      hint: Should roof be replaced
+      type: select_one
+      options:
+      - Yes - Immediate
+      - Yes - Within 1 Year
+      - Yes - Within 5 Years
+      - No - Repairs Sufficient
+      required: true
+    - id: 23
+      name: photos_count
+      label: Number of Photos Taken
+      hint: Documentation photos
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Massage Consultation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_history
+      label: Health History
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: massage_needs
+      label: Massage Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: physical_condition
+      label: Physical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      required: false
+    - id: 5
+      name: specific_needs
+      label: Specific Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance
+      label: Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_condition_details
+      label: Medical Condition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: massage_intensity
+      label: Massage Intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

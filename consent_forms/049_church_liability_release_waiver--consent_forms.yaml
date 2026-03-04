@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Liability Release Waiver
+    pages:
+    - id: 1
+      name: header_waiver_basics
+      label: -- Release and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name_waiver
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob_waiver
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_name_if_minor
+      label: Parent/Guardian Name (If minor)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waiver_activity_event
+      label: Activity or Event covered by this waiver
+      hint: e.g., Youth Missions Trip, Church Camp, Sports League
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: header_legal_content
+      label: -- Terms of Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assumption_of_risk_agree
+      label: I acknowledge and assume the inherent risks of the activity
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 8
+      name: release_of_liability_agree
+      label: I release the church from liability for accidental injury or damage
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 9
+      name: medical_treatment_consent_waiver
+      label: I consent to emergency medical treatment if necessary
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 10
+      name: photo_release_agree_waiver
+      label: I consent to photography for church use
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: header_medical_info_waiver
+      label: -- Emergency Medical Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_name_waiver
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone_waiver
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: allergies_medical_notes_waiver
+      label: Severe Allergies or Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_provider_policy
+      label: Health Insurance Provider and Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: header_final_signoff
+      label: -- Final Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: legal_signature_name_waiver
+      label: Signature of Participant or Guardian
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_signed_waiver
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

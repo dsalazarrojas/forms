@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Inspection Photography Consent Form
+    pages:
+    - id: 1
+      name: safety_inspection_photography_consent_form
+      label: Safety Inspection Photography Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business
+      label: Business
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: individual
+      label: Individual
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: purpose_of_photography
+      label: Purpose Of Photography
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: false
+    - id: 9
+      name: consent_reason
+      label: Reason For Consent
+      hint: null
+      type: text
+      options: []
+      required: false

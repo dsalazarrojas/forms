@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Handover Form
+    pages:
+    - id: 1
+      name: handover_date
+      label: Handover Date
+      hint: Date of project handover
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of completed project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_address
+      label: Project Address
+      hint: Full site address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contractor_name
+      label: Contractor Name
+      hint: General contractor company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contractor_contact
+      label: Contractor Contact
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contractor_email
+      label: Contractor Email
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: Project owner or recipient
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_completion_date
+      label: Project Completion Date
+      hint: Date work was finished
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: contract_value
+      label: Final Contract Value
+      hint: Total project cost
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: punch_list_status
+      label: Punch List Status
+      hint: Current punch list completion status
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      - Not Applicable
+      required: true
+    - id: 14
+      name: punch_list_items
+      label: Remaining Punch List Items
+      hint: List any outstanding items
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: warranties_provided
+      label: Warranties Provided
+      hint: List warranties and guarantees
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: warranty_period
+      label: Warranty Period
+      hint: Duration of warranty coverage
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - 5 Years
+      - Other
+      required: true
+    - id: 17
+      name: manuals_provided
+      label: Operation Manuals Provided
+      hint: Are equipment manuals included
+      type: select_one
+      options:
+      - Yes, All
+      - Yes, Partial
+      - false
+      required: true
+    - id: 18
+      name: keys_handover
+      label: Keys and Access Devices
+      hint: List keys, remotes, access cards handed over
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: systems_demonstrated
+      label: Systems Demonstrated
+      hint: Which systems were demonstrated to client
+      type: select_multiple
+      options:
+      - HVAC System
+      - Electrical Panel
+      - Plumbing System
+      - Security System
+      - Fire Suppression
+      - Elevator
+      - Irrigation System
+      - Garage Doors
+      - Smart Home System
+      - None
+      required: false
+    - id: 20
+      name: final_inspection_passed
+      label: Final Inspection Passed
+      hint: Has final inspection been completed
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 21
+      name: certificate_of_occupancy
+      label: Certificate of Occupancy
+      hint: Has CO been issued
+      type: select_one
+      options:
+      - Yes, Received
+      - Applied For
+      - Not Required
+      required: true
+    - id: 22
+      name: lien_waivers
+      label: Lien Waivers Provided
+      hint: Have all lien waivers been submitted
+      type: select_one
+      options:
+      - Yes, All
+      - Partial
+      - false
+      required: true
+    - id: 23
+      name: final_payment_status
+      label: Final Payment Status
+      hint: Status of final payment
+      type: select_one
+      options:
+      - Paid in Full
+      - Pending
+      - Not Yet Due
+      required: true
+    - id: 24
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: Client overall satisfaction level
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 25
+      name: client_comments
+      label: Client Comments
+      hint: Any client feedback or concerns
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: contractor_signature
+      label: Contractor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

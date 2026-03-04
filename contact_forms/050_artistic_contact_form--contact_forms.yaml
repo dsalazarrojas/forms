@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artistic Contact Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will respond to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional - for quicker response
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization or Business Name
+      hint: Your company or creative collective
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Reason for Contacting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_reason
+      label: Reason for Contact
+      hint: What is your inquiry about?
+      type: select_one
+      options:
+      - General Inquiry
+      - Commission or Project Request
+      - Collaboration Opportunity
+      - Event or Exhibition Request
+      - Sales or Marketplace
+      - Feedback or Suggestion
+      - Press or Media
+      - Other
+      required: true
+    - id: 8
+      name: subject_line
+      label: Subject
+      hint: Brief subject of your message
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_3
+      label: -- Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: message_body
+      label: Message
+      hint: Please describe your inquiry or request
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_4
+      label: -- Project or Commission Details (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_type
+      label: Type of Project or Commission
+      hint: What kind of work are you interested in?
+      type: select_one
+      options:
+      - Painting or Drawing
+      - Sculpture or Installation
+      - Digital Art
+      - Photography
+      - Graphic Design
+      - Illustration
+      - Mural or Public Art
+      - Customization or Personalization
+      - Other
+      required: false
+    - id: 13
+      name: project_description
+      label: Project or Commission Description
+      hint: Describe what you are looking for
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_5
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: budget_available
+      label: Budget or Budget Range
+      hint: What is your budget range?
+      type: select_one
+      options:
+      - Under GBP 500
+      - GBP 500 - 1000
+      - GBP 1000 - 2500
+      - GBP 2500 - 5000
+      - GBP 5000+
+      - Not yet determined
+      - Flexible
+      required: false
+    - id: 16
+      name: project_timeline
+      label: Timeline or Deadline
+      hint: When do you need this completed?
+      type: select_one
+      options:
+      - ASAP
+      - 1 week
+      - 2-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      - Flexible
+      required: false
+    - id: 17
+      name: section_header_6
+      label: -- Preferences and Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: style_preference
+      label: Style or Aesthetic Preference
+      hint: Any specific style or aesthetic you prefer?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reference_links
+      label: Reference Images or Links
+      hint: Links to inspiration or examples
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_7
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No preference
+      required: true
+    - id: 22
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: When is most convenient?
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Anytime
+      required: false
+    - id: 23
+      name: section_header_8
+      label: -- Consent and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: marketing_consent
+      label: I Would Like to Receive Updates and News
+      hint: Optional - we will not share your information
+      type: select_one
+      options:
+      - Yes, send updates
+      - No, do not send updates
+      required: false
+    - id: 25
+      name: confirmation_submit
+      label: I Agree to Submit This Contact Form
+      hint: Confirm you are submitting your inquiry
+      type: select_one
+      options:
+      - Yes, Submit My Inquiry
+      - No, Cancel Submission
+      required: true

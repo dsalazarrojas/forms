@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Admission And Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergy_info
+      label: Allergy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_admitted
+      label: Date Admitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_admitted
+      label: Time Admitted
+      hint: null
+      type: time
+      options: []
+      required: false

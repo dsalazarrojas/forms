@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canvassing Service Quote Request Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canvassing Service Quote Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Request a quote for professional canvassing installation and repair services.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name (if applicable)
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Where work is needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: service_type
+      label: Type of Service Needed
+      hint: Select one
+      type: select_one
+      options:
+      - Canvas Installation
+      - Canvas Repair
+      - Canvas Replacement
+      - Canvas Cleaning
+      - Retractable Canopy Service
+      - Commercial Canvassing
+      - Other
+      required: true
+    - id: 15
+      name: work_scope
+      label: Scope of Work
+      hint: Select one
+      type: select_one
+      options:
+      - Small residential
+      - Medium residential
+      - Large residential
+      - Small commercial
+      - Medium commercial
+      - Large commercial
+      - Industrial
+      required: true
+    - id: 16
+      name: property_type
+      label: Property Type
+      hint: Select one
+      type: select_one
+      options:
+      - Residential house
+      - Apartment building
+      - Commercial building
+      - Retail space
+      - Restaurant/Cafe
+      - Office building
+      - Other
+      required: true
+    - id: 17
+      name: estimated_area
+      label: Estimated Canvas Area
+      hint: Approximate square footage
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: project_description
+      label: Detailed Project Description
+      hint: Tell us about your project
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: current_condition_header
+      label: -- Current Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_condition
+      label: Current Canvas Condition
+      hint: Select one
+      type: select_one
+      options:
+      - Good condition
+      - Fair condition
+      - Poor condition
+      - Damaged
+      - No existing canvas
+      required: true
+    - id: 21
+      name: damage_description
+      label: If damaged, describe the damage
+      hint: Optional description
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: urgency_header
+      label: -- Project Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: project_urgency
+      label: Project Urgency
+      hint: Select one
+      type: select_one
+      options:
+      - Immediate - within 1 week
+      - Soon - within 2-4 weeks
+      - Planned - within 1-3 months
+      - Future - more than 3 months
+      - Not urgent
+      required: true
+    - id: 24
+      name: preferred_start_date
+      label: Preferred Start Date (if known)
+      hint: Optional
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: preferences_header
+      label: -- Material and Preference Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: material_preference
+      label: Canvas Material Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Acrylic canvas
+      - Polyester canvas
+      - Vinyl
+      - Mesh
+      - Metal
+      - No preference
+      - Unsure
+      required: false
+    - id: 27
+      name: color_preference
+      label: Color or Finish Preference
+      hint: Describe preference
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: special_requirements
+      label: Special Requirements or Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fire resistant
+      - UV protected
+      - Waterproof
+      - Motorized/retractable
+      - Custom design
+      - Match existing structure
+      - Other
+      required: false
+    - id: 29
+      name: budget_header
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Select one
+      type: select_one
+      options:
+      - Under 500
+      - 500-1500
+      - 1500-5000
+      - 5000-10000
+      - 10000 plus
+      - No specific budget
+      required: false
+    - id: 31
+      name: additional_services
+      label: Additional Services Needed?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Maintenance plan
+      - Warranty extension
+      - Monthly inspections
+      - Seasonal storage
+      - Emergency repair service
+      - None
+      required: false
+    - id: 32
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Optional
+      type: text
+      options: []
+      required: false

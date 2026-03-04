@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superhero Feature Submission
+    pages:
+    - id: 1
+      name: submission_title
+      label: Submission Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: art_upload
+      label: Art Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporting_materials_upload
+      label: Supporting Materials Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_powers
+      label: Submission Powers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submission_gadgets
+      label: Submission Gadgets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submission_story_twists
+      label: Submission Story Twists
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

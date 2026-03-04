@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Consultation Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For appointment communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consultation_date
+      label: Consultation Date
+      hint: Date of consultation
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: What brought you to our clinic
+      type: select_one
+      options:
+      - Friend or family referral
+      - Physician referral
+      - Website
+      - Social media
+      - Advertisement
+      - Previous patient
+      - Other
+      required: false
+    - id: 10
+      name: primary_concern
+      label: Primary Concern
+      hint: What is your main reason for consultation
+      type: select_one
+      options:
+      - Forehead wrinkles
+      - Frown lines
+      - Crow's feet
+      - Facial asymmetry
+      - Excessive sweating
+      - Jaw clenching
+      - Migraine relief
+      - Other
+      required: true
+    - id: 11
+      name: treatment_goals
+      label: Treatment Goals
+      hint: What are you hoping to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_botox
+      label: Previous Botulinum Toxin Treatments
+      hint: Have you had this treatment before
+      type: select_one
+      options:
+      - Yes, satisfied
+      - Yes, unsatisfied
+      - No, first time
+      required: true
+    - id: 13
+      name: last_treatment_date
+      label: Last Treatment Date
+      hint: When was your most recent treatment
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - None
+      - Neuromuscular disorder
+      - Pregnancy
+      - Breastfeeding
+      - Bleeding disorder
+      - Heart condition
+      - High blood pressure
+      - Diabetes
+      - Thyroid condition
+      - Autoimmune disease
+      - Allergies
+      required: true
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and supplements
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: allergies
+      label: Known Allergies
+      hint: List all known allergies
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: cosmetic_procedures
+      label: Other Cosmetic Procedures
+      hint: Have you had other cosmetic treatments
+      type: select_multiple
+      options:
+      - None
+      - Dermal fillers
+      - Chemical peels
+      - Laser treatments
+      - Microdermabrasion
+      - Surgery
+      - Other
+      required: true
+    - id: 18
+      name: lifestyle_factors
+      label: Lifestyle Factors
+      hint: Select relevant factors
+      type: select_multiple
+      options:
+      - Non-smoker
+      - Current smoker
+      - Former smoker
+      - Regular alcohol consumption
+      - Occasional alcohol
+      - Non-drinker
+      - Regular exercise
+      - Sedentary lifestyle
+      required: false
+    - id: 19
+      name: skin_type
+      label: Skin Type
+      hint: How would you describe your skin
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Normal
+      - Sensitive
+      required: false
+    - id: 20
+      name: sun_exposure
+      label: Sun Exposure
+      hint: How much sun exposure do you get
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - High
+      - Use sunscreen regularly
+      - Rarely use sunscreen
+      required: false
+    - id: 21
+      name: expectations
+      label: Expectations
+      hint: Are your expectations realistic
+      type: select_one
+      options:
+      - Yes, I understand limitations
+      - I need more information
+      - I expect complete elimination of wrinkles
+      required: true
+    - id: 22
+      name: budget_consideration
+      label: Budget Consideration
+      hint: Have you considered the cost of treatment
+      type: select_one
+      options:
+      - Yes, I understand the cost
+      - I need pricing information
+      - Cost is not a concern
+      required: true
+    - id: 23
+      name: questions
+      label: Questions
+      hint: List any questions you have
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ready_to_proceed
+      label: Ready to Proceed
+      hint: Are you ready to schedule treatment
+      type: select_one
+      options:
+      - Yes, ready to book
+      - Need time to consider
+      - Want more information first
+      required: true
+    - id: 25
+      name: consultant_notes
+      label: Consultant Notes
+      hint: For internal use only
+      type: text
+      options: []
+      required: false

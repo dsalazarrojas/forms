@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: lifestyle_content_preference_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - Artist
+      - Influencer
+      - Entrepreneur
+      - Student
+      - Other
+      required: true
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      - Master's
+      - Doctorate
+      - Other
+      required: true
+    - id: 5
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interests
+      label: interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media
+      label: social_media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - YouTube
+      - TikTok
+      - Other
+      required: false
+    - id: 9
+      name: content_type
+      label: content_type
+      hint: null
+      type: select_multiple
+      options:
+      - Lifestyle
+      - Food
+      - Travel
+      - Health
+      - Fashion
+      - Beauty
+      - Technology
+      - Finance
+      - Other
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: time_of_week
+      label: time_of_week
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: true
+    - id: 14
+      name: frequency_of_use
+      label: frequency_of_use
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: devices_used
+      label: devices_used
+      hint: null
+      type: select_multiple
+      options:
+      - Smartphone
+      - Tablet
+      - Laptop
+      - Desktop
+      - Television
+      - Radio
+      required: false
+    - id: 17
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - TikTok
+      - Other
+      required: false
+    - id: 18
+      name: content_consumed
+      label: content_consumed
+      hint: null
+      type: select_multiple
+      options:
+      - Blog
+      - Podcast
+      - Video
+      - Social Media
+      - Book
+      - Other
+      required: true
+    - id: 19
+      name: frequency_of_content_consumption
+      label: frequency_of_content_consumption
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 20
+      name: time_spent_on_content
+      label: time_spent_on_content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: devices_used_for_content_consumption
+      label: devices_used_for_content_consumption
+      hint: null
+      type: select_multiple
+      options:
+      - Smartphone
+      - Tablet
+      - Laptop
+      - Desktop
+      - Television
+      required: false
+    - id: 22
+      name: content_format
+      label: content_format
+      hint: null
+      type: select_multiple
+      options:
+      - Text
+      - Image
+      - Video
+      - Audio
+      required: true
+    - id: 23
+      name: time_of_day_ideal
+      label: time_of_day_ideal
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: time_of_week_ideal
+      label: time_of_week_ideal
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

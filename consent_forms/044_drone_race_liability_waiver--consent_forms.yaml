@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Race Liability Waiver
+    pages:
+    - id: 1
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_date_of_birth
+      label: participant date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_signature
+      label: participant signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_signature
+      label: emergency contact signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_organizer
+      label: event organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_organizer_phone
+      label: event organizer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_organizer_email
+      label: event organizer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: participant_agree
+      label: participant agree
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the waiver.
+      - I have not read and do not agree to the waiver.
+      required: true
+    - id: 14
+      name: event_organizer_agree
+      label: event organizer agree
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the waiver.
+      - I have not read and do not agree to the waiver.
+      required: true
+    - id: 15
+      name: participant_agree_date
+      label: participant agree date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: event_organizer_agree_date
+      label: event organizer agree date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: participant_esign
+      label: participant e-sign
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_organizer_esign
+      label: event organizer e-sign
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: participant_notes
+      label: participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: event_organizer_notes
+      label: event organizer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: participant_witnessed_by
+      label: participant witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_organizer_witnessed_by
+      label: event organizer witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_waiver_version
+      label: participant waiver version
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 24
+      name: event_organizer_waiver_version
+      label: event organizer waiver version
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 25
+      name: participant_waiver_status
+      label: participant waiver status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

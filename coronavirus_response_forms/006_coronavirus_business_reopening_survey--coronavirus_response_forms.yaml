@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Business Reopening Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Coronavirus Response Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Restaurant
+      - Store
+      - Other
+      required: false
+    - id: 6
+      name: business_status
+      label: Business Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 7
+      name: need_help
+      label: Need Help
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

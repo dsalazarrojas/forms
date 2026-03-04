@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Request Form
+    pages:
+    - id: 1
+      name: request_overview_header
+      label: -- Content Request Details --
+      hint: Provide the requirements for the new content piece
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Department/Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_topic
+      label: Content Topic/Title
+      hint: What is the main subject of this request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: content_format
+      label: Requested Format
+      hint: Choose the primary format for this content
+      type: select_one
+      options:
+      - Blog Post/Article
+      - Case Study
+      - Whitepaper/E-book
+      - Video Script
+      - Infographic Text
+      - Social Media Thread
+      - Email Newsletter
+      required: true
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: Who are we writing this for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: desired_word_count
+      label: Desired Word Count
+      hint: Approximate length of the content
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: key_points_to_cover
+      label: Key Points to Cover
+      hint: List specific sub-topics or arguments to include
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: production_details_header
+      label: -- Production Requirements --
+      hint: Timing and references
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: deadline_date
+      label: Deadline Date
+      hint: When do you need the final version
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reference_links
+      label: Reference Links or Documents
+      hint: Paste links to similar content or source data
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visual_assets_needed
+      label: Are visual assets required
+      hint: e.g., custom graphics, screenshots, charts
+      type: select_one
+      options:
+      - Yes - Graphics needed
+      - Yes - Photos needed
+      - No - Text only
+      required: true
+    - id: 13
+      name: priority_status
+      label: Request Priority
+      hint: null
+      type: select_one
+      options:
+      - Low - Not urgent
+      - Medium - Standard turnaround
+      - High - Urgent project
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other specific requirements
+      type: text
+      options: []
+      required: false

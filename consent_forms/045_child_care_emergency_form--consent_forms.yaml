@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Emergency Form
+    pages:
+    - id: 1
+      name: emergency_intro
+      label: -- Child Care Emergency Form --
+      hint: Report emergency medical conditions and authorization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: form_completion_date
+      label: Form completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_name
+      label: Parent or guardian name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: child_care_facility
+      label: Child care facility name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_1_name
+      label: Primary emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_1_relationship
+      label: Relationship to child
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_1_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_2_name
+      label: Secondary emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_2_relationship
+      label: Relationship to child
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_2_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_name
+      label: Child's physician name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: physician_phone
+      label: Physician phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Known medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies_list
+      label: Allergies (food, medication, environmental)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_emergency_procedure
+      label: Instructions for medical emergency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: seizure_action_plan
+      label: Seizure action plan (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: asthma_action_plan
+      label: Asthma action plan (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: epipen_authorization
+      label: Authorization to use EpiPen (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - Authorized
+      - Not authorized
+      - Not applicable
+      required: true
+    - id: 24
+      name: medical_treatment_authorization
+      label: I authorize emergency medical treatment if I cannot be reached
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 25
+      name: hospital_preference
+      label: Preferred hospital or emergency facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: insurance_information
+      label: Health insurance carrier and policy number
+      hint: null
+      type: text
+      options: []
+      required: false

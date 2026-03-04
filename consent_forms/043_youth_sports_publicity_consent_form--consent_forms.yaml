@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Publicity Consent Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I, the parent/guardian, agree that the youth athlete may be featured in media,
+        photographs, and videos.
+      - I, the parent/guardian, do not agree that the youth athlete may be featured
+        in media, photographs, and videos.
+      required: true
+    - id: 4
+      name: athlete_name
+      label: athlete_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sport
+      label: sport
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Football
+      - Baseball
+      - Soccer
+      - Hockey
+      - Tennis
+      - Golf
+      - Volleyball
+      - Track
+      - Cross-Country
+      - Swimming
+      - Softball
+      - Lacrosse
+      - Rugby
+      - Wrestling
+      - Cycling
+      - Other
+      required: true
+    - id: 6
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_release
+      label: photo_release
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: photo_caption
+      label: photo_caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_use
+      label: photo_use
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Website
+      - Brochures
+      - Newspaper
+      - Magazine
+      - TV
+      - Radio
+      - Other
+      required: false
+    - id: 11
+      name: photo_credit
+      label: photo_credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: media
+      label: media
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: media_description
+      label: media_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_media
+      label: other_media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_media_description
+      label: other_media_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent2
+      label: consent2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: consent3
+      label: consent3
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

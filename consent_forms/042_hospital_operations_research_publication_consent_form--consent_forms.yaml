@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Operations Research Publication Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Enter Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: publication_title
+      label: Publication Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: researcher_name
+      label: Enter Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: researcher_institution
+      label: Researcher Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_publication_date
+      label: Research Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_data_use
+      label: Participant Data Use
+      hint: null
+      type: select_one
+      options:
+      - Data will not be shared with any 3rd party
+      - Data will not be used for commercial purposes
+      - Data will not be used in any other research studies
+      - Data will be shared with 1st party partners
+      required: true
+    - id: 7
+      name: participant_data_storage
+      label: Participant Data Storage
+      hint: null
+      type: select_multiple
+      options:
+      - Data will not be stored
+      - Data will be stored in participant database
+      - Data will be stored on a secure server
+      required: true
+    - id: 8
+      name: participant_data_anonymization
+      label: Participant Data Anonymization
+      hint: null
+      type: select_one
+      options:
+      - Data will not be anonymized
+      - Data will be partially anonymized
+      - Data will be fully anonymized
+      required: true
+    - id: 9
+      name: participant_data_destruction
+      label: Participant Data Destruction
+      hint: null
+      type: select_one
+      options:
+      - Data will not be destroyed
+      - Data will be destroyed after 1 year
+      - Data will be destroyed after 2 years
+      required: true
+    - id: 10
+      name: participant_data_retention
+      label: Participant Data Retention
+      hint: null
+      type: select_multiple
+      options:
+      - Data will be retained for 1 year
+      - Data will be retained for 2 years
+      - Data will be retained for 5 years
+      required: true
+    - id: 11
+      name: participant_data_sharing
+      label: Participant Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Data will not be shared
+      - Data will be shared with 1st party partners
+      - Data will be shared with 2nd party partners
+      - Data will be shared with 3rd party partners
+      required: true
+    - id: 12
+      name: consent_given
+      label: Has Participant Given Consent
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 13
+      name: participant_notification
+      label: Participant Notification
+      hint: null
+      type: select_multiple
+      options:
+      - No notification
+      - Email notification
+      - Phone call notification
+      required: true
+    - id: 14
+      name: participant_data_use_agreement
+      label: Participant Data Use Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: research_study
+      label: Research Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_data_destruction_method
+      label: Participant Data Destruction Method
+      hint: null
+      type: select_one
+      options:
+      - Data will not be destroyed
+      - Data will be shredded
+      - Data will be erased
+      required: true
+    - id: 19
+      name: participant_data_retention_period
+      label: Participant Data Retention Period
+      hint: null
+      type: select_multiple
+      options:
+      - Data will be retained for 1 year
+      - Data will be retained for 2 years
+      - Data will be retained for 5 years
+      required: true
+    - id: 20
+      name: participant_signature_date
+      label: Participant Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: researcher_name_2
+      label: Researcher Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: research_institution_2
+      label: Research Institution 2
+      hint: null
+      type: text
+      options: []
+      required: false

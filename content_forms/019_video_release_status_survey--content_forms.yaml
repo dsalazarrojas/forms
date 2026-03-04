@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: video release status survey
+    pages:
+    - id: 1
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_status
+      label: release_status
+      hint: null
+      type: select_one
+      options:
+      - '{''title'': ''Released''}'
+      - '{''title'': ''Unreleased''}'
+      - '{''title'': ''Removed''}'
+      required: true
+    - id: 3
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: release_date2
+      label: Release Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''title'': ''Facebook''}'
+      - '{''title'': ''Vimeo''}'
+      - '{''title'': ''YouTube''}'
+      - '{''title'': ''Instagram''}'
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

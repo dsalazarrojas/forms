@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strength Competition Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter first name here.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Please enter last name here.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: weight_class
+      label: Weight Class
+      hint: Please select a weight class.
+      type: select_one
+      options:
+      - Heavyweight
+      - Lightweight
+      - Middleweight
+      required: false
+    - id: 6
+      name: division
+      label: Division
+      hint: Please select a division.
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Open
+      required: false
+    - id: 7
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: competition_type
+      label: Competition Type
+      hint: Please select competition type.
+      type: select_multiple
+      options:
+      - Squat
+      - Deadlift
+      - Bench Press
+      - Total
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Enter additional notes if necessary.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Co-worker
+      - Manager
+      required: false
+    - id: 12
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - HR
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_position
+      label: Submitted By Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_to_title
+      label: Submitted To Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_to_name
+      label: Submitted To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to_department
+      label: Submitted To Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_to_position
+      label: Submitted To Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

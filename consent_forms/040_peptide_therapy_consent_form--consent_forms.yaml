@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peptide Therapy Consent Form
+    pages:
+    - id: 1
+      name: peptide_therapy_consent_form
+      label: Peptide Therapy Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Condition 1''}'
+      - '{''value'': ''Condition 2''}'
+      - '{''value'': ''Condition 3''}'
+      required: false
+    - id: 5
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: e_signature
+      label: e-Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

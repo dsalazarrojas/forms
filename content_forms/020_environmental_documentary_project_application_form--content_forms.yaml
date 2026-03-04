@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Documentary Project Application Form
+    pages:
+    - id: 1
+      name: festival_form_data
+      label: festival_info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Festival name'', ''label'': ''Festival name''}'
+      - '{''value'': ''Festival location'', ''label'': ''Festival location''}'
+      - '{''value'': ''Project duration'', ''label'': ''Project duration''}'
+      - '{''value'': ''Project budget'', ''label'': ''Project budget''}'
+      required: false
+    - id: 2
+      name: school_form_data
+      label: school_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Grade level'', ''label'': ''Grade level''}'
+      - '{''value'': ''Student number'', ''label'': ''Student number''}'
+      - '{''value'': ''Teacher number'', ''label'': ''Teacher number''}'
+      required: true
+    - id: 3
+      name: ngo_form_data
+      label: ngo_info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Organization type'', ''label'': ''Organization type''}'
+      - '{''value'': ''Location'', ''label'': ''Location''}'
+      required: true
+    - id: 4
+      name: grant_form_data
+      label: grant_info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Grant type'', ''label'': ''Grant type''}'
+      - '{''value'': ''Grant amount'', ''label'': ''Grant amount''}'
+      required: false
+    - id: 5
+      name: project_details
+      label: project_details
+      hint: Briefly describe your project
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false

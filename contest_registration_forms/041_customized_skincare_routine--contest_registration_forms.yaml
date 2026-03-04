@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customized Skincare Routine
+    pages:
+    - id: 1
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: skincare_plan
+      label: Skincare Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skincare_routine
+      label: Skincare Routine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: skincare_products
+      label: Skincare Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: skincare_frequency
+      label: Skincare Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: skincare_duration
+      label: Skincare Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: skincare_notes
+      label: Skincare Notes
+      hint: null
+      type: note
+      options: []
+      required: false

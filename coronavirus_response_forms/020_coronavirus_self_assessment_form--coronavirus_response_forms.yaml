@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Self Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Runny Nose
+      - Sore Throat
+      - Shortness of Breath
+      - Muscle Pain
+      - Nausea
+      - Vomiting
+      - Diarrhea
+      - Abdominal Pain
+      required: true
+    - id: 3
+      name: contact_tracing
+      label: Contact Tracing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recent_events
+      label: Recent Events
+      hint: null
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      - Event 4
+      - Event 5
+      required: false
+    - id: 6
+      name: travel_destination
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: self_isolated
+      label: Self-Isolated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: test_results
+      label: Test Results
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 12
+      name: treatment_status
+      label: Treatment Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 13
+      name: hospitalization_status
+      label: Hospitalization Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 14
+      name: patient_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: medical_professional_info
+      label: Medical Professional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_professional_email
+      label: Medical Professional Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: medical_professional_phone
+      label: Medical Professional Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: patient_info_2
+      label: Patient Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: self_assessment
+      label: Self-Assessment
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 25
+      name: patient_info_1
+      label: Patient Info 1
+      hint: null
+      type: text
+      options: []
+      required: false

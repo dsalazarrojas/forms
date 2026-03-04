@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Late Pick Up Form
+    pages:
+    - id: 1
+      name: pickup_time
+      label: pickup_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: pickup_contact
+      label: pickup_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: late_pickers_name
+      label: late_pickers_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: late_pickers_relationship
+      label: late_pickers_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Child
+      - Parent
+      - Guardian
+      - Staff
+      required: false
+    - id: 5
+      name: late_pickers_phone
+      label: late_pickers_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pickup_address
+      label: pickup_address
+      hint: null
+      type: text
+      options: []
+      required: false

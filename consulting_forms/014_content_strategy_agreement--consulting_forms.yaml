@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Strategy Agreement
+    pages:
+    - id: 1
+      name: agreement_intro_header
+      label: -- Agreement Overview --
+      hint: Definition of parties and primary objectives
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_company_name
+      label: Client Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: strategist_name_agency
+      label: Lead Content Strategist/Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agreement_effective_date
+      label: Agreement Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_scope_header
+      label: -- Scope of Services --
+      hint: Deliverables and strategic focus areas
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: core_deliverables
+      label: Core Strategy Deliverables
+      hint: Select the primary items to be delivered
+      type: select_multiple
+      options:
+      - Comprehensive Content Audit
+      - Competitor Gap Analysis
+      - 12-Month Editorial Calendar
+      - Brand Voice and Style Guide
+      - Content Distribution Plan
+      - KPI and Measurement Framework
+      required: true
+    - id: 7
+      name: target_channels
+      label: Target Channels for Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Corporate Blog
+      - Linked-In (B2B)
+      - Video/YouTube
+      - Email Marketing
+      - Paid Content Ads
+      required: true
+    - id: 8
+      name: payment_terms_header
+      label: -- Financial Terms --
+      hint: Fees and billing schedule
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_strategy_fee
+      label: Total Strategy Fee (USD)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: billing_structure
+      label: Billing Structure
+      hint: null
+      type: select_one
+      options:
+      - 50 percent Upfront - 50 percent on Completion
+      - Milestone-based Payments
+      - Monthly Retainer Model
+      required: true
+    - id: 11
+      name: timeline_details_header
+      label: -- Timeline and Milestones --
+      hint: Key dates for project phases
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phase_1_audit_completion
+      label: Phase 1 (Audit) Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: final_strategy_delivery_date
+      label: Final Strategy Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: client_approval_requirements
+      label: Client Approval Turnaround (Days)
+      hint: Maximum time for client to provide feedback on drafts
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: signatures_header
+      label: -- Execution --
+      hint: Digital signing of the strategy agreement
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: client_signature
+      label: Client Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: strategist_signature
+      label: Strategist Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_terms_conditions
+      label: Special Terms or Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

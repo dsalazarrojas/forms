@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wisconsin COVID-19 Hardship Attestation Form
+    pages:
+    - id: 1
+      name: agency_logo
+      label: agency_logo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attestation_form
+      label: attestation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attestation_title
+      label: attestations_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attestation_date
+      label: attestations_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: attestation_time
+      label: attestations_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: attestation_name
+      label: attestations_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attestation_address
+      label: attestations_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attestation_state
+      label: attestations_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attestation_zip
+      label: attestations_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attestation_city
+      label: attestations_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attestation_phone
+      label: attestations_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attestation_email
+      label: attestations_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: attestation_comments
+      label: attestations_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attestation_signature
+      label: attestations_signature
+      hint: null
+      type: select_multiple
+      options:
+      - '[''I have read, understand, and agree'', "I haven''t read or understood,
+        but I''ll try", "I haven''t read, don''t understand, and won''t sign"]'
+      - Other
+      required: false
+    - id: 15
+      name: attestation_agreement
+      label: attestations_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

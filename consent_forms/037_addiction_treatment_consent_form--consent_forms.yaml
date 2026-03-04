@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Addiction Treatment Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Informed Consent for Addiction Treatment --
+      hint: Please review the following information regarding your treatment plan
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_legal_name
+      label: Patient Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_options_header
+      label: -- Treatment Options and Modalities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: proposed_treatments
+      label: Proposed Treatment Components
+      hint: Select all that have been discussed with you
+      type: select_multiple
+      options:
+      - Medically Supervised Detoxification
+      - Residential / Inpatient Rehabilitation
+      - Intensive Outpatient Program (IOP)
+      - Individual Counseling / Psychotherapy
+      - Group Therapy Sessions
+      - Medication-Assisted Treatment (MAT)
+      required: true
+    - id: 6
+      name: risk_disclosure_note
+      label: -- Risks and Benefits --
+      hint: Potential benefits include improved health and sobriety. Risks may include
+        emotional distress, physical withdrawal symptoms, or potential for relapse.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risks_acknowledged
+      label: I have been informed of the potential risks and benefits of the treatment
+        plan
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 8
+      name: confidentiality_header
+      label: -- Confidentiality and Privacy --
+      hint: Your treatment is protected under HIPAA and 42 CFR Part 2 (Federal Confidentiality
+        Regulations)
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: privacy_policy_ack
+      label: I have received and reviewed the Notice of Privacy Practices
+      hint: null
+      type: select_one
+      options:
+      - I Have Received and Reviewed
+      - Other
+      required: true
+    - id: 10
+      name: drug_testing_consent
+      label: I consent to periodic drug and alcohol screening as part of my treatment
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 11
+      name: right_to_withdraw
+      label: I understand I have the right to withdraw my consent at any time
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 12
+      name: financial_responsibility_ack
+      label: I understand that I am financially responsible for services rendered
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: final_signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: electronic_signature_ack
+      label: My selection here acts as my electronic signature for this consent form
+      hint: null
+      type: select_one
+      options:
+      - I Sign and Consent
+      - Other
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Consultation Form
+    pages:
+    - id: 1
+      name: spa_consultation_form
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_contact_method
+      label: How do you prefer to be contacted
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Phone
+      - None
+      required: true
+    - id: 5
+      name: consultation_time
+      label: Consultation time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: preferred_service
+      label: Which service are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Haircut
+      - Nail
+      - Makeup
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Do you have any medical conditions
+      hint: Please provide medical condition details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: allergies
+      label: Do you have any allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medication
+      label: Are you taking any medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_history
+      label: Medical history
+      hint: Please provide medical history details
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: raffle_basket_theme_submission_form
+    pages:
+    - id: 1
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: raffle_items
+      label: Raffle Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: raffle_basket_image
+      label: Raffle Basket Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: raffle_basket_themes
+      label: Raffle Basket Themes
+      hint: null
+      type: select_multiple
+      options:
+      - theme1
+      - theme2
+      - theme3
+      required: false
+    - id: 8
+      name: theme_description
+      label: Theme Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: estimated_value
+      label: Estimated Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: theme_color
+      label: Theme Color
+      hint: null
+      type: select_one
+      options:
+      - red
+      - blue
+      - green
+      required: false

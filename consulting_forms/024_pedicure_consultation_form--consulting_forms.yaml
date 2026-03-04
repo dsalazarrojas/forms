@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: pedicure_consultation_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_condition
+      label: Nail Condition
+      hint: null
+      type: select_one
+      options:
+      - Nail Fungal Infection
+      - Nail Discoloration
+      - Other
+      required: false
+    - id: 3
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_multiple
+      options:
+      - Natural
+      - Gel
+      - Acrylic
+      - Other
+      required: false
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false

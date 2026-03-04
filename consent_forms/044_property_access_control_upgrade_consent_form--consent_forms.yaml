@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_access_control_upgrade_consent_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Property Access Control Upgrade Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

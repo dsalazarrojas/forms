@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Antibody Screening Consent Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: test_location
+      label: Testing Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_2
+      label: -- Health Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: covid_diagnosis
+      label: Have you been diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 11
+      name: covid_diagnosis_date
+      label: Date of COVID-19 diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: current_symptoms
+      label: Do you currently have COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: recent_exposure
+      label: Have you been exposed to someone with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: section_header_3
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: test_purpose
+      label: I understand the purpose of this antibody test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: test_process
+      label: The testing process has been explained to me
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: risks_explained
+      label: Risks and benefits have been explained to me
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: confidentiality_understood
+      label: I understand how my results will be kept confidential
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: test_consent
+      label: I consent to COVID-19 antibody screening test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: section_header_4
+      label: -- Results and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: results_notification
+      label: Preferred method for receiving results
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Patient portal
+      required: true
+    - id: 22
+      name: follow_up_consent
+      label: I consent to follow-up contact if needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: section_header_5
+      label: -- Signature and Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: consent_signature
+      label: Patient Signature
+      hint: I confirm I have read and understood this consent form
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

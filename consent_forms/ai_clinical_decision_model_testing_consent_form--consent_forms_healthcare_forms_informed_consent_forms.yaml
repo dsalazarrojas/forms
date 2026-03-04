@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Clinical Decision Model Testing Consent Form
+    pages:
+    - id: 1
+      name: section_header_consent
+      label: '--- Consent Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Contact number for follow-up
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: visit_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: ai_consent_status
+      label: Do you consent to participate in AI clinical decision model testing?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - I need more information
+      required: true
+    - id: 9
+      name: section_header_medical
+      label: '--- Medical Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: symptoms
+      label: Current symptoms (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Fever
+      - Headache
+      - Fatigue
+      - Cough
+      - Pain
+      - Nausea
+      - Dizziness
+      - Shortness of breath
+      - Other
+      required: false
+    - id: 11
+      name: pain_level
+      label: Pain level (0-10)
+      hint: 0 = no pain, 10 = worst pain imaginable
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: current_medications
+      label: Current medications
+      hint: List all medications including dosages
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Known allergies
+      hint: Include drug allergies and reactions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Relevant medical history
+      hint: Chronic conditions, previous surgeries, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ai_data_usage_consent
+      label: Do you consent to your medical data being used for AI model training?
+      hint: Data will be anonymized and de-identified
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only for this study
+      required: true
+    - id: 16
+      name: data_retention_period
+      label: Preferred data retention period
+      hint: How long your data should be stored
+      type: select_one
+      options:
+      - For duration of study only
+      - Up to 1 year after study
+      - Up to 5 years after study
+      - Indefinitely for research purposes
+      required: false
+    - id: 17
+      name: section_header_rights
+      label: '--- Participant Rights ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: right_to_withdraw
+      label: I understand I have the right to withdraw consent at any time
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 19
+      name: contact_researcher
+      label: Would you like to be contacted about future studies?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: Any questions or concerns about the study
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: digital_signature
+      label: Digital signature
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_date
+      label: Date of signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newborn Photography Consent
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_visit
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: photographer_details
+      label: photographer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: model_release
+      label: model_release
+      hint: null
+      type: select_multiple
+      options:
+      - Parent/Guardian
+      - Parent/Child/Model
+      - Other
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Electronic Signature
+      - Wet Signature
+      - No Signature Required
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: photo_shoot_details
+      label: photo_shoot_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: photos_taken
+      label: photos_taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: photo_shoot_location
+      label: photo_shoot_location
+      hint: null
+      type: select_one
+      options:
+      - Studio
+      - 'Location: Client''s Home'
+      - 'Location: Outdoor'
+      required: false
+    - id: 14
+      name: photo_shoot_location_street
+      label: location_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photo_shoot_duration
+      label: photo_shoot_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Check/Online Payment
+      - Credit/Debit Card
+      required: false
+    - id: 17
+      name: client_contact_details
+      label: client_contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_and_conditions_text
+      label: terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature_type
+      label: signature_type
+      hint: null
+      type: select_one
+      options:
+      - Signature of client
+      - Signature of guardian
+      - Signature not required
+      required: false
+    - id: 22
+      name: signature_client
+      label: signature_client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signature_guardian
+      label: signature_guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_guardian_2
+      label: signature_guardian_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms
+      label: terms
+      hint: null
+      type: note
+      options: []
+      required: false

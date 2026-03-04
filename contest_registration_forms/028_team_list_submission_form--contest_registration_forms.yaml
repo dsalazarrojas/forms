@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team List Submission Form
+    pages:
+    - id: 1
+      name: team_players
+      label: team_players
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_officials
+      label: team_officials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: jersey_numbers
+      label: jersey_numbers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: players_names
+      label: players_names
+      hint: null
+      type: text
+      options: []
+      required: false

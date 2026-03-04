@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: hairdressing_consultation_form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment
+      label: Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_service
+      label: Hair Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferences
+      label: Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: history
+      label: Hair History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

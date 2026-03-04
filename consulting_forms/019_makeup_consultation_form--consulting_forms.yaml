@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Consultation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consultation_type
+      label: consultation type
+      hint: null
+      type: select_one
+      options:
+      - Eyeliner
+      - Foundation
+      - Lipliner
+      - Mascara
+      - Powder
+      - Primer
+      - Toner
+      required: true
+    - id: 3
+      name: product_description
+      label: product description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultation_notes
+      label: consultation notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_photo_url
+      label: customer photo url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_makeup_type
+      label: customer makeup type
+      hint: null
+      type: select_multiple
+      options:
+      - Natural
+      - Semi-Matte
+      - Gloss
+      - Special Effects
+      required: true
+    - id: 8
+      name: customer_color
+      label: customer color
+      hint: null
+      type: select_multiple
+      options:
+      - Fair
+      - Olive
+      - Tan
+      - Brown
+      - Black
+      - Other
+      required: true
+    - id: 9
+      name: customer_hair_color
+      label: customer hair color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Other
+      required: true
+    - id: 10
+      name: customer_eye_color
+      label: customer eye color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Green
+      - Hazel
+      - Grey
+      - Other
+      required: true
+    - id: 11
+      name: customer_skin_type
+      label: customer skin type
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 12
+      name: customer_age
+      label: customer age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: customer_height
+      label: customer height
+      hint: null
+      type: text
+      options: []
+      required: false

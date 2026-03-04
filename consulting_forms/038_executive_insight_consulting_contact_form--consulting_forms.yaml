@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Insight Consulting Contact Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inquiry
+      label: Inquiry
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: consultant_info
+      label: Consultant Info
+      hint: Please provide any details you want to ask us.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 9
+      name: inquiry_description
+      label: Inquiry Description
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 11
+      name: consultant_address
+      label: Consultant Address
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 12
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 14
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: inquiry_time
+      label: Inquiry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: inquiry_duration
+      label: Inquiry Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: consultant_phone_type
+      label: Consultant Phone Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 18
+      name: consultant_email_type
+      label: Consultant Email Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 19
+      name: inquiry_status
+      label: Inquiry Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 20
+      name: inquiry_source
+      label: Inquiry Source
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 21
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 22
+      name: consultant_type
+      label: Consultant Type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 23
+      name: consultant_experience
+      label: Consultant Experience
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 24
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status_note
+      label: Follow-up Status Note
+      hint: null
+      type: note
+      options: []
+      required: false

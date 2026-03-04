@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_portfolio_review_permission_form
+    pages:
+    - id: 1
+      name: photographer_info
+      label: Photographers Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Photographers Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: permission_type
+      label: Permission Type
+      hint: null
+      type: select_one
+      options:
+      - Review
+      - Approve and Review
+      - Approve
+      - Not Approve
+      required: true
+    - id: 4
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: photographer_agreement
+      label: I Agree to be reviewed
+      hint: null
+      type: number
+      options: []
+      required: true

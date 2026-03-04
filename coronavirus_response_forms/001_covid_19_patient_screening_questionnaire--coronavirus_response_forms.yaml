@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Patient Screening Questionnaire
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_symptoms
+      label: Are you currently experiencing any symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath or difficulty breathing
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - New loss of taste or smell
+      - Sore throat
+      - Congestion or runny nose
+      - Nausea or vomiting
+      - Diarrhea
+      - None of the above
+      required: true
+    - id: 9
+      name: symptom_onset_date
+      label: When did your symptoms start
+      hint: Leave blank if no symptoms
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: close_contact_exposure
+      label: Have you been in close contact with a confirmed COVID-19 case in the
+        past 14 days
+      hint: Close contact means within 6 feet for 15 minutes or more
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 11
+      name: travel_history
+      label: Have you traveled outside your state or country in the past 14 days
+      hint: Include all travel
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: travel_locations
+      label: List locations traveled to
+      hint: Cities and states or countries visited
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: underlying_conditions
+      label: Do you have any underlying medical conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cancer
+      - Chronic kidney disease
+      - COPD (chronic obstructive pulmonary disease)
+      - Immunocompromised state
+      - Serious heart conditions
+      - Obesity
+      - Sickle cell disease
+      - Smoking history
+      - Type 2 diabetes
+      - None of the above
+      required: true
+    - id: 14
+      name: current_medications
+      label: List current medications
+      hint: Include dosage if relevant
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your regular doctor
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_phone
+      label: Physician Phone Number
+      hint: Office phone number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of your insurance company
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Your policy or member ID number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: pregnancy_status
+      label: Are you currently pregnant
+      hint: If applicable
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

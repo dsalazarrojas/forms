@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Person
+    pages:
+    - id: 1
+      name: contact_selection
+      label: Select Who to Contact
+      hint: Choose the person you want to reach
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: your_email
+      label: Your Email
+      hint: Email address for response
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: your_phone
+      label: Your Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Who Would You Like to Contact
+      hint: Select the specific person
+      type: select_one
+      options:
+      - Sales Department
+      - Customer Support
+      - Technical Support
+      - Billing Department
+      - Human Resources
+      - General Inquiry
+      required: true
+    - id: 6
+      name: subject
+      label: Subject
+      hint: Brief subject line
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: message
+      label: Message
+      hint: Your message details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: Priority Level
+      hint: How urgent is your inquiry
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 9
+      name: preferred_response
+      label: Preferred Response Method
+      hint: How should we respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Either
+      required: false
+    - id: 10
+      name: best_time
+      label: Best Time to Contact
+      hint: If phone contact preferred
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false

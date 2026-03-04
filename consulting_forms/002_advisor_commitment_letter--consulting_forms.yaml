@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advisor Commitment Letter
+    pages:
+    - id: 1
+      name: advisor_information_section
+      label: Advisor Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisor_full_name
+      label: Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: advisor_title_position
+      label: Title or Position
+      hint: Your current professional title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: advisor_company_organization
+      label: Company or Organization
+      hint: Current employer or affiliated organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: advisor_email
+      label: Professional Email Address
+      hint: Business email for official correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: advisor_phone
+      label: Phone Number
+      hint: Professional phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: advisor_specialties
+      label: Areas of Expertise
+      hint: Please list your primary areas of expertise
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: commitment_duration
+      label: Expected Commitment Duration
+      hint: How long are you willing to serve as an advisor?
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      - Indefinite
+      required: true
+    - id: 9
+      name: availability_hours_per_month
+      label: Estimated Availability Hours Per Month
+      hint: How many hours per month can you dedicate to advisory activities?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: meeting_format_preference
+      label: Preferred Meeting Format
+      hint: How do you prefer to conduct advisory meetings?
+      type: select_one
+      options:
+      - In-person
+      - Video conference
+      - Phone call
+      - Hybrid
+      required: true
+    - id: 11
+      name: compensation_expectations
+      label: Compensation Expectations
+      hint: What type of compensation are you expecting?
+      type: select_one
+      options:
+      - Equity only
+      - Cash only
+      - Equity and cash
+      - No compensation needed
+      - To be discussed
+      required: false
+    - id: 12
+      name: conflict_of_interest_disclosure
+      label: Conflict of Interest Disclosure
+      hint: Please disclose any potential conflicts of interest
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_terms_section
+      label: Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_acknowledged
+      label: I acknowledge that I have read and understood the terms of the advisory
+        agreement
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Do you agree to maintain confidentiality of proprietary information?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: intellectual_property_acknowledgment
+      label: Intellectual Property Acknowledgment
+      hint: Do you understand that any ideas shared during advisory sessions may be
+        owned by the organization?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: signature
+      label: Electronic Signature
+      hint: Type your full name to sign this commitment letter
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date of Signature
+      hint: Date when this commitment letter is signed
+      type: date
+      options: []
+      required: true

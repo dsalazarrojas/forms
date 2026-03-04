@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Disclosure And Attestation To The United States Of America
+    pages:
+    - id: 1
+      name: passenger_disclosure_and_attestation_to_the_united_states_of_america
+      label: passenger_disclosure_and_attestation_to_the_united_states_of_america
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Coronavirus Response Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: output_file
+      hint: 003_passenger_disclosure_and_attestation_to_the_united_states_of_america--coronavirus_response_forms.yaml
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_ids
+      label: form_ids
+      hint: 80527
+      type: text
+      options: []
+      required: false

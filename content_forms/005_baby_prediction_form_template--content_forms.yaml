@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Prediction Form Template
+    pages:
+    - id: 1
+      name: prediction_intro
+      label: -- Baby Shower Predictions --
+      hint: Share your best guesses about the new arrival!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: predicted_gender
+      label: What will it be?
+      hint: null
+      type: select_one
+      options:
+      - It is a Boy!
+      - It is a Girl!
+      required: true
+    - id: 4
+      name: predicted_birth_date
+      label: Predicted Date of Birth
+      hint: Due date is usually just a suggestion!
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: predicted_birth_time
+      label: Predicted Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: predicted_weight_lbs
+      label: Predicted Weight (Pounds)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: predicted_weight_oz
+      label: Predicted Weight (Ounces)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: predicted_length_inches
+      label: Predicted Length (Inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: eye_color_guess
+      label: Likely Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Grey
+      required: false
+    - id: 10
+      name: hair_color_guess
+      label: Likely Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Brown
+      - Black
+      - Red
+      - Bald
+      required: false
+    - id: 11
+      name: parent_lookalike
+      label: Who will the baby look like most?
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - A bit of both
+      required: false
+    - id: 12
+      name: advice_for_parents
+      label: A Piece of Advice for the New Parents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wishes_for_baby
+      label: My Wish for the Baby is...
+      hint: null
+      type: text
+      options: []
+      required: false

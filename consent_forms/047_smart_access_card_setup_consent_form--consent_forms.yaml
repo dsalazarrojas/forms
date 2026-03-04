@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Access Card Setup Consent Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_access
+      label: Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_access_other
+      label: Other Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_status
+      label: Employee/Contractor/Visitor
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Contractor
+      - Visitor
+      required: false
+    - id: 12
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: has_access_card
+      label: Has Access Card
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: reason_for_access_other_reason
+      label: Other Reason for Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_access_other_description
+      label: Other Reason for Access Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_access_other_note
+      label: Other Reason for Access Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: has_access_card_other
+      label: Other Has Access Card
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

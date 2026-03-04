@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Remix Consent Form
+    pages:
+      - id: 1
+        name: section_parties
+        label: -- Artist and Remixer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: original_artist_name
+        label: Original Artist Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: remixer_name
+        label: Remixer Full Name or Alias
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: section_work
+        label: -- Original Work Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: original_track_title
+        label: Title of the Original Work
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: original_release_date
+        label: Original Release Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: remix_description
+        label: Intended Scope of Remix
+        hint: e.g., EDM Remix, Lo-Fi Flip, Samples for a new track
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: section_consent_terms
+        label: -- Consent Terms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: permission_type
+        label: Type of Permission Granted
+        hint: null
+        type: select_one
+        options:
+          - Non-Exclusive Commercial Use
+          - Non-Commercial/Personal Use Only
+          - Promotion/SoundCloud Only
+          - Master Use License required separately
+        required: true
+      - id: 11
+        name: credit_requirement
+        label: Mandatory Attribution Requirements
+        hint: e.g., (Original Artist Remix) must be in title
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: prohibited_modifications
+        label: Any Prohibited Modifications
+        hint: e.g., No use of vocals in specific genres, no political use
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: revenue_sharing
+        label: Revenue Sharing Agreement
+        hint: null
+        type: select_one
+        options:
+          - 50-50 Split
+          - Artist keeps 100% (Remix for hire)
+          - Remixer keeps 100% (Free license)
+          - Custom agreement attached
+        required: true
+      - id: 14
+        name: section_execution
+        label: -- Execution of Consent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: expiration_date
+        label: Consent Expiration Date
+        hint: Leave blank for perpetual consent
+        type: date
+        options: []
+        required: false
+      - id: 16
+        name: artist_signature
+        label: Original Artist Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: remixer_signature
+        label: Remixer Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: agreement_date
+        label: Date of Agreement
+        hint: null
+        type: date
+        options: []
+        required: true

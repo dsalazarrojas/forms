@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Dark Industrial Theme
+    pages:
+      - id: 1
+        name: section_subscriber_info
+        label: -- Subscriber Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: subscriber_full_name
+        label: Full Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: subscriber_email
+        label: Email Address
+        hint: We will send newsletters here
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: company_name
+        label: Company Name
+        hint: Optional business name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: job_function
+        label: Job Function/Title
+        hint: Your role within the industry
+        type: select_one
+        options:
+          - Engineer
+          - Plant Manager
+          - Procurement Specialist
+          - Maintenance Technician
+          - Executive/Owner
+          - Other
+        required: true
+      - id: 6
+        name: section_industrial_interests
+        label: -- Industrial Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: sectors_of_interest
+        label: Industrial Sectors of Interest
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Automation/Robotics
+          - Supply Chain/Logistics
+          - Heavy Machinery
+          - Sustainability/Green Tech
+          - Industrial IoT
+          - Precision Manufacturing
+        required: true
+      - id: 8
+        name: preferred_content_type
+        label: Preferred Content Type
+        hint: What kind of information do you want to receive?
+        type: select_multiple
+        options:
+          - Industry News/Updates
+          - Product Demonstrations
+          - Case Studies/White Papers
+          - Event/Webinar Invitations
+          - Exclusive Offers
+        required: true
+      - id: 9
+        name: section_subscription_preferences
+        label: -- Subscription Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: email_frequency
+        label: Email Frequency
+        hint: How often should we contact you?
+        type: select_one
+        options:
+          - Daily Digest
+          - Weekly Roundup
+          - Monthly Newsletter
+          - Only Major Announcements
+        required: true
+      - id: 11
+        name: agreement_to_terms
+        label: I agree to the Privacy Policy and Terms of Use
+        hint: You must agree to subscribe
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 12
+        name: additional_message
+        label: Anything else you would like to share?
+        hint: Optional message
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: subscription_date
+        label: Subscription Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

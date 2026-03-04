@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Leaderboard Submission
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: player_tag
+      label: player_tag
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_tag_type
+      label: player_tag_type
+      hint: null
+      type: select_one
+      options:
+      - player_tag_type_option1
+      - player_tag_type_option2
+      - player_tag_type_option3
+      required: false
+    - id: 6
+      name: player_tag_type_other
+      label: player_tag_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: game_type
+      label: game_type
+      hint: null
+      type: select_one
+      options:
+      - game_type_option1
+      - game_type_option2
+      - game_type_option3
+      required: true
+    - id: 8
+      name: game_type_other
+      label: game_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: game_version
+      label: game_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: game_version_other
+      label: game_version_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: platform
+      label: platform
+      hint: null
+      type: select_multiple
+      options:
+      - platform_option1
+      - platform_option2
+      - platform_option3
+      required: true
+    - id: 12
+      name: platform_other
+      label: platform_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: score_out_of
+      label: score_out_of
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: score_out_of_other
+      label: score_out_of_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: score_rank
+      label: score_rank
+      hint: null
+      type: select_one
+      options:
+      - score_rank_option1
+      - score_rank_option2
+      - score_rank_option3
+      required: true
+    - id: 17
+      name: score_rank_other
+      label: score_rank_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: score_date
+      label: score_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: score_time
+      label: score_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: score_platform
+      label: score_platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: score_ranking
+      label: score_ranking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: score_ranking_other
+      label: score_ranking_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: score_difficulty
+      label: score_difficulty
+      hint: null
+      type: select_one
+      options:
+      - score_difficulty_option1
+      - score_difficulty_option2
+      - score_difficulty_option3
+      required: true
+    - id: 24
+      name: score_difficulty_other
+      label: score_difficulty_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

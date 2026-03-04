@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Property Photography Contest Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photo_details
+      label: Photo Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agreement
+      label: Contest Agreement
+      hint: This will be used for all participants
+      type: select_one
+      options:
+      - I have not participated in a property photography contest before.
+      - I have participated in a property photography contest 1-2 years ago.
+      - I have participated in a property photography contest 2 or more years ago.
+      required: true
+    - id: 4
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_info
+      label: Team Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_agreement
+      label: Participant Agreement
+      hint: This will be used by all participants
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_entry
+      label: Submit Entry
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate Team
+      - Photographer
+      - Both
+      required: false

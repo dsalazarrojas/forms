@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Film Promotion Consent Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: talent_details_page
+      label: Talent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: materials_page
+      label: Materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_page
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the above terms.
+      - Other
+      required: true
+    - id: 6
+      name: terms_and_conditions_page
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

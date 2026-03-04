@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spin To Win Participation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_zip
+      label: User Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: user_address
+      label: User Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contest_type
+      label: Contest Type
+      hint: null
+      type: select_multiple
+      options:
+      - Spin to Win
+      - Instant Win
+      required: false
+    - id: 7
+      name: eligibility_start_date
+      label: Eligibility Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: entry_method
+      label: Entry Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: prize_details
+      label: Prize Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Terms & Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

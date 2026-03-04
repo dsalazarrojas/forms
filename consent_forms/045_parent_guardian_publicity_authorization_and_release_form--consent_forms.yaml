@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Guardian Publicity Authorization And Release Form
+    pages:
+    - id: 1
+      name: parent_guardian_publicity_authorization
+      label: Parent Guardian Publicity Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state_or_region
+      label: state_or_region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city_or_town
+      label: city_or_town
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_details
+      label: project_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: release
+      label: release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

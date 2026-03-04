@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Profile Form
+    pages:
+    - id: 1
+      name: coach_at_school
+      label: Are you a coach at a school?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 2
+      name: emergency_situation
+      label: In case of emergency situations
+      hint: Enter a description of the emergency situation
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_phone_number1
+      label: Parent phone number 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone_number2
+      label: Parent phone number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physical_measurement1
+      label: Physical measurement 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: physical_measurement2
+      label: Physical measurement 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: need_physical_info
+      label: Do you need physical information of players?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: player_physical_measures
+      label: Player physical measures
+      hint: Enter a description of the physical measures
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: clothes_arrange
+      label: In order to arrange clothes for players
+      hint: Enter a description of the clothes
+      type: text
+      options: []
+      required: false

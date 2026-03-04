@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Space Theme
+    pages:
+      - id: 1
+        name: section_traveler_info
+        label: -- Space Traveler Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: traveler_full_name
+        label: Your Full Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: traveler_email
+        label: Your Starbase Email
+        hint: Primary email for contact
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: planet_of_origin
+        label: Planet of Origin
+        hint: Select one
+        type: select_one
+        options:
+          - Earth
+          - Mars
+          - Venus
+          - Jupiter
+          - Saturn
+          - Other
+        required: true
+      - id: 5
+        name: section_mission_inquiry
+        label: -- Mission Inquiry Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: mission_category
+        label: Mission Category
+        hint: What is the primary purpose of your mission?
+        type: select_one
+        options:
+          - Exploration
+          - Research
+          - Colonization
+          - Tourism
+          - Other
+        required: true
+      - id: 7
+        name: mission_subject
+        label: Mission Subject
+        hint: Provide a brief summary
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: detailed_mission_message
+        label: Detailed Mission Message
+        hint: Please provide more information
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: submission_date
+        label: Stardate
+        hint: Current stardate
+        type: date
+        options: []
+        required: true

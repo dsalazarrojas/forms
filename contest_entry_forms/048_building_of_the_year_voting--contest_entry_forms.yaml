@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Of The Year Voting
+    pages:
+    - id: 1
+      name: voting_header
+      label: -- Building of the Year Voting --
+      hint: Cast your vote for the best building of the year
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Email address
+      hint: For verification purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: voter_phone
+      label: Phone number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: voter_affiliation
+      label: Professional affiliation
+      hint: null
+      type: select_one
+      options:
+      - Architect
+      - Engineer
+      - Developer
+      - Contractor
+      - Builder
+      - Real estate professional
+      - Designer
+      - Student
+      - General public
+      - Other
+      required: true
+    - id: 6
+      name: voter_location
+      label: City or region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: voting_category
+      label: -- Category Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Voting category
+      hint: null
+      type: select_one
+      options:
+      - Commercial office
+      - Residential
+      - Education
+      - Healthcare
+      - Hospitality
+      - Retail
+      - Mixed-use
+      - Renovation/adaptive reuse
+      - Sustainability
+      - Innovation
+      - Best overall
+      required: true
+    - id: 9
+      name: vote_selection
+      label: -- Building Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: building_choice
+      label: My vote for Building of the Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: building_location
+      label: Building location
+      hint: City and state or country
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: architect_firm
+      label: Architect or design firm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: building_photo
+      label: Building photo reference
+      hint: Optional - URL or description
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: voting_rationale
+      label: -- Voting Rationale --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: why_chosen
+      label: Why did you choose this building?
+      hint: Describe your reasons
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: outstanding_features
+      label: Outstanding features or design elements
+      hint: What makes it special?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: criteria_rating
+      label: Rate building on criteria
+      hint: null
+      type: select_one
+      options:
+      - Innovative design
+      - Functionality
+      - Sustainability
+      - Aesthetic appeal
+      - Community impact
+      - Technical excellence
+      - Cultural significance
+      required: false
+    - id: 18
+      name: evaluation_factors
+      label: -- Evaluation Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: design_innovation
+      label: Design innovation rating
+      hint: null
+      type: select_one
+      options:
+      - Exceptional - groundbreaking
+      - Excellent - highly innovative
+      - Very good - noteworthy
+      - Good - competent design
+      - Average - standard design
+      required: true
+    - id: 20
+      name: functionality
+      label: Functionality and usability
+      hint: null
+      type: select_one
+      options:
+      - Excellent - fully functional
+      - Very good - mostly functional
+      - Good - adequate function
+      - Fair - some limitations
+      - Poor - limited function
+      required: true
+    - id: 21
+      name: sustainability
+      label: Sustainability and environmental features
+      hint: null
+      type: select_one
+      options:
+      - Exemplary - leading sustainability
+      - Excellent - strong sustainability
+      - Good - some green features
+      - Fair - minimal sustainability
+      - Absent - no sustainability focus
+      required: true
+    - id: 22
+      name: aesthetic_appeal
+      label: Aesthetic appeal and beauty
+      hint: null
+      type: select_one
+      options:
+      - Outstanding - exceptional beauty
+      - Excellent - very appealing
+      - Good - aesthetically pleasing
+      - Acceptable - reasonable appearance
+      - Poor - unappealing design
+      required: true
+    - id: 23
+      name: community_impact
+      label: Positive community impact
+      hint: null
+      type: select_one
+      options:
+      - Exceptional - major positive impact
+      - Significant - important contribution
+      - Moderate - beneficial impact
+      - Minor - some community benefit
+      - None - no community impact
+      required: true
+    - id: 24
+      name: comparison
+      label: -- Comparison --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: finalist_rank
+      label: Rank among other finalists
+      hint: How does it compare?
+      type: select_one
+      options:
+      - Top choice - best of all
+      - Strong choice - excellent option
+      - Good choice - very competitive
+      - Fair choice - competitive
+      - Acceptable choice - meets standards
+      required: false
+    - id: 26
+      name: previous_awards
+      label: Has this building won previous awards?
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple awards
+      - Yes, some recognition
+      - Unknown
+      - No previous awards
+      required: false
+    - id: 27
+      name: voter_experience
+      label: -- Voter Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: visited_building
+      label: Have you visited this building?
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, but familiar with it
+      - No, voting on research only
+      required: false
+    - id: 29
+      name: familiarity_level
+      label: Familiarity level with building
+      hint: null
+      type: select_one
+      options:
+      - Very familiar - detailed knowledge
+      - Familiar - good knowledge
+      - Somewhat familiar - basic knowledge
+      - Limited familiarity - minimal knowledge
+      - Just discovered - new to me
+      required: true
+    - id: 30
+      name: additional_feedback
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

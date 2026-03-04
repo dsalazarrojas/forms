@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Emergency Contact Form
+    pages:
+    - id: 1
+      name: daycare_provider
+      label: Daycare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Other
+      - Parent/Guardian
+      - Grandparent
+      - Sibling
+      - Friend
+      - Family Member
+      - Other (Specify)
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_contact_info
+      label: Additional Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Phone Number
+      - Address
+      - Email
+      - Other (Specify)
+      required: false

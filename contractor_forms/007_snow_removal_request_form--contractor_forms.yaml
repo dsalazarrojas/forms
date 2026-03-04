@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snow Removal Request Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: snow_info
+      label: Snow Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Message''}'
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: Enter address or location where snow removal is needed
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Enter requested date for snow removal
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: snow_type
+      label: Type of Snow Removal
+      hint: Select the type of snow removal
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Snowplow''}'
+      - '{''id'': 2, ''name'': ''Sanding''}'
+      - '{''id'': 3, ''name'': ''Blowing''}'
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

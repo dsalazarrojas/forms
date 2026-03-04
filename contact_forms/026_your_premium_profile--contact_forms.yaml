@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: your_premium_profile
+    pages:
+    - id: 1
+      name: profile_header
+      label: Your Profile
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: profile_image
+      label: Profile Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: profile_description
+      label: Profile Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: profile_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: profile_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: profile_links
+      label: Profile Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: profile_experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: profile_education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: profile_language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: true

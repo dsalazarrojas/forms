@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Vaccination Status Form
+    pages:
+    - id: 1
+      name: student_vaccination_status
+      label: vaccination_status
+      hint: Please specify student COVID 19 vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Not vaccinated
+      - Partially vaccinated
+      - Not applicable
+      required: false
+    - id: 2
+      name: vaccination_location
+      label: vaccination_location
+      hint: Please specify vaccination location
+      type: select_one
+      options:
+      - School
+      - Community
+      - Other
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: vaccination_date
+      hint: Please specify vaccination date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: teacher_vaccination_status
+      label: teacher_vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Not vaccinated
+      - Partially vaccinated
+      - Not applicable
+      required: false
+    - id: 5
+      name: teacher_vaccination_location
+      label: teacher_vaccination_location
+      hint: Please specify teacher COVID 19 vaccination location
+      type: select_one
+      options:
+      - School
+      - Community
+      - Other
+      required: false
+    - id: 6
+      name: teacher_vaccination_date
+      label: teacher_vaccination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: student_id
+      hint: Please specify student ID
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_notes
+      label: student_notes
+      hint: Any additional student notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: teacher_notes
+      label: teacher_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted
+      label: submitted
+      hint: Submission status
+      type: select_one
+      options:
+      - Not submitted
+      - Submitted
+      required: false
+    - id: 12
+      name: reviewed
+      label: reviewed
+      hint: null
+      type: select_one
+      options:
+      - Not reviewed
+      - Reviewed
+      required: false
+    - id: 13
+      name: teacher_confirmation
+      label: teacher_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Not confirmed
+      - Confirmed
+      required: false
+    - id: 14
+      name: student_confirmation
+      label: student_confirmation
+      hint: Please confirm student has received the form
+      type: select_one
+      options:
+      - Not confirmed
+      - Confirmed
+      required: false
+    - id: 15
+      name: teacher_uploads
+      label: teacher_uploads
+      hint: null
+      type: select_one
+      options:
+      - Uploads not required
+      - Uploads required
+      required: false

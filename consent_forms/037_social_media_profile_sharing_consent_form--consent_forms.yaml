@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_profile_sharing_consent_form
+    pages:
+    - id: 1
+      name: social_media_profile_sharing_consent
+      label: Social Media Profile Sharing Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sharing_consent
+      label: Share My Profile
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email_consent
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: profile_sharing
+      label: Profile Sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_details
+      label: Campaign Details
+      hint: null
+      type: text
+      options: []
+      required: false

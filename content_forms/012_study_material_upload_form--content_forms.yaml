@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Material Upload Form
+    pages:
+    - id: 1
+      name: study_material_upload_form_page_1
+      label: Upload Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: upload_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Audio
+      - Video
+      - Document
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Brief description of uploaded material
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: upload_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

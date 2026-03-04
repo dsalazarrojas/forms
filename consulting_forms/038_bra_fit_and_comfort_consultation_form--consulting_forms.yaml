@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bra Fit and Comfort Consultation Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For consultation communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consultation_date
+      label: Consultation Date
+      hint: Date of consultation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consultation_type
+      label: Consultation Type
+      hint: Type of consultation
+      type: select_one
+      options:
+      - Initial fitting
+      - Follow-up fitting
+      - Post-surgery fitting
+      - Maternity fitting
+      - Special occasion
+      - Comfort assessment
+      required: true
+    - id: 7
+      name: current_bra_size
+      label: Current Bra Size
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fit_issues
+      label: Current Fit Issues
+      hint: Select any issues you experience
+      type: select_multiple
+      options:
+      - None
+      - Band rides up
+      - Straps dig in
+      - Straps fall down
+      - Cups gap
+      - Cups overflow
+      - Underwire pokes
+      - Band too tight
+      - Band too loose
+      - General discomfort
+      required: true
+    - id: 9
+      name: comfort_priorities
+      label: Comfort Priorities
+      hint: What is most important to you
+      type: select_multiple
+      options:
+      - Support
+      - Comfort
+      - Shape
+      - Coverage
+      - Breathability
+      - No show under clothes
+      - Durability
+      - Style
+      required: true
+    - id: 10
+      name: lifestyle_activities
+      label: Lifestyle and Activities
+      hint: Select your typical activities
+      type: select_multiple
+      options:
+      - Sedentary office work
+      - Active job
+      - Running
+      - Yoga
+      - High-impact sports
+      - Nursing
+      - Pregnancy
+      - Post-surgery recovery
+      required: true
+    - id: 11
+      name: bra_style_preference
+      label: Bra Style Preference
+      hint: Preferred styles
+      type: select_multiple
+      options:
+      - T-shirt bra
+      - Push-up bra
+      - Sports bra
+      - Wireless bra
+      - Lace bra
+      - Minimizer bra
+      - Balconette bra
+      - Full coverage
+      - Plunge bra
+      - Strapless
+      required: true
+    - id: 12
+      name: fabric_preference
+      label: Fabric Preference
+      hint: Preferred materials
+      type: select_multiple
+      options:
+      - Cotton
+      - Lace
+      - Microfiber
+      - Mesh
+      - Satin
+      - Seamless
+      - Moisture-wicking
+      - No preference
+      required: false
+    - id: 13
+      name: color_preference
+      label: Color Preference
+      hint: Preferred colors
+      type: select_multiple
+      options:
+      - Nude or skin tone
+      - White
+      - Black
+      - Colors
+      - Prints
+      - No preference
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range
+      hint: Price range per bra
+      type: select_one
+      options:
+      - Under $30
+      - $30-$50
+      - $50-$75
+      - $75-$100
+      - Over $100
+      - No budget limit
+      required: true
+    - id: 15
+      name: sensitivity_issues
+      label: Sensitivity Issues
+      hint: Do you have skin sensitivities
+      type: select_one
+      options:
+      - No sensitivities
+      - Sensitive to tags
+      - Sensitive to seams
+      - Sensitive to certain fabrics
+      - Sensitive to underwire
+      required: true
+    - id: 16
+      name: medical_considerations
+      label: Medical Considerations
+      hint: Any medical needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: post_surgery
+      label: Post-Surgery Status
+      hint: Have you had breast surgery
+      type: select_one
+      options:
+      - false
+      - Yes, augmentation
+      - Yes, reduction
+      - Yes, mastectomy
+      - Yes, other
+      required: true
+    - id: 18
+      name: pregnancy_nursing
+      label: Pregnancy or Nursing
+      hint: Are you pregnant or nursing
+      type: select_one
+      options:
+      - false
+      - Currently pregnant
+      - Currently nursing
+      - Planning pregnancy
+      required: true
+    - id: 19
+      name: size_changes
+      label: Recent Size Changes
+      hint: Have you had recent size changes
+      type: select_one
+      options:
+      - false
+      - Yes, weight loss
+      - Yes, weight gain
+      - Yes, hormonal changes
+      required: true
+    - id: 20
+      name: shopping_challenges
+      label: Shopping Challenges
+      hint: What challenges do you face
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: brand_preferences
+      label: Brand Preferences
+      hint: Favorite or disliked brands
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: fitting_room_comfort
+      label: Fitting Room Comfort Level
+      hint: How comfortable are you with fittings
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Nervous
+      - Prefer privacy
+      required: true
+    - id: 23
+      name: consultant_notes
+      label: Consultant Notes
+      hint: For internal use
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommendations
+      label: Recommendations Made
+      hint: Suggestions for client
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: Is follow-up recommended
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

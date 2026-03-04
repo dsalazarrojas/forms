@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Construction Contract
+    pages:
+    - id: 1
+      name: contract_number
+      label: Contract Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contractor_address
+      label: Contractor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_phone_extension
+      label: Client Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 21
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      required: true
+    - id: 22
+      name: contract_term
+      label: Contract Term
+      hint: null
+      type: select_multiple
+      options:
+      - Term 1
+      - Term 2
+      required: false
+    - id: 23
+      name: contract_term_frequency
+      label: Contract Term Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Frequency 1
+      - Frequency 2
+      required: true
+    - id: 24
+      name: contract_status_notes
+      label: Contract Status Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

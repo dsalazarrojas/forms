@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Notes Release Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: therapist_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Parent
+      - Guardian
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - Informed
+      - Implied
+      - Express
+      required: true
+    - id: 6
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_signature
+      label: Reason for Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_acknowledgement
+      label: Client Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: therapist_acknowledgement
+      label: Therapist Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true

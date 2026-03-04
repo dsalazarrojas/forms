@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Contact Directory Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maiden_name
+      label: Maiden Name (if applicable)
+      hint: Maiden or former surname
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_year
+      label: Class Year
+      hint: Year of graduation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_college
+      label: School or College
+      hint: Which school or college
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: major_field
+      label: Major Field of Study
+      hint: Your area of study
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: alternate_email
+      label: Alternate Email
+      hint: Secondary email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Primary phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: Secondary phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_city
+      label: Current City
+      hint: Where you currently live
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_state
+      label: Current State
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_country
+      label: Current Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_address
+      label: Street Address (optional)
+      hint: Your residential address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_occupation
+      label: Current Occupation
+      hint: Your current job title
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employer_name
+      label: Employer Name
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_website
+      label: Business Website
+      hint: Your company website if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: professional_linkedin
+      label: LinkedIn Profile URL
+      hint: Your LinkedIn profile link
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: professional_title
+      label: Professional Title or Credentials
+      hint: Degrees, certifications, titles
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: willing_volunteer
+      label: Willing to Volunteer for Alumni Events
+      hint: Would you volunteer
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 22
+      name: volunteer_interests
+      label: Areas of Interest for Volunteering
+      hint: Types of volunteer work
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: newsletter_subscription
+      label: Subscribe to Alumni Newsletter
+      hint: Receive regular alumni updates
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: share_information
+      label: Allow Information to be Shared
+      hint: May directory include your information
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

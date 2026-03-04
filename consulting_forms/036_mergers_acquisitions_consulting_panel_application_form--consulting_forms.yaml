@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mergers & Acquisitions Consulting Panel Application Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry_experience
+      label: Industry Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: relevant_work_experience
+      label: Relevant Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relevant_courses
+      label: Relevant Courses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: agree_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

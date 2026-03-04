@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Contact Form Template
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Spouse''}'
+      - '{''id'': 2, ''label'': ''Child''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_notes
+      label: Emergency contact notes
+      hint: null
+      type: text
+      options: []
+      required: false

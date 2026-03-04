@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Page Break Message
+    pages:
+    - id: 1
+      name: section_step_1_personal
+      label: -- Step 1 - Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_step_2_message
+      label: -- Step 2 - Message Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: message_subject
+      label: Subject
+      hint: What is your inquiry about?
+      type: select_one
+      options:
+      - General Inquiry
+      - Support Request
+      - Sales Inquiry
+      - Feedback/Suggestion
+      - Other
+      required: true
+    - id: 8
+      name: detailed_message
+      label: Your Detailed Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_step_3_submission
+      label: -- Step 3 - Final Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach back out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS/Text
+      required: true
+    - id: 11
+      name: agreement_to_privacy_policy
+      label: I agree to the Privacy Policy
+      hint: Please confirm your agreement
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: final_note
+      label: Thank you for your message!
+      hint: We will get back to you soon
+      type: note
+      options: []
+      required: false

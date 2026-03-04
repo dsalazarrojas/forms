@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Category Management Form
+    pages:
+      - id: 1
+        name: management_action_header
+        label: -- Category Action --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: action_type
+        label: Type of Management Action
+        hint: null
+        type: select_one
+        options:
+          - "Create New Category"
+          - "Update Existing Category"
+          - "Deactivate/Archive Category"
+          - "Merge Categories"
+        required: true
+      - id: 3
+        name: target_system
+        label: Target System
+        hint: e.g. E-commerce Platform, CMS, Digital Library
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: category_details_header
+        label: -- Category Definition --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: category_name
+        label: Category Name
+        hint: Exact name to be displayed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: parent_category_name
+        label: Parent Category
+        hint: Write Root if top-level
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: category_description
+        label: Category Description
+        hint: Internal or public-facing description
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: visibility_status
+        label: Category Visibility
+        hint: null
+        type: select_one
+        options:
+          - "Public - Visible to all"
+          - "Members Only"
+          - "Hidden - Internal use"
+          - "Archived"
+        required: true
+      - id: 9
+        name: section_metadata
+        label: -- SEO and Taxonomy --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: seo_title_tag
+        label: SEO Title Tag
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: meta_keywords
+        label: Meta Keywords
+        hint: Comma-separated
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: related_categories_list
+        label: Related Categories for Cross-linking
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_governance
+        label: -- Governance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: category_owner
+        label: Category Owner/Manager
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: review_frequency
+        label: Scheduled Review Frequency
+        hint: null
+        type: select_one
+        options:
+          - "Monthly"
+          - "Quarterly"
+          - "Annually"
+          - "Ad-hoc"
+        required: true
+      - id: 16
+        name: last_updated_date
+        label: Effective Date for Change
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 17
+        name: approval_status
+        label: Manager Approval Obtained
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "Pending"
+        required: true

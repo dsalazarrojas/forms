@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acting School Marketing Consent Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_name
+      label: Parent / Guardian Name
+      hint: Required if student is under 18
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consent_terms_header
+      label: -- Consent Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: consent_text
+      label: I hereby grant permission to the Acting School to use my image, voice, and performance recordings for marketing and promotional purposes.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: media_consent
+      label: Media Consent
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 7
+      name: allowed_platforms
+      label: Allowed Platforms
+      hint: Select where your media can be shared
+      type: select_multiple
+      options:
+      - Social Media
+      - School Website
+      - Print Brochures
+      - Television
+      - Email Newsletters
+      required: false
+    - id: 8
+      name: consent_start_date
+      label: Consent Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: revocation_right
+      label: I understand I can revoke this consent in writing at any time
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - I need more information
+      required: true
+    - id: 10
+      name: digital_signature
+      label: Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

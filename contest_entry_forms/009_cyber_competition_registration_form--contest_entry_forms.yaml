@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: cyber_competition_registration_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_one
+      options:
+      - Team Lead
+      - Team Member
+      - Team Coach
+      - Other
+      required: true
+    - id: 13
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: participant_qualifications
+      label: Participant Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_experience
+      label: Team Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: team_qualifications
+      label: Team Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_technology_stack
+      label: Team Technology Stack
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: submitter_phone
+      label: Submitter Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

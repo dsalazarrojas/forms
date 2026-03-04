@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Staff Wellbeing Research Consent Form
+    pages:
+    - id: 1
+      name: research_participation
+      label: Research Participation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: wellbeing_topics
+      label: Wellbeing Topics
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 3
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: Enter your details below
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      required: false
+    - id: 10
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - option9
+      - option10
+      - option11
+      required: false
+    - id: 11
+      name: research_participant_group
+      label: Research Participant Group
+      hint: null
+      type: select_one
+      options:
+      - option12
+      - option13
+      required: false
+    - id: 12
+      name: wellbeing_questionnaire
+      label: Wellbeing Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false

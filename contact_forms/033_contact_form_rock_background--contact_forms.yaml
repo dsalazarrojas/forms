@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Rock Background
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Your Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_subject
+      label: Subject
+      hint: Provide a brief summary
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: detailed_message
+      label: Your Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: Select one
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Word of Mouth
+      - Other
+      required: false
+    - id: 9
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

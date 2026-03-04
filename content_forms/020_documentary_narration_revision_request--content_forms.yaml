@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Narration Revision Request
+    pages:
+    - id: 1
+      name: revision_details
+      label: Revision Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: timecodes
+      label: Timecodes
+      hint: null
+      type: select_multiple
+      options:
+      - 00:00:00
+      - 01:00:00
+      - 02:00:00
+      required: false
+    - id: 4
+      name: reference_files
+      label: Reference Files
+      hint: null
+      type: select_multiple
+      options:
+      - File1
+      - File2
+      - File3
+      required: false
+    - id: 5
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: select_multiple
+      options:
+      - (123) 456-7890
+      - (987) 654-3210
+      required: false
+    - id: 11
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: true
+    - id: 12
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option1
+      - Option2
+      required: false
+    - id: 13
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: text
+      label: Text
+      hint: null
+      type: text
+      options: []
+      required: false

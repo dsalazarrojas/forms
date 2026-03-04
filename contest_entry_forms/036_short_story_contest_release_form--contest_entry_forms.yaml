@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Story Contest Release Form
+    pages:
+    - id: 1
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permission_details
+      label: Permission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: entry_submission
+      label: Entry Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Mother or Father
+      - Mother
+      - Father
+      - Neither
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_age_group
+      label: Participant Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 12
+      - 13-15
+      - 16-18
+      - 19-21
+      - 22-25
+      - 26 or Older
+      required: true
+    - id: 9
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_multiple
+      options:
+      - Incomplete
+      - Complete
+      - In Progress
+      required: true
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_permission
+      label: Participant Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: entry_notes
+      label: Entry Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: school_notes
+      label: School Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: participant_zip
+      label: Participant Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: true

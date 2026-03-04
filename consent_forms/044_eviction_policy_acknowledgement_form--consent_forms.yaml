@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eviction Policy Acknowledgement Form
+    pages:
+    - id: 1
+      name: tenant_acknowledgment
+      label: tenant_acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_acknowledged
+      label: policy_acknowledged
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lease_terms
+      label: lease_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: understand_lease_terms
+      label: understand_lease_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: acknowledge_eviction_policy
+      label: acknowledge_eviction_policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lease_agreement_terms
+      label: lease_agreement_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: lease_agreement_terms_understood
+      label: lease_agreement_terms_understood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre_installation_survey
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_info
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: company2
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: installation_type
+      label: Installation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 17, ''name'': ''Type 1'', ''label'': ''Type 1''}'
+      - '{''id'': 18, ''name'': ''Type 2'', ''label'': ''Type 2''}'
+      - '{''id'': 19, ''name'': ''Type 3'', ''label'': ''Type 3''}'
+      required: false
+    - id: 17
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 22, ''name'': ''Location 1'', ''label'': ''Location 1''}'
+      - '{''id'': 23, ''name'': ''Location 2'', ''label'': ''Location 2''}'
+      - '{''id'': 24, ''name'': ''Location 3'', ''label'': ''Location 3''}'
+      required: false

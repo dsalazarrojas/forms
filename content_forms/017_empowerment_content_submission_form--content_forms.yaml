@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Empowerment Content Submission Form
+    pages:
+    - id: 1
+      name: original_story
+      label: original story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author
+      label: author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: article_or_story
+      label: article or story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media_type
+      label: media type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: media_url
+      label: media url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_description
+      label: media description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: article_length
+      label: article length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: story_length
+      label: story length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_posted
+      label: date posted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coach_or_nonprofit
+      label: coach or nonprofit
+      hint: null
+      type: select_one
+      options:
+      - Coaches
+      - Nonprofits
+      - Both
+      required: false
+    - id: 13
+      name: content_type
+      label: content type
+      hint: null
+      type: select_multiple
+      options:
+      - Stories
+      - Articles
+      - Media
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

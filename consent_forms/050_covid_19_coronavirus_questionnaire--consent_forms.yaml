@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 (CoronaVirus) Questionnaire
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_health_condition
+      label: current_health_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recent_travel
+      label: recent_travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: recent_contact_history
+      label: recent_contact_history
+      hint: null
+      type: text
+      options: []
+      required: false

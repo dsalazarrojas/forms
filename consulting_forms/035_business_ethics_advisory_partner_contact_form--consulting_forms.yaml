@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Ethics Advisory Partner Contact Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is your inquiry about?
+      type: select_one
+      options:
+      - Ethics Consultation
+      - Compliance Review
+      - Policy Advisory
+      - Training Request
+      - Investigation Support
+      - General Inquiry
+      - Other
+      required: true
+    - id: 10
+      name: issue_description
+      label: Issue Description
+      hint: Describe the ethics concern
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: issue_category
+      label: Issue Category
+      hint: Select applicable categories
+      type: select_multiple
+      options:
+      - Conflict of Interest
+      - Fraud or Misconduct
+      - Harassment or Discrimination
+      - Data Privacy
+      - Environmental Concerns
+      - Labor Practices
+      - Antitrust Issues
+      - Other
+      required: true
+    - id: 12
+      name: issue_timeline
+      label: Issue Timeline
+      hint: When did this occur?
+      type: select_one
+      options:
+      - Ongoing Issue
+      - Recent (within 1 week)
+      - Recently (within 1 month)
+      - Past (over 1 month)
+      - Potential Future Issue
+      required: true
+    - id: 13
+      name: people_involved
+      label: People Involved
+      hint: How many people are involved?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: documentation
+      label: Documentation Available
+      hint: Do you have supporting documentation?
+      type: select_one
+      options:
+      - Yes, Extensive
+      - Yes, Some
+      - Limited
+      - None
+      required: false
+    - id: 15
+      name: service_needed
+      label: -- Service Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: services_requested
+      label: Services Requested
+      hint: What services do you need?
+      type: select_multiple
+      options:
+      - Consultation
+      - Investigation
+      - Remediation Plan
+      - Training
+      - Policy Development
+      - Compliance Audit
+      - Representation
+      required: true
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 18
+      name: timeline
+      label: Timeline for Resolution
+      hint: When do you need action?
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Week
+      - Within 2 Weeks
+      - Within 1 Month
+      - Flexible
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under 5k
+      - 5k - 15k
+      - 15k - 30k
+      - 30k+
+      - TBD
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

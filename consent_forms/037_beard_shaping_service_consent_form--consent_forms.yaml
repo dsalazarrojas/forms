@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Shaping Service Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client DOB
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: barber_name
+      label: Barber Name
+      hint: Service provider
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_beard_length
+      label: Current Beard Length
+      hint: How long is your beard
+      type: select_one
+      options:
+      - Stubble - Less than 1 inch
+      - Short - 1 to 2 inches
+      - Medium - 2 to 4 inches
+      - Long - 4 to 6 inches
+      - Extra Long - Over 6 inches
+      required: true
+    - id: 9
+      name: desired_style
+      label: Desired Beard Style
+      hint: What style wanted
+      type: select_one
+      options:
+      - Full Beard
+      - Goatee
+      - Van Dyke
+      - Circle Beard
+      - Balbo
+      - Corporate Beard
+      - Natural Trim
+      - Custom Style
+      required: true
+    - id: 10
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Any conditions
+      type: select_multiple
+      options:
+      - Acne
+      - Razor Burn
+      - Ingrown Hairs
+      - Eczema
+      - Psoriasis
+      - None
+      required: true
+    - id: 11
+      name: allergies
+      label: Known Allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: blood_thinners
+      label: Taking Blood Thinners
+      hint: Medication question
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: previous_experiences
+      label: Previous Shaping Experiences
+      hint: Past services
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_understood
+      label: Service Description Understood
+      hint: Do you understand
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: risks_explained
+      label: Risks Have Been Explained
+      hint: Were risks explained
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: maintenance_understood
+      label: Maintenance Requirements Understood
+      hint: Do you understand upkeep
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: photo_consent
+      label: Consent for Before and After Photos
+      hint: For records
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consent_to_proceed
+      label: I Consent to the Service
+      hint: Do you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: client_signature
+      label: Client Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

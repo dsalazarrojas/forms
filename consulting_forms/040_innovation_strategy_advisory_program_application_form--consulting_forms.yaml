@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Strategy Advisory Program Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: innovation_focus
+      label: innovation_focus
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation Strategy
+      - Innovation Culture
+      - Digital Transformation
+      required: false
+    - id: 9
+      name: innovation_description
+      label: innovation_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: innovation_status
+      label: innovation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: team_size
+      label: team_size
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-50
+      - 51+
+      required: false
+    - id: 12
+      name: industry
+      label: industry
+      hint: null
+      type: select_one
+      options:
+      - Healthcare
+      - Technology
+      - Financial Services
+      - Other
+      required: false
+    - id: 13
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_one
+      options:
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - 21+ years
+      required: false
+    - id: 15
+      name: innovation_location
+      label: innovation_location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On-site
+      - Hybrid
+      - Other
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Strategy Consulting Quotation Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: Where should we send the quote
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Current website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Professional Services
+      - Hospitality
+      - Education
+      - Nonprofit
+      - Other
+      required: true
+    - id: 7
+      name: company_stage
+      label: Company Stage
+      hint: What stage is your company
+      type: select_one
+      options:
+      - Startup
+      - Early Growth
+      - Established
+      - Expanding
+      - Rebranding
+      required: true
+    - id: 8
+      name: services_needed
+      label: Services Needed
+      hint: Select all services you need
+      type: select_multiple
+      options:
+      - Brand Strategy
+      - Brand Identity Design
+      - Brand Guidelines
+      - Market Research
+      - Competitive Analysis
+      - Messaging Development
+      - Visual Identity
+      - Website Design
+      - Marketing Collateral
+      - Brand Audit
+      required: true
+    - id: 9
+      name: project_scope
+      label: Project Scope
+      hint: Describe the scope of work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_brand_challenges
+      label: Current Brand Challenges
+      hint: What challenges are you facing
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_goals
+      label: Project Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Who are you trying to reach
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: timeline_expectations
+      label: Timeline Expectations
+      hint: When do you need this completed
+      type: select_one
+      options:
+      - Urgent (Within 2 Weeks)
+      - Soon (2-4 Weeks)
+      - Standard (1-3 Months)
+      - Flexible (3-6 Months)
+      - Long-term (6+ Months)
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range
+      hint: Expected budget for this project
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 to $15,000
+      - $15,000 to $30,000
+      - $30,000 to $50,000
+      - $50,000 to $100,000
+      - $100,000+
+      required: true
+    - id: 15
+      name: decision_makers
+      label: Number of Decision Makers
+      hint: How many people will approve this project
+      type: select_one
+      options:
+      - Just Me
+      - 2-3 People
+      - 4-5 People
+      - Committee Approval
+      required: true
+    - id: 16
+      name: previous_consulting
+      label: Previous Brand Consulting
+      hint: Have you worked with brand consultants before
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, First Time
+      required: true
+    - id: 17
+      name: competitors
+      label: Main Competitors
+      hint: Who are your main competitors
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special requirements or considerations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referral_source
+      label: How Did You Find Us
+      hint: Where did you hear about our services
+      type: select_one
+      options:
+      - Referral
+      - Website
+      - Social Media
+      - Search Engine
+      - Conference or Event
+      - Advertisement
+      - Other
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agility Trial Entry Form
+    pages:
+    - id: 1
+      name: owner_full_name
+      label: Owner Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Owner Address
+      hint: Enter your complete address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dog_details_header
+      label: -- Dog Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dog_name
+      label: Dog Name
+      hint: Enter your dog's name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dog_breed
+      label: Dog Breed
+      hint: Enter your dog's breed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dog_age
+      label: Dog Age
+      hint: Enter your dog's age in years
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dog_gender
+      label: Dog Gender
+      hint: Select your dog's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 10
+      name: dog_weight
+      label: Dog Weight
+      hint: Enter your dog's weight in pounds
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dog_height_at_withers
+      label: Dog Height at Withers
+      hint: Enter your dog's height at withers in inches
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vaccination_records_header
+      label: -- Vaccination Records --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rabies_vaccination_date
+      label: Rabies Vaccination Date
+      hint: Enter the date of the last rabies vaccination
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: dhpp_vaccination_date
+      label: DHPP Vaccination Date
+      hint: Enter the date of the last DHPP vaccination
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: trial_information_header
+      label: -- Trial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: trial_name
+      label: Trial Name
+      hint: Enter the name of the agility trial
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: trial_date
+      label: Trial Date
+      hint: Enter the date of the trial
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: trial_location
+      label: Trial Location
+      hint: Enter the location of the trial
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: entry_classes_requested
+      label: Entry Classes Requested
+      hint: Select the classes you wish to enter
+      type: select_multiple
+      options:
+      - Novice A
+      - Novice B
+      - Open A
+      - Open B
+      - Excellent A
+      - Excellent B
+      - Masters A
+      - Masters B
+      - Jumpers
+      - Chances
+      required: true
+    - id: 20
+      name: dog_agility_experience
+      label: Dog's Agility Experience
+      hint: How much agility experience does your dog have?
+      type: select_one
+      options:
+      - No Experience
+      - Beginner (0-5 trials)
+      - Intermediate (6-15 trials)
+      - Experienced (16+ trials)
+      required: true
+    - id: 21
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Does your dog require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter the name and phone number of an emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: waiver_agreement
+      label: Waiver Agreement
+      hint: Do you agree to the liability waiver for the trial?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

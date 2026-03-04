@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Exposure Agreement Form
+    pages:
+    - id: 1
+      name: header
+      label: -- COVID-19 Exposure Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: exposure_header
+      label: -- Exposure Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exposure_date
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: exposure_type
+      label: Type of Exposure
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Worker Exposure
+      - Family Member Exposure
+      - Community Exposure
+      - Workplace Exposure
+      - Unknown
+      required: true
+    - id: 10
+      name: known_case
+      label: Confirmed COVID-19 case involved
+      hint: null
+      type: select_one
+      options:
+      - Yes, Confirmed Case
+      - Suspected Case
+      - Unknown Status
+      required: true
+    - id: 11
+      name: contact_duration
+      label: Duration of Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: protective_measures
+      label: Protective measures used during exposure
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mask
+      - Gloves
+      - Face Shield
+      - Gown
+      - Social Distancing
+      - None
+      - Other
+      required: true
+    - id: 13
+      name: acknowledgment_section
+      label: -- Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: understand_risks
+      label: I understand risks of COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 15
+      name: understand_transmission
+      label: I understand transmission and symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: quarantine_willingness
+      label: I agree to quarantine if instructed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Disagree
+      required: true
+    - id: 17
+      name: testing_willingness
+      label: I agree to testing if required
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Disagree
+      required: true
+    - id: 18
+      name: monitoring_agreement
+      label: I agree to symptom monitoring
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Disagree
+      required: true
+    - id: 19
+      name: release_section
+      label: -- Liability Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: release_agreement
+      label: I release the healthcare facility from liability
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

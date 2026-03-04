@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_park_cleanup_volunteer_liability_consent_form
+    pages:
+    - id: 1
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer agrees to participate in park cleanup events
+      - Volunteer understands that participating in park cleanup events involves risks
+      - Volunteer acknowledges that participating in park cleanup events is voluntary
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

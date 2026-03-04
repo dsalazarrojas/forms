@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: skincare client agreement form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_street
+      label: Address Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_state
+      label: Address State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address_zip
+      label: Address Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_consent
+      label: Service Consent
+      hint: null
+      type: select_one
+      options:
+      - Facials
+      - Massage
+      - Chemical Peel
+      - Micro-Blading
+      required: false
+    - id: 10
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Soothing
+      - Exfoliating
+      - Moisturizing
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Online
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false

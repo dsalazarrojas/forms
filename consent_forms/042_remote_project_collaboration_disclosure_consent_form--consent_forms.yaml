@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Project Collaboration Disclosure Consent Form
+    pages:
+    - id: 1
+      name: project_collaboration_disclosure_consent_form
+      label: Project Collaboration Disclosure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not understand and do not agree
+      required: true

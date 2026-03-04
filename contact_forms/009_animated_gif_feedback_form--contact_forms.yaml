@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animated GIF Feedback Form
+    pages:
+    - id: 1
+      name: welcome_header
+      label: -- Welcome to Our Feedback Form --
+      hint: We value your thoughts and suggestions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: So we can respond to your feedback
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional - for urgent matters
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_topic_header
+      label: -- Feedback Topic --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback_category
+      label: What is your feedback about
+      hint: Select the category that best fits
+      type: select_one
+      options:
+      - Product Quality
+      - Customer Service
+      - Website Experience
+      - Feature Request
+      - Bug Report
+      - Pricing
+      - Shipping or Delivery
+      - General Comment
+      required: true
+    - id: 7
+      name: feedback_message
+      label: Your Detailed Feedback
+      hint: Please describe your thoughts in detail
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: How satisfied are you overall
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: rating_header
+      label: -- Detailed Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_quality_rating
+      label: Product or Service Quality
+      hint: Rate the quality of what you received
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Terrible
+      required: false
+    - id: 11
+      name: customer_service_rating
+      label: Customer Service Experience
+      hint: Rate the helpfulness of our support
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Terrible
+      required: false
+    - id: 12
+      name: value_for_money
+      label: Value for Money
+      hint: Was this worth what you paid
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: false
+    - id: 13
+      name: experience_section_header
+      label: -- Your Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: most_liked
+      label: What did you like most
+      hint: Tell us what impressed you
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: least_liked
+      label: What could be improved
+      hint: What did not meet your expectations
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: Specific Suggestions for Improvement
+      hint: How can we do better
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: would_recommend
+      label: Would you recommend us to others
+      hint: Would you refer us
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 18
+      name: recommendation_strength
+      label: How likely are you to recommend us
+      hint: Rate on a scale
+      type: select_one
+      options:
+      - Very likely - 9-10
+      - Likely - 7-8
+      - Somewhat likely - 5-6
+      - Unlikely - 3-4
+      - Very unlikely - 0-2
+      required: false
+    - id: 19
+      name: contact_preferences_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: contact_about_feedback
+      label: May we contact you about this feedback
+      hint: We may want to follow up
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact me
+      required: true
+    - id: 21
+      name: receive_updates
+      label: Subscribe to our newsletter
+      hint: Get updates about new products and offers
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, do not subscribe
+      required: false
+    - id: 22
+      name: final_thoughts
+      label: Any Final Thoughts
+      hint: Additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: thank_you_message
+      label: -- Thank You --
+      hint: We appreciate your valuable feedback and will use it to improve
+      type: note
+      options: []
+      required: false

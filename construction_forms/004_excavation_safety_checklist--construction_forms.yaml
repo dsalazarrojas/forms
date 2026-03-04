@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavation Safety Checklist
+    pages:
+    - id: 1
+      name: excavation_safety_checklist
+      label: Excavation Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Excavation Site
+      - Other
+      required: true
+    - id: 2
+      name: site_insurance
+      label: Site Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: excavation_site_access
+      label: Excavation Site Access
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: site_access_requirements
+      label: Site Access Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: excavation_site_equipment
+      label: Excavation Site Equipment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: excavation_site_hazard_control
+      label: Excavation Site Hazard Control
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: excavation_site_emergency_procedure
+      label: Excavation Site Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: excavation_site_reviewed
+      label: Excavation Site Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: excavation_site_last_updated
+      label: Excavation Site Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: excavation_supervisor_name
+      label: Excavation Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: excavation_supervisor_contact
+      label: Excavation Supervisor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: excavation_supervisor_phone
+      label: Excavation Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: excavation_supervisor_email
+      label: Excavation Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: excavation_site_responsible_person
+      label: Excavation Site Responsible Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: excavation_site_responsible_person_phone
+      label: Excavation Site Responsible Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: excavation_supervisor_company
+      label: Excavation Supervisor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: excavation_site_location
+      label: Excavation Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: excavation_site_notes
+      label: Excavation Site Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 20
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_completed_date
+      label: Form Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: form_updated_by
+      label: Form Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_updated_date
+      label: Form Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: user_completed
+      label: User Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

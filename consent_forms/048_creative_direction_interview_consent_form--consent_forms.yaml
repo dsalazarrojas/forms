@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Direction Interview Consent Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: use_of_recorded_audio_video
+      label: use of recorded audio/video
+      hint: null
+      type: select_one
+      options:
+      - recorded audio/video
+      - audio only
+      - video only
+      - none
+      required: false
+    - id: 7
+      name: agreement
+      label: participant agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_signature
+      label: participant signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_use
+      label: project use
+      hint: null
+      type: select_multiple
+      options:
+      - all
+      - project use
+      - no commercial use
+      - no project use
+      required: false
+    - id: 10
+      name: recording_device
+      label: recording device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_name_other
+      label: other project name
+      hint: null
+      type: text
+      options: []
+      required: false

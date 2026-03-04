@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Idea Consultation Request
+    pages:
+    - id: 1
+      name: requestor_section
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: background_section
+      label: -- Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_employment
+      label: Current Employment Status
+      hint: What is your current situation?
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      required: true
+    - id: 8
+      name: industry_experience
+      label: Industry Experience
+      hint: What industry background?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entrepreneurial_experience
+      label: Previous Entrepreneurial Experience
+      hint: Have you started a business before?
+      type: select_one
+      options:
+      - 'No'
+      - Some attempts
+      - One successful venture
+      - Multiple ventures
+      required: true
+    - id: 10
+      name: business_idea_section
+      label: -- Business Idea --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: business_concept
+      label: Business Concept
+      hint: Describe your business idea
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: problem_statement
+      label: Problem You Are Solving
+      hint: What problem does your idea address?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_market
+      label: Target Market
+      hint: Who are your ideal customers?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What makes your idea unique?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: stage_section
+      label: -- Idea Stage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: idea_stage
+      label: Current Stage of Idea
+      hint: How far along are you?
+      type: select_one
+      options:
+      - Early concept
+      - Detailed plan
+      - Prototype/MVP
+      - Testing phase
+      required: true
+    - id: 17
+      name: market_research
+      label: Market Research Conducted
+      hint: Have you done market research?
+      type: select_one
+      options:
+      - 'No'
+      - Some informal research
+      - Detailed research
+      - Comprehensive research
+      required: true
+    - id: 18
+      name: financial_projections
+      label: Financial Projections
+      hint: Do you have financial projections?
+      type: select_one
+      options:
+      - 'No'
+      - Basic estimates
+      - Detailed projections
+      - Professional forecasts
+      required: false
+    - id: 19
+      name: consultation_section
+      label: -- Consultation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: consultation_focus
+      label: Consultation Focus Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Business viability assessment
+      - Market analysis
+      - Business planning
+      - Financial projections
+      - Competition analysis
+      - Go-to-market strategy
+      - Operations planning
+      required: true
+    - id: 21
+      name: specific_questions
+      label: Specific Questions
+      hint: What specific help do you need?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: resources_section
+      label: -- Resources and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: startup_funding
+      label: Startup Funding Available
+      hint: Do you have funding?
+      type: select_one
+      options:
+      - No funds yet
+      - Limited funds
+      - Adequate funding
+      - Strong funding
+      required: false
+    - id: 24
+      name: launch_timeline
+      label: Expected Launch Timeline
+      hint: When do you want to launch?
+      type: select_one
+      options:
+      - Within 3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 25
+      name: commitment_level
+      label: Commitment Level
+      hint: How serious are you?
+      type: select_one
+      options:
+      - Exploring options
+      - Seriously considering
+      - Very committed
+      - Fully committed
+      required: true

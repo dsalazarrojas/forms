@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovation Consulting Network Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expertise
+      label: Areas of Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation
+      - Consulting
+      - Technology
+      - Strategy
+      - Marketing
+      - Finance
+      required: false
+    - id: 8
+      name: interests
+      label: Areas of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation
+      - Technology
+      - Strategy
+      - Marketing
+      - Finance
+      required: false
+    - id: 9
+      name: events
+      label: Organize Events
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: collaboration
+      label: Collaborate with other members
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: knowledge_sharing
+      label: Participate in Knowledge Sharing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: network
+      label: Join our Network
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: This will be used for internal purposes only
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 18
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Submit
+      required: false

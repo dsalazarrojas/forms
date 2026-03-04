@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guide To Choosing Writing Services
+    pages:
+    - id: 1
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - students
+      - professionals
+      - agencies
+      required: true
+    - id: 2
+      name: writing_needs
+      label: What are you looking for?
+      hint: null
+      type: select_multiple
+      options:
+      - blog_posts
+      - articles
+      - web_pages
+      - social_media_posts
+      - other
+      required: true
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false

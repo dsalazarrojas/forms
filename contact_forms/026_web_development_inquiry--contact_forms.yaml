@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_development_inquiry
+    pages:
+    - id: 1
+      name: name
+      label: John Doe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Design''}'
+      - '{''id'': 2, ''name'': ''Development''}'
+      - '{''id'': 3, ''name'': ''Maintenance''}'
+      - '{''id'': 4, ''name'': ''Consulting''}'
+      required: false
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''In Maintenance''}'
+      - '{''id'': 3, ''name'': ''Completed''}'
+      - '{''id'': 4, ''name'': ''On Hold''}'
+      - '{''id'': 5, ''name'': ''Canceled''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Website''}'
+      - '{''id'': 2, ''name'': ''Mobile App''}'
+      - '{''id'': 3, ''name'': ''E-commerce''}'
+      - '{''id'': 4, ''name'': ''Landing Page''}'
+      - '{''id'': 5, ''name'': ''Blog''}'
+      required: false
+    - id: 11
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''USA''}'
+      - '{''id'': 2, ''name'': ''Europe''}'
+      - '{''id'': 3, ''name'': ''Asia''}'
+      - '{''id'': 4, ''name'': ''Africa''}'
+      - '{''id'': 5, ''name'': ''South America''}'
+      required: false
+    - id: 12
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: service_price
+      label: Service Price
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Free''}'
+      - '{''id'': 2, ''name'': ''Hourly''}'
+      - '{''id'': 3, ''name'': ''Project''}'
+      - '{''id'': 4, ''name'': ''Package''}'
+      required: false
+    - id: 15
+      name: service_price_details
+      label: Service Price Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Unpaid''}'
+      - '{''id'': 3, ''name'': ''Partially Paid''}'
+      - '{''id'': 4, ''name'': ''On Hold''}'
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

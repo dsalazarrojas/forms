@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Telemedicine Consent Form
+    pages:
+    - id: 1
+      name: pet_owners_details
+      label: Pet Owner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: telemedicine_consent
+      label: Telemedicine Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''consent_1''}'
+      - '{''value'': ''consent_2''}'
+      - '{''value'': ''consent_3''}'
+      required: false
+    - id: 3
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''authorization_1''}'
+      - '{''value'': ''authorization_2''}'
+      - '{''value'': ''authorization_3''}'
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      required: false
+    - id: 5
+      name: telehealth_privacy
+      label: Telehealth Privacy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      required: false
+    - id: 6
+      name: medical_emergencies
+      label: Medical Emergencies
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_clinics
+      label: Veterinary Clinics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: telemedicine_session_length
+      label: Telemedicine Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: telemedicine_session_type
+      label: Telemedicine Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option_1''}'
+      - '{''value'': ''option_2''}'
+      required: false

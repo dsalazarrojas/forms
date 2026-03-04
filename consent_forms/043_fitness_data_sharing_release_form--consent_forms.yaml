@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Data Sharing Release Form
+    pages:
+    - id: 1
+      name: recipient
+      label: recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time_frame
+      label: time frame
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: designated_recipient
+      label: designated recipient
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Client'', ''label'': ''Client''}'
+      - '{''id'': 2, ''name'': ''Doctor'', ''label'': ''Doctor''}'
+      - '{''id'': 3, ''name'': ''Insurance Company'', ''label'': ''Insurance Company''}'
+      required: false
+    - id: 5
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_signed
+      label: date signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_received
+      label: date received
+      hint: null
+      type: date
+      options: []
+      required: false

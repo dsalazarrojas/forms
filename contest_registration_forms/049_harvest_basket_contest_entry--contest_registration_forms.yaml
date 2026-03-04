@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harvest Baskt Contest Entry
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contest_name
+      label: Contest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: entry_photo
+      label: Entry Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

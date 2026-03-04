@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Salon Services Consent Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore Throat
+      - Runny nose/congestion
+      - Other
+      required: true
+    - id: 9
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: travel_history_reason
+      label: Reason for Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exposure
+      label: Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - Close contact with someone with COVID-19
+      - Shared living space with someone with COVID-19
+      - Attended a crowded event
+      - Other
+      required: true
+    - id: 12
+      name: exposure_details
+      label: Exposure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 14
+      name: vaccination_details
+      label: Vaccination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Has symptoms of COVID-19
+      - Has COVID-19
+      - Has died of COVID-19
+      required: true
+    - id: 16
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: salon_visit
+      label: Salon Visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: salon_visit_reason
+      label: Reason for Salon Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_provided
+      label: Service Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Color
+      - Styling
+      - Other
+      required: true
+    - id: 20
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Game Beta Trial Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Educational Game Beta Trial Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Other
+      required: true
+    - id: 5
+      name: participant_experience
+      label: participant_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: informed_consent
+      label: informed_consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: research_participant
+      label: research_participant
+      hint: null
+      type: select_one
+      options:
+      - I am a research participant
+      - I am not a research participant
+      required: true
+    - id: 9
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 10
+      name: emergency_contacts
+      label: emergency_contacts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: health_insurance
+      label: health_insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: researcher_signature
+      label: researcher_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: research_team
+      label: research_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: study_id
+      label: study_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: study_name
+      label: study_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: research_description
+      label: research_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: study_version
+      label: study_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: study_date
+      label: study_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: participant_dob
+      label: participant_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true

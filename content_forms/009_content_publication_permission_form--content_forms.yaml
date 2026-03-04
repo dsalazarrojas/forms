@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Publication Permission Form
+    pages:
+      - id: 1
+        name: creator_info_header
+        label: -- Content Creator Information --
+        hint: The person or entity granting permission
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: creator_full_name
+        label: Full Name of Creator
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: creator_email
+        label: Creator Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: publisher_info_header
+        label: -- Publisher Information --
+        hint: The entity requesting permission to publish
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: publisher_name
+        label: Name of Publisher or Organization
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: publication_title
+        label: Title of Publication or Website
+        hint: Where will the content be featured
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: content_permissions_header
+        label: -- Permission and Usage Rights --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: content_description
+        label: Description of Content to be Published
+        hint: Include title, file name, or summary
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: rights_granted
+        label: Rights Granted to Publisher
+        hint: Choose the level of access
+        type: select_one
+        options:
+          - One-time non-exclusive print rights
+          - Worldwide digital and social media rights
+          - Full transfer of copyright
+          - Educational use only
+        required: true
+      - id: 10
+        name: credit_line_format
+        label: Preferred Credit Line Format
+        hint: How should your name be displayed (e.g., Photo by Name)
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: modification_permission
+        label: Is the publisher allowed to edit the content
+        hint: For space, grammar, or formatting
+        type: select_one
+        options:
+          - Yes - Minor edits only
+          - Yes - Substantial edits allowed
+          - No - Must be published as-is
+        required: true
+      - id: 12
+        name: usage_duration
+        label: Duration of Permission
+        hint: null
+        type: select_one
+        options:
+          - 1 Year
+          - 5 Years
+          - Perpetual (Unlimited)
+          - One-time use only
+        required: true
+      - id: 13
+        name: authorization_header
+        label: -- Authorization --
+        hint: By signing, you confirm you own the rights to this content
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: signature_date
+        label: Date of Signature
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: creator_signature
+        label: Digital Signature (Type Full Name)
+        hint: null
+        type: text
+        options: []
+        required: true

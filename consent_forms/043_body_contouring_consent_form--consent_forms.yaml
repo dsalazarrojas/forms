@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Contouring Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: procedure_name
+      label: Procedure Name
+      hint: Specific body contouring procedure
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_areas
+      label: Treatment Areas
+      hint: Areas to be treated
+      type: select_multiple
+      options:
+      - Abdomen
+      - Flanks
+      - Thighs
+      - Buttocks
+      - Arms
+      - Back
+      - Chin
+      - Multiple Areas
+      required: true
+    - id: 8
+      name: provider_name
+      label: Provider Name
+      hint: Practitioner performing procedure
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: procedure_explanation
+      label: Procedure Explanation
+      hint: Has the procedure been explained?
+      type: select_one
+      options:
+      - Yes, Thoroughly
+      - Yes, Adequately
+      - Somewhat
+      - false
+      required: true
+    - id: 10
+      name: benefits_understood
+      label: Benefits Understood
+      hint: Do you understand the benefits?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: risks_understood
+      label: Risks Understood
+      hint: Do you understand the risks?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: potential_risks
+      label: Potential Risks Acknowledged
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pain or Discomfort
+      - Swelling
+      - Bruising
+      - Redness
+      - Numbness
+      - Skin Irregularities
+      - Infection
+      - Scarring
+      - Asymmetry
+      - Unsatisfactory Results
+      required: true
+    - id: 13
+      name: alternatives_discussed
+      label: Alternative Treatments
+      hint: Have alternatives been discussed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: alternative_options
+      label: Alternative Options
+      hint: What alternatives were discussed?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history_reviewed
+      label: Medical History Reviewed
+      hint: Has your medical history been reviewed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: questions_asked
+      label: Questions Asked
+      hint: Have all your questions been answered?
+      type: select_one
+      options:
+      - Yes, All Answered
+      - Some Answered
+      - No Questions Asked
+      required: true
+    - id: 17
+      name: realistic_expectations
+      label: Realistic Expectations
+      hint: Do you have realistic expectations?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: no_guarantees
+      label: No Guarantees Understood
+      hint: Results cannot be guaranteed
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 19
+      name: follow_up_care
+      label: Follow-Up Care Understood
+      hint: Do you understand aftercare requirements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I understand this is voluntary
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 21
+      name: right_to_withdraw
+      label: Right to Withdraw
+      hint: I can withdraw consent at any time
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 22
+      name: photo_consent
+      label: Photo Consent
+      hint: May we take before/after photos?
+      type: select_one
+      options:
+      - Yes, for Medical Records Only
+      - Yes, for Marketing Too
+      - false
+      required: true
+    - id: 23
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: witness_signature
+      label: Witness Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false

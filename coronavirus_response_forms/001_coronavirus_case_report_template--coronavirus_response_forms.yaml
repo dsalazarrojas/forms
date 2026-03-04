@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Case Report Template
+    pages:
+    - id: 1
+      name: case_report
+      label: Report a Case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_info
+      label: Case Information
+      hint: Please provide as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exposure_site
+      label: Exposure Site
+      hint: Workplace, Home, School, or other
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exposure_duration
+      label: Exposure Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: Fever, cough, shortness of breath, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_location
+      label: Travel Location
+      hint: Where did you travel?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_info
+      label: Healthcare Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: case_confirmed
+      label: Case Confirmed
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false
+    - id: 12
+      name: submit_case
+      label: Submit Case
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

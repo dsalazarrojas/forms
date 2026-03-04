@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Horse Show Entry Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: horse_name
+      label: Horse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: breed
+      label: Breed
+      hint: null
+      type: select_one
+      options:
+      - American Warmblood
+      - Friesian
+      - Holsteiner
+      - Quarter Horse
+      - Quarter Horse
+      - Warmblood
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rider_name
+      label: Rider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rider_phone
+      label: Rider's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Rider's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - Hunter
+      - Jumper
+      - Hunter/Jumper
+      - Hack
+      - Hack/ Hunter/Jumper
+      required: false
+    - id: 11
+      name: class
+      label: Class
+      hint: null
+      type: select_multiple
+      options:
+      - Junior
+      - Senior
+      - Amateur
+      - Open
+      required: false
+    - id: 12
+      name: show_type
+      label: Show Type
+      hint: null
+      type: select_one
+      options:
+      - Dressage
+      - Hunter
+      - Hunter Jumper
+      - Hunter/Jumper
+      - Other
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

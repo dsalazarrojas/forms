@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Materials Quote Request
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supplier_contact_name
+      label: Supplier Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supplier_contact_phone
+      label: Supplier Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supplier_contact_email
+      label: Supplier Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Concrete
+      - Wood
+      - Steel
+      - Glass
+      - Aluminum
+      - Other
+      required: false
+    - id: 13
+      name: material_amount
+      label: Material Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: material_unit
+      label: Material Unit
+      hint: null
+      type: select_one
+      options:
+      - Tons
+      - Cubic Metres
+      - Square Feet
+      - Square Meters
+      - Square Centimeters
+      - Other
+      required: false
+    - id: 15
+      name: material_price
+      label: Material Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: supplier_price
+      label: Supplier Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: project_budget_currency
+      label: Project Budget Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - Other
+      required: false
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      - Cancelled
+      required: false
+    - id: 20
+      name: supplier_notes
+      label: Supplier Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supplier_logo
+      label: Supplier Logo
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: customer_logo
+      label: Customer Logo
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: supplier_reference
+      label: Supplier Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_reference
+      label: Customer Reference
+      hint: null
+      type: text
+      options: []
+      required: false

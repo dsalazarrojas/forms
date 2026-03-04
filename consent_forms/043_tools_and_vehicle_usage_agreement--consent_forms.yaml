@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tools And Vehicle Usage Agreement
+    pages:
+    - id: 1
+      name: agreement_form
+      label: Tools And Vehicle Usage Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_vehicles_used
+      label: vehicle_vehicles_used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: approval_approvals_1
+      label: Vehicle Usage Approval 1
+      hint: Signature of Vehicle Supervisor
+      type: select_one
+      options:
+      - Vehicle Supervisor 1
+      - Vehicle Supervisor 2
+      required: false
+    - id: 4
+      name: approval_approvals_2
+      label: Vehicle Usage Approvals 2
+      hint: null
+      type: select_multiple
+      options:
+      - Approver 1
+      - Approver 2
+      - Approver 3
+      required: false
+    - id: 5
+      name: approval_approvals_3
+      label: Vehicle Usage Approvals 3
+      hint: null
+      type: select_one
+      options:
+      - Approver 1
+      - Approver 2
+      - Approver 3
+      required: false
+    - id: 6
+      name: approval_approvals_4
+      label: Vehicle Usage Approvals 4
+      hint: null
+      type: select_multiple
+      options:
+      - Approver 1
+      - Approver 2
+      required: false
+    - id: 7
+      name: date_out
+      label: Date Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_in
+      label: Date In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_out
+      label: Time Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_in
+      label: Time In
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

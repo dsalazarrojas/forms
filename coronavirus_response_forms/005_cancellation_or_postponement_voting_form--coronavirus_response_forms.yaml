@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancellation Or Postponement Voting Form
+    pages:
+    - id: 1
+      name: voter_name
+      label: Voter Full Name
+      hint: Name of the person voting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: voter_email
+      label: Voter Email Address
+      hint: Email for vote confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: voter_phone
+      label: Voter Phone Number
+      hint: Contact number for updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Your role or organization
+      type: select_one
+      options:
+      - Event organizer
+      - Attendee
+      - Vendor or exhibitor
+      - Speaker or presenter
+      - Sponsor
+      - Staff member
+      - Volunteer
+      - Other
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of the event in question
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Original Event Date
+      hint: When was the event scheduled
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: Where was the event planned
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vote_decision
+      label: Your Vote Decision
+      hint: What is your vote
+      type: select_one
+      options:
+      - Cancel the event entirely
+      - Postpone to a later date
+      - Proceed as planned
+      - Convert to virtual format
+      - Hybrid option - both in-person and virtual
+      - Undecided - need more information
+      required: true
+    - id: 9
+      name: vote_reason
+      label: Reason for Your Vote
+      hint: Why did you make this choice
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: covid_concern_level
+      label: COVID-19 Concern Level
+      hint: How concerned are you about COVID risks
+      type: select_one
+      options:
+      - Very concerned - high risk
+      - Moderately concerned
+      - Slightly concerned
+      - Not concerned
+      - I am vaccinated and feel safe
+      required: true
+    - id: 11
+      name: health_status
+      label: Current Health Status
+      hint: Any health considerations
+      type: select_one
+      options:
+      - Healthy - no symptoms
+      - At higher risk
+      - Live with someone at higher risk
+      - Recently recovered
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Your COVID-19 vaccination status
+      type: select_one
+      options:
+      - Fully vaccinated and boosted
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: false
+    - id: 13
+      name: postponement_preference
+      label: Preferred Postponement Timeline
+      hint: If postponed - when should it be
+      type: select_one
+      options:
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - Next year
+      - No preference
+      - Not applicable
+      required: false
+    - id: 14
+      name: virtual_option_interest
+      label: Interest in Virtual Option
+      hint: Would you participate virtually
+      type: select_one
+      options:
+      - Yes - prefer virtual
+      - Yes - as backup option
+      - Maybe - depends on circumstances
+      - No - prefer in-person only
+      required: true
+    - id: 15
+      name: financial_impact
+      label: Financial Impact of Cancellation
+      hint: How would cancellation affect you financially
+      type: select_one
+      options:
+      - Significant financial loss
+      - Moderate financial impact
+      - Minor financial impact
+      - No financial impact
+      - Would save money
+      required: true
+    - id: 16
+      name: refund_needed
+      label: Would You Need a Refund
+      hint: If you paid - do you need refund
+      type: select_one
+      options:
+      - Yes - full refund needed
+      - Yes - partial refund
+      - No - donate as credit
+      - No - already refunded
+      - Not applicable - did not pay
+      required: true
+    - id: 17
+      name: alternative_suggestions
+      label: Alternative Suggestions
+      hint: Any ideas for alternatives
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: communication_preference
+      label: How Should We Communicate Updates
+      hint: Preferred communication method
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Social media
+      - Organization website
+      required: true
+    - id: 19
+      name: willing_to_help
+      label: Willing to Help with Rescheduling
+      hint: Would you volunteer to assist
+      type: select_one
+      options:
+      - Yes - happy to help
+      - Maybe - depending on time commitment
+      - No - unable to help
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts or concerns
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vote_confirmation
+      label: Vote Confirmation
+      hint: Confirm this is your final vote
+      type: select_one
+      options:
+      - Yes - this is my final vote
+      - No - I need to change it
+      required: true
+    - id: 22
+      name: submission_date
+      label: Vote Submission Date
+      hint: Date of vote
+      type: date
+      options: []
+      required: true

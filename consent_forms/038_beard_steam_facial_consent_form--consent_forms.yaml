@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Steam Facial Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client DOB
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_date
+      label: Service Date
+      hint: Appointment date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_provider
+      label: Service Provider Name
+      hint: Esthetician or barber
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: Your skin type
+      type: select_one
+      options:
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      required: true
+    - id: 9
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Any conditions
+      type: select_multiple
+      options:
+      - Acne
+      - Rosacea
+      - Eczema
+      - Psoriasis
+      - Dermatitis
+      - Sunburn
+      - None
+      required: true
+    - id: 10
+      name: heat_sensitivity
+      label: Heat Sensitivity
+      hint: Are you sensitive to heat
+      type: select_one
+      options:
+      - Not Sensitive
+      - Mildly Sensitive
+      - Moderately Sensitive
+      - Very Sensitive
+      required: true
+    - id: 11
+      name: respiratory_conditions
+      label: Respiratory Conditions
+      hint: Asthma or breathing issues
+      type: select_one
+      options:
+      - Yes - Asthma
+      - Yes - Other Condition
+      - No Respiratory Issues
+      required: true
+    - id: 12
+      name: medications
+      label: Current Medications
+      hint: Especially skin medications
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recent_procedures
+      label: Recent Facial Procedures
+      hint: Surgery or treatments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_description
+      label: Service Description Understood
+      hint: Do you understand the service
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: benefits_explained
+      label: Benefits Have Been Explained
+      hint: Do you understand benefits
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: risks_explained
+      label: Risks Have Been Explained
+      hint: Were risks explained
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: discomfort_communication
+      label: I Will Communicate Any Discomfort
+      hint: Will you speak up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consent_to_service
+      label: I Consent to the Steam Facial
+      hint: Do you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: client_signature
+      label: Client Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

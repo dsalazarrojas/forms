@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lien Waiver Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lien_waiver
+      label: Lien Waiver
+      hint: null
+      type: select_one
+      options:
+      - Lien Waivered
+      - Not Lien Waivered
+      required: false
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contractor_address
+      label: Contractor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: homeowner_name
+      label: Homeowner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contractor_phone
+      label: Contractor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contractor_email
+      label: Contractor Email
+      hint: null
+      type: email
+      options: []
+      required: false

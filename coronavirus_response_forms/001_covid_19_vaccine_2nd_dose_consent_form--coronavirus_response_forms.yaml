@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine 2nd Dose Consent Form
+    pages:
+    - id: 1
+      name: section_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: have_allergies
+      label: Do you have any allergies to vaccine components?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 9
+      name: allergy_details
+      label: If yes, please describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_vaccine_reaction
+      label: Have you had an adverse reaction to any previous vaccine?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 12
+      name: reaction_details
+      label: If yes, please describe the reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: immunocompromised
+      label: Are you immunocompromised?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 14
+      name: consent_section
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: read_information
+      label: I have read and understood the vaccine information provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: consent_vaccine
+      label: I consent to receive the COVID-19 vaccine 2nd dose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: consent_signature
+      label: Full Name - Signature
+      hint: Please type your full name to confirm consent
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

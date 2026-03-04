@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Agency Contract Extension Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contractor_info
+      label: first_name
+      hint: First Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_page
+      label: last_page_label
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: first_page
+      label: first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: first_name
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: false

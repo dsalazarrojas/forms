@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Certification Exam Consent Form
+    pages:
+    - id: 1
+      name: candidate_consent
+      label: Candidate Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_terms
+      label: Exam Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: educational_institution
+      label: Educational Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exam_scheduling
+      label: Exam Scheduling
+      hint: null
+      type: text
+      options: []
+      required: false

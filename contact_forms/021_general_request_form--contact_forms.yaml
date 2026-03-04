@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Request Form
+    pages:
+    - id: 1
+      name: general_request_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_request_form_type_of_request
+      label: Type of Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: general_request_form_preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: general_request_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: general_request_form_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Contact Booking Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Job Title
+      hint: Your position in the company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry Type
+      hint: Type of business
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_scheduling
+      label: -- Appointment Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: When would you like to meet?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      required: true
+    - id: 11
+      name: appointment_duration
+      label: Appointment Duration Needed
+      hint: How much time do you need?
+      type: select_one
+      options:
+      - 15 Minutes
+      - 30 Minutes
+      - 1 Hour
+      - 2 Hours
+      - Other
+      required: true
+    - id: 12
+      name: meeting_format
+      label: Meeting Format
+      hint: How would you prefer to meet?
+      type: select_one
+      options:
+      - In Person
+      - Phone Call
+      - Video Conference
+      - No Preference
+      required: true
+    - id: 13
+      name: appointment_purpose
+      label: Purpose of Appointment
+      hint: What is this meeting about?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: key_topics
+      label: Key Topics to Discuss
+      hint: What do you want to cover?
+      type: select_multiple
+      options:
+      - Service Inquiry
+      - Product Information
+      - Partnership Opportunity
+      - Consultation
+      - Follow-up
+      - Quote Request
+      required: false
+    - id: 15
+      name: background_info
+      label: Background Information
+      hint: Brief context for this meeting
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accessibility or special needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_preferences
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we confirm?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 19
+      name: follow_up_opt_in
+      label: Opt-In to Follow-Up Communications
+      hint: May we contact you after the appointment?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

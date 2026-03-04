@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2022 ABC Baker Girl Scout Cookie Order Form
+    pages:
+    - id: 1
+      name: section_header_customer_info
+      label: '--- Customer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: We'll send your order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: In case we need to contact you about your order
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: troop_number
+      label: Troop number
+      hint: If you know the troop number of the girl scout selling to you
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_order_details
+      label: '--- Cookie Selection ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cookie_samoa
+      label: Samoa cookies (packs)
+      hint: Caramel, coconut, and chocolate covered in drizzled icing
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: cookie_thin_mints
+      label: Thin Mints (packs)
+      hint: Crispy mint cookies dipped in chocolate
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: cookie_peanut_butter_patrol
+      label: Peanut Butter Patties (packs)
+      hint: Rich peanut butter crème in a crispy shell
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: cookie_trefoils
+      label: Trefoils (packs)
+      hint: Buttery shortbread cookies in classic three-leaf shape
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: cookie_daisies
+      label: Daisy cookies (packs)
+      hint: Vanilla crackers with icing
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: cookie_lemonades
+      label: Lemonades (packs)
+      hint: Tart lemon cookies dusted with powdered sugar
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: cookie_chocolate_chip
+      label: Chocolate Chip cookies (packs)
+      hint: Classic chewy chocolate chip cookies
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: cookie_sugar_cookies
+      label: Sugar Cookies (packs)
+      hint: Vanilla-flavored cut-out cookies with icing designs
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: cookie_favorites
+      label: Favorites (packs)
+      hint: Assorted variety pack
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: section_header_delivery
+      label: '--- Delivery Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_method
+      label: Preferred delivery method
+      hint: Select how you'd like to receive your cookies
+      type: select_one
+      options:
+      - Standard delivery
+      - Express delivery
+      - Pickup from school
+      - Pickup from community center
+      - Curbside pickup
+      required: true
+    - id: 18
+      name: delivery_address
+      label: Delivery address
+      hint: Enter full address if choosing delivery option
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: delivery_date_preference
+      label: Preferred delivery date
+      hint: We'll do our best to accommodate your request
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: section_header_payment
+      label: '--- Payment & Special Requests ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment method
+      hint: How will you pay for your order?
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit card
+      - Digital payment (Venmo/PayPal)
+      - Money order
+      required: true
+    - id: 22
+      name: special_requests
+      label: Special delivery instructions
+      hint: Any special instructions for delivery or pickup
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_comments
+      label: Additional comments
+      hint: Questions, feedback, or other notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_date
+      label: Order date
+      hint: Date when order is placed
+      type: date
+      options: []
+      required: true

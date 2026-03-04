@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Cancellation Consent Form
+    pages:
+    - id: 1
+      name: service_cancellation_consent
+      label: service_cancellation_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_consent
+      label: client_consent
+      hint: null
+      type: select_one
+      options:
+      - Service Cancellation
+      - Refund
+      - Other
+      required: false
+    - id: 4
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: Check the box below to acknowledge that you have read, understand, and
+        agree to the terms and conditions.
+      type: select_multiple
+      options:
+      - I have read, understand, and agree to the terms and conditions.
+      - I have not read, understand, and do not agree to the terms and conditions.
+      required: false
+    - id: 5
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false

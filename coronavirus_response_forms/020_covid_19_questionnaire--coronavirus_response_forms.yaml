@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Questionnaire
+    pages:
+    - id: 1
+      name: household_contact
+      label: Household contact information
+      hint: Primary contact for household
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: number_of_household_members
+      label: Number of household members
+      hint: Total people living in household
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: current_needs
+      label: Current needs
+      hint: Check any needs your family has
+      type: select_multiple
+      options:
+      - Food assistance
+      - Financial support
+      - Medical care
+      - Housing support
+      - Childcare
+      required: false
+    - id: 4
+      name: income_loss
+      label: Income loss due to pandemic
+      hint: Has household experienced loss of income
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 5
+      name: urgent_needs_description
+      label: Urgent needs description
+      hint: Describe priority needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_needed
+      label: Referral needed
+      hint: Would you like a referral to services
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: preferred_language
+      label: Preferred language
+      hint: For follow up communications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_preference
+      label: Contact preference
+      hint: Best way to reach you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - SMS
+      required: false
+    - id: 9
+      name: consent_to_share
+      label: Consent to share information
+      hint: Allow sharing with partner agencies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

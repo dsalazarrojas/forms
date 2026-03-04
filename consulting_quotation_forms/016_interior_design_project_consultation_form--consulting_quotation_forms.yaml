@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_project_consultation_form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: Project status
+      hint: null
+      type: select_one
+      options:
+      - In progress
+      - On hold
+      - Completed
+      required: false
+    - id: 5
+      name: client_email
+      label: Client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_deadline
+      label: Project deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: client_address
+      label: Client address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_type
+      label: Project type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 11
+      name: project_budget
+      label: Project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager_email
+      label: Project manager email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Interview Recording Consent Form
+    pages:
+    - id: 1
+      name: staff_interview_recording_consent_form_1
+      label: staff_interview_recording_consent_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: consent_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''audio'', ''label'': ''Audio''}'
+      - '{''value'': ''video'', ''label'': ''Video''}'
+      - '{''value'': ''both'', ''label'': ''Both''}'
+      required: false
+    - id: 3
+      name: recording_method
+      label: recording_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''live'', ''label'': ''Live''}'
+      - '{''value'': ''pre Recorded'', ''label'': ''Pre-Recorded''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: recording_location
+      label: recording_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''on Site'', ''label'': ''On-site''}'
+      - '{''value'': ''off Site'', ''label'': ''Off-site''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 5
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recorded_by
+      label: recorded_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''approval'', ''label'': ''Approval''}'
+      - '{''value'': ''no Approval'', ''label'': ''No Approval''}'
+      required: false
+    - id: 8
+      name: recording_consent
+      label: recording_consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''consent'', ''label'': ''Consent''}'
+      - '{''value'': ''no Consent'', ''label'': ''No Consent''}'
+      required: false
+    - id: 9
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recording_consent_date
+      label: recording_consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: recorded_on
+      label: recorded_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: staff_member_name
+      label: staff_member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recording_consent_note
+      label: recording_consent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_department
+      label: staff_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: recording_consent_email
+      label: recording_consent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: recorded_by_email
+      label: recorded_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: staff_email
+      label: staff_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: staff_phone
+      label: staff_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_phone
+      label: department_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: recording_method
+      label: recording_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Live'', ''label'': ''Live''}'
+      - '{''value'': ''pre Recorded'', ''label'': ''Pre Recorded''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false

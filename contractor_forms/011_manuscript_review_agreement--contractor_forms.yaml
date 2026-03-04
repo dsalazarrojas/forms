@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manuscript Review Agreement
+    pages:
+    - id: 1
+      name: form_title
+      label: Manuscript Review Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reviewer_terms
+      label: Reviewer Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: reviewer_terms_agreed
+      label: Reviewer Terms Agreed
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: false
+    - id: 8
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

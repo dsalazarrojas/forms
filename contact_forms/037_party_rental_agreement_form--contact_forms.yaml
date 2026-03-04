@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Party Rental Agreement Form
+    pages:
+    - id: 1
+      name: party_rental_agreement_form_page_1
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: renter_details
+      label: Renter Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rental_details
+      label: Rental Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 8
+      name: equipment_and_services
+      label: Equipment and Services
+      hint: null
+      type: select_multiple
+      options:
+      - party_space
+      - equipment
+      - catering
+      required: true
+    - id: 9
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: party_type
+      label: Party Type
+      hint: null
+      type: select_one
+      options:
+      - birthday
+      - graduation
+      - corporate
+      required: true
+    - id: 13
+      name: party_size
+      label: Party Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: party_date
+      label: Party Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: party_time
+      label: Party Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rental_location
+      label: Rental Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: renter_signature
+      label: Renter's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: renter_name
+      label: Renter's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: party_host
+      label: Party Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - check
+      - bank_transfer
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

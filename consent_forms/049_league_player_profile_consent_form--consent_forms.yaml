@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Player Profile Consent Form
+    pages:
+    - id: 1
+      name: player_information
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participation_information
+      label: Participation Information
+      hint: null
+      type: text
+      options: []
+      required: false

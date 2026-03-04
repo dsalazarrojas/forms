@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judging Application For Competition
+    pages:
+    - id: 1
+      name: competition_details
+      label: Competiton Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: judge_details
+      label: Judge Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: conflicts_of_interest
+      label: Conflicts of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: judge_preferences
+      label: Judge Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: conflict_preferences
+      label: Conflict Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: experience_details
+      label: Experience Details
+      hint: null
+      type: text
+      options: []
+      required: false

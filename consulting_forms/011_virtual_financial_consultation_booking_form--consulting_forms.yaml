@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Financial Consultation Booking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: selected_date
+      label: Selected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Phone Call
+      - Video Call
+      required: false
+    - id: 8
+      name: consultation_topic
+      label: Consultation Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: selected_time
+      label: Selected Time
+      hint: null
+      type: time
+      options: []
+      required: false

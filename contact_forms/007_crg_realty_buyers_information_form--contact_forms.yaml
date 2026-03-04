@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRG_Realty Buyers Information Form
+    pages:
+    - id: 1
+      name: section_buyer_profile
+      label: -- Buyer Basic Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_address
+      label: Current Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: buyer_type
+      label: Buyer Status
+      hint: null
+      type: select_one
+      options:
+      - First Time Buyer
+      - Investor
+      - Relocating
+      - Looking for Larger Home
+      - Downsizing
+      required: true
+    - id: 7
+      name: section_preferences
+      label: -- Property Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: desired_location
+      label: Preferred City or Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-Family
+      - Vacant Land
+      - Commercial
+      required: true
+    - id: 10
+      name: min_bedrooms
+      label: Minimum Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: min_bathrooms
+      label: Minimum Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: price_range_min
+      label: Price Range - Minimum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: price_range_max
+      label: Price Range - Maximum
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_financials
+      label: -- Financial Qualification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: pre_approved
+      label: Are you pre-approved for a mortgage
+      hint: null
+      type: select_one
+      options:
+      - Yes - Letter available
+      - No - Need assistance
+      - Cash Buyer
+      required: true
+    - id: 16
+      name: down_payment_percent
+      label: Estimated Down Payment Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: timeframe
+      label: Desired Closing Timeframe
+      hint: null
+      type: select_one
+      options:
+      - Within 30 Days
+      - 1 to 3 Months
+      - 3 to 6 Months
+      - Just Browsing
+      required: true

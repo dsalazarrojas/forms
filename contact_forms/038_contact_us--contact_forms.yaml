@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us
+    pages:
+    - id: 1
+      name: greeting
+      label: We Would Love to Hear From You
+      hint: Send us a message
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_category
+      label: Inquiry Category
+      hint: Select one
+      type: select_one
+      options:
+      - General Inquiry
+      - Product Question
+      - Service Support
+      - Partnership
+      - Feedback
+      - Other
+      required: true
+    - id: 7
+      name: topic
+      label: Topic
+      hint: What is this about
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: details
+      label: Details
+      hint: Full message
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: timeline
+      label: Timeline
+      hint: When do you need response
+      type: select_one
+      options:
+      - ASAP
+      - Within 24 Hours
+      - Within a Week
+      - No Rush
+      required: false
+    - id: 10
+      name: referral
+      label: How Did You Find Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Word of Mouth
+      - Advertisement
+      - Other
+      required: false
+    - id: 11
+      name: newsletter_signup
+      label: Join Our Newsletter
+      hint: Receive updates
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: false

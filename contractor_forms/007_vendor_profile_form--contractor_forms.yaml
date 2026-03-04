@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Profile Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Include area code (e.g., (123) 456-7890)
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_zip
+      label: ZIP
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: company_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      required: true
+    - id: 11
+      name: company_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 12
+      name: company_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Service
+      - Goods
+      - Other
+      required: true
+    - id: 14
+      name: company_industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      required: false
+    - id: 15
+      name: company_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_image
+      label: Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: company_logo
+      label: Logo
+      hint: null
+      type: select_multiple
+      options:
+      - JPEG
+      - PNG
+      - GIF
+      required: false
+    - id: 18
+      name: company_language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      required: false

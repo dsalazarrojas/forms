@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HTML Code Submission Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: code
+      label: Code
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: code_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HTML'', ''value'': ''html''}'
+      - '{''id'': 2, ''label'': ''CSS'', ''value'': ''css''}'
+      - '{''id'': 3, ''label'': ''JavaScript'', ''value'': ''javascript''}'
+      required: false
+    - id: 5
+      name: submit_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submit_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New'', ''value'': ''new''}'
+      - '{''id'': 2, ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 3, ''label'': ''Reviewing'', ''value'': ''reviewing''}'
+      - '{''id'': 4, ''label'': ''Approved'', ''value'': ''approved''}'
+      - '{''id'': 5, ''label'': ''Rejected'', ''value'': ''rejected''}'
+      required: false
+    - id: 9
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

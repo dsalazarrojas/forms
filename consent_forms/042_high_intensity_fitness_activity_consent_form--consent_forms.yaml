@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_intensity_fitness_activity_consent_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: consent_date
+      label: consent_date
+      hint: YYYY-MM-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: fitness_professional_name
+      label: fitness_professional_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: high_intensity_risks
+      label: high_intensity_risks
+      hint: List high intensity workout risks
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: fitness_level
+      label: fitness_level
+      hint: Select level of fitness
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Spouse or Partner
+      - Other
+      required: false
+    - id: 14
+      name: medical_clearance
+      label: medical_clearance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Doctor's note required
+      required: true
+    - id: 15
+      name: medical_clearance_note
+      label: medical_clearance_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Spouse or Partner
+      - Other
+      required: false
+    - id: 18
+      name: emergency_contact_relationship_other
+      label: emergency_contact_relationship_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: fitness_professional_signature
+      label: fitness_professional_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_signature
+      label: emergency_contact_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider_signature
+      label: medical_provider_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_date_of_birth
+      label: participant_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_height
+      label: participant_height
+      hint: null
+      type: number
+      options: []
+      required: false

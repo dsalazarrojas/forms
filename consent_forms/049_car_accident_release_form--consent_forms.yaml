@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Accident Release Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Car Accident Release Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: This release form acknowledges that all claims related to the accident
+        are resolved and released. Please read carefully before signing.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: releasing_party_header
+      label: -- Releasing Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: releasing_party_name
+      label: Releasing Party Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: releasing_party_address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: releasing_party_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: releasing_party_email
+      label: Email Address
+      hint: Email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: released_party_header
+      label: -- Released Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: released_party_name
+      label: Released Party Name
+      hint: Other driver or party
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: released_party_insurance
+      label: Released Party Insurance Company
+      hint: Insurance provider
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: released_party_policy
+      label: Released Party Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accident_details_header
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: accident_date
+      label: Date of Accident
+      hint: When accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: accident_location
+      label: Location of Accident
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: accident_description
+      label: Brief Description of Accident
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: settlement_details_header
+      label: -- Settlement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: settlement_amount
+      label: Settlement Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: settlement_type
+      label: Settlement Type
+      hint: Select one
+      type: select_one
+      options:
+      - Full settlement
+      - Partial settlement
+      - Payment plan
+      - Insurance only
+      - Other
+      required: true
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: How payment will be made
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: payment_date
+      label: Expected Payment Date
+      hint: When payment due
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: damages_covered_header
+      label: -- Damages Covered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: damages_covered
+      label: Damages Covered by Settlement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vehicle damage repair
+      - Property damage
+      - Medical expenses
+      - Lost wages
+      - Pain and suffering
+      - Other
+      required: true
+    - id: 23
+      name: excluded_damages
+      label: Excluded from Settlement
+      hint: What is NOT covered
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: release_acknowledgment_header
+      label: -- Release Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: full_release
+      label: I release all claims against the other party
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I release all claims
+      - 'No'
+      required: true
+    - id: 26
+      name: future_claims_waiver
+      label: I waive the right to file future claims
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I waive future claims
+      - 'No'
+      required: true
+    - id: 27
+      name: legal_advice
+      label: I have reviewed this form with legal counsel
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 28
+      name: understand_terms
+      label: I understand all terms of this release
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 29
+      name: voluntary_agreement
+      label: I enter into this agreement voluntarily
+      hint: Required
+      type: select_one
+      options:
+      - Yes, voluntary
+      - 'No'
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date of Signature
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: witness_required
+      label: Witness Present?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: witness_information
+      label: Witness Name and Contact (if applicable)
+      hint: Optional
+      type: text
+      options: []
+      required: false

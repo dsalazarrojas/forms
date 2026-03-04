@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_generation_form
+      label: lead_generation_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Advertising
+      - Design
+      required: false
+    - id: 3
+      name: lead_name
+      label: lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_email
+      label: lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: lead_phone
+      label: lead_phone
+      hint: null
+      type: text
+      options: []
+      required: false

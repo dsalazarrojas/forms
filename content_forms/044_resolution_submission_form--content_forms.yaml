@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: resolution_submission_form
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resolution_title
+      label: Resolution Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resolution_content
+      label: Resolution Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 8
+      name: member_position
+      label: Member Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_organization
+      label: Member Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: member_name_2
+      label: Co-Author Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_status_2
+      label: Submission Status 2
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 13
+      name: email_2
+      label: Co-Author Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_2
+      label: Co-Author Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date_2
+      label: Co-Author Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

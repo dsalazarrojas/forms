@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Contract Consulting Contact Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: government_agency
+      label: Government Agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

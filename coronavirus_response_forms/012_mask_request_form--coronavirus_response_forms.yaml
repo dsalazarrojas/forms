@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mask Request Form
+    pages:
+    - id: 1
+      name: mask_request_form
+      label: Mask Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_responder
+      label: First Responder
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 3
+      name: healthcare_organizations
+      label: Healthcare Organizations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Physicians'', ''label'': ''Physicians''}'
+      - '{''id'': 2, ''name'': ''Nurses'', ''label'': ''Nurses''}'
+      - '{''id'': 3, ''name'': ''Hospitals'', ''label'': ''Hospitals''}'
+      - '{''id'': 4, ''name'': ''First Responders'', ''label'': ''First Responders''}'
+      required: false
+    - id: 4
+      name: mask_type
+      label: Mask Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''N95'', ''label'': ''N95''}'
+      - '{''id'': 2, ''name'': ''N99'', ''label'': ''N99''}'
+      - '{''id'': 3, ''name'': ''N100'', ''label'': ''N100''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizenship Application Consent Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Legal Name
+      hint: As it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Current Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: country_of_birth
+      label: Country of Birth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_nationality
+      label: Current Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: residency_status
+      label: Current Residency Status
+      hint: null
+      type: select_one
+      options:
+      - Permanent resident
+      - Temporary resident
+      - Work visa holder
+      - Student visa holder
+      - Asylum seeker
+      - Other
+      required: true
+    - id: 9
+      name: residency_start_date
+      label: Residency Start Date
+      hint: When did you become a resident
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: application_type
+      label: Type of Application
+      hint: null
+      type: select_one
+      options:
+      - Naturalization
+      - Citizenship by descent
+      - Citizenship by marriage
+      - Restoration of citizenship
+      - Other
+      required: true
+    - id: 11
+      name: consent_background_check
+      label: Consent to Background Check
+      hint: I consent to criminal background check
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 12
+      name: consent_verification
+      label: Consent to Information Verification
+      hint: I consent to verification of all provided information
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 13
+      name: accuracy_statement
+      label: Information Accuracy Statement
+      hint: I confirm all information is true and accurate
+      type: select_one
+      options:
+      - I confirm accuracy
+      - I need to make corrections
+      required: true
+    - id: 14
+      name: previous_applications
+      label: Have You Previously Applied for Citizenship
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: previous_application_detail
+      label: Please Provide Details of Previous Application
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: criminal_history
+      label: Do You Have Any Criminal History
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: criminal_history_detail
+      label: Please Provide Details
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_history
+      label: Have You Traveled Outside the Country
+      hint: In the past 5 years
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Fluent
+      - Intermediate
+      - Basic
+      - None
+      required: true
+    - id: 20
+      name: test_preparation
+      label: Have You Prepared for the Citizenship Test
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed preparation
+      - Yes, currently preparing
+      - No, not yet
+      required: true
+    - id: 21
+      name: legal_representation
+      label: Do You Have Legal Representation
+      hint: null
+      type: select_one
+      options:
+      - Yes, attorney
+      - Yes, accredited representative
+      - false
+      required: true
+    - id: 22
+      name: privacy_consent
+      label: Privacy Policy Consent
+      hint: I consent to data processing per privacy policy
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 23
+      name: signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

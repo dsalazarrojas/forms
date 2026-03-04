@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guardian Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Guardian Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_details
+      label: Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: activity_details
+      label: Activity Details
+      hint: null
+      type: text
+      options: []
+      required: false

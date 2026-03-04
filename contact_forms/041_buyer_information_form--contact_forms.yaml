@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Information Form
+    pages:
+    - id: 1
+      name: buyer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buyer_address
+      label: Street Address
+      hint: Your home or business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: buyer_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: buyer_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: buyer_type
+      label: Type of Buyer
+      hint: Select your buyer category
+      type: select_one
+      options:
+      - Individual consumer
+      - Business or company
+      - Government or institution
+      - Non-profit organization
+      - Reseller or distributor
+      - Contractor
+      - Other
+      required: true
+    - id: 11
+      name: company_name
+      label: Company or Organization Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo or freelance
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 200+ employees
+      - N/A
+      required: false
+    - id: 13
+      name: industry
+      label: Industry or Business Type
+      hint: What industry are you in?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_interest
+      label: Products or Services of Interest
+      hint: What are you looking to purchase?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: budget
+      label: Budget Range
+      hint: Estimated purchase budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $2500
+      - $2500 - $10000
+      - $10000 - $50000
+      - $50000 - $100000
+      - Over $100000
+      - Not determined
+      required: false
+    - id: 16
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: When do you plan to buy?
+      type: select_one
+      options:
+      - Immediate
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - No specific timeline
+      required: true
+    - id: 17
+      name: how_heard
+      label: How Did You Hear About Us?
+      hint: What was your source?
+      type: select_one
+      options:
+      - Search engine
+      - Social media
+      - Referral from friend
+      - Advertisement
+      - Industry publication
+      - Trade show
+      - Direct mail
+      - Website
+      - Other
+      required: false
+    - id: 18
+      name: newsletter_signup
+      label: Subscribe to Our Newsletter
+      hint: Receive updates and offers
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, do not subscribe
+      required: false
+    - id: 19
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      - No preference
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: holistic_therapies_covid_19_pre_consultation_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 3
+      name: contact
+      label: contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_center
+      label: medical center
+      hint: null
+      type: select_multiple
+      options:
+      - Center 1
+      - Center 2
+      required: true
+    - id: 7
+      name: vaccine_status
+      label: vaccine status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false

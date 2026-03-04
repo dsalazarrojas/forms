@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer To Purchase Real Estate Form
+    pages:
+    - id: 1
+      name: offer_to_purchase_real_estate_form
+      label: offer_to_purchase_real_estate_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purchase_price
+      label: purchase_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: earnest_money
+      label: earnest_money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: earnest_deposit
+      label: earnest_deposit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: earnest_money_deadline
+      label: earnest_money_deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: real_estate_type
+      label: real_estate_type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: true
+    - id: 8
+      name: real_estate_status
+      label: real_estate_status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - sold
+      - off-market
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: real_estate_agency
+      label: real_estate_agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agent_email
+      label: agent_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: agent_phone
+      label: agent_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: offer_deadline
+      label: offer_deadline
+      hint: null
+      type: date
+      options: []
+      required: true

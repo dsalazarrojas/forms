@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Content Syndication Application Form
+    pages:
+    - id: 1
+      name: content_provider
+      label: Content Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketplace_info
+      label: Marketplace Info
+      hint: null
+      type: select_one
+      options:
+      - Amazon
+      - Apple
+      - Google
+      - Facebook
+      required: false
+    - id: 3
+      name: content_details
+      label: Content Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content_requirements
+      label: Content Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_details
+      label: Partner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Other
+      required: false

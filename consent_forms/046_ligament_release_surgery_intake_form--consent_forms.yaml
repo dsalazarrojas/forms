@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ligament Release Surgery Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_surgery_prophets
+      label: Date of Surgery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_surgery
+      label: Time of Surgery
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: type_of_surgery
+      label: Type of Surgery
+      hint: null
+      type: select_one
+      options:
+      - Ligament Release
+      - Other
+      - Tendon Release
+      - Tendon Repair
+      - Ligament Repair
+      required: true
+    - id: 8
+      name: pre_surgical_test_results
+      label: Pre-Surgical Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: anesthesia
+      label: Anesthesia
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surgeon
+      label: Surgeon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance
+      label: Insurance
+      hint: Please provide the name and ID of your insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_signature_date
+      label: Doctor Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hospital
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: surgical_team
+      label: Surgical Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the Consent Statement above
+      - I do not have a valid consent statement
+      required: true
+    - id: 25
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the Terms and Conditions above
+      - I do not have a valid Terms and Conditions
+      required: true

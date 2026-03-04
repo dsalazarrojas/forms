@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: nanny emergency contact form
+    pages:
+    - id: 1
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Relationship
+      - Phone
+      - Phone 2
+      - Address
+      - Emergency Contact
+      - Other Emergency Contact
+      required: false
+    - id: 2
+      name: emergency_contact_type
+      label: Type of Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Emergency Contact
+      - Other - Specify below
+      required: false
+    - id: 3
+      name: other_emergency_contact_type
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_2
+      label: Other Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

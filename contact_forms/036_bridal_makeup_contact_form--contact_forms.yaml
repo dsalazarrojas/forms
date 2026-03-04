@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Makeup Contact Form
+    pages:
+    - id: 1
+      name: bride_name
+      label: Bride Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: bride_age
+      label: Age Range
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18-25
+      - 26-30
+      - 31-35
+      - 36-40
+      - 41-50
+      - 50+
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wedding_date
+      label: Wedding Date
+      hint: Date of your wedding
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: days_until_wedding
+      label: Days Until Wedding
+      hint: Approximate time remaining
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: groom_name
+      label: Groom Name
+      hint: Partner's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wedding_type
+      label: Type of Wedding
+      hint: Select your wedding type
+      type: select_one
+      options:
+      - Traditional formal
+      - Modern minimalist
+      - Bohemian
+      - Vintage
+      - Cultural fusion
+      - Destination wedding
+      - Intimate ceremony
+      - Large celebration
+      required: false
+    - id: 9
+      name: wedding_location
+      label: Wedding Location
+      hint: City or venue location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bridal_party_size
+      label: Bridal Party Size
+      hint: Number getting makeup
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bride_makeup_service
+      label: Bride Makeup Service Requested
+      hint: Will bride have makeup done
+      type: select_one
+      options:
+      - Yes, for bride
+      - Yes, bride and party
+      - Yes, bride and select attendants
+      - To be determined
+      required: true
+    - id: 12
+      name: attendants_services
+      label: Attendants Needing Makeup
+      hint: Number of attendants
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: makeup_style
+      label: Desired Makeup Style
+      hint: Describe your ideal look
+      type: select_one
+      options:
+      - Natural and subtle
+      - Glamorous and bold
+      - Dramatic and artistic
+      - Romantic and soft
+      - Modern and trendy
+      - Classic and elegant
+      - Understated
+      required: true
+    - id: 14
+      name: skin_tone
+      label: Your Skin Tone
+      hint: For color matching reference
+      type: select_one
+      options:
+      - Fair
+      - Light
+      - Medium
+      - Olive
+      - Tan
+      - Deep
+      - Very deep
+      required: false
+    - id: 15
+      name: skin_type
+      label: Skin Type
+      hint: Select your skin type
+      type: select_one
+      options:
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Acne-prone
+      required: false
+    - id: 16
+      name: makeup_allergies
+      label: Makeup Allergies or Sensitivities
+      hint: Any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: color_preferences
+      label: Eye Color and Preferences
+      hint: Your natural eye color
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Brown
+      - Hazel
+      - Other
+      required: false
+    - id: 18
+      name: hair_color
+      label: Hair Color and Style
+      hint: For makeup coordination
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: gown_color
+      label: Wedding Gown Color
+      hint: To coordinate makeup colors
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: makeup_theme
+      label: Makeup Color Theme
+      hint: Preferred color palette
+      type: select_multiple
+      options:
+      - Neutrals and nudes
+      - Warm tones
+      - Cool tones
+      - Smoky
+      - Dramatic eyes
+      - Bold lips
+      - Minimalist
+      required: false
+    - id: 21
+      name: trial_needed
+      label: Trial Session Requested
+      hint: Do you want a trial makeup session
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Maybe
+      - false
+      required: true
+    - id: 22
+      name: trial_date
+      label: Preferred Trial Date
+      hint: When would you like to trial
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: Your budget estimate
+      type: select_one
+      options:
+      - Under 150
+      - 150 - 300
+      - 300 - 500
+      - 500 - 750
+      - 750+
+      required: false
+    - id: 24
+      name: service_location_preference
+      label: Service Location Preference
+      hint: Where should makeup be done
+      type: select_one
+      options:
+      - Makeup artist studio
+      - Bride's home
+      - Wedding venue
+      - Hotel
+      - Flexible
+      required: false
+    - id: 25
+      name: additional_services
+      label: Additional Services of Interest
+      hint: Hair, nails, skincare prep
+      type: select_multiple
+      options:
+      - Hair styling
+      - False eyelashes
+      - Makeup setting spray
+      - Touch-up kit
+      - Skincare consultation
+      - Spray tan
+      - None
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false

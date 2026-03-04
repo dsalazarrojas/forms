@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpenter Estimate Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Project Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_information_section
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_type
+      label: Type of Carpentry Project
+      hint: Select the primary project type
+      type: select_one
+      options:
+      - Cabinet Installation
+      - Door and Frame Installation
+      - Deck Building
+      - Framing
+      - Trim and Molding
+      - Custom Woodwork
+      - Repairs
+      - Other
+      required: true
+    - id: 8
+      name: project_description
+      label: Detailed Project Description
+      hint: Describe the scope of work needed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location Type
+      hint: null
+      type: select_one
+      options:
+      - Interior
+      - Exterior
+      - Both Interior and Exterior
+      required: true
+    - id: 10
+      name: scope_of_work
+      label: Scope of Work
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Measurement and Planning
+      - Material Sourcing
+      - Labor
+      - Installation
+      - Finishing
+      - Cleanup
+      required: true
+    - id: 11
+      name: project_timeline
+      label: When do you need this project completed?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 2-3 months
+      - No specific deadline
+      - Flexible
+      required: true
+    - id: 12
+      name: project_start_date
+      label: Preferred Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: project_specifications
+      label: -- Project Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_dimensions
+      label: Project Dimensions or Square Footage
+      hint: Provide measurements or area
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: materials_preference
+      label: Material Preferences
+      hint: Specify preferred wood types or materials
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: finish_type
+      label: Desired Finish Type
+      hint: null
+      type: select_one
+      options:
+      - Stained
+      - Painted
+      - Natural
+      - Sealed
+      - Varnished
+      - Custom Finish
+      required: false
+    - id: 17
+      name: design_style
+      label: Design Style or Aesthetic
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Rustic
+      - Contemporary
+      - Custom Design
+      - Per Client Specifications
+      required: false
+    - id: 18
+      name: special_requirements
+      label: Special Requirements or Custom Features
+      hint: List any unique specifications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: existing_conditions
+      label: -- Existing Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: structural_assessment
+      label: Any visible structural issues or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_and_timeline
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: budget_range
+      label: Budget Range (optional)
+      hint: Approximate budget for project
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - Over $10,000
+      - Not sure
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Any other information the carpenter should know
+      type: text
+      options: []
+      required: false

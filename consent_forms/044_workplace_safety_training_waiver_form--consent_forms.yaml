@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Training Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_program
+      label: training program
+      hint: null
+      type: select_one
+      options:
+      - Training Program 1
+      - Training Program 2
+      - Training Program 3
+      required: true
+    - id: 8
+      name: training_date
+      label: training date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: safety_risks
+      label: safety risks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: acknowledgments
+      label: acknowledgments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: legal_protection
+      label: legal protection
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware of and have read the safety training waiver
+      - I do not have legal protection
+      required: true
+    - id: 12
+      name: safety_award
+      label: safety award
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware of the safety award
+      - I am not aware of the safety award
+      required: true
+    - id: 13
+      name: safety_awareness
+      label: safety awareness
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware of the safety awareness
+      - I am not aware of the safety awareness
+      required: true
+    - id: 14
+      name: waiver_form_signature
+      label: waiver form signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: date_of_waiver
+      label: date of waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: employer_name
+      label: employer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employer_address
+      label: employer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_name
+      label: supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_title
+      label: supervisor title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_officer_name
+      label: safety officer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: safety_officer_title
+      label: safety officer title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_created
+      label: date created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

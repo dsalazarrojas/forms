@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Submission Publication Consent Form
+    pages:
+    - id: 1
+      name: publication_consent_form
+      label: Fan Submission Publication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: Consent Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: consent_time
+      label: Consent Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: publication_name
+      label: Publication Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: publication_type
+      label: Publication Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Book''}'
+      - '{''option'': ''Article''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 6
+      name: fan_submitter_info
+      label: Fan Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fan_submission_consent
+      label: Fan Submission Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Yes''}'
+      - '{''option'': ''No''}'
+      required: false
+    - id: 8
+      name: other_publication_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_publication_type_other_details
+      label: Other Publication Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

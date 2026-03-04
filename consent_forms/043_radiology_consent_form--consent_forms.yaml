@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiology Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_benefit_disclosure
+      label: Risk Benefit Disclosure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature_number
+      label: Signature Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_awareness
+      label: Facility Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware of the risks of the imaging procedure
+      - I am aware of the benefits of the imaging procedure
+      - I have read and understand the risks and benefits of the imaging procedure
+      required: false
+    - id: 11
+      name: facility_informed_consent
+      label: Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: procedure_details
+      label: Procedure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 14
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Provided
+      - Signature Not Provided
+      required: false
+    - id: 18
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Provided
+      - Signature Not Provided
+      required: false
+    - id: 19
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Provided
+      - Signature Not Provided
+      required: false
+    - id: 20
+      name: date_procedure_conducted
+      label: Date of Procedure Conducted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_procedure_conducted
+      label: Time of Procedure Conducted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: procedure_type
+      label: Procedure Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_comments
+      label: Doctor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_comments
+      label: Facility Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: procedure_comments
+      label: Procedure Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Audio Submission Upload Form
+    pages:
+    - id: 1
+      name: episode_title
+      label: episode_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audio_file
+      label: audio_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tags
+      label: tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: categories
+      label: categories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contributors
+      label: contributors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: upload_status
+      label: upload_status
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: upload_url
+      label: upload_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_error
+      label: upload_error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: permissions
+      label: permissions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Everyone''}'
+      - '{''label'': ''Team''}'
+      - '{''label'': ''Hosts''}'
+      required: true
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: host_email
+      label: host_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: host_phone
+      label: host_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: host_name
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: host_permissions
+      label: host_permissions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Everyone''}'
+      - '{''label'': ''Team''}'
+      - '{''label'': ''Hosts''}'
+      required: true
+    - id: 17
+      name: host_url
+      label: host_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: host_url_label
+      label: host_url_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: host_url_link
+      label: host_url_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: host_url_target
+      label: host_url_target
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New Tab''}'
+      - '{''label'': ''Current Tab''}'
+      required: true
+    - id: 21
+      name: host_url_blurb
+      label: host_url_blurb
+      hint: null
+      type: text
+      options: []
+      required: false

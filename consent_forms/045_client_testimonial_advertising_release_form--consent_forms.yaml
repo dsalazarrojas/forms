@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Testimonial Advertising Release Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: testimonial_header
+      label: -- Testimonial Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: testimonial_text
+      label: Your Testimonial or Quote
+      hint: Share your experience with our product or service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: before_after_description
+      label: Before and After Description
+      hint: Describe the impact of our product/service
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: specific_benefits
+      label: Specific Benefits or Results Achieved
+      hint: What improvements did you see?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: usage_duration
+      label: How Long Have You Used Our Service?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: false
+    - id: 11
+      name: release_header
+      label: -- Media Release Authorization --
+      hint: Please review and agree to the following
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: permission_publish
+      label: I grant permission to publish this testimonial
+      hint: In marketing materials, website, social media, advertisements
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true
+    - id: 13
+      name: permission_use_name
+      label: My Name May Be Used with the Testimonial
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Use first name only
+      - Anonymous
+      required: true
+    - id: 14
+      name: permission_use_photo
+      label: A Photo of Me May Be Used
+      hint: With the testimonial in advertisements
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 15
+      name: approved_usage
+      label: Approved Use of Testimonial
+      hint: Where the testimonial may be used
+      type: select_multiple
+      options:
+      - Website
+      - Social media
+      - Printed advertisements
+      - Television or video
+      - Email marketing
+      - Case studies
+      - All marketing materials
+      required: false
+    - id: 16
+      name: duration_of_use
+      label: Duration of Permission
+      hint: How long may we use this testimonial?
+      type: select_one
+      options:
+      - One year
+      - Two years
+      - Five years
+      - Indefinite
+      - Until I request removal
+      required: true
+    - id: 17
+      name: compensation
+      label: I Understand This Is Provided Without Compensation
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: accuracy_confirmation
+      label: I Confirm the Testimonial Is Accurate and True
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true
+    - id: 19
+      name: final_release
+      label: I Release the Company From Any Liability
+      hint: Regarding the use of this testimonial
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: agreement_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

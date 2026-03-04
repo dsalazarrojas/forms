@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pricing and Commission Agreement
+    pages:
+    - id: 1
+      name: business_parties
+      label: Business Parties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pricing_terms
+      label: Pricing Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: commission_structures
+      label: Commission Structures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: signatures
+      label: Signatures
+      hint: null
+      type: text
+      options: []
+      required: false

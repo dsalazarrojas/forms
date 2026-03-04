@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Contractor Agreement Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contract_rate
+      label: Contract Rate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: responsibilities
+      label: Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Check
+      required: true
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_method_notes
+      label: Payment Method Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: termination_clause
+      label: Termination Clause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: termination_reasons
+      label: Termination Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: termination_notice_period
+      label: Termination Notice Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: termination_effective_date
+      label: Termination Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One-Time
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 22
+      name: payment_frequency_notes
+      label: Payment Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: contractor_signature
+      label: Contractor Signature
+      hint: null
+      type: text
+      options: []
+      required: true

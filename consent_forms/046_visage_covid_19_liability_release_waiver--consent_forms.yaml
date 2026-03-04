@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: VISAGE COVID 19 Liability Release Waiver
+    pages:
+    - id: 1
+      name: general_informations
+      label: General Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_1
+      label: I have been exposed to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 3
+      name: consent_2
+      label: I am currently positive for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: symptoms
+      label: Do you have any of these symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fever'', ''value'': ''Fever''}'
+      - '{''label'': ''Cough'', ''value'': ''Cough''}'
+      - '{''label'': ''Fatigue'', ''value'': ''Fatigue''}'
+      - '{''label'': ''Headache'', ''value'': ''Headache''}'
+      required: false
+    - id: 5
+      name: exposure_date
+      label: Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_trace
+      label: Contact Tracing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''None''}'
+      - '{''label'': ''Asthma'', ''value'': ''Asthma''}'
+      - '{''label'': ''Heart Disease'', ''value'': ''Heart Disease''}'
+      required: false
+    - id: 8
+      name: medical_condition_detail
+      label: Detail
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_3
+      label: I am consenting to participate in this study
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: consent_4
+      label: I am consenting to share information with VISAGE
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

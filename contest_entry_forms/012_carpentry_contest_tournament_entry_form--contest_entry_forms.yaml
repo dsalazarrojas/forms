@@ -1,0 +1,327 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpentry Contest Tournament Entry Form
+    pages:
+    - id: 1
+      name: contest_header
+      label: Carpentry Contest Tournament Entry
+      hint: Register your entry for the carpentry competition
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entry_number
+      label: Entry Number
+      hint: Assigned by organizers
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contestant_info
+      label: Contestant Information
+      hint: Primary entrant details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contestant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contestant_email
+      label: Email Address
+      hint: For contest communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contestant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age category
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: experience_level
+      label: Carpentry Experience Level
+      hint: Skill level assessment
+      type: select_one
+      options:
+      - Beginner - less than 1 year
+      - Intermediate - 1 to 3 years
+      - Advanced - 3 to 10 years
+      - Professional - over 10 years
+      - Master craftsman
+      required: true
+    - id: 14
+      name: professional_status
+      label: Professional Status
+      hint: Current occupation
+      type: select_one
+      options:
+      - Hobbyist
+      - Student
+      - Apprentice
+      - Journeyman
+      - Master carpenter
+      - Contractor
+      - Other
+      required: true
+    - id: 15
+      name: entry_category
+      label: Contest Category
+      hint: Select your entry category
+      type: select_one
+      options:
+      - Furniture - tables or desks
+      - Furniture - chairs or seating
+      - Furniture - cabinets or storage
+      - Decorative woodwork
+      - Functional items
+      - Artistic sculpture
+      - Restoration project
+      - Open category
+      required: true
+    - id: 16
+      name: project_info
+      label: Project Information
+      hint: Entry details
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_title
+      label: Project Title
+      hint: Name of your entry
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_description
+      label: Project Description
+      hint: Describe your entry
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: wood_types_used
+      label: Types of Wood Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Oak
+      - Maple
+      - Cherry
+      - Walnut
+      - Pine
+      - Mahogany
+      - Teak
+      - Ash
+      - Birch
+      - Exotic woods
+      - Reclaimed wood
+      - Other
+      required: true
+    - id: 20
+      name: techniques_used
+      label: Primary Techniques Used
+      hint: Construction methods
+      type: select_multiple
+      options:
+      - Hand joinery
+      - Machine joinery
+      - Carving
+      - Turning
+      - Veneering
+      - Inlay work
+      - Steam bending
+      - Lamination
+      - Other
+      required: true
+    - id: 21
+      name: time_to_complete
+      label: Time to Complete Project
+      hint: Total hours invested
+      type: select_one
+      options:
+      - Less than 10 hours
+      - 10 to 25 hours
+      - 25 to 50 hours
+      - 50 to 100 hours
+      - Over 100 hours
+      required: true
+    - id: 22
+      name: project_dimensions
+      label: Project Dimensions
+      hint: Height x Width x Depth in inches
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: project_weight
+      label: Approximate Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requirements
+      label: Special Display Requirements
+      hint: Setup needs
+      type: select_multiple
+      options:
+      - None
+      - Electrical power
+      - Special lighting
+      - Elevated platform
+      - Climate control
+      - Security case
+      - Other
+      required: true
+    - id: 25
+      name: previous_competitions
+      label: Have You Entered Carpentry Competitions Before
+      hint: Competition history
+      type: select_one
+      options:
+      - Yes - won awards
+      - Yes - no awards
+      - No - first competition
+      required: true
+    - id: 26
+      name: photos_submitted
+      label: Photos of Project
+      hint: Image submission
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - false
+      required: true
+    - id: 27
+      name: video_submitted
+      label: Video of Project or Process
+      hint: Optional video
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - false
+      required: false
+    - id: 28
+      name: judging_consent
+      label: I Consent to Judging Evaluation
+      hint: Agreement to terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 29
+      name: display_consent
+      label: I Consent to Public Display
+      hint: Exhibition agreement
+      type: select_one
+      options:
+      - Yes - for full event duration
+      - Yes - for judging only
+      - No - private entry
+      required: true
+    - id: 30
+      name: media_consent
+      label: I Consent to Media Coverage
+      hint: Photos and videos for promotion
+      type: select_one
+      options:
+      - Yes - full consent
+      - Yes - with attribution
+      - No - no media
+      required: true
+    - id: 31
+      name: entry_fee
+      label: Entry Fee Payment Status
+      hint: Payment confirmation
+      type: select_one
+      options:
+      - Paid - receipt attached
+      - Will pay at drop-off
+      - Fee waiver requested
+      - Sponsor covered
+      required: true
+    - id: 32
+      name: delivery_method
+      label: How Will You Deliver Your Entry
+      hint: Transport method
+      type: select_one
+      options:
+      - Self delivery
+      - Courier service
+      - Need assistance
+      required: true
+    - id: 33
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Alternative contact
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Alternative phone
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

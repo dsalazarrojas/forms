@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faith Based Testimony Publication Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: testimony_consent
+      label: Testimony Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - Non-Consent
+      required: false
+    - id: 7
+      name: testimony_publication_consent
+      label: Publication Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent
+      - Non-Consent
+      required: false
+    - id: 8
+      name: testimony_publication
+      label: Publication
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: testimony_publication_method
+      label: Publication Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 10
+      name: testimony_publication_frequency
+      label: Publication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Regularly
+      - Occasionally
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Travel Authorization Form
+    pages:
+    - id: 1
+      name: section_minor_info
+      label: -- Minor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: minor_name
+      label: Minor Full Name
+      hint: Name of child traveling
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: minor_dob
+      label: Minor Date of Birth
+      hint: Select from calendar
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_guardian_auth
+      label: -- Guardian Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: guardian_name
+      label: Authorizing Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guardian_phone
+      label: Guardian Contact Phone
+      hint: Best number for reachability
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_travel_details
+      label: -- Travel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: travel_destination_purpose
+      label: Destination and Purpose of Travel
+      hint: e.g., Paris for vacation, New York for sports event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: departure_date
+      label: Departure Date
+      hint: Scheduled start of travel
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: Scheduled end of travel
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_authorized_adult
+      label: -- Authorized Accompanying Adult --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accompanying_adult_info
+      label: Name and ID of accompanying adult
+      hint: Person responsible for the minor during travel
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: travel_permission_granted
+      label: I grant permission for the minor to travel as described
+      hint: Legal consent confirmation
+      type: select_one
+      options:
+      - label: Yes - Permission Granted
+        value: true
+      - label: No - Permission Withheld
+        value: false
+      required: true
+    - id: 14
+      name: today_date
+      label: Today Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true

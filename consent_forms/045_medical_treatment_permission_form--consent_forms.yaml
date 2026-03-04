@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Permission Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: Patient Relationship
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Legal Guardian
+      - Other
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_administered
+      label: Treatment Administered
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_zip
+      label: Patient Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medical_provider_id
+      label: Medical Provider ID
+      hint: null
+      type: text
+      options: []
+      required: false

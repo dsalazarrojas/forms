@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Feature Segment Request Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Band Name
+      hint: Your professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio URL
+      hint: Link to your work or social media
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Artistic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: genre_style
+      label: Genre or Artistic Style
+      hint: What type of art do you create?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_bio
+      label: Brief Artist Biography
+      hint: 100-200 word description of your work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you been creating?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notable_achievements
+      label: Notable Achievements or Recognition
+      hint: Awards, exhibitions, publications, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Feature Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feature_type
+      label: Type of Feature Requested
+      hint: What kind of feature are you interested in?
+      type: select_one
+      options:
+      - Magazine Article
+      - Podcast Interview
+      - Video Interview
+      - Photo Shoot
+      - Social Media Feature
+      - Documentary Segment
+      - News Coverage
+      - Live Performance Feature
+      - Other
+      required: true
+    - id: 13
+      name: feature_topic
+      label: Suggested Feature Topic or Angle
+      hint: What would you like the feature to focus on?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Content Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_project
+      label: Current Project or Recent Work
+      hint: What are you working on now?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_description
+      label: Project Description
+      hint: Details about your current work
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: unique_story
+      label: What Makes Your Story Unique?
+      hint: Why should people be interested?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Media and Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: media_availability
+      label: Do You Have Photos or Media?
+      hint: High-quality images or video available?
+      type: select_one
+      options:
+      - Yes, high-quality media ready
+      - Yes, but lower quality
+      - Can provide media if needed
+      - No media available
+      required: false
+    - id: 20
+      name: access_flexibility
+      label: Availability for Interview or Shoot
+      hint: Can you make time for the feature?
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Limited availability
+      - Need advance notice
+      required: true
+    - id: 21
+      name: section_header_6
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: why_feature_worthy
+      label: Why Are You Ideal for a Feature?
+      hint: Make a compelling case
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: target_audience
+      label: Target Audience or Publication Type
+      hint: Who should see this feature?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agree_terms
+      label: I Agree to Participate in This Feature
+      hint: Confirm your willingness to participate
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information?
+      type: text
+      options: []
+      required: false

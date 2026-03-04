@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Vaccination Questionnaire
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_side_effects
+      label: Vaccine Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Dizziness
+      - Headache
+      - Fatigue
+      - Nausea
+      - Vomiting
+      required: false
+    - id: 3
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: select_one
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Acetaminophen
+      - Steroids
+      - Blood thinners
+      - Other
+      required: false
+    - id: 4
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_response
+      label: Patient Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physician_info
+      label: Physician Information
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Specialist
+      - Other
+      required: false
+    - id: 9
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_info
+      label: Doctor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: physician_comments
+      label: Doctor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: patient_allergies
+      label: Patient Allergies
+      hint: null
+      type: select_one
+      options:
+      - Allergic Reaction
+      - Food Allergy
+      - Insect Sting
+      - Medication Allergy
+      - Other Allergy
+      required: false
+    - id: 16
+      name: patient_important_info
+      label: Important Info
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

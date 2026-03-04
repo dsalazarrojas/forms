@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Performance Benchmark Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_address
+      label: Company address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: Time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: select_one_benchmarking
+      label: Do you agree to participate in benchmarking projects
+      hint: null
+      type: select_one
+      options:
+      - Benchmarking projects
+      - Do not participate
+      - Do not answer
+      required: false
+    - id: 11
+      name: select_multiple_benchmarking
+      label: Which benchmarking projects do you agree to participate in
+      hint: null
+      type: select_multiple
+      options:
+      - Project A
+      - Project B
+      - Project C
+      required: false
+    - id: 12
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_consent
+      label: Time of consent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: select_one_organizations
+      label: With which organizations do you have a relationship
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Association
+      required: false
+    - id: 15
+      name: select_multiple_organizations
+      label: Which organizations do you have a relationship with
+      hint: null
+      type: select_multiple
+      options:
+      - Organization A
+      - Organization B
+      - Organization C
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: field_data_collection_authorization_form
+    pages:
+    - id: 1
+      name: field_data_collection_authorization_form_first_page
+      label: field_data_collection_authorization_form_first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: field_data_collection_authorization_form_second_page
+      label: field_data_collection_authorization_form_second_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: field_data_collection_authorization_form_third_page
+      label: field_data_collection_authorization_form_third_page
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 4
+      name: field_data_collection_authorization_form_date_of_birth
+      label: field_data_collection_authorization_form_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: field_data_collection_authorization_form_time_of_birth
+      label: field_data_collection_authorization_form_time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: field_data_collection_authorization_form_note
+      label: field_data_collection_authorization_form_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: field_data_collection_authorization_form_email
+      label: field_data_collection_authorization_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: field_data_collection_authorization_form_phone
+      label: field_data_collection_authorization_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false

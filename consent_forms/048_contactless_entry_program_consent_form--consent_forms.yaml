@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contactless Entry Program Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Contactless Entry Program Consent Form
+      hint: Consent for keyless access program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or building
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: access_level
+      label: Requested Access Level
+      hint: Access type
+      type: select_one
+      options:
+      - Full Building Access
+      - Floor Specific
+      - Common Areas Only
+      - After Hours Access
+      - Weekend Access
+      required: true
+    - id: 10
+      name: entry_points
+      label: Entry Points Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Main Entrance
+      - Side Entrance
+      - Garage Entrance
+      - Service Entrance
+      - Rooftop Access
+      required: true
+    - id: 11
+      name: contactless_method
+      label: Contactless Method Preference
+      hint: How to gain access
+      type: select_one
+      options:
+      - Mobile Credential
+      - Biometric Scan
+      - Proximity Card
+      - QR Code
+      - Facial Recognition
+      required: true
+    - id: 12
+      name: mobile_platform
+      label: Mobile Platform
+      hint: If using mobile
+      type: select_one
+      options:
+      - iOS
+      - Android
+      - Not Applicable
+      required: false
+    - id: 13
+      name: program_terms
+      label: Program Terms Acknowledgment
+      hint: Do you understand terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No - Need More Info
+      required: true
+    - id: 14
+      name: privacy_policy
+      label: Privacy Policy Acceptance
+      hint: Do you accept privacy policy
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 15
+      name: data_sharing
+      label: Data Sharing Consent
+      hint: Share data with building management
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 16
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Accept liability terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 17
+      name: training_required
+      label: Training Required
+      hint: Do you need training
+      type: select_one
+      options:
+      - true
+      - No - I Am Familiar
+      required: true
+    - id: 18
+      name: training_date
+      label: Training Completion Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: start_date
+      label: Program Start Date
+      hint: When to begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: duration
+      label: Program Duration
+      hint: How long
+      type: select_one
+      options:
+      - 30 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - Indefinite
+      required: true
+    - id: 21
+      name: emergency_override
+      label: Emergency Override Authorization
+      hint: Allow emergency access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: participant_signature
+      label: Participant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: administrator_approval
+      label: Administrator Approval
+      hint: Admin name
+      type: text
+      options: []
+      required: true

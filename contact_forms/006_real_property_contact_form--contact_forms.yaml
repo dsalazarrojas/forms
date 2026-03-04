@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_property_contact_form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Condo''}'
+      - '{''value'': ''House''}'
+      - '{''value'': ''Townhouse''}'
+      required: true
+    - id: 4
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Agent 1''}'
+      - '{''value'': ''Agent 2''}'
+      - '{''value'': ''Agent 3''}'
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_office
+      label: Real Estate Office
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Office 1''}'
+      - '{''value'': ''Office 2''}'
+      - '{''value'': ''Office 3''}'
+      required: false
+    - id: 13
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: real_estate_broker
+      label: Real Estate Broker
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Broker 1''}'
+      - '{''value'': ''Broker 2''}'
+      - '{''value'': ''Broker 3''}'
+      required: false
+    - id: 15
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_number
+      label: Follow Up Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: real_estate_office_options
+      label: Real Estate Office Options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Office 1''}'
+      - '{''value'': ''Office 2''}'
+      - '{''value'': ''Office 3''}'
+      required: false
+    - id: 18
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Condo''}'
+      - '{''value'': ''House''}'
+      - '{''value'': ''Townhouse''}'
+      required: true
+    - id: 19
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: real_estate_manager
+      label: Real Estate Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: real_estate_manager_options
+      label: Real Estate Manager Options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Manager 1''}'
+      - '{''value'': ''Manager 2''}'
+      - '{''value'': ''Manager 3''}'
+      required: false
+    - id: 22
+      name: contact_source
+      label: Contact Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Source 1''}'
+      - '{''value'': ''Source 2''}'
+      - '{''value'': ''Source 3''}'
+      required: true

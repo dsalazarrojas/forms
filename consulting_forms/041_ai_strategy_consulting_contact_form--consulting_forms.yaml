@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Strategy Consulting Contact Form
+    pages:
+    - id: 1
+      name: --contact_overview--
+      label: -- Contact Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company or organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Required for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_summary
+      label: Project summary or challenge
+      hint: Brief description of goals
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_range
+      label: Estimated budget range
+      hint: Select one
+      type: select_one
+      options:
+      - Under 50k
+      - 50k to 150k
+      - 150k to 500k
+      - Over 500k
+      required: false
+    - id: 7
+      name: timeline
+      label: Desired timeline
+      hint: Start and end expectations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: priorities
+      label: Top priorities for consulting engagement
+      hint: Select up to three
+      type: select_multiple
+      options:
+      - Strategy definition
+      - Roadmap and planning
+      - Governance and risk
+      - Proof of concept
+      - Implementation support
+      required: true
+    - id: 9
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Select one
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Optional
+      type: text
+      options: []
+      required: false

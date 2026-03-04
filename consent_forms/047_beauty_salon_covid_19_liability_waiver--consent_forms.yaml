@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon COVID 19 Liability Waiver
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vaccination_header
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: true
+    - id: 8
+      name: booster_status
+      label: Booster Shot Status
+      hint: null
+      type: select_one
+      options:
+      - Yes - Up to Date
+      - No - Not Yet
+      - Not Applicable
+      - Prefer Not to Say
+      required: false
+    - id: 9
+      name: health_header
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: covid_symptoms
+      label: Have You Had COVID-19 Symptoms in Past 14 Days
+      hint: Fever, cough, loss of taste, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: symptom_details
+      label: Describe Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: covid_exposure
+      label: Exposure to Known COVID-19 Cases in Past 14 Days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: quarantine_requirement
+      label: Currently Under Quarantine or Isolation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: acknowledgment_header
+      label: -- Acknowledgment of Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: understood_transmission_risk
+      label: I Understand COVID-19 Transmission Risks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: acknowledged_salon_measures
+      label: I Acknowledge Salon Safety Measures
+      hint: Mask requirements, distancing, sanitization, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: assumed_risk
+      label: I Assume the Risk of COVID-19 Exposure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: liability_header
+      label: -- Liability Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: release_salon
+      label: I Release the Salon from Liability
+      hint: For any COVID-19 related illness or complications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: not_sue_salon
+      label: I Agree Not to Sue the Salon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: indemnify_salon
+      label: I Will Indemnify and Hold Harmless the Salon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: safety_measures
+      label: I Will Follow All Salon Safety Measures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: honesty_declaration
+      label: All Information Provided Is Truthful
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: signature
+      label: Client Signature
+      hint: By typing here you acknowledge this waiver
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true

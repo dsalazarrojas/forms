@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_confirmation_request_form
+    pages:
+    - id: 1
+      name: form_description
+      label: form description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: confirm_email
+      label: confirm email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: accept_terms
+      label: accept_terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''accept'', ''label'': ''Accept''}'
+      - '{''id'': 2, ''name'': ''decline'', ''label'': ''Decline''}'
+      - '{''id'': 3, ''name'': ''undetermined'', ''label'': ''Undetermined''}'
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm
+      label: confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: error_message
+      label: error message
+      hint: null
+      type: note
+      options: []
+      required: false

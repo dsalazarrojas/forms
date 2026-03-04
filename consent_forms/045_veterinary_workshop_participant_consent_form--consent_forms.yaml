@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Workshop Participant Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_relation
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_participation
+      label: Workshop Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communications
+      label: Communications
+      hint: How would you like to be contacted for workshop communications?
+      type: select_one
+      options:
+      - Workshop updates and reminders
+      - Via email
+      - Never contact me
+      required: false
+    - id: 8
+      name: consent_signed
+      label: Signed Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter emergency contact name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_phone
+      label: Phone
+      hint: Enter emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workshop_participation_signed
+      label: Signed Consent
+      hint: null
+      type: note
+      options: []
+      required: true

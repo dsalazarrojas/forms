@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Screening Tool
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_screened
+      label: Date Screened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: screening_location
+      label: Screening Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: symptoms_other
+      label: Other Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_worker
+      label: Healthcare Worker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: exposure_risk
+      label: Exposure Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: travel_exposure_risk
+      label: Travel Exposure Risk
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: fever_fever
+      label: Fever or Fever
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: cough
+      label: Cough
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: shortness_of_breath
+      label: Shortness of Breath
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: headache
+      label: Headache
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: fatigue
+      label: Fatigue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: sore_throat
+      label: Sore Throat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: muscle_pain
+      label: Muscle Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: diarrhea
+      label: Diarrhea
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: abdominal_pain
+      label: Abdominal Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: nausea
+      label: Nausea
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vomiting
+      label: Vomiting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: rash
+      label: Rash
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

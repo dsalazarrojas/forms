@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_suppression_audit_consent_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: auditor_details
+      label: Auditor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: auditor_schedule
+      label: Schedule an Inspection
+      hint: null
+      type: text
+      options: []
+      required: true

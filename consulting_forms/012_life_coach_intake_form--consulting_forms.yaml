@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Coach Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coach_level
+      label: Coach Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Beginner''}'
+      - '{''id'': 2, ''value'': ''Intermediate''}'
+      - '{''id'': 3, ''value'': ''Advanced''}'
+      required: false
+    - id: 7
+      name: coaching_goals
+      label: Coaching Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coaching_frequency
+      label: Coaching Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Weekly''}'
+      - '{''id'': 2, ''value'': ''Biweekly''}'
+      - '{''id'': 3, ''value'': ''Monthly''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

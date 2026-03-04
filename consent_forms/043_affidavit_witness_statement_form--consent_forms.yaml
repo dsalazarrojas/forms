@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affidavit Witness Statement Form
+    pages:
+    - id: 1
+      name: witness_info_header
+      label: -- Witness Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: witness_name
+      label: Witness Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: witness_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: witness_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: witness_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: witness_contact
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: case_reference_header
+      label: -- Case Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: plaintiff
+      label: Plaintiff / Claimant
+      hint: Name of party bringing the case.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: defendant
+      label: Defendant / Respondent
+      hint: Name of party defending.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_date
+      label: Date of Incident
+      hint: When did the event occur?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: testimony_header
+      label: -- Testimony --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: statement_content
+      label: Statement of Events
+      hint: Describe exactly what you saw or heard. Be factual.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: relationship
+      label: Relationship to Parties
+      hint: Do you know the plaintiff or defendant?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: statement_of_truth_header
+      label: -- Statement of Truth --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: truth_declaration
+      label: Declaration
+      hint: I believe that the facts stated in this witness statement are true.
+      type: select_one
+      options:
+      - I Believe
+      - Other
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

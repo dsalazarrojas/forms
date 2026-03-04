@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dental Clinic COVID 19 Triage Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Runny Nose
+      - Sore Throat
+      - Difficulty Breathing
+      - Headache
+      - Fatigue
+      - Muscle or Joint Aches
+      - Diarrhea
+      - Nausea or Vomiting
+      - Confusion or Disorientation
+      - Shortness of breath
+      - Chest Pain or Pressure
+      - Loss of Smell or Taste
+      required: false
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 4
+      name: exposure_history
+      label: Exposure History
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 5
+      name: contact_history
+      label: Contact History
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 6
+      name: symptoms_duration
+      label: Symptoms Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 24 to 48 hours
+      - 48 to 72 hours
+      - More than 72 hours
+      required: false
+    - id: 7
+      name: symptoms_start
+      label: Symptoms Onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exposure_date
+      label: Exposure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_last
+      label: Contact Last
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: symptoms_end_date
+      label: Symptoms End Date
+      hint: null
+      type: date
+      options: []
+      required: false

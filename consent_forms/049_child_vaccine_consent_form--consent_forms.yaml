@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Vaccine Consent Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Minor patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: To verify schedule
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Gender
+      hint: Demographic record
+      type: select_one
+      options:
+      - label: Male
+        value: male
+      - label: Female
+        value: female
+      - label: Other
+        value: other
+      required: false
+    - id: 5
+      name: section_vaccine_selection
+      label: -- Vaccine Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vaccines_administered
+      label: Vaccines to be Administered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: MMR - Measles, Mumps, Rubella
+        value: mmr
+      - label: DTaP - Diphtheria, Tetanus, Pertussis
+        value: dtap
+      - label: Inactivated Polio Vaccine
+        value: polio
+      - label: Hepatitis B
+        value: hepb
+      - label: Seasonal Influenza
+        value: flu
+      - label: Varicella - Chickenpox
+        value: varicella
+      required: true
+    - id: 7
+      name: section_health_screening
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_fever_status
+      label: Does the child have a fever today?
+      hint: Contraindication check
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 9
+      name: previous_reaction_status
+      label: Has the child had a reaction to a vaccine before?
+      hint: Safety assessment
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 10
+      name: known_allergies_text
+      label: Describe any known allergies
+      hint: Especially eggs, yeast, or latex
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_consent_disclosure
+      label: -- Consent and Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vis_received_status
+      label: I have received and read the Vaccine Information Statement
+      hint: Informed consent prerequisite
+      type: select_one
+      options:
+      - label: Yes - Received and Read
+        value: true
+      - label: No - Need VIS first
+        value: false
+      required: true
+    - id: 13
+      name: vaccine_final_consent
+      label: I give consent for the vaccines selected above
+      hint: Final legal authorization
+      type: select_one
+      options:
+      - label: I Give Consent
+        value: true
+      - label: I Withhold Consent
+        value: false
+      required: true
+    - id: 14
+      name: guardian_signature_name
+      label: Parent or Guardian Name for Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone Number
+      hint: For follow-up if needed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: today_date
+      label: Today Date
+      hint: Date of immunization
+      type: date
+      options: []
+      required: true

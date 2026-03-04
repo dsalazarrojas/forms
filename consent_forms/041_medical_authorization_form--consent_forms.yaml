@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: doctor_contact_info
+      label: Doctor Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_license_num
+      label: Medical License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''ABC Medical'', ''label'': ''ABC Medical''}'
+      - '{''id'': 2, ''name'': ''DEF Medical'', ''label'': ''DEF Medical''}'
+      - '{''id'': 3, ''name'': ''GHI Medical'', ''label'': ''GHI Medical''}'
+      required: true
+    - id: 14
+      name: medical_board
+      label: Medical Board
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''ABC Medical Board'', ''label'': ''ABC Medical Board''}'
+      - '{''id'': 2, ''name'': ''DEF Medical Board'', ''label'': ''DEF Medical Board''}'
+      - '{''id'': 3, ''name'': ''GHI Medical Board'', ''label'': ''GHI Medical Board''}'
+      required: true
+    - id: 15
+      name: medical_board_date
+      label: Medical Board Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medical_license_date
+      label: Medical License Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: medical_license_status
+      label: Medical License Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''pending'', ''label'': ''Pending''}'
+      required: true
+    - id: 18
+      name: medical_license_type
+      label: Medical License Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''type1'', ''label'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''type2'', ''label'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''type3'', ''label'': ''Type 3''}'
+      required: true
+    - id: 19
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_license_expiration_date
+      label: Medical License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medical_license_status_change_date
+      label: Medical License Status Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_status_change_reason
+      label: Medical License Status Change Reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''reason1'', ''label'': ''Reason 1''}'
+      - '{''id'': 2, ''name'': ''reason2'', ''label'': ''Reason 2''}'
+      - '{''id'': 3, ''name'': ''reason3'', ''label'': ''Reason 3''}'
+      required: true
+    - id: 23
+      name: medical_license_status_change_reason_other
+      label: Reason Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_board_expiration_date
+      label: Medical Board Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_license_status_change_reason_other_ex
+      label: Reason Other
+      hint: null
+      type: text
+      options: []
+      required: false

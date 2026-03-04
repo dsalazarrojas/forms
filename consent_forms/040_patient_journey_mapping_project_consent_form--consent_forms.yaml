@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Journey Mapping Project Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''email'', ''value'': ''email''}'
+      - '{''label'': ''phone'', ''value'': ''phone''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: signatures
+      label: signatures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_journey
+      label: patient_journey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_informed_consent
+      label: participant_informed_consent
+      hint: null
+      type: note
+      options: []
+      required: false

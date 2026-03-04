@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ballet Event Raffle Entry
+    pages:
+    - id: 1
+      name: entrant_full_name
+      label: Full name
+      hint: Enter first and last name as it should appear for the prize drawing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entrant_email
+      label: Email address
+      hint: Used to notify winners and confirm entry
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: entrant_phone
+      label: Phone number
+      hint: Optional alternate contact for winner notification
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_age_group
+      label: Age group
+      hint: Verify eligibility for age restricted prizes
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 25
+      - 26 to 40
+      - 41 and above
+      required: true
+    - id: 5
+      name: ticket_number
+      label: Ticket number
+      hint: If entry is tied to a purchased ticket enter the ticket number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: opt_in_marketing
+      label: Subscribe to event updates and offers
+      hint: Consent to receive promotional emails
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: eligibility_confirmation
+      label: Eligibility confirmation
+      hint: Confirm you meet raffle eligibility requirements
+      type: select_one
+      options:
+      - I confirm I meet eligibility requirements
+      - I do not meet eligibility requirements
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional comments or accessibility needs
+      hint: Tell us about any special needs the organizers should know
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_signature
+      label: Consent agreement
+      hint: Enter your full name to acknowledge raffle rules and privacy policy
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of entry submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Guest Declaration Form
+    pages:
+    - id: 1
+      name: guest_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_in_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_out_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: room_number
+      label: Room Number or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: group_size
+      label: Number of Guests in Party
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address or City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: health_section
+      label: -- Health Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: covid_symptoms
+      label: Any COVID-19 symptoms in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: symptoms_list
+      label: Symptoms present
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fever_temperature
+      label: Temperature today
+      hint: If fever present
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: covid_exposure
+      label: Exposed to COVID-19 in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: confirmed_case
+      label: Tested positive for COVID-19 recently
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Say
+      required: true
+    - id: 17
+      name: travel_section
+      label: -- Travel Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: travel_origin
+      label: Where did you travel from
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: travel_mode
+      label: Mode of Transportation
+      hint: null
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Public Transportation
+      - Flight
+      - Other
+      required: true
+    - id: 20
+      name: high_risk_area
+      label: Traveled from high-risk COVID-19 area
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 21
+      name: declaration_section
+      label: -- Declaration and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: accuracy_confirmation
+      label: I confirm all information above is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, Information Is Not Accurate
+      required: true
+    - id: 23
+      name: health_consent
+      label: I consent to health checks and facility rules
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 24
+      name: privacy_consent
+      label: I consent to data collection for contact tracing
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 25
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: true

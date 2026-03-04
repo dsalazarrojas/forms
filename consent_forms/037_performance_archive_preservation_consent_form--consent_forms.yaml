@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Archive Preservation Consent Form
+    pages:
+    - id: 1
+      name: performance_archive_preservation_consent_form
+      label: Performance Archive Preservation Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No response
+      required: false
+    - id: 9
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: performance_archive_id
+      label: Performance Archive ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: archivist_id
+      label: Archivist ID
+      hint: null
+      type: text
+      options: []
+      required: false

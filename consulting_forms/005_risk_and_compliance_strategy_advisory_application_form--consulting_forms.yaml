@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk And Compliance Strategy Advisory Application Form
+    pages:
+    - id: 1
+      name: form_fields
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_questions_1
+      label: Risk Questions 1
+      hint: null
+      type: select_multiple
+      options:
+      - Risk of Non-Compliance
+      - Risk of Financial Loss
+      - Risk of Reputation Damage
+      required: true
+    - id: 7
+      name: risk_questions_2
+      label: Risk Questions 2
+      hint: null
+      type: select_one
+      options:
+      - Risk of Non-Compliance
+      - Risk of Financial Loss
+      - Risk of Reputation Damage
+      required: true
+    - id: 8
+      name: risk_questions_3
+      label: Risk Questions 3
+      hint: null
+      type: select_multiple
+      options:
+      - Risk of Non-Compliance
+      - Risk of Financial Loss
+      - Risk of Reputation Damage
+      required: true
+    - id: 9
+      name: risk_questions_4
+      label: Risk Questions 4
+      hint: null
+      type: select_one
+      options:
+      - Risk of Non-Compliance
+      - Risk of Financial Loss
+      - Risk of Reputation Damage
+      required: false
+    - id: 10
+      name: risk_questions_5
+      label: Risk Questions 5
+      hint: null
+      type: select_multiple
+      options:
+      - Risk of Non-Compliance
+      - Risk of Financial Loss
+      - Risk of Reputation Damage
+      required: false

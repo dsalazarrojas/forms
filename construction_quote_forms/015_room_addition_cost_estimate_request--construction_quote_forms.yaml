@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Room Addition Cost Estimate Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_type
+      label: room type
+      hint: null
+      type: select_one
+      options:
+      - Basement
+      - Attic
+      - Bathroom
+      - Bedroom
+      - Kitchen
+      - Living Room
+      - Bedroom
+      - Office
+      - Other
+      required: false
+    - id: 4
+      name: square_footage
+      label: square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_start_date
+      label: project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_end_date
+      label: project end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: additional_requirements
+      label: additional requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

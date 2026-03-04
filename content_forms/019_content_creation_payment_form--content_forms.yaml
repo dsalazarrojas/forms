@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Payment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Email address for receipt
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference invoice number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: What content service was provided?
+      type: select_one
+      options:
+      - Blog Writing
+      - Social Media Management
+      - Video Production
+      - Graphic Design
+      - Copywriting
+      - Content Strategy
+      - SEO Services
+      - Full Content Package
+      required: true
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: Name of the content project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_period_start
+      label: Service Period Start
+      hint: Start date of service period
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: service_period_end
+      label: Service Period End
+      hint: End date of service period
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: subtotal
+      label: Subtotal
+      hint: Amount before taxes
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tax_rate
+      label: Tax Rate
+      hint: Applicable tax percentage
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: tax_amount
+      label: Tax Amount
+      hint: Calculated tax amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: discount
+      label: Discount Applied
+      hint: Any discount applied
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_amount
+      label: Total Amount Due
+      hint: Final amount to pay
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: currency
+      label: Currency
+      hint: Currency for payment
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 18
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_city
+      label: Billing City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_state
+      label: Billing State
+      hint: State or Province
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_zip
+      label: Billing ZIP Code
+      hint: ZIP or Postal Code
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: billing_country
+      label: Billing Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 24
+      name: payment_terms
+      label: Payment Terms
+      hint: Agreed payment terms
+      type: select_one
+      options:
+      - Due on Receipt
+      - Net 15
+      - Net 30
+      - Net 60
+      - Custom Terms
+      required: true
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special payment instructions
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I agree to the payment terms
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Song Creation Form
+    pages:
+    - id: 1
+      name: --project_brief--
+      label: -- Project Brief --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: First and last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: song_title
+      label: Song title or working title
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: genre
+      label: Genre
+      hint: Choose one
+      type: select_one
+      options:
+      - Pop
+      - Rock
+      - Folk
+      - Electronic
+      - Hip hop
+      - Classical
+      required: true
+    - id: 5
+      name: mood
+      label: Mood or tone
+      hint: Select one
+      type: select_one
+      options:
+      - Upbeat
+      - Melancholic
+      - Romantic
+      - Energetic
+      - Reflective
+      required: true
+    - id: 6
+      name: tempo_bpm
+      label: Approximate tempo in BPM
+      hint: Whole number like 120
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lyrical_themes
+      label: Lyrical themes or keywords
+      hint: Provide a few keywords to guide lyrics
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: instrumentation_preferences
+      label: Instrumentation preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acoustic guitar
+      - Piano
+      - Synthesizer
+      - Strings
+      - Drums
+      required: false
+    - id: 9
+      name: vocal_style
+      label: Vocal style preference
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes for song creation
+      hint: Optional
+      type: text
+      options: []
+      required: false

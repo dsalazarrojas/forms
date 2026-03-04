@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Commercial Use Agreement
+    pages:
+    - id: 1
+      name: agreement_title
+      label: non_commercial_use_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output
+      label: output
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_ids
+      label: form_ids
+      hint: null
+      type: text
+      options: []
+      required: false

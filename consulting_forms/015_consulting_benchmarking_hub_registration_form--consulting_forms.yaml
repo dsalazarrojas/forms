@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Benchmarking Hub Registration Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Select your organization type
+      type: select_one
+      options:
+      - Corporation
+      - Small Business
+      - Nonprofit
+      - Government Agency
+      - Educational Institution
+      - Healthcare Organization
+      - Other
+      required: true
+    - id: 3
+      name: industry
+      label: Industry Sector
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Energy
+      - Education
+      - Government
+      - Nonprofit
+      - Other
+      required: true
+    - id: 4
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - 5000+
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Select your revenue bracket
+      type: select_one
+      options:
+      - Under $1M
+      - $1M - $10M
+      - $10M - $50M
+      - $50M - $100M
+      - $100M - $500M
+      - Over $500M
+      required: false
+    - id: 6
+      name: contact_first_name
+      label: Contact First Name
+      hint: Primary contact first name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Primary contact last name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Title
+      hint: Job title of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organization_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: organization_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: organization_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organization_country
+      label: Country
+      hint: Country of operation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: benchmarking_areas
+      label: Areas of Interest for Benchmarking
+      hint: Select areas you want to benchmark
+      type: select_multiple
+      options:
+      - Operational Efficiency
+      - Financial Performance
+      - Customer Satisfaction
+      - Employee Engagement
+      - Technology Adoption
+      - Innovation Metrics
+      - Quality Management
+      - Supply Chain
+      - Sales Performance
+      - Marketing ROI
+      required: true
+    - id: 17
+      name: current_benchmarking
+      label: Currently Using Benchmarking
+      hint: Do you currently use benchmarking
+      type: select_one
+      options:
+      - Yes, Formally
+      - Yes, Informally
+      - false
+      required: true
+    - id: 18
+      name: benchmarking_goals
+      label: Benchmarking Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: data_sharing_consent
+      label: Consent to Data Sharing
+      hint: Agree to share anonymized data
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 20
+      name: participation_level
+      label: Participation Level
+      hint: Select your desired involvement
+      type: select_one
+      options:
+      - Full Participant
+      - Data Contributor Only
+      - Observer
+      required: true
+    - id: 21
+      name: peer_group_preference
+      label: Peer Group Preference
+      hint: Preferred peer group for comparison
+      type: select_one
+      options:
+      - Same Industry
+      - Same Size
+      - Same Region
+      - Best in Class
+      - No Preference
+      required: false
+    - id: 22
+      name: reporting_frequency
+      label: Preferred Reporting Frequency
+      hint: How often do you want reports
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

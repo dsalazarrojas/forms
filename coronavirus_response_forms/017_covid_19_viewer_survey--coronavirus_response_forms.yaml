@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Viewer Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-29
+      - 30-44
+      - 45-59
+      - 60-74
+      - 75 or older
+      required: true
+    - id: 4
+      name: location
+      label: Region or Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pandemic_impact
+      label: COVID-19 Has Personally Impacted Me
+      hint: null
+      type: select_one
+      options:
+      - Very significantly
+      - Somewhat
+      - Minimally
+      - Not at all
+      required: true
+    - id: 6
+      name: health_concern
+      label: Level of Health Concern
+      hint: How concerned are you about health risks
+      type: select_one
+      options:
+      - Extremely concerned
+      - Very concerned
+      - Somewhat concerned
+      - Not very concerned
+      - Not concerned at all
+      required: true
+    - id: 7
+      name: pandemic_severity
+      label: Severity of the Pandemic
+      hint: How serious is the COVID-19 pandemic
+      type: select_one
+      options:
+      - Extremely serious
+      - Very serious
+      - Moderately serious
+      - Slightly serious
+      - Not serious at all
+      required: true
+    - id: 8
+      name: government_response
+      label: Opinion on Government Response
+      hint: null
+      type: select_one
+      options:
+      - Strongly approve
+      - Approve
+      - Neutral
+      - Disapprove
+      - Strongly disapprove
+      required: false
+    - id: 9
+      name: media_coverage
+      label: Opinion on Media Coverage
+      hint: How fair is media reporting on COVID-19
+      type: select_one
+      options:
+      - Very fair and balanced
+      - Somewhat fair
+      - Neutral
+      - Somewhat biased
+      - Very biased
+      required: false
+    - id: 10
+      name: vaccination_importance
+      label: Importance of Vaccination
+      hint: null
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 11
+      name: public_health_measures
+      label: Opinion on Public Health Measures
+      hint: Masks, distancing, quarantine etc.
+      type: select_one
+      options:
+      - Strongly support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly oppose
+      required: false
+    - id: 12
+      name: pandemic_timeline
+      label: When Will Pandemic End
+      hint: null
+      type: select_one
+      options:
+      - Within next few months
+      - Within next year
+      - More than a year away
+      - Will never fully end
+      - Do not know
+      required: false
+    - id: 13
+      name: trusted_information_sources
+      label: Most Trusted Information Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Healthcare providers
+      - Government health agencies
+      - Academic institutions
+      - News organizations
+      - Social media
+      - Friends and family
+      - Religious leaders
+      required: false
+    - id: 14
+      name: economic_impact_concern
+      label: Concern About Economic Impact
+      hint: null
+      type: select_one
+      options:
+      - Very concerned
+      - Somewhat concerned
+      - Neutral
+      - Not very concerned
+      - Not concerned at all
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Share any thoughts about the pandemic
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Wooden Theme
+    pages:
+    - id: 1
+      name: rustic_header
+      label: -- Rustic Inquiry Form --
+      hint: Visually appealing and simple
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nature_of_inquiry
+      label: Nature of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Reservation
+      - Event Planning
+      - Store Inquiry
+      - Other
+      required: true
+    - id: 6
+      name: message_details
+      label: Message Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time_of_day
+      label: Best time to reach you
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 8
+      name: event_date
+      label: Date of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: number_of_people
+      label: Estimated Attendance
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_needed
+      label: Require follow up?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

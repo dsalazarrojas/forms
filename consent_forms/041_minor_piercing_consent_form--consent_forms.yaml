@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minor Piercing Consent Form
+    pages:
+    - id: 1
+      name: minor_piercing_consent_form_title
+      label: Minor Piercing Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Consent Forms
+      - Other
+      required: true
+    - id: 3
+      name: consent_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: minor_consent_minor_piercing_consent_form_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: minor_piercing_consent_form_author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: minor_piercing_consent_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: minor_consent_piercing_form_signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: true

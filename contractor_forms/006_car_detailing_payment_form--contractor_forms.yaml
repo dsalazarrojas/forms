@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Detailing Payment Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Service date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_information
+      label: Vehicle make, model, year
+      hint: e.g., 2020 Toyota Camry
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_color
+      label: Vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: detailing_package
+      label: Detailing package selected
+      hint: null
+      type: select_one
+      options:
+      - Basic Wash and Wax
+      - Standard Detailing
+      - Premium Detailing
+      - Full Interior Detailing
+      - Ceramic Coating
+      - Custom Package
+      required: true
+    - id: 8
+      name: additional_services
+      label: Additional services (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Engine Bay Cleaning
+      - Undercarriage Wash
+      - Wheel Cleaning
+      - Tire Shine
+      - Leather Conditioning
+      - Paint Protection
+      - Odor Treatment
+      - Window Tinting
+      required: false
+    - id: 9
+      name: service_subtotal
+      label: Service subtotal
+      hint: Amount before taxes and fees
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: discount_amount
+      label: Discount amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_amount
+      label: Tax amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_amount
+      label: Total amount due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 14
+      name: credit_card_type
+      label: Credit card type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Other
+      - N/A
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid in Full
+      - Deposit Paid
+      - Balance Due
+      - Payment Plan
+      required: true
+    - id: 16
+      name: deposit_amount
+      label: Deposit amount paid
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: remaining_balance
+      label: Remaining balance
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_due_date
+      label: Payment due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: receipt_preference
+      label: Receipt preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Print
+      - Both
+      - None
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special instructions or notes
+      hint: null
+      type: text
+      options: []
+      required: false

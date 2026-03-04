@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Precaution Agreement Form
+    pages:
+    - id: 1
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_consent
+      label: customer_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: salon_terms_and_conditions
+      label: salon_terms_and_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: salon_social_distancing
+      label: salon_social_distancing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_signature_date
+      label: customer_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: salon_precaution_policy
+      label: salon_precaution_policy
+      hint: null
+      type: text
+      options: []
+      required: false

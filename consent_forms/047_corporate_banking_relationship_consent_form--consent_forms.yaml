@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_banking_relationship_consent_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_id
+      label: Client ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Individual'', ''label'': ''Individual''}'
+      - '{''id'': 2, ''name'': ''Business'', ''label'': ''Business''}'
+      - '{''id'': 3, ''name'': ''Government Institution'', ''label'': ''Government
+        Institution''}'
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_established
+      label: Date Established
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: bank_branch
+      label: Bank Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bank_officer
+      label: Bank Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bank_phone
+      label: Bank Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: bank_email
+      label: Bank Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Given'', ''label'': ''Given''}'
+      - '{''id'': 2, ''name'': ''Not Given'', ''label'': ''Not Given''}'
+      required: false
+    - id: 16
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Signature 1'', ''label'': ''Signature 1''}'
+      - '{''id'': 2, ''name'': ''Signature 2'', ''label'': ''Signature 2''}'
+      - '{''id'': 3, ''name'': ''Signature 3'', ''label'': ''Signature 3''}'
+      required: false

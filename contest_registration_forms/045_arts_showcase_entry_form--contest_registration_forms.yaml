@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts Showcase Entry Form
+    pages:
+    - id: 1
+      name: artist_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram, Facebook, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: showcase_event_name
+      label: Showcase Event or Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: entry_category
+      label: Entry Category
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Mixed Media
+      - Installation
+      - Performance Art
+      - Video Art
+      - Other
+      required: true
+    - id: 9
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artwork_description
+      label: Artwork Description
+      hint: Concept, materials, process
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: artwork_value
+      label: Estimated Artwork Value or Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: artwork_image
+      label: Artwork Image Upload
+      hint: High-resolution photograph or digital file
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: creation_year
+      label: Year Artwork Was Created
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: artwork_availability
+      label: Is Artwork Available for Sale or Exhibition
+      hint: null
+      type: select_one
+      options:
+      - Yes - For Sale
+      - Yes - For Exhibition Only
+      - 'No'
+      required: false
+    - id: 16
+      name: artist_experience
+      label: Years of Professional Art Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: entry_fee
+      label: Entry Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: artist_statement
+      label: Artist Statement
+      hint: 100-150 words
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: first_time_submitting
+      label: First Time Submitting to This Showcase
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: rights_agreement
+      label: I Agree to Showcase Terms and Rights Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

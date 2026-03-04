@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Sponsorship Rights Consent Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Your professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: legal_representative
+      label: Legal Representative or Manager (if applicable)
+      hint: Name of authorized representative
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Sponsorship Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sponsor_name
+      label: Sponsor Company or Organization Name
+      hint: Name of the sponsoring entity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sponsorship_type
+      label: Type of Sponsorship
+      hint: What kind of sponsorship?
+      type: select_one
+      options:
+      - Performance Sponsorship
+      - Tour Sponsorship
+      - Album or Recording Sponsorship
+      - Event Sponsorship
+      - Equipment Sponsorship
+      - Financial Sponsorship
+      - Product Sponsorship
+      - Other
+      required: true
+    - id: 9
+      name: sponsorship_amount
+      label: Sponsorship Amount or Value (GBP)
+      hint: Value of the sponsorship
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Rights and Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: name_likeness_rights
+      label: Sponsor May Use Artist Name and Likeness
+      hint: Permission to use name, image, or likeness in marketing
+      type: select_one
+      options:
+      - Yes, full rights granted
+      - Yes, with limitations
+      - Limited use only
+      - No, do not use
+      required: true
+    - id: 12
+      name: social_media_rights
+      label: Sponsor May Use Social Media Posts
+      hint: Can sponsor share artist's social media content?
+      type: select_one
+      options:
+      - Yes, any content
+      - Yes, with approval
+      - Limited content only
+      - No, do not use
+      required: true
+    - id: 13
+      name: performance_rights
+      label: Sponsor May Use Performance Footage or Audio
+      hint: Rights to recordings of performances
+      type: select_one
+      options:
+      - Yes, unlimited rights
+      - Yes, limited to promotional use
+      - Yes, requires approval
+      - No rights granted
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Territory and Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: geographic_scope
+      label: Geographic Scope of Rights
+      hint: Where can sponsorship materials be used?
+      type: select_one
+      options:
+      - Worldwide
+      - Specific Country
+      - Specific Region
+      - Online Only
+      - Event Location Only
+      required: true
+    - id: 16
+      name: duration_of_rights
+      label: Duration of Sponsorship Rights
+      hint: How long are rights granted for?
+      type: select_one
+      options:
+      - Duration of sponsorship only
+      - 1 year after sponsorship ends
+      - 2 years after sponsorship ends
+      - Indefinite
+      - Specified date
+      required: true
+    - id: 17
+      name: end_date
+      label: Sponsorship End Date
+      hint: When does the sponsorship period end?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Exclusions and Limitations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: exclusive_sponsorship
+      label: Is This an Exclusive Sponsorship?
+      hint: Can artist work with competing sponsors?
+      type: select_one
+      options:
+      - Yes, exclusive rights
+      - Yes, exclusive within category
+      - No, non-exclusive
+      required: true
+    - id: 20
+      name: excluded_uses
+      label: Explicitly Excluded Uses
+      hint: What uses are NOT permitted?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Compensation and Royalties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_compensation
+      label: Additional Compensation for Rights
+      hint: Beyond sponsorship amount, additional fees?
+      type: select_one
+      options:
+      - No additional compensation
+      - Percentage of revenue
+      - Flat fee for rights
+      - To be negotiated
+      required: false
+    - id: 23
+      name: section_header_7
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: artist_consent
+      label: I Consent to the Terms and Rights Outlined Above
+      hint: Confirm you agree to all terms
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Consent
+      hint: Date you are providing this consent
+      type: date
+      options: []
+      required: true

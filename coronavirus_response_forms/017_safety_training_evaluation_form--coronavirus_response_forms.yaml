@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Training Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_trained
+      label: Date Trained
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - Basic Safety Training
+      - Enhanced Safety Training
+      - Comprehensive Safety Training
+      required: false
+    - id: 5
+      name: training_facilitator_name
+      label: Training Facilitator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_facilitator_phone
+      label: Training Facilitator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_facilitator_email
+      label: Training Facilitator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: safety_training_questions
+      label: Safety Training Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_evaluation
+      label: Training Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

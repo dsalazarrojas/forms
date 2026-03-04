@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funniest Content Submission Form
+    pages:
+    - id: 1
+      name: user_generated_content
+      label: Enter a funny joke or story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_upload
+      label: Add a funny picture or video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_content_type
+      label: Select content type
+      hint: null
+      type: select_one
+      options:
+      - Joke
+      - Story
+      - Video
+      - Picture
+      required: false
+    - id: 4
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_field
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_field
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

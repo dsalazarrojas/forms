@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Proxy Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Health Proxy Authorization Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name of Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_person_authorized
+      label: Name of Person Authorized
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address of Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: relation_to_you
+      label: Relationship to You
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: relationship_other
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relationship_other_other
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name_of_proxy
+      label: Name of Proxy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relationship_to_proxy
+      label: Relationship to Proxy
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 11
+      name: email
+      label: Email of Authorized Person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone of Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_of_proxy
+      label: Address of Proxy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_death
+      label: Date of Death (if deceased)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: relationship_to_your_family
+      label: Relationship to Your Family
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_of_proxy
+      label: Signatory of Proxy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: signature_of_authorizing_party
+      label: Signatory of Authorizing Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date_of_authorizing_party
+      label: Date of Signature of Authorizing Party
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_of_signature_of_proxy
+      label: Date of Signature of Proxy
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: signature_of_other_proxy
+      label: Signatory of Other Proxy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_date_of_other_proxy
+      label: Date of Signature of Other Proxy
+      hint: null
+      type: date
+      options: []
+      required: false

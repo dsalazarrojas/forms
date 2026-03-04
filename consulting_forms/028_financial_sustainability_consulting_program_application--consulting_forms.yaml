@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Sustainability Consulting Program Application
+    pages:
+    - id: 1
+      name: application_form
+      label: Apply for Financial Consulting Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Non-profit Organization
+      - Business
+      - Social Enterprise
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization applying for financial consulting support
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Name of person submitting application
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Contact Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: false

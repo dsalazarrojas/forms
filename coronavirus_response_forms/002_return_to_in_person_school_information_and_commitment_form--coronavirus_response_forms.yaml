@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To In Person School Information And Commitment Form
+    pages:
+    - id: 1
+      name: in_person_school_information_and_commitment_form
+      label: Parents Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parents_name
+      label: Parent Name
+      hint: Parent's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parents_email
+      label: Parents Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: Student's name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_grade
+      label: Student Grade
+      hint: Student's grade
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: parents_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true
+    - id: 8
+      name: are_students_committed
+      label: Are Students Committed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: student_consent
+      label: Student Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: student_absent_days
+      label: Student Absent Days
+      hint: Number of days absent
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: Reason for student's absence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: student_absent_date_range
+      label: Student Absent Date Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: student_absent_time_range
+      label: Student Absent Time Range
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: parents_absent_date_range
+      label: Parents Absent Date Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: parents_absent_time_range
+      label: Parents Absent Time Range
+      hint: null
+      type: time
+      options: []
+      required: true

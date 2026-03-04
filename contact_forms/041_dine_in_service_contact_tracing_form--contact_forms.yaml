@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dine In Service Contact Tracing Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dining_date
+      label: dining date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: dine_in_time
+      label: dine-in time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_number_alt
+      label: contact number (alt)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dining_duration
+      label: dining duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: visited_locations
+      label: visited locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visited_location
+      label: visited location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visited_date
+      label: visited date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: visited_time
+      label: visited time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: exposure_date
+      label: exposure date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exposure_time
+      label: exposure time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: travel_history
+      label: travel history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_companions
+      label: travel companions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_history
+      label: contact history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff
+      label: staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: staff_exposure
+      label: staff exposure
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: customer
+      label: customer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: family
+      label: family
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: other_locations
+      label: other locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

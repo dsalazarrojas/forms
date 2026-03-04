@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: subcontractor_information_form
+    pages:
+    - id: 1
+      name: subcontractor_information
+      label: subcontractor_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_city
+      label: company_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_state
+      label: company_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_zip
+      label: company_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_id_number
+      label: tax_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: subcontractor_number
+      label: subcontractor_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''Chat Jimmy''}'
+      - '{''id'': 2, ''name'': ''john_doe'', ''label'': ''john_doe''}'
+      - '{''id'': 3, ''name'': ''jane_doe'', ''label'': ''jane_doe''}'
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

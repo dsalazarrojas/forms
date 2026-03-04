@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canine Competition Entry Form
+    pages:
+    - id: 1
+      name: owner_first_name
+      label: Owner First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_last_name
+      label: Owner Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Owner Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_state
+      label: State or Province
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dog_name
+      label: Dog Name
+      hint: Registered name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dog_call_name
+      label: Dog Call Name
+      hint: Everyday name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dog_breed
+      label: Dog Breed
+      hint: Breed as registered
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dog_gender
+      label: Dog Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: dog_date_of_birth
+      label: Dog Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: dog_color_markings
+      label: Dog Color and Markings
+      hint: Coat description
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: registration_number
+      label: Kennel Club Registration Number
+      hint: AKC or other registry
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: microchip_number
+      label: Microchip Number
+      hint: ID number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: competition_class
+      label: Competition Class
+      hint: Entry category
+      type: select_one
+      options:
+      - Conformation - breed standard
+      - Obedience
+      - Agility
+      - Rally
+      - Junior handling
+      - Veteran class
+      - Puppy class
+      - Open class
+      required: true
+    - id: 18
+      name: division
+      label: Division or Level
+      hint: Competition level
+      type: select_one
+      options:
+      - Novice
+      - Open
+      - Utility
+      - Excellent
+      - Masters
+      - Championship
+      required: false
+    - id: 19
+      name: previous_wins
+      label: Previous Competition Wins
+      hint: Titles or awards
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: handler_name
+      label: Handler Name
+      hint: Who will handle dog
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: handler_age
+      label: Handler Age
+      hint: Age of handler
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: handler_relationship
+      label: Handler Relationship to Owner
+      hint: Relationship
+      type: select_one
+      options:
+      - Owner
+      - Family member
+      - Professional handler
+      - Friend
+      - Other
+      required: true
+    - id: 23
+      name: veterinary_contact
+      label: Veterinarian Name and Phone
+      hint: Vet contact info
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: vaccination_status
+      label: Are Vaccinations Current
+      hint: Health status
+      type: select_one
+      options:
+      - Yes - all current
+      - No - some overdue
+      - Unsure
+      required: true
+    - id: 25
+      name: health_certificate
+      label: Health Certificate Attached
+      hint: Veterinary certificate
+      type: select_one
+      options:
+      - Yes - attached
+      - Will bring to event
+      - Not required
+      required: true
+    - id: 26
+      name: temperament_assessment
+      label: Dog Temperament Assessment
+      hint: Behavior description
+      type: select_one
+      options:
+      - Excellent - very social
+      - Good - generally calm
+      - Fair - some reactivity
+      - Poor - aggressive tendencies
+      required: true
+    - id: 27
+      name: special_needs
+      label: Special Needs or Requirements
+      hint: Accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Contact person
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: liability_waiver
+      label: Liability Waiver Accepted
+      hint: Do you accept waiver
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 31
+      name: entry_fee_payment
+      label: Entry Fee Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Check
+      - Cash at event
+      - Already paid online
+      required: true
+    - id: 32
+      name: entry_fee_amount
+      label: Entry Fee Amount
+      hint: Amount paid
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: catalog_photo_permission
+      label: Photo Permission for Event Catalog
+      hint: Can we use photos
+      type: select_one
+      options:
+      - Yes - I grant permission
+      - No - do not use
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: entry_date
+      label: Entry Submission Date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Consulting Pilot Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: key_challenges
+      label: Key Challenges
+      hint: Please describe the key challenges you are facing.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: goals_and_objectives
+      label: Goals and Objectives
+      hint: Please describe the goals and objectives you are trying to achieve.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pilot_commitment
+      label: Pilot Commitment
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - I am interested in joining the pilot program.
+      - We are interested in joining the pilot program.
+      - I am interested in learning more about the pilot program.
+      required: true
+    - id: 9
+      name: consent_to_collect_data
+      label: Consent to Collect Data
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

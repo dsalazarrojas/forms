@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Details Form
+    pages:
+    - id: 1
+      name: contact_section_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name as you prefer to be addressed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Business or personal email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization name
+      hint: Employer or company name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role_title
+      label: Role or job title
+      hint: Your position within the organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No preference
+      required: true
+    - id: 8
+      name: best_time_to_contact
+      label: Best time to contact
+      hint: Provide a preferred time window
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: mailing_address
+      label: Mailing address
+      hint: Street address, city, state, postal code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_preferences
+      label: Contact list preferences
+      hint: Select areas you consent to receive communications about
+      type: select_multiple
+      options:
+      - Newsletters
+      - Product updates
+      - Promotions
+      - Events
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional notes
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

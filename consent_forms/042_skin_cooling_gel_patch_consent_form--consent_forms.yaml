@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Cooling Gel Patch Consent Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Info
+      hint: null
+      type: select_one
+      options:
+      - Cooling Gel Patch
+      - Other
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the information provided above
+      - I have not read and do not understand the information provided above
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_procedure_result
+      label: Medical Procedure Result
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Failed
+      required: true
+    - id: 20
+      name: medical_procedure_details
+      label: Medical Procedure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_status
+      label: Medical Condition Status
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Unstable
+      required: false
+    - id: 22
+      name: skin_temperature
+      label: Skin Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: medical_condition_treatment
+      label: Medical Condition Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Therapy
+      - Surgery
+      required: false
+    - id: 24
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true

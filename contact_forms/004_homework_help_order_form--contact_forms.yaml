@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Help Order Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_helper
+      label: Assigned helper
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''chatjimmy''}'
+      - '{''name'': ''chatlaura''}'
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''chatjimmy''}'
+      - '{''name'': ''chatlaura''}'
+      required: true
+    - id: 7
+      name: due_date
+      label: Due date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: due_time
+      label: Due time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_class
+      label: Student class
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''math''}'
+      - '{''name'': ''science''}'
+      required: true
+    - id: 12
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''math''}'
+      - '{''name'': ''science''}'
+      - '{''name'': ''English''}'
+      required: true

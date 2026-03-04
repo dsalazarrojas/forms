@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: oral_treatment_acceptance_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_terms
+      label: Treatment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_acceptance
+      label: Patient Acceptance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''acceptance'', ''label'': ''Acceptance''}'
+      - '{''value'': ''decline'', ''label'': ''Decline''}'
+      required: false
+    - id: 4
+      name: appointment_price
+      label: Appointment Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

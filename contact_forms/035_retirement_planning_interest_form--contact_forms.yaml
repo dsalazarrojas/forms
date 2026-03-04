@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Planning Interest Form
+    pages:
+    - id: 1
+      name: retirement_planning_interest_form
+      label: What is your current age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: retirement_planning_interest_form_age
+      label: What is your current age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: retirement_planning_interest_form_income
+      label: What is your annual income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: retirement_planning_interest_form_assets
+      label: What are your assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: retirement_planning_interest_form_investments
+      label: Do you have investments?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: retirement_planning_interest_form_investments_other
+      label: Other investments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: retirement_planning_interest_form_retirement_goals
+      label: What are your retirement goals
+      hint: null
+      type: select_one
+      options:
+      - Retirement
+      - Downsizing
+      - Travel
+      - Education
+      - Other
+      required: false
+    - id: 8
+      name: retirement_planning_interest_form_contact
+      label: How do you want us to contact you
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - Other
+      required: false
+    - id: 9
+      name: retirement_planning_interest_form_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: retirement_planning_interest_form_email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: retirement_planning_interest_form_phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false

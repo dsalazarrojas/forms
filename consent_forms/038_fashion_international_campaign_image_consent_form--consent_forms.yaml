@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion International Campaign Image Consent Form
+    pages:
+    - id: 1
+      name: user_input
+      label: form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: image_url
+      label: image_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: usage_type
+      label: usage_type
+      hint: null
+      type: select_multiple
+      options:
+      - Promotional
+      - Editorial
+      - Both
+      - None
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: image_resolution
+      label: image_resolution
+      hint: null
+      type: select_one
+      options:
+      - 4x5
+      - 6x7
+      - 7x8
+      - 8x10
+      - 10x12
+      - Other
+      required: true
+    - id: 6
+      name: image_capture_date
+      label: image_capture_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: image_capture_time
+      label: image_capture_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: image_usage_agreement
+      label: image_usage_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: fashion_brand
+      label: fashion_brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_agreement
+      label: user_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: fashion_agreement
+      label: fashion_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: image_usage_terms
+      label: image_usage_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: image_usage_url
+      label: image_usage_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: image_usage_note
+      label: image_usage_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: image_resolution_other
+      label: image_resolution_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_note
+      label: user_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: fashion_image_url
+      label: fashion_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fashion_agreement_url
+      label: fashion_agreement_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: image_capture_date_time
+      label: image_capture_date_time
+      hint: null
+      type: date
+      options: []
+      required: true

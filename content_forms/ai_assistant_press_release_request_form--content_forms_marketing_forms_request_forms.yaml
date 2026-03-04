@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Assistant Press Release Request Form
+    pages:
+    - id: 1
+      name: section_header_overview
+      label: '--- Request Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full name
+      hint: Enter the requestor's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email address
+      hint: Work email for approvals and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone number
+      hint: 'Optional: preferred contact number'
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: department_or_organization
+      label: Department or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: press_release_title
+      label: Proposed press release headline
+      hint: Concise headline (max 20 words)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: executive_summary
+      label: Executive summary of the announcement
+      hint: One-paragraph summary highlighting the news
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: announcement_type
+      label: Type of announcement
+      hint: null
+      type: select_one
+      options:
+      - Product launch
+      - Partnership
+      - Research/Report
+      - Award/Recognition
+      - Company news
+      - Executive announcement
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target audience
+      hint: Choose the primary audience for this release
+      type: select_one
+      options:
+      - Media (National)
+      - Media (Trade)
+      - Customers
+      - Partners
+      - Investors
+      - General Public
+      required: true
+    - id: 10
+      name: key_messages
+      label: Key messages (select all that apply)
+      hint: Pick up to 5
+      type: select_multiple
+      options:
+      - Product benefits
+      - Customer impact
+      - Market differentiation
+      - Financial/results
+      - Executive quote
+      - Call to action
+      required: true
+    - id: 11
+      name: embargo_status
+      label: Embargo status
+      hint: Select if content is embargoed
+      type: select_one
+      options:
+      - No embargo
+      - Embargo until specified date
+      - Contact communications for details
+      required: true
+    - id: 12
+      name: embargo_date
+      label: Embargo date
+      hint: Leave blank if not under embargo
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: preferred_publish_time
+      label: Preferred publish time
+      hint: Optional time for embargo or scheduling
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: supporting_assets
+      label: Supporting assets available (select all)
+      hint: Indicate which assets will be attached or supplied
+      type: select_multiple
+      options:
+      - High-res images
+      - Logos
+      - Executive bios
+      - Product screenshots
+      - Fact sheet
+      - Research data
+      required: false
+    - id: 15
+      name: draft_included
+      label: Is a draft press release provided?
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide later
+      - false
+      required: true
+    - id: 16
+      name: attachments_list
+      label: Attachments included
+      hint: List filenames or 'N/A'
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spokesperson_required
+      label: Is an official quote or spokesperson statement required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: suggested_spokesperson
+      label: Suggested spokesperson (name and title)
+      hint: Provide contact if different from requester
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: distribution_channels
+      label: Preferred distribution channels (select all)
+      hint: Select all channels to be used
+      type: select_multiple
+      options:
+      - Company newsroom
+      - Wire service
+      - Email to customers
+      - Social media
+      - Partner channels
+      - Industry outlets
+      required: false
+    - id: 20
+      name: approval_workflow
+      label: Required approvals
+      hint: Select all approvers required before publish
+      type: select_multiple
+      options:
+      - Communications lead
+      - Legal
+      - Product manager
+      - Executive sponsor
+      - Finance
+      required: true
+    - id: 21
+      name: required_by_date
+      label: Required by (deadline)
+      hint: Date press release must be published or ready
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: budget_estimate
+      label: Estimated budget for distribution or assets (USD)
+      hint: Enter amount in USD or leave blank
+      type: decimal
+      options: []
+      required: false
+    - id: 23
+      name: risks_or_constraints
+      label: Risks, compliance notes, or constraints
+      hint: Mention legal, regulatory, or privacy concerns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: media_list_targeting
+      label: Specific media outlets or journalists to target
+      hint: Provide links or contact names if available
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments or background information
+      hint: Include references, links, or context helpful to communications
+      type: text
+      options: []
+      required: false

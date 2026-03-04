@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: mp3_submission_form_template
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Content Forms
+      - Entertainment Forms
+      required: false
+    - id: 4
+      name: form_file
+      label: Form File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_audio_file
+      label: Audio File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_audio_type
+      label: Audio Type
+      hint: null
+      type: select_one
+      options:
+      - Music
+      - Podcast
+      - Project
+      required: false
+    - id: 7
+      name: form_audio_length
+      label: Audio Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

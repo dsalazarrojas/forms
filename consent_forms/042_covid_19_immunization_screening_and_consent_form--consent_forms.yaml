@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Immunization Screening And Consent Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: appointment_date
+      label: Vaccination Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Pre-Vaccination Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: severe_allergies
+      label: Severe Allergies to Vaccine Components
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 10
+      name: allergy_details
+      label: Allergy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_illness
+      label: Currently Ill with Fever or Infection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: current_medications
+      label: Currently Taking Medications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: medication_list
+      label: List of Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: immunocompromised
+      label: Immunocompromised or Weakened Immune System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 15
+      name: pregnancy_status
+      label: Pregnant or Breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - Pregnant
+      - Breastfeeding
+      - Neither
+      required: true
+    - id: 16
+      name: recent_vaccinations
+      label: Recent Vaccinations in Past Two Weeks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: section_header_3
+      label: -- COVID-19 History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: prior_covid_diagnosis
+      label: Prior COVID-19 Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 19
+      name: covid_diagnosis_date
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: section_header_4
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: benefits_understood
+      label: I understand the benefits of COVID-19 vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: risks_understood
+      label: I understand potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: questions_answered
+      label: My questions have been answered satisfactorily
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: consent_to_vaccinate
+      label: I consent to receive the COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: consent_signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

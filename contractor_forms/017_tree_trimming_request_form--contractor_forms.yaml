@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Trimming Request Form
+    pages:
+    - id: 1
+      name: tree_trimming_request_form
+      label: Tree Trimming Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services_needed
+      label: Services Needed
+      hint: Select all services that apply
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: service_1
+      label: Tree Trimming
+      hint: Select all services that apply
+      type: select_multiple
+      options:
+      - '{''option'': ''Tree Trimming''}'
+      - '{''option'': ''Tree Pruning''}'
+      required: true
+    - id: 8
+      name: service_2
+      label: Tree Removal
+      hint: Select all services that apply
+      type: select_multiple
+      options:
+      - '{''option'': ''Tree Removal''}'
+      - '{''option'': ''Tree Cutting''}'
+      required: false
+    - id: 9
+      name: service_3
+      label: Tree Shaping
+      hint: Select all services that apply
+      type: select_multiple
+      options:
+      - '{''option'': ''Tree Shaping''}'
+      - '{''option'': ''Tree Pruning''}'
+      required: false
+    - id: 10
+      name: service_4
+      label: Tree Chopping
+      hint: Select all services that apply
+      type: select_multiple
+      options:
+      - '{''option'': ''Tree Chopping''}'
+      - '{''option'': ''Tree Cutting''}'
+      required: false
+    - id: 11
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: tree_species
+      label: Tree Species
+      hint: Select tree species
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: tree_size
+      label: Tree Size
+      hint: Select tree size
+      type: select_one
+      options:
+      - '{''option'': ''Small''}'
+      - '{''option'': ''Medium''}'
+      - '{''option'': ''Large''}'
+      required: false
+    - id: 15
+      name: tree_height
+      label: Tree Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: tree_condition
+      label: Tree Condition
+      hint: Select tree condition
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: tree_location
+      label: Tree Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional Info
+      hint: Additional info about tree trimming request
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tree_diameter
+      label: Tree Diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tree_height_range
+      label: Tree Height Range
+      hint: Select tree height range
+      type: select_multiple
+      options:
+      - '{''option'': ''10-20 ft''}'
+      - '{''option'': ''20-50 ft''}'
+      - '{''option'': ''50-100 ft''}'
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Footage License Request Form
+    pages:
+    - id: 1
+      name: usage_purpose
+      label: Usage Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Film
+      - TV
+      - Digital
+      - Theatrical
+      - Other
+      required: true
+    - id: 2
+      name: distribution
+      label: Distribution Channel
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Theatrical
+      - DVD/BluRay
+      - Other
+      required: false
+    - id: 3
+      name: license_duration
+      label: License Duration
+      hint: null
+      type: select_one
+      options:
+      - Day
+      - Week
+      - Month
+      - Year
+      - Indefinite
+      required: true
+    - id: 4
+      name: usage_location
+      label: Usage Location
+      hint: Where will this footage be used?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: intended_audience
+      label: Intended Audience
+      hint: null
+      type: select_multiple
+      options:
+      - General Public
+      - Educational
+      - Commercial
+      required: false
+    - id: 6
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - TV
+      - Documentary
+      - Short
+      required: true
+    - id: 7
+      name: footage_format
+      label: Footage Format
+      hint: null
+      type: select_multiple
+      options:
+      - SD
+      - HD
+      - 4K
+      - 3D
+      required: false
+    - id: 8
+      name: resolution
+      label: Resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: aspect_ratio
+      label: Aspect Ratio
+      hint: "e.g. 4:3, 16:9, etc."
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: frame_rate
+      label: Frame Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: audio_codec
+      label: Audio Codec
+      hint: null
+      type: select_multiple
+      options:
+      - PCM
+      - WAV
+      - MP3
+      - AAC
+      required: false
+    - id: 12
+      name: video_codec
+      label: Video Codec
+      hint: null
+      type: select_multiple
+      options:
+      - H.264
+      - H.265
+      - VP9
+      required: false
+    - id: 13
+      name: color_mode
+      label: Color Mode
+      hint: null
+      type: select_multiple
+      options:
+      - Monochrome
+      - RGB
+      - YUV
+      required: false
+    - id: 14
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_multiple
+      options:
+      - MP4
+      - MOV
+      - AVI
+      - MKV
+      required: false
+    - id: 15
+      name: filename
+      label: Filename
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: email
+      label: Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: production_company
+      label: Production Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: license_terms
+      label: License Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_agreement
+      label: Submission Agreement
+      hint: null
+      type: text
+      options: []
+      required: true

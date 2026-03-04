@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Agency Communication Form
+    pages:
+    - id: 1
+      name: client_request
+      label: Client Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_request
+      label: Customer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_previous
+      label: Services Previous
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services_previous_comments
+      label: Services Previous Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services_upcoming
+      label: Services Upcoming
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: services_upcoming_comments
+      label: Services Upcoming Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

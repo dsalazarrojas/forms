@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Euthanasia Authorization Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: authorization_intro
+      label: Animal Euthanasia Authorization Form
+      hint: This form documents your consent for humane euthanasia of your pet
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: pet_information
+      label: Pet Information
+      hint: Patient details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_name
+      label: Pet's Name
+      hint: What do you call your pet
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Horse
+      - Other
+      required: true
+    - id: 10
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_age
+      label: Age
+      hint: Years old
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pet_color
+      label: Color and Markings
+      hint: Description
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_condition
+      label: Medical Condition or Reason
+      hint: Why euthanasia is being considered
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: diagnosis
+      label: Diagnosis
+      hint: Veterinary diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: prognosis
+      label: Prognosis
+      hint: Expected outcome
+      type: select_one
+      options:
+      - Terminal - no cure
+      - Poor quality of life
+      - Untreatable pain
+      - Severe behavioral issues
+      - Financial constraints
+      - Other
+      required: true
+    - id: 17
+      name: veterinarian_discussion
+      label: Veterinarian Discussion
+      hint: Information about the discussion with your vet
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vet_explanation
+      label: Has the Veterinarian Explained the Procedure
+      hint: Understanding
+      type: select_one
+      options:
+      - Yes - fully explained
+      - Yes - partially explained
+      - No - need more information
+      required: true
+    - id: 19
+      name: alternatives_discussed
+      label: Have Alternatives Been Discussed
+      hint: Other options
+      type: select_one
+      options:
+      - Yes - all alternatives
+      - Yes - some alternatives
+      - No alternatives available
+      required: true
+    - id: 20
+      name: alternatives_considered
+      label: What Alternatives Were Considered
+      hint: List options
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorization_statement
+      label: Authorization Statement
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: consent_euthanasia
+      label: I Hereby Authorize and Request Humane Euthanasia for My Pet
+      hint: Consent
+      type: select_one
+      options:
+      - Yes - I authorize
+      - false
+      required: true
+    - id: 23
+      name: understand_irreversible
+      label: I Understand This Procedure Is Irreversible
+      hint: Understanding
+      type: select_one
+      options:
+      - Yes - I understand
+      - false
+      required: true
+    - id: 24
+      name: understand_humane
+      label: I Understand the Procedure Will Be Performed Humanely
+      hint: Method understanding
+      type: select_one
+      options:
+      - Yes - I understand
+      - false
+      required: true
+    - id: 25
+      name: aftercare_options
+      label: Aftercare Options
+      hint: What happens after
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: aftercare_choice
+      label: Aftercare Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Private cremation - ashes returned
+      - Communal cremation - no ashes
+      - Home burial
+      - Pet cemetery burial
+      - Clinic disposal
+      - Undecided
+      required: true
+    - id: 27
+      name: memorial_items
+      label: Memorial Items
+      hint: Remembrances
+      type: select_multiple
+      options:
+      - Paw print
+      - Lock of fur
+      - Clay nose print
+      - Certificate
+      - None
+      required: false
+    - id: 28
+      name: present_during
+      label: Do You Wish to Be Present During the Procedure
+      hint: Presence
+      type: select_one
+      options:
+      - Yes - I will be present
+      - No - I prefer not to be
+      - Undecided
+      required: true
+    - id: 29
+      name: financial_responsibility
+      label: I Accept Financial Responsibility for This Procedure
+      hint: Payment agreement
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 30
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Provided by clinic
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: questions
+      label: Do You Have Any Questions
+      hint: Ask here
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: witness_name
+      label: Witness Name
+      hint: Clinic staff
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: Attending vet
+      type: text
+      options: []
+      required: true

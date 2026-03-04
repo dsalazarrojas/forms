@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Tracing Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_symptom_check
+      label: -- Health and Symptom Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: experiencing_symptoms
+      label: Are you currently experiencing any symptoms?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or Chills
+      - Cough
+      - Shortness of Breath
+      - Fatigue
+      - Muscle Aches
+      - Headache
+      - Loss of Taste or Smell
+      - Sore Throat
+      - Congestion
+      - Nausea
+      - None
+      required: true
+    - id: 8
+      name: symptom_onset_date
+      label: If yes, when did these symptoms first appear?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: section_exposure_details
+      label: -- Exposure and Contact History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: positive_test_status
+      label: Have you tested positive for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - Yes - confirmed by test
+      - No - negative test result
+      - No - have not been tested
+      - Awaiting results
+      required: true
+    - id: 11
+      name: exposure_known_contact
+      label: Have you been in close contact with someone who has tested positive?
+      hint: Close contact is within 6 feet for a total of 15 minutes or more
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 12
+      name: date_of_exposure
+      label: Date of Last Potential Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: list_of_contacts
+      label: Please list anyone you have had close contact with in the last 14 days
+      hint: Include family, friends, and coworkers
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: public_places_visited
+      label: Please list any public places visited in the last 14 days
+      hint: Restaurants, grocery stores, offices, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_travel_history
+      label: -- Travel History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: international_travel
+      label: Have you traveled internationally in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: travel_destination
+      label: If yes, where?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_declaration
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accuracy_confirmation
+      label: I confirm that the information provided is accurate to the best of my
+        knowledge
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 20
+      name: privacy_consent
+      label: Do you consent to sharing this information with public health authorities?
+      hint: This is for the purpose of contact tracing only
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

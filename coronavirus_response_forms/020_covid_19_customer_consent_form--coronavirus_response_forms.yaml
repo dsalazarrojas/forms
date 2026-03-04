@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Customer Consent Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- COVID-19 Customer Consent Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: visit_location
+      label: Location Visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: health_screening_pass
+      label: Completed Health Screening
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: temperature_check
+      label: Temperature Screening
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Elevated
+      - Not taken
+      required: true
+    - id: 11
+      name: covid_symptoms
+      label: COVID-19 Symptoms Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: symptoms_description
+      label: Describe Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recent_covid_contact
+      label: Contact with COVID-19 positive person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: section_header_3
+      label: -- Vaccination and History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: true
+    - id: 16
+      name: covid_history
+      label: Prior COVID-19 Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 17
+      name: section_header_4
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: risk_acknowledged
+      label: I acknowledge the risks associated with COVID-19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: safety_protocols_understood
+      label: I understand the safety protocols in place
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: responsibility_accepted
+      label: I accept responsibility for my own health and safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: consent_to_attend
+      label: I consent to attend and receive services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: information_truthful
+      label: All information provided is truthful and accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: section_header_5
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

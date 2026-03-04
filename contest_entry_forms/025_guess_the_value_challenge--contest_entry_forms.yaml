@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guess The Value Challenge
+    pages:
+    - id: 1
+      name: numeric_guess
+      label: Guess A Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: guess_reason
+      label: Why Did You Choose That Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

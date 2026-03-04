@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_social_responsibility_quotation_form
+    pages:
+    - id: 1
+      name: corporate_social_responsibility_initiative
+      label: Corporate Social Responsibility Initiative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: initiative_start_date
+      label: Initiative Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: initiative_end_date
+      label: Initiative End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: vendor_phone_number
+      label: Vendor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_price
+      label: Quote Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: quotation_notes
+      label: Quotation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

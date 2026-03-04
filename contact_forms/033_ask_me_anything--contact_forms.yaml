@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask Me Anything
+    pages:
+    - id: 1
+      name: ama_target
+      label: Who is this question for
+      hint: Name of the person or personality
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: asker_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asker_email
+      label: Your Email Address
+      hint: Optional - for a direct reply
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question_category_ama
+      label: Question Category
+      hint: null
+      type: select_one
+      options:
+      - Career and Education
+      - Personal Life and Hobbies
+      - Travel and Culture
+      - Random/Funny Questions
+      - Advice Request
+      required: true
+    - id: 5
+      name: the_question_ama
+      label: Your Question
+      hint: Keep it respectful and engaging
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: anonymous_flag_ama
+      label: Is this an anonymous question
+      hint: We will hide your name during the live session
+      type: select_one
+      options:
+      - Yes, keep me anonymous
+      - No, you can use my name
+      required: true
+    - id: 7
+      name: follower_duration_ama
+      label: How long have you followed this person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: asker_location_ama
+      label: Where are you from
+      hint: City or Country
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_link_ama
+      label: Your Website or Social Media Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publicity_consent_ama
+      label: I consent to my question being shared publicly
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true

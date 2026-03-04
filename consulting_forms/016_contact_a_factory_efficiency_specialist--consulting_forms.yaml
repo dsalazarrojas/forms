@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Factory Efficiency Specialist
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of the manufacturing facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_full_name
+      label: Contact Person Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_job_title
+      label: Job Title
+      hint: Your current position (e.g., Plant Manager, Operations Director)
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_location
+      label: Facility Location
+      hint: City and state/province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_efficiency_challenges
+      label: -- Efficiency Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_efficiency_bottlenecks
+      label: Primary Efficiency Bottlenecks
+      hint: What is the single biggest issue you are facing?
+      type: select_one
+      options:
+      - High Labor Costs
+      - Machine Downtime
+      - Low Throughput
+      - Quality Control Issues
+      - Supply Chain Inefficiency
+      - Energy/Utility Costs
+      - Outdated Technology/Software
+      required: true
+    - id: 10
+      name: description_of_current_challenges
+      label: Description of Current Challenges
+      hint: Provide more detail about your efficiency issues
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_monthly_loss
+      label: Estimated Monthly Loss due to Inefficiency
+      hint: Select a range
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,001 - $100,000
+      - $100,001+
+      required: false
+    - id: 12
+      name: section_efficiency_goals
+      label: -- Efficiency Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_efficiency_objective
+      label: Primary Efficiency Objective
+      hint: What do you hope to achieve?
+      type: select_multiple
+      options:
+      - Increase Throughput/Capacity
+      - Reduce Labor Costs
+      - Minimize Machine Downtime
+      - Improve Quality/Reduce Waste
+      - Lower Energy Consumption
+      - Automate Manual Processes
+      required: true
+    - id: 14
+      name: target_improvement_percentage
+      label: Target Improvement Percentage
+      hint: e.g., 20% increase in throughput
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: project_timeline
+      label: Project Timeline
+      hint: When would you like to begin the assessment?
+      type: select_one
+      options:
+      - ASAP
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else our specialist should know?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

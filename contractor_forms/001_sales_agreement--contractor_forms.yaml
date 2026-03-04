@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Agreement
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: payment_terms_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: delivery_terms
+      label: delivery_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: seller_notes
+      label: Seller's Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: buyer_notes
+      label: Buyer's Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms_frequency
+      label: Payment Terms Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

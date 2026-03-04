@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Purification Equipment Testing Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant / Location Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Person responsible for the location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: test_location
+      label: Test Location Address
+      hint: Where equipment will be placed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_details_header
+      label: -- Test Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: equipment_model
+      label: Equipment Model
+      hint: Unit being tested
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Test Start Date
+      hint: Install date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: Test End Date
+      hint: Removal date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: purpose
+      label: Purpose of Test
+      hint: Primary goal
+      type: select_one
+      options:
+      - Efficacy Testing
+      - Noise Level Monitoring
+      - Durability Check
+      - User Experience Feedback
+      required: true
+    - id: 9
+      name: risks_header
+      label: -- Risks and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: risk_acknowledgement
+      label: Risk Acknowledgement
+      hint: I understand potential noise, heat, or airflow
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 11
+      name: data_collection
+      label: Data Collection Agreement
+      hint: I allow data logging from the device
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 12
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: I can stop the test at any time
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: signature
+      label: Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: Today's date
+      type: date
+      options: []
+      required: true

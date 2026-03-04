@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Form For Miss & Mr Mbhashe 2019
+    pages:
+    - id: 1
+      name: name_input
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surname_input
+      label: surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number_input
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_input
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: birth_date_input
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age_input
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: select_one_input
+      label: title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mr''}'
+      - '{''id'': 2, ''label'': ''Miss''}'
+      - '{''id'': 3, ''label'': ''Mrs''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: select_multiple_input
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''category_1''}'
+      - '{''id'': 2, ''label'': ''category_2''}'
+      - '{''id'': 3, ''label'': ''category_3''}'
+      - '{''id'': 4, ''label'': ''category_4''}'
+      required: false
+    - id: 9
+      name: note_input
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: note_input_2
+      label: note_2
+      hint: null
+      type: note
+      options: []
+      required: false

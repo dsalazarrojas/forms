@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literary Magazine Story Submission
+    pages:
+    - id: 1
+      name: story
+      label: story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author
+      label: author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manuscript
+      label: manuscript
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: publication_history
+      label: publication_history
+      hint: null
+      type: select_multiple
+      options:
+      - Fiction
+      - Non-Fiction
+      - Poetry
+      required: false
+    - id: 5
+      name: file_uploads
+      label: file_uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: submission_hour
+      label: submission_hour
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: submission_minute
+      label: submission_minute
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: submission_second
+      label: submission_second
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: submission_date_time
+      label: submission_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submission_note
+      label: submission_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manuscript_type
+      label: manuscript_type
+      hint: null
+      type: select_one
+      options:
+      - Short Story
+      - Poem
+      required: true
+    - id: 16
+      name: story_word_count
+      label: story_word_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Under Review
+      - Accepted
+      - Rejected
+      required: true
+    - id: 18
+      name: submission_note_1
+      label: submission_note_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submission_note_2
+      label: submission_note_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submission_note_3
+      label: submission_note_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email_uploads
+      label: email_uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manuscript_uploads
+      label: manuscript_uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: story_uploads
+      label: story_uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date_time_uploads
+      label: submission_date_time_uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_note_uploads
+      label: submission_note_ups
+      hint: null
+      type: note
+      options: []
+      required: false

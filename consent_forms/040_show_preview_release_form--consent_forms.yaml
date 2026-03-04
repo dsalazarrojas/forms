@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Show Preview Release Form
+    pages:
+    - id: 1
+      name: show_preview_release_form
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email_type
+      label: participant_email_type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Work
+      - Other
+      required: true
+    - id: 6
+      name: participant_phone_type
+      label: participant_phone_type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Cell
+      required: true
+    - id: 7
+      name: is_minor
+      label: is_minor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: show_title
+      label: show_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: show_start_date
+      label: show_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: show_end_date
+      label: show_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: show_preview_release
+      label: show_preview_release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: promotional_recording
+      label: promotional_recording
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: participant_note
+      label: participant_note
+      hint: null
+      type: note
+      options: []
+      required: false

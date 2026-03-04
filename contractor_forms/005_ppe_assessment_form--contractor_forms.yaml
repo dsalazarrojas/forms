@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPE Assessment Form
+    pages:
+    - id: 1
+      name: ppe_assessment_form
+      label: ppe_assessment_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ppe_conducted_by
+      label: ppe_conducted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ppe_location
+      label: ppe_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ppe_equipment
+      label: ppe_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ppe_hazards
+      label: ppe_hazards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: ppe_control_measures
+      label: ppe_control_measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ppe_responsible_personnel
+      label: ppe_responsible_personnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ppe_reviewed_by
+      label: ppe_reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ppe_reviewed_date
+      label: ppe_reviewed_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: ppe_next_review
+      label: ppe_next_review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: ppe_review_frequency
+      label: ppe_review_frequency
+      hint: null
+      type: select_one
+      options:
+      - quarterly
+      - semiannually
+      - yearly
+      required: true
+    - id: 12
+      name: ppe_completed
+      label: ppe_completed
+      hint: null
+      type: select_multiple
+      options:
+      - completed
+      - not_completed
+      required: true

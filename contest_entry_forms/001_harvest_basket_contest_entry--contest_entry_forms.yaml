@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: harvest_basket_contest_entry
+    pages:
+    - id: 1
+      name: form_title
+      label: Harvest Basket Contest Entry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''fairs''}'
+      - '{''id'': 2, ''name'': ''markets''}'
+      - '{''id'': 3, ''name'': ''schools''}'
+      - '{''id'': 4, ''name'': ''local businesses''}'
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: photo_urls
+      label: Photo URLs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name_label
+      label: Contact Label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact E
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact P
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_address
+      label: Contact Ad
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_title
+      label: Contact T
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_url
+      label: Contact UR
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_business
+      label: Contact B
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_school
+      label: Contact S
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_market
+      label: Contact M
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_fair
+      label: Contact F
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_other
+      label: Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: form_submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: form_submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: contact_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_submission_user
+      label: Submission By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''assigned_tool''}'
+      - '{''id'': 2, ''name'': ''other''}'
+      required: true

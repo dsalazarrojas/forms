@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Content Distribution Request Form
+    pages:
+    - id: 1
+      name: school_info
+      label: School Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_request
+      label: Content Request
+      hint: Please describe the type of content you are requesting
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where do you want to distribute the content?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: target_audience
+      label: Target Audience
+      hint: Who is your target audience?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: content_type
+      label: Content Type
+      hint: What type of content do you want to distribute?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: submission_deadline
+      label: Submission Deadline
+      hint: When would you like to receive the content?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

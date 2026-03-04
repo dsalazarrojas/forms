@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Contact Form
+    pages:
+    - id: 1
+      name: section_community_contact_intro
+      label: -- Community Engagement Contact --
+      hint: Please fill out your contact information and details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_full_name_cta
+      label: Full Name of Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email_cta
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone_cta
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_dob_cta
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: resident_address_cta
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_community_engagement_cta
+      label: -- Community Engagement Interests --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_contact_topic_cta
+      label: Which contact topic applies to you
+      hint: null
+      type: select_one
+      options:
+      - General Inquiry
+      - Membership/Registration
+      - Event Coordination
+      - Support/Assistance
+      - Feedback/Suggestions
+      - Community Advocacy
+      required: true
+    - id: 9
+      name: preferred_contact_method_cta
+      label: What is your preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - In-person Visit
+      required: true
+    - id: 10
+      name: section_skills_experience_cta
+      label: -- Skills and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: key_skills_expertise_cta
+      label: What key skills or expertise would you bring to the community
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_community_experience_cta
+      label: Describe any previous community engagement experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_contacting_community_cta
+      label: Why are you interested in contacting the community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_acknowledgment_cta
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: resident_signature_digital_cta
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date_final_cta
+      label: Date of Contact
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: newsletter_opt_in_cta
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 18
+      name: referral_source_cta
+      label: How did you hear about this contact form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 19
+      name: emergency_contact_full_name_cta
+      label: Emergency Contact Person
+      hint: Someone not living with the resident
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone_cta
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

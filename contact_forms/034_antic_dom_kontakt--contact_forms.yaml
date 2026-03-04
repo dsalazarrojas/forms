@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antic Dom Kontakt
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Form --
+      hint: Complete the contact details to reach us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For reply and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: Your inquiry or message
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact_time
+      label: Preferred time to contact
+      hint: Local time zone reference if applicable
+      type: time
+      options: []
+      required: false

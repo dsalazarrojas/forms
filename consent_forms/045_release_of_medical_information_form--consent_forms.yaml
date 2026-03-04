@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Of Medical Information Form
+    pages:
+    - id: 1
+      name: release_of_medical_information_form_1
+      label: release_of_medical_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: owner
+      label: owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization_type
+      label: authorization_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_records_release
+      label: release_medical_records
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_health_info_release
+      label: release_other_health_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: other_health_info_details
+      label: other_health_info_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_health_info_authorized_party
+      label: other_health_info_authorized_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: authorized_by
+      label: authorized_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorization_date_signed
+      label: authorization_date_signed
+      hint: null
+      type: date
+      options: []
+      required: false

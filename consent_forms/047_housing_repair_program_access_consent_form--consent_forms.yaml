@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Repair Program Access Consent Form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_email
+      label: Resident Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: resident_phone
+      label: Resident Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_manager_name
+      label: Program Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_manager_phone
+      label: Program Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_manager_email
+      label: Program Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: resident_consent
+      label: Resident Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 9
+      name: reason_for_contact
+      label: Reason for Contact
+      hint: null
+      type: text
+      options: []
+      required: false

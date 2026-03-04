@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Suspension Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspension_date
+      label: Suspension date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_suspension
+      label: Reason for suspension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_provided
+      label: Service provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: customer_consent
+      label: Customer consent
+      hint: null
+      type: select_one
+      options:
+      - I have read, understand, and agree to the temporary service suspension.
+      - I do not have the authority to agree to the temporary service suspension.
+      - I have not reviewed the terms and conditions.
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_suspended
+      label: Service suspended
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reason_end_suspension
+      label: Reason end suspension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_service_suspended
+      label: Reason service suspended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_service_suspended_by
+      label: Reason service suspended by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reason_service_suspended_for
+      label: Reason service suspended for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reason_service_suspended_on
+      label: Reason service suspended on
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_suspended_by
+      label: Reason suspended by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_suspended_by_1
+      label: Reason suspended by 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reason_suspended_by_2
+      label: Reason suspended by 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reason_suspended_by_3
+      label: Reason suspended by 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reason_suspended_by_4
+      label: Reason suspended by 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reason_suspended_by_5
+      label: Reason suspended by 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reason_suspended_by_6
+      label: Reason suspended by 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reason_suspended_by_7
+      label: Reason suspended by 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reason_suspended_by_8
+      label: Reason suspended by 8
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween House Decorating Contest Entry Form
+    pages:
+    - id: 1
+      name: house_address
+      label: house_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: house_name
+      label: house_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: house_number
+      label: house_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: house_city
+      label: city
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''New York''}'
+      - '{''name'': ''Los Angeles''}'
+      - '{''name'': ''Chicago''}'
+      - '{''name'': ''Dallas''}'
+      required: false
+    - id: 5
+      name: house_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''CA''}'
+      - '{''name'': ''TX''}'
+      - '{''name'': ''IL''}'
+      - '{''name'': ''NY''}'
+      required: false
+    - id: 6
+      name: house_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: house_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: house_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contest_entry_type
+      label: contest_entry_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''yard''}'
+      - '{''name'': ''front_door''}'
+      - '{''name'': ''front_porch''}'
+      - '{''name'': ''back_door''}'
+      - '{''name'': ''back_porch''}'
+      required: false
+    - id: 10
+      name: house_decorating_type
+      label: house_decorating_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''spider_web''}'
+      - '{''name'': ''jack_o_lantern''}'
+      - '{''name'': ''ghost''}'
+      - '{''name'': ''skeleton''}'
+      - '{''name'': ''grave_yard''}'
+      - '{''name'': ''other''}'
+      required: false
+    - id: 11
+      name: house_description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: house_image
+      label: image
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''daytime''}'
+      - '{''name'': ''nighttime''}'
+      - '{''name'': ''daytime_and_nighttime''}'
+      required: false
+    - id: 13
+      name: entry_rules
+      label: entry_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: entry_terms
+      label: entry_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: entry_time
+      label: entry_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: entry_submitter
+      label: entry_submitter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''owner''}'
+      - '{''name'': ''resident''}'
+      - '{''name'': ''friend''}'
+      - '{''name'': ''family''}'
+      required: false
+    - id: 18
+      name: entry_submitter_role
+      label: entry_submitter_role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''homeowner''}'
+      - '{''name'': ''resident''}'
+      - '{''name'': ''family_member''}'
+      required: false
+    - id: 19
+      name: entry_submitter_phone
+      label: entry_submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: entry_submitter_email
+      label: entry_submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: entry_submitter_address
+      label: entry_submitter_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: entry_submitter_city
+      label: entry_submitter_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: entry_submitter_state
+      label: entry_submitter_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: entry_submitter_zip
+      label: entry_submitter_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: entry_submitter_image
+      label: entry_submitter_image
+      hint: null
+      type: text
+      options: []
+      required: false

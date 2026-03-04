@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Contact Information Form
+      hint: Please fill in your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position or Title
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Other
+      required: true
+    - id: 12
+      name: event_participation
+      label: Event Participation
+      hint: Are you registering for an event
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

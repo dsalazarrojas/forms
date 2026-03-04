@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: IV Therapy Injections Consent Form
+    pages:
+    - id: 1
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Penicillin''}'
+      - '{''id'': 2, ''name'': ''Other''}'
+      - '{''id'': 3, ''name'': ''None''}'
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: Describe your medical history
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Name'', ''label'': ''Name'', ''type'': ''text''}'
+      - '{''id'': 2, ''name'': ''Phone'', ''label'': ''Phone'', ''type'': ''text''}'
+      - '{''id'': 3, ''name'': ''Email'', ''label'': ''Email'', ''type'': ''text''}'
+      - '{''id'': 4, ''name'': ''Address'', ''label'': ''Address'', ''type'': ''text''}'
+      - '{''id'': 5, ''name'': ''Relationship'', ''label'': ''Relationship'', ''type'':
+        ''text''}'
+      - '{''id'': 6, ''name'': ''Contact'', ''label'': ''Contact'', ''type'': ''text''}'
+      - '{''id'': 7, ''name'': ''Phone'', ''label'': ''Phone'', ''type'': ''text''}'
+      - '{''id'': 8, ''name'': ''Email'', ''label'': ''Email'', ''type'': ''text''}'
+      - '{''id'': 9, ''name'': ''Address'', ''label'': ''Address'', ''type'': ''text''}'
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''type'': ''text''}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - '{''id'': 3, ''name'': ''Maybe'', ''label'': ''Maybe''}'
+      - '{''id'': 10, ''name'': ''Not Now'', ''label'': ''Not Now''}'
+      - '{''id'': 11, ''name'': ''Other'', ''label'': ''Other'', ''type'': ''text''}'
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

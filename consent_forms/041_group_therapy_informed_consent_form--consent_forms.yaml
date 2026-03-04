@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Therapy Informed Consent Form
+    pages:
+    - id: 1
+      name: group_therapy_informed_consent_form
+      label: group_therapy_informed_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_information
+      label: client_information
+      hint: null
+      type: select_one
+      options:
+      - Client's Name
+      - Date of Birth
+      - Address
+      - Contact Information
+      required: false
+    - id: 3
+      name: services_provided
+      label: services_provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: group_therapy_goals
+      label: group_therapy_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confidentiality
+      label: confidentiality
+      hint: null
+      type: select_multiple
+      options:
+      - Confidentiality
+      - Confidentiality
+      - Confidentiality
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Emergency Contact
+      required: false
+    - id: 7
+      name: emergency_details
+      label: emergency_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - Contact details
+      - Contact details
+      required: false
+    - id: 10
+      name: client_declaration
+      label: client_declaration
+      hint: null
+      type: select_one
+      options:
+      - Client Declaration
+      - Other
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: third-party-release-form
+    pages:
+    - id: 1
+      name: third_party_release_form
+      label: Third Party Release Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: third_party_name
+      label: Third Party Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: third_party_address
+      label: Third Party Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: third_party_phone
+      label: Third Party Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: third_party_email
+      label: Third Party Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: third_party_relationship
+      label: Third Party Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: third_party_signature_date
+      label: Third Party Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: third_party_agreement
+      label: Third Party Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: assignee_signature_date
+      label: Assignee Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

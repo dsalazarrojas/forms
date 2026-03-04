@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Accreditation Registration Form Template
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: A valid business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: street
+      label: Street
+      hint: A physical street
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: City
+      hint: A valid city
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Alabama''}'
+      - '{''id'': 2, ''label'': ''Alaska''}'
+      - '{''id'': 3, ''label'': ''Arizona''}'
+      - '{''id'': 4, ''label'': ''Arkansas''}'
+      - '{''id'': 5, ''label'': ''California''}'
+      - '{''id'': 6, ''label'': ''Colorado''}'
+      - '{''id'': 7, ''label'': ''Connecticut''}'
+      - '{''id'': 8, ''label'': ''Delaware''}'
+      - '{''id'': 9, ''label'': ''Florida''}'
+      - '{''id'': 10, ''label'': ''Georgia''}'
+      - '{''id'': 11, ''label'': ''Hawaii''}'
+      - '{''id'': 12, ''label'': ''Idaho''}'
+      - '{''id'': 13, ''label'': ''Illinois''}'
+      - '{''id'': 14, ''label'': ''Indiana''}'
+      - '{''id'': 15, ''label'': ''Iowa''}'
+      - '{''id'': 16, ''label'': ''Kansas''}'
+      - '{''id'': 17, ''label'': ''Kentucky''}'
+      - '{''id'': 18, ''label'': ''Louisiana''}'
+      - '{''id'': 19, ''label'': ''Maine''}'
+      - '{''id'': 20, ''label'': ''Maryland''}'
+      - '{''id'': 21, ''label'': ''Massachusetts''}'
+      - '{''id'': 22, ''label'': ''Michigan''}'
+      - '{''id'': 23, ''label'': ''Minnesota''}'
+      - '{''id'': 24, ''label'': ''Mississippi''}'
+      - '{''id'': 25, ''label'': ''Missouri''}'
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: A person to contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Service''}'
+      - '{''id'': 2, ''label'': ''Product''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: acc_status
+      label: Accreditation Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Accredited''}'
+      - '{''id'': 3, ''label'': ''Denied''}'
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

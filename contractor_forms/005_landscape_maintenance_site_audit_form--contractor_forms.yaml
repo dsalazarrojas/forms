@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landscape Maintenance Site Audit Form
+    pages:
+    - id: 1
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_description
+      label: site_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_status
+      label: site_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false
+    - id: 5
+      name: site_notes
+      label: site_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_photos
+      label: site_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: site_videos
+      label: site_videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_notes
+      label: maintenance_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Complete''}'
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: site_map_url
+      label: site_map_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_latitude
+      label: site_latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: site_longitude
+      label: site_longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: site_elevation
+      label: site_elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: project_id
+      label: project_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Complete''}'
+      required: false
+    - id: 20
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: site_survey_date
+      label: site_survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: site_survey_time
+      label: site_survey_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: site_inspection_date
+      label: site_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: site_inspection_time
+      label: site_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false

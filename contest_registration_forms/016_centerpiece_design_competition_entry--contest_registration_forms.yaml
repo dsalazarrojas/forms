@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Centerpiece Design Competition Entry
+    pages:
+    - id: 1
+      name: designer_info_header
+      label: -- Designer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: designer_full_name
+      label: Designer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: designer_email
+      label: Designer Email Address
+      hint: For competition updates and notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: designer_phone
+      label: Designer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: design_category_header
+      label: -- Competition Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: competition_category
+      label: Design Category
+      hint: Select the category that best fits your design
+      type: select_one
+      options:
+      - Floral Arrangement
+      - Sustainable / Eco-friendly
+      - Modern / Abstract
+      - Classic / Traditional
+      - Miniature Design
+      - Artistic Masterpiece
+      required: true
+    - id: 7
+      name: design_details_header
+      label: -- Design Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: design_title
+      label: Title of Design
+      hint: Provide a unique name for your centerpiece
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: design_description
+      label: Description of Design
+      hint: Briefly explain the concept and inspiration behind your work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: materials_used_header
+      label: -- Materials Used --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_materials
+      label: Primary Materials
+      hint: Select all that were used in your design
+      type: select_multiple
+      options:
+      - Fresh Flowers
+      - Recycled Materials
+      - Wood
+      - Metal
+      - Glass
+      - Fabric
+      - Other
+      required: true
+    - id: 12
+      name: design_specifications_header
+      label: -- Design Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: design_height_inches
+      label: Height of Design (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: design_width_inches
+      label: Width of Design (inches)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: photo_submission_header
+      label: -- Photo Submissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: photo_upload_status
+      label: Design Photo Upload Status
+      hint: Have you uploaded your design photos to our shared drive
+      type: select_one
+      options:
+      - Yes - Uploaded
+      - No - Will upload before deadline
+      - Link Provided in Comments
+      required: true
+    - id: 17
+      name: agreement_consent_header
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: rule_agreement
+      label: Competition Rule and Photo Consent
+      hint: Do you agree to the competition rules and for your work to be photographed
+      type: select_one
+      options:
+      - Yes - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: entry_submission_date
+      label: Entry Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

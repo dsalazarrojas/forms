@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insulation Specifications And Requirements
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 2
+      name: property_area
+      label: Property Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: insulation_needs
+      label: Insulation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insulation_type
+      label: Insulation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Blanket Insulation
+      - Rigid Insulation
+      - Radiant Barrier Insulation
+      - Spray Insulation
+      required: false
+    - id: 5
+      name: material_used
+      label: Material Used
+      hint: null
+      type: select_one
+      options:
+      - Wool
+      - Glass-Fiber
+      - Rock Wool
+      - Cellulose
+      required: false
+    - id: 6
+      name: thickness_required
+      label: Thickness Required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: area_in_sqft
+      label: Area In Sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: area_in_sqm
+      label: Area In SqM
+      hint: null
+      type: number
+      options: []
+      required: false

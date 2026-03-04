@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piano Moving Quote Request
+    pages:
+    - id: 1
+      name: piano_moving_quote_request
+      label: Piano Moving Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Piano Moving Quote
+      - Construction Quote
+      required: true
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: move_type
+      label: move_type
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Long Distance
+      required: true
+    - id: 7
+      name: move_date
+      label: move_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_time
+      label: move_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: moving_address
+      label: moving_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: moving_city
+      label: moving_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: moving_state
+      label: moving_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: moving_zip
+      label: moving_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: moving_country
+      label: moving_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_address
+      label: current_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_city
+      label: current_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_state
+      label: current_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_zip
+      label: current_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_country
+      label: current_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: piano_weight
+      label: piano_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: piano_height
+      label: piano_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: piano_width
+      label: piano_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: piano_depth
+      label: piano_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: estimated_piano_weight
+      label: estimated_piano_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

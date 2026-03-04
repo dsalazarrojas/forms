@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo entrepreneur
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: true
+    - id: 6
+      name: industry
+      label: Industry or Sector
+      hint: What industry are you in?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like to meet?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 1:00 PM - 3:00 PM
+      - 3:00 PM - 5:00 PM
+      - After 5:00 PM
+      - Flexible
+      required: true
+    - id: 9
+      name: appointment_format
+      label: Preferred Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-person meeting
+      - Video conference
+      - Phone call
+      - Flexible
+      required: true
+    - id: 10
+      name: session_duration
+      label: How much time do you need?
+      hint: Estimated session length
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - More than 2 hours
+      required: true
+    - id: 11
+      name: primary_challenge
+      label: What is your primary business challenge?
+      hint: Brief description of what you need help with
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_goals
+      label: What are your key business goals?
+      hint: Short and long-term objectives
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: strategic_focus
+      label: Where should strategy focus?
+      hint: Select top areas
+      type: select_multiple
+      options:
+      - Growth and expansion
+      - Market positioning
+      - Operational efficiency
+      - Technology and innovation
+      - Team and talent
+      - Financial planning
+      - Customer acquisition
+      - Product development
+      required: true
+    - id: 14
+      name: current_challenges
+      label: What current challenges are you facing?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Low revenue or profitability
+      - Market competition
+      - Limited resources
+      - Team performance
+      - Customer retention
+      - Technology gaps
+      - Cash flow management
+      - Scaling issues
+      required: true
+    - id: 15
+      name: decision_timeline
+      label: When do you need a strategy in place?
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 2 weeks
+      - Short-term - within 1 month
+      - Medium-term - within 3 months
+      - Long-term - within 6 months
+      - No specific timeline
+      required: true
+    - id: 16
+      name: budget_range
+      label: What is your budget for consulting?
+      hint: Rough estimate
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 - $5000
+      - $5000 - $10000
+      - $10000 - $25000
+      - $25000 - $50000
+      - $50000+
+      - Not sure
+      required: false
+    - id: 17
+      name: decision_makers
+      label: Who else should attend this meeting?
+      hint: Names and titles of key stakeholders
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: relevant_documents
+      label: Do you have relevant business documents?
+      hint: null
+      type: select_one
+      options:
+      - Yes, will bring to meeting
+      - Yes, will send in advance
+      - No, not available
+      - Not sure
+      required: true
+    - id: 19
+      name: consultant_experience
+      label: Have you worked with a business consultant before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once
+      - No, first time
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

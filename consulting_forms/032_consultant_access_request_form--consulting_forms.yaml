@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Access Request Form
+    pages:
+      - id: 1
+        name: section_consultant_information
+        label: -- Consultant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consultant_name
+        label: Consultant name
+        hint: Full name of consultant needing access
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Consultant firm or independent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: access_required_for
+        label: Access required for
+        hint: Reason for access or project reference
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: access_start_date
+        label: Access start date
+        hint: Date access should begin
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: access_end_date
+        label: Access end date
+        hint: Date access should end
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: access_level_needed
+        label: Access level needed
+        hint: Select level of access required
+        type: select_one
+        options:
+          - Site access only
+          - Document access
+          - System access
+        required: true
+      - id: 8
+        name: approver_name
+        label: Approver name
+        hint: Project or security approver
+        type: text
+        options: []
+        required: true

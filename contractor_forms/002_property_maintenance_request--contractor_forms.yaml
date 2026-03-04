@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Maintenance Request
+    pages:
+    - id: 1
+      name: maintenance_request_details
+      label: maintenance_request_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: request_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: requester
+      label: requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_id
+      label: property_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: requester_email
+      label: requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: requester_phone
+      label: requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requested_date
+      label: requested_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: requester_message
+      label: requester_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requestor
+      label: requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requested_date_range
+      label: requested_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: request_status_date
+      label: request_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: status_note
+      label: status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: requested_by_email
+      label: requested_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: requested_by_phone
+      label: requested_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: status_date
+      label: status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: text
+      options: []
+      required: false

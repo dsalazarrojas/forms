@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Festival Survey
+    pages:
+    - id: 1
+      name: event_id
+      label: festival_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_id
+      label: email_id
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': True, ''value'': True}'
+      required: false
+    - id: 6
+      name: tested_positive
+      label: tested_positive
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': True, ''value'': True}'
+      required: false
+    - id: 7
+      name: vaccinated
+      label: vaccinated
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''not_vaccinated'', ''value'': ''not_vaccinated''}'
+      - '{''label'': ''vaccinated'', ''value'': ''vaccinated''}'
+      required: false
+    - id: 8
+      name: fever_floated
+      label: fever_floated
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': True, ''value'': True}'
+      required: false
+    - id: 9
+      name: travel_histor
+      label: travel_histor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_restrictions
+      label: travel_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 11
+      name: mask_worn
+      label: mask_worn
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''not_worn'', ''value'': ''not_worn''}'
+      - '{''label'': ''worn'', ''value'': ''worn''}'
+      required: false
+    - id: 12
+      name: distancing_measures
+      label: distancing_measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''not_implemented'', ''value'': ''not_implemented''}'
+      - '{''label'': ''implemented'', ''value'': ''implemented''}'
+      required: false
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: festival_location
+      label: festival_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_from
+      label: travel_from
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: festival_date
+      label: festival_date
+      hint: null
+      type: date
+      options: []
+      required: false

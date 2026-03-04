@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expert Consultation Request
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_header_info
+      label: Information Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consultation_details
+      label: Consultation Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consultant_info
+      label: Consultant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_one
+      options:
+      - Consulting
+      - Meeting
+      - Other
+      required: false
+    - id: 7
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_method
+      label: Preferred Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 13
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

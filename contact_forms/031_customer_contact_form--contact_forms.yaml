@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Contact Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: Enter contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: Enter customer address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: customer_message
+      hint: Enter customer message
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

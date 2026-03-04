@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_quality_monitoring_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_locations
+      label: Monitoring Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: I understand and agree to have my water tested.
+      type: select_one
+      options:
+      - I understand and agree to have my water tested.
+      - I do not understand or I do not agree to have my water tested.
+      required: false
+    - id: 4
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: monitoring_duration
+      label: Monitoring Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Mail
+      required: false
+    - id: 8
+      name: test_frequency_unit
+      label: Test Frequency Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_method_unit
+      label: Contact Method Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: test_start_date
+      label: Test Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: test_start_time
+      label: Test Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: test_end_date
+      label: Test End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: test_end_time
+      label: Test End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tester_notes
+      label: Tester Notes
+      hint: null
+      type: note
+      options: []
+      required: false

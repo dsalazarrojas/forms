@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beautiful Day
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Where we can reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: Subject
+      hint: What is this regarding
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: Your message to us
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What best describes your message
+      type: select_one
+      options:
+      - General Question
+      - Support Request
+      - Feedback
+      - Partnership Opportunity
+      - Other
+      required: true
+    - id: 7
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true
+    - id: 8
+      name: best_time
+      label: Best Time to Contact
+      hint: If phone preferred
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any Time
+      required: false
+    - id: 9
+      name: newsletter_signup
+      label: Would You Like to Join Our Newsletter
+      hint: Stay updated
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Search Engine
+      - Advertisement
+      - Other
+      required: false

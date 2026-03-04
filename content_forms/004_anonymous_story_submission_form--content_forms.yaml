@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Story Submission Form
+    pages:
+    - id: 1
+      name: story_category
+      label: Story Category
+      hint: What type of story are you submitting
+      type: select_one
+      options:
+      - Personal Experience
+      - Community Story
+      - Historical Account
+      - Fiction
+      - Poetry
+      - News Tip
+      - Other
+      required: true
+    - id: 2
+      name: story_title
+      label: Story Title
+      hint: Give your story a title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: story_content
+      label: Your Story
+      hint: Write or paste your story here
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: word_count
+      label: Approximate Word Count
+      hint: Estimated length of your submission
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: content_warnings
+      label: Content Warnings
+      hint: Does your story contain sensitive content
+      type: select_multiple
+      options:
+      - None
+      - Violence
+      - Substance abuse
+      - Mental health topics
+      - Discrimination
+      - Sexual content
+      - Other sensitive topics
+      required: true
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: Who is this story intended for
+      type: select_one
+      options:
+      - General public
+      - Adults only
+      - Young adults
+      - Children
+      - Specific community
+      required: true
+    - id: 7
+      name: publication_consent
+      label: Publication Consent
+      hint: Are you allowing us to publish this story
+      type: select_one
+      options:
+      - Yes, publish anonymously
+      - Yes, with edits
+      - For review only, not for publication
+      required: true
+    - id: 8
+      name: story_format
+      label: Story Format
+      hint: What format is your submission
+      type: select_one
+      options:
+      - Written text
+      - Audio recording
+      - Video
+      - Mixed media
+      required: true
+    - id: 9
+      name: language
+      label: Language
+      hint: What language is your story in
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Mandarin
+      - Other
+      required: true
+    - id: 10
+      name: previous_publication
+      label: Has this story been published before
+      hint: Is this an original unpublished work
+      type: select_one
+      options:
+      - No, this is original
+      - Yes, previously published
+      - Partially published
+      required: true
+    - id: 11
+      name: author_background
+      label: Author Background
+      hint: Optional brief description about yourself
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_purpose
+      label: Purpose of Submission
+      hint: Why are you sharing this story
+      type: select_one
+      options:
+      - To inform
+      - To entertain
+      - To inspire
+      - To raise awareness
+      - To document
+      - Other
+      required: true
+    - id: 13
+      name: follow_up_contact
+      label: Would you like to be contacted about this submission
+      hint: Optional contact for editorial questions
+      type: select_one
+      options:
+      - Yes, I am open to contact
+      - No, leave anonymous
+      required: true
+    - id: 14
+      name: contact_email_optional
+      label: Contact Email
+      hint: Only if you selected yes above
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: Do you agree to our submission terms
+      type: select_one
+      options:
+      - Yes, I agree to all terms
+      - No, I do not agree
+      required: true

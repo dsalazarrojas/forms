@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Page Information Collection
+    pages:
+    - id: 1
+      name: page_information_collection_form
+      label: page_information_collection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_information_collection_description
+      label: page_information_collection_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_information_collection_category
+      label: page_information_collection_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: false
+    - id: 4
+      name: page_information_collection_tags
+      label: page_information_collection_tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Tag 1''}'
+      - '{''id'': 2, ''label'': ''Tag 2''}'
+      - '{''id'': 3, ''label'': ''Tag 3''}'
+      required: false
+    - id: 5
+      name: page_information_collection_date
+      label: page_information_collection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: page_information_collection_time
+      label: page_information_collection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_information_collection_note
+      label: page_information_collection_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_information_collection_email
+      label: page_information_collection_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: page_information_collection_phone
+      label: page_information_collection_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_information_collection_submit
+      label: page_information_collection_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_information_collection_cancel
+      label: page_information_collection_cancel
+      hint: null
+      type: text
+      options: []
+      required: false

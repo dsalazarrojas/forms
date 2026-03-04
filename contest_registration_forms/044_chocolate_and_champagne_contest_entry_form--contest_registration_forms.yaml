@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chocolate And Champagne Contest Entry Form
+    pages:
+    - id: 1
+      name: contestant_information
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contestant_name
+      label: Contestant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business or Brand Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_website
+      label: Business Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contestant_category
+      label: -- Contestant Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: entry_category
+      label: Entry Category
+      hint: null
+      type: select_one
+      options:
+      - Chocolate Creation
+      - Champagne Pairing
+      - Both Chocolate and Champagne
+      - Other
+      required: true
+    - id: 13
+      name: contestant_type
+      label: Contestant Type
+      hint: null
+      type: select_one
+      options:
+      - Amateur
+      - Semi-professional
+      - Professional
+      - Chef
+      - Chocolatier
+      required: true
+    - id: 14
+      name: entry_details
+      label: -- Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: entry_title
+      label: Entry Title
+      hint: Name of your chocolate or champagne creation
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: entry_description
+      label: Entry Description
+      hint: Detailed description of your entry
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: key_ingredients
+      label: Key Ingredients Used
+      hint: List main ingredients
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: preparation_time
+      label: Preparation Time Required
+      hint: In minutes or hours
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_features
+      label: Special Features or Innovations
+      hint: What makes your entry unique
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: champagne_details
+      label: -- Champagne Details (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: champagne_brand
+      label: Champagne Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: champagne_year
+      label: Champagne Vintage Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: pairing_notes
+      label: Pairing Notes with Chocolate
+      hint: How does it pair with your chocolate creation
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contest_rules
+      label: -- Contest Rules and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: agree_to_rules
+      label: I agree to all contest rules and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

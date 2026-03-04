@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Satisfaction Survey
+    pages:
+    - id: 1
+      name: project_satisfaction_survey_1
+      label: What is your overall project experience?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_satisfaction_survey_2
+      label: What was the quality of workmanship on the project?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 3
+      name: project_satisfaction_survey_3
+      label: How satisfied are you with the project timeline?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_satisfaction_survey_4
+      label: How likely are you to recommend this project to others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: project_satisfaction_survey_5
+      label: What did you find to be the biggest project challenge?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_satisfaction_survey_6
+      label: What could have been done differently on the project?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_satisfaction_survey_7
+      label: How satisfied are you with the communication from your project manager?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: project_satisfaction_survey_8
+      label: How satisfied are you with the project team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: project_satisfaction_survey_9
+      label: How easy was it to get in touch with the project team?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: project_satisfaction_survey_10
+      label: How satisfied are you with the overall project result?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: project_satisfaction_survey_11
+      label: What do you expect from the project team in future projects?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: project_satisfaction_survey_12
+      label: How likely are you to work with this project team again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Consulting Quotation Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quotation_details
+      label: Quotation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quotation_amount
+      label: Quotation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_signature
+      label: Form Signature
+      hint: null
+      type: note
+      options: []
+      required: false

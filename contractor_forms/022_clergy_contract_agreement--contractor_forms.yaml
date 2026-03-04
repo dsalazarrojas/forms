@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clergy Contract Agreement
+    pages:
+    - id: 1
+      name: agreement_intro
+      label: -- Clergy Contract Agreement --
+      hint: This document formalizes the assignment and responsibilities of the clergy
+        member.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clergy_name
+      label: Clergy Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: church_name
+      label: Name of Church/Congregation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assignment_title
+      label: Assignment Title
+      hint: e.g. Lead Pastor, Associate Rector, Youth Minister
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contract_term_header
+      label: -- Term and Duration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Effective Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: Contract End Date
+      hint: If applicable (fixed term)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: renewable_contract
+      label: Is this contract renewable?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Upon Review
+      required: true
+    - id: 9
+      name: responsibilities_header
+      label: -- Primary Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: liturgical_duties
+      label: Liturgical and Worship Duties
+      hint: Weekly services, sacraments, etc.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pastoral_care
+      label: Pastoral Care and Counseling
+      hint: Visitation, counseling hours, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: administrative_duties
+      label: Administrative and Committee Duties
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: compensation_header
+      label: -- Compensation and Benefits --
+      hint: Detailed terms should be attached separately
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: annual_salary
+      label: Annual Salary / Stipend ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: housing_allowance
+      label: Housing Allowance Provided?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Parsonage provided
+      required: true
+    - id: 16
+      name: benefits_included
+      label: Benefits Included
+      hint: null
+      type: select_multiple
+      options:
+      - Health Insurance
+      - Pension Plan
+      - Continuing Education Allowance
+      - Travel Reimbursement
+      - Vacation Time
+      required: false
+    - id: 17
+      name: signature_acknowledgement
+      label: I acknowledge and agree to the terms stated in this agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 18
+      name: date_of_agreement
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: board_approval_date
+      label: Date of Board/Vestry Approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: authorized_official
+      label: Name of Authorized Church Official
+      hint: null
+      type: text
+      options: []
+      required: true

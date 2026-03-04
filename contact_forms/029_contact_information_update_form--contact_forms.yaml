@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Update Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Update Contact Information --
+      hint: Use this form to update student or participant contact records
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: record_id
+      label: Record identifier
+      hint: Student or account ID if available
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_name
+      label: Guardian or parent name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Updated email for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Updated phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home address
+      hint: Updated street, city, state, postal code
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true
+    - id: 10
+      name: additional_updates
+      label: Additional updates
+      hint: Other changes to the contact record
+      type: text
+      options: []
+      required: false

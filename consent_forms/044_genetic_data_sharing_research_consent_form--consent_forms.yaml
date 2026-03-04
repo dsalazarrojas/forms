@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Genetic Data Sharing Research Consent Form
+    pages:
+    - id: 1
+      name: genetic_data_sharing_research_consent_form
+      label: genetic_data_sharing_research_consent_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_institution
+      label: researcher_institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: researcher_contact
+      label: researcher_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: genetic_data_sharing_purposes
+      label: genetic_data_sharing_purposes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: participant_informed_consent
+      label: participant_informed_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: data_sharing_agreement
+      label: data_sharing_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_consent_signed
+      label: participant_consent_signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: research_purposes_statement
+      label: research_purposes_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: data_sharing_statement
+      label: data_sharing_statement
+      hint: null
+      type: text
+      options: []
+      required: false

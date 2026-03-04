@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: future_medical_contact_consent_form
+    pages:
+    - id: 1
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_relationship
+      label: Relationship with Patient
+      hint: null
+      type: select_one
+      options:
+      - Contact as Parent
+      - Contact as Spouse
+      - Contact as Sibling
+      - Contact as Other
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Care Physician
+      - Specialist
+      - Other
+      required: false
+    - id: 7
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

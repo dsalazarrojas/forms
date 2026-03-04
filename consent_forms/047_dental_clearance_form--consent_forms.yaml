@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Clearance Form
+    pages:
+    - id: 1
+      name: dental_clearance_form_patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dental_clearance_form_date_of_last_visit
+      label: Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: dental_clearance_form_disease_process
+      label: Disease Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dental_clearance_form_medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dental_clearance_form_treatment_needed
+      label: Treatment Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dental_clearance_form_additional_treatment
+      label: Additional Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: dental_clearance_form_doctor_comments
+      label: Doctor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dental_clearance_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

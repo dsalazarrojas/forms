@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Health Research Story Publication Consent Form
+    pages:
+    - id: 1
+      name: research_story_publication_consent_form_participant
+      label: participant_permission
+      hint: null
+      type: select_multiple
+      options:
+      - Anonymously
+      - Personally identified
+      required: true
+    - id: 2
+      name: publication_purpose
+      label: what_is_the_publication_purpose
+      hint: null
+      type: select_one
+      options:
+      - Publication for research
+      - Publication for education
+      - Publication for social media
+      required: true
+    - id: 3
+      name: publication_medium
+      label: what_medium
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Online
+      - In-person events
+      required: true
+    - id: 4
+      name: publication_rights
+      label: participant_rights
+      hint: null
+      type: select_one
+      options:
+      - Exclusive rights
+      - Non-exclusive rights
+      - Rights to participant only
+      required: true
+    - id: 5
+      name: publication_timeframe
+      label: when_would_you_like_to_publish
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 1 year
+      - 5 years
+      required: true
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_story
+      label: research_story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_story_purpose
+      label: research_story_purpose
+      hint: null
+      type: select_one
+      options:
+      - For academic purposes
+      - For personal development
+      - For professional development
+      required: true
+    - id: 11
+      name: research_story_anonymity
+      label: research_story_anonymity
+      hint: null
+      type: select_one
+      options:
+      - Anonymously
+      - Personally identified
+      required: true
+    - id: 12
+      name: research_story_rights
+      label: research_story_rights
+      hint: null
+      type: select_one
+      options:
+      - Exclusive rights
+      - Non-exclusive rights
+      - Rights to participant only
+      required: true
+    - id: 13
+      name: research_story_timeframe
+      label: research_story_timeframe
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 1 year
+      - 5 years
+      required: true
+    - id: 14
+      name: consent_to_publication
+      label: consent_to_publication
+      hint: null
+      type: select_multiple
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 15
+      name: consent_note
+      label: consent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: research_story_purpose_note
+      label: research_story_purpose_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: publication_purpose_note
+      label: publication_purpose_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_note
+      label: participant_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: research_story_anonymity_note
+      label: research_story_anonymity_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: research_story_rights_note
+      label: research_story_rights_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: research_story_timeframe_note
+      label: research_story_timeframe_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_name_note
+      label: participant_name_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_email_note
+      label: participant_email_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_phone_note
+      label: participant_phone_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: research_story
+      label: research_story
+      hint: Enter research story
+      type: text
+      options: []
+      required: true

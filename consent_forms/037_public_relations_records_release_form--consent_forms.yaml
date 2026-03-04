@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Relations Records Release Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_period
+      label: Consent Period
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 5 years
+      required: false
+    - id: 9
+      name: use_information
+      label: Use of Information
+      hint: null
+      type: select_multiple
+      options:
+      - Public relations activities
+      - Marketing
+      - Research
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: other_information_use
+      label: Other Information Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Staff
+      - Other
+      required: false

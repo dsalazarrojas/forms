@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Content Access Authorization Form
+    pages:
+    - id: 1
+      name: organization_id
+      label: User Organization
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: access_type
+      label: Access Type
+      hint: User, Organization
+      type: select_one
+      options:
+      - User
+      - Organization
+      required: true
+    - id: 4
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: valid_until
+      label: Valid Until
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

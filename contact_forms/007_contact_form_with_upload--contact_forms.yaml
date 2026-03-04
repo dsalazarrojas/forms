@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Upload
+    pages:
+    - id: 1
+      name: header
+      label: Formulario de Contato com Upload
+      hint: Portuguese Contact Form
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nome_completo
+      label: Nome Completo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_contato
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: telefone
+      label: Telefone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assunto
+      label: Assunto
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mensagem
+      label: Mensagem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: upload_confirm
+      label: Voce tem arquivos para enviar?
+      hint: Confirm if you have files to upload
+      type: select_one
+      options:
+      - Sim
+      - Nao
+      required: true
+    - id: 8
+      name: file_description
+      label: Descricao do Arquivo
+      hint: Descreva o que voce esta enviando
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_type
+      label: Tipo de Arquivo
+      hint: null
+      type: select_one
+      options:
+      - Imagem
+      - Video
+      - Documento
+      - Outro
+      required: false
+    - id: 10
+      name: data_envio
+      label: Data
+      hint: null
+      type: date
+      options: []
+      required: true

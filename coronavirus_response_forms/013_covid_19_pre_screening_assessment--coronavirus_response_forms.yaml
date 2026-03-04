@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Pre Screening Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: person_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: person_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: person_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: symptoms_header
+      label: -- Symptoms Checklist --
+      hint: Are you currently experiencing any of the following?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: symptom_fever
+      label: Fever (100.4 F or higher)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: symptom_cough
+      label: New or worsening dry cough
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: symptom_fatigue
+      label: Unusual fatigue or muscle aches
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: symptom_loss_smell
+      label: New loss of taste or smell
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_exposure
+      label: -- Exposure and Travel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: travel_history
+      label: Have you traveled outside the state/country in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: contact_positive
+      label: Have you had close contact with a confirmed COVID-19 case in the last
+        14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: assessment_recommendation
+      label: Based on your answers, our recommendation is
+      hint: null
+      type: select_one
+      options:
+      - Proceed to entry
+      - Please stay home and consult a doctor
+      - Further screening required
+      required: true

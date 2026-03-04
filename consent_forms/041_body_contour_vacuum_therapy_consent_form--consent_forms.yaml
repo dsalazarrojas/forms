@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Contour Vacuum Therapy Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: treatment_area
+      label: Treatment Area
+      hint: Which area will be treated?
+      type: select_one
+      options:
+      - Abdomen
+      - Thighs
+      - Buttocks
+      - Arms
+      - Back
+      - Multiple Areas
+      required: true
+    - id: 11
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: Planned sessions
+      type: select_one
+      options:
+      - 1 Session
+      - 4 Sessions
+      - 8 Sessions
+      - 12 Sessions
+      - Package Deal
+      required: true
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any relevant conditions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you pregnant or nursing?
+      type: select_one
+      options:
+      - false
+      - Yes, Pregnant
+      - Yes, Nursing
+      required: true
+    - id: 16
+      name: blood_disorders
+      label: Blood Disorders
+      hint: Do you have any blood disorders?
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Any skin conditions in treatment area?
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 18
+      name: recent_surgeries
+      label: Recent Surgeries
+      hint: Any surgeries in last 6 months?
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: procedure_explained
+      label: Procedure Explained
+      hint: Has the procedure been explained?
+      type: select_one
+      options:
+      - Yes, Completely
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 20
+      name: risks_understood
+      label: Risks Understood
+      hint: Do you understand the risks?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: potential_side_effects
+      label: Potential Side Effects Understood
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temporary Redness
+      - Bruising
+      - Swelling
+      - Tenderness
+      - Skin Sensitivity
+      - None
+      required: true
+    - id: 22
+      name: alternative_treatments
+      label: Alternative Treatments Discussed
+      hint: Have alternatives been discussed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: questions_answered
+      label: All Questions Answered
+      hint: Have all your questions been answered?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I understand this is voluntary
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 25
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: provider_signature
+      label: Provider Signature
+      hint: Practitioner name
+      type: text
+      options: []
+      required: false

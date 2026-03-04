@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Release Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: Provide reason for holiday request.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_admin_signature
+      label: School Admin Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: holiday
+      label: Holiday
+      hint: null
+      type: select_one
+      options:
+      - Christmas
+      - Thanksgiving
+      - New Years
+      - Easter
+      - Independence Day
+      - Presidents Day
+      - MLK Day
+      - Halloween
+      - Labor Day
+      required: false
+    - id: 11
+      name: holiday_date
+      label: Holiday Date
+      hint: null
+      type: date
+      options: []
+      required: false

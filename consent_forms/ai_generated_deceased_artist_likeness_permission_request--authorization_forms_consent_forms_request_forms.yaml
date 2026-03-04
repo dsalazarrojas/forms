@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Generated Deceased Artist Likeness Permission Request
+    pages:
+    - id: 1
+      name: header_request_info
+      label: '--- Request Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Date of request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_type
+      label: Type of request
+      hint: null
+      type: select_one
+      options:
+      - New permission request
+      - Renewal of existing permission
+      - Modification to existing permission
+      - Commercial license extension
+      required: true
+    - id: 4
+      name: applicant_full_name
+      label: Full name of applicant
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email address
+      hint: We'll contact you at this address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: applicant_organization
+      label: Organization or company name
+      hint: If requesting on behalf of an entity
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: header_artist_info
+      label: '--- Deceased Artist Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: artist_full_name
+      label: Full name of deceased artist
+      hint: As known publicly
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: artist_date_of_death
+      label: Date of death
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: artist_profession
+      label: Primary profession/field of the artist
+      hint: null
+      type: select_one
+      options:
+      - Visual artist
+      - Musician/Singer
+      - Actor/Performer
+      - Writer/Author
+      - Photographer
+      - Designer
+      - Sculptor
+      - Other
+      required: true
+    - id: 12
+      name: estate_representative
+      label: Name of estate representative or rights holder
+      hint: Who currently holds the rights
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: header_usage_info
+      label: '--- Intended Usage Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: intended_use
+      label: Intended use of AI-generated likeness
+      hint: Describe the specific purpose
+      type: select_multiple
+      options:
+      - Digital art exhibition
+      - Documentary film
+      - Educational content
+      - Commercial advertisement
+      - Video game character
+      - Merchandise design
+      - Social media content
+      - Virtual reality experience
+      required: true
+    - id: 15
+      name: distribution_channels
+      label: Distribution channels
+      hint: Where will the content be published?
+      type: select_multiple
+      options:
+      - Streaming platform
+      - Television broadcast
+      - Online video platforms
+      - Print publication
+      - Art gallery exhibition
+      - Mobile application
+      - Social media
+      - Physical merchandise
+      required: true
+    - id: 16
+      name: commercial_purpose
+      label: Is this for commercial purposes?
+      hint: null
+      type: select_one
+      options:
+      - Yes, for profit
+      - No, non-profit educational
+      - No, personal/artistic project
+      - Undecided
+      required: true
+    - id: 17
+      name: estimated_audience_size
+      label: Estimated audience size
+      hint: Approximate number of viewers/users
+      type: integer
+      options: []
+      required: false
+    - id: 18
+      name: project_timeline
+      label: Project timeline
+      hint: When does the project need to be completed?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: compensation_offered
+      label: Compensation offered to estate
+      hint: Amount in USD
+      type: decimal
+      options: []
+      required: false
+    - id: 20
+      name: header_additional_info
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: project_description
+      label: Detailed project description
+      hint: Explain the nature and goals of your project
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: ai_methodology
+      label: Description of AI methodology
+      hint: How will the artist's likeness be recreated?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: similar_artists
+      label: Artists with similar style (for reference)
+      hint: Names of living artists with comparable style
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: applicant_signature
+      label: Applicant signature
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or special considerations
+      hint: Any other information relevant to your request
+      type: text
+      options: []
+      required: false

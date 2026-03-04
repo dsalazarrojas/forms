@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_facility_safety_inspection_consent_form
+    pages:
+    - id: 1
+      name: facility_inspection
+      label: Facility Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: facility_inspection_schedule
+      label: Facility Inspection Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: facility_inspection_comments
+      label: Facility Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_inspection_frequency
+      label: Facility Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: facility_inspection_type
+      label: Facility Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: facility_inspection_frequency_2
+      label: Frequency of Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: facility_inspection_frequency_3
+      label: Inspections Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false

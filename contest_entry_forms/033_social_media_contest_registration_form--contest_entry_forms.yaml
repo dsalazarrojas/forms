@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_contest_registration_form
+    pages:
+    - id: 1
+      name: social_media_platform
+      label: Facebook
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: username
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: social_media_handle
+      label: Social Media Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contest
+      label: Contest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_entered
+      label: Date Entered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_entered
+      label: Time Entered
+      hint: null
+      type: time
+      options: []
+      required: false

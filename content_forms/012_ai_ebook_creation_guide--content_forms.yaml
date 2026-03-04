@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Ebook Creation Guide
+    pages:
+    - id: 1
+      name: project_overview_header
+      label: '--- Ebook Project Overview ---'
+      hint: Define the scope of your AI-assisted ebook project.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creator_full_name
+      label: Creator / Lead Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ebook_title
+      label: Proposed Ebook Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_topic
+      label: Primary Topic / Niche
+      hint: e.g., Digital Marketing, Healthy Cooking, Python for Beginners
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_audience_header
+      label: '--- Audience and Strategy ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: target_audience_profile
+      label: Target Audience Profile
+      hint: Who is this ebook for?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reader_expertise_level
+      label: Reader Expertise Level
+      hint: null
+      type: select_one
+      options:
+      - label: Absolute Beginner
+        value: beginner
+      - label: Intermediate / Enthusiast
+        value: intermediate
+      - label: Professional / Expert
+        value: expert
+      required: true
+    - id: 8
+      name: ebook_objectives
+      label: Primary Objectives
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Lead Generation (List building)
+        value: lead_gen
+      - label: Educational (Course companion)
+        value: educational
+      - label: Authority Building (Thought leadership)
+        value: authority
+      - label: Direct Sales (Revenue generation)
+        value: sales
+      required: true
+    - id: 9
+      name: content_details_header
+      label: '--- Content and Format ---'
+      hint: Specify the structure and style.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: estimated_word_count
+      label: Estimated Word Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: brand_tone_voice
+      label: Desired Tone of Voice
+      hint: null
+      type: select_one
+      options:
+      - label: Formal & Academic
+        value: formal
+      - label: Conversational & Casual
+        value: conversational
+      - label: Inspirational & Bold
+        value: inspirational
+      - label: Technical & Precise
+        value: technical
+      required: true
+    - id: 12
+      name: outline_summary
+      label: Proposed Chapter Outline
+      hint: Briefly list the main chapters or sections.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ai_tools_to_use
+      label: AI Tools to be Employed
+      hint: Select the tools you plan to use for generation/editing.
+      type: select_multiple
+      options:
+      - label: OpenAI (ChatGPT/GPT-4)
+        value: openai
+      - label: Anthropic (Claude)
+        value: anthropic
+      - label: Midjourney (Illustrations)
+        value: midjourney
+      - label: Jasper / Copy.ai
+        value: jasper
+      - label: Grammarly / ProWritingAid
+        value: grammar_tools
+      required: false
+    - id: 14
+      name: visual_elements
+      label: Required Visual Elements
+      hint: null
+      type: select_multiple
+      options:
+      - label: AI-Generated Illustrations
+        value: ai_images
+      - label: Stock Photography
+        value: stock_photos
+      - label: Data Charts & Infographics
+        value: infographics
+      - label: Screenshots / Tutorials
+        value: screenshots
+      required: false
+    - id: 15
+      name: export_format_preference
+      label: Preferred Export Format
+      hint: null
+      type: select_one
+      options:
+      - label: PDF (Standard Layout)
+        value: pdf
+      - label: EPUB (Reflowable text)
+        value: epub
+      - label: MOBI/Kindle
+        value: mobi
+      - label: Google Doc / MS Word
+        value: docx
+      required: true
+    - id: 16
+      name: project_deadline
+      label: Target Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Requirements or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

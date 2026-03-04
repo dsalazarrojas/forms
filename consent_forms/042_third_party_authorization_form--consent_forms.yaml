@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Third Party Authorization Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: power_of_attorney
+      label: Power of Attorney
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Unknown''}'
+      required: false
+    - id: 8
+      name: entity_name
+      label: Entity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entity_type
+      label: Entity Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Individual''}'
+      - '{''id'': 2, ''name'': ''Organization''}'
+      required: false
+    - id: 10
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''First Signer''}'
+      - '{''id'': 2, ''name'': ''Second Signer''}'
+      required: false
+    - id: 15
+      name: signed_by_title
+      label: Signed By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signers_title
+      label: Signers Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signers_address
+      label: Signers Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signers_contact_number
+      label: Signers Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signers_email
+      label: Signers Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: third_party_authorization_form
+      label: Third Party Authorization Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: signers_entity_name
+      label: Signers Entity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signers_entity_type
+      label: Signers Entity Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Individual''}'
+      - '{''id'': 2, ''name'': ''Organization''}'
+      required: false
+    - id: 25
+      name: signers_entity_address
+      label: Signers Entity Address
+      hint: null
+      type: text
+      options: []
+      required: false

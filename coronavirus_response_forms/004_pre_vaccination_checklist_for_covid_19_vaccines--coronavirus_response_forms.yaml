@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: pre_vaccination_checklist_for_covid_19_vaccines
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: select_multiple
+      options:
+      - Patient Name
+      - Date of Birth
+      - Patient ID
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - Penicillin
+      - Amoxicillin
+      - Ibuprofen
+      - Aspirin
+      required: false
+    - id: 4
+      name: vaccinations_received
+      label: Vaccinations Received
+      hint: null
+      type: select_multiple
+      options:
+      - Flu (inactivated)
+      - MMR
+      - Meningococcal
+      - Diphtheria
+      - Tetanus
+      - Pertussis
+      - Measles
+      - Hepatitis A
+      - Hepatitis B
+      - HPV
+      - COVID-19 Vaccine
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Heart disease
+      - Lung disease
+      - Kidney disease
+      - Liver disease
+      - HIV/AIDS
+      - Cancer
+      required: false
+    - id: 6
+      name: medication
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Amoxicillin
+      - Prednisone
+      - Amlodipine
+      - Lisinopril
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Friend
+      - Other
+      required: false
+    - id: 8
+      name: next_of_contact
+      label: Next of Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Friend
+      - Other
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: consent_given_by
+      label: Consent Given By
+      hint: null
+      type: select_multiple
+      options:
+      - MD
+      - RN
+      - LPN
+      required: false

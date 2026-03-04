@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Sleep Policy Acknowledgement Form
+    pages:
+    - id: 1
+      name: acknowledgement_date
+      label: Acknowledgement Date
+      hint: Date of policy acknowledgement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: child_room_or_class
+      label: Child Room or Class
+      hint: Assigned room or class
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: policy_received
+      label: Sleep Policy Received
+      hint: Have you received a copy of the sleep policy?
+      type: select_one
+      options:
+      - Yes, I have received and read it
+      - Yes, but have not read it yet
+      - No, please provide a copy
+      required: true
+    - id: 12
+      name: policy_understanding
+      label: Policy Understanding
+      hint: Do you understand the sleep policy requirements?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need clarification
+      required: true
+    - id: 13
+      name: safe_sleep_practices
+      label: Safe Sleep Practices
+      hint: Do you understand safe sleep practices for infants?
+      type: select_one
+      options:
+      - Yes, back to sleep positioning
+      - Yes, firm sleep surface
+      - Yes, no loose bedding
+      - Yes, all safe sleep practices
+      - No, need more information
+      required: true
+    - id: 14
+      name: nap_schedule_understanding
+      label: Nap Schedule Understanding
+      hint: Do you understand the center's nap schedule?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, need more information
+      required: true
+    - id: 15
+      name: child_sleep_routine
+      label: Child Sleep Routine
+      hint: Describe your child's typical sleep routine at home
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: child_nap_schedule
+      label: Child Nap Schedule
+      hint: What is your child's typical nap schedule?
+      type: select_one
+      options:
+      - Morning nap only
+      - Afternoon nap only
+      - Morning and afternoon naps
+      - No regular naps
+      - Varies by day
+      required: true
+    - id: 17
+      name: typical_nap_duration
+      label: Typical Nap Duration
+      hint: How long does your child typically nap?
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 3 hours
+      - More than 3 hours
+      - Does not nap
+      required: true
+    - id: 18
+      name: sleep_comfort_items
+      label: Sleep Comfort Items
+      hint: Does your child need any comfort items for sleep?
+      type: select_multiple
+      options:
+      - None
+      - Blanket
+      - Stuffed animal
+      - Pacifier
+      - Special toy
+      - Music or white noise
+      - Other
+      required: true
+    - id: 19
+      name: comfort_item_details
+      label: Comfort Item Details
+      hint: Describe any comfort items your child needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sleep_difficulties
+      label: Sleep Difficulties
+      hint: Does your child have any sleep difficulties?
+      type: select_one
+      options:
+      - No difficulties
+      - Difficulty falling asleep
+      - Difficulty staying asleep
+      - Early waking
+      - Nightmares or night terrors
+      - Other sleep issues
+      required: true
+    - id: 21
+      name: sleep_difficulty_details
+      label: Sleep Difficulty Details
+      hint: Describe any sleep difficulties and how you handle them
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: soothing_techniques
+      label: Soothing Techniques
+      hint: What techniques work to soothe your child to sleep?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: sleep_position_preference
+      label: Sleep Position Preference
+      hint: Does your child have a preferred sleep position?
+      type: select_one
+      options:
+      - On back
+      - On side
+      - On stomach
+      - No preference
+      - Medical positioning required
+      required: true
+    - id: 24
+      name: medical_sleep_concerns
+      label: Medical Sleep Concerns
+      hint: Are there any medical concerns related to sleep?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sleep_apnea_or_breathing
+      label: Sleep Apnea or Breathing Issues
+      hint: Does your child have any breathing issues during sleep?
+      type: select_one
+      options:
+      - Yes, diagnosed condition
+      - Yes, suspected issue
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: monitoring_preferences
+      label: Monitoring Preferences
+      hint: How often should staff check on your child during sleep?
+      type: select_one
+      options:
+      - Every 5 minutes
+      - Every 10 minutes
+      - Every 15 minutes
+      - As per center policy
+      - Continuous monitoring
+      required: true
+    - id: 27
+      name: wake_up_instructions
+      label: Wake-Up Instructions
+      hint: Any special instructions for waking your child?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: policy_acknowledgement
+      label: Policy Acknowledgement
+      hint: Do you acknowledge that you have read and understand the sleep policy?
+      type: select_one
+      options:
+      - Yes, I acknowledge and understand
+      - Yes, but need clarification on some points
+      - No, have not read the policy
+      required: true
+    - id: 29
+      name: policy_compliance_agreement
+      label: Policy Compliance Agreement
+      hint: Do you agree to comply with the sleep policy?
+      type: select_one
+      options:
+      - Yes, I agree to comply
+      - No, I do not agree
+      required: true
+    - id: 30
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional notes about your child's sleep needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

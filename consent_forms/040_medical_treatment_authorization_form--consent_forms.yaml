@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Authorization Form
+    pages:
+    - id: 1
+      name: medical_treatment_authorization_form
+      label: Medical Treatment Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject_name
+      label: subject_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: treatment_name
+      label: Treatment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_description
+      label: Treatment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_treatment
+      label: Date of Treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_treatment
+      label: Time of Treatment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_treatment_facility
+      label: Medical Treatment Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_treatment_room
+      label: Medical Treatment Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_cost
+      label: Treatment Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Other
+      required: false
+    - id: 13
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: medical_treatment_id
+      label: Medical Treatment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_treatment_notes
+      label: Medical Treatment Notes
+      hint: null
+      type: note
+      options: []
+      required: false

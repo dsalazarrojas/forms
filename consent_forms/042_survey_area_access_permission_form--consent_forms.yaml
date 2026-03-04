@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_area_access_permission_form
+    pages:
+    - id: 1
+      name: survey_area_access
+      label: survey area access
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: permission
+      label: permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: user
+      label: user
+      hint: null
+      type: select_multiple
+      options:
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 4
+      name: access_level
+      label: access level
+      hint: null
+      type: select_one
+      options:
+      - read
+      - write
+      - admin
+      required: false

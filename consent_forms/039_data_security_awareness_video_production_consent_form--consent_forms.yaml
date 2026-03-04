@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_security_awareness_video_production_consent_form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: video_description
+      label: video_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: video_type
+      label: video_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Awareness''}'
+      - '{''label'': ''Training''}'
+      required: true
+    - id: 10
+      name: video_location
+      label: video_location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Local''}'
+      - '{''label'': ''Remote''}'
+      required: true
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

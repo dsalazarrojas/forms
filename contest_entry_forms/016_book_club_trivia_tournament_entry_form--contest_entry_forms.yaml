@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Trivia Tournament Entry Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Choose a creative team name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_captain_name
+      label: Team Captain Full Name
+      hint: Full name of team captain
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_captain_email
+      label: Team Captain Email
+      hint: Contact email for team captain
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: team_captain_phone
+      label: Team Captain Phone
+      hint: Phone number for team captain
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_size
+      label: Number of Team Members
+      hint: How many people on your team
+      type: select_one
+      options:
+      - 2 members
+      - 3 members
+      - 4 members
+      - 5 members
+      - 6 members
+      required: true
+    - id: 6
+      name: member_2_name
+      label: Team Member 2 Name
+      hint: Full name of second member
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_3_name
+      label: Team Member 3 Name
+      hint: Full name of third member
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_4_name
+      label: Team Member 4 Name
+      hint: Full name of fourth member
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: member_5_name
+      label: Team Member 5 Name
+      hint: Full name of fifth member
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_category
+      label: Team Category
+      hint: Select your team type
+      type: select_one
+      options:
+      - Individual Entry
+      - Book Club Team
+      - Library Staff Team
+      - Community Team
+      - Corporate Team
+      - Student Team
+      required: true
+    - id: 11
+      name: tournament_date
+      label: Tournament Date
+      hint: Select the tournament date
+      type: select_one
+      options:
+      - March 20 2026
+      - March 27 2026
+      - April 3 2026
+      - April 10 2026
+      required: true
+    - id: 12
+      name: experience_level
+      label: Team Trivia Experience Level
+      hint: Select your experience level
+      type: select_one
+      options:
+      - First Time
+      - Some Experience
+      - Moderate Experience
+      - Very Experienced
+      - Trivia Champions
+      required: true
+    - id: 13
+      name: favorite_genres
+      label: Team Favorite Book Genres
+      hint: Select genres your team knows best
+      type: select_multiple
+      options:
+      - Classic Literature
+      - Mystery Thriller
+      - Science Fiction Fantasy
+      - Historical Fiction
+      - Romance
+      - Non-Fiction
+      - Young Adult
+      - Poetry
+      required: false
+    - id: 14
+      name: team_shirt_size
+      label: Team T-Shirt Sizes
+      hint: List shirt sizes for each member
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary needs for provided refreshments
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 16
+      name: registration_fee_payment
+      label: Registration Fee Payment
+      hint: How will you pay the fee
+      type: select_one
+      options:
+      - Paid Online
+      - Pay at Event
+      - Fee Waiver Requested
+      required: true
+    - id: 17
+      name: rules_acceptance
+      label: I Have Read and Accept the Tournament Rules
+      hint: By selecting yes you agree to follow all rules
+      type: select_one
+      options:
+      - Yes I accept
+      - No I do not accept
+      required: true
+    - id: 18
+      name: photo_release
+      label: Photo and Video Release
+      hint: Permission to use photos for promotional purposes
+      type: select_one
+      options:
+      - Yes granted
+      - No not granted
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About This Tournament
+      hint: How did you find out about this event
+      type: select_one
+      options:
+      - Social Media
+      - Library Website
+      - Friend or Family
+      - Email Newsletter
+      - Flyer or Poster
+      - Previous Participant
+      required: false
+    - id: 23
+      name: submission_date
+      label: Entry Submission Date
+      hint: Date of entry submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profit Sharing Agreement Form
+    pages:
+    - id: 1
+      name: contract_partners
+      label: contract_partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: profit_distribution_terms
+      label: profit_distribution_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: roles
+      label: roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: profit_percentage
+      label: profit_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_profit
+      label: total_profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: agreement_start_date
+      label: agreement_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: agreement_end_date
+      label: agreement_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signed_on
+      label: signed_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

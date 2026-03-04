@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_seller_information
+    pages:
+    - id: 1
+      name: seller_name
+      label: real_estate_seller_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: seller_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Mixed Use
+      required: false
+    - id: 6
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_multiple
+      options:
+      - For Sale
+      - Rented
+      - Leased
+      required: false
+    - id: 7
+      name: property_description
+      label: property_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_sale
+      label: date_of_sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sale_price
+      label: sale_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: seller_agreement
+      label: seller_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: person_title
+      label: person_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number2
+      label: contact_number2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: email2
+      label: email2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: property_address2
+      label: property_address2
+      hint: null
+      type: text
+      options: []
+      required: false

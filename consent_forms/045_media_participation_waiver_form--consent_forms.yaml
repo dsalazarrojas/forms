@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Participation Waiver Form
+    pages:
+    - id: 1
+      name: media_participation_waiver_form
+      label: media participation waiver form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_guardian_consent
+      label: parent guardian consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: participant_consent
+      label: participant consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: photo_video_audio_use
+      label: photo video audio use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Photos''}'
+      - '{''label'': ''Videos''}'
+      - '{''label'': ''Audio''}'
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_or_event_name
+      label: school or event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_date_of_birth
+      label: participant date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_or_guardian_email
+      label: parent or guardian email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: parent_or_guardian_phone
+      label: parent or guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_guardian_address
+      label: parent guardian address
+      hint: null
+      type: text
+      options: []
+      required: false

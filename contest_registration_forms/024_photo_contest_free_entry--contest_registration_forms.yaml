@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo contest free entry
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Portrait
+      - Landscape
+      - Still Life
+      - Street
+      - Wildlife
+      - Abstract
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_entry
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: upload_photo
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the terms and conditions.
+      - None
+      required: false
+    - id: 10
+      name: privacy_policy
+      label: Privacy Policy
+      hint: null
+      type: select_multiple
+      options:
+      - I accept the privacy policy.
+      - None
+      required: false
+    - id: 11
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the submission guidelines.
+      - None
+      required: false
+    - id: 12
+      name: photo_credit
+      label: Photo Credit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: photo_copyright
+      label: Photo Copyright
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: upload_additional_photo
+      label: Upload Additional Photo
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Consultant Quote Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consultant_info
+      label: consultant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_list
+      label: list_services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 5
+      name: service_cost
+      label: service_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

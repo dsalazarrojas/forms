@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Do you have any allergies to medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 9
+      name: allergies_details
+      label: If yes, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: chronic_conditions
+      label: Do you have chronic medical conditions
+      hint: Diabetes, heart disease, immunocompromised, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: conditions_details
+      label: Please describe your conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_medications
+      label: Are you currently taking any medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: medications_list
+      label: List your current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_section
+      label: -- Testing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_test
+      label: Reason for COVID-19 Testing
+      hint: null
+      type: select_one
+      options:
+      - Symptomatic screening
+      - Asymptomatic screening
+      - Contact tracing
+      - Travel requirement
+      - Work requirement
+      - Other
+      required: true
+    - id: 16
+      name: preferred_test_type
+      label: Preferred Test Type
+      hint: null
+      type: select_one
+      options:
+      - PCR/Molecular
+      - Rapid Antigen
+      - Antibody test
+      - No preference
+      required: true
+    - id: 17
+      name: symptoms_present
+      label: Are you currently experiencing symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consent_section
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_procedure
+      label: I understand the testing procedure and its risks
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 20
+      name: consent_test
+      label: I consent to COVID-19 testing
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: results_communication
+      label: I authorize sharing of results via
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Patient portal
+      required: true
+    - id: 22
+      name: data_privacy
+      label: I understand my data will be kept confidential and used only for COVID-19
+        testing purposes
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

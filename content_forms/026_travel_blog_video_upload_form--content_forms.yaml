@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Blog Video Upload Form
+    pages:
+    - id: 1
+      name: travel_blog_video_upload_form
+      label: Travel Blog Video Upload Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_blog_title
+      label: travel_blog_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_blog_description
+      label: travel_blog_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_blog_video
+      label: travel_blog_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_blog_tags
+      label: travel_blog_tags
+      hint: null
+      type: select_multiple
+      options:
+      - adventure
+      - travel
+      - vacation
+      - tourism
+      - fun
+      - outdoor
+      - leisure
+      - holiday
+      required: false
+    - id: 6
+      name: travel_blog_video_length
+      label: travel_blog_video_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_blog_video_type
+      label: travel_blog_video_type
+      hint: null
+      type: select_one
+      options:
+      - video
+      - image
+      - other
+      - music
+      required: false
+    - id: 8
+      name: travel_blog_upload_file
+      label: travel_blog_upload_file
+      hint: null
+      type: text
+      options: []
+      required: false

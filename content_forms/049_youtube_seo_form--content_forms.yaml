@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: YouTube SEO Form
+    pages:
+    - id: 1
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: video_description
+      label: Video Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: video_thumbnails
+      label: Video Thumbnails
+      hint: Add images that YouTube uses to show in search results
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: video_tags
+      label: Video Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: music_license
+      label: Music License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: music_license_type
+      label: Music License Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: image_license
+      label: Image License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: image_license_type
+      label: Image License Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: blog_links
+      label: Blog Links
+      hint: Add any blog posts that link to your video
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: social_media_links
+      label: Social Media Links
+      hint: Links to your social media profiles
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: twitter_post
+      label: Twitter Post
+      hint: Post to Twitter when you submit this form
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: airtable_base
+      label: Airtable Base
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: airtable_api_key
+      label: Airtable API Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: google_spreadsheet
+      label: Google Sheets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: google_spreadsheet_url
+      label: Google Sheets URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zapier_account_id
+      label: Zapier Account ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zapier_api_key
+      label: Zapier API Key
+      hint: null
+      type: text
+      options: []
+      required: false

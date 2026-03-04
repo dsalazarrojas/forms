@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Policy Template
+    pages:
+    - id: 1
+      name: cancellation_policy
+      label: cancellation_policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_responsibilities
+      label: financial_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cancellation
+      label: cancellation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

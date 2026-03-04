@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Bid Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Name of person requesting bids
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Email for bid responses
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of requesting organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_project_overview
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Official name of the project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: Category of work
+      type: select_one
+      options:
+      - Construction
+      - Renovation
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Landscaping
+      - Painting
+      - Flooring
+      - Roofing
+      - Other
+      required: true
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: Full address where work will be performed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_scope
+      label: Scope of Work
+      hint: Detailed description of work needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_size
+      label: Project Size
+      hint: Approximate size or scale
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: desired_start_date
+      label: Desired Start Date
+      hint: When should work begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: desired_completion_date
+      label: Desired Completion Date
+      hint: When should work be finished
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible is the timeline
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Not Flexible
+      required: true
+    - id: 15
+      name: section_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for the project
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - Over $250,000
+      required: true
+    - id: 17
+      name: payment_terms
+      label: Preferred Payment Terms
+      hint: How payments will be structured
+      type: select_one
+      options:
+      - Progress Payments
+      - Milestone-Based
+      - Upon Completion
+      - Net 30
+      - Net 60
+      - Other
+      required: false
+    - id: 18
+      name: section_requirements
+      label: -- Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: license_required
+      label: License Required
+      hint: Is a professional license required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: insurance_required
+      label: Insurance Required
+      hint: Is liability insurance required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: bonding_required
+      label: Bonding Required
+      hint: Is bonding required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: permits_needed
+      label: Permits Needed
+      hint: Will contractor need to obtain permits
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: section_bid_submission
+      label: -- Bid Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: bid_deadline
+      label: Bid Submission Deadline
+      hint: Last date to submit bid
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: bid_format
+      label: Preferred Bid Format
+      hint: How should bids be submitted
+      type: select_one
+      options:
+      - Email
+      - Online Form
+      - Printed Document
+      - In-Person Meeting
+      required: true
+    - id: 26
+      name: site_visit_required
+      label: Site Visit Required
+      hint: Is a site visit required before bidding
+      type: select_one
+      options:
+      - Yes - Mandatory
+      - Optional
+      - Not Required
+      required: true
+    - id: 27
+      name: questions_deadline
+      label: Questions Deadline
+      hint: Last date to submit questions
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: additional_documents
+      label: Additional Documents
+      hint: List any attached specifications or drawings
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: selection_criteria
+      label: Selection Criteria
+      hint: How will the winning bid be selected
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: special_notes
+      label: Special Notes or Requirements
+      hint: Any additional information contractors should know
+      type: text
+      options: []
+      required: false

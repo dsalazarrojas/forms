@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Salon Company Consent Form Premiere
+    pages:
+    - id: 1
+      name: guest_name_full
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_phone_no
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_stylist_text
+      label: Preferred Stylist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: premiere_id_val
+      label: Premiere Membership ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: symptom_ack_yn
+      label: I acknowledge that I am free of COVID-19 symptoms
+      hint: e.g. fever, dry cough, loss of taste
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 6
+      name: travel_ack_yn
+      label: I acknowledge that I have not traveled internationally in the last 14
+        days
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 7
+      name: ppe_policy_agree
+      label: I agree to follow the Premiere Salon PPE and mask policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: hand_sanitize_agree
+      label: I agree to sanitize my hands upon entering the salon
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 9
+      name: liability_release_ack
+      label: I release Premiere Salon and Spa from liability for COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - I agree and release
+      - Other
+      required: true
+    - id: 10
+      name: cancel_policy_ack
+      label: I understand the COVID-19 cancellation and safety surcharge policies
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 11
+      name: appt_timestamp
+      label: Appointment Time and Date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: premiere_safety_cert
+      label: I certify the above information is true
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

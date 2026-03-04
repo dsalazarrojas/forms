@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Account Consolidation Consent Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: utility_service_provider
+      label: utility_service_provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Electricity''}'
+      - '{''id'': 2, ''label'': ''Gas''}'
+      - '{''id'': 3, ''label'': ''Water''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: account_info
+      label: account_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: account_numbers
+      label: account_numbers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Account 1''}'
+      - '{''id'': 2, ''label'': ''Account 2''}'
+      - '{''id'': 3, ''label'': ''Account 3''}'
+      - '{''id'': 4, ''label'': ''Account 4''}'
+      required: false
+    - id: 7
+      name: merge_accounts
+      label: merge_accounts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: consent_statement
+      label: consent_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

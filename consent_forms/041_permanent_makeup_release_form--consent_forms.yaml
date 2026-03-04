@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: permanent_makeup_release_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photo_date
+      label: Photo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: photo_time
+      label: Photo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: photographer_phone
+      label: Photographer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: photo_location
+      label: Photo Location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: photos_taken
+      label: Photos Taken
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: video_taken
+      label: Video Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signed
+      label: Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

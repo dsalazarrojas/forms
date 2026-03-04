@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Employment Application Form
+    pages:
+    - id: 1
+      name: position_applied_for
+      label: Position Applied For
+      hint: Job title or role you are applying for
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_available
+      label: Date Available to Start
+      hint: When can you begin employment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_address
+      label: Street Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_state
+      label: State or Province
+      hint: State, province, or region
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: applicant_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Link to your LinkedIn profile
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_website
+      label: Portfolio or Website URL
+      hint: Link to professional portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education_level
+      label: Highest Education Level
+      hint: Select your highest degree obtained
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Professional Certification
+      - Other
+      required: true
+    - id: 14
+      name: university_name
+      label: University or Institution
+      hint: Name of school where you obtained your degree
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: field_of_study
+      label: Field of Study
+      hint: Major or area of concentration
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: graduation_year
+      label: Year of Graduation
+      hint: Year you completed your degree
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: years_of_experience
+      label: Years of Consulting Experience
+      hint: Total years in consulting or related field
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: relevant_skills
+      label: Relevant Skills and Expertise
+      hint: List your key consulting skills
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: industry_experience
+      label: Industry Experience
+      hint: Select industries you have worked in
+      type: select_multiple
+      options:
+      - Management Consulting
+      - Financial Services
+      - Healthcare
+      - Technology
+      - Manufacturing
+      - Retail
+      - Energy
+      - Government
+      - Nonprofit
+      - Education
+      - Other
+      required: true
+    - id: 20
+      name: previous_employer_1
+      label: Most Recent Employer
+      hint: Company name and dates of employment
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_position_1
+      label: Most Recent Position
+      hint: Job title and key responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: Why did you leave your previous position
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: certifications
+      label: Professional Certifications
+      hint: List any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: languages_spoken
+      label: Languages Spoken
+      hint: List languages and proficiency level
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: willing_to_travel
+      label: Willingness to Travel
+      hint: Select your travel availability
+      type: select_one
+      options:
+      - Yes, Extensive Travel
+      - Yes, Moderate Travel
+      - Yes, Limited Travel
+      - No Travel
+      required: true
+    - id: 26
+      name: willing_to_relocate
+      label: Willingness to Relocate
+      hint: Are you willing to relocate for this position
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 27
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected annual salary or hourly rate
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: references_available
+      label: Are References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: how_did_you_hear
+      label: How Did You Hear About This Position
+      hint: Source of job posting
+      type: select_one
+      options:
+      - Company Website
+      - LinkedIn
+      - Indeed
+      - Glassdoor
+      - Referral
+      - Recruiter
+      - Job Fair
+      - Other
+      required: true
+    - id: 30
+      name: referral_name
+      label: Referral Name
+      hint: If referred by someone, provide their name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: cover_letter
+      label: Cover Letter
+      hint: Brief statement about why you are a good fit
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: resume_upload
+      label: Upload Resume
+      hint: Attach your current resume or CV
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: application_date
+      label: Application Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

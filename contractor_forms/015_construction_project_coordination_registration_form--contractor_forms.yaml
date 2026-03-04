@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Coordination Registration Form
+    pages:
+      - id: 1
+        name: section_participant_information
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name of team member
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Role
+        hint: Role on the project
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization
+        hint: Company or subcontractor
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: contact_email
+        label: Contact email
+        hint: For coordination and updates
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: preferred_meeting_days
+        label: Preferred meeting days
+        hint: Select available days for coordination meetings
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+        required: false
+      - id: 7
+        name: communication_preference
+        label: Communication preference
+        hint: Preferred method for updates
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Project management tool
+        required: true
+      - id: 8
+        name: responsibilities_summary
+        label: Responsibilities summary
+        hint: Short summary of responsibilities during coordination
+        type: text
+        options: []
+        required: false

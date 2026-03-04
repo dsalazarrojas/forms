@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Competition Application Form
+    pages:
+    - id: 1
+      name: artist_information
+      label: Artist Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: music_info
+      label: Music Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: music_type
+      label: Music Type
+      hint: null
+      type: select_one
+      options:
+      - Jazz
+      - Classical
+      - Rock
+      - Pop
+      - Electronic
+      - Country
+      - Folk
+      - Hip-Hop/Rap
+      required: false
+    - id: 5
+      name: music_style
+      label: Music Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: music_competition_category
+      label: Competition Category
+      hint: null
+      type: select_one
+      options:
+      - Solo
+      - Band
+      - Orchestra
+      - Group
+      - Choir
+      required: false
+    - id: 7
+      name: music_competition_format
+      label: Competition Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: competition_type
+      label: Competition Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Declined
+      - Shortlisted
+      - Shortlisted (Alternate)
+      required: false
+    - id: 10
+      name: application_notes
+      label: Application Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_first_name
+      label: Contact First Name
+      hint: First name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Last name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact E-mail
+      hint: E-mail address of contact person
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_address
+      label: Contact Address
+      hint: Address of contact person
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: music_title
+      label: Music Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: music_subtitle
+      label: Music Subtitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: music_composer
+      label: Music Composer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: music_year
+      label: Music Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: prophets_name
+      label: Prophets Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: music_format
+      label: Music Format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Studio COVID 19 Release Form
+    pages:
+    - id: 1
+      name: covid_19_declaration
+      label: Covid 19 Declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_statement
+      label: Release Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_permission
+      label: Student Permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: faculty_conducting
+      label: Faculty Conducting
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Kids
+      required: false
+    - id: 6
+      name: classes
+      label: Classes
+      hint: null
+      type: select_multiple
+      options:
+      - Adult
+      - Kids
+      required: false
+    - id: 7
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Faculty
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_at
+      label: Form Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Faculty
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

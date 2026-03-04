@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Licensing Contract Form
+    pages:
+    - id: 1
+      name: contract_parties_header
+      label: -- Contracting Parties --
+      hint: Information for the Licensor and Licensee
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: licensor_name
+      label: Licensor Name (Owner)
+      hint: Person or entity owning the content
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: licensee_name
+      label: Licensee Name (User)
+      hint: Person or entity requesting usage rights
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_details_header
+      label: -- Content Description --
+      hint: Specify exactly what content is being licensed
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: content_description
+      label: Description of Content
+      hint: Include titles, URLs, or file names
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license_type
+      label: Type of License
+      hint: null
+      type: select_one
+      options:
+      - Exclusive Rights
+      - Non-Exclusive Rights
+      - One-Time Use Only
+      - Perpetual Use
+      required: true
+    - id: 7
+      name: permitted_platforms
+      label: Permitted Platforms
+      hint: Where can the licensee use this content
+      type: select_multiple
+      options:
+      - Social Media
+      - Print Media
+      - Television/Broadcast
+      - Website/Digital Ads
+      - Corporate Presentations
+      required: true
+    - id: 8
+      name: license_duration
+      label: Duration of License (Months)
+      hint: Enter 0 for perpetual/unlimited
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: geographic_territory
+      label: Geographic Territory
+      hint: null
+      type: select_one
+      options:
+      - Worldwide
+      - North America Only
+      - Europe Only
+      - Specific Country (mention in notes)
+      required: true
+    - id: 10
+      name: compensation_header
+      label: -- Compensation and Terms --
+      hint: Payment details for the license
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: licensing_fee
+      label: Total Licensing Fee (USD)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Paid in Full Upfront
+      - 50 percent Deposit - 50 percent on Delivery
+      - Monthly Royalty Payments
+      required: true
+    - id: 13
+      name: attribution_required
+      label: Is attribution required
+      hint: Must the licensee credit the creator
+      type: select_one
+      options:
+      - Yes - Standard Credit Line
+      - Yes - Tagging on Social Media
+      - No - White Label Use
+      required: true
+    - id: 14
+      name: agreement_date
+      label: Effective Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: digital_signature_licensor
+      label: Licensor Digital Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: digital_signature_licensee
+      label: Licensee Digital Signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true

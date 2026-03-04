@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Consent Documentation Checklist
+    pages:
+    - id: 1
+      name: procedure_pre_admission
+      label: Procedure Pre Admission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: anesthesia_consent
+      label: Anesthesia Consent
+      hint: null
+      type: select_one
+      options:
+      - Anesthesia
+      - No Anesthesia
+      - Other
+      required: false
+    - id: 3
+      name: surgery_type
+      label: Surgery Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac
+      - Orthopedic
+      - Neurosurgery
+      - Other
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: Please provide a detailed medical history.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_history
+      label: Medication History
+      hint: null
+      type: select_multiple
+      options:
+      - Medication A
+      - Medication B
+      - Medication C
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergy A
+      - Allergy B
+      - Allergy C
+      required: false
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: select_one
+      options:
+      - Dr. A
+      - Dr. B
+      - Dr. C
+      required: false
+    - id: 11
+      name: provider_license
+      label: Provider License
+      hint: null
+      type: select_multiple
+      options:
+      - License 1
+      - License 2
+      - License 3
+      required: false
+    - id: 12
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false

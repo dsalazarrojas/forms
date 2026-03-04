@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Contouring Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_weight
+      label: Current Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: goal_weight
+      label: Goal Weight
+      hint: Target weight
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: program_selected
+      label: Body Contouring Program Selected
+      hint: Which program?
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Custom Program
+      - Consultation Pending
+      required: true
+    - id: 17
+      name: treatment_areas
+      label: Treatment Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Abdomen
+      - Flanks
+      - Thighs
+      - Buttocks
+      - Arms
+      - Back
+      - Chin
+      - Multiple Areas
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contraindications
+      label: Contraindications
+      hint: Select if any apply
+      type: select_multiple
+      options:
+      - Pregnancy
+      - Nursing
+      - Pacemaker
+      - Metal Implants
+      - Liver Disease
+      - Kidney Disease
+      - Heart Disease
+      - Bleeding Disorders
+      - Active Cancer
+      - None Apply
+      required: true
+    - id: 22
+      name: previous_treatments
+      label: Previous Body Contouring
+      hint: List previous treatments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lifestyle_commitment
+      label: Lifestyle Commitment
+      hint: Are you committed to diet and exercise?
+      type: select_one
+      options:
+      - Yes, Fully Committed
+      - Working on It
+      - Need Guidance
+      required: true
+    - id: 24
+      name: water_intake
+      label: Daily Water Intake
+      hint: How much water daily?
+      type: select_one
+      options:
+      - Less than 4 glasses
+      - 4-6 glasses
+      - 7-9 glasses
+      - 10+ glasses
+      required: false
+    - id: 25
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often do you exercise?
+      type: select_one
+      options:
+      - Never
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5+ times per week
+      required: false
+    - id: 26
+      name: program_expectations
+      label: Program Expectations
+      hint: What do you expect to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: financial_agreement
+      label: Financial Agreement
+      hint: I understand the payment terms
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 28
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 29
+      name: hipaa_acknowledgment
+      label: HIPAA Acknowledgment
+      hint: I understand my privacy rights
+      type: select_one
+      options:
+      - Yes, I Acknowledge
+      - false
+      required: true
+    - id: 30
+      name: client_signature
+      label: Client Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signature_date
+      label: Signature Date
+      hint: Date of intake
+      type: date
+      options: []
+      required: true

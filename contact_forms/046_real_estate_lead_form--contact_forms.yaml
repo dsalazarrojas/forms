@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_lead_form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_type
+      label: Real Estate Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Single Family Home''}'
+      - '{''id'': 2, ''name'': ''Condo''}'
+      - '{''id'': 3, ''name'': ''Townhouse''}'
+      required: false
+    - id: 3
+      name: real_estate_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: real_estate_price_range
+      label: Price Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: real_estate_intent
+      label: Intention
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Buying''}'
+      - '{''id'': 2, ''name'': ''Selling''}'
+      - '{''id'': 3, ''name'': ''Renting''}'
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''Message''}'
+      required: false
+    - id: 9
+      name: lead_notes
+      label: Lead Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false

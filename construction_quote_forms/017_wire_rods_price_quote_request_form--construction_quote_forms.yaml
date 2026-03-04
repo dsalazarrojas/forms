@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wire Rods Price Quote Request Form
+    pages:
+    - id: 1
+      name: form_submission_details
+      label: Form Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Rod''}'
+      - '{''id'': 2, ''label'': ''Sheet''}'
+      - '{''id'': 3, ''label'': ''Coil''}'
+      required: false
+    - id: 3
+      name: product_width
+      label: product_width
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1/2 inch''}'
+      - '{''id'': 2, ''label'': ''1/4 inch''}'
+      - '{''id'': 3, ''label'': ''1/8 inch''}'
+      - '{''id'': 4, ''label'': ''3/8 inch''}'
+      - '{''id'': 5, ''label'': ''1/4 inch''}'
+      - '{''id'': 6, ''label'': ''3/16 inch''}'
+      - '{''id'': 7, ''label'': ''1/2 inch''}'
+      - '{''id'': 8, ''label'': ''5/8 inch''}'
+      required: false
+    - id: 4
+      name: product_length
+      label: product_length
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''10 ft''}'
+      - '{''id'': 2, ''label'': ''25 ft''}'
+      - '{''id'': 3, ''label'': ''50 ft''}'
+      - '{''id'': 4, ''label'': ''100 ft''}'
+      - '{''id'': 5, ''label'': ''150 ft''}'
+      - '{''id'': 6, ''label'': ''200 ft''}'
+      - '{''id'': 7, ''label'': ''250 ft''}'
+      - '{''id'': 8, ''label'': ''500 ft''}'
+      required: false
+    - id: 5
+      name: material
+      label: material
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Aluminum''}'
+      - '{''id'': 2, ''label'': ''Steel''}'
+      - '{''id'': 3, ''label'': ''Galvanized Steel''}'
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_date
+      label: form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_time
+      label: form_submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: customer
+      label: customer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 15
+      name: quote_price
+      label: quote_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: delivery_terms
+      label: delivery_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_user
+      label: submission_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_ip
+      label: submission_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_browser
+      label: submission_browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_os
+      label: submission_os
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_device
+      label: submission_device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_referrer
+      label: submission_referrer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_url
+      label: submission_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_ip_address
+      label: submission_ip_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_user_agent
+      label: submission_user_agent
+      hint: null
+      type: text
+      options: []
+      required: false

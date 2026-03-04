@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine Consent Form
+    pages:
+    - id: 1
+      name: telemedicine_consent_form
+      label: Telemedicine Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: telemedicine_privacy
+      label: Telemedicine Privacy
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 4
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: patient_privacy
+      label: Patient Privacy
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''public''}'
+      - '{''value'': ''private''}'
+      required: false
+    - id: 6
+      name: telemedicine_security
+      label: Telemedicine Security
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''strong''}'
+      - '{''value'': ''weak''}'
+      required: false
+    - id: 8
+      name: electronic_medical_record
+      label: Electronic Medical Record
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: telemedicine_equipment
+      label: Telemedicine Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

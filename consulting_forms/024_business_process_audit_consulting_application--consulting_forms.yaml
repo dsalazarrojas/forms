@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Process Audit Consulting Application
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      type: note
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Company Name
+      hint: Organization seeking consulting
+      type: text
+      required: true
+    - id: 3
+      name: client_type
+      label: Client Type
+      hint: Industry or sector
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail
+      - Technology
+      - Finance
+      - Healthcare
+      - Services
+      - Other
+      required: true
+    - id: 4
+      name: client_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 500+
+      required: true
+    - id: 5
+      name: section_contact
+      label: -- Primary Contact --
+      type: note
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Person Name
+      hint: Decision maker or project lead
+      type: text
+      required: true
+    - id: 7
+      name: contact_title
+      label: Title or Position
+      hint: Their role in the organization
+      type: text
+      required: true
+    - id: 8
+      name: contact_email
+      label: Email Address
+      hint: Business email for correspondence
+      type: email
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      required: true
+    - id: 10
+      name: section_audit_scope
+      label: -- Audit Scope --
+      type: note
+      required: false
+    - id: 11
+      name: audit_objectives
+      label: Primary Audit Objectives
+      hint: What do you want to analyze
+      type: select_multiple
+      options:
+      - Process Efficiency
+      - Cost Optimization
+      - Quality Improvement
+      - Compliance Review
+      - Risk Assessment
+      - Performance Metrics
+      required: true
+    - id: 12
+      name: processes_to_audit
+      label: Processes to Be Audited
+      hint: Which business processes are in scope
+      type: text
+      required: true
+    - id: 13
+      name: current_challenges
+      label: Current Process Challenges
+      hint: What problems are you experiencing
+      type: text
+      required: true
+    - id: 14
+      name: expected_outcomes
+      label: Expected Outcomes from Audit
+      hint: What improvements do you anticipate
+      type: text
+      required: true
+    - id: 15
+      name: section_timeline
+      label: -- Timeline and Budget --
+      type: note
+      required: false
+    - id: 16
+      name: audit_start_date
+      label: Desired Audit Start Date
+      hint: When would you like to begin
+      type: date
+      required: false
+    - id: 17
+      name: timeline_urgency
+      label: Timeline Urgency
+      hint: How quickly do you need this done
+      type: select_one
+      options:
+      - Not urgent - can wait
+      - Moderate urgency
+      - High urgency
+      - Immediate need
+      required: false
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Approximate consulting budget
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - $50,000+
+      required: false
+    - id: 19
+      name: section_resources
+      label: -- Resources and Data --
+      type: note
+      required: false
+    - id: 20
+      name: data_availability
+      label: Data Availability
+      hint: Can you provide necessary documentation
+      type: select_one
+      options:
+      - Fully available
+      - Mostly available
+      - Partially available
+      - Limited availability
+      required: true
+    - id: 21
+      name: personnel_availability
+      label: Personnel Availability for Interview
+      hint: Will key staff be available for interviews
+      type: select_one
+      options:
+      - Fully available
+      - Mostly available
+      - Limited availability
+      required: true
+    - id: 22
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: statewide_singing_competition_entry_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: performance_experience
+      label: Performance Experience
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: singing_category
+      label: Singing Category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      required: true
+    - id: 8
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: audition_time
+      label: Audition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Discharge Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authorization_method
+      label: Authorization Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Signature''}'
+      - '{''id'': 2, ''label'': ''Notarized Letter''}'
+      - '{''id'': 3, ''label'': ''Power of Attorney''}'
+      - '{''id'': 4, ''label'': ''Both''}'
+      required: true
+    - id: 5
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recipient_address
+      label: Recipient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_release
+      label: Date of Release
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: true

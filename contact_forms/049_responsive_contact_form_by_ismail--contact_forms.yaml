@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Contact Form By Ismail
+    pages:
+    - id: 1
+      name: contact_form
+      label: contact_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: send_by
+      label: how_will_you_send
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: email_addr
+      label: email_addr
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_num
+      label: phone_num
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_info
+      label: other_info
+      hint: null
+      type: text
+      options: []
+      required: false

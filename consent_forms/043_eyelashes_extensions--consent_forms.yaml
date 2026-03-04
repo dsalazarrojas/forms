@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: eyelashes_extensions
+    pages:
+    - id: 1
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: doctor_signature
+      label: doctor_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: true

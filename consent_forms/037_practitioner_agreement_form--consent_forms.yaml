@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practitioner Agreement Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practitioner_name
+      label: practitioner-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: practitioner_contact_info
+      label: practitioner-contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: client-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_contact_info
+      label: client-contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agreement_terms
+      label: agreement-terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: practitioner_responsibilities
+      label: practitioner-responsibilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_responsibilities
+      label: client-responsibilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: termination
+      label: termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement_date
+      label: agreement-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: agreement_time
+      label: agreement-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: practitioner_signature
+      label: practitioner-signature
+      hint: null
+      type: select_one
+      options:
+      - Physician's Signature
+      - Other
+      required: true
+    - id: 13
+      name: client_signature
+      label: client-signature
+      hint: null
+      type: select_one
+      options:
+      - Client's Signature
+      - Other
+      required: false

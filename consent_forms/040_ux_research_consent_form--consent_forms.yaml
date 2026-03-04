@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: ux_research_consent_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: time
+      options: []
+      required: true

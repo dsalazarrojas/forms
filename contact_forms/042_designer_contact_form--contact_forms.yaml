@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: designer_contact_form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category_a
+      - category_b
+      - category_c
+      required: false
+    - id: 7
+      name: form_assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

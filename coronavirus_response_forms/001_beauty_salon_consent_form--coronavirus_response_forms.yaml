@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Please enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Appointment Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: hair_color_preference
+      label: Hair Color Preference
+      hint: Describe your desired color or shade
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hair_cut_style
+      label: Hair Cut and Style Preference
+      hint: Describe the cut and style you want
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hair_length
+      label: Current Hair Length
+      hint: Select your current hair length
+      type: select_one
+      options:
+      - Very Short (Pixie)
+      - Short (Earlobe)
+      - Medium (Shoulder)
+      - Long (Mid-back)
+      - Very Long (Waist or longer)
+      required: true
+    - id: 8
+      name: hair_texture
+      label: Hair Texture
+      hint: Select your natural hair texture
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Thick
+      - Coarse
+      required: true
+    - id: 9
+      name: chemical_treatments
+      label: Previous Chemical Treatments
+      hint: Have you had any chemical treatments in the last 6 months
+      type: select_multiple
+      options:
+      - Hair Color
+      - Bleach
+      - Perm
+      - Relaxer
+      - Keratin Treatment
+      - None
+      required: true
+    - id: 10
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: List any allergies to hair products or chemicals
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scalp_conditions
+      label: Scalp Conditions
+      hint: Any scalp conditions we should know about
+      type: select_multiple
+      options:
+      - Dandruff
+      - Psoriasis
+      - Eczema
+      - Sensitive Scalp
+      - None
+      required: true
+    - id: 12
+      name: covid_symptoms
+      label: COVID-19 Symptoms Check
+      hint: Are you experiencing any COVID-19 symptoms today
+      type: select_one
+      options:
+      - No symptoms
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Loss of taste or smell
+      required: true
+    - id: 13
+      name: covid_exposure
+      label: Recent COVID-19 Exposure
+      hint: Have you been exposed to COVID-19 in the last 14 days
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 14
+      name: temperature_check
+      label: Temperature Check Consent
+      hint: I agree to have my temperature taken upon arrival
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 15
+      name: mask_policy
+      label: Mask Policy Acknowledgment
+      hint: I understand masks may be required based on current guidelines
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand the risks and release the salon from liability
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Requests
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true

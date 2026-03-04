@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consultation Form
+    pages:
+    - id: 1
+      name: medical_consultation_form_first_page
+      label: First Page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Asthma
+      - Cancer
+      - Diabetes
+      - Heart Disease
+      - Hypertension
+      - Stroke
+      - Tuberculosis
+      - Other
+      required: true
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: text
+      options: []
+      required: false

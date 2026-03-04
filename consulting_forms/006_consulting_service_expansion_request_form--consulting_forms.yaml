@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Service Expansion Request Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_company_name
+      label: Client Company Name
+      hint: Enter your company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_project_id
+      label: Current Project ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_expansion_details
+      label: -- Expansion Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: expansion_type
+      label: Type of Expansion Requested
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Additional Consulting Hours
+      - New Project Phase
+      - Specialized Expert Consultation
+      - Ongoing Maintenance/Support
+      - Training and Workshops
+      required: true
+    - id: 8
+      name: proposed_expansion_start_date
+      label: Proposed Expansion Start Date
+      hint: When would you like this to begin?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: estimated_additional_hours
+      label: Estimated Additional Hours Needed
+      hint: Approximate hours per month
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_justification
+      label: -- Justification and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_reason_for_expansion
+      label: Primary Reason for Expansion
+      hint: Why is this expansion necessary?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What do you hope to achieve with this expansion?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_approval_status
+      label: Budget Approval Status
+      hint: Has the budget for this expansion been approved?
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Not Yet Submitted
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

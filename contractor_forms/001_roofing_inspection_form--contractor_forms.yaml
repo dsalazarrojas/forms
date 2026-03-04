@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roofing Inspection Form
+    pages:
+    - id: 1
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: building_type
+      hint: null
+      type: select_one
+      options:
+      - Building Type
+      - Flat Roof
+      - Gable Roof
+      - Hip Roof
+      - Shed Roof
+      required: false
+    - id: 3
+      name: roofing_condition
+      label: Roofing Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 4
+      name: chimney_condition
+      label: Chimney Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 5
+      name: flashing_condition
+      label: Flashing Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 6
+      name: gutters_condition
+      label: Gutters Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 7
+      name: downspouts_condition
+      label: Downspouts Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 8
+      name: chimney_safety
+      label: Chimney Safety
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 9
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 10
+      name: roof_structural_integrity
+      label: Roof Structural Integrity
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 11
+      name: flashing_integrity
+      label: Flashing Integrity
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 12
+      name: gutters_condition
+      label: Gutters
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: gutters_type
+      label: Gutters Type
+      hint: null
+      type: select_one
+      options:
+      - Gutter Guard
+      - Leaf Filter
+      - Screen
+      required: false
+    - id: 14
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: select_one
+      options:
+      - Flat Roof
+      - Gable Roof
+      - Hip Roof
+      - Shed Roof
+      required: false
+    - id: 15
+      name: roof_age
+      label: Roof Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: chimney_location
+      label: Chimney Location
+      hint: null
+      type: select_one
+      options:
+      - Front
+      - Back
+      - Left
+      - Right
+      required: false
+    - id: 17
+      name: chimney_danger_signs
+      label: Chimney Danger Signs
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 18
+      name: chimney_foundation
+      label: Chimney Foundation
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 19
+      name: roof_structural_integrity
+      label: Roof Structural Integrity
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Illustrated Story Submission Form
+    pages:
+    - id: 1
+      name: story_submission
+      label: Story Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: artwork
+      label: Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artwork_description
+      label: Description
+      hint: Describe the artwork in 200 words or less
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contributor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contributor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: permissions
+      label: Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

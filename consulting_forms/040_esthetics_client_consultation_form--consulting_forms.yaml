@@ -1,0 +1,379 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esthetics Client Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: List any medical history or allergies.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      required: false
+    - id: 7
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_multiple
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      required: false
+    - id: 8
+      name: preferred_service
+      label: Preferred Service
+      hint: null
+      type: select_multiple
+      options:
+      - Facial
+      - Chemical Peel
+      - Massage
+      - Waxing
+      - Microdermabrasion
+      - Other
+      required: false
+    - id: 9
+      name: medical_concerns
+      label: Medical Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Redness
+      - Dryness
+      - Sensitivity
+      - Aging
+      - Other
+      required: false
+    - id: 10
+      name: medication
+      label: Medication
+      hint: List any medications you are currently taking.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: medical_procedure
+      label: Medical Procedures
+      hint: List any medical procedures you've had in the past.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_hypoallergenic
+      label: Medical Hypoallergenic
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: skin_concerns
+      label: Skin Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Aging
+      - Redness
+      - Dryness
+      - Sensitivity
+      - Other
+      required: false
+    - id: 16
+      name: hair_concerns
+      label: Hair Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Dandruff
+      - Greys
+      - Itchy Scalp
+      - Other
+      - Thinning Hair
+      required: false
+    - id: 17
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Olive
+      - Medium
+      - Tanned
+      - Dark
+      required: false
+    - id: 18
+      name: hair_tone
+      label: Hair Tone
+      hint: null
+      type: select_one
+      options:
+      - Dark
+      - Light
+      - Red
+      - Blonde
+      - Grey/White
+      required: false
+    - id: 19
+      name: face_shaping
+      label: Face Shaping
+      hint: null
+      type: select_multiple
+      options:
+      - Facials
+      - Waxing
+      - Threading
+      - Chemical Exfoliate
+      - Microdermabrasion
+      - Other
+      required: false
+    - id: 20
+      name: chemical_peel
+      label: Chemical Peel
+      hint: null
+      type: select_multiple
+      options:
+      - Light
+      - Medium
+      - Deep
+      required: false
+    - id: 21
+      name: exfoliation_method
+      label: Exfoliation Method
+      hint: null
+      type: select_one
+      options:
+      - Chemical
+      - Physical
+      - Enzyme
+      required: false
+    - id: 22
+      name: sun_exposure
+      label: Sun Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - High
+      - None
+      required: false
+    - id: 23
+      name: smoke_frequency
+      label: Smoke Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Daily
+      - Occasionally
+      - Rarely
+      - Socially
+      required: false
+    - id: 24
+      name: tan_frequency
+      label: Tan Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Daily
+      - Occasionally
+      - Rarely
+      - Socially
+      required: false
+    - id: 25
+      name: chemical_use
+      label: Chemical Use
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Daily
+      - Occasionally
+      - Rarely
+      - Socially
+      required: false
+    - id: 26
+      name: exfoliation_frequency
+      label: Exfoliation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Daily
+      - Occasionally
+      - Rarely
+      - Always
+      required: false
+    - id: 27
+      name: chemical_exposure
+      label: Chemical Exposure
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Rarely
+      - Daily
+      required: false
+    - id: 28
+      name: tan_exposure
+      label: Tan Exposure
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Rarely
+      - Daily
+      required: false
+    - id: 29
+      name: sun_damaged_skin
+      label: Sun Damaged Skin
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Rarely
+      - Daily
+      required: false
+    - id: 30
+      name: chemical_damaged_skin
+      label: Chemical Damaged Skin
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Rarely
+      - Daily
+      required: false
+    - id: 31
+      name: skin_cancer_concerns
+      label: Skin Cancer Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Concerned
+      - Not Concerned
+      required: false
+    - id: 32
+      name: chemical_cancer_concerns
+      label: Chemical Cancer Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Concerned
+      - Not Concerned
+      required: false
+    - id: 33
+      name: face_shape
+      label: Face Shape
+      hint: null
+      type: select_one
+      options:
+      - Heart
+      - Oval
+      - Round
+      required: false
+    - id: 34
+      name: body_shape
+      label: Body Shape
+      hint: null
+      type: select_one
+      options:
+      - Hourglass
+      - Pear
+      - Rectangle
+      - Triangle
+      - Circle
+      - Other
+      required: false
+    - id: 35
+      name: face_size
+      label: Face Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 36
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false

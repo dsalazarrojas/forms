@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: spring_pond_cleaning_request_form
+    pages:
+    - id: 1
+      name: spring_pond_cleaning_request_form
+      label: spring_pond_cleaning_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pond_size
+      label: pond_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pond_depth
+      label: pond_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pond_type
+      label: pond_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: pond_location
+      label: pond_location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: pond_description
+      label: pond_description
+      hint: null
+      type: text
+      options: []
+      required: false

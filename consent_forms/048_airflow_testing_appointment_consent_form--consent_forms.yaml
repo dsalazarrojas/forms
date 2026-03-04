@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airflow Testing Appointment Consent Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Patient first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Patient last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: referring_physician
+      label: Referring Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_phone
+      label: Physician Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: test_type
+      label: Type of Airflow Test
+      hint: Test being performed
+      type: select_one
+      options:
+      - Spirometry
+      - Peak flow measurement
+      - Lung volume test
+      - Diffusion capacity
+      - Bronchoprovocation
+      - Exercise challenge
+      - Other
+      required: true
+    - id: 16
+      name: appointment_date
+      label: Appointment Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: appointment_time
+      label: Appointment Time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: appointment_location
+      label: Appointment Location
+      hint: Where test will be done
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_history
+      label: Relevant Medical History
+      hint: Respiratory conditions
+      type: select_multiple
+      options:
+      - Asthma
+      - COPD
+      - Emphysema
+      - Chronic bronchitis
+      - Pulmonary fibrosis
+      - Cystic fibrosis
+      - Sleep apnea
+      - None
+      required: true
+    - id: 20
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shortness of breath
+      - Wheezing
+      - Chronic cough
+      - Chest tightness
+      - Difficulty breathing
+      - Fatigue
+      - None
+      required: true
+    - id: 21
+      name: smoking_history
+      label: Smoking History
+      hint: Smoking status
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      - Secondhand exposure
+      required: true
+    - id: 22
+      name: medications
+      label: Current Respiratory Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: Any allergies
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recent_illness
+      label: Recent Illness or Surgery
+      hint: Within last 4 weeks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: illness_details
+      label: Illness Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: procedure_explanation
+      label: Procedure Explanation Received
+      hint: Has test been explained
+      type: select_one
+      options:
+      - Yes, fully explained
+      - Partially explained
+      - No explanation yet
+      required: true
+    - id: 27
+      name: risks_understood
+      label: Risks Understood
+      hint: Do you understand risks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: questions_answered
+      label: Questions Answered
+      hint: Have your questions been answered
+      type: select_one
+      options:
+      - Yes, all answered
+      - Some answered
+      - No questions
+      required: true
+    - id: 29
+      name: consent_given
+      label: Consent for Testing
+      hint: Do you consent to the test
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 30
+      name: data_usage_consent
+      label: Data Usage Consent
+      hint: Consent for medical records use
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 31
+      name: results_sharing
+      label: Results Sharing Permission
+      hint: May we share with your doctor
+      type: select_one
+      options:
+      - Yes, share with referring physician
+      - Yes, share with all providers
+      - No, do not share
+      required: true
+    - id: 32
+      name: preparation_instructions
+      label: Preparation Instructions Received
+      hint: Have you received prep instructions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: insurance_information
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: patient_signature
+      label: Patient Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 38
+      name: witness_signature
+      label: Witness Signature
+      hint: Healthcare provider signature
+      type: text
+      options: []
+      required: false

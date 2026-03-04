@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form For Church
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_number
+      label: Your Contact Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_church_involvement
+      label: -- Church Involvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: visitor_status
+      label: Your Current Status with the Church
+      hint: Select one
+      type: select_one
+      options:
+      - First-time Visitor
+      - Occasional Attendee
+      - Active Member
+      - Former Member
+      - Community Member
+      required: true
+    - id: 7
+      name: interest_in_ministries
+      label: Interest in Ministries
+      hint: Select any you are interested in
+      type: select_multiple
+      options:
+      - Youth Ministry
+      - Worship and Music
+      - Community Outreach
+      - Prayer Group
+      - Bible Study
+      - Sunday School
+      - Missions
+      required: false
+    - id: 8
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: type_of_inquiry
+      label: Type of Inquiry
+      hint: What is the primary reason for your contact?
+      type: select_one
+      options:
+      - General Question
+      - Prayer Request
+      - Request for Help/Support
+      - Suggestions/Feedback
+      - Concern or Complaint
+      - Membership Inquiry
+      - Other
+      required: true
+    - id: 10
+      name: detailed_message
+      label: Your Detailed Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach back out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS/Text
+      - No Response Needed
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Therapy Feedback Footage Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: therapy_program
+      label: Therapy Program Name
+      hint: Which program are you in
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: therapy_date
+      label: Therapy Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: animal_partner_name
+      label: Therapy Animal Name
+      hint: Name of animal partner
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Rabbit
+      - Bird
+      - Other
+      required: true
+    - id: 9
+      name: session_type
+      label: Type of Therapy Session
+      hint: null
+      type: select_one
+      options:
+      - Individual Session
+      - Group Session
+      - Family Session
+      - Assessment Session
+      - Follow-Up Session
+      required: true
+    - id: 10
+      name: therapist_name
+      label: Therapist Name
+      hint: Licensed therapist
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feedback_rating
+      label: Overall Session Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: animal_interaction
+      label: How Would You Rate Your Interaction with the Animal
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 13
+      name: therapeutic_benefit
+      label: Did You Experience Therapeutic Benefit
+      hint: null
+      type: select_one
+      options:
+      - Significant Benefit
+      - Moderate Benefit
+      - Some Benefit
+      - Minimal Benefit
+      - No Benefit
+      required: true
+    - id: 14
+      name: benefit_areas
+      label: In Which Areas Did You Experience Benefit
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reduced Anxiety
+      - Improved Mood
+      - Increased Comfort
+      - Better Communication
+      - Enhanced Trust
+      - Emotional Regulation
+      - Social Connection
+      - Physical Relaxation
+      - Other
+      - None
+      required: false
+    - id: 15
+      name: comfort_level
+      label: How Comfortable Did You Feel During the Session
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Uncomfortable
+      - Very Uncomfortable
+      required: true
+    - id: 16
+      name: footage_consent
+      label: Consent for Recording
+      hint: May we record this session
+      type: select_one
+      options:
+      - Yes I Consent to Recording
+      - No I Do Not Consent
+      required: true
+    - id: 17
+      name: recording_type
+      label: Type of Recording
+      hint: If consenting
+      type: select_multiple
+      options:
+      - Video Recording
+      - Audio Recording
+      - Photography
+      required: false
+    - id: 18
+      name: footage_purpose
+      label: Purpose of Recording
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Therapist Training
+      - Program Evaluation
+      - Research Purposes
+      - Educational Materials
+      - Promotional Use
+      - Quality Assurance
+      required: true
+    - id: 19
+      name: footage_usage
+      label: How May the Footage Be Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Internal Review Only
+      - Professional Training
+      - Academic Presentations
+      - Published Research
+      - Public Website
+      - Social Media
+      - Print Materials
+      - Television or Media
+      required: true
+    - id: 20
+      name: identity_protection
+      label: Identity Protection Preferences
+      hint: null
+      type: select_one
+      options:
+      - May Use My Full Identity
+      - Use First Name Only
+      - Blur or Obscure My Face
+      - Voice Alteration Required
+      - Anonymous Use Only
+      required: true
+    - id: 21
+      name: footage_duration
+      label: How Long May Footage Be Retained
+      hint: null
+      type: select_one
+      options:
+      - Until End of Current Program
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Indefinitely
+      - Delete After Specific Use
+      required: true
+    - id: 22
+      name: revocation_rights
+      label: Understanding of Revocation Rights
+      hint: You may revoke consent at any time
+      type: select_one
+      options:
+      - I Understand I Can Revoke Consent
+      - I Need More Information
+      required: true
+    - id: 23
+      name: third_party_viewing
+      label: May Footage Be Shown to Third Parties
+      hint: Other professionals or students
+      type: select_one
+      options:
+      - Yes - Any Professional Use
+      - Yes - With Restrictions
+      - No - Internal Use Only
+      required: true
+    - id: 24
+      name: compensation
+      label: Will You Receive Compensation for Footage Use
+      hint: null
+      type: select_one
+      options:
+      - Yes - Monetary Compensation
+      - Yes - Session Credit
+      - No Compensation
+      - Unsure
+      required: false
+    - id: 25
+      name: concerns_or_questions
+      label: Do You Have Any Concerns or Questions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: concerns_details
+      label: Please Describe Your Concerns
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_feedback
+      label: Additional Feedback About Session
+      hint: Any other comments
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: participant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: final_confirmation
+      label: I Have Read and Understand This Consent Form
+      hint: null
+      type: select_one
+      options:
+      - Yes I Confirm
+      - No I Do Not Confirm
+      required: true

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Release Of Liability Waiver
+    pages:
+    - id: 1
+      name: waiver_date
+      label: Waiver Date
+      hint: Date of this waiver
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 13
+      name: activity_type
+      label: What activity or service are you participating in
+      hint: Select activity
+      type: select_one
+      options:
+      - In-person meeting or consultation
+      - Property showing or tour
+      - Event attendance
+      - Fitness or wellness class
+      - Group gathering
+      - Other in-person service
+      required: true
+    - id: 14
+      name: health_screening_questions
+      label: Are you currently experiencing any COVID-19 symptoms
+      hint: Health screening
+      type: select_one
+      options:
+      - No I am not experiencing symptoms
+      - Yes I have symptoms
+      required: true
+    - id: 15
+      name: positive_test_history
+      label: Have you tested positive for COVID-19 in the past 14 days
+      hint: Test history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: exposure_history
+      label: Have you had close contact with a confirmed COVID-19 case in the past
+        14 days
+      hint: Exposure history
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 17
+      name: risk_acknowledgment
+      label: I understand that participating in this activity may expose me to COVID-19
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - Yes I understand and acknowledge this risk
+      - No I do not acknowledge
+      required: true
+    - id: 18
+      name: voluntary_participation
+      label: I understand that my participation is voluntary and I assume all risks
+      hint: Voluntary participation
+      type: select_one
+      options:
+      - Yes I understand
+      - No I do not agree
+      required: true
+    - id: 19
+      name: safety_protocols_agreement
+      label: I agree to follow all COVID-19 safety protocols including mask wearing
+        and social distancing
+      hint: Safety agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 20
+      name: liability_release
+      label: I hereby release and discharge the organization from any liability arising
+        from COVID-19 exposure during this activity
+      hint: Liability release
+      type: select_one
+      options:
+      - Yes I release liability
+      - No I do not release
+      required: true
+    - id: 21
+      name: indemnification_agreement
+      label: I agree to indemnify and hold harmless the organization from any claims
+        related to COVID-19
+      hint: Indemnification
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 22
+      name: legal_capacity
+      label: I confirm that I am at least 18 years old and have the legal capacity
+        to sign this waiver
+      hint: Legal capacity
+      type: select_one
+      options:
+      - Yes I confirm
+      - No I do not confirm
+      required: true
+    - id: 23
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: guardian_signature_date
+      label: Guardian Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: participant_signature_date
+      label: Participant Signature Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: Date witnessed
+      type: date
+      options: []
+      required: false

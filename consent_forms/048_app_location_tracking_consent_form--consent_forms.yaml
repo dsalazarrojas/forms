@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Location Tracking Consent Form
+    pages:
+      - id: 1
+        name: consent_date
+        label: Consent date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: user_name
+        label: User full name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: user_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: user_id
+        label: User ID or account number
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: date_of_birth
+        label: Date of birth
+        hint: For age verification
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: app_name
+        label: App name
+        hint: Which app is requesting permission
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: tracking_explanation
+        label: How will location be used?
+        hint: Explanation of location tracking purpose
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: tracking_frequency
+        label: Frequency of location tracking
+        hint: How often location will be accessed
+        type: select_one
+        options:
+          - Continuous tracking
+          - Regular intervals
+          - On-demand only
+          - Occasional checks
+          - One-time location check
+        required: true
+      - id: 9
+        name: accuracy_level
+        label: Level of location accuracy needed
+        hint: Precise location vs general area
+        type: select_one
+        options:
+          - Precise GPS location
+          - City level accuracy
+          - General region
+          - Not specified
+        required: true
+      - id: 10
+        name: data_storage
+        label: How will location data be stored?
+        hint: Explanation of data storage
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: data_retention
+        label: How long will location data be kept?
+        hint: Retention period
+        type: select_one
+        options:
+          - Real-time only, not stored
+          - 1 week
+          - 1 month
+          - 3 months
+          - 1 year
+          - Indefinitely
+        required: true
+      - id: 12
+        name: data_sharing
+        label: Will location data be shared with third parties?
+        hint: null
+        type: select_one
+        options:
+          - No, not shared
+          - Shared with trusted partners
+          - Shared for analytics
+          - Shared per user request
+          - Shared broadly
+        required: true
+      - id: 13
+        name: sharing_details
+        label: If shared, describe how location data is used
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: user_control
+        label: Can user control location tracking?
+        hint: Ability to turn off or adjust
+        type: select_one
+        options:
+          - Yes, can turn off anytime
+          - Yes, adjustable settings
+          - Limited control available
+          - No user control
+        required: true
+      - id: 15
+        name: privacy_policy_link
+        label: Link to full privacy policy
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: consent_understanding
+        label: I understand how my location will be used
+        hint: null
+        type: select_one
+        options:
+          - Yes, fully understand
+          - Yes, mostly understand
+          - Partially understand
+          - Do not understand
+        required: true
+      - id: 17
+        name: consent_acceptance
+        label: I consent to location tracking as described
+        hint: null
+        type: select_one
+        options:
+          - Yes, I consent
+          - No, I do not consent
+        required: true
+      - id: 18
+        name: parental_consent
+        label: Is parental consent provided?
+        hint: If user is a minor
+        type: select_one
+        options:
+          - Yes, parent consents
+          - N/A - user is adult
+          - No parental consent
+        required: true
+      - id: 19
+        name: consent_revocation
+        label: I understand I can revoke this consent anytime
+        hint: null
+        type: select_one
+        options:
+          - Yes, understood
+          - No
+        required: true
+      - id: 20
+        name: signature_date
+        label: Consent signature date
+        hint: null
+        type: date
+        options: []
+        required: true

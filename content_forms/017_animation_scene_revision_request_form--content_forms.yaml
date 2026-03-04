@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Scene Revision Request Form
+    pages:
+    - id: 1
+      name: requester_header
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: For request status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department or Role
+      hint: Your department or position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_header
+      label: -- Project and Scene Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of the animation project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: scene_number
+      label: Scene Number or Code
+      hint: Scene identifier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: scene_title
+      label: Scene Title
+      hint: Brief title of the scene
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: timeline_code
+      label: Timecode in Project
+      hint: Start and end timecodes if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: revision_type_header
+      label: -- Type of Revision Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: revision_type
+      label: Type of Revision Needed
+      hint: What kind of change is needed
+      type: select_multiple
+      options:
+      - Character Movement
+      - Facial Expression
+      - Timing Adjustment
+      - Color or Lighting
+      - Layout or Composition
+      - Visual Effects
+      - Camera Movement
+      - Background Elements
+      - Sound Sync
+      - Overall Style
+      required: true
+    - id: 13
+      name: revision_priority
+      label: Priority Level
+      hint: How urgent is this revision
+      type: select_one
+      options:
+      - Critical - Stop work immediately
+      - High - Complete by tomorrow
+      - Medium - Complete this week
+      - Low - Complete this month
+      - Future - Can wait for next phase
+      required: true
+    - id: 14
+      name: revision_details_header
+      label: -- Revision Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_issue
+      label: What is currently wrong with the scene
+      hint: Describe the current problem
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: desired_change
+      label: Desired Change or Outcome
+      hint: Describe exactly what you want changed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: specific_instructions
+      label: Specific Instructions or Reference
+      hint: Technical details or style guidelines
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reference_materials
+      label: Reference Links or Images
+      hint: URLs or descriptions of references
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: scope_header
+      label: -- Scope and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: scene_dependency
+      label: Does this scene depend on other scenes
+      hint: Are there connected scenes to consider
+      type: select_one
+      options:
+      - No dependencies
+      - Depends on previous scene
+      - Depends on following scene
+      - Multiple dependencies
+      required: false
+    - id: 21
+      name: affected_elements
+      label: Other elements affected by this change
+      hint: Will other scenes need adjustments
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deadline_header
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: requested_completion_date
+      label: Requested Completion Date
+      hint: When do you need this completed
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: estimated_duration
+      label: Estimated Duration of Changes
+      hint: How long do you think this will take
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-4 hours
+      - 4-8 hours
+      - 1-2 days
+      - 2-5 days
+      - Over 1 week
+      - Unknown
+      required: false
+    - id: 25
+      name: approval_header
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: approval_authority
+      label: Who approved this revision request
+      hint: Supervisor or director name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

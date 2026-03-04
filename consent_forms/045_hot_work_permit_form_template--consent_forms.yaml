@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hot Work Permit Form Template
+    pages:
+    - id: 1
+      name: work_activities
+      label: What type of hot work is being performed?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location_of_work
+      label: Location of hot work
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_zone
+      label: Work Zone
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Warehouse
+      - Workshop
+      required: false
+    - id: 4
+      name: supervisor_approval
+      label: Supervisor approval received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: permit_number
+      label: Permit number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: permit_date
+      label: Permit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_name
+      label: Supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: Employee signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_signature
+      label: Supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false

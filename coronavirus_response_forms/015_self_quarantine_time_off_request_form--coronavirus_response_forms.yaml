@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Quarantine Time Off Request Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_requesting_time_off
+      label: reason_for_requesting_time_off
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quarantine_start_date
+      label: quarantine_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: quarantine_end_date
+      label: quarantine_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: return_to_work_date
+      label: return_to_work_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_returning_to_work
+      label: reason_for_returning_to_work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 12
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: true
+    - id: 13
+      name: manager
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 14
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 15
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: true
+    - id: 19
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: true
+    - id: 20
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก - 'Employee 2' - 'Employee 3'
+      - Other
+      required: false
+    - id: 22
+      name: manager
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 23
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - ประก
+      - Employee 2
+      - Employee 3
+      required: false
+    - id: 25
+      name: manager
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false

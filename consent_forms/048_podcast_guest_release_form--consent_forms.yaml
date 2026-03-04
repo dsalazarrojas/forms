@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: podcast_guest_release_form
+    pages:
+    - id: 1
+      name: podcast_guest_release_form_page
+      label: podcast_guest_release_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: podcast_title
+      label: podcast_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publication_date
+      label: publication_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: publication_medium
+      label: publication_medium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publication_type
+      label: publication_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: publication_rights
+      label: publication_rights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: content_type
+      label: content_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: audio_file
+      label: audio_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

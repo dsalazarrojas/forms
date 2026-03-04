@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Planning Consultation Intake Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: investment_goal
+      label: Investment Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: financial_goal
+      label: Financial Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Bachelor degree''}'
+      - '{''option2'': "Master''s degree or higher"}'
+      required: false
+    - id: 15
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Single''}'
+      - '{''option2'': ''Married''}'
+      - '{''option3'': ''Divorced''}'
+      - '{''option4'': ''Separated''}'
+      required: false
+    - id: 16
+      name: dependents
+      label: Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Employed''}'
+      - '{''option2'': ''Unemployed''}'
+      - '{''option3'': ''Retired''}'
+      - '{''option4'': ''Disabled''}'
+      required: false
+    - id: 18
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Monthly''}'
+      - '{''option2'': ''Quarterly''}'
+      - '{''option3'': ''Annually''}'
+      required: false
+    - id: 19
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Monthly''}'
+      - '{''option2'': ''Quarterly''}'
+      - '{''option3'': ''Annually''}'
+      required: false
+    - id: 20
+      name: financial_planning_service
+      label: Financial Planning Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Financial Planning''}'
+      - '{''option2'': ''Wealth Management''}'
+      - '{''option3'': ''Retirement Planning''}'
+      - '{''option4'': ''Tax Planning''}'
+      required: false
+    - id: 21
+      name: financial_goal_frequency
+      label: Financial Goal Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Short-term''}'
+      - '{''option2'': ''Mid-term''}'
+      - '{''option3'': ''Long-term''}'
+      required: false
+    - id: 22
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Monthly''}'
+      - '{''option2'': ''Quarterly''}'
+      - '{''option3'': ''Annually''}'
+      required: false

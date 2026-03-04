@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Symptom Monitoring Form
+    pages:
+    - id: 1
+      name: symptom_monitoring
+      label: Symptom Monitoring
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cough
+      label: Cough
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mild''}'
+      - '{''value'': ''Moderate''}'
+      - '{''value'': ''Severe''}'
+      required: true
+    - id: 3
+      name: runny_nose
+      label: Runny nose or congestion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': ''Slight''}'
+      - '{''value'': ''Moderate''}'
+      - '{''value'': ''Severe''}'
+      required: true
+    - id: 4
+      name: sore_throat
+      label: Sore throat
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true
+    - id: 5
+      name: shortness_of_breath
+      label: Shortness of breath
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true
+    - id: 6
+      name: fatigue
+      label: Fatigue
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: true
+    - id: 7
+      name: headache
+      label: Headache
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 8
+      name: muscle_pain
+      label: Muscle pain
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 9
+      name: diarrohea
+      label: Diarrhea
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 10
+      name: abdominal_pain
+      label: Abdominal pain
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 11
+      name: confusion
+      label: Confusion
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 12
+      name: other_symptoms
+      label: Other symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_history
+      label: Travel history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hospitalization
+      label: Hospitalization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: medical_attention
+      label: Medical attention
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 18
+      name: vaccination_status
+      label: Vaccination status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not vaccinated''}'
+      - '{''value'': ''Partially vaccinated''}'
+      - '{''value'': ''Fully vaccinated''}'
+      required: false
+    - id: 19
+      name: test_result
+      label: Test result
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Negative''}'
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Inconclusive''}'
+      required: false
+    - id: 20
+      name: test_result_date
+      label: Test result date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: test_result_time
+      label: Test result time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: symptoms_start_date
+      label: Symptoms start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: symptoms_start_time
+      label: Symptoms start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: symptoms_end_date
+      label: Symptoms end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: symptoms_end_time
+      label: Symptoms end time
+      hint: null
+      type: time
+      options: []
+      required: false

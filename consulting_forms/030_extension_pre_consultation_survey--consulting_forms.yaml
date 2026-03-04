@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extension Pre Consultation Survey
+    pages:
+    - id: 1
+      name: extension_pre_consultation_survey
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: extension_preferences
+      label: extension_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - budget
+      - time
+      - location
+      required: false
+    - id: 4
+      name: schedule_preferences
+      label: schedule_preferences
+      hint: null
+      type: select_one
+      options:
+      - urgent
+      - normal
+      - relaxed
+      required: false
+    - id: 5
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false

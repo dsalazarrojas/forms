@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pledge Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: amount_currency
+      label: Amount Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CNY
+      required: false
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Once
+      - Yearly
+      required: false
+    - id: 7
+      name: frequency_period
+      label: Frequency Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: frequency_interval
+      label: Frequency Interval
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 9
+      name: frequency_unit
+      label: Frequency Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: frequency_start
+      label: Frequency Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: frequency_end
+      label: Frequency End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

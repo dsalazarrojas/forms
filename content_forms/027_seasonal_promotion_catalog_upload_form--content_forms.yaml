@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Promotion Catalog Upload Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vender Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: subcategory
+      label: Sub Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_video
+      label: Product Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: product_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_tags_list
+      label: Tags List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: latitude
+      label: Latitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: longitude
+      label: Longitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

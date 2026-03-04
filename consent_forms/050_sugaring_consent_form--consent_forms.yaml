@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugaring Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Sugaring
+      - Waxing
+      - Other
+      required: false
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Sugaring
+      - Waxing
+      - Other
+      required: false
+    - id: 10
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Regular
+      - Maintenance
+      required: false
+    - id: 11
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Refused
+      - Unknown
+      required: false
+    - id: 12
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

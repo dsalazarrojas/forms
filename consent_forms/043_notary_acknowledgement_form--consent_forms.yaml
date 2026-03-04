@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notary Acknowledgement Form
+    pages:
+    - id: 1
+      name: notary_acknowledgement_form
+      label: notary_acknowledgement_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_signed
+      label: date_signed
+      hint: Date signed
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: notary_signature
+      label: notary_signature
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: notary_stamp
+      label: notary_stamp
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: notary_comment
+      label: notary_comment
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notary_signature_verified
+      label: notary_signature_verified
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_submitted
+      label: date_submitted
+      hint: Date submitted
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_submitted
+      label: time_submitted
+      hint: Time submitted
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: Date completed
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_completed
+      label: time_completed
+      hint: Time completed
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: submitter_name
+      hint: Submitter name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false

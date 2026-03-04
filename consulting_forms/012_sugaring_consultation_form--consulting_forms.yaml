@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sugaring Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: treatment_area
+      label: Treatment Area
+      hint: null
+      type: select_one
+      options:
+      - area 1
+      - area 2
+      - area 3
+      required: true
+    - id: 6
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: select_multiple
+      options:
+      - duration 1
+      - duration 2
+      - duration 3
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: first_conversation_date
+      label: First Conversation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: first_con_ation_time
+      label: First Conversation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: first_conversation_location
+      label: First Conversation Location
+      hint: null
+      type: select_one
+      options:
+      - location 1
+      - location 2
+      - location 3
+      required: false
+    - id: 11
+      name: next_conversation
+      label: Next Conversation
+      hint: null
+      type: note
+      options: []
+      required: false

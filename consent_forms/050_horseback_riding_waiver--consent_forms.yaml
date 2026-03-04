@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Horseback Riding Waiver
+    pages:
+    - id: 1
+      name: rider_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - ME
+      - MD
+      - MA
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NE
+      - NV
+      - NH
+      - NJ
+      - NM
+      - NY
+      - NC
+      - ND
+      - OH
+      - OK
+      - OR
+      - PA
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VT
+      - VA
+      - WA
+      - WV
+      - WI
+      - WY
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter date of birth in MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rider_info_2
+      label: Rider Info 2
+      hint: null
+      type: select_multiple
+      options:
+      - Horseback
+      - Horseback
+      - Horseback
+      - Horseback
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: Enter phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Wife
+      - Husband
+      - Friend
+      - Son
+      - Daughter
+      - Parent
+      - Son-in-law
+      - Daughter-in-law
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Sign above the signature line to indicate your acceptance of this waiver
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_permission
+      label: Permission to contact emergency contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_provider_phone
+      label: Insurance Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rider_info_3
+      label: Rider Info 3
+      hint: null
+      type: select_multiple
+      options:
+      - Horseback
+      - Horseback
+      - Horseback
+      required: false

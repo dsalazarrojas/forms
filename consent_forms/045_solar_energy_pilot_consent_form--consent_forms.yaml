@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Solar Energy Pilot Consent Form
+    pages:
+    - id: 1
+      name: consent
+      label: SolarEnergyPilotConsent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Contact Details'', ''label'': ''Participant Contact
+        Details'', ''type'': ''text'', ''options'': [], ''required'': False}'
+      - '{''id'': 2, ''name'': ''contact_method'', ''label'': ''participant_contact_method'',
+        ''type'': ''select_one'', ''options'': [{''id'': 1, ''name'': ''Phone'', ''label'':
+        ''Phone'', ''type'': ''phone'', ''options'': [], ''required'': False}, {''id'':
+        2, ''name'': ''Email'', ''label'': ''Email'', ''type'': ''email'', ''options'':
+        [], ''required'': False}]}'
+      required: false
+    - id: 7
+      name: solar_pilot_details
+      label: solar_pilot_details
+      hint: null
+      type: text
+      options: []
+      required: false

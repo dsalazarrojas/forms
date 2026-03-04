@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monologue Tournament Entry Form
+    pages:
+    - id: 1
+      name: monologue_tournament_entry_form
+      label: monologue_tournament_entry_form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one_monologue
+      label: select_one_monologue
+      hint: null
+      type: select_one
+      options:
+      - monologue_1
+      - monologue_2
+      - monologue_3
+      required: true
+    - id: 7
+      name: select_multiple_monologues
+      label: select_multiple_monologues
+      hint: null
+      type: select_multiple
+      options:
+      - monologue_1
+      - monologue_2
+      - monologue_3
+      required: false
+    - id: 8
+      name: date_of_monologue
+      label: date_of_monologue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_monologue
+      label: time_of_monologue
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_monologue
+      label: uploaded_monologue
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: selected_monologue_files
+      label: selected_monologue_files
+      hint: null
+      type: select_multiple
+      options:
+      - file_1
+      - file_2
+      - file_3
+      required: false
+    - id: 12
+      name: selected_monologue_files_other
+      label: selected_monologue_files_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: selected_monologue_files_other_description
+      label: selected_monologue_files_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_monologue_other
+      label: uploaded_monologue_other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Symptom Questionnaire
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_screening
+      label: Date of screening
+      hint: Select the current date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recent_fever
+      label: Have you had a fever in the last 14 days
+      hint: Fever of 38C or higher
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: respiratory_symptoms
+      label: Do you have cough or shortness of breath
+      hint: Select yes if experiencing either symptom
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: recent_exposure
+      label: Recent exposure to a confirmed COVID case
+      hint: Close contact within 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 7
+      name: covid_test_result
+      label: COVID test result if available
+      hint: Provide most recent result or select unknown
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Not tested
+      required: false
+    - id: 8
+      name: additional_information
+      label: Additional information
+      hint: Any other concerns or relevant history
+      type: text
+      options: []
+      required: false

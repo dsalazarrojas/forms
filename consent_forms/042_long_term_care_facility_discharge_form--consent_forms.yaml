@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long Term Care Facility Discharge Form
+    pages:
+    - id: 1
+      name: facility_discharge_info
+      label: Facility Discharge Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_discharge
+      label: Reason for Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_step_instructions
+      label: Next Step Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: discharge_team
+      label: Discharge Team
+      hint: null
+      type: select_multiple
+      options:
+      - Discharge Team A
+      - Discharge Team B
+      - Discharge Team C
+      - Discharge Team D
+      - Discharge Team E
+      required: false
+    - id: 9
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: resident_phone
+      label: Resident Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resident_email
+      label: Resident Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: front_desk_inquiry_form
+    pages:
+    - id: 1
+      name: stay_length
+      label: Stay length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: services
+      label: Which services can we help you with?
+      hint: null
+      type: select_one
+      options:
+      - Hotel Front Desk
+      - Room Service
+      - Concierge
+      - Tour and Activities
+      - Other
+      required: true
+    - id: 3
+      name: inquiry_type
+      label: What type of inquiry is this?
+      hint: null
+      type: select_one
+      options:
+      - General Inquiry
+      - Reservation
+      - Complaint
+      - Suggestion
+      - Other
+      required: true
+    - id: 4
+      name: inquiry_details
+      label: Inquiry details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Contact Form
+    pages:
+    - id: 1
+      name: your_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_inquiry
+      label: -- Service Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_subject
+      label: What is your inquiry about?
+      hint: null
+      type: select_one
+      options:
+      - Party Planning
+      - Gift Selection
+      - Holiday Decorations
+      - Event Coordination
+      - Special Services
+      - General Question
+      required: true
+    - id: 8
+      name: event_type
+      label: Type of Event or Need
+      hint: null
+      type: select_one
+      options:
+      - Christmas Party
+      - Holiday Gathering
+      - Corporate Event
+      - Family Celebration
+      - Gift Exchange
+      - Other
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: guest_count
+      label: Estimated Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      - Not set
+      required: false
+    - id: 12
+      name: message_section
+      label: -- Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: message
+      label: Details About Your Request
+      hint: Please describe what you need
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Any Special Requirements or Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_section
+      label: -- Follow Up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Either
+      required: true
+    - id: 17
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false

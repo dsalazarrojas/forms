@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_entry_research_consulting_contact_form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: file
+      label: Attach File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''In Progress''}'
+      - '{''id'': 2, ''value'': ''Completed''}'
+      - '{''id'': 3, ''value'': ''Not Started''}'
+      required: true
+    - id: 11
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Image''}'
+      - '{''id'': 2, ''value'': ''Document''}'
+      - '{''id'': 3, ''value'': ''Video''}'
+      required: false
+    - id: 12
+      name: file_size
+      label: File Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Small''}'
+      - '{''id'': 2, ''value'': ''Medium''}'
+      - '{''id'': 3, ''value'': ''Large''}'
+      required: false
+    - id: 13
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''PDF''}'
+      - '{''id'': 2, ''value'': ''DOCX''}'
+      - '{''id'': 3, ''value'': ''CSV''}'
+      required: false

@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Contract Completion Offboarding Form
+    pages:
+    - id: 1
+      name: section_consultant_contract_ident
+      label: -- Consultant and Contract Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_full_name_ident
+      label: Consultant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_company_ident
+      label: Consultant's Company/Firm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contract_id_ident
+      label: Contract ID or Project Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contract_end_date_ident
+      label: Official Contract Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: internal_sponsor_ident
+      label: Internal Sponsor/Project Manager (Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_documentation_handover
+      label: -- Documentation and Close-out Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: final_deliverable_verified
+      label: Final Deliverables Received and Verified
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete
+      - Partially Complete - Pending Review
+      - false
+      required: true
+    - id: 9
+      name: doc_transfer_confirmed
+      label: All Related Documentation Transferred to Internal Shared Drives
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - In Progress
+      required: true
+    - id: 10
+      name: credential_handover_verified
+      label: Account Credentials and Administrative Access Revoked/Returned
+      hint: null
+      type: select_one
+      options:
+      - Yes - Revoked
+      - Yes - Returned to Sponsor
+      - false
+      required: true
+    - id: 11
+      name: hardware_returned_checklist
+      label: Company Hardware Returned (If applicable)
+      hint: e.g., Laptop, Badge, Phone
+      type: select_one
+      options:
+      - Yes - All returned
+      - No - Outstanding items
+      - N/A
+      required: true
+    - id: 12
+      name: section_financial_offboarding
+      label: -- Financial and Billing Offboarding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: final_invoice_submitted
+      label: Final Project Invoice Submitted for Payment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Final calculations pending
+      required: true
+    - id: 14
+      name: outstanding_expenses_verified
+      label: All Reimbursable Expenses Submitted and Approved
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 15
+      name: section_offboarding_feedback
+      label: -- Consultant and Project Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: consultant_performance_rating
+      label: Overall Consultant Performance Rating (1-5)
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: rehire_eligibility_status
+      label: Eligible for Future Rehire or New Contracts?
+      hint: null
+      type: select_one
+      options:
+      - Yes - High Priority
+      - Yes - Conditional
+      - false
+      required: true
+    - id: 18
+      name: primary_success_factor_desc
+      label: What was the primary success factor for this engagement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: lessons_learned_desc
+      label: Key Lessons Learned for Future Engagements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_final_submission
+      label: -- Final Submission and Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submission_date
+      label: Date of Offboarding Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: authorized_offboarding_officer_name_label
+      label: Authorized By (Name and Title)
+      hint: null
+      type: text
+      options: []
+      required: true

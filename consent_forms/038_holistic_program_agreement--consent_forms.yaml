@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Program Agreement
+    pages:
+    - id: 1
+      name: name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_information
+      label: Health information
+      hint: Please note any health conditions or allergies
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware of the holistic program
+      - I have read and understand the program information
+      - I agree to participate in the holistic program
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

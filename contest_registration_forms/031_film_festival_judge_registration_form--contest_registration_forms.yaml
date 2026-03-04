@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Festival Judge Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: On a scale of 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_genre
+      label: Favorite Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Romance
+      required: false
+    - id: 8
+      name: favorite_director
+      label: Favorite Director
+      hint: null
+      type: select_one
+      options:
+      - Steven Spielberg
+      - Quentin Tarantino
+      - Christopher Nolan
+      - James Cameron
+      - Martin Scorsese
+      required: false
+    - id: 9
+      name: favorite_actor
+      label: Favorite Actor
+      hint: null
+      type: select_one
+      options:
+      - Leonardo DiCaprio
+      - Denzel Washington
+      - Tom Hanks
+      - Robert De Niro
+      - Tom Cruise
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agree
+      label: Agree
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 13
+      name: submit_button
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

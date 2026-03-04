@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Hazard Analysis Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hazard_identification
+      label: Hazard Identification
+      hint: Identify hazards and assess their severity
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: hazard_assessment
+      label: Hazard Assessment
+      hint: Assess and control hazards identified in step 2
+      type: select_multiple
+      options:
+      - Hazard Level 1
+      - Hazard Level 2
+      - Hazard Level 3
+      required: false
+    - id: 4
+      name: hazard_prevention
+      label: Hazard Prevention
+      hint: Identify and implement measures to control hazards
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: safety_measures
+      label: Safety Measures
+      hint: Describe any safety measures to be taken
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: Summarize your findings and recommendations
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review
+      label: Review
+      hint: Review and summarize your findings
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false

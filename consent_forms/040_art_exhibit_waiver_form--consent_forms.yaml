@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibit Waiver Form
+    pages:
+    - id: 1
+      name: section_artist
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: waiver_date
+      label: Waiver Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_exhibit
+      label: -- Exhibit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exhibit_name
+      label: Exhibit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exhibit_venue
+      label: Venue Name
+      hint: Gallery, museum, etc.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exhibit_dates
+      label: Exhibit Dates
+      hint: Start to end date
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_artwork
+      label: -- Artwork Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artwork_medium
+      label: Medium or Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: artwork_value
+      label: Artwork Estimated Value
+      hint: For insurance purposes
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: liability_waiver
+      label: I waive liability for damage, theft, or loss
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 17
+      name: display_permission
+      label: Gallery may display artwork as agreed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 18
+      name: photography_permission
+      label: Gallery may photograph and document artwork
+      hint: For promotional purposes
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 19
+      name: publicity_rights
+      label: Gallery may use images in publicity materials
+      hint: Websites, social media, brochures, etc.
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 20
+      name: section_insurance
+      label: -- Insurance and Protection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: insurance_coverage
+      label: Type of Insurance Coverage Provided
+      hint: null
+      type: select_one
+      options:
+      - Full coverage
+      - Partial coverage
+      - Artist provided coverage
+      - No coverage
+      required: true
+    - id: 22
+      name: maximum_coverage
+      label: Maximum Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_compensation
+      label: -- Compensation and Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: commission_percentage
+      label: Commission or Fee Percentage
+      hint: Percentage taken by gallery
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: artist_acknowledgment
+      label: I acknowledge and accept all terms in this waiver
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true

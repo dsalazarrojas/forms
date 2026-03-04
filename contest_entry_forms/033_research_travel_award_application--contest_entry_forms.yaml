@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: ResearchTravelAwardApplication
+    pages:
+    - id: 1
+      name: applicant
+      label: Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: institution_approval
+      label: Institution Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: award_status
+      label: Award Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: travel_funds
+      label: Travel Funds
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: application_submission
+      label: Application Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: travel_expenses
+      label: Travel Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: approval_by
+      label: Approval By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: institution_name
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: department_address
+      label: Department Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_contact
+      label: Department Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: institution_contact
+      label: Institution Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: awarding_committee
+      label: Awarding Committee
+      hint: null
+      type: text
+      options: []
+      required: false

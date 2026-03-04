@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_contest_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: promotion
+      label: Promotion
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''win_a_year_of_freebies''}'
+      - '{''value'': ''free_biz_services''}'
+      - '{''value'': ''free_products''}'
+      - '{''value'': ''win_a_car''}'
+      - '{''value'': ''win_a_trip''}'
+      required: true
+    - id: 13
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contest_type
+      label: Contest Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''single_entry''}'
+      - '{''value'': ''multiple_entries''}'
+      - '{''value'': ''both''}'
+      required: true
+    - id: 15
+      name: prize_type
+      label: Prize Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''gift_card''}'
+      - '{''value'': ''gift_card_bundle''}'
+      - '{''value'': ''free_services''}'
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: entry_limit
+      label: Entry Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: winner_limit
+      label: Winner Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: draw_date
+      label: Draw Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: prize_description
+      label: Prize Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rules
+      label: Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_of_service
+      label: Terms Of Service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: legal_disclaimers
+      label: Legal Disclaimers
+      hint: null
+      type: text
+      options: []
+      required: false

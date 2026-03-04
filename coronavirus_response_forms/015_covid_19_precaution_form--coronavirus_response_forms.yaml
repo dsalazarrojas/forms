@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Precaution Form
+    pages:
+    - id: 1
+      name: visitor_staff_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entry_purpose
+      label: Purpose of Entry
+      hint: null
+      type: select_one
+      options:
+      - Employee - Work Shift
+      - Visitor - Scheduled Meeting
+      - Contractor - Maintenance
+      - Delivery/Service
+      required: true
+    - id: 3
+      name: temp_check
+      label: Recorded Temperature (F)
+      hint: Measured by building security or staff
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mask_worn
+      label: Mask is being worn properly upon entry
+      hint: Must cover nose and mouth
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: hand_sanitized
+      label: Hand sanitizer was applied at the entry station
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: distance_agreement
+      label: I agree to maintain a distance of at least 6 feet from others
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 7
+      name: notification_agreement
+      label: I agree to notify management if I develop symptoms within 48 hours of
+        visit
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: authorized_by
+      label: Entry Authorized By (Staff Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: entry_time
+      label: Time of Entry
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: exit_time
+      label: Time of Exit
+      hint: To be filled out upon leaving
+      type: time
+      options: []
+      required: false

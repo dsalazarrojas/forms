@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Authorization Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Authorization Form --
+      hint: Request authorization to access restricted information, systems, or physical
+        areas.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Requester full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee or badge ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor or manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_email
+      label: Supervisor email address
+      hint: For authorization approval
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: access_type
+      label: Type of access requested
+      hint: null
+      type: select_multiple
+      options:
+      - Physical area or building
+      - IT system or application
+      - Database or data repository
+      - Network or VPN
+      - File share or document library
+      - Restricted equipment
+      required: true
+    - id: 11
+      name: access_details
+      label: Specific areas, systems, or resources requiring access
+      hint: Provide names, locations, or system names
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: access_level
+      label: Level of access needed
+      hint: null
+      type: select_one
+      options:
+      - Read-only or view only
+      - Read and write
+      - Full administrative access
+      - Temporary or time-limited
+      required: true
+    - id: 13
+      name: reason_for_access
+      label: Business justification for access
+      hint: Explain why this access is needed for your role
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: access_start_date
+      label: Requested start date for access
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: access_end_date
+      label: Access end date (if temporary)
+      hint: Leave blank if permanent access is requested
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: confidentiality_agreement
+      label: I agree to maintain the confidentiality of all information accessed and
+        comply with organizational security policies
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true
+    - id: 17
+      name: request_date
+      label: Date of request
+      hint: null
+      type: date
+      options: []
+      required: true

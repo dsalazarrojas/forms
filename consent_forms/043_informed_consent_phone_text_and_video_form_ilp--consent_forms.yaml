@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: informed_consent_phone_text_and_video_form_ilp
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: informed_consent_date
+      label: Date of Video Conference
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: informed_consent_time
+      label: Time of Video Conference
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: video_conference_details
+      label: Video Conference Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: I Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

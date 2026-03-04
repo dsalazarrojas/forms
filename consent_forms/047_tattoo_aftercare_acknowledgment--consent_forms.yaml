@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Aftercare Acknowledgment
+    pages:
+    - id: 1
+      name: client_understands_aftercare
+      label: Client understands aftercare instructions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: studio_responsible
+      label: Studio responsible for aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: artist_responsible
+      label: Artist responsible for aftercare instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_acknowledgment
+      label: Client acknowledgment of aftercare instructions
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date_of_service
+      label: Date of service
+      hint: null
+      type: date
+      options: []
+      required: false

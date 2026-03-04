@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Anthology Submission Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter First Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter Email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - fiction
+      - nonfiction
+      required: true
+    - id: 6
+      name: genre
+      label: Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Romance
+      - Horror
+      - Science Fiction
+      - Mystery
+      - Fantasy
+      - Historical Fiction
+      required: true
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: anthology_name
+      label: Anthology Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: anthology_url
+      label: Anthology URL
+      hint: null
+      type: text
+      options: []
+      required: true

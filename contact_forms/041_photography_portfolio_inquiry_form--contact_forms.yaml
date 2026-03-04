@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Portfolio Inquiry Form
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service
+      label: Type of photography service
+      hint: null
+      type: select_one
+      options:
+      - Portrait photography
+      - Event photography
+      - Commercial photography
+      - Other
+      required: false
+    - id: 5
+      name: services
+      label: Services you're interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Family portraits
+      - Wedding photography
+      - Headshots
+      - Product photography
+      required: false
+    - id: 6
+      name: date
+      label: Date of inquiry
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_details
+      label: Inquire about
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional information
+      hint: null
+      type: text
+      options: []
+      required: false

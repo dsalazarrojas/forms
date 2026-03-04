@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Verification Form
+    pages:
+    - id: 1
+      name: volunteer_info
+      label: Volunteer Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_info
+      label: Service Information
+      hint: Details about your service
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: organization_name
+      label: Organization Name
+      hint: Where you served
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: organization_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supervisor_title
+      label: Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Community Outreach
+      - Environmental Service
+      - Educational Support
+      - Healthcare Support
+      - Senior Services
+      - Youth Programs
+      - Food Services
+      - Animal Care
+      - Disaster Relief
+      - Other
+      required: true
+    - id: 19
+      name: service_description
+      label: Service Description
+      hint: What did you do
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: service_period
+      label: Service Period
+      hint: Start to end date
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: total_hours
+      label: Total Hours Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: schedule_details
+      label: Schedule Details
+      hint: Days and times served
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: performance
+      label: Performance Evaluation
+      hint: To be completed by supervisor
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: reliability
+      label: Reliability Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 27
+      name: quality_of_work
+      label: Quality of Work Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 28
+      name: attitude
+      label: Attitude Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 29
+      name: completed_requirements
+      label: Did Volunteer Complete All Requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes - All Complete
+      - Yes - Mostly Complete
+      - No - Incomplete
+      required: true
+    - id: 30
+      name: verification_statement
+      label: Verification Statement
+      hint: I verify this information is accurate
+      type: select_one
+      options:
+      - Yes - I Verify This Information
+      - No - Cannot Verify
+      required: true
+    - id: 31
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date of Verification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplemental Health Questionnaire
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birthday
+      label: Date of Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

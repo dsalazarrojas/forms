@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pumpkin Cheesecake Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: number_of_pumpkins
+      label: Number Of Pumpkin Cheesecakes
+      hint: Please provide the correct number of cheesecakes
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: type_of_pumpkin
+      label: Type of Pumpkin
+      hint: null
+      type: select_one
+      options:
+      - Pumpkin
+      - Squash
+      - Gourd
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

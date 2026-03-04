@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Permit Form For Dental Clinic
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: purpose_of_visit
+      label: purpose_of_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New York''}'
+      - '{''label'': ''Los Angeles''}'
+      - '{''label'': ''Chicago''}'
+      required: true
+    - id: 10
+      name: travel_start_date
+      label: travel_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: travel_end_date
+      label: travel_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: travel_duration
+      label: travel_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: travel_distance
+      label: travel_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''car''}'
+      - '{''label'': ''plane''}'
+      - '{''label'': ''bus''}'
+      - '{''label'': ''train''}'
+      required: true
+    - id: 15
+      name: travel_notes
+      label: travel_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_status
+      label: travel_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''approved''}'
+      - '{''label'': ''pending''}'
+      - '{''label'': ''rejected''}'
+      required: true
+    - id: 17
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_license_number
+      label: doctor_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_license_type
+      label: doctor_license_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''MD''}'
+      - '{''label'': ''DDS''}'
+      - '{''label'': ''DPM''}'
+      - '{''label'': ''DMD''}'
+      required: true
+    - id: 20
+      name: doctor_signature
+      label: doctor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: clinic_name
+      label: clinic_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: clinic_license_number
+      label: clinic_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: clinic_license_type
+      label: clinic_license_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''MD''}'
+      - '{''label'': ''DDS''}'
+      - '{''label'': ''DPM''}'
+      - '{''label'': ''DMD''}'
+      required: true
+    - id: 25
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''approved''}'
+      - '{''label'': ''pending''}'
+      - '{''label'': ''rejected''}'
+      required: true

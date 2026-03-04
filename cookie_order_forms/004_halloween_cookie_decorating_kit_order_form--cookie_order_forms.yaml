@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Cookie Decorating Kit Order Form
+    pages:
+    - id: 1
+      name: holiday_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: holiday_form_ingredients
+      label: Halloween Kit Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - Decorating Kit
+      - Cookie Sticks
+      - Fondant
+      required: false
+    - id: 4
+      name: holiday_form_decorations
+      label: Halloween Decorations
+      hint: null
+      type: select_one
+      options:
+      - Bats
+      - Ghosts
+      - Pumpkins
+      required: false
+    - id: 5
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: holiday_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

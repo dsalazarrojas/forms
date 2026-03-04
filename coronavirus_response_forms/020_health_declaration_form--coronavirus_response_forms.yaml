@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Declaration Form
+    pages:
+    - id: 1
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_trace
+      label: Contact Trace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - No symptoms
+      - Mild symptoms
+      - Severe symptoms
+      - No symptoms but exposed to someone with symptoms
+      required: false
+    - id: 5
+      name: travel_details
+      label: Travel Details
+      hint: Flight number, date of travel, country traveled from
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Traveler
+      - Patient
+      - Event attendee
+      - Student
+      - Visitor
+      - Employee
+      required: false
+    - id: 7
+      name: travel_destination
+      label: Travel Destination
+      hint: Country or region traveled from, if traveling
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_attention
+      label: Medical Attention
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_contact
+      label: Medical Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: medical_location
+      label: Medical Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_result
+      label: Medical Result
+      hint: null
+      type: select_one
+      options:
+      - No result
+      - Positive
+      - Negative
+      required: false
+    - id: 15
+      name: medical_test
+      label: Medical Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_info
+      label: Patient Information
+      hint: Patient name, date of birth, contact information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Infected
+      - Recovered
+      required: false
+    - id: 19
+      name: patient_condition
+      label: Patient Condition
+      hint: Describe any medical condition
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: travel_reason
+      label: Travel Reason
+      hint: Purpose of travel
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: travel_date
+      label: Travel Date
+      hint: Date of last travel
+      type: date
+      options: []
+      required: false

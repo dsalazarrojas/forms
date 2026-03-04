@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: opinion-article-assessment-form
+    pages:
+    - id: 1
+      name: article_url
+      label: Article URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: article_title
+      label: Article Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: article_date
+      label: Article Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

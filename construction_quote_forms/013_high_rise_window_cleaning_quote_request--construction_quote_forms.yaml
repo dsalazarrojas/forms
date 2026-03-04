@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_rise_window_cleaning_quote_request
+    pages:
+    - id: 1
+      name: window_cleaning_quote_request
+      label: High-Rise Window Cleaning Quote Request
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Exterior
+      - Interior
+      - Other
+      required: true
+    - id: 3
+      name: building_height
+      label: Building Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: building_width
+      label: Building Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: building_story_count
+      label: Building Story Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: building_floor_area
+      label: Building Floor Area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Service Provider 1
+      - Service Provider 2
+      - Service Provider 3
+      required: true
+    - id: 11
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank
+      - Other
+      - Credit
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppmt_print_competition_form
+    pages:
+    - id: 1
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment
+      label: Payment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - Photograph
+      - Artist
+      - Artisan
+      - Student
+      required: false
+    - id: 4
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: entry_name
+      label: Entry Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entry_title
+      label: Entry Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: entry_image
+      label: Entry Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: price_amount
+      label: Price Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Cheque
+      required: false
+    - id: 15
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 16
+      name: entry_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_status
+      label: Submitter Status
+      hint: null
+      type: select_one
+      options:
+      - New User
+      - Existing User
+      - User Blocked
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false

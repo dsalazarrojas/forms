@@ -1,0 +1,47 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Contact Form
+    pages:
+    - id: 1
+      name: select_form
+      label: Select Form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 2
+      name: form_1_fields
+      label: Form 1 Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_2_fields
+      label: Form 2 Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_fields
+      label: Contact Fields
+      hint: null
+      type: text
+      options: []
+      required: false

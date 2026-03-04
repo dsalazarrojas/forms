@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Consultation Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: marketing_channel
+      label: Marketing Channel
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Social Media
+      - Print
+      - Email
+      - Online
+      required: false
+    - id: 10
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: select_multiple
+      options:
+      - ประก
+      - '30000'
+      - '60000'
+      - '90000'
+      - '120000'
+      - '150000'
+      required: false
+    - id: 11
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_one
+      options:
+      - One-on-one
+      - Group
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

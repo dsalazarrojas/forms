@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Service Inquiry Form
+    pages:
+    - id: 1
+      name: event_planner_name
+      label: Event Planner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: 24h format
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: true
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wedding
+      - Corporate
+      - Birthday
+      required: true
+    - id: 9
+      name: dj_preferences
+      label: DJ Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dj_notes
+      label: DJ Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

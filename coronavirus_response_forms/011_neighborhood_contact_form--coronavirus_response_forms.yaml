@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: neighborhood_contact_form
+    pages:
+    - id: 1
+      name: block_captain
+      label: block captain
+      hint: null
+      type: select_one
+      options:
+      - block captainประก
+      - block captain
+      required: true
+    - id: 2
+      name: block_captain_phone_number
+      label: block captain phone number
+      hint: Please provide block captain phone number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: contact first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_last_name
+      label: contact last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: neighborhood_address
+      label: neighborhood address
+      hint: Please provide your neighborhood address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: block_captain_name
+      label: block captain name
+      hint: Please provide block captain name
+      type: text
+      options: []
+      required: false

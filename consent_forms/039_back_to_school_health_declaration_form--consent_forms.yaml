@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Health Declaration Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Student name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: parent_name
+        label: Parent or guardian name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_submission
+        label: Date of submission
+        hint: Date the form is completed
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: recent_illnesses
+        label: Recent illnesses in last 14 days
+        hint: Fever cough loss of taste other
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: covid_exposure
+        label: Recent COVID exposure
+        hint: Contact with confirmed case in past 14 days
+        type: select_one
+        options: [Yes, No, Unsure]
+        required: true
+      - id: 6
+        name: vaccination_status
+        label: Vaccination status
+        hint: COVID and other relevant vaccines
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: chronic_conditions
+        label: Chronic health conditions
+        hint: Asthma diabetes heart conditions
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: medications
+        label: Current medications
+        hint: List medications and dosages
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: consent_for_care
+        label: Consent for school to provide basic care
+        hint: Administer first aid and notify parents
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 10
+        name: signature_name
+        label: Name of person signing
+        hint: Typed full name is accepted
+        type: text
+        options: []
+        required: true

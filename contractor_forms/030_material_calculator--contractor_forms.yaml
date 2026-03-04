@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Calculator
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Concrete
+      - Steel
+      - Wood
+      - Glass
+      required: false
+    - id: 3
+      name: material_length
+      label: Material Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material_width
+      label: Material Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: material_height
+      label: Material Height
+      hint: null
+      type: number
+      options: []
+      required: false

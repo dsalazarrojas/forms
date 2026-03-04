@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Consulting Appointment Form
+    pages:
+    - id: 1
+      name: client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Your Position
+      hint: Job title or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_industry
+      label: Company Industry
+      hint: Type of business
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: appointment_details
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: Select preferred time slot
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      required: true
+    - id: 11
+      name: appointment_format
+      label: Appointment Format
+      hint: How would you prefer to meet?
+      type: select_one
+      options:
+      - In Person
+      - Video Conference
+      - Phone Call
+      - No Preference
+      required: true
+    - id: 12
+      name: consulting_topic
+      label: -- Consulting Topic --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Type of Consulting Service
+      hint: What do you need help with?
+      type: select_one
+      options:
+      - Strategy Consulting
+      - Financial Consulting
+      - Operations Consulting
+      - Marketing Consulting
+      - Technology Consulting
+      - HR Consulting
+      - Other
+      required: true
+    - id: 14
+      name: main_challenge
+      label: Main Challenge or Opportunity
+      hint: Describe your primary concern
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: specific_areas
+      label: Specific Areas to Address
+      hint: Select all relevant areas
+      type: select_multiple
+      options:
+      - Growth Strategy
+      - Cost Reduction
+      - Process Improvement
+      - Team Development
+      - Technology Integration
+      - Market Expansion
+      - Risk Management
+      required: false
+    - id: 16
+      name: current_status
+      label: Current Business Status
+      hint: Where are you now?
+      type: select_one
+      options:
+      - Struggling
+      - Stable
+      - Growing
+      - Highly Successful
+      required: true
+    - id: 17
+      name: goals_and_expectations
+      label: -- Goals and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: desired_outcome
+      label: Desired Outcome from Consulting
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: timeline_to_results
+      label: Expected Timeline to Results
+      hint: When do you need solutions?
+      type: select_one
+      options:
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Long-Term
+      required: true
+    - id: 20
+      name: budget_range
+      label: Budget Range for Consulting
+      hint: Investment capacity
+      type: select_one
+      options:
+      - Under 5k
+      - 5k - 15k
+      - 15k - 30k
+      - 30k+
+      - To be discussed
+      required: false
+    - id: 21
+      name: prior_consulting
+      label: Prior Consulting Experience
+      hint: Have you used consulting before?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

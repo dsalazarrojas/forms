@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_content_creator_agreement
+    pages:
+    - id: 1
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: select_one
+      options:
+      - Event Organizer 1
+      - Event Organizer 2
+      - Event Organizer 3
+      required: false
+    - id: 2
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: content_type
+      label: content_type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Image
+      - Audio
+      - Text
+      required: false
+    - id: 4
+      name: content_owner
+      label: content_owner
+      hint: null
+      type: select_one
+      options:
+      - Content Owner 1
+      - Content Owner 2
+      - Content Owner 3
+      required: false
+    - id: 5
+      name: contract_start
+      label: contract_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end
+      label: contract_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: content_delivery_terms
+      label: content_delivery_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: content_rights
+      label: content_rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contract_status
+      label: contract_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - In Progress
+      - Signed
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: content_description
+      label: content_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contract_notes
+      label: contract_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contract_version
+      label: contract_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false

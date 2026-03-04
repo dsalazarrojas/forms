@@ -1,0 +1,355 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupancy Tracking Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Building Occupancy Tracking Consent --
+      hint: Authorization for occupancy monitoring and tracking
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: occupant_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: occupant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: occupant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee or occupant ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tracking_purpose
+      label: -- Tracking Purpose and Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tracking_type
+      label: Type of occupancy tracking
+      hint: null
+      type: select_multiple
+      options:
+      - Entry/exit logging
+      - Desk/workspace occupancy
+      - Parking usage
+      - Meeting room usage
+      - Building access
+      - Visitor tracking
+      - Space utilization analytics
+      - Emergency response verification
+      - Health and safety monitoring
+      - Other
+      required: true
+    - id: 9
+      name: tracking_purpose_description
+      label: Purpose of tracking
+      hint: Why occupancy data is collected
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: intended_use
+      label: Intended use of occupancy data
+      hint: null
+      type: select_multiple
+      options:
+      - Space planning
+      - Building optimization
+      - Security
+      - Compliance
+      - Emergency management
+      - Resource allocation
+      - Analytics
+      - Operations
+      - Other
+      required: true
+    - id: 11
+      name: collection_methods
+      label: -- Data Collection Methods --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: collection_technology
+      label: Technology used for tracking
+      hint: null
+      type: select_multiple
+      options:
+      - Badge/card readers
+      - Mobile app
+      - Sensors/IoT devices
+      - Camera systems
+      - WiFi tracking
+      - Manual logging
+      - Biometric systems
+      - QR codes
+      - Other
+      required: true
+    - id: 13
+      name: frequency_tracking
+      label: Frequency of data collection
+      hint: null
+      type: select_one
+      options:
+      - Continuous - real-time
+      - Frequent - multiple times daily
+      - Daily
+      - Weekly
+      - As needed
+      - Periodic surveys
+      required: true
+    - id: 14
+      name: data_granularity
+      label: Level of detail collected
+      hint: null
+      type: select_one
+      options:
+      - Individual level - personally identifiable
+      - Department level - anonymous aggregated
+      - Building level - aggregated only
+      - Time-based only
+      - Minimal - basic occupancy only
+      required: true
+    - id: 15
+      name: privacy_section
+      label: -- Privacy and Data Protection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: data_access
+      label: Who has access to occupancy data?
+      hint: null
+      type: select_multiple
+      options:
+      - Facility management only
+      - Building management
+      - Department managers
+      - Security personnel
+      - Finance/accounting
+      - Executive leadership
+      - IT personnel
+      - Authorized vendors
+      - External third parties
+      - Other
+      required: true
+    - id: 17
+      name: data_sharing
+      label: Will data be shared with third parties?
+      hint: null
+      type: select_one
+      options:
+      - No - internal use only
+      - Only with authorized vendors
+      - Limited sharing with partners
+      - Shared for analytics
+      - Other arrangements
+      required: true
+    - id: 18
+      name: retention_period
+      label: Data retention period
+      hint: How long will data be kept?
+      type: select_one
+      options:
+      - Real-time only - no storage
+      - Daily - deleted after 24 hours
+      - Weekly - deleted after 7 days
+      - Monthly - deleted after 30 days
+      - Quarterly - deleted after 3 months
+      - Annual - deleted after 1 year
+      - Indefinite storage
+      - Until project ends
+      required: true
+    - id: 19
+      name: anonymization
+      label: Data anonymization and protection
+      hint: null
+      type: select_one
+      options:
+      - Fully anonymized - no personal info
+      - Pseudonymized - coded identifiers
+      - Encrypted - secure storage
+      - Standard protection only
+      - Limited protection
+      required: true
+    - id: 20
+      name: security_measures
+      label: Security measures in place
+      hint: null
+      type: select_multiple
+      options:
+      - Encryption
+      - Secure servers
+      - Access controls
+      - Audit trails
+      - Regular backups
+      - Cybersecurity measures
+      - Physical security
+      - Compliance standards
+      - Other
+      required: true
+    - id: 21
+      name: rights_section
+      label: -- Your Rights and Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: access_own_data
+      label: Can you access your own data?
+      hint: null
+      type: select_one
+      options:
+      - Yes, anytime
+      - Yes, with request
+      - Limited access
+      - false
+      required: true
+    - id: 23
+      name: opt_out
+      label: Can you opt out of tracking?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely opt out
+      - Yes, partial opt out
+      - No, required participation
+      - Conditional - with reason
+      required: true
+    - id: 24
+      name: data_deletion
+      label: Can you request data deletion?
+      hint: null
+      type: select_one
+      options:
+      - Yes, anytime
+      - Yes, within timeframe
+      - Yes, with documentation
+      - Limited deletion
+      - false
+      required: true
+    - id: 25
+      name: consent_section
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: acknowledge_purpose
+      label: I understand the purpose of occupancy tracking
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 27
+      name: acknowledge_methods
+      label: I understand the tracking methods
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 28
+      name: acknowledge_data_use
+      label: I acknowledge how my data will be used
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 29
+      name: consent_given
+      label: I consent to building occupancy tracking
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Conditional consent - with restrictions
+      required: true
+    - id: 30
+      name: consent_conditions
+      label: Conditions or restrictions on consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: withdrawal_rights
+      label: I understand I can withdraw consent
+      hint: null
+      type: select_one
+      options:
+      - Yes, understood
+      - false
+      required: true
+    - id: 32
+      name: contact_section
+      label: -- Communication and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: notification_preference
+      label: Preferred notification method
+      hint: For updates on tracking or data use
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - No notification needed
+      - Other
+      required: false
+    - id: 34
+      name: privacy_officer_contact
+      label: Privacy officer or contact person
+      hint: For data concerns
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: questions_concerns
+      label: Questions or concerns about tracking
+      hint: null
+      type: text
+      options: []
+      required: false

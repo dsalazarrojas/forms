@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Content Ownership Agreement
+    pages:
+    - id: 1
+      name: creator_name
+      label: Creator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: studio_name
+      label: Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - Games
+      - Assets
+      - Music
+      - Sound
+      - Art
+      - Other
+      required: true
+    - id: 5
+      name: ownership_type
+      label: Ownership Type
+      hint: null
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      - Royalty
+      - Joint
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: game_version
+      label: Game Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: e_signature
+      label: E Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: studio_address
+      label: Studio Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: creator_address
+      label: Creator Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: creator_company
+      label: Creator Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: creator_title
+      label: Creator Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: studio_title
+      label: Studio Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: content_license
+      label: Content License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: license_terms
+      label: License Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: true
+    - id: 23
+      name: game_status
+      label: Game Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 24
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

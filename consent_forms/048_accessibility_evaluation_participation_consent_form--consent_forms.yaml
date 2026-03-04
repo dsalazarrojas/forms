@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Evaluation Participation Consent Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Legal name for consent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Primary communication channel
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Mobile contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_study
+      label: -- Study Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: study_title
+      label: Title of the Accessibility Study
+      hint: Project reference name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_date
+      label: Date of Participation
+      hint: Scheduled evaluation date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_accommodations
+      label: -- Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: required_accommodations
+      label: Do you require any of the following for the session?
+      hint: Check all that apply to ensure we are prepared
+      type: select_multiple
+      options:
+      - Screen Reader support
+      - ASL Interpreter
+      - Magnification software
+      - Captions
+      - Physical assistance
+      - Frequent breaks
+      required: false
+    - id: 10
+      name: other_needs
+      label: Any other specific needs or requirements
+      hint: Provide detail on any extra support needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_consent
+      label: -- Consent Statements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participation_consent
+      label: I voluntarily agree to participate in this accessibility evaluation
+      hint: primary participation agreement
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 13
+      name: recording_consent
+      label: I consent to being video or audio recorded for research analysis
+      hint: recording permission
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 14
+      name: data_confidentiality
+      label: I understand my personal data will be kept confidential
+      hint: privacy acknowledgement
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 15
+      name: section_rights
+      label: -- Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: right_to_withdraw
+      label: I understand I can stop the session at any time for any reason
+      hint: right to exit
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 17
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: participant_signature
+      label: Signature - Type Full Name
+      hint: Digital validation
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signing_date
+      label: Signing Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

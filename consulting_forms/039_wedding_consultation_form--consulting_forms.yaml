@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Consultation Form
+    pages:
+    - id: 1
+      name: wedding_preferences
+      label: Wedding Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_dates
+      label: Wedding Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wedding_location
+      label: Wedding Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wedding_guests
+      label: Wedding Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wedding_budget
+      label: Wedding Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wedding_style
+      label: Wedding Style
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Semi-Formal
+      - Casual
+      required: false
+    - id: 7
+      name: wedding_colors
+      label: Wedding Colors
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 8
+      name: wedding_decor
+      label: Wedding Decor
+      hint: null
+      type: select_multiple
+      options:
+      - Floral
+      - Modern
+      - Rustic
+      required: false
+    - id: 9
+      name: wedding_food_and_drink
+      label: Wedding Food and Drink
+      hint: null
+      type: select_multiple
+      options:
+      - Buffet
+      - Family-Style
+      - Hors d'oeuvres
+      required: false
+    - id: 10
+      name: wedding_entertainment
+      label: Wedding Entertainment
+      hint: null
+      type: select_multiple
+      options:
+      - Dancing
+      - Music
+      - Photo Booth
+      required: false

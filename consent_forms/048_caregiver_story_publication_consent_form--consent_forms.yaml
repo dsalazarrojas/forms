@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Story Publication Consent Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: care_recipient_name
+      label: Care Recipient Name
+      hint: Person you are caring for
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: publication_purpose
+      label: Purpose of Story Publication
+      hint: Why is this story being shared?
+      type: select_one
+      options:
+      - Educational purposes
+      - Awareness campaign
+      - Advocacy and support
+      - Resource documentation
+      - News or media article
+      - Book or documentary
+      - Website or blog
+      - Training materials
+      - Other purpose
+      required: true
+    - id: 7
+      name: publication_platform
+      label: Where Will Story Be Published?
+      hint: Select all applicable platforms
+      type: select_multiple
+      options:
+      - Organization website
+      - Social media
+      - Print publication
+      - Online blog or news site
+      - Book or eBook
+      - Video or film
+      - Educational materials
+      - Presentations
+      - News media
+      - Other platform
+      required: true
+    - id: 8
+      name: story_content
+      label: What Content Will Be Shared?
+      hint: Select all applicable
+      type: select_multiple
+      options:
+      - Personal caregiving experience
+      - Challenges faced
+      - Solutions or strategies used
+      - Emotional journey
+      - Lessons learned
+      - Photos or videos
+      - Quotes from interviews
+      - Contact information
+      - Health information about care recipient
+      - Other content
+      required: true
+    - id: 9
+      name: anonymity_option
+      label: Anonymity and Name Use
+      hint: How will you be identified?
+      type: select_one
+      options:
+      - Use my real name
+      - Use pseudonym or initials only
+      - Remain completely anonymous
+      - Let publisher decide
+      required: true
+    - id: 10
+      name: care_recipient_anonymity
+      label: Care Recipient Anonymity
+      hint: How will care recipient be identified?
+      type: select_one
+      options:
+      - Include name and identifying information
+      - Use pseudonym
+      - Remain anonymous - no identifying details
+      - Not applicable - no care recipient mentioned
+      required: true
+    - id: 11
+      name: photo_video_consent
+      label: Permission to Use Photos or Videos
+      hint: Can your image be used?
+      type: select_one
+      options:
+      - Yes - use photos or videos
+      - Yes - use videos only
+      - Yes - use photos only
+      - No - text only
+      required: true
+    - id: 12
+      name: medical_information_consent
+      label: Permission to Share Medical Details
+      hint: Can health information be disclosed?
+      type: select_one
+      options:
+      - Yes - share specific details
+      - Yes - general information only
+      - No - no medical details
+      required: true
+    - id: 13
+      name: emotional_content_consent
+      label: Permission to Share Emotional Content
+      hint: Can personal emotional experiences be shared?
+      type: select_one
+      options:
+      - Yes - share personal emotional experiences
+      - Yes - but with some limits
+      - No - keep emotional content private
+      required: true
+    - id: 14
+      name: editing_approval
+      label: Editorial Review and Approval
+      hint: Will you review story before publication?
+      type: select_one
+      options:
+      - Yes - I want to review and approve
+      - Yes - I want minor review only
+      - No - publisher can decide content
+      required: true
+    - id: 15
+      name: fact_checking
+      label: Accuracy and Fact-Checking
+      hint: Will publisher verify accuracy?
+      type: select_one
+      options:
+      - Responsible for accuracy review
+      - No accuracy review process
+      - Unsure of process
+      required: true
+    - id: 16
+      name: duration_consent
+      label: Duration of Consent
+      hint: How long can story be used?
+      type: select_one
+      options:
+      - One-time use only
+      - Limited time - specify duration
+      - Ongoing - indefinite use
+      - Until I request removal
+      required: true
+    - id: 17
+      name: duration_specific
+      label: If Limited Time - Specify Duration
+      hint: How many years?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compensation
+      label: Compensation or Payment
+      hint: Will you be compensated?
+      type: select_one
+      options:
+      - Yes - will be paid
+      - No - no compensation
+      - Other arrangement - to be discussed
+      required: false
+    - id: 19
+      name: removal_rights
+      label: Right to Request Removal
+      hint: Can you request story be taken down?
+      type: select_one
+      options:
+      - Yes - can request removal
+      - Limited - only before publication
+      - No - no removal option
+      required: true
+    - id: 20
+      name: third_party_sharing
+      label: Permission for Third-Party Sharing
+      hint: Can story be shared with other organizations?
+      type: select_one
+      options:
+      - Yes - can share with others
+      - With permission only
+      - No - use by publisher only
+      required: true
+    - id: 21
+      name: contact_for_follow_up
+      label: Permission for Follow-Up Contact
+      hint: Can publisher contact you later?
+      type: select_one
+      options:
+      - Yes - may contact
+      - Yes - limited contact only
+      - No - do not contact
+      required: true
+    - id: 22
+      name: privacy_protection
+      label: Understanding of Privacy Protections
+      hint: Do you understand how privacy will be protected?
+      type: select_one
+      options:
+      - Yes - understand privacy measures
+      - Partially - have some understanding
+      - No - unclear about privacy
+      required: true
+    - id: 23
+      name: questions_answered
+      label: All Questions Have Been Answered
+      hint: Are you satisfied with explanations?
+      type: select_one
+      options:
+      - Yes - all questions answered
+      - No - still have questions
+      required: true
+    - id: 24
+      name: final_consent
+      label: I Give Informed Consent for Story Publication
+      hint: Do you consent?
+      type: select_one
+      options:
+      - Yes, I give full consent
+      - Yes, I consent with conditions
+      - No, I do not consent
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Conditions
+      hint: Any specific conditions or requests?
+      type: text
+      options: []
+      required: false

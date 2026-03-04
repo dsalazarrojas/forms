@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Show Contact Form Template
+    pages:
+    - id: 1
+      name: couple_primary_name
+      label: Bride Name
+      hint: Bride's full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: couple_secondary_name
+      label: Groom Name
+      hint: Groom's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: Your zip code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ceremony_date
+      label: Wedding Ceremony Date
+      hint: Date of your wedding ceremony
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: ceremony_time
+      label: Ceremony Time
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: wedding_venue
+      label: Wedding Venue
+      hint: Location of your wedding
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: venue_city
+      label: Venue City
+      hint: City where ceremony will be held
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: venue_state
+      label: Venue State
+      hint: State where ceremony will be held
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reception_venue
+      label: Reception Venue
+      hint: Location of reception
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guest_count
+      label: Estimated Guest Count
+      hint: Number of guests expected
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: wedding_style
+      label: Wedding Style
+      hint: Select your wedding style
+      type: select_one
+      options:
+      - Formal and traditional
+      - Semi-formal
+      - Casual
+      - Destination wedding
+      - Intimate ceremony
+      - Large celebration
+      - Other
+      required: false
+    - id: 17
+      name: bridal_party_size
+      label: Bridal Party Size
+      hint: Number of attendants
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vendors_interested_in
+      label: Vendors You Are Interested In
+      hint: Select service types
+      type: select_multiple
+      options:
+      - Photography
+      - Videography
+      - Catering
+      - Bakery and cakes
+      - Flowers and decorations
+      - Music and entertainment
+      - Venue rental
+      - Wedding planning
+      - Bridal attire
+      - Beauty services
+      - Invitations and stationery
+      - Transportation
+      required: false
+    - id: 19
+      name: budget_range
+      label: Overall Wedding Budget
+      hint: Estimated total budget
+      type: select_one
+      options:
+      - Under 10000
+      - 10000 - 25000
+      - 25000 - 50000
+      - 50000 - 100000
+      - 100000+
+      - Flexible
+      required: false
+    - id: 20
+      name: how_heard_about_show
+      label: How Did You Hear About This Show
+      hint: Source of information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Information
+      hint: Any additional notes
+      type: text
+      options: []
+      required: false

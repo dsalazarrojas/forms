@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: No Show Policy Acknowledgment
+    pages:
+    - id: 1
+      name: no_show_policy_acknowledgment
+      label: No Show Policy Acknowledgment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - Appointment
+      - Consultation
+      - Procedure
+      required: false
+    - id: 3
+      name: reason_service
+      label: Reason for Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: no_show_date
+      label: No Show Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_no_show
+      label: Reason for No-Show
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - In Person
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: no_show_policy
+      label: No Show Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: no_show_penalty
+      label: No Show Penalty
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: no_show_fees
+      label: No Show Fees
+      hint: null
+      type: text
+      options: []
+      required: false

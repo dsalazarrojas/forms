@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID Disclaimer
+    pages:
+    - id: 1
+      name: disclaimer_participant_header
+      label: -- Participant Information --
+      hint: Please provide your information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: disclaimer_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: disclaimer_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: disclaimer_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: disclaimer_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: disclaimer_activity_header
+      label: -- Activity or Event Information --
+      hint: Details about your participation
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: disclaimer_activity_name
+      Label: Activity or Event Name
+      hint: Name of the event or activity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: disclaimer_activity_date
+      label: Activity Date
+      hint: When is the activity
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: disclaimer_activity_location
+      Label: Activity Location
+      hint: Where the activity takes place
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: disclaimer_acknowledgment_header
+      label: -- COVID-19 Disclaimer Acknowledgment --
+      hint: Please review and acknowledge
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: disclaimer_understand_risks
+      Label: I Understand the Risks of COVID-19
+      hint: You understand transmission and risk
+      type: select_one
+      options:
+        - Yes, I understand the risks
+        - I have questions
+        - No
+      required: true
+    - id: 12
+      name: disclaimer_acknowledge_virus_exposure
+      label: I Acknowledge Risk of Virus Exposure
+      hint: I understand I may be exposed
+      type: select_one
+      options:
+        - I acknowledge the risk
+        - I have reservations
+        - I do not acknowledge
+      required: true
+    - id: 13
+      name: disclaimer_assume_responsibility
+      Label: I Assume Full Responsibility for My Health
+      hint: I accept responsibility for my choices
+      type: select_one
+      options:
+        - I assume responsibility
+        - I have concerns
+        - I do not assume responsibility
+      required: true
+    - id: 14
+      name: disclaimer_not_liable_header
+      label: -- Liability Waiver --
+      hint: Organizational liability waiver
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: disclaimer_agree_no_liability
+      Label: I Agree the Organization is Not Liable
+      hint: I will not hold org liable for COVID
+      type: select_one
+      options:
+        - I agree, no liability
+        - I have concerns
+        - I disagree
+      required: true
+    - id: 16
+      name: disclaimer_health_status_header
+      label: -- Health Status Declaration --
+      hint: Your current health status
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: disclaimer_no_symptoms
+      Label: I Have No COVID-19 Symptoms
+      hint: No fever, cough, or symptoms
+      type: select_one
+      options:
+        - No symptoms
+        - Have symptoms
+        - Unsure
+      required: true
+    - id: 18
+      name: disclaimer_not_exposed
+      label: I Have Not Been Exposed Recently
+      hint: No contact with positive cases
+      type: select_one
+      options:
+        - Not exposed
+        - Possibly exposed
+        - Confirmed exposure
+      required: true
+    - id: 19
+      name: disclaimer_not_quarantined
+      Label: I Am Not Under Quarantine Order
+      hint: No public health quarantine order
+      type: select_one
+      options:
+        - Not quarantined
+        - Under quarantine
+        - Unsure
+      required: true
+    - id: 20
+      name: disclaimer_vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated and boosted
+        - Fully vaccinated, not boosted
+        - Partially vaccinated
+        - Not vaccinated
+        - Prefer not to disclose
+      required: false
+    - id: 21
+      name: disclaimer_agreement_header
+      label: -- Final Agreement --
+      hint: Your final acknowledgment
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: disclaimer_follow_protocols
+      Label: I Will Follow All COVID-19 Safety Protocols
+      hint: Agreement to follow org guidelines
+      type: select_one
+      options:
+        - I will follow protocols
+        - I may not follow all protocols
+        - I will not follow protocols
+      required: true
+    - id: 23
+      name: disclaimer_truthful_information
+      label: All Information I Provided is Truthful
+      hint: I certify all info is accurate
+      type: select_one
+      options:
+        - Information is truthful
+        - Some information may be inaccurate
+        - I am unsure
+      required: true
+    - id: 24
+      name: disclaimer_read_understand
+      Label: I Have Read and Understand This Disclaimer
+      hint: Full understanding of all terms
+      type: select_one
+      options:
+        - I have read and understand
+        - I partially understand
+        - I do not understand
+      required: true
+    - id: 25
+      name: disclaimer_date
+      label: Date of Disclaimer Acceptance
+      hint: Date you are signing
+      type: date
+      options: []
+      required: true

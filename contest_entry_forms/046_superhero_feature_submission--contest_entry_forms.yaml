@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superhero Feature Submission
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: power_description
+      label: Power Description
+      hint: Briefly describe your new power
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artwork
+      label: Artwork (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_materials
+      label: Supporting Materials (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: story_tweak
+      label: Story Tweak
+      hint: Briefly describe a story tweak or plot twist
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: story_tweak_attachment
+      label: Story Tweak Attachment (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: story_tweak_attachment_type
+      label: Story Tweak Type
+      hint: null
+      type: select_one
+      options:
+      - Story Tweak
+      - Image
+      - Comic Book
+      - Short Story
+      - Novel
+      - Other
+      required: false

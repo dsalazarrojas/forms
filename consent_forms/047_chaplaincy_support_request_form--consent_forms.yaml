@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chaplaincy Support Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Who is requesting support
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_role
+      label: Requestor Role
+      hint: Your position or relationship
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requestor_email
+      label: Requestor Email
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recipient_name
+      label: Name of Person Needing Support
+      hint: Who needs chaplaincy care
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_relationship
+      label: Relationship to Recipient
+      hint: Your relationship to them
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recipient_contact
+      label: Recipient Contact Information
+      hint: How to reach them
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recipient_faith_tradition
+      label: Recipient Faith Tradition
+      hint: Religious background
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_urgency
+      label: Urgency of Support Needed
+      hint: How urgent is the need
+      type: select_one
+      options:
+      - Emergency - Immediate
+      - Urgent
+      - Soon
+      - Not Urgent
+      required: true
+    - id: 11
+      name: support_type
+      label: Type of Support Requested
+      hint: What kind of care needed
+      type: select_one
+      options:
+      - Spiritual Counseling
+      - Crisis Intervention
+      - Grief Support
+      - Prayer
+      - Hospital Visit
+      - Anointing
+      - Communion
+      - Other
+      required: true
+    - id: 12
+      name: situation_description
+      label: Situation Description
+      hint: Why is support needed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_location
+      label: Current Location of Recipient
+      hint: Where the person is
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location_type
+      label: Type of Location
+      hint: Hospital, home, etc.
+      type: select_one
+      options:
+      - Hospital
+      - Home
+      - Facility
+      - Workplace
+      - Other Location
+      required: false
+    - id: 15
+      name: medical_information
+      label: Relevant Medical Information
+      hint: Health conditions affecting care
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family_notification
+      label: Has Family Been Notified
+      hint: Are family members aware
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 17
+      name: preferred_chaplain
+      label: Preferred Chaplain
+      hint: Specific chaplain if known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: language_preference
+      label: Language Preference
+      hint: Language for chaplain
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_contact
+      label: Follow-Up Contact Method
+      hint: How to follow up
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      - Text
+      required: false
+    - id: 20
+      name: authorization_statement
+      label: I Authorize Chaplaincy Contact
+      hint: Permission to provide support
+      type: select_one
+      options:
+      - Yes, Authorized
+      - 'No'
+      required: true

@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Work Verification Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Full Name
+      hint: Name of person requesting verification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of requesting organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_contractor_info
+      label: -- Contractor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contractor_name
+      label: Contractor Name
+      hint: Name of contractor to verify
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contractor_company
+      label: Contractor Company
+      hint: Name of contractor company
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contractor_email
+      label: Contractor Email
+      hint: Contractor email if known
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Contractor phone if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_work_details
+      label: -- Work Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: Name of project work was performed on
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_location
+      label: Project Location
+      hint: Address where work was done
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: work_type
+      label: Type of Work Performed
+      hint: Category of work
+      type: select_one
+      options:
+      - Construction
+      - Renovation
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Landscaping
+      - Painting
+      - Flooring
+      - Roofing
+      - Maintenance
+      - Other
+      required: true
+    - id: 14
+      name: work_description
+      label: Work Description
+      hint: Detailed description of work performed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: work_start_date
+      label: Work Start Date
+      hint: When did work begin
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: work_end_date
+      label: Work End Date
+      hint: When was work completed
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: section_verification_type
+      label: -- Verification Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: verification_purpose
+      label: Purpose of Verification
+      hint: Why do you need this verification
+      type: select_one
+      options:
+      - Employment Reference
+      - License Application
+      - Insurance Claim
+      - Legal Documentation
+      - Quality Assurance
+      - Payment Verification
+      - Other
+      required: true
+    - id: 19
+      name: verification_details_needed
+      label: Details Needed in Verification
+      hint: What information should be verified
+      type: select_multiple
+      options:
+      - Work Completed
+      - Quality of Work
+      - Timeline Adherence
+      - Budget Compliance
+      - Safety Record
+      - Professionalism
+      - Skills Demonstrated
+      required: true
+    - id: 20
+      name: section_verification_contact
+      label: -- Verification Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: verifier_name
+      label: Person Who Can Verify
+      hint: Name of supervisor or contact who can verify
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: verifier_title
+      label: Verifier Title
+      hint: Position or role of verifier
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: verifier_email
+      label: Verifier Email
+      hint: Email of person who can verify
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: verifier_phone
+      label: Verifier Phone
+      hint: Phone of person who can verify
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_submission
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: deadline
+      label: Verification Deadline
+      hint: When do you need verification by
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Normal
+      - Low
+      required: true
+    - id: 28
+      name: format_preference
+      label: Preferred Verification Format
+      hint: How should verification be provided
+      type: select_one
+      options:
+      - Email
+      - Printed Letter
+      - Online Form
+      - Phone Call
+      - Notarized Document
+      required: true
+    - id: 29
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List any documents you are including
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: permission_to_contact
+      label: I have permission to request this verification
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

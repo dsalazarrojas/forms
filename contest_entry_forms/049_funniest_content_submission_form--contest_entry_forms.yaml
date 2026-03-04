@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funniest Content Submission Form
+    pages:
+    - id: 1
+      name: content_submission_form
+      label: Funniest Content Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: joke
+      label: Joke
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media
+      label: Media
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submit_form
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: user_location
+      label: User Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: joke_rating
+      label: How funny was the joke
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: story_rating
+      label: How fun the story
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: media_rating
+      label: How fun the media
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: joke_rating_comment
+      label: What makes it funny
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: story_rating_comment
+      label: What makes it fun
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: media_rating_comment
+      label: What makes it fun
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_comment
+      label: Additional comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_agree
+      label: Agree that the content is suitable for public viewing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: submission_agree_comment
+      label: Reasons for not using
+      hint: null
+      type: text
+      options: []
+      required: false

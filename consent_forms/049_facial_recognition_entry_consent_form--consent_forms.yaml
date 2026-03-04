@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Recognition Entry Consent Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: facial_recognition_access
+      label: Facial Recognition Access
+      hint: null
+      type: select_multiple
+      options:
+      - Facial recognition for security purposes
+      - Facial recognition for convenience purposes
+      - Facial recognition for research purposes
+      required: false
+    - id: 4
+      name: purpose_of_access
+      label: Purpose of Access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_did_you_learn
+      label: How did you learn about this form?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client History And Health Intake Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic Partnership
+      required: false
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: Current job
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Why are you here today?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: current_symptoms
+      label: Current Symptoms
+      hint: What are you experiencing?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_history
+      label: Medical History
+      hint: Past illnesses and conditions
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: surgical_history
+      label: Surgical History
+      hint: Past surgeries with dates
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Drug allergies
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: food_allergies
+      label: Food Allergies
+      hint: Food allergies
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_allergies
+      label: Other Allergies
+      hint: Environmental, latex, etc.
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: family_medical_history
+      label: Family Medical History
+      hint: Parents, siblings, grandparents
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: social_history
+      label: Social History
+      hint: Smoking, alcohol, drugs
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: review_of_systems
+      label: Review of Systems
+      hint: Any issues with body systems
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: consent_to_treatment
+      label: I Consent to Medical Treatment
+      hint: Treatment authorization
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 31
+      name: hipaa_acknowledgment
+      label: I Acknowledge Receipt of HIPAA Notice
+      hint: Privacy rights
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 32
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 33
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

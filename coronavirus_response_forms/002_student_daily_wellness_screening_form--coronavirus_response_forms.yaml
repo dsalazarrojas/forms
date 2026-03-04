@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Daily Wellness Screening Form
+    pages:
+    - id: 1
+      name: parent_or_guardian_info
+      label: Parent or Guardian Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: covid_symptoms
+      label: COVID-19 Symptoms
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - Sore throat
+      - Runny nose/congestion
+      - Diarrhea
+      - Nausea or vomiting
+      - New loss of taste or smell
+      - New loss of appetite
+      - Confusion or difficulty concentrating
+      - New numbness or tingling in hands or feet
+      - Feeling like I am going to pass out
+      required: true
+    - id: 4
+      name: travel_info
+      label: Travel Information
+      hint: null
+      type: select_multiple
+      options:
+      - Domestic
+      - International
+      required: true
+    - id: 5
+      name: travel_history
+      label: Recent Travel History
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info_phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_info_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone2
+      label: Phone2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_attended
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Out-of-Local
+      required: true
+    - id: 15
+      name: school_grade
+      label: Grade
+      hint: null
+      type: select_one
+      options:
+      - K-12
+      - 9-12
+      - College
+      - University
+      required: true
+    - id: 16
+      name: student_symptoms
+      label: Student Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_symptoms_1
+      label: Fever
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: student_symptoms_2
+      label: Cough
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: student_symptoms_3
+      label: Shortness of breath
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: student_symptoms_4
+      label: Fatigue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: student_symptoms_5
+      label: Muscle or body aches
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: student_symptoms_6
+      label: Headache
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: student_symptoms_7
+      label: Sore throat
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: student_symptoms_8
+      label: Runny nose/congestion
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: student_symptoms_9
+      label: Diarrhea
+      hint: null
+      type: number
+      options: []
+      required: true

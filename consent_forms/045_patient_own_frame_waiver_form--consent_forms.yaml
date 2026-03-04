@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Own Frame Waiver Form
+    pages:
+    - id: 1
+      name: patient_own_frame_waiver_form_page_1
+      label: frame_waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_own_frame_waiver_form_patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_own_frame_waiver_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_own_frame_waiver_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_own_frame_waiver_form_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_own_frame_waiver_form_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_own_frame_waiver_form_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - California
+      - Florida
+      - New York
+      - Ohio
+      - Pennsylvania
+      required: true
+    - id: 8
+      name: patient_own_frame_waiver_form_zip
+      label: zip
+      hint: null
+      type: select_multiple
+      options:
+      - ZIP
+      - ZIP
+      - ZIP
+      required: true
+    - id: 9
+      name: patient_own_frame_waiver_form_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: patient_own_frame_waiver_form_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: patient_own_frame_waiver_form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

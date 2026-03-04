@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buter Family Contact Info
+    pages:
+    - id: 1
+      name: member_name
+      label: Family Member Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship
+      label: Relationship to Family
+      hint: How are you related?
+      type: select_one
+      options:
+      - Parent or Guardian
+      - Child
+      - Spouse or Partner
+      - Sibling
+      - Extended family
+      - Other household member
+      required: true
+    - id: 3
+      name: primary_email
+      label: Primary Email Address
+      hint: Your main email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: secondary_email
+      label: Secondary Email Address (optional)
+      hint: Alternate email if available
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: primary_phone
+      label: Primary Phone Number
+      hint: Main phone contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: secondary_phone
+      label: Secondary Phone Number (optional)
+      hint: Alternate phone if available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_type
+      label: Phone Type
+      hint: What type of phone?
+      type: select_one
+      options:
+      - Mobile
+      - Home
+      - Work
+      - Other
+      required: true
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: Where do you live?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: occupation
+      label: Occupation or Job Title
+      hint: What do you do for work?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workplace_name
+      label: Workplace or Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_phone
+      label: Work Phone Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: social_media
+      label: Social Media Handles
+      hint: Facebook, Instagram, LinkedIn, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prefer_contact_method
+      label: Preferred Contact Method
+      hint: How do you prefer to be reached?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Social media
+      - In-person meeting
+      - No preference
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Is this person an emergency contact for the family?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am
+      - Yes, I can be
+      - false
+      required: false
+    - id: 19
+      name: newsletter_preference
+      label: Receive Family Updates or Newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, include me
+      - Email only
+      - No, do not contact
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Information or Notes
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

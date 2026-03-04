@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submit Your Question For Q+A
+    pages:
+    - id: 1
+      name: question_text
+      label: question_text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: question_type
+      label: question_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 8
+      name: question_text_2
+      label: question_text_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false

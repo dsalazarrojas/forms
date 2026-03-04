@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Information Form
+    pages:
+    - id: 1
+      name: supplier_info
+      label: Supplier Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supplier_type
+      label: supplier_type
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Reseller
+      - Distributor
+      - Service Provider
+      - Manufacturer
+      required: false
+    - id: 5
+      name: contract_term
+      label: contract_term
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Records Release Form
+    pages:
+    - id: 1
+      name: patient_records
+      label: patient_records
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: authorization_date
+      label: authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: release_type
+      label: release_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''all'', ''label'': ''All''}'
+      - '{''value'': ''summary'', ''label'': ''Summary only''}'
+      - '{''value'': ''partial'', ''label'': ''Partial''}'
+      required: false
+    - id: 5
+      name: records_destination
+      label: records_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: authorization_method
+      label: authorization_method
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_technician_recommendation_form
+    pages:
+    - id: 1
+      name: company_information
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technician_details
+      label: Technician Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

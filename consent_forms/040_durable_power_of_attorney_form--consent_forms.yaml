@@ -1,0 +1,406 @@
+inputSchema:
+  type: object
+  properties:
+    title: Durable Power Of Attorney Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Domestic Partnership
+      - Common Law Partnership
+      required: true
+    - id: 9
+      name: name_of_beneficiary
+      label: Name Of Beneficiary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: name_of_attorney
+      label: Name Of Attorney
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: document_signed_by
+      label: Document Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name_of_witness_1
+      label: Name Of Witness 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_of_witness_1
+      label: Signature Of Witness 1
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: name_of_witness_2
+      label: Name Of Witness 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_of_witness_2
+      label: Signature Of Witness 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: name_of_witness_3
+      label: Name Of Witness 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_of_witness_3
+      label: Signature Of Witness 3
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: name_of_witness_4
+      label: Name Of Witness 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_of_witness_4
+      label: Signature Of Witness 4
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: document_version
+      label: Document Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Rejected
+      - Archived
+      required: true
+    - id: 26
+      name: document_number
+      label: Document Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: document_signed_by
+      label: Document Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: date_of_signature
+      label: Date Of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: time_of_signature
+      label: Time Of Signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 30
+      name: document_revision_date
+      label: Document Revision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: document_revision_number
+      label: Document Revision Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: document_revised_by
+      label: Document Revised By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: document_approved_by
+      label: Document Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: document_approved_date
+      label: Document Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: document_approved_by_name
+      label: Document Approved By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: document_approved_status
+      label: Document Approved Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Draft
+      - Rejected
+      - Archived
+      required: false
+    - id: 37
+      name: document_version_number
+      label: Document Version Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: document_signed_date
+      label: Document Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 39
+      name: document_signed_by_name
+      label: Document Signed By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: document_signed_by_title
+      label: Document Signed By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: document_revision_reason
+      label: Document Revision Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: document_approved_by_title
+      label: Document Approved By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: document_signed_by_name_title
+      label: Document Signed By Name Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: date_of_signature_date
+      label: Date Of Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 45
+      name: time_of_signature_time
+      label: Time Of Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 46
+      name: document_signed_by_issuer
+      label: Document Signed By Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: document_signed_date_issuer
+      label: Document Signed Date Issuer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 48
+      name: document_signed_by_issuer_title
+      label: Document Signed By Issuer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: document_revision_reason_issuer
+      label: Document Revision Reason Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: document_approved_date_issuer
+      label: Document Approved Date Issuer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 51
+      name: document_approved_by_issuer
+      label: Document Approved By Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: document_signed_by_issuer_name
+      label: Document Signed By Issuer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: document_signed_by_issuer_title
+      label: Document Signed By Issuer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: document_revision_reason_issuer_title
+      label: Document Revision Reason Issuer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: document_approved_status_issuer
+      label: Document Approved Status Issuer
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Draft
+      - Rejected
+      - Archived
+      required: false

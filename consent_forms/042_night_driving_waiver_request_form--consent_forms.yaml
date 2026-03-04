@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Night_Driving_Waiver_Request_Form
+    pages:
+    - id: 1
+      name: night_driving_waiver_request
+      label: Night Driving Waiver Request
+      hint: null
+      type: select_multiple
+      options:
+      - Select an option
+      - Another Option
+      - Yet Another Option
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

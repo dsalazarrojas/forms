@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Podcast Interview Consent Form
+    pages:
+    - id: 1
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_address
+      label: Guest Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: host_email
+      label: Host Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: host_phone
+      label: Host Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recording_date
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: recording_time
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: publish_date
+      label: Publish Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: publish_time
+      label: Publish Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: consent_to_recording
+      label: Consent to Recording
+      hint: null
+      type: select_one
+      options:
+      - Consent to Recording
+      - No Consent to Recording
+      required: true
+    - id: 15
+      name: consent_to_publish
+      label: Consent to Publish
+      hint: null
+      type: select_one
+      options:
+      - Consent to Publish
+      - No Consent to Publish
+      required: true
+    - id: 16
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: recording_file
+      label: Recording File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: consent_form_signed
+      label: Consent Form Signed
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Unsigned
+      required: true
+    - id: 21
+      name: recording_file_link
+      label: Recording File Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: host_notes
+      label: Host Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: guest_notes
+      label: Guest Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: consent_to_share
+      label: Consent to Share
+      hint: null
+      type: select_one
+      options:
+      - Share with Host
+      - Do Not Share with Host
+      required: true
+    - id: 25
+      name: share_with
+      label: Share With
+      hint: null
+      type: select_multiple
+      options:
+      - Host and Guests
+      - None
+      required: true

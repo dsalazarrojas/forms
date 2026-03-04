@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Hospital Discharge Form
+    pages:
+    - id: 1
+      name: patient_information_header
+      label: -- Patient Information --
+      hint: Basic details of the discharging patient
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: Complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_medical_record_number
+      label: Medical Record Number
+      hint: Hospital MRN or patient ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_gender
+      label: Gender
+      hint: Patient gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Patient Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_email
+      label: Patient Email Address
+      hint: Primary email for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: hospitalization_header
+      label: -- Hospitalization Details --
+      hint: Information about the hospital stay
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: admission_date
+      label: Hospital Admission Date
+      hint: Date patient was admitted
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: discharge_date
+      label: Hospital Discharge Date
+      hint: Date patient is being discharged
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: attending_physician_name
+      label: Attending Physician Name
+      hint: Name of primary treating physician
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: hospital_department
+      label: Hospital Department
+      hint: Department where patient was treated
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: covid_status_header
+      label: -- COVID-19 Status at Discharge --
+      hint: Current COVID-19 test results and clinical status
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: final_covid_test_result
+      label: Final COVID-19 Test Result
+      hint: Most recent test result before discharge
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Not Tested
+      required: true
+    - id: 15
+      name: final_test_date
+      label: Date of Final COVID Test
+      hint: When was the last COVID test performed
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vaccination_status
+      label: Patient Vaccination Status
+      hint: COVID-19 vaccination status
+      type: select_one
+      options:
+      - Unvaccinated
+      - Partially Vaccinated
+      - Fully Vaccinated
+      - Boosted
+      required: true
+    - id: 17
+      name: discharge_instructions_header
+      label: -- Discharge Instructions --
+      hint: Post-discharge care and follow-up guidance
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: activity_restrictions
+      label: Activity Restrictions Upon Discharge
+      hint: Select any activity restrictions for home recovery
+      type: select_multiple
+      options:
+      - Complete Bed Rest
+      - Limited Activity
+      - Light Activity Allowed
+      - Return to Normal Activity
+      - No Restrictions
+      required: false
+    - id: 19
+      name: isolation_period_days
+      label: Recommended Isolation Period - Days
+      hint: Number of days to isolate at home
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_appointment_date
+      label: Follow-Up Appointment Date
+      hint: Date for patient to return to clinic
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medications_prescribed
+      label: Medications Prescribed at Discharge
+      hint: List of medications to continue at home
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_instructions
+      label: Additional Discharge Instructions
+      hint: Any other important instructions for the patient
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: discharge_clearance_note
+      label: Patient Cleared for Discharge
+      hint: Physician confirmation of discharge readiness
+      type: select_one
+      options:
+      - Patient is medically cleared for discharge
+      - Conditional discharge with follow-up required
+      - Patient requests early discharge
+      required: true

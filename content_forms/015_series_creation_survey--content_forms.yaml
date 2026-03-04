@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Series Creation Survey
+    pages:
+    - id: 1
+      name: series_creation_survey
+      label: series_ideas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: idea_description
+      label: idea_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: select_one
+      options:
+      - General audiences
+      - Youth audiences
+      - Niche audiences
+      - Specific audiences
+      required: false
+    - id: 4
+      name: idea_stage
+      label: idea_stage
+      hint: null
+      type: select_one
+      options:
+      - Series development
+      - Show development
+      - Pitch development
+      required: false
+    - id: 5
+      name: series_format
+      label: series_format
+      hint: null
+      type: select_multiple
+      options:
+      - Serialized format
+      - Non-serialized format
+      - Serialized or non-serialized format
+      required: false
+    - id: 6
+      name: genre
+      label: genre
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Thriller
+      required: false
+    - id: 7
+      name: series_title
+      label: series_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tagline
+      label: tagline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: show_ideas
+      label: show_ideas
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_episodes
+      label: total_episodes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: episode_length
+      label: episode_length
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: series_status
+      label: series_status
+      hint: null
+      type: select_one
+      options:
+      - In development
+      - In production
+      - In post-production
+      - On hold
+      - Cancelled
+      required: false
+    - id: 13
+      name: show_format
+      label: show_format
+      hint: null
+      type: select_multiple
+      options:
+      - Serialized format
+      - Non-serialized format
+      - Serialized or non-serialized format
+      required: false

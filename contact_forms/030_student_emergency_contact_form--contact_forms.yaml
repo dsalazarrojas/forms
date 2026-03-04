@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Emergency Contact Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: relationship_other
+      label: Other (Specify)
+      hint: Enter relationship other
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: 'Format: name@domain.com'
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip
+      label: Zip Code
+      hint: 'Format: XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_phone_number
+      label: Phone Number
+      hint: 'Format: XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: emergency_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_zip
+      label: Zip Code
+      hint: 'Format: XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_relationship_other
+      label: Other (Specify)
+      hint: Enter relationship other
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_phone_number
+      label: Phone Number
+      hint: 'Format: XXX-XXXX'
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_email
+      label: Email
+      hint: 'Format: name@domain.com'
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barrel Race Entry Form
+    pages:
+    - id: 1
+      name: rider_full_name
+      label: Rider Full Name
+      hint: Enter the name of the rider participating in the race
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rider_age
+      label: Rider Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: horse_name
+      label: Horse Name
+      hint: Registered name of the horse
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: competition_division
+      label: Competition Division
+      hint: Select the division you are entering
+      type: select_one
+      options:
+      - Open
+      - Youth
+      - Senior
+      - Novice
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For entry confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of an accident
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: stallion_or_mare
+      label: Horse Gender
+      hint: null
+      type: select_one
+      options:
+      - Stallion
+      - Mare
+      - Gelding
+      required: false
+    - id: 10
+      name: experience_level
+      label: Rider Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: false
+    - id: 11
+      name: header_waiver
+      label: -- Liability Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accept_terms
+      label: I agree to the terms and conditions and assume all risks
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: entry_date
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true

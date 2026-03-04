@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Horse Riding Indemnity Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: event_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rider_name
+      label: rider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rider_dob
+      label: rider_dob
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_person
+      label: emergency_contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_condition_details
+      label: medical_condition_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rider_signature
+      label: rider_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness_signature
+      label: witness_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witness_name
+      label: witness_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_title
+      label: witness_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_organization
+      label: witness_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_signature_date
+      label: witness_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: witness_signature_time
+      label: witness_signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: rider_waiver
+      label: rider_waiver
+      hint: null
+      type: select_one
+      options:
+      - Horseback riding is a risk sport. I am aware that I am entering this risk
+        by participating in this activity.
+      - I am aware that I will be participating in a risk sport.
+      - Horseback riding is not a risk sport.
+      - Other (please describe)
+      - None
+      required: false
+    - id: 27
+      name: rider_agreed
+      label: rider_agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

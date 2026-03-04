@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Satellite TV Local Channel Waiver Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Satellite TV Local Channel Waiver Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_request
+      label: reason for request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: local_channel_number
+      label: local channel number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature_time
+      label: signature time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: waiver_request
+      label: waiver request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: waiver_terms_accepted
+      label: waiver terms accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

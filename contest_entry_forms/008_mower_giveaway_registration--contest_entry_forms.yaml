@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mower Giveaway Registration
+    pages:
+    - id: 1
+      name: entry
+      label: First Name
+      hint: Enter your first name.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Street Address
+      hint: Enter your street address.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: City
+      hint: Enter your city.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: postal_code
+      label: Postal Code
+      hint: Enter your postal code.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email.
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm your email.
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: rules_confirmation
+      label: Rules Confirmation
+      hint: Have you read and understood the rules?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like to be contacted?
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments?
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contest_choice
+      label: Which contest would you like to enter?
+      hint: Which contest would you like to enter?
+      type: select_multiple
+      options:
+      - Mower Giveaway
+      - Lawn Care Giveaway
+      - Outdoor Equipment Giveaway
+      required: true
+    - id: 13
+      name: mower_type
+      label: What type of mower would you like to win?
+      hint: What type of mower would you like to win?
+      type: select_one
+      options:
+      - Gas Mower
+      - Electric Mower
+      - Cordless Mower
+      required: true
+    - id: 14
+      name: brand
+      label: Which brand of mower do you like?
+      hint: Which brand of mower do you like?
+      type: select_one
+      options:
+      - Honda
+      - Husqvar
+      - Troy Bilt
+      required: false
+    - id: 15
+      name: age
+      label: Age
+      hint: Enter your age.
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: gender
+      label: Gender
+      hint: Enter your gender.
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: Enter your country.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: province
+      label: Province
+      hint: Enter your province.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: state
+      label: State
+      hint: Enter your state.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: zip
+      label: Zip Code
+      hint: Enter your zip code.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: region
+      label: Region
+      hint: Enter your region.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: time
+      label: Time
+      hint: Enter your time.
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: Enter your date.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: preferred_language
+      label: Preferred Language
+      hint: Enter your preferred language.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

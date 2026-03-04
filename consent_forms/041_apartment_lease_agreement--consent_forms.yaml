@@ -1,0 +1,410 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Lease Agreement
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of lease agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: landlord_name
+      label: Landlord Full Name
+      hint: Property owner name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: landlord_email
+      label: Landlord Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: landlord_phone
+      label: Landlord Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: landlord_address
+      label: Landlord Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tenant_name
+      label: Tenant Full Name
+      hint: Primary tenant name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenant_email
+      label: Tenant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: tenant_phone
+      label: Tenant Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_tenants
+      label: Additional Tenants
+      hint: Other occupants
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_address
+      label: Rental Property Address
+      hint: Full address of apartment
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: unit_number
+      label: Unit Number
+      hint: Apartment number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_description
+      label: Property Description
+      hint: Details about the unit
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lease_term_section
+      label: -- Lease Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: lease_start_date
+      label: Lease Start Date
+      hint: When does lease begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: lease_end_date
+      label: Lease End Date
+      hint: When does lease end
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: lease_type
+      label: Lease Type
+      hint: Type of lease agreement
+      type: select_one
+      options:
+      - Fixed term
+      - Month-to-month
+      - Year-to-year
+      - Other
+      required: true
+    - id: 17
+      name: renewal_terms
+      label: Renewal Terms
+      hint: How can lease be renewed
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: payment_section
+      label: -- Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: monthly_rent
+      label: Monthly Rent Amount
+      hint: Base rent per month
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: rent_due_date
+      label: Rent Due Date
+      hint: Day of month rent is due
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: security_deposit
+      label: Security Deposit Amount
+      hint: Refundable deposit
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: pet_deposit
+      label: Pet Deposit Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Accepted Payment Methods
+      hint: How can rent be paid
+      type: select_multiple
+      options:
+      - Check
+      - Bank transfer
+      - Credit card
+      - Debit card
+      - Online payment portal
+      - Cash
+      - Other
+      required: true
+    - id: 24
+      name: late_fee
+      label: Late Fee Amount
+      hint: Fee for late payment
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: grace_period
+      label: Grace Period
+      hint: Days before late fee applies
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: utilities_section
+      label: -- Utilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: utilities_included
+      label: Utilities Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Water
+      - Sewer
+      - Trash
+      - Electricity
+      - Gas
+      - Internet
+      - Cable
+      required: true
+    - id: 28
+      name: tenant_responsible_utilities
+      label: Tenant Responsible For
+      hint: Utilities tenant pays
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: occupancy_section
+      label: -- Occupancy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: maximum_occupants
+      label: Maximum Occupants
+      hint: Maximum number allowed
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: pets_allowed
+      label: Are pets allowed
+      hint: Pet policy
+      type: select_one
+      options:
+      - Yes, all pets
+      - Yes, with restrictions
+      - Cats only
+      - Dogs only
+      - No pets
+      required: true
+    - id: 32
+      name: pet_policy_details
+      label: Pet Policy Details
+      hint: Restrictions and rules
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: smoking_allowed
+      label: Is smoking allowed
+      hint: Smoking policy
+      type: select_one
+      options:
+      - true
+      - false
+      - Outside only
+      required: true
+    - id: 34
+      name: subletting_allowed
+      label: Is subletting allowed
+      hint: Sublease policy
+      type: select_one
+      options:
+      - Yes, with permission
+      - Yes, without permission
+      - false
+      required: true
+    - id: 35
+      name: maintenance_section
+      label: -- Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: maintenance_request_procedure
+      label: Maintenance Request Procedure
+      hint: How to request repairs
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: emergency_contact
+      label: Emergency Contact Number
+      hint: For urgent repairs
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: tenant_responsibilities
+      label: Tenant Maintenance Responsibilities
+      hint: What tenant maintains
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: landlord_responsibilities
+      label: Landlord Maintenance Responsibilities
+      hint: What landlord maintains
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: entry_section
+      label: -- Landlord Entry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: entry_notice_required
+      label: Notice Required for Entry
+      hint: Hours of notice
+      type: number
+      options: []
+      required: true
+    - id: 42
+      name: entry_conditions
+      label: Conditions for Entry
+      hint: When landlord can enter
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: termination_section
+      label: -- Termination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: early_termination_allowed
+      label: Is early termination allowed
+      hint: Breaking lease
+      type: select_one
+      options:
+      - Yes, with penalty
+      - Yes, without penalty
+      - false
+      - Case by case
+      required: true
+    - id: 45
+      name: early_termination_fee
+      label: Early Termination Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: notice_to_vacate
+      label: Notice to Vacate Required
+      hint: Days of notice
+      type: number
+      options: []
+      required: true
+    - id: 47
+      name: additional_terms
+      label: Additional Terms and Conditions
+      hint: Any other agreements
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: landlord_signature
+      label: Landlord Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: landlord_signature_date
+      label: Landlord Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 50
+      name: tenant_signature
+      label: Tenant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: tenant_signature_date
+      label: Tenant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 52
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: witness_signature
+      label: Witness Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false

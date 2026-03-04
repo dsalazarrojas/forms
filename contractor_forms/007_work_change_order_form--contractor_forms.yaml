@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Change Order Form
+    pages:
+    - id: 1
+      name: work_change_order_form
+      label: work_change_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_order
+      label: date_of_order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description_of_change
+      label: description_of_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: change_location
+      label: change_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_order_id
+      label: work_order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: change_type
+      label: change_type
+      hint: null
+      type: select_multiple
+      options:
+      - Change in scope
+      - Change in method
+      - Other
+      required: false
+    - id: 7
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

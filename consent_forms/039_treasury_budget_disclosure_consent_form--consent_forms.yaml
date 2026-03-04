@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Budget Disclosure Consent Form
+    pages:
+    - id: 1
+      name: consent_to_disclose
+      label: Consent to Disclose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_institutions_aware
+      label: Financial Institutions Aware
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: financial_institutions_aware_how_many
+      label: How Many
+      hint: Number of financial institutions (1-20)
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: financial_institutions_aware_type
+      label: Type of Institution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''bank'', ''label'': ''Bank''}'
+      - '{''value'': ''credit_union'', ''label'': ''Credit Union''}'
+      - '{''value'': ''investment_institution'', ''label'': ''Investment Institution''}'
+      - '{''value'': ''government_agency'', ''label'': ''Government Agency''}'
+      required: false
+    - id: 5
+      name: financial_institutions_aware_what_type
+      label: What Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''commercial'', ''label'': ''Commercial''}'
+      - '{''value'': ''consumer'', ''label'': ''Consumer''}'
+      - '{''value'': ''industrial'', ''label'': ''Industrial''}'
+      - '{''value'': ''investment'', ''label'': ''Investment''}'
+      - '{''value'': ''non_commercial'', ''label'': ''Non-Commercial''}'
+      - '{''value'': ''public'', ''label'': ''Public''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: financial_institutions_aware_who
+      label: Who
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''bank'', ''label'': ''Bank''}'
+      - '{''value'': ''credit_union'', ''label'': ''Credit Union''}'
+      - '{''value'': ''government_agency'', ''label'': ''Government Agency''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: financial_institutions_aware_what_institution
+      label: What Institution
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''institution'', ''label'': ''Institution''}'
+      - '{''value'': ''subsidiary'', ''label'': ''Subsidiary''}'
+      - '{''value'': ''branch'', ''label'': ''Branch''}'
+      required: false
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: consent_signed
+      label: Signed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent_signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Request
+    pages:
+    - id: 1
+      name: header
+      label: -- Order Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_requested
+      label: Product requested
+      hint: Name or code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity requested
+      hint: Integer units
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: billing_address
+      label: Billing address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_address
+      label: Shipping address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Select payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      required: true
+    - id: 9
+      name: desired_delivery_date
+      label: Desired delivery date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests
+      hint: Customizations or notes
+      type: text
+      options: []
+      required: false

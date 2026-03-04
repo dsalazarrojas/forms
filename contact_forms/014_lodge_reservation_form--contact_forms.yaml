@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lodge Reservation Form
+    pages:
+    - id: 1
+      name: business_type
+      label: Business or Leisure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_arrival
+      label: Date of arrival
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_of_departure
+      label: Date of departure
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_type_options
+      label: Business or Leisure
+      hint: null
+      type: select_one
+      options:
+      - Leisure
+      - Business
+      - Pleasure
+      required: false
+    - id: 9
+      name: lodging_type
+      label: Lodging Type
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Bed and Breakfast
+      - Motel
+      - Hostel
+      - Other
+      required: false
+    - id: 10
+      name: how_many_guests
+      label: How many guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: how_many_nights
+      label: How many nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: reservation_date
+      label: Reservation date
+      hint: null
+      type: date
+      options: []
+      required: false

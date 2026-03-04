@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Resilience Consulting Project Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Project Management Office''}'
+      - '{''id'': 2, ''label'': ''Business Development''}'
+      - '{''id'': 3, ''label'': ''Consulting''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Individual''}'
+      - '{''id'': 2, ''label'': ''Business''}'
+      - '{''id'': 3, ''label'': ''Organization''}'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: Enter your name as you would like it to appear in our system.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

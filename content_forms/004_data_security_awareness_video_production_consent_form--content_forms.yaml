@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_security_awareness_video_production_consent_form
+    pages:
+    - id: 1
+      name: staff_member
+      label: staff_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: production_title
+      label: production_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_of_video_shoot
+      label: date_of_video_shoot
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_video_shoot
+      label: time_of_video_shoot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: video_shoot_notes
+      label: video_shoot_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: consent_provided
+      label: consent_provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

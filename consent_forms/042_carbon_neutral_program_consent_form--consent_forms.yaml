@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Neutral Program Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- PARTICIPANT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, state, zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization or company (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_information
+      label: -- PROGRAM INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: program_name
+      label: Carbon Neutral Program name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_start_date
+      label: Program start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: program_duration
+      label: Program duration
+      hint: null
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Ongoing
+      required: true
+    - id: 13
+      name: program_goals
+      label: Program goals (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce Carbon Footprint
+      - Carbon Offset
+      - Sustainability Education
+      - Behavioral Change
+      - Environmental Impact Measurement
+      required: false
+    - id: 14
+      name: baseline_emissions
+      label: Participant baseline emissions (mtCO2e)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: informed_consent
+      label: -- INFORMED CONSENT --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: understand_program
+      label: I understand the program objectives and requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: data_usage_agreement
+      label: I agree to data collection for carbon tracking purposes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: privacy_consent
+      label: I consent to the privacy policy and data handling practices
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: voluntary_participation
+      label: I understand this is a voluntary program and can withdraw anytime
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: carbon_offset_consent
+      label: I authorize carbon offset on my behalf (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 21
+      name: monitoring_agreement
+      label: I agree to monitoring and reporting of my carbon activities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: emergency_contact
+      label: -- EMERGENCY CONTACT --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_confirmation
+      label: I confirm and consent to this Carbon Neutral Program
+      hint: By selecting Yes, you are providing your digital signature
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true

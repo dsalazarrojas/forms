@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Card Replacement Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Personal Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_header
+      label: -- Reason for Replacement --
+      hint: Please select why you need a replacement card
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_replacement
+      label: Reason for Card Replacement
+      hint: Why do you need a new vaccination card
+      type: select_one
+      options:
+      - Lost Original Card
+      - Damaged or Illegible Card
+      - Card Was Never Provided
+      - Need Official Copy
+      - Name Change
+      - Other Reason
+      required: true
+    - id: 9
+      name: other_reason
+      label: If Other, Please Explain
+      hint: Describe the specific reason if other
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vaccination_header
+      label: -- Vaccination History --
+      hint: Details of your COVID-19 vaccination
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vaccinating_facility
+      label: Original Vaccinating Facility Name
+      hint: Where did you receive your vaccine
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_location
+      label: Facility City and State
+      hint: Location of vaccination facility
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: first_dose_date
+      label: First Dose Date
+      hint: Date of your first vaccination
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: first_dose_vaccine
+      label: First Dose Vaccine Type
+      hint: Type of vaccine administered
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - Other
+      - Unsure
+      required: true
+    - id: 15
+      name: second_dose_date
+      label: Second Dose Date
+      hint: Date of second dose if applicable
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: second_dose_vaccine
+      label: Second Dose Vaccine Type
+      hint: Type of second dose vaccine
+      type: select_one
+      options:
+      - Same as First Dose
+      - Different from First Dose
+      - N-A
+      - Unsure
+      required: false
+    - id: 17
+      name: booster_doses_count
+      label: Number of Booster Doses Received
+      hint: How many booster shots have you received
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: last_booster_date
+      label: Most Recent Booster Date
+      hint: Date of your last booster dose
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: How would you like to receive the replacement
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should we send your replacement card
+      type: select_one
+      options:
+      - Email
+      - Mail to Current Address
+      - Pick Up at Facility
+      - Digital Record Only
+      required: true
+    - id: 21
+      name: verification_header
+      label: -- Identity Verification --
+      hint: Confirm your identity for replacement
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: id_type
+      label: Type of ID You Will Provide for Verification
+      hint: What identification do you have
+      type: select_one
+      options:
+      - Driver License
+      - Passport
+      - State ID
+      - Medical Records
+      - Other
+      required: true
+    - id: 23
+      name: id_number
+      label: ID Number
+      hint: Your identification number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: consent_statement
+      label: I Consent to Verification of My Vaccination Record
+      hint: I authorize verification of my records
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

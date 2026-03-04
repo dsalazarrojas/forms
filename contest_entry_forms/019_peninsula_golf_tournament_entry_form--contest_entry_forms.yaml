@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peninsula Golf Tournament Entry Form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: tournament_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: participant_hc
+      label: participant_hc
+      hint: null
+      type: select_multiple
+      options:
+      - HC1
+      - HC2
+      - HC3
+      required: false
+    - id: 7
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: golf_course
+      label: golf_course
+      hint: null
+      type: select_one
+      options:
+      - Course A
+      - Course B
+      - Course C
+      required: false
+    - id: 9
+      name: handicap_index
+      label: handicap_index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: handicap_hcp
+      label: handicap_hcp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: entry_time
+      label: entry_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: entry_fee
+      label: entry_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false

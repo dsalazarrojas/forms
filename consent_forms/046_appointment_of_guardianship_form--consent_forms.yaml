@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Of Guardianship Form
+    pages:
+    - id: 1
+      name: guardian_information
+      label: -- Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guardian_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guardianship_details
+      label: -- Guardianship Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ward_name
+      label: Name of Ward
+      hint: Minor or dependent person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ward_date_of_birth
+      label: Ward Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: ward_relationship
+      label: Relationship to Ward
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Sibling
+      - Relative
+      - Family friend
+      - Other
+      required: true
+    - id: 10
+      name: guardianship_type
+      label: Type of Guardianship
+      hint: null
+      type: select_one
+      options:
+      - Full guardianship
+      - Limited guardianship
+      - Temporary guardianship
+      - Conservatorship
+      - Custody
+      required: true
+    - id: 11
+      name: guardianship_start_date
+      label: Guardianship Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: guardianship_end_date
+      label: Guardianship End Date (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: authority_and_responsibility
+      label: -- Authority and Responsibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: responsibilities
+      label: Guardian responsibilities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical decisions
+      - Educational decisions
+      - Financial management
+      - Legal representation
+      - Day-to-day care
+      - Inheritance management
+      required: true
+    - id: 15
+      name: restrictions
+      label: Any restrictions or limitations on guardianship?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: alternate_guardian
+      label: -- Alternate Guardian --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: alternate_guardian_name
+      label: Alternate Guardian Name
+      hint: In case primary guardian is unable to serve
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alternate_guardian_contact
+      label: Alternate Guardian Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: legal_acknowledgment
+      label: -- Legal Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: understand_responsibilities
+      label: I understand and accept all guardianship responsibilities
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: acknowledge_authority
+      label: I acknowledge that this appointment grants legal authority and responsibility
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: signature_confirmation
+      label: I confirm the accuracy of all information provided
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - I need to make changes
+      required: true

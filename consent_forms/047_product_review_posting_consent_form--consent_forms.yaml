@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Posting Consent Form
+    pages:
+    - id: 1
+      name: review_details
+      label: Review Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_text
+      label: Review Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_rating
+      label: Review Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: review_publish
+      label: Publish
+      hint: Check to allow publishing of the review
+      type: select_one
+      options:
+      - Yes, Publish
+      - No, Don't Publish
+      required: false
+    - id: 5
+      name: review_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

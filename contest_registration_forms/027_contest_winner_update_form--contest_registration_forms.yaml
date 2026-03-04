@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Winner Update Form
+    pages:
+    - id: 1
+      name: winner_verification_header
+      label: -- Winner Verification --
+      hint: Please confirm your details for prize processing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: winner_full_name
+      label: Full Name (Legal)
+      hint: Must match your identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contest_won_name
+      label: Name of Contest Won
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: winning_date
+      label: Date of Prize Announcement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_update_header
+      label: -- Updated Contact and Delivery --
+      hint: Where should we send your prize
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_email
+      label: Current Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number_mobile
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_address_full
+      label: Full Shipping/Mailing Address
+      hint: Include City, State, and Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: prize_delivery_preference
+      label: Preferred Prize Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Physical Mail (Courier)
+      - Digital/Electronic Transfer
+      - Local Pickup at Office
+      required: true
+    - id: 10
+      name: identity_verification_header
+      label: -- Identity and Tax (If applicable) --
+      hint: For prizes over 600 USD
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: government_id_reference
+      label: Government ID Type
+      hint: e.g., Passport, Drivers License
+      type: select_one
+      options:
+      - Passport
+      - Drivers License
+      - National ID Card
+      - Other
+      required: false
+    - id: 12
+      name: social_media_consent
+      label: Consent to announce on Social Media
+      hint: May we use your name and photo to celebrate your win
+      type: select_one
+      options:
+      - Yes - Full Name and Photo
+      - Yes - First Name Only
+      - No - I prefer to stay private
+      required: true
+    - id: 13
+      name: photo_for_announcement_link
+      label: Link to Winner Photo (Optional)
+      hint: Professional headshot or photo with entry
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_acknowledgement
+      label: I confirm the accuracy of this update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_timestamp
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

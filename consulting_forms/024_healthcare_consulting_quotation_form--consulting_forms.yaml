@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Consulting Quotation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Service 1''}'
+      - '{''option'': ''Service 2''}'
+      - '{''option'': ''Service 3''}'
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Location 1''}'
+      - '{''option'': ''Location 2''}'
+      - '{''option'': ''Location 3''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: services_other
+      label: Services Other
+      hint: Enter other services if not listed above
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location_other
+      label: Location Other
+      hint: Enter location if not listed above
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consultant_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

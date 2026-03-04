@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contest Entry Form
+    pages:
+    - id: 1
+      name: entrant_info_header
+      label: -- Entrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entrant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: entrant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: entry_details_header
+      label: -- Contest Entry Details --
+      hint: Tell us about your submission
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contest_category
+      label: Contest Category
+      hint: Select the category you are entering
+      type: select_one
+      options:
+      - Creative Writing/Short Story
+      - Digital Art/Graphic Design
+      - Photography (Landscape)
+      - Photography (Portrait)
+      - Short Film/Video
+      required: true
+    - id: 7
+      name: entry_title
+      label: Title of your Entry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: entry_description
+      label: Brief Description/Statement
+      hint: Max 150 words about your work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: file_submission_reference
+      label: Uploaded File Name Reference
+      hint: e.g., my_artwork_v1.jpg
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: rules_and_terms_header
+      label: -- Contest Rules --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: age_confirmation
+      label: I am 18 years of age or older
+      hint: If under 18, parental consent is required
+      type: select_one
+      options:
+      - true
+      - No (Requires Guardian Consent)
+      required: true
+    - id: 13
+      name: original_work_certification
+      label: I certify this is my own original work
+      hint: Plagiarism will result in disqualification
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 14
+      name: usage_rights_agreement
+      label: I grant permission to display my work online
+      hint: For contest promotion and exhibition
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: entry_fee_status
+      label: Entry Fee Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid Online
+      - Payment Pending
+      - Exempt/Student Entry
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false

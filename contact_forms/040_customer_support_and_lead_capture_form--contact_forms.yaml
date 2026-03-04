@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support And Lead Capture Form
+    pages:
+    - id: 1
+      name: customer_support_and_lead_capture_form
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_capture
+      label: Lead Capture
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: lead_capture_option
+      label: Capture Lead
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 8
+      name: lead_capture_option_option
+      label: Lead Capture Option
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false

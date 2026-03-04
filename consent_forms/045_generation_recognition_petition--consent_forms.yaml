@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generation Recognition Petition
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporter_name
+      label: Supporter Name
+      hint: Name of the supporter
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporter_email
+      label: Supporter E-mail
+      hint: E-mail of the supporter
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: supporter_phone
+      label: Supporter Phone
+      hint: Phone number of the supporter
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_signed_by
+      label: Form Signed By
+      hint: null
+      type: select_one
+      options:
+      - I agree and accept the conditions
+      - I disagree with the conditions
+      - Decline to answer
+      required: false
+    - id: 7
+      name: supporter_comments
+      label: Supporter Comments
+      hint: Additional comments from the supporter
+      type: text
+      options: []
+      required: false

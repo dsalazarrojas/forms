@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Vaccination Declaration Form
+    pages:
+    - id: 1
+      name: pet_vaccination_declaration_form_pet_owner
+      label: pet_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_vaccination_declaration_form_vaccination_status
+      label: vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Vaccinated'', ''value'': ''vaccinated''}'
+      - '{''id'': 2, ''label'': ''Not vaccinated'', ''value'': ''not_vaccinated''}'
+      - '{''id'': 3, ''label'': ''Unknown'', ''value'': ''unknown''}'
+      required: false
+    - id: 3
+      name: pet_vaccination_declaration_form_vaccination_date
+      label: vaccination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pet_vaccination_declaration_form_vaccination_type
+      label: vaccination_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Rabies'', ''value'': ''rabies''}'
+      - '{''id'': 2, ''label'': ''Parvovirus'', ''value'': ''parvovirus''}'
+      - '{''id'': 3, ''label'': ''Distemper'', ''value'': ''distemper''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      - '{''id'': 5, ''label'': ''None'', ''value'': ''none''}'
+      required: false
+    - id: 5
+      name: pet_vaccination_declaration_form_additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pet_vaccination_declaration_form_vaccination_history
+      label: vaccination_history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Up-to-date'', ''value'': ''up-to-date''}'
+      - '{''id'': 2, ''label'': ''Out-of-date'', ''value'': ''out-of-date''}'
+      - '{''id'': 3, ''label'': ''Never vaccinated'', ''value'': ''never_vaccinated''}'
+      required: false
+    - id: 7
+      name: pet_vaccination_declaration_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pet_vaccination_declaration_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_cookie_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cookie_order
+      label: cookie_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - stripe
+      required: false
+    - id: 4
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_totals
+      label: order_totals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: stripe_publishable_public_key
+      label: stripe_publishable_public_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stripe_secret_key
+      label: stripe_secret_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stripe_public_key
+      label: stripe_public_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stripe_webhook_secret_key
+      label: stripe_webhook_secret_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stripe_webhook_public_key
+      label: stripe_webhook_public_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cookie_id
+      label: cookie_id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: cookies
+      label: cookies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - processing
+      - fulfilled
+      - cancelled
+      required: false
+    - id: 18
+      name: payment_method_id
+      label: payment_method_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method_label
+      label: payment_method_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method_description
+      label: payment_method_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cookie_type
+      label: cookie_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: cookie_name
+      label: cookie_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cookie_price
+      label: cookie_price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cookie_description
+      label: cookie_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: order_note
+      label: order_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: order_total
+      label: order_total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: order_submitted
+      label: order_submitted
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - pending
+      - cancelled
+      required: false
+    - id: 31
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - pending
+      - cancelled
+      required: false
+    - id: 32
+      name: order_status_label
+      label: order_status_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false

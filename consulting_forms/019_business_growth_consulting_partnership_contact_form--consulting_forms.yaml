@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Growth Consulting Partnership Contact Form
+    pages:
+    - id: 1
+      name: section_potential_partner
+      label: -- Potential Partner Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_professional_background
+      label: Professional Background / Expertise
+      hint: Brief summary of your experience
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: partnership_interest_category
+      label: Partnership Interest Type
+      hint: Select the primary nature of interest
+      type: select_one
+      options:
+      - Referral Partner
+      - Co-Consulting / Joint Venture
+      - Strategic Alliance
+      - Resource Sharing
+      - White-Label Partnership
+      required: true
+    - id: 5
+      name: collaboration_area_details
+      label: Proposed Collaboration Area
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: relevant_partnership_experience
+      label: Relevant Experience in Similar Partnerships
+      hint: List any successful collaborations you have managed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_communication_availability
+      label: -- Communication and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_comms_channel
+      label: Preferred Communication Channel
+      hint: How should we first reach out
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - LinkedIn Messaging
+      - Video Meeting (Zoom/Teams)
+      required: true
+    - id: 9
+      name: partner_contact_info
+      label: Partnership Contact Email / Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: initial_meeting_availability
+      label: Availability for Initial Meeting
+      hint: When are you generally free for a 30-min sync
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_alignment_proposal
+      label: -- Alignment and Proposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: shared_values_alignment_statement
+      label: Brief Partnership Proposal or Vision
+      hint: Why do you think this partnership would be mutually beneficial
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: partnership_inquiry_date
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: agreement_to_nda_preliminary
+      label: I agree to treat all shared information as confidential
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

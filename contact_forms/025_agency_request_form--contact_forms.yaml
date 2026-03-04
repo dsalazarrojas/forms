@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Agency Partnership Inquiry --
+      hint: Contact us to discuss potential agency partnerships
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: representative_name
+      label: Name of Representative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: inquiry_header
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interest_level
+      label: Interest Level - Immediate Need, Information Gathering, Budget Planning
+      hint: how urgent is your request
+      type: select_one
+      options:
+      - Immediate Need (Project starting within 30 days)
+      - Information Gathering (For future reference)
+      - Budget Planning (For next fiscal year)
+      - Partner Program Inquiry
+      required: true
+    - id: 8
+      name: business_model
+      label: Brief description of your business model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: specific_challenges
+      label: Specific challenges you are looking to solve
+      hint: e.g., low lead conversion
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_method
+      label: Preferred method of contact
+      hint: how should we get back to you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Conference (Zoom/Teams)
+      required: true
+    - id: 11
+      name: follow_up_time
+      label: Best time for a follow-up call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: provided_materials
+      label: Materials you can provide - Brand Guidelines, Market Research, etc.
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Brand Guidelines
+      - Existing Market Research
+      - Previous Campaign Data
+      - Technical Documentation
+      required: false

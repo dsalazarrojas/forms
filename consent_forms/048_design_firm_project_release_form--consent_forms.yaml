@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Firm Project Release Form
+    pages:
+    - id: 1
+      name: design_firm_project_release_form_fields_1
+      label: Client Acceptance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_closeout_details
+      label: Project Closeout
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: final_deliverables
+      label: Final Deliverables
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concerned Stakeholder Contact Form
+    pages:
+    - id: 1
+      name: contact_id
+      label: Contact ID
+      hint: Unique contact identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stakeholder_type
+      label: Stakeholder Type
+      hint: Select your stakeholder category
+      type: select_one
+      options:
+      - Investor
+      - Customer
+      - Employee
+      - Supplier
+      - Partner
+      - Community Member
+      - Regulator
+      - Media
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: concern_category
+      label: Concern Category
+      hint: Select the category of your concern
+      type: select_one
+      options:
+      - Financial Performance
+      - Corporate Governance
+      - Environmental Impact
+      - Social Responsibility
+      - Product Quality
+      - Customer Service
+      - Employee Relations
+      - Safety Concerns
+      - Ethical Practices
+      - Strategic Direction
+      - Other
+      required: true
+    - id: 10
+      name: concern_subject
+      label: Concern Subject
+      hint: Brief subject line
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: concern_description
+      label: Concern Description
+      hint: Describe your concern in detail
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this concern
+      type: select_one
+      options:
+      - Low - Can Wait
+      - Medium - Within 1 Week
+      - High - Within 48 Hours
+      - Critical - Immediate Attention
+      required: true
+    - id: 13
+      name: impact_assessment
+      label: Impact Assessment
+      hint: What is the potential impact
+      type: select_one
+      options:
+      - Minimal Impact
+      - Moderate Impact
+      - Significant Impact
+      - Severe Impact
+      - Critical Impact
+      required: true
+    - id: 14
+      name: affected_parties
+      label: Affected Parties
+      hint: Who else is affected
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_contact
+      label: Previous Contact
+      hint: Have you contacted us about this before
+      type: select_one
+      options:
+      - No, First Time
+      - Yes, Once
+      - Yes, Multiple Times
+      required: true
+    - id: 16
+      name: previous_contact_date
+      label: Previous Contact Date
+      hint: When did you last contact us
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Will you attach documents
+      type: select_one
+      options:
+      - Yes, Attached
+      - Yes, To Follow
+      - No Documents
+      required: false
+    - id: 18
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What resolution do you seek
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: preferred_response_method
+      label: Preferred Response Method
+      hint: How should we respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - In Person Meeting
+      - Video Conference
+      - Written Letter
+      required: true
+    - id: 20
+      name: availability
+      label: Availability
+      hint: When are you available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confidentiality_request
+      label: Confidentiality Request
+      hint: Should this be kept confidential
+      type: select_one
+      options:
+      - Yes, Keep Confidential
+      - No, Can Be Shared
+      - Only with Relevant Parties
+      required: true
+    - id: 22
+      name: follow_up_permission
+      label: Follow Up Permission
+      hint: May we contact you for more information
+      type: select_one
+      options:
+      - Yes, Please Contact Me
+      - No, Do Not Contact
+      required: true
+    - id: 23
+      name: contact_status
+      label: Contact Status
+      hint: Current status
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - In Progress
+      - Resolved
+      - Closed
+      required: true

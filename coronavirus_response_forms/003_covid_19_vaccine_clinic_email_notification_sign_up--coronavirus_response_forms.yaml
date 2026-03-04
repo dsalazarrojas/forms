@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Clinic Email Notification Sign Up
+    pages:
+    - id: 1
+      name: intro_section
+      label: -- Email Notification Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: You will receive vaccine availability notifications at this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 65+
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code or Service Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_priority
+      label: What is your vaccination priority status?
+      hint: null
+      type: select_one
+      options:
+      - Healthcare worker
+      - Essential worker
+      - Elderly or immunocompromised
+      - General population
+      - Prefer not to say
+      required: true
+    - id: 9
+      name: notification_frequency
+      label: How often would you like to receive notifications?
+      hint: null
+      type: select_one
+      options:
+      - Every update
+      - Daily summary
+      - Weekly summary
+      - As needed
+      required: false
+    - id: 10
+      name: first_dose_received
+      label: Have you received your first vaccine dose?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 11
+      name: willing_travel
+      label: How far are you willing to travel for vaccination?
+      hint: null
+      type: select_one
+      options:
+      - Within 5 miles
+      - Within 10 miles
+      - Within 25 miles
+      - No limit
+      required: false
+    - id: 12
+      name: terms_agreement
+      label: I agree to receive email notifications about vaccine availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: privacy_consent
+      label: I consent to my information being used for vaccine notification purposes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

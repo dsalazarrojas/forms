@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homebrew Tournament Entry Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: brewer_name
+      label: Brewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_materials
+      label: Entry Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: brewer_notes
+      label: Brewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: competition_date
+      label: Competition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''Category 1'', ''value'': ''Option 1''}'
+      - '{''id'': 14, ''name'': ''Category 2'', ''value'': ''Option 2''}'
+      - '{''id'': 15, ''name'': ''Category 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 17, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 18, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 19, ''name'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 22, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 23, ''name'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 15
+      name: additional_entries
+      label: Additional Entries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 25, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 26, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 27, ''name'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 16
+      name: entry_materials_2
+      label: Additional Materials
+      hint: null
+      type: text
+      options: []
+      required: false

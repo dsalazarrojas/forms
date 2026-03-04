@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Lighting Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Commercial building
+      - Townhome
+      - Apartment complex
+      - Church or organization
+      - Other
+      required: true
+    - id: 12
+      name: lighting_details
+      label: -- Lighting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: installation_type
+      label: Type of Installation
+      hint: null
+      type: select_multiple
+      options:
+      - Roof lights
+      - Gutter lights
+      - Pathway lights
+      - Tree and landscape lights
+      - Window lights
+      - Animated displays
+      - Projection lights
+      - Inflatable decorations
+      required: true
+    - id: 14
+      name: coverage_area
+      label: Approximate Coverage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: light_preferences
+      label: Light Color Preferences
+      hint: null
+      type: select_one
+      options:
+      - Warm white
+      - Cool white
+      - Multi-color
+      - Mixed colors
+      - No preference
+      required: false
+    - id: 16
+      name: light_type
+      label: Light Type Preference
+      hint: null
+      type: select_one
+      options:
+      - LED lights
+      - Traditional incandescent
+      - Mixed
+      - No preference
+      required: false
+    - id: 17
+      name: power_requirements
+      label: Power Connection Available
+      hint: null
+      type: select_one
+      options:
+      - Yes, existing outlets
+      - Need to run new power
+      - Solar preferred
+      - Not sure
+      required: true
+    - id: 18
+      name: timeline
+      label: -- Timeline & Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: installation_date
+      label: Desired Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,000
+      - $2,000 - $5,000
+      - Over $5,000
+      - Not set
+      required: false
+    - id: 21
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: design_style
+      label: Desired Design Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: removal_service
+      label: Will you need removal service in January?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

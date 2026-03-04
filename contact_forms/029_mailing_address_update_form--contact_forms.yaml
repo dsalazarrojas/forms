@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: mailing_address_update_form
+    pages:
+    - id: 1
+      name: form_data_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_data_email
+      label: email
+      hint: Email address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_data_phone
+      label: phone_number
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_data_address
+      label: address_1
+      hint: Street address 1
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_data_address_2
+      label: address_2
+      hint: Street address 2
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_data_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_data_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_data_zip
+      label: zip
+      hint: Zip or postal code
+      type: text
+      options: []
+      required: false

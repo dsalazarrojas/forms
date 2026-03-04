@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contactless Elevator Operation Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: Contactless Elevator Operation Consent Form
+      hint: Consent for touchless elevator access
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: unit_number
+      label: Unit Number
+      hint: Apartment or unit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_name
+      label: Building Name
+      hint: Building identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: occupancy_type
+      label: Occupancy Type
+      hint: Your status
+      type: select_one
+      options:
+      - Owner
+      - Tenant
+      - Authorized Occupant
+      required: true
+    - id: 9
+      name: consent_grant
+      label: Consent Grant
+      hint: Do you consent to contactless operation
+      type: select_one
+      options:
+      - I Hereby Consent
+      - I Do Not Consent
+      required: true
+    - id: 10
+      name: access_method
+      label: Preferred Access Method
+      hint: How to activate elevator
+      type: select_multiple
+      options:
+      - Mobile App
+      - Key Fob
+      - Access Card
+      - Voice Control
+      - Motion Sensor
+      required: true
+    - id: 11
+      name: mobile_device
+      label: Mobile Device Type
+      hint: If using app
+      type: select_one
+      options:
+      - iOS - iPhone
+      - Android
+      - Not Using Mobile
+      required: false
+    - id: 12
+      name: authorized_users
+      label: Number of Authorized Users
+      hint: How many people in unit
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: user_names
+      label: Names of Authorized Users
+      hint: List all users
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any special requirements
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: data_collection_consent
+      label: Data Collection Consent
+      hint: Consent to usage data collection
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 17
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you accept terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature
+      label: Digital Signature
+      hint: Sign to consent
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: effective_date
+      label: Effective Date
+      hint: When does this start
+      type: date
+      options: []
+      required: true

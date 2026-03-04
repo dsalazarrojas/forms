@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: IV Therapy Injections Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number_type
+      label: Contact Number Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: injection_date
+      label: Injection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: injection_site
+      label: Injection Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_status
+      label: Consent Status
+      hint: 'Select one of the options: Yes, No, Unknown'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: reason_for_no_consent
+      label: Reason for No
+      hint: null
+      type: text
+      options: []
+      required: false

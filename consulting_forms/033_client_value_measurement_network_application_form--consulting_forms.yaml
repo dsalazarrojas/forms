@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Measurement Network Application Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Network Application Form
+      hint: Join our Client Value Measurement Network
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry_section
+      label: -- Industry and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: What industry do you work in?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 11
+      name: years_in_industry
+      label: Years of Experience in Industry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: years_in_role
+      label: Years in Current Role
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: expertise_areas
+      label: Areas of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Customer Success
+      - Value Management
+      - Strategy
+      - Operations
+      - Analytics
+      - Sales
+      - Marketing
+      - Product Management
+      - Leadership
+      - Consulting
+      - Other
+      required: true
+    - id: 14
+      name: network_interest_section
+      label: -- Network Participation Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: participation_goals
+      label: What are your goals for joining this network?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: value_focus
+      label: What aspects of value measurement interest you most?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Financial Value
+      - Customer Satisfaction
+      - Business Impact
+      - Process Improvement
+      - Technology Solutions
+      - Best Practices
+      - Peer Networking
+      - Knowledge Sharing
+      required: true
+    - id: 17
+      name: participation_level
+      label: Desired Level of Participation
+      hint: null
+      type: select_one
+      options:
+      - Passive - Receive Updates
+      - Active - Attend Events
+      - Highly Active - Speak or Lead
+      - Executive Steering
+      required: true
+    - id: 18
+      name: time_commitment
+      label: Available Time per Month for Network Activities
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20+ hours
+      required: true
+    - id: 19
+      name: expertise_contribution
+      label: How can you contribute to the network?
+      hint: Speaking, mentoring, sharing case studies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: network_benefits_section
+      label: -- Benefits and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: expected_benefits
+      label: What do you expect to gain from network participation?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Industry Insights
+      - Networking Opportunities
+      - Professional Development
+      - Access to Research
+      - Case Studies
+      - Best Practices
+      - Certification
+      - Speaking Opportunities
+      - Other
+      required: true
+    - id: 22
+      name: current_challenges
+      label: Current business challenges you face
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: learning_interests
+      label: Topics or skills you want to develop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: background_section
+      label: -- Background and References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: certifications
+      label: Relevant Certifications or Credentials
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: publications
+      label: Published Articles or Thought Leadership
+      hint: Optional - links or descriptions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: professional_network
+      label: Professional Networks or Associations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: referral
+      label: How did you hear about this network?
+      hint: null
+      type: select_one
+      options:
+      - Colleague Referral
+      - Website
+      - Social Media
+      - Event
+      - Email
+      - Other
+      required: false
+    - id: 29
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: agreement_section
+      label: -- Agreement and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: code_of_conduct
+      label: I agree to abide by the Network Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 32
+      name: data_sharing
+      label: I consent to my profile being shared with network members
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

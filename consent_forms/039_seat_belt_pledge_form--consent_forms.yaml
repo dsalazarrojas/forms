@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seat Belt Pledge Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_license
+      label: driver_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seat_belt
+      label: seat_belt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: passengers
+      label: passengers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: seat_belt_pledge
+      label: seat_belt_pledge
+      hint: null
+      type: select_one
+      options:
+      - Pledge
+      - 'False'
+      - Undecided
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

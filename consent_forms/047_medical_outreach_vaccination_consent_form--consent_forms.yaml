@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Outreach Vaccination Consent Form
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: medical_phone
+      label: Medical Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_form
+      label: Consent Form
+      hint: Select "Consent" to confirm
+      type: select_one
+      options:
+      - Consent
+      - Decline
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_vaccination
+      label: Date of Vaccination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Please select all relevant
+      type: select_multiple
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      required: true
+    - id: 9
+      name: vaccination_dose
+      label: Vaccination Dose
+      hint: null
+      type: text
+      options: []
+      required: true

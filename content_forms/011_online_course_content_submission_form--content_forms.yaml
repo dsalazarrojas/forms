@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Content Submission Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Instructor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_info
+      label: Course Information
+      hint: Please provide course details
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_code
+      label: Course Code
+      hint: Alpha-numeric characters only
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_start_date
+      label: Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: course_end_date
+      label: End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: course_instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_level
+      label: Course Level
+      hint: Select One
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 10
+      name: course_level_other
+      label: Course Level Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_level_other_description
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_language
+      label: Language
+      hint: Select One
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: course_language_other
+      label: Language Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_language_other_description
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_file
+      label: Upload file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_type
+      label: File type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: file_size
+      label: Size
+      hint: KB
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: content_type
+      label: Content type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: content_type_other
+      label: Content type Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: content_type_other_description
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: content_file
+      label: Upload content file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: content_file_type
+      label: Content file type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: content_version
+      label: Content version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: content_review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Support Service Consultation
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Video Call
+      - In Person
+      required: true
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: Number of people in your household
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: has_children
+      label: Do you have children under 18?
+      hint: Children in household
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: children_count
+      label: If yes, how many children?
+      hint: Number of children under 18
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_needed
+      label: What service do you need consultation for?
+      hint: Select primary need
+      type: select_one
+      options:
+      - Housing Assistance
+      - Food Support
+      - Employment Services
+      - Healthcare Access
+      - Mental Health Support
+      - Financial Counseling
+      - Legal Aid
+      - Education Resources
+      - Senior Services
+      - Disability Services
+      - Immigration Support
+      - Other
+      required: true
+    - id: 9
+      name: additional_services
+      label: Are there other services you need?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emergency Assistance
+      - Long-term Support
+      - Referral Services
+      - Case Management
+      - Advocacy
+      - Transportation Help
+      - Translation Services
+      - Childcare Resources
+      required: false
+    - id: 10
+      name: urgency_level
+      label: How urgent is your situation?
+      hint: Priority level
+      type: select_one
+      options:
+      - Low - General inquiry
+      - Medium - Need help within a week
+      - High - Need help within 48 hours
+      - Critical - Immediate assistance needed
+      required: true
+    - id: 11
+      name: current_challenges
+      label: Briefly describe your current challenges
+      hint: What brings you to seek consultation?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_assistance
+      label: Have you received similar assistance before?
+      hint: Prior support history
+      type: select_one
+      options:
+      - No, first time
+      - Yes, from this organization
+      - Yes, from another organization
+      required: true
+    - id: 13
+      name: previous_assistance_details
+      label: If yes, please provide details
+      hint: What assistance did you receive?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: income_level
+      label: What is your approximate household income?
+      hint: For eligibility determination
+      type: select_one
+      options:
+      - Under $15,000
+      - $15,000 - $29,999
+      - $30,000 - $44,999
+      - $45,000 - $59,999
+      - $60,000 - $74,999
+      - $75,000 or above
+      - Prefer not to say
+      required: false
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed - Looking
+      - Unemployed - Not Looking
+      - Student
+      - Retired
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 16
+      name: insurance_status
+      label: Do you have health insurance?
+      hint: Insurance coverage
+      type: select_one
+      options:
+      - Yes, private insurance
+      - Yes, government insurance (Medicaid/Medicare)
+      - No, uninsured
+      - Not sure
+      required: false
+    - id: 17
+      name: preferred_language
+      label: Preferred Language
+      hint: Language for consultation
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese (Mandarin)
+      - Chinese (Cantonese)
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - Arabic
+      - French
+      - Other
+      required: true
+    - id: 18
+      name: needs_interpreter
+      label: Do you need an interpreter?
+      hint: Language assistance
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: appointment_preference
+      label: Preferred Appointment Time
+      hint: When works best for you?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Weekend
+      - Flexible
+      required: true
+    - id: 20
+      name: appointment_days
+      label: Preferred Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 21
+      name: consultation_format
+      label: Preferred Consultation Format
+      hint: How would you like to meet?
+      type: select_one
+      options:
+      - In-person at office
+      - Video call (Zoom, etc.)
+      - Phone call
+      - Home visit (if available)
+      required: true
+    - id: 22
+      name: accessibility_needs
+      label: Do you have any accessibility needs?
+      hint: Accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: referral_source
+      label: How did you hear about our services?
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Community Organization
+      - Healthcare Provider
+      - School
+      - Website
+      - Hotline
+      - Shelter/Transitional Housing
+      - Other
+      required: true
+    - id: 24
+      name: consent_information_sharing
+      label: I consent to sharing information with partner agencies if needed
+      hint: For coordinated care
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 25
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

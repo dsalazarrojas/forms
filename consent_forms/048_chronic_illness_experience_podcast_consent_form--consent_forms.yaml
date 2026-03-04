@@ -1,0 +1,299 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Illness Experience Podcast Consent Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For podcast coordination
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For recording day contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_name
+      label: Preferred Name
+      hint: Name to use on podcast
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: City and State
+      hint: Where are you located
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: chronic_condition
+      label: Chronic Condition
+      hint: Your condition you will discuss
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: diagnosis_duration
+      label: How Long Diagnosed
+      hint: Time since diagnosis
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 9
+      name: comfort_level
+      label: Comfort Level Sharing
+      hint: How comfortable are you sharing
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Somewhat comfortable
+      - Nervous but willing
+      required: true
+    - id: 10
+      name: section_condition_info
+      label: -- Condition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: podcast_name
+      label: Podcast Name
+      hint: Name of the podcast
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recording_date
+      label: Recording Date
+      hint: Scheduled recording date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: recording_format
+      label: Recording Format
+      hint: How will recording occur
+      type: select_one
+      options:
+      - In-person studio
+      - Video call remote
+      - Phone call
+      - Pre-recorded audio
+      required: true
+    - id: 14
+      name: expected_duration
+      label: Expected Duration
+      hint: How long is the episode
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 90 minutes
+      - 2 hours
+      required: true
+    - id: 15
+      name: section_podcast_details
+      label: -- Podcast Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: consent_to_record
+      label: Consent to Record
+      hint: I consent to being recorded
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 17
+      name: consent_to_broadcast
+      label: Consent to Broadcast
+      hint: I consent to my voice being broadcast
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 18
+      name: consent_to_use_name
+      label: Consent to Use Name
+      hint: I consent to my name being used
+      type: select_one
+      options:
+      - Yes use my real name
+      - Use first name only
+      - Use pseudonym
+      - Remain anonymous
+      required: true
+    - id: 19
+      name: section_consent
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: content_approval
+      label: Content Approval
+      hint: Do you want to review before release
+      type: select_one
+      options:
+      - Yes want to review
+      - No trust the host
+      - Only if major changes
+      required: true
+    - id: 21
+      name: topics_to_discuss
+      label: Topics to Discuss
+      hint: What topics do you want to cover
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: topics_to_avoid
+      label: Topics to Avoid
+      hint: Any topics you do not want to discuss
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_content
+      label: -- Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: promotional_use
+      label: Promotional Use
+      hint: Consent to use clips for promotion
+      type: select_one
+      options:
+      - Yes for all promotion
+      - Yes for social media only
+      - Yes for website only
+      - No promotional use
+      required: true
+    - id: 25
+      name: distribution_platforms
+      label: Distribution Platforms
+      hint: Where can podcast be distributed
+      type: select_multiple
+      options:
+      - Apple Podcasts
+      - Spotify
+      - Google Podcasts
+      - YouTube
+      - Website
+      - All platforms
+      required: true
+    - id: 26
+      name: section_distribution
+      label: -- Distribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: compensation
+      label: Compensation
+      hint: Will you receive compensation
+      type: select_one
+      options:
+      - No volunteer appearance
+      - Yes honorarium
+      - Yes trade for services
+      - Other
+      required: true
+    - id: 28
+      name: social_media_handles
+      label: Social Media Handles
+      hint: Share if you want to be tagged
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: website_or_blog
+      label: Website or Blog
+      hint: If you have one to share
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_promotion
+      label: -- Promotion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: rights_retained
+      label: Rights Acknowledgment
+      hint: I understand I retain my story rights
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 32
+      name: revocation_understanding
+      label: Revocation Understanding
+      hint: I understand consent can be revoked
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 33
+      name: guest_signature
+      label: Guest Acknowledgment
+      hint: I certify I am 18 or older
+      type: select_one
+      options:
+      - Yes I certify
+      - No I am under 18
+      required: true
+    - id: 34
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or concerns
+      type: text
+      options: []
+      required: false

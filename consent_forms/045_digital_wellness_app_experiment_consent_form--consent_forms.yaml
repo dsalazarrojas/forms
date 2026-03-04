@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Wellness App Experiment Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_status
+      label: consent_status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 7
+      name: research_participant_id
+      label: research_participant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_study_id
+      label: research_study_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: study_name
+      label: study_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: study_start
+      label: study_start
+      hint: null
+      type: date
+      options: []
+      required: false

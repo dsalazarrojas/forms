@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Renovation Checklist
+    pages:
+    - id: 1
+      name: home_renovation_project_details
+      label: home_renovation_project_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_completion_date
+      label: project_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: true
+    - id: 7
+      name: contractor_name
+      label: contractor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_manager_name
+      label: project_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_phone
+      label: project_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_address
+      label: project_address
+      hint: null
+      type: text
+      options: []
+      required: false

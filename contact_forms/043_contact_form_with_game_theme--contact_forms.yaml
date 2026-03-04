@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Game Theme
+    pages:
+      - id: 1
+        name: section_player_info
+        label: -- Player Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: player_gamertag
+        label: Player Gamertag/Name
+        hint: Enter your in-game name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: player_email_address
+        label: Player Email Address
+        hint: Primary email for contact
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: preferred_gaming_platform
+        label: Preferred Gaming Platform
+        hint: Select one or more
+        type: select_multiple
+        options:
+          - PC
+          - PlayStation
+          - Xbox
+          - Nintendo Switch
+          - Mobile
+        required: true
+      - id: 5
+        name: section_game_inquiry
+        label: -- Game Inquiry Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: inquiry_category
+        label: Inquiry Category
+        hint: What is the primary reason for your contact?
+        type: select_one
+        options:
+          - Bug Report
+          - Feature Suggestion
+          - Account Issue
+          - General Feedback
+          - Media/PR Inquiry
+          - Other
+        required: true
+      - id: 7
+        name: game_title_of_interest
+        label: Game Title of Interest
+        hint: Which game are you inquiring about?
+        type: select_one
+        options:
+          - Cyber Quest 2077
+          - Galactic Warriors
+          - Medieval Kingdom
+          - Pixel World Builder
+          - Other
+        required: true
+      - id: 8
+        name: detailed_game_message
+        label: Your Detailed Message
+        hint: Please provide more information
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: submission_date
+        label: Date of Submission
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: level_of_urgency
+        label: Level of Urgency
+        hint: How quickly do you need a response?
+        type: select_one
+        options:
+          - Low - Normal
+          - Medium - Important
+          - High - Critical
+        required: true

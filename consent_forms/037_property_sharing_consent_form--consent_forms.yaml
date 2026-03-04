@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_sharing_consent_form
+    pages:
+    - id: 1
+      name: property_sharing_consent
+      label: property_sharing_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sharer
+      label: sharer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sharer_name
+      label: sharer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sharer_phone
+      label: sharer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sharer_email
+      label: sharer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: sharer_phone_number
+      label: sharer_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sharer_email_suffix
+      label: sharer_email_suffix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sharer_phone_extension
+      label: sharer_phone_extension
+      hint: null
+      type: text
+      options: []
+      required: false

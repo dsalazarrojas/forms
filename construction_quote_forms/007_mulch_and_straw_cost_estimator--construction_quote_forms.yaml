@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mulch And Straw Cost Estimator
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Mulch
+      - Straw
+      - Both
+      required: true
+    - id: 3
+      name: mulch_type
+      label: Mulch Type
+      hint: null
+      type: select_multiple
+      options:
+      - Bagged
+      - Bulk
+      - Composted
+      - Peat
+      required: true
+    - id: 4
+      name: mulch_color
+      label: Mulch Color
+      hint: null
+      type: select_multiple
+      options:
+      - Brown
+      - Green
+      - Red
+      - Tan
+      required: true
+    - id: 5
+      name: straw_type
+      label: Straw Type
+      hint: null
+      type: select_multiple
+      options:
+      - Straw
+      - Hay
+      - Wheat
+      required: true
+    - id: 6
+      name: straw_size
+      label: Straw Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      required: true
+    - id: 7
+      name: area_to_cover
+      label: Area to Cover
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quantity_required
+      label: Quantity Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: mulch_materials
+      label: Mulch Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Wood Chips
+      - Pine Bark
+      - Cedar Mulch
+      required: true
+    - id: 15
+      name: straw_materials
+      label: Straw Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Wood Chips
+      - Pine Bark
+      - Grass
+      required: true
+    - id: 16
+      name: estimated_delivery_date
+      label: Estimated Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: notes
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_person_2
+      label: Contact Person 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_number_2
+      label: Contact Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email_2
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: project_status_2
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: notes_2
+      label: Additional Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false

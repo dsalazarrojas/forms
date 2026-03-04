@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stallion Incentive Bonus Entry Form
+    pages:
+    - id: 1
+      name: stallion_incentive_bonus_entry_form
+      label: stallion_incentive_bonus_entry_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: breeding_stallion_name
+      label: breeding_stallion_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: breeding_year
+      label: breeding_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: stallion_breed
+      label: stallion_breed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: breeding_stallion_breed
+      label: breeding_stallion_breed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: stallion_incentive
+      label: stallion_incentive
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: stallion_bonuses
+      label: stallion_bonuses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: breeding_stallion_incentive_bonuses
+      label: breeding_stallion_incentive_bonuses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: breeding_date
+      label: breeding_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: bonus_type
+      label: bonus_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

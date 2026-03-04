@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Company Address And Details
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name_display
+      label: Company Name
+      hint: Our company name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address_display
+      label: Our Business Address
+      hint: Where we are located
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_email_display
+      label: Our Support Email
+      hint: Reach us here
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: company_phone_display
+      label: Our Contact Number
+      hint: Call us during business hours
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_user_contact
+      label: -- Your Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_full_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: user_email_address
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: user_phone_number
+      label: Your Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_message_details
+      label: -- Your Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: message_subject
+      label: Subject
+      hint: Provide a brief summary
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: detailed_message
+      label: Your Detailed Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: preferred_response_method
+      label: Preferred Response Method
+      hint: How should we reach back out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      required: true
+    - id: 14
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

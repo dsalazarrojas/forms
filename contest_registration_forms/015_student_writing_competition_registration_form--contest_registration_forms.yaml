@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Writing Competition Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: entry_type
+      label: Entry type
+      hint: null
+      type: select_one
+      options:
+      - Entry 1
+      - Entry 2
+      - Entry 3
+      required: true
+    - id: 9
+      name: entry_date
+      label: Entry date
+      hint: null
+      type: date
+      options: []
+      required: false

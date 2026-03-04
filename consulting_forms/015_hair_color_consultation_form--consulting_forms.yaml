@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Color Consultation Form
+    pages:
+    - id: 1
+      name: hair_color_consultation_form
+      label: Hair Color Consultation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_color_consultation_form_page_2
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Blonde
+      - Brown
+      - Red
+      - Black
+      - Gray
+      - Other
+      required: false
+    - id: 3
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Dry
+      - Damaged
+      - Curly
+      - Straight
+      - Wavy
+      required: false
+    - id: 4
+      name: consultant_info
+      label: Consultant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 6
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Curly
+      - Straight
+      - Wavy
+      - Tightly Coiled
+      required: false
+    - id: 7
+      name: hair_porosity
+      label: Hair Porosity
+      hint: null
+      type: select_multiple
+      options:
+      - Fine
+      - Coarse
+      - Medium
+      required: false
+    - id: 8
+      name: hair_diameter
+      label: Hair Diameter
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 9
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: select_multiple
+      options:
+      - Client Follow-up
+      - Client Follow-up (phone)
+      - Client Follow-up (email)
+      - Client Follow-up (text)
+      - Consultant Follow-up
+      - Consultant Follow-up (phone)
+      - Consultant Follow-up (email)
+      - Consultant Follow-up (text)
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: client email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: client phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: zip
+      label: Zip
+      hint: zip code
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consultant_info
+      label: Consultant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: appointment time
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: hair_length2
+      label: Hair Length 2
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 21
+      name: hair_type2
+      label: Hair Type 2
+      hint: null
+      type: select_one
+      options:
+      - Curly
+      - Straight
+      - Wavy
+      - Tightly Coiled
+      required: false
+    - id: 22
+      name: hair_porosity2
+      label: Hair Porosity 2
+      hint: null
+      type: select_multiple
+      options:
+      - Fine
+      - Coarse
+      - Medium
+      required: false
+    - id: 23
+      name: hair_diameter2
+      label: Hair Diameter 2
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 24
+      name: client_followup
+      label: Client Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Client Follow-up
+      - Client Follow-up (phone)
+      - Client Follow-up (email)
+      - Client Follow-up (text)
+      required: false
+    - id: 25
+      name: consultant_followup
+      label: Consultant Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Consultant Follow-up
+      - Consultant Follow-up (phone)
+      - Consultant Follow-up (email)
+      - Consultant Follow-up (text)
+      required: false
+    - id: 26
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Not Scheduled
+      - Follow-up Required
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Collaboration Request Form
+    pages:
+    - id: 1
+      name: team_collaboration_request_form
+      label: Team Collaboration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_member_details
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''John'', ''value'': ''John''}'
+      - '{''name'': ''Jane'', ''value'': ''Jane''}'
+      required: false
+    - id: 3
+      name: requested_resource
+      label: Requested Resource
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Team Lead Support'', ''value'': ''Team Lead Support''}'
+      - '{''name'': ''Project Manager Support'', ''value'': ''Project Manager Support''}'
+      - '{''name'': ''Project Team Support'', ''value'': ''Project Team Support''}'
+      required: false
+    - id: 4
+      name: project_collaboration_details
+      label: Project Collaboration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaboration_date
+      label: Collaboration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: collaboration_note
+      label: Collaboration Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

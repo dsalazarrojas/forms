@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: popcorn_prize_collection_form
+    pages:
+    - id: 1
+      name: prize_collection_form
+      label: Popcorn Prize Collection Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Winner
+      - Organizer
+      - Other
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: prize_details
+      label: Prize Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: prize_value
+      label: Prize Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: prize_type
+      label: Prize Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Gift Card
+      - Other
+      required: true
+    - id: 8
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      - Other
+      required: true
+    - id: 11
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: prize_status
+      label: Prize Status
+      hint: null
+      type: select_one
+      options:
+      - Unclaimed
+      - Claimed
+      - Lost
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: winner_confirmation
+      label: Winner Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: collection_date
+      label: Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: collection_time
+      label: Collection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: collected_by
+      label: Collected By
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inappropriate Content Removal Report Form
+    pages:
+    - id: 1
+      name: content_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reported_item_id
+      label: Item Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reported_user_id
+      label: Reported User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reported_item_type
+      label: Reported Item Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_item_title
+      label: Reported Item Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remove_item
+      label: Remove Item
+      hint: null
+      type: select_one
+      options:
+      - Reported Item
+      - Remove Item
+      - Resolve Item
+      - Do Not Remove Item
+      required: false
+    - id: 10
+      name: reported_content
+      label: Reported Content
+      hint: null
+      type: select_multiple
+      options:
+      - Image
+      - Video
+      - Audio
+      - File
+      - Text
+      - HTML
+      - CSS
+      - JavaScript
+      - Flash
+      - Other
+      required: true
+    - id: 11
+      name: reported_content_type
+      label: Reported Content Type
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Video
+      - Audio
+      - File
+      - Text
+      - HTML
+      - CSS
+      - JavaScript
+      - Flash
+      - Other
+      required: true
+    - id: 12
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - Reported Item
+      - Remove Item
+      - Resolve Item
+      - Do Not Remove Item
+      required: true
+    - id: 13
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_id
+      label: Reviewer Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_role
+      label: Reviewer Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: moderator_id
+      label: Moderator Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: moderator_name
+      label: Moderator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: moderator_comment
+      label: Moderator Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: admin_id
+      label: Admin Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: admin_name
+      label: Admin Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: admin_comment
+      label: Admin Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

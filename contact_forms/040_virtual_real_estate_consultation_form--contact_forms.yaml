@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual real estate consultation form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_consultation
+      label: Date of Consultation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_consultation
+      label: Time of Consultation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_consultation
+      label: Reason for Consultation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Townhouse
+      - Land
+      - Other
+      required: false
+    - id: 9
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agent_contact_info
+      label: Agent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: real_estate_agent_notes
+      label: Real Estate Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Collage Upload Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: uploaded_photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: uploaded_collage
+      label: Collage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: uploaded_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: uploaded_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: E-mail Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address_confirmation
+      label: Confirm E-mail
+      hint: null
+      type: select_one
+      options:
+      - same as above
+      - different
+      required: false
+    - id: 9
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted_at_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern Standard Time
+      - Central Standard Time
+      - Mountain Standard Time
+      - Pacific Standard Time
+      required: false
+    - id: 12
+      name: submitted_country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - China
+      - Japan
+      - Korea
+      required: false
+    - id: 13
+      name: submitted_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 14
+      name: submitted_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_country
+      label: Your Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - China
+      - Japan
+      - Mexico
+      required: false
+    - id: 17
+      name: uploaded_file
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: false
+    - id: 19
+      name: submitted_terms
+      label: Terms of Service
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: false

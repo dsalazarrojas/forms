@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Contact Form V2
+    pages:
+    - id: 1
+      name: contact_info_header
+      label: -- Contact Us --
+      hint: We'll get back to you as soon as possible.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - General Inquiry
+      - Support Request
+      - Billing Question
+      - Partnership
+      - Feedback
+      required: true
+    - id: 6
+      name: message_body
+      label: Message
+      hint: Type your message here
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 8
+      name: Newsletter_opt_in
+      label: Subscribe to our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

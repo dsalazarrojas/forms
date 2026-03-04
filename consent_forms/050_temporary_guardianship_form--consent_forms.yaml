@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Guardianship Form
+    pages:
+    - id: 1
+      name: form_1
+      label: temporary_guardianship_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: temporary_guardian
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mother'', ''value'': ''Mother''}'
+      - '{''id'': 2, ''label'': ''Father'', ''value'': ''Father''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: form_3
+      label: temporary_guardian_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mother'', ''value'': ''Mother''}'
+      - '{''id'': 2, ''label'': ''Father'', ''value'': ''Father''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: form_4
+      label: temporary_guardian_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Emergency'', ''value'': ''Emergency''}'
+      - '{''id'': 2, ''label'': ''Temporary'', ''value'': ''Temporary''}'
+      - '{''id'': 3, ''label'': ''Permanent'', ''value'': ''Permanent''}'
+      required: false
+    - id: 5
+      name: form_5
+      label: temporary_guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: guardian_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: relationship_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: relationship_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_13
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

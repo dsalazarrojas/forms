@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Studio Social Post Consent Form
+    pages:
+    - id: 1
+      name: fitness_studio_social_post_consent_form_1
+      label: Social Post Consent
+      hint: null
+      type: select_one
+      options:
+      - Social post on your personal social media profiles
+      - Post on other social media platforms
+      - Post in our fitness studio social media channels
+      - Post with your photo
+      - Post with your testimonial
+      - Post with your video
+      - Do not post
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_consent
+      label: Photo/Video Consent
+      hint: null
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Do not take
+      required: true
+    - id: 8
+      name: testimonial_consent
+      label: Testimonial Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I give my permission
+      - Do not post
+      required: true
+    - id: 9
+      name: share_on_facebook
+      label: Share on Facebook
+      hint: null
+      type: select_one
+      options:
+      - Share
+      - Do not share
+      required: false
+    - id: 10
+      name: share_on_twitter
+      label: Share on Twitter
+      hint: null
+      type: select_one
+      options:
+      - Share
+      - Do not share
+      required: false
+    - id: 11
+      name: share_on_instagram
+      label: Share on Instagram
+      hint: null
+      type: select_one
+      options:
+      - Share
+      - Do not share
+      required: false
+    - id: 12
+      name: share_on_youtube
+      label: Share on YouTube
+      hint: null
+      type: select_one
+      options:
+      - Share
+      - Do Not Share
+      required: false
+    - id: 13
+      name: share_on_other_platforms
+      label: Share on Other Platforms
+      hint: null
+      type: select_one
+      options:
+      - Share
+      - Do not share
+      required: false
+    - id: 14
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_one
+      options:
+      - Signed photo release form attached
+      - No photo release form attached
+      required: true
+    - id: 15
+      name: video_release
+      label: Video Release
+      hint: null
+      type: select_one
+      options:
+      - Signed video release form attached
+      - No video release form attached
+      required: true
+    - id: 16
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: consent_type
+      label: Type of Consent
+      hint: null
+      type: select_one
+      options:
+      - Informed Consent
+      - Express Consent
+      required: true
+    - id: 19
+      name: consent_signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_version_number
+      label: Form Version Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

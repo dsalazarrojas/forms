@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Care Provider Contract
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contract_date
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Please select a payment frequency
+      type: select_one
+      options:
+      - Every 2 weeks
+      - Every 4 weeks
+      - Monthly
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: Please select a payment method
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online Payment
+      required: false

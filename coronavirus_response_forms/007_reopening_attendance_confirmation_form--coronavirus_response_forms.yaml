@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reopening Attendance Confirmation Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: school_grade
+      label: School Grade
+      hint: null
+      type: select_one
+      options:
+      - Pre-K
+      - K-1
+      - K-2
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      required: false
+    - id: 6
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: false

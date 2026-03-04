@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Communication Phrase Request Form
+    pages:
+      - id: 1
+        name: request_information
+        label: -- Request Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Email Address
+        hint: Your business email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: requester_department
+        label: Department
+        hint: Your department or team
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: request_date
+        label: Request Date
+        hint: When is this needed
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: communication_context
+        label: -- Communication Context --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: communication_type
+        label: Type of Communication
+        hint: What is this phrase for
+        type: select_one
+        options:
+          - Email
+          - Meeting
+          - Presentation
+          - Marketing Material
+          - Social Media
+          - Internal Memo
+          - Client Communication
+          - Other
+        required: true
+      - id: 8
+        name: communication_purpose
+        label: Purpose of Communication
+        hint: What is the main objective
+        type: select_one
+        options:
+          - Inform
+          - Persuade
+          - Apologize
+          - Thank
+          - Request
+          - Announce
+          - Clarify
+          - Promote
+        required: true
+      - id: 9
+        name: target_audience
+        label: Target Audience
+        hint: Who will receive this communication
+        type: select_one
+        options:
+          - Internal Employees
+          - Clients/Customers
+          - Partners/Vendors
+          - Investors
+          - Media
+          - General Public
+          - Mixed
+        required: true
+      - id: 10
+        name: tone_preference
+        label: Tone Preference
+        hint: Desired tone of communication
+        type: select_one
+        options:
+          - Professional Formal
+          - Professional Casual
+          - Friendly and Approachable
+          - Authoritative
+          - Empathetic
+          - Informative
+          - Persuasive
+        required: true
+      - id: 11
+        name: current_phrase
+        label: -- Phrase Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: current_wording
+        label: Current Wording or Context
+        hint: What needs to be communicated
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: key_message
+        label: Key Message to Convey
+        hint: Core message or takeaway
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: target_language
+        label: Target Language
+        hint: Language for the phrase
+        type: select_one
+        options:
+          - English
+          - Spanish
+          - French
+          - German
+          - Mandarin
+          - Japanese
+          - Portuguese
+          - Other
+        required: true
+      - id: 15
+        name: phrase_length
+        label: Preferred Length
+        hint: How long should the phrase be
+        type: select_one
+        options:
+          - Very Short (1-5 words)
+          - Short (5-15 words)
+          - Medium (15-30 words)
+          - Long (30+ words)
+          - No Preference
+        required: false
+      - id: 16
+        name: style_guide
+        label: Style Guide or Brand Voice
+        hint: Any specific branding guidelines
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: usage_context
+        label: -- Usage Context --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: cultural_sensitivity
+        label: Cultural or Regional Sensitivity
+        hint: Any cultural considerations
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: avoid_phrases
+        label: Phrases or Terms to Avoid
+        hint: What should not be included
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: include_elements
+        label: Elements to Include
+        hint: Specific points or information
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: call_to_action
+        label: Include Call to Action
+        hint: Should there be a CTA
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Optional
+        required: false
+      - id: 22
+        name: preferred_outcome
+        label: Preferred Outcome
+        hint: What action do you want from recipient
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: deadline
+        label: Needed By Date
+        hint: When do you need this phrase
+        type: date
+        options: []
+        required: true
+      - id: 24
+        name: additional_notes
+        label: Additional Notes or Context
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

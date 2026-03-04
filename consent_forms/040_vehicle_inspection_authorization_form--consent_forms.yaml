@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_inspection_authorization_form
+    pages:
+    - id: 1
+      name: vehicle_owner_info
+      label: Vehicle Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_color
+      label: vehicle color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_registration
+      label: vehicle registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspection_type
+      label: Vehicle Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - Inspection 1
+      - Inspection 2
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_notes
+      label: vehicle notes
+      hint: null
+      type: note
+      options: []
+      required: false

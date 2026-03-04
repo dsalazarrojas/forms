@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Progress Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of this progress report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: report_period_start
+      label: Reporting Period Start
+      hint: Start date of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_period_end
+      label: Reporting Period End
+      hint: End date of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_number
+      label: Project Number
+      hint: Project reference number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_manager
+      label: Project Manager
+      hint: Name of project manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: overall_progress
+      label: Overall Progress Percentage
+      hint: Percent of project complete
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: schedule_status
+      label: Schedule Status
+      hint: Is project on schedule
+      type: select_one
+      options:
+      - Ahead of Schedule
+      - On Schedule
+      - Slightly Behind (1-5 days)
+      - Behind (6-15 days)
+      - Significantly Behind (15+ days)
+      required: true
+    - id: 10
+      name: budget_status
+      label: Budget Status
+      hint: Is project within budget
+      type: select_one
+      options:
+      - Under Budget
+      - On Budget
+      - Slightly Over Budget
+      - Over Budget
+      - Significantly Over Budget
+      required: true
+    - id: 11
+      name: work_completed_period
+      label: Work Completed This Period
+      hint: Describe work done during reporting period
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_planned_next
+      label: Work Planned for Next Period
+      hint: Describe upcoming work
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: milestones_achieved
+      label: Milestones Achieved
+      hint: List milestones reached this period
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: milestones_upcoming
+      label: Upcoming Milestones
+      hint: List next major milestones
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: labor_summary
+      label: Labor Summary
+      hint: Total labor hours and headcount
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: subcontractors_active
+      label: Active Subcontractors
+      hint: List subcontractors working this period
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: materials_status
+      label: Materials Status
+      hint: Describe materials delivery and usage
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: equipment_status
+      label: Equipment Status
+      hint: Describe equipment usage and issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: safety_incidents
+      label: Safety Incidents
+      hint: Report any accidents or incidents
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_metrics
+      label: Safety Metrics
+      hint: Days without incident, TRIR, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: quality_issues
+      label: Quality Issues
+      hint: Describe any quality concerns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspections_completed
+      label: Inspections Completed
+      hint: List inspections passed this period
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: change_orders
+      label: Change Orders
+      hint: List any change orders issued
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issues_delays
+      label: Issues or Delays
+      hint: Describe any problems affecting progress
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rfis_submitted
+      label: RFIs Submitted
+      hint: List requests for information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: photos_attached
+      label: Photos Attached
+      hint: Are progress photos included
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 27
+      name: reporter_name
+      label: Report Prepared By
+      hint: Name of person preparing report
+      type: text
+      options: []
+      required: true

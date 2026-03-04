@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Strategy Consulting Contact Form
+    pages:
+    - id: 1
+      name: basic_contact_section
+      label: '--- Basic Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_email
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_reach_out
+      label: Best way to reach you
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - LinkedIn Message
+      required: true
+    - id: 8
+      name: project_discovery_section
+      label: '--- Project Discovery ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ai_adoption_stage
+      label: Current stage of AI adoption
+      hint: null
+      type: select_one
+      options:
+      - Initial Researching / Education
+      - Pilot / Proof of Concept Stage
+      - Scaling AI across departments
+      - Mature AI / Optimization Phase
+      required: true
+    - id: 10
+      name: consulting_areas
+      label: Areas of Interest
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - AI Roadmap & Strategy Development
+      - Generative AI Opportunity Assessment
+      - Build vs. Buy (Vendor Analysis)
+      - AI Governance, Risk & Ethics
+      - Data Infrastructure & MLOps Strategy
+      - AI Training & Talent Development
+      required: true
+    - id: 11
+      name: primary_challenge
+      label: What is the primary challenge you are looking to solve with AI?
+      hint: Briefly describe your business problem.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Expected Project Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate (Within 1 month)
+      - Near-term (1 to 3 months)
+      - Mid-term (3 to 6 months)
+      - Long-term / Planning for next year
+      required: true
+    - id: 13
+      name: budget_allocation
+      label: Budget allocated for consulting
+      hint: null
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,000 - $200,000
+      - $200,000+
+      - Budget not yet finalized
+      required: true
+    - id: 14
+      name: scheduling_section
+      label: '--- Consultation Scheduling ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_date
+      label: Preferred Date for Discovery Call
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_time
+      label: Preferred Time for Discovery Call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: time_zone
+      label: Your Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern Time (ET)
+      - Central Time (CT)
+      - Mountain Time (MT)
+      - Pacific Time (PT)
+      - GMT / UTC
+      - Other
+      required: true
+    - id: 18
+      name: additional_info_section
+      label: '--- Additional Info ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: referral_source
+      label: How did you hear about our consultancy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: data_consent
+      label: I consent to my data being processed for contact purposes.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

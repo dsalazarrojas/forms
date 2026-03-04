@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Liability Waiver Form
+    pages:
+    - id: 1
+      name: section_participant_details
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_role
+      label: Role
+      hint: Employee, Customer, Visitor, etc.
+      type: select_one
+      options:
+      - Employee
+      - Customer
+      - Visitor
+      - Student
+      - Volunteer
+      - Other
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: organization
+      label: Organization or Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_covid_acknowledgment
+      label: -- COVID-19 Risk Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: acknowledge_transmission
+      label: I acknowledge the risk of COVID-19 transmission
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: acknowledge_symptoms
+      label: I acknowledge I am free of COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: acknowledge_no_diagnosis
+      label: I have not been diagnosed with COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: acknowledge_no_exposure
+      label: I have not been exposed to a confirmed COVID-19 case in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: section_waiver_terms
+      label: -- Waiver Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assume_risk
+      label: I voluntarily assume all risk related to COVID-19
+      hint: null
+      type: select_one
+      options:
+      - I assume risk
+      - I do not assume risk
+      required: true
+    - id: 15
+      name: release_hold_harmless
+      label: I release and hold harmless the organization from COVID-19 claims
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: defend_indemnify
+      label: I agree to defend and indemnify the organization
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 17
+      name: section_signature
+      label: -- Agreement Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: signature_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: signature_confirmation
+      label: I have read and understand all terms of this waiver
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

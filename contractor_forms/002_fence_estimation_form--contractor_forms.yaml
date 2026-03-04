@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fence Estimation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fence_type
+      label: Fence Type
+      hint: null
+      type: select_one
+      options:
+      - PVC
+      - Vinyl
+      - Aluminum
+      - Wood
+      required: false
+    - id: 6
+      name: post_size
+      label: Post Size
+      hint: null
+      type: select_multiple
+      options:
+      - 3-4 ft
+      - 4-6 ft
+      - 6-8 ft
+      - 8-10 ft
+      - 10-12 ft
+      - 12 ft
+      required: false
+    - id: 7
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wood
+      - Vinyl
+      - Aluminum
+      - PVC
+      required: false
+    - id: 8
+      name: board_height
+      label: Board Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_length
+      label: Total Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_height
+      label: Total Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: labor_cost
+      label: Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: material_cost
+      label: Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: equipment_cost
+      label: Equipment Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

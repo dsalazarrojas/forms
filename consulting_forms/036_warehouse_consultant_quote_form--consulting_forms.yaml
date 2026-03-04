@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Consultant Quote Form
+    pages:
+    - id: 1
+      name: quote_request_details
+      label: quote_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: consultant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Consulting
+      - Engineering
+      - Maintenance
+      required: false
+    - id: 5
+      name: project_duration
+      label: project_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_cost
+      label: project_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_terms
+      label: project_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: consultant_terms
+      label: consultant_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultant_email
+      label: consultant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: consultant_phone
+      label: consultant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

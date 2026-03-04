@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: E-Learning Platform Consultation Appointment Form
+    pages:
+    - id: 1
+      name: e_learning_platform_consultation_form
+      label: E-Learning Platform Consultation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: e_learning_platform
+      label: E-Learning Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: e_learning_platform_consultation
+      label: E-Learning Platform Consultation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''15 minutes consultation'', ''value'': 15}'
+      - '{''label'': ''30 minutes consultation'', ''value'': 30}'
+      - '{''label'': ''1 hour consultation'', ''value'': 60}'
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''label'': ''Chatjimmy 2'', ''value'': ''chatjimmy2''}'
+      required: true
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true

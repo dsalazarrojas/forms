@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Contract Lease Execution Consent Form
+    pages:
+    - id: 1
+      name: tenant_consent
+      label: Tenant Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: landlord_consent
+      label: Landlord Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: lease_execution_details
+      label: Lease Execution Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: smart_contract
+      label: Smart Contract
+      hint: Enter smart contract details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenant_id
+      label: Tenant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: landlord_id
+      label: Landlord ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: lease_date_start
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: lease_date_end
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: lease_amount
+      label: Lease Amount
+      hint: Enter lease amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contract_signed_at
+      label: Contract Signed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: contract_signed_by
+      label: Contract Signed By
+      hint: Name of person signing contract
+      type: text
+      options: []
+      required: false

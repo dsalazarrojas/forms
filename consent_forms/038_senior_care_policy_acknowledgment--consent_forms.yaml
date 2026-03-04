@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Care Policy Acknowledgment
+    pages:
+    - id: 1
+      name: care_recipient
+      label: Care Recipient
+      hint: null
+      type: select_one
+      options:
+      - Caregiver
+      - Care Receiver
+      - Other
+      required: false
+    - id: 2
+      name: responsible_party
+      label: Responsible Party
+      hint: null
+      type: select_one
+      options:
+      - Family Member
+      - Friend
+      - Facility
+      required: false
+    - id: 3
+      name: policy_date
+      label: Policy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: care_provider
+      label: Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: care_providers
+      label: Care Providers
+      hint: null
+      type: select_multiple
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: false
+    - id: 11
+      name: other_providers
+      label: Other Providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

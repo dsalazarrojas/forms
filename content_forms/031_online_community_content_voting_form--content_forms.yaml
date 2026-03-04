@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Community Content Voting Form
+    pages:
+    - id: 1
+      name: form_title
+      label: content_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: submission_id
+      label: submission_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''type'', ''label'': ''type'', ''value'': ''text''}'
+      - '{''id'': 2, ''name'': ''type'', ''label'': ''image'', ''value'': ''image''}'
+      - '{''id'': 3, ''name'': ''type'', ''label'': ''video'', ''value'': ''video''}'
+      required: false
+    - id: 5
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Patient Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your registered email
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: study_interest
+      label: Study Interest
+      hint: null
+      type: select_one
+      options:
+      - Cancer
+      - Heart Health
+      - Neurological Disorder
+      - Other
+      required: false
+    - id: 7
+      name: pre_screening_details
+      label: Pre-Screening Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

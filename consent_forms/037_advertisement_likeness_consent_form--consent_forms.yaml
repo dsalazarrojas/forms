@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertisement Likeness Consent Form
+    pages:
+    - id: 1
+      name: individual_information_section
+      label: -- Individual Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal full name of the individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Individual's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: authorization_details_section
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: authorized_party
+      label: Authorized Party
+      hint: Name of the organization or individual granted permission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: permitted_uses
+      label: Permitted Uses
+      hint: What uses are permitted for the likeness
+      type: select_multiple
+      options:
+      - Print advertisements
+      - Digital advertisements
+      - Social media
+      - Television commercials
+      - Radio advertisements
+      - Billboards
+      - Website
+      - Product packaging
+      - Other
+      required: true
+    - id: 10
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where can the likeness be used
+      type: select_one
+      options:
+      - Local
+      - National
+      - International
+      - Online only
+      required: true
+    - id: 11
+      name: duration_of_consent
+      label: Duration of Consent
+      hint: How long is this consent valid
+      type: select_one
+      options:
+      - One-time use
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - Perpetual
+      - Until revoked
+      required: true
+    - id: 12
+      name: compensation_details
+      label: Compensation Details
+      hint: Is any compensation provided for the use of likeness
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 13
+      name: media_types_section
+      label: -- Media Types --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photo_video_consent
+      label: Photo Video Consent
+      hint: Do you consent to photography and videography
+      type: select_one
+      options:
+      - Photos only
+      - Videos only
+      - Photos and videos
+      - Neither
+      required: true
+    - id: 15
+      name: editing_modification_consent
+      label: Editing Modification Consent
+      hint: Do you consent to editing or modification of your likeness
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Only minor edits
+      required: true
+    - id: 16
+      name: commercial_noncommercial
+      label: Commercial Noncommercial
+      hint: Can your likeness be used for commercial and/or non-commercial purposes
+      type: select_multiple
+      options:
+      - Commercial use
+      - Non-commercial use
+      required: true
+    - id: 17
+      name: revocation_rights_section
+      label: -- Revocation Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: right_to_revoke
+      label: Right to Revoke
+      hint: Do you understand you have the right to revoke this consent
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: revocation_process
+      label: Revocation Process
+      hint: How should revocation be communicated
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true

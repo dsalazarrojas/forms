@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stretch Mark Reduction Therapy Consent Form
+    pages:
+    - id: 1
+      name: client_id
+      label: Client Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Stretch Mark Reduction
+      - Other (please specify below)
+      required: true
+    - id: 6
+      name: other_treatment_type
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Pregnancy
+      required: false
+    - id: 8
+      name: consent_form_date
+      label: Consent Form Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: consent_form_time
+      label: Consent Form Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

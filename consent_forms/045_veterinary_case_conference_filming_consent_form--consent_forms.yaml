@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Case Conference Filming Consent Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filming_consent
+      label: Filming Consent
+      hint: null
+      type: select_one
+      options:
+      - Consent for filming
+      - No consent for filming
+      required: false
+    - id: 3
+      name: recording_purpose
+      label: Recording Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Case conferences
+      - Teaching rounds
+      - Professional events
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_date_of_record
+      label: Participant Date of Record
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: filming_location
+      label: Filming Location
+      hint: null
+      type: text
+      options: []
+      required: false

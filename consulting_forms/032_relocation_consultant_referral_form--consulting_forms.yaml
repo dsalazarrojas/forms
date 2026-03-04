@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relocation Consultant Referral Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_source
+      label: Referral Source
+      hint: Where did you meet this client?
+      type: select_one
+      options:
+      - Client
+      - Social Media
+      - Networking
+      - Word of Mouth
+      - Other
+      required: false
+    - id: 4
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_company
+      label: Client Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: select_one
+      options:
+      - New Business
+      - New Partnership
+      - New Location
+      - Other
+      required: false
+    - id: 13
+      name: consultant_location
+      label: Consultant Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 14
+      name: client_location
+      label: Client Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 15
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

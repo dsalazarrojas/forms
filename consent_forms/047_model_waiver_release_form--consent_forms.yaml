@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Waiver & Release Form
+    pages:
+    - id: 1
+      name: model_waiver_and_release_form_title
+      label: Model Waiver & Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_to_use_image
+      label: Release to use image
+      hint: null
+      type: select_one
+      options:
+      - Model releases are used by photographers to get the consent of a model to
+        use his/her image(s) in photographs.
+      - Get the consent you need and the photos you want with a free Model Waiver
+        & Release Form.
+      required: false
+    - id: 3
+      name: photographer_information
+      label: Photographer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: model_release
+      label: Model Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Services Approval Form
+    pages:
+    - id: 1
+      name: section_request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: Short descriptive project title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester name
+      hint: Person requesting consulting services
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Unit requesting services
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_start_date
+      label: Requested start date
+      hint: Preferred commencement date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: estimated_duration_weeks
+      label: Estimated duration weeks
+      hint: Number of weeks expected for engagement
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: estimated_budget
+      label: Estimated budget
+      hint: Estimated total budget in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: business_justification
+      label: Business justification
+      hint: Reason for consulting support and desired outcomes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approval_status
+      label: Approval status
+      hint: Select approval decision
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 10
+      name: approver_name
+      label: Approver name
+      hint: Name of the person approving the request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver_comments
+      label: Approver comments
+      hint: Optional comments from approver
+      type: text
+      options: []
+      required: false

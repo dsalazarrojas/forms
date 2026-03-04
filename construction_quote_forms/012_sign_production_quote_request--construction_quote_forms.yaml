@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sign Production Quote Request
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: production_duration
+      label: Production Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_duration_holiday
+      label: Production Duration Holiday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_signs
+      label: Customer Signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quote_total
+      label: Quote Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Cash
+      - Check
+      - Other
+      required: false
+    - id: 9
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Call
+      - SMS
+      - Other
+      required: true
+    - id: 11
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

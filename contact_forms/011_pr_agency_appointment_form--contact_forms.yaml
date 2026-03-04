@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: PR Agency Appointment Form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: e.g. 30 minutes
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: false
+    - id: 8
+      name: reason_for_meeting
+      label: Reason For Meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 17
+      name: reschedule
+      label: Reschedule
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false

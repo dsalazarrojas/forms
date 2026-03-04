@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aromatherapy Client Consultation Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consultation_date
+      label: Date of Consultation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_reason
+      label: -- Reason for Consultation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_concern
+      label: Primary Concern or Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: concern_duration
+      label: How long has this been a concern
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - More than 6 months
+      required: true
+    - id: 10
+      name: previous_aromatherapy
+      label: Previous aromatherapy or similar treatments
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 11
+      name: section_health
+      label: -- Health and Lifestyle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Known Allergies
+      hint: Include essential oil sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Are you pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Pregnant
+      - Nursing
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: stress_level
+      label: Current Stress Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 17
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Aromatherapy Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: essential_oil_preferences
+      label: Essential Oil Preferences or Favorite Scents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: oil_aversions
+      label: Essential Oils to Avoid
+      hint: Disliked scents or known sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_preference
+      label: Preferred Treatment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Diffusion
+      - Topical application
+      - Inhalation
+      - Massage
+      - Bath
+      required: false
+    - id: 22
+      name: section_goals
+      label: -- Consultation Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: consultation_goals
+      label: What are your goals for this consultation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: expected_outcome
+      label: Expected Outcome or Result
+      hint: What would success look like
+      type: text
+      options: []
+      required: false

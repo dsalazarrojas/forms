@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Impact Consulting Contact Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Date of Inquiry
+      hint: When contacting us
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry or Sector
+      hint: What industry are you in
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Person Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Person Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like us to contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: false
+    - id: 10
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What are you interested in
+      type: select_one
+      options:
+      - Change Management Consulting
+      - Organizational Transformation
+      - Merger or Acquisition Support
+      - Digital Transformation
+      - Other
+      required: true
+    - id: 11
+      name: current_challenge
+      label: Current Organizational Challenge
+      hint: What is your main challenge
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: change_scope
+      label: Scope of Change Needed
+      hint: Describe the change needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_timeline
+      label: Desired Project Timeline
+      hint: When do you need to start
+      type: select_one
+      options:
+      - Immediate - Next 30 Days
+      - Soon - 1-3 Months
+      - Medium Term - 3-6 Months
+      - Long Term - 6+ Months
+      - Flexible
+      required: false
+    - id: 14
+      name: budget_range
+      label: Approximate Budget Range
+      hint: Budget allocated for consulting
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - $250,000+
+      - To Be Determined
+      required: false
+    - id: 15
+      name: key_stakeholders
+      label: Key Stakeholders Involved
+      hint: Who are the decision makers
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_readiness
+      label: Current Organizational Readiness
+      hint: How prepared is your organization
+      type: select_one
+      options:
+      - Very Ready
+      - Ready
+      - Somewhat Ready
+      - Not Ready
+      - Unsure
+      required: false
+    - id: 17
+      name: previous_consulting
+      label: Previous Consulting Experience
+      hint: Have you used consultants before
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: specific_expertise_needed
+      label: Specific Expertise Needed
+      hint: What kind of expertise are you looking for
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: success_metrics
+      label: Key Success Metrics or Goals
+      hint: How will you measure success
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

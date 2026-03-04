@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_consent_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: injury_declaration
+      label: Injury Declaration
+      hint: null
+      type: select_multiple
+      options:
+      - No injuries
+      - Minor injuries
+      - Major injuries
+      - Injury description
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - No medical conditions
+      - Allergies
+      - Medical condition description
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: true

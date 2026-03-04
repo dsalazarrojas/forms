@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Ocean Deep Theme
+    pages:
+    - id: 1
+      name: header
+      label: Dive Into Contact
+      hint: Relax and send us a message
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Your Location
+      hint: City and State
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason for Contact
+      hint: Select one
+      type: select_one
+      options:
+      - General Inquiry
+      - Product Question
+      - Service Request
+      - Support Issue
+      - Feedback
+      - Partnership
+      required: true
+    - id: 7
+      name: details
+      label: Message Details
+      hint: Full message
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: urgency
+      label: Urgency
+      hint: How urgent
+      type: select_one
+      options:
+      - Not Urgent
+      - Somewhat Urgent
+      - Urgent
+      - Very Urgent
+      required: true
+    - id: 9
+      name: best_time
+      label: Best Time to Contact
+      hint: When available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 10
+      name: newsletter
+      label: Subscribe to Updates
+      hint: Receive news
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: referral
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Friend or Colleague
+      - Advertisement
+      - Event
+      - Other
+      required: false

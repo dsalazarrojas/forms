@@ -1,0 +1,155 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Reporting Checklist
+    pages:
+    - id: 1
+      name: report_period
+      label: Reporting Period
+      hint: The time frame for this report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Name and title of preparer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: executive_summary
+      label: Executive Summary
+      hint: Brief overview of key findings and recommendations
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: goals_progress
+      label: Progress Towards Goals
+      hint: How are we progressing against objectives?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: completed_milestones
+      label: Completed Milestones
+      hint: List accomplishments during this period
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pending_items
+      label: Pending Action Items
+      hint: Items still in progress
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: obstacles_challenges
+      label: Obstacles or Challenges Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: solutions_implemented
+      label: Solutions Implemented
+      hint: How were challenges addressed?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: budget_status
+      label: Budget Status
+      hint: On track, over budget, or under budget?
+      type: select_one
+      options:
+      - On track
+      - Under budget
+      - Over budget
+      - Significant variance
+      required: false
+    - id: 13
+      name: budget_variance_explanation
+      label: Budget Variance Explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: timeline_status
+      label: Timeline Status
+      hint: null
+      type: select_one
+      options:
+      - On schedule
+      - Ahead of schedule
+      - Behind schedule
+      - Significant delays
+      required: false
+    - id: 15
+      name: key_metrics
+      label: Key Performance Metrics
+      hint: Relevant measurements and indicators
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_satisfaction
+      label: Client Satisfaction Assessment
+      hint: Current satisfaction level
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 17
+      name: next_steps
+      label: Next Steps and Recommendations
+      hint: What should be done next?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

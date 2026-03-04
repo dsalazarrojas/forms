@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Contact Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: -- Inquiry Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: subject
+      label: Subject of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - General Holiday Inquiry
+      - Event Planning
+      - Gift Recommendations
+      - Holiday Decorations
+      - Party Services
+      - Other
+      required: true
+    - id: 9
+      name: priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High - Need response soon
+      - Medium - Normal timeline
+      - Low - No rush
+      required: false
+    - id: 10
+      name: message_section
+      label: -- Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Your Message
+      hint: Tell us about your inquiry or needs
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: false
+    - id: 13
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: subscribe_section
+      label: -- Newsletter --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: subscribe_newsletter
+      label: Subscribe to our holiday newsletter
+      hint: null
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No thanks
+      required: false

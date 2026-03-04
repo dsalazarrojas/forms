@@ -1,0 +1,67 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent For Stay
+    pages:
+    - id: 1
+      name: stay_overnight
+      label: Overnight Stay
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: trip
+      label: trip
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stay_type
+      label: type
+      hint: null
+      type: select_multiple
+      options:
+      - overnight
+      - trip
+      - camp
+      required: false
+    - id: 5
+      name: reason_for_consent
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parental_consent
+      label: parental_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

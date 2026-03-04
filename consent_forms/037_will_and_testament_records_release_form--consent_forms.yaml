@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Will And Testament Records Release Form
+    pages:
+    - id: 1
+      name: release_form
+      label: release_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: authorized_individual
+      label: authorized_individual
+      hint: Enter a list of authorized individuals
+      type: select_one
+      options:
+      - Authorized Executor
+      - Authorized Attorney
+      - Authorized Beneficiary
+      required: false
+    - id: 3
+      name: relationship
+      label: relationship
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: estate_settlement_process
+      label: estate_settlement_process
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: will_and_testament_document
+      label: will_and_testament_document
+      hint: Select the document type
+      type: select_one
+      options:
+      - Will
+      - Testament
+      - Letter Testament
+      - Codicil
+      required: true
+    - id: 6
+      name: document_date
+      label: document_date
+      hint: Date of the document
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: document_time
+      label: document_time
+      hint: Time of the document
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: document_location
+      label: document_location
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_number
+      label: document_number
+      hint: None
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: document_version
+      label: document_version
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: estate_administrator
+      label: estate_administrator
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_status
+      label: document_status
+      hint: Select the document status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: None
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone
+      label: phone
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: confirm_email
+      label: confirm_email
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: confirm_phone
+      label: confirm_phone
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_address
+      label: confirm_address
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_city
+      label: confirm_city
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_state
+      label: confirm_state
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirm_zip
+      label: confirm_zip
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: confirm_postal_code
+      label: confirm_postal_code
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirm_country
+      label: confirm_country
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirm_address
+      label: confirm_address
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm_document_version
+      label: confirm_document_version
+      hint: None
+      type: number
+      options: []
+      required: false

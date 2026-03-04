@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Axe Throwing Waiver Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Date of Birth
+      hint: Must be 18+ or have parent/guardian signature
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_axe
+      label: Emergency Contact Name and Phone
+      hint: In case of accident or injury
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_waiver_terms
+      label: -- Waiver and Release of Liability --
+      hint: Please read each statement carefully
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: risk_assumption_axe
+      label: I voluntarily assume all risks associated with axe throwing
+      hint: Including but not limited to physical injury or death
+      type: select_one
+      options:
+      - Yes, I assume all risks
+      - No, I do not agree
+      required: true
+    - id: 9
+      name: liability_release_axe
+      label: I release the venue from all liability
+      hint: For any injury, loss, or damage sustained
+      type: select_one
+      options:
+      - Yes, I release liability
+      - No, I do not agree
+      required: true
+    - id: 10
+      name: rules_briefing_axe
+      label: I have received and understand the safety briefing
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 11
+      name: medical_consent_axe
+      label: I consent to emergency medical treatment if required
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: influence_check_axe
+      label: I am not under the influence of drugs or alcohol
+      hint: null
+      type: select_one
+      options:
+      - I am sober
+      - I am not sober
+      required: true
+    - id: 13
+      name: photo_release_axe
+      label: Photo and Video Release
+      hint: Can we use your image for marketing?
+      type: select_one
+      options:
+      - Yes, I give permission
+      - No, I do not give permission
+      required: true
+    - id: 14
+      name: participant_signature_axe
+      label: Participant Digital Signature
+      hint: Type full name to certify
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date_axe
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Required if participant is under 18
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address_participant
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true

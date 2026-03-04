@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: return_to_training_consent
+    pages:
+    - id: 1
+      name: return_to_training_consent
+      label: Return To Training Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility
+      label: facility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2''}'
+      - '{''id'': 3, ''name'': ''Facility 3''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rules_read
+      label: rules_read
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Rule 1''}'
+      - '{''id'': 2, ''name'': ''Rule 2''}'
+      - '{''id'': 3, ''name'': ''Rule 3''}'
+      required: false
+    - id: 6
+      name: guidelines_read
+      label: guidelines_read
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Guideline 1''}'
+      - '{''id'': 2, ''name'': ''Guideline 2''}'
+      required: false
+    - id: 7
+      name: rules_follow
+      label: rules_follow
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: guidelines_follow
+      label: guidelines_follow
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: facility_staff
+      label: facility_staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rules_read_by
+      label: rules_read_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: guidelines_read_by
+      label: guidelines_read_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false

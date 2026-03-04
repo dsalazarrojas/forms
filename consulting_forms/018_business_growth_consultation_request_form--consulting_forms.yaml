@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Growth Consultation Request Form
+    pages:
+    - id: 1
+      name: section_lead_contact
+      label: -- Contact Information --
+      hint: Tell us how to reach you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_email_address
+      label: Professional Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: lead_phone_number
+      label: Contact Phone Number
+      hint: Include country/area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website_link
+      label: Company Website
+      hint: help us understand your business before the call
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_business_growth_data
+      label: -- Growth Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_monthly_revenue_range
+      label: Current Monthly Revenue
+      hint: All data is kept strictly confidential
+      type: select_one
+      options:
+      - Under 5,000 USD
+      - 5,001 - 25,000 USD
+      - 25,001 - 100,000 USD
+      - Over 100,000 USD
+      required: true
+    - id: 8
+      name: primary_growth_goal
+      label: Top Business Goal for Next 6 Months
+      hint: What is your
+      type: select_one
+      options:
+      - Increase Sales Revenue
+      - Improve Operational Efficiency
+      - Expand to New Markets
+      - Launch New Product/Service
+      - Build / Scale Team
+      required: true
+    - id: 9
+      name: biggest_growth_obstacle_text
+      label: Biggest Growth Obstacle
+      hint: What is currently holding you back
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_scheduling
+      label: -- Scheduling Your Consultation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_consultation_time
+      label: Preferred Time for Consultation Call
+      hint: We will attempt to accommodate your preference
+      type: select_one
+      options:
+      - Morning (9AM - 12PM)
+      - Afternoon (12PM - 4PM)
+      - Late Afternoon / Evening (4PM - 7PM)
+      required: true
+    - id: 12
+      name: project_urgency_timeline
+      label: How soon do you want to start implementing changes
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Just exploring for now
+      required: true
+    - id: 13
+      name: marketing_budget_range
+      label: Estimated Monthly Marketing Budget
+      hint: null
+      type: select_one
+      options:
+      - Under 1,000 USD
+      - 1,000 - 5,000 USD
+      - 5,001 - 15,000 USD
+      - 15,000+ USD
+      required: true
+    - id: 14
+      name: consultation_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

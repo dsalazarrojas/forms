@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audience Voting Form Stand Up Contest
+    pages:
+    - id: 1
+      name: contest_header
+      label: -- Contestant Registration --
+      hint: Use this form to register for the upcoming Stand Up Contest
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contestant_stage_name
+      label: Stage Name
+      hint: How you want to be introduced
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_name
+      label: Full Legal Name
+      hint: For payment and prize purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_performance
+      label: -- Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comedy_style
+      label: Comedy Style
+      hint: e.g., Observational, Satire, Physical, Dry
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: experience_level
+      label: Experience Level
+      hint: How long have you been performing?
+      type: select_one
+      options:
+      - Beginner (Under 1 year)
+      - Intermediate (1-3 years)
+      - Professional (3+ years)
+      required: true
+    - id: 10
+      name: set_length_requested
+      label: Preferred Set Length (Minutes)
+      hint: Usual sets are 5, 7, or 10 minutes
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: content_rating
+      label: Content Rating of your set
+      hint: null
+      type: select_one
+      options:
+      - PG - Clean
+      - PG-13 - Moderate
+      - R - Adult content
+      required: true
+    - id: 12
+      name: section_agreements
+      label: -- Contest Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: release_agreement
+      label: I agree to be recorded for promotional purposes
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: rules_acknowledgment
+      label: I have read the contest rules and judging criteria
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 15
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

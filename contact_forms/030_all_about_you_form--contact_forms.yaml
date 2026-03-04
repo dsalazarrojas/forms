@@ -1,0 +1,333 @@
+inputSchema:
+  type: object
+  properties:
+    title: All About You Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birthday
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: favorite_color
+      label: Favorite Color
+      hint: Pick your favorite
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Orange
+      - Pink
+      - Black
+      - White
+      - Other
+      required: true
+    - id: 6
+      name: favorite_season
+      label: Favorite Season
+      hint: Which do you prefer?
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall/Autumn
+      - Winter
+      required: true
+    - id: 7
+      name: favorite_day_of_week
+      label: Favorite Day of Week
+      hint: Which day?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 8
+      name: favorite_meal
+      label: Favorite Meal of Day
+      hint: Which meal?
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      required: true
+    - id: 9
+      name: favorite_cuisine
+      label: Favorite Cuisine
+      hint: Type of food
+      type: select_one
+      options:
+      - Italian
+      - Mexican
+      - Chinese
+      - Japanese
+      - Indian
+      - American
+      - Mediterranean
+      - Thai
+      - Other
+      required: true
+    - id: 10
+      name: favorite_hobby
+      label: Favorite Hobby
+      hint: What do you enjoy?
+      type: select_one
+      options:
+      - Reading
+      - Sports
+      - Music
+      - Gaming
+      - Cooking
+      - Traveling
+      - Art/Crafts
+      - Gardening
+      - Photography
+      - Other
+      required: true
+    - id: 11
+      name: favorite_music_genre
+      label: Favorite Music Genre
+      hint: What do you listen to?
+      type: select_one
+      options:
+      - Pop
+      - Rock
+      - Hip-Hop/Rap
+      - Country
+      - Classical
+      - Jazz
+      - Electronic/EDM
+      - R&B/Soul
+      - Other
+      required: true
+    - id: 12
+      name: favorite_movie_genre
+      label: Favorite Movie Genre
+      hint: What do you watch?
+      type: select_one
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Horror
+      - Sci-Fi
+      - Romance
+      - Documentary
+      - Animation
+      - Other
+      required: true
+    - id: 13
+      name: favorite_animal
+      label: Favorite Animal
+      hint: Which animal?
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Fish
+      - Horse
+      - Rabbit
+      - Hamster
+      - Other
+      required: true
+    - id: 14
+      name: pet_owner
+      label: Do You Have Pets?
+      hint: Current pet owner?
+      type: select_one
+      options:
+      - true
+      - false
+      - Had pets before
+      required: true
+    - id: 15
+      name: favorite_sport
+      label: Favorite Sport
+      hint: To watch or play
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Baseball
+      - Tennis
+      - Golf
+      - Swimming
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: How often?
+      type: select_one
+      options:
+      - Daily
+      - 4-6 times per week
+      - 2-3 times per week
+      - Once a week
+      - Rarely
+      - Never
+      required: false
+    - id: 17
+      name: favorite_book_genre
+      label: Favorite Book Genre
+      hint: What do you read?
+      type: select_one
+      options:
+      - Fiction
+      - Non-fiction
+      - Mystery/Thriller
+      - Romance
+      - Sci-Fi/Fantasy
+      - Biography
+      - Self-help
+      - Don't read much
+      required: false
+    - id: 18
+      name: morning_or_night
+      label: Morning Person or Night Owl?
+      hint: When are you most productive?
+      type: select_one
+      options:
+      - Morning person
+      - Night owl
+      - Neither
+      - Both
+      required: true
+    - id: 19
+      name: coffee_or_tea
+      label: Coffee or Tea?
+      hint: Preference
+      type: select_one
+      options:
+      - Coffee
+      - Tea
+      - Both
+      - Neither
+      required: true
+    - id: 20
+      name: sweet_or_savory
+      label: Sweet or Savory?
+      hint: Preference
+      type: select_one
+      options:
+      - Sweet
+      - Savory
+      - Both
+      required: true
+    - id: 21
+      name: beach_or_mountains
+      label: Beach or Mountains?
+      hint: Vacation preference
+      type: select_one
+      options:
+      - Beach
+      - Mountains
+      - Both
+      - Neither
+      required: true
+    - id: 22
+      name: city_or_countryside
+      label: City or Countryside?
+      hint: Living preference
+      type: select_one
+      options:
+      - Big city
+      - Small town
+      - Countryside
+      - Suburbs
+      required: true
+    - id: 23
+      name: introvert_or_extrovert
+      label: Introvert or Extrovert?
+      hint: Personality type
+      type: select_one
+      options:
+      - Introvert
+      - Extrovert
+      - Ambivert
+      required: false
+    - id: 24
+      name: biggest_goal
+      label: Biggest Current Goal
+      hint: What are you working toward?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: biggest_fear
+      label: Biggest Fear
+      hint: What worries you?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: proudest_achievement
+      label: Proudest Achievement
+      hint: What are you proud of?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: bucket_list_item
+      label: Bucket List Item
+      hint: Something you want to do
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: favorite_quote
+      label: Favorite Quote or Saying
+      hint: Inspiring words
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: role_model
+      label: Role Model
+      hint: Who inspires you?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Anything Else to Share
+      hint: Additional information
+      type: text
+      options: []
+      required: false

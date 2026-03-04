@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Cookie Request Form
+    pages:
+    - id: 1
+      name: cookie_request_form
+      label: Cookie Request Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: cookie_type
+      label: cookie_type
+      hint: null
+      type: select_one
+      options:
+      - Chocolate Chip
+      - Sugar
+      - Snickerdoodle
+      required: false
+    - id: 3
+      name: cookie_size
+      label: cookie_size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      - extra_large
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: cookie_message
+      label: Cookie Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

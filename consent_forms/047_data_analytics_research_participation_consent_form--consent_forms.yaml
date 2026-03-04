@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Analytics Research Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_details
+      label: Research Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      required: false
+    - id: 12
+      name: research_signature
+      label: Research Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      required: false
+    - id: 13
+      name: research_title
+      label: Research Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: researcher_signature
+      label: Researcher's Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      required: false
+    - id: 15
+      name: research_date
+      label: Research Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: participant_signature_date
+      label: Participant Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: researcher_signature_date
+      label: Researcher's Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: participant_signature_time
+      label: Participant Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: research_signature_time
+      label: Researcher's Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: consent_version
+      label: Consent Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_version
+      label: Participant Version
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1, ''value'': 1}'
+      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      required: false
+    - id: 22
+      name: research_version
+      label: Research Version
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1, ''value'': 1}'
+      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      required: false

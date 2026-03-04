@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: House Rental Lease Agreement Template
+    pages:
+    - id: 1
+      name: tenant_information
+      label: Tenant Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tenant_signature
+      label: Tenant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_manager_signature
+      label: Property Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false

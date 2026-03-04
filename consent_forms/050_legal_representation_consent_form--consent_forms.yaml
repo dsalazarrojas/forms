@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_representation_consent_form
+    pages:
+    - id: 1
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: representation_type
+      label: Representation Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: representation_details
+      label: Representation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: representation_fees
+      label: Representation Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: representation_duration
+      label: Representation Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: representation_date
+      label: Representation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

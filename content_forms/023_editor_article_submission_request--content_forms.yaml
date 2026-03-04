@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editor Article Submission Request
+    pages:
+    - id: 1
+      name: article_submission_request_1
+      label: Article Submission Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: editor_1_name
+      label: editor_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: editor_2_name
+      label: editor_2_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: article_title
+      label: article_title_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: article_subtitle
+      label: article_subtitle_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: article_url
+      label: article_url_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: submission_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: submission_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: editors
+      label: editors_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: publications
+      label: publications_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: publication_type
+      label: publication_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: article_type
+      label: article_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: notes
+      label: notes_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_user
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

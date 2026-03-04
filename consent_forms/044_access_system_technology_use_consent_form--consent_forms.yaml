@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access System Technology Use Consent Form
+    pages:
+    - id: 1
+      name: section_user
+      label: -- User Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_full_name
+      label: Full Name
+      hint: Legal Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_student_id
+      label: Employee or Student ID
+      hint: unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_tech
+      label: -- Technology Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: info_text
+      label: This form covers the use of biometric scanners and mobile access apps
+        and electronic tracking for facility access
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: section_consent
+      label: -- Data Collection Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: biometric_consent
+      label: I consent to the collection and storage of my biometric data for access
+        purposes
+      hint: biometric usage permission
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 9
+      name: location_tracking_consent
+      label: I consent to the logging of my entry and exit times at facility access
+        points
+      hint: entry logging permission
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 10
+      name: section_privacy
+      label: -- Security and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: data_retention_policy
+      label: I understand that my data will be retained for 1 year after my relationship
+        with the institution ends
+      hint: retention policy acknowledgement
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 12
+      name: third_party_acknowledgement
+      label: I understand that data may be processed by a third-party security provider
+      hint: third-party notice
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: section_responsibilities
+      label: -- User Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: device_security_agreement
+      label: I agree to maintain the security of any mobile device used for access
+      hint: hardware safety
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: formal_consent_statement
+      label: By signing - I provide formal consent for the use of access technologies
+        as described
+      hint: legal agreement
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 17
+      name: signature_name
+      label: Type Name to Sign
+      hint: full name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signing_date
+      label: Date
+      hint: current date
+      type: date
+      options: []
+      required: true

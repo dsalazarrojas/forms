@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Training Consent Form
+    pages:
+    - id: 1
+      name: safety_training_consent
+      label: Is this form a safety training consent
+      hint: Check yes or no
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 2
+      name: training_programs
+      label: training_programs
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Response
+      - Hazmat Training
+      - Safety Orientation
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_name
+      label: employer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employer_address
+      label: employer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_name
+      label: supervisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_phone
+      label: supervisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_email
+      label: supervisor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_phone
+      label: employee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_email
+      label: employee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_code
+      label: job code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shift
+      label: shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_programs_attended
+      label: training programs attended
+      hint: null
+      type: select_multiple
+      options:
+      - OSHA 10-Hour
+      - OSHA 30-Hour
+      - Fire Safety
+      - Hazardous Materials Training
+      required: false
+    - id: 23
+      name: training_programs_completed
+      label: training programs completed
+      hint: null
+      type: select_multiple
+      options:
+      - OSHA 10-Hour
+      - OSHA 30-Hour
+      - Fire Safety
+      required: false
+    - id: 24
+      name: supervisor_approval
+      label: supervisor approval
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_transmission_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: spam_test
+      label: Spam Test
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: date_field
+      label: Date Field
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_field
+      label: Time Field
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email_field
+      label: Email Field
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_field
+      label: Phone Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: custom_option_select
+      label: Custom Option Select
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: custom_option_select_2
+      label: Custom Option Select 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: captcha
+      label: CAPTCHA
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false

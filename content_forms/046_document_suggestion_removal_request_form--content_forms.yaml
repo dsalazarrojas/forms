@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Suggestion Removal Request Form
+    pages:
+    - id: 1
+      name: document_suggestion_removal_request_form_page
+      label: document_suggestion_removal_request_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: document_title
+      label: document_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document_url
+      label: document_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggested_by
+      label: suggested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion_date
+      label: suggestion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

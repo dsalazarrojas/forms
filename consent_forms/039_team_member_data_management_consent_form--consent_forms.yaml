@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Data Management Consent Form
+    pages:
+    - id: 1
+      name: team_member_data_management_consent_form
+      label: Team Member Data Management Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_in_the_team
+      label: Role in the team
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Member
+      - Team Leader
+      - Team Assistant
+      required: false
+    - id: 5
+      name: job_type
+      label: Job type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_join
+      label: Date of join
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that the company will handle my data securely
+      - I agree to provide data for this form
+      - I understand that data will be used for business purposes only
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

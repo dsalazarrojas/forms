@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Declaration Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      - '{''id'': 6}'
+      - '{''id'': 7}'
+      required: false
+    - id: 2
+      name: name_and_age
+      label: Name and Age
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Employed''}'
+      - '{''id'': 2, ''label'': ''Student''}'
+      - '{''id'': 3, ''label'': ''Unemployed''}'
+      - '{''id'': 4, ''label'': ''Retired''}'
+      required: false
+    - id: 5
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: height_and_weight
+      label: Height and Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Life''}'
+      - '{''id'': 2, ''label'': ''Health''}'
+      - '{''id'': 3, ''label'': ''Disability''}'
+      - '{''id'': 4, ''label'': ''Long Term Care''}'
+      required: false
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Individual''}'
+      - '{''id'': 2, ''label'': ''Family''}'
+      required: false
+    - id: 15
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: policy_duration
+      label: Policy Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 20
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: policy_notes
+      label: Policy Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: policy_notes_2
+      label: Policy Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_notes_3
+      label: Policy Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_notes_4
+      label: Policy Notes 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: policy_notes_5
+      label: Policy Notes 5
+      hint: null
+      type: text
+      options: []
+      required: false

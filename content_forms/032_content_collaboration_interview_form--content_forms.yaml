@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Collaboration Interview Form
+    pages:
+      - id: 1
+        name: section_candidate_info
+        label: -- Candidate Details --
+        hint: Please provide the candidate's information below.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: candidate_name
+        label: Candidate Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: candidate_id
+        label: Candidate Identification Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: section_interview_details
+        label: -- Interview and Collaboration Insights --
+        hint: Please share insights and ratings from the interview.
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: collaboration_skills_rating
+        label: Collaboration Skills Rating
+        hint: 1 being poor, 5 being excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 6
+        name: content_creation_expertise_rating
+        label: Content Creation Expertise Rating
+        hint: 1 being poor, 5 being excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 7
+        name: adaptability_rating
+        label: Adaptability and Problem-Solving Rating
+        hint: 1 being poor, 5 being excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 8
+        name: interview_question_1
+        label: Specific Interview Question 1
+        hint: e.g., "Describe a time you collaborated on a complex content project."
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: interview_question_2
+        label: Specific Interview Question 2
+        hint: e.g., "How do you handle feedback from collaborators?"
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_evaluator_info
+        label: -- Evaluator Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: evaluator_name
+        label: Evaluator Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: evaluator_id
+        label: Evaluator Identification Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: interview_date
+        label: Interview Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: evaluator_recommendation
+        label: Evaluator Recommendation
+        hint: null
+        type: select_one
+        options: [Highly Recommend, Recommend, Neutral, Do Not Recommend, Re-evaluate]
+        required: true
+      - id: 15
+        name: section_confirmation
+        label: -- Confirmation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: interview_form_completed
+        label: Interview Form Completed?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 17
+        name: signature_confirmation
+        label: I confirm that the information provided is accurate
+        hint: null
+        type: select_one
+        options: [I Agree, I Disagree]
+        required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fancy Envelope Contact Form
+    pages:
+    - id: 1
+      name: form_input
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_input
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_subject
+      label: subject
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Meeting Request'', ''value'': ''Meeting Request''}'
+      - '{''id'': 2, ''name'': ''Support Request'', ''value'': ''Support Request''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: form_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_greeting
+      label: greeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: false

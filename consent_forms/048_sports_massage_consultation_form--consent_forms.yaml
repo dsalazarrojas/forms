@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Massage Consultation Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_health
+      label: client_health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: client_condition
+      label: client_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: massage_type
+      label: massage_type
+      hint: null
+      type: select_one
+      options:
+      - Massage
+      - Deep Tissue
+      - Swedish
+      - Myofacial
+      required: true
+    - id: 5
+      name: massage_duration
+      label: massage_duration
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - Heart Condition
+      required: true
+    - id: 7
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I give permission to provide sports massage services
+      - I do not give permission to provide sports massage services
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_insurance
+      label: medical_insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_insurance_provider
+      label: medical_insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_other
+      label: emergency_contact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_other_details
+      label: emergency_contact_other_details
+      hint: null
+      type: text
+      options: []
+      required: false

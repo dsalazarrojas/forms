@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: InformationLookupRequestForm
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Information
+      - Inquiry
+      - Request
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 9
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_updated
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_created
+      label: Time Created
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: time_updated
+      label: Time Updated
+      hint: null
+      type: time
+      options: []
+      required: false

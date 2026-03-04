@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Help Request Form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - Request Type
+      - Request Type 2
+      - Request Type 3
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

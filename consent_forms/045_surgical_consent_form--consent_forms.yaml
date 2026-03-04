@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_relation
+      label: relation
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Sibling
+      - Friend
+      - Relative
+      - Doctor
+      - Other
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Asthma
+      - Pregnancy
+      - Other
+      required: false
+    - id: 8
+      name: procedure_name
+      label: procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: procedure_date
+      label: procedure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: surgeon_name
+      label: surgeon_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guardian_signature
+      label: guardian_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: surgeon_signature
+      label: surgeon_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_acknowledge
+      label: acknowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_authorize
+      label: authorize
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: patient_acknowledge_date
+      label: acknowledge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: patient_waiver
+      label: waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_waiver_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: waiver_text
+      label: waiver_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_condition_other
+      label: other_medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_medical_conditions_date
+      label: other_medical_conditions_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: medical_condition_other_details
+      label: medical_condition_other_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_condition_other_details_date
+      label: medical_condition_other_details_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: patient_informed_consent
+      label: informed_consent
+      hint: null
+      type: text
+      options: []
+      required: false

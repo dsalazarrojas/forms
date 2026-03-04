@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Rent Deferment Agreement Form
+    pages:
+    - id: 1
+      name: residential_rent_deferment_agreement_form
+      label: Residential Rent Deferment Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: landlord_details
+      label: Landlord Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tenant_details
+      label: Tenant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: deforment_start_date
+      label: Deforment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: deforment_end_date
+      label: Deforment End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rent_deforment_period
+      label: Rent Deforment Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_deforment
+      label: Reason for Deforment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: amount_deforment
+      label: Amount Deforment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signoff_date
+      label: Signoff Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: tenant_agreed
+      label: Tenant Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - I have agreed
+      - I have not agreed
+      required: true
+    - id: 12
+      name: landlord_agreed
+      label: Landlord Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - I have agreed
+      - I have not agreed
+      required: true

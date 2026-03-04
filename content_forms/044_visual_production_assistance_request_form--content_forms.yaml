@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Production Assistance Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: production_details
+      label: production_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: production_budget
+      label: production_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_multiple
+      options:
+      - still_image
+      - video
+      - motiongraphic
+      - animation
+      required: false
+    - id: 6
+      name: asset_description
+      label: asset_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_details
+      label: asset_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_status
+      label: production_status
+      hint: null
+      type: select_multiple
+      options:
+      - pre-production
+      - in_production
+      - post_production
+      - finalized
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_notes
+      label: production_notes
+      hint: null
+      type: note
+      options: []
+      required: false

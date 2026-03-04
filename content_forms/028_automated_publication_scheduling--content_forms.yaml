@@ -1,0 +1,365 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Publication Scheduling
+    pages:
+    - id: 1
+      name: introduction
+      label: Automated Publication Scheduling
+      hint: Schedule your content publication
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: content_info
+      label: Content Information
+      hint: Details about the content
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: content_title
+      label: Content Title
+      hint: Title of the content
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_type
+      label: Content Type
+      hint: What type of content
+      type: select_one
+      options:
+      - Blog Post
+      - Article
+      - Press Release
+      - Social Media Post
+      - Newsletter
+      - Video
+      - Podcast
+      - Whitepaper
+      - Case Study
+      - Other
+      required: true
+    - id: 5
+      name: content_description
+      label: Content Description
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: content_category
+      label: Content Category
+      hint: Category or topic
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: content_tags
+      label: Content Tags
+      hint: Keywords for tagging
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: author_info
+      label: Author Information
+      hint: Who created this content
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: author_name
+      label: Author Name
+      hint: Content creator
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: author_email
+      label: Author Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Marketing
+      - Communications
+      - Sales
+      - Product
+      - Executive
+      - External Contributor
+      - Other
+      required: false
+    - id: 12
+      name: content_details
+      label: Content Details
+      hint: Upload and details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: word_count
+      label: Word Count
+      hint: Approximate count
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: reading_time
+      label: Estimated Reading Time
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: featured_image
+      label: Featured Image
+      hint: Main image for content
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: seo_keywords
+      label: SEO Keywords
+      hint: Target keywords
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meta_description
+      label: Meta Description
+      hint: For search engines
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: publication_channels
+      label: Publication Channels
+      hint: Where to publish
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: channels
+      label: Selected Channels
+      hint: Where will this appear
+      type: select_multiple
+      options:
+      - Company Website
+      - Blog
+      - LinkedIn
+      - Twitter
+      - Facebook
+      - Instagram
+      - Email Newsletter
+      - Medium
+      - Press Distribution
+      - Other
+      required: true
+    - id: 20
+      name: primary_channel
+      label: Primary Channel
+      hint: Main publication channel
+      type: select_one
+      options:
+      - Company Website
+      - Blog
+      - LinkedIn
+      - Twitter
+      - Facebook
+      - Instagram
+      - Email Newsletter
+      - Other
+      required: true
+    - id: 21
+      name: scheduling_info
+      label: Scheduling Information
+      hint: When to publish
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: publish_date
+      label: Publication Date
+      hint: When to publish
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: publish_time
+      label: Publication Time
+      hint: What time to publish
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: timezone
+      label: Timezone
+      hint: Which timezone
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      - Alaska
+      - Hawaii
+      - GMT
+      required: true
+    - id: 25
+      name: evergreen_content
+      label: Is This Evergreen Content
+      hint: Can be reshared
+      type: select_one
+      options:
+      - true
+      - false
+      - Time Sensitive
+      required: true
+    - id: 26
+      name: reshare_schedule
+      label: Reshare Schedule
+      hint: Should it be reshared
+      type: select_one
+      options:
+      - No Reshares
+      - Weekly for 1 Month
+      - Weekly for 3 Months
+      - Monthly for 6 Months
+      - Custom Schedule
+      required: false
+    - id: 27
+      name: expiration_date
+      label: Content Expiration Date
+      hint: When to unpublish
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: approval_workflow
+      label: Approval Workflow
+      hint: Approval settings
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: approval_required
+      label: Approval Required
+      hint: Does this need approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: approver_name
+      label: Approver Name
+      hint: Who should approve
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: approver_email
+      label: Approver Email
+      hint: Approver contact
+      type: email
+      options: []
+      required: false
+    - id: 32
+      name: approval_deadline
+      label: Approval Deadline
+      hint: When approval needed by
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: promotion_plan
+      label: Promotion Plan
+      hint: How to promote
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: social_promotion
+      label: Social Media Promotion
+      hint: Will you promote on social
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 35
+      name: email_promotion
+      label: Email Promotion
+      hint: Include in newsletter
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 36
+      name: paid_promotion
+      label: Paid Promotion
+      hint: Will you run ads
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 37
+      name: promotion_budget
+      label: Promotion Budget
+      hint: Budget for promotion
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: target_audience
+      label: Target Audience
+      hint: Who is this for
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: success_metrics
+      label: Success Metrics
+      hint: How to measure success
+      type: select_multiple
+      options:
+      - Page Views
+      - Time on Page
+      - Social Shares
+      - Comments
+      - Lead Generation
+      - Conversions
+      - SEO Ranking
+      - Email Signups
+      required: false
+    - id: 40
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: submitter_name
+      label: Submitter Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: submission_date
+      label: Submission Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

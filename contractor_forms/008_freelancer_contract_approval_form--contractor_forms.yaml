@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelancer Contract Approval Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contract_details
+      label: Contract Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mold Remediation Agreement
+    pages:
+    - id: 1
+      name: contractor_info
+      label: Contractor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: remediation_info
+      label: Remediation Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Client acknowledges that
+      - Client is aware of
+      - Client understands that
+      required: true
+    - id: 5
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_remediation_completed
+      label: Date Remediation Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contractor_signature
+      label: Contractor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_one
+      options:
+      - Client Acknowledges
+      - Client Refuses
+      required: true
+    - id: 10
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: remediation_status
+      label: Remediation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: property_manager_signature
+      label: Property Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: property_owner_name
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: property_owner_email
+      label: Property Owner Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: remediation_cost
+      label: Remediation Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: remediation_scope
+      label: Remediation Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: remediation_notes
+      label: Remediation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: remediation_certification
+      label: Remediation Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: remediation_scope_certification
+      label: Remediation Scope Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remediation_methodology
+      label: Remediation Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: remediation_cost_estimate
+      label: Remediation Cost Estimate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remediation_agreement_signed_date
+      label: Remediation Agreement Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: remediation_agreement_signed_by
+      label: Remediation Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: false

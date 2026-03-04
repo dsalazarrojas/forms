@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find A Trusted Real Estate Agent
+    pages:
+    - id: 1
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: real_estate_agency
+      label: Real Estate Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: real_estate_agency_location
+      label: Agency Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferred_service
+      label: Preferred Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: real_estate_agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: real_estate_agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_agency_website
+      label: Agency Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_agency_fax
+      label: Agency Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_agency_hours
+      label: Agency Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_agency_description
+      label: Agency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: real_estate_agency_license
+      label: Agency License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: real_estate_agency_rating
+      label: Agency Rating
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false

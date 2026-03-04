@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Service Contract Form
+    pages:
+    - id: 1
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guard_coverage
+      label: Guard Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confirm_guard_coverage
+      label: Confirm Guard Coverage
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: confirm_security_details
+      label: Confirm Security Details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: confirm_submit
+      label: Confirm Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Please enter your email address.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit Button
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
+      required: false

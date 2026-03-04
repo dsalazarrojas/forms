@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Submission Tool EntranceUniversity
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Submission Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Your university email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: Your university student ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: major_field
+      label: Major or Field of Study
+      hint: Your academic discipline
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Article Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: article_title
+      label: Article Title
+      hint: Complete title of your article
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submission_title
+      label: Submission Date
+      hint: When are you submitting this article?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: subject_area
+      label: Subject Area
+      hint: Primary topic or discipline
+      type: select_one
+      options:
+      - Business
+      - Engineering
+      - Natural Sciences
+      - Social Sciences
+      - Humanities
+      - Medicine and Health
+      - Technology
+      - Other
+      required: true
+    - id: 10
+      name: article_length
+      label: Word Count
+      hint: Approximate length of the article
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Content Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: article_summary
+      label: Article Summary
+      hint: Brief overview of your article (100-200 words)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: main_arguments
+      label: Main Arguments or Contributions
+      hint: Key points your article makes
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: research_methods
+      label: Research Methods Used
+      hint: How did you conduct your research?
+      type: select_multiple
+      options:
+      - Literature Review
+      - Empirical Research
+      - Case Study
+      - Interview or Survey
+      - Experimental
+      - Theoretical Analysis
+      - Mixed Methods
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- File Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: article_document
+      label: Upload Article Document
+      hint: Upload your article in DOC, DOCX, or PDF format
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: references_included
+      label: References and Bibliography Included
+      hint: Does your article include citations and references?
+      type: select_one
+      options:
+      - Yes, complete references
+      - Yes, partial references
+      - No references
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: faculty_advisor
+      label: Faculty Advisor Name
+      hint: Name of your supervising professor or advisor
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: advisor_approval
+      label: Faculty Advisor Approval
+      hint: Has your advisor reviewed this article?
+      type: select_one
+      options:
+      - Yes, approved
+      - Yes, pending approval
+      - No, not reviewed yet
+      required: true
+    - id: 21
+      name: section_header_6
+      label: -- Publication Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: original_work
+      label: This is original work not previously published
+      hint: Confirm this is your own original writing
+      type: select_one
+      options:
+      - Yes, completely original
+      - Yes, modified from prior work
+      - No, previously published
+      required: true
+    - id: 23
+      name: publication_consent
+      label: I consent to publication in EntranceUniversity
+      hint: Grant permission to publish this article
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other information for the editorial team
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_confirmation
+      label: I confirm all information is accurate and complete
+      hint: Final submission confirmation
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Need to Make Changes
+      required: true

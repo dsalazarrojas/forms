@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Improvement Proposal Form
+    pages:
+    - id: 1
+      name: website_improvement_proposal_form
+      label: Website Improvement Proposal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_requirements
+      label: Project Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_resources
+      label: Project Resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: proposal_timeline
+      label: Proposal Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''completed''}'
+      - '{''id'': 3, ''name'': ''pending''}'
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false

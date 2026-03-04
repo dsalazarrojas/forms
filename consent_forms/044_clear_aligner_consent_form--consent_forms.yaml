@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clear Aligner Consent Form
+    pages:
+    - id: 1
+      name: section_header_patient
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_address
+      label: Home Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_provider
+      label: -- Treatment Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: provider_name
+      label: Orthodontist/Dentist Name
+      hint: Name of treatment provider
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: practice_name
+      label: Practice Name
+      hint: Name of the dental/orthodontic practice
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consultation_date
+      label: Consultation Date
+      hint: Date of initial consultation
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_header_treatment
+      label: -- Treatment Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: treatment_type
+      label: Clear Aligner Product Type
+      hint: Type of clear aligner system
+      type: select_one
+      options:
+      - Brand A Clear Aligners
+      - Brand B Clear Aligners
+      - Brand C Clear Aligners
+      - Generic Clear Aligners
+      - Not Yet Determined
+      required: true
+    - id: 13
+      name: estimated_duration
+      label: Estimated Treatment Duration
+      hint: Expected length of treatment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: treatment_goal
+      label: Primary Treatment Goal
+      hint: What is the main objective?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_disclosure
+      label: -- Treatment Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: understand_process
+      label: I understand the clear aligner treatment process
+      hint: Acknowledge understanding of the process
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Information
+      required: true
+    - id: 17
+      name: aligner_compliance
+      label: Clear aligners must be worn 20-22 hours daily for optimal results
+      hint: Acknowledge wearing requirements
+      type: select_one
+      options:
+      - I Understand and Agree
+      - I Decline
+      required: true
+    - id: 18
+      name: maintenance_understanding
+      label: I understand the maintenance and care requirements
+      hint: Cleaning, handling, and storage instructions
+      type: select_one
+      options:
+      - I Understand
+      - I Need Clarification
+      required: true
+    - id: 19
+      name: section_header_risks
+      label: -- Risks and Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: understand_risks
+      label: I have been informed of potential risks associated with clear aligner
+        treatment
+      hint: Possible risks and side effects
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Need More Information
+      required: true
+    - id: 21
+      name: possible_side_effects
+      label: Possible Side Effects May Include
+      hint: Select all that apply to your understanding
+      type: select_multiple
+      options:
+      - Mild discomfort or soreness
+      - Temporary tooth sensitivity
+      - Slight speech changes initially
+      - Gum irritation
+      - Jaw pain
+      - Allergic reactions to materials
+      required: true
+    - id: 22
+      name: emergency_contact
+      label: I understand who to contact in case of emergency or complications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, I Need Clarification
+      required: true
+    - id: 23
+      name: section_header_financial
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: treatment_cost_discussed
+      label: Treatment cost has been discussed and explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: payment_plan_accepted
+      label: Payment plan or financing terms have been reviewed
+      hint: null
+      type: select_one
+      options:
+      - Yes, Accepted
+      - Will Discuss Later
+      - Declined
+      required: true
+    - id: 26
+      name: section_header_consent
+      label: -- Patient Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: consent_treatment
+      label: I consent to clear aligner orthodontic treatment
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 28
+      name: acknowledge_information
+      label: I acknowledge I have received and read all treatment information
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 29
+      name: questions_answered
+      label: All my questions have been answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: voluntary_participation
+      label: I voluntarily enter into this treatment with clear understanding of risks
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 31
+      name: section_header_release
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: liability_release
+      label: I release and hold harmless the provider from any complications or dissatisfaction
+      hint: null
+      type: select_one
+      options:
+      - I Agree to Release
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Co-Living Shared Resource Consent Form
+    pages:
+      - id: 1
+        name: resident_name
+        label: Resident Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: unit_number
+        label: Unit or Room Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: section_resource_agreement
+        label: -- Shared Resource Agreement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: kitchen_guideline_ack
+        label: I agree to follow the communal kitchen usage and cleaning guidelines
+        hint: null
+        type: select_one
+        options: [Yes, I agree]
+        required: true
+      - id: 5
+        name: laundry_policy_ack
+        label: I consent to the fair-use policy for shared laundry facilities
+        hint: null
+        type: select_one
+        options: [Yes, I agree]
+        required: true
+      - id: 6
+        name: quiet_hours_ack
+        label: I agree to respect the designated quiet hours - 10 PM to 7 AM
+        hint: null
+        type: select_one
+        options: [Yes, I agree]
+        required: true
+      - id: 7
+        name: section_costs
+        label: -- Utilities and Shared Costs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: utility_billing_ack
+        label: I understand the shared utility billing process and payment terms
+        hint: null
+        type: select_one
+        options: [Yes, I understand]
+        required: true
+      - id: 9
+        name: cleaning_supplies_fund_ack
+        label: I agree to contribute to the monthly communal cleaning supplies fund
+        hint: null
+        type: select_one
+        options: [Yes, I agree]
+        required: true
+      - id: 10
+        name: section_liability
+        label: -- Liability and Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: damage_responsibility_ack
+        label: I understand I am responsible for any damage caused by me or my guests
+        hint: null
+        type: select_one
+        options: [Yes, I understand]
+        required: true
+      - id: 12
+        name: maintenance_reporting_ack
+        label: I will report any maintenance issues in shared areas immediately
+        hint: null
+        type: select_one
+        options: [Yes, I will]
+        required: true
+      - id: 13
+        name: resident_signature
+        label: Resident Digital Signature
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: date_signed
+        label: Date Signed
+        hint: null
+        type: date
+        options: []
+        required: true

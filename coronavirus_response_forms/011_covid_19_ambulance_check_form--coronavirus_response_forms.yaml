@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Ambulance Check Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Ambulance Pre-Shift Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: ambulance_unit_number
+      label: Ambulance Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Vehicle Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exterior_condition
+      label: Exterior Condition Check
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Needs repair
+      - Not acceptable
+      required: true
+    - id: 9
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - Full tank
+      - Three-quarters full
+      - Half tank
+      - Less than half
+      - Empty
+      required: true
+    - id: 10
+      name: lights_working
+      label: All Lights Operational
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Partial
+      required: true
+    - id: 11
+      name: siren_operational
+      label: Siren Operational
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Equipment and Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ppe_check
+      label: Personal Protective Equipment Stocked
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 14
+      name: ppe_items
+      label: PPE Items Status
+      hint: Select any items needing replenishment
+      type: select_multiple
+      options:
+      - N95 masks
+      - Surgical masks
+      - Gloves
+      - Face shields
+      - Gowns
+      - Hand sanitizer
+      - All items adequate
+      required: true
+    - id: 15
+      name: oxygen_levels
+      label: Oxygen Tank Levels Adequate
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 16
+      name: medications_stocked
+      label: Emergency Medications Stocked
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 17
+      name: defibrillator_status
+      label: Defibrillator Status and Battery Level
+      hint: null
+      type: select_one
+      options:
+      - Fully charged and operational
+      - Partially charged
+      - Not operational
+      - Not present
+      required: true
+    - id: 18
+      name: stretcher_condition
+      label: Stretcher and Patient Transport Equipment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Needs repair
+      - Unsafe for use
+      required: true
+    - id: 19
+      name: section_header_4
+      label: -- Sanitation and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: ambulance_cleaned
+      label: Ambulance Interior Cleaned and Disinfected
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      - Partial
+      required: true
+    - id: 21
+      name: biohazard_containers
+      label: Biohazard Waste Containers Status
+      hint: null
+      type: select_one
+      options:
+      - Empty and ready
+      - Partially filled
+      - Full - needs replacement
+      - Missing
+      required: true
+    - id: 22
+      name: section_header_5
+      label: -- Overall Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_status
+      label: Overall Ambulance Status
+      hint: null
+      type: select_one
+      options:
+      - Ready for service
+      - Ready with minor issues noted
+      - Not ready for service
+      required: true
+    - id: 24
+      name: issues_noted
+      label: Issues or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: action_required
+      label: Action Required
+      hint: null
+      type: text
+      options: []
+      required: false

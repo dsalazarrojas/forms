@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microchanneling Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_given
+      label: consent_given
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''consent''}'
+      - '{''label'': False}'
+      required: true
+    - id: 4
+      name: procedure_details
+      label: procedure_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risks
+      label: risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: benefits
+      label: benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: aftercare
+      label: aftercare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_signed
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_ext_phone
+      label: contact_ext_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_ext_phone_ext
+      label: contact_ext_phone_ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: client_ext_phone
+      label: client_ext_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone_type
+      label: contact_phone_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Home''}'
+      - '{''label'': ''Mobile''}'
+      - '{''label'': ''Work''}'
+      required: true
+    - id: 21
+      name: aftercare_instructions
+      label: aftercare_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone_ext_type
+      label: contact_phone_ext_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Home''}'
+      - '{''label'': ''Mobile''}'
+      - '{''label'': ''Work''}'
+      required: false

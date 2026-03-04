@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domestic Violence Survivor Story Consent Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survivor_details
+      label: Survivor Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: date_of_violence
+      label: Date of Violence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_violence
+      label: Time of Violence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_of_violence
+      label: Location of Violence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: perpetrator_name
+      label: Perpetrator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_to_perpetrator
+      label: Relationship to Perpetrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_people_in_violence
+      label: Number of People in Violence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: type_of_violence
+      label: Type of Violence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_system_used
+      label: Support System Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Police''}'
+      - '{''label'': ''Shelter''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: perpetrator_identification
+      label: Perpetrator Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: perpetrator_address
+      label: Perpetrator Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: survivor_support_system_in_place
+      label: Survivor Support System In Place
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 14
+      name: perpetrator_harm_reports_to_survivor
+      label: Perpetrator Harm Reports to Survivor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Physical Harm''}'
+      - '{''label'': ''Emotional Harm''}'
+      - '{''label'': ''Psychological Harm''}'
+      - '{''label'': ''Financial Harm''}'
+      required: false
+    - id: 15
+      name: perpetrator_harm_reports_to_others
+      label: Perpetrator Harm Reports to Others
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Physical Harm''}'
+      - '{''label'': ''Emotional Harm''}'
+      - '{''label'': ''Psychological Harm''}'
+      - '{''label'': ''Financial Harm''}'
+      required: false
+    - id: 16
+      name: perpetrator_relationship_with_survivor
+      label: Perpetrator Relationship with Survivor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: perpetrator_previous_violence_against_survivor
+      label: Perpetrator Previous Violence Against Survivor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: perpetrator_reports_survivor_to_authorities
+      label: Perpetrator Reports Survivor to Authorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: perpetrator_previous_violence_against_others
+      label: Perpetrator Previous Violence Against Others
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 20
+      name: survivor_support
+      label: Survivor Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: perpetrator_sustains_harm_from_survivor
+      label: Perpetrator Sustains Harm from Survivor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 22
+      name: perpetrator_sustains_harm_from_others
+      label: Perpetrator Sustains Harm from Others
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: perpetrator_sustains_harm_from_someone_else
+      label: Perpetrator Sustains Harm from Someone Else
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: perpetrator_violence_prevention_methods_used
+      label: Perpetrator Violence Prevention Methods Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survivor_voluntary_statement
+      label: Survivor Voluntary Statement
+      hint: null
+      type: note
+      options: []
+      required: false

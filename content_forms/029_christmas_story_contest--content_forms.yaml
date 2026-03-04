@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Story Contest
+    pages:
+    - id: 1
+      name: author_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pen_name
+      label: Pen Name
+      hint: If you want to remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For contest updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For winner notification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must meet age requirements
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_author_info
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: address_line1
+      label: Street Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 12
+      name: section_address
+      label: -- Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: story_title
+      label: Story Title
+      hint: Title of your submission
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: story_category
+      label: Story Category
+      hint: Select your category
+      type: select_one
+      options:
+      - Childrens Story
+      - Young Adult
+      - Adult Fiction
+      - Non-Fiction Memoir
+      - Poetry
+      - Flash Fiction
+      required: true
+    - id: 15
+      name: word_count
+      label: Word Count
+      hint: Total words in your story
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: story_theme
+      label: Story Theme
+      hint: What is your main theme
+      type: select_one
+      options:
+      - Family and Togetherness
+      - Magic and Wonder
+      - Giving and Kindness
+      - Tradition and Nostalgia
+      - Redemption and Hope
+      - Adventure and Fun
+      - Romance
+      - Other
+      required: true
+    - id: 17
+      name: section_story_details
+      label: -- Story Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: story_synopsis
+      label: Story Synopsis
+      hint: Brief summary of your story
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: story_text
+      label: Your Story
+      hint: Paste your complete story here
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: original_work
+      label: Original Work
+      hint: Is this your original creation
+      type: select_one
+      options:
+      - Yes completely original
+      - Yes based on true events
+      - No contains copyrighted material
+      required: true
+    - id: 21
+      name: previous_publication
+      label: Previous Publication
+      hint: Has this been published before
+      type: select_one
+      options:
+      - No never published
+      - Yes self-published
+      - Yes traditionally published
+      - Yes on social media or blog
+      required: true
+    - id: 22
+      name: section_originality
+      label: -- Originality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: writing_experience
+      label: Writing Experience
+      hint: What is your experience level
+      type: select_one
+      options:
+      - First-time writer
+      - Hobby writer
+      - Published author
+      - Professional writer
+      - Student
+      required: true
+    - id: 24
+      name: age_category
+      label: Age Category
+      hint: For judging categories
+      type: select_one
+      options:
+      - Under 13
+      - 13-17 years
+      - 18-25 years
+      - 26-40 years
+      - 41-60 years
+      - Over 60
+      required: true
+    - id: 25
+      name: section_writer_info
+      label: -- Writer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: how_heard
+      label: How Did You Hear About Contest
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Writing Website
+      - Friend or Family
+      - Writing Group
+      - Online Search
+      - Advertisement
+      - Other
+      required: true
+    - id: 27
+      name: agree_rules
+      label: Agree to Contest Rules
+      hint: I have read and agree to all rules
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 28
+      name: publishing_rights
+      label: Publishing Rights
+      hint: Grant contest right to publish if winner
+      type: select_one
+      options:
+      - Yes I grant rights
+      - No I retain all rights
+      required: true
+    - id: 29
+      name: publicity_consent
+      label: Publicity Consent
+      hint: Allow use of name if winner
+      type: select_one
+      options:
+      - Yes I consent
+      - No keep anonymous
+      required: true
+    - id: 30
+      name: author_bio
+      label: Author Bio
+      hint: Brief bio for publication
+      type: text
+      options: []
+      required: false

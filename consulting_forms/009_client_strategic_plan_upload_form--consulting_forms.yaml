@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Strategic Plan Upload Form
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submission_section
+      label: -- Plan Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: plan_type
+      label: Type of strategic plan
+      hint: null
+      type: select_one
+      options:
+      - 3-Year Plan
+      - 5-Year Plan
+      - 10-Year Plan
+      - Operational Plan
+      - Marketing Plan
+      - Financial Plan
+      - Other
+      required: true
+    - id: 9
+      name: plan_focus_area
+      label: Primary focus area
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Growth and Expansion
+      - Cost Reduction
+      - Market Position
+      - Technology
+      - Talent Development
+      - Customer Experience
+      - Sustainability
+      - Other
+      required: true
+    - id: 10
+      name: document_section
+      label: -- Document Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: strategic_plan_document
+      label: Upload Strategic Plan Document
+      hint: PDF, Word, or Excel file
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supporting_documents
+      label: Supporting documents (optional)
+      hint: Budgets, timelines, market research, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: timeline_section
+      label: -- Timeline and Execution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: plan_start_date
+      label: Plan start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: plan_end_date
+      label: Plan end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: implementation_status
+      label: Current implementation status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In planning phase
+      - Initial implementation
+      - In progress
+      - Near completion
+      - Completed
+      required: true
+    - id: 17
+      name: budget_section
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: total_budget
+      label: Total budget allocated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: budget_currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional notes or context
+      hint: Optional
+      type: text
+      options: []
+      required: false

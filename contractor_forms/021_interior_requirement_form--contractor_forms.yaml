@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interior Requirement Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_requirements
+      label: Client Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_style
+      label: Design Style
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Traditional''}'
+      - '{''label'': ''Contemporary''}'
+      - '{''label'': ''Rustic''}'
+      required: true
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

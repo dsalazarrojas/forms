@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Visit Documentation Consent
+    pages:
+    - id: 1
+      name: field_visit_documentation_consent
+      label: Field Visit Documentation Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: field_visit_documentation_consent_2
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes'', ''label'': ''Yes''}'
+      - '{''value'': ''No'', ''label'': ''No''}'
+      required: false
+    - id: 3
+      name: field_visit_notes
+      label: Field Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: field_visit_photos
+      label: Field Visit Photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''photos_1'', ''label'': ''Photos 1''}'
+      - '{''value'': ''photos_2'', ''label'': ''Photos 2''}'
+      required: true
+    - id: 5
+      name: field_visit_videos
+      label: Field Visit Videos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''video_1'', ''label'': ''Video 1''}'
+      - '{''value'': ''video_2'', ''label'': ''Video 2''}'
+      required: true
+    - id: 6
+      name: field_visit_audio
+      label: Field Visit Audio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: field_visit_location
+      label: Field Visit Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: field_visit_date
+      label: Field Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: field_visit_time
+      label: Field Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: field_visit_latitude
+      label: Field Visit Latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: field_visit_longitude
+      label: Field Visit Longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: field_visit_additional_notes
+      label: Field Visit Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: field_visit_agreed_to_share
+      label: Field Visit Agreed to Share
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes'', ''label'': ''Yes''}'
+      - '{''value'': ''No'', ''label'': ''No''}'
+      required: true
+    - id: 14
+      name: field_visit_agreed_to_share_with
+      label: Field Visit Agreed to Share With
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: field_visit_agreed_to_share_with_email
+      label: Field Visit Agreed to Share With Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: field_visit_agreed_to_share_with_phone
+      label: Field Visit Agreed to Share With Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Consultation Appointment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Client Email Address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      required: false
+    - id: 10
+      name: consultation_topic
+      label: what_is_your_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_rep
+      label: assigned_rep
+      hint: null
+      type: select_one
+      options:
+      - Rep 1
+      - Rep 2
+      - Rep 3
+      required: false

@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eyelash Extensions Consent Form
+    pages:
+    - id: 1
+      name: intake_form
+      label: Intake Form
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: liability_form
+      label: Liability Form
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: picture_waiver
+      label: Picture Waiver
+      hint: 'null'
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 4
+      name: consent_form
+      label: Consent Form
+      hint: 'null'
+      type: text
+      options: []
+      required: false

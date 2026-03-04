@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridal Show Contact Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_role
+      label: Are You a
+      hint: Your role relative to wedding
+      type: select_one
+      options:
+      - Bride-to-be
+      - Groom-to-be
+      - Parent of bride
+      - Parent of groom
+      - Bridesmaid
+      - Groomsman
+      - Wedding planner
+      - Vendor
+      - Other
+      required: true
+    - id: 5
+      name: show_name
+      label: Bridal Show Name
+      hint: Name of show you attended
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: show_date
+      label: Show Date
+      hint: Date of the bridal show
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: wedding_date
+      label: Wedding Date
+      hint: Date of your wedding
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: engagement_length
+      label: How Long Until Your Wedding
+      hint: Months or years
+      type: select_one
+      options:
+      - Under 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      - Not yet set
+      required: true
+    - id: 9
+      name: wedding_location
+      label: Wedding Location
+      hint: City or venue location
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_count
+      label: Expected Number of Guests
+      hint: Approximate guest count
+      type: select_one
+      options:
+      - Intimate (under 50)
+      - Small (50-100)
+      - Medium (100-150)
+      - Large (150-200)
+      - Very large (200+)
+      - Undecided
+      required: false
+    - id: 11
+      name: wedding_style
+      label: Wedding Style
+      hint: What style are you planning
+      type: select_one
+      options:
+      - Traditional formal
+      - Modern and minimalist
+      - Bohemian
+      - Vintage
+      - Rustic
+      - Destination wedding
+      - Intimate elopement
+      - Undecided
+      required: false
+    - id: 12
+      name: wedding_budget
+      label: Wedding Budget Range
+      hint: Your approximate budget
+      type: select_one
+      options:
+      - Under 10000
+      - 10000 - 25000
+      - 25000 - 50000
+      - 50000 - 100000
+      - 100000+
+      - Undecided
+      required: false
+    - id: 13
+      name: vendors_interested
+      label: Vendors You Are Interested In
+      hint: Select types of services
+      type: select_multiple
+      options:
+      - Photography
+      - Videography
+      - Catering and cake
+      - Florist
+      - Decorations
+      - Music and entertainment
+      - Venue
+      - Wedding planner
+      - Bridal wear
+      - Other
+      required: false
+    - id: 14
+      name: booth_visited
+      label: Which Booths Did You Visit
+      hint: Vendors you interacted with
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interests_noted
+      label: Main Interests or Preferences
+      hint: What caught your attention
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: planning_stage
+      label: Wedding Planning Stage
+      hint: How far along are you
+      type: select_one
+      options:
+      - Just engaged
+      - Early planning stages
+      - Mid-planning
+      - Final planning stages
+      - Already planned most
+      required: false
+    - id: 17
+      name: wedding_party_info
+      label: Wedding Party Information
+      hint: Number in bridal party
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: planning_help_needed
+      label: Do You Need a Wedding Planner
+      hint: Interest in planning services
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Maybe
+      - Probably not
+      - Already have one
+      required: false
+    - id: 19
+      name: follow_up_preference
+      label: Preferred Contact Method
+      hint: How should we follow up
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Social media
+      - No follow-up needed
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Information or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

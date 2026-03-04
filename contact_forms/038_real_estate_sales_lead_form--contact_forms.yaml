@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_sales_lead_form
+    pages:
+    - id: 1
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_time_showingscheduling
+      label: Showings Scheduling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_time_scheduling
+      label: Showings Scheduling Options
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_scheduling
+      label: Time Scheduling
+      hint: null
+      type: time
+      options: []
+      required: false

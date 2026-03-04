@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Content Metadata Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: creator_name
+      label: Creator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: publisher_name
+      label: Publisher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Audio
+      - Image
+      required: true
+    - id: 7
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false
+    - id: 8
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - en
+      - fr
+      - es
+      required: true
+    - id: 9
+      name: author_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contributor_role
+      label: Contributor Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: rights_holder
+      label: Rights Holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: publication_date_range
+      label: Publication Date Range
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: copyright
+      label: Copyright
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license
+      label: License
+      hint: null
+      type: select_one
+      options:
+      - cc0
+      - cc1
+      - cc2
+      - cc3
+      - cc4
+      - public_domain
+      required: true
+    - id: 16
+      name: copyright_status
+      label: Copyright Status
+      hint: null
+      type: select_one
+      options:
+      - published
+      - pending
+      - withdrawn
+      - expired
+      required: true
+    - id: 17
+      name: url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: keywords_list
+      label: Keywords List
+      hint: null
+      type: select_multiple
+      options:
+      - keyword1
+      - keyword2
+      - keyword3
+      required: false
+    - id: 22
+      name: categories
+      label: Categories
+      hint: null
+      type: select_multiple
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 23
+      name: tags_list
+      label: Tags List
+      hint: null
+      type: select_multiple
+      options:
+      - tag4
+      - tag5
+      - tag6
+      required: false
+    - id: 24
+      name: related_links
+      label: Related Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tags_list_2
+      label: Another Tags List
+      hint: null
+      type: select_multiple
+      options:
+      - tag7
+      - tag8
+      - tag9
+      required: false

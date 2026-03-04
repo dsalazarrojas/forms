@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Exhibition Entry Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Exhibitor Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: entry_intro
+      label: Animal Exhibition Entry Form
+      hint: Enter your animal in our exhibition or show
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: exhibition_name
+      label: Exhibition or Show Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: exhibition_date
+      label: Exhibition Date
+      hint: Event date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: animal_information
+      label: Animal Information
+      hint: Details about your entry
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: animal_name
+      label: Animal's Name
+      hint: What do you call your animal
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: animal_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Rabbit
+      - Bird
+      - Livestock
+      - Exotic
+      - Other
+      required: true
+    - id: 11
+      name: animal_breed
+      label: Breed
+      hint: Specific breed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: animal_sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: animal_age
+      label: Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: animal_color
+      label: Color and Markings
+      hint: Description
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registration_number
+      label: Registration or Pedigree Number
+      hint: If registered
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: microchip_number
+      label: Microchip Number
+      hint: If microchipped
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: class_entry
+      label: Class or Category Entry
+      hint: Competition class
+      type: select_one
+      options:
+      - Conformation
+      - Performance
+      - Obedience
+      - Agility
+      - Junior handler
+      - Breed class
+      - Open class
+      - Other
+      required: true
+    - id: 18
+      name: previous_wins
+      label: Has This Animal Won Awards Before
+      hint: Show history
+      type: select_one
+      options:
+      - Yes - multiple wins
+      - Yes - some wins
+      - No - first time showing
+      required: false
+    - id: 19
+      name: health_certification
+      label: Health Certification
+      hint: Health status
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: health_certificate
+      label: Do You Have a Current Health Certificate
+      hint: Health cert
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - No - not required
+      required: true
+    - id: 21
+      name: vaccination_status
+      label: Are Vaccinations Current
+      hint: Vaccination status
+      type: select_one
+      options:
+      - Yes - all current
+      - Some due soon
+      - false
+      required: true
+    - id: 22
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Primary vet
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Clinic phone
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: special_requirements
+      label: Does Your Animal Have Special Requirements
+      hint: Dietary, medical, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: temperament
+      label: How Would You Describe Your Animal's Temperament
+      hint: Behavior
+      type: select_one
+      options:
+      - Calm and gentle
+      - Friendly and outgoing
+      - Energetic
+      - Reserved
+      - Protective
+      - Other
+      required: true
+    - id: 26
+      name: handling_experience
+      label: Your Experience Level with This Animal
+      hint: Handler experience
+      type: select_one
+      options:
+      - Professional handler
+      - Experienced exhibitor
+      - Some experience
+      - First time exhibitor
+      required: false
+    - id: 27
+      name: entry_fee
+      label: Entry Fee Payment
+      hint: Payment status
+      type: select_one
+      options:
+      - Paid with entry
+      - Will pay at event
+      - Invoice requested
+      required: true
+    - id: 28
+      name: stall_required
+      label: Do You Require Stabling
+      hint: Housing
+      type: select_one
+      options:
+      - Yes - overnight
+      - Yes - day use
+      - false
+      required: false
+    - id: 29
+      name: catalog_photo
+      label: Would You Like Your Animal in the Catalog
+      hint: Photo submission
+      type: select_one
+      options:
+      - Yes - photo attached
+      - Yes - use existing photo
+      - false
+      required: false
+    - id: 30
+      name: terms_conditions
+      label: I Agree to the Exhibition Terms and Conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 31
+      name: exhibitor_signature
+      label: Exhibitor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

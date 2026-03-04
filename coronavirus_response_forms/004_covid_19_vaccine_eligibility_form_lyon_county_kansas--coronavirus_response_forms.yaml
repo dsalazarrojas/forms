@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Eligibility Form (Lyon County, Kansas)
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: eligibility_header
+      label: -- Eligibility Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: age_65_or_older
+      label: Are you 65 years of age or older?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: phase_1_category
+      label: Are you in Phase 1 (check all that apply)?
+      hint: null
+      type: select_multiple
+      options:
+      - Healthcare worker
+      - Long-term care facility resident
+      - Long-term care facility staff
+      - None of the above
+      required: true
+    - id: 10
+      name: kansas_resident
+      label: Are you a Kansas resident?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: lyon_county
+      label: Do you reside in Lyon County?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - No, but I work in Lyon County
+      required: true
+    - id: 12
+      name: employment_info
+      label: If you work in Lyon County, what is your occupation?
+      hint: Optional - only if not a resident
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: health_conditions
+      label: Do you have any chronic health conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: conditions_list
+      label: Please list your chronic health conditions
+      hint: Optional field
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirmation_header
+      label: -- Submission Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: information_accurate
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method for Results
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Both
+      required: true

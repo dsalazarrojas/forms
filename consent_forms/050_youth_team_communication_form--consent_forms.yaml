@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Team Communication Form
+    pages:
+    - id: 1
+      name: team_info
+      label: Team info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent 1''}'
+      - '{''label'': ''Parent 2''}'
+      required: false
+    - id: 3
+      name: contact_preferences
+      label: Contact preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Receive updates''}'
+      - '{''label'': ''Receive urgent messages''}'
+      required: false
+    - id: 6
+      name: communication_channels
+      label: Communication channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''WhatsApp''}'
+      - '{''label'': ''Phone''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: urgent_message
+      label: Urgent message
+      hint: null
+      type: text
+      options: []
+      required: false

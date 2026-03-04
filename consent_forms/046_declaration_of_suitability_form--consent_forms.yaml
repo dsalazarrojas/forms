@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Declaration Of Suitability Form
+    pages:
+    - id: 1
+      name: role
+      label: What role do you hold?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Leader
+      - Member
+      required: false
+    - id: 2
+      name: placement
+      label: Where is this placement?
+      hint: null
+      type: select_multiple
+      options:
+      - Inside
+      - Outside
+      required: true
+    - id: 3
+      name: activity
+      label: What activity will you be participating in?
+      hint: null
+      type: select_multiple
+      options:
+      - Activity A
+      - Activity B
+      required: true
+    - id: 4
+      name: date
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time of Declaration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Any additional notes?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

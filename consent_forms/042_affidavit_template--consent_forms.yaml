@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Affidavit Template
+    pages:
+    - id: 1
+      name: venue_header
+      label: -- Venue --
+      hint: Location where affidavit is made.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: state
+      label: State of
+      hint: e.g., California.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: county
+      label: County of
+      hint: e.g., Los Angeles.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: affiant_info_header
+      label: -- Affiant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: affiant_name
+      label: I, (Name of Affiant)
+      hint: Full legal name.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: legal_age_check
+      label: Legal Age Confirmation
+      hint: Are you of legal age and competent to testify?
+      type: select_one
+      options:
+      - Yes, I am over 18
+      - No
+      required: true
+    - id: 7
+      name: statement_header
+      label: -- Statement of Facts --
+      hint: Numbered list of facts.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fact_1
+      label: "1. Being duly sworn, deposes and says:"
+      hint: First fact.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: fact_2
+      label: 2.
+      hint: Second fact.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fact_3
+      label: 3.
+      hint: Third fact.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fact_4
+      label: 4.
+      hint: Fourth fact.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: closing_statement
+      label: Closing Statement
+      hint: Further Affiant sayeth naught.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_block_header
+      label: -- Signature & Notary --
+      hint: To be completed in presence of notary.
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: signature_line
+      label: Affiant Signature
+      hint: Do not sign until instructed by notary.
+      type: select_one
+      options:
+      - Signed
+      required: true
+    - id: 15
+      name: date_signed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: notary_section
+      label: Notary Acknowledgment
+      hint: Subscribed and sworn to before me...
+      type: note
+      options: []
+      required: false

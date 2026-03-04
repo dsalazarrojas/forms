@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Contact Form
+    pages:
+    - id: 1
+      name: contact_header
+      label: Contact the Blogger
+      hint: Get in touch for inquiries and collaborations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Where should I respond
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website
+      label: Your Website
+      hint: Link to your site or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What is this regarding
+      type: select_one
+      options:
+      - Sponsored Post
+      - Product Review
+      - Guest Post
+      - Interview Request
+      - Speaking Engagement
+      - Collaboration
+      - Press Inquiry
+      - Advertising
+      - Other
+      required: true
+    - id: 8
+      name: subject
+      label: Subject
+      hint: Brief subject line
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: Your detailed message
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: timeline
+      label: Timeline
+      hint: When do you need response
+      type: select_one
+      options:
+      - Urgent - Within 24 Hours
+      - This Week
+      - Within 2 Weeks
+      - Flexible
+      - No Rush
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget Range
+      hint: If applicable
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1001-$2500
+      - $2501-$5000
+      - Over $5000
+      - Not Discussed Yet
+      - Not Applicable
+      required: false
+    - id: 12
+      name: social_media
+      label: Social Media Handles
+      hint: Your social media accounts
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_find
+      label: How Did You Find This Blog
+      hint: Source of discovery
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Friend Referral
+      - Other Blog
+      - Direct Visit
+      - Other
+      required: false
+    - id: 14
+      name: newsletter_subscriber
+      label: Newsletter Subscriber
+      hint: Are you subscribed
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Subscribe
+      required: false
+    - id: 15
+      name: attachments
+      label: Attachments
+      hint: Link to any relevant files
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should I respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Call
+      - Any Method
+      required: true

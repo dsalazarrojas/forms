@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guess The Jar Game Entry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: entry_type
+      label: entry_type
+      hint: null
+      type: select_multiple
+      options:
+      - Guess the number
+      - Guess the color
+      - Other
+      required: false
+    - id: 8
+      name: prize_winning_entry
+      label: prize_winning_entry
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 9
+      name: winner_selected
+      label: winner_selected
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Highlight Reel Consent Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_age
+      label: Age or Date of Birth
+      hint: Or confirmation that you are 18 plus
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: club_affiliation
+      label: Club or Team Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_consent
+      label: -- Media Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: video_permission
+      label: Permission to Video Record
+      hint: For club highlight reel and promotional videos
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 9
+      name: photo_permission
+      label: Permission to Take Photos
+      hint: For club highlight reel and promotional use
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 10
+      name: audio_permission
+      label: Permission to Record Audio
+      hint: Including voice and commentary
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 11
+      name: section_usage
+      label: -- Usage and Distribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: social_media_use
+      label: Okay to Share on Social Media
+      hint: Instagram, TikTok, YouTube, Facebook, etc
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: website_use
+      label: Okay to Use on Club Website
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: promotional_use
+      label: Okay for Marketing and Promotional Materials
+      hint: Flyers, videos, advertisements, etc
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: commercial_use
+      label: Okay for Commercial or Paid Use
+      hint: If the content is ever monetized or sold
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 16
+      name: section_details
+      label: -- Additional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: specific_activity
+      label: Specific Activity or Event Being Recorded
+      hint: What will be filmed or photographed?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recording_dates
+      label: Dates of Recording
+      hint: When will recording take place?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: name_usage
+      label: Permission to Use Your Name
+      hint: In credits or attributions
+      type: select_one
+      options:
+      - Yes, use my name
+      - No, keep me anonymous
+      required: false
+    - id: 20
+      name: section_rights
+      label: -- Rights and Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: rights_acknowledgment
+      label: I understand the club may use these materials indefinitely
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 22
+      name: rights_transfer
+      label: I transfer all rights to the club for this content
+      hint: null
+      type: select_one
+      options:
+      - Yes, I transfer rights
+      - No, I retain rights
+      required: true
+    - id: 23
+      name: final_consent
+      label: I consent to participate and be recorded
+      hint: By signing, you agree to all terms above
+      type: select_one
+      options:
+      - Yes, I fully consent
+      - No, I do not consent
+      required: true
+    - id: 24
+      name: signature_date
+      label: Date of Consent
+      hint: Today
+      type: date
+      options: []
+      required: true

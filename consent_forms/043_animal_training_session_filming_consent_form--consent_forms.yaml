@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Training Session Filming Consent Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: animal_name
+      label: Animal Name
+      hint: Name of animal being trained
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: animal_species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Bird
+      - Rabbit
+      - Other
+      required: true
+    - id: 7
+      name: animal_breed
+      label: Breed
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: Who is conducting the training
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: training_organization
+      label: Training Organization
+      hint: Company or facility name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_date
+      label: Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: session_location
+      label: Session Location
+      hint: Where will training occur
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: filming_consent
+      label: Consent to Film Training Session
+      hint: Do you allow recording
+      type: select_one
+      options:
+      - Yes I Consent to Filming
+      - No I Do Not Consent
+      required: true
+    - id: 13
+      name: recording_type
+      label: Type of Recording
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Video Recording
+      - Audio Recording
+      - Photography
+      - Live Streaming
+      required: false
+    - id: 14
+      name: filming_purpose
+      label: Purpose of Filming
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Trainer Education
+      - Owner Review
+      - Marketing and Promotion
+      - Social Media Content
+      - Website Use
+      - Workshop or Seminar
+      - Research Purposes
+      - Television or Media
+      - Other
+      required: true
+    - id: 15
+      name: usage_scope
+      label: Where May Footage Be Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Internal Use Only
+      - Private Client Portal
+      - Public Website
+      - Social Media Platforms
+      - YouTube or Video Platforms
+      - Print Materials
+      - Presentations
+      - Broadcast Media
+      - Educational Materials
+      required: true
+    - id: 16
+      name: identity_disclosure
+      label: Identity Disclosure Preferences
+      hint: null
+      type: select_one
+      options:
+      - Full Name May Be Used
+      - First Name Only
+      - No Name - Anonymous
+      - Face May Be Shown
+      - Face Must Be Blurred
+      required: true
+    - id: 17
+      name: animal_identification
+      label: Animal Identification
+      hint: null
+      type: select_one
+      options:
+      - Animal Name May Be Used
+      - No Identification
+      - Use Description Only
+      required: true
+    - id: 18
+      name: footage_duration
+      label: How Long May Footage Be Retained
+      hint: null
+      type: select_one
+      options:
+      - Until Training Program Ends
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Indefinitely
+      - Delete After Specific Use
+      required: true
+    - id: 19
+      name: third_party_sharing
+      label: May Footage Be Shared with Third Parties
+      hint: Other trainers or partners
+      type: select_one
+      options:
+      - Yes - Any Professional Use
+      - Yes - With Specific Approval
+      - No - Internal Only
+      required: true
+    - id: 20
+      name: commercial_use
+      label: May Footage Be Used for Commercial Purposes
+      hint: Paid advertising or products
+      type: select_one
+      options:
+      - Yes - Commercial Use Allowed
+      - No - Non-Commercial Only
+      - Yes - With Compensation
+      required: true
+    - id: 21
+      name: compensation
+      label: Will You Receive Compensation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Monetary Payment
+      - Yes - Training Credit
+      - Yes - Free Session
+      - No Compensation
+      required: false
+    - id: 22
+      name: approval_rights
+      label: Do You Want Approval Rights Before Use
+      hint: Review before publication
+      type: select_one
+      options:
+      - Yes - Must Approve Before Use
+      - No - Trust Trainer Judgment
+      - Yes - For Commercial Use Only
+      required: true
+    - id: 23
+      name: revocation_rights
+      label: Understanding of Revocation Rights
+      hint: You may revoke consent at any time
+      type: select_one
+      options:
+      - I Understand I Can Revoke
+      - I Need More Information
+      required: true
+    - id: 24
+      name: liability_release
+      label: Liability Release
+      hint: Release trainer from claims related to filming
+      type: select_one
+      options:
+      - Yes I Release Liability
+      - No I Do Not Agree
+      required: true
+    - id: 25
+      name: concerns_questions
+      label: Do You Have Any Concerns or Questions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: concerns_details
+      label: Please Describe Your Concerns
+      hint: If yes explain
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_permissions
+      label: Additional Permissions or Restrictions
+      hint: Any special conditions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: owner_signature
+      label: Owner Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: trainer_signature
+      label: Trainer Electronic Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: final_confirmation
+      label: I Have Read and Understand This Consent Form
+      hint: null
+      type: select_one
+      options:
+      - Yes I Confirm
+      - No I Do Not Confirm
+      required: true

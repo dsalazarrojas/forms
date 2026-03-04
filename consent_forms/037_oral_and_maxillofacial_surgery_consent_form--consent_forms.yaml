@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral And Maxillofacial Surgery Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: procedure_time
+      label: Procedure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: surgeon_name
+      label: Surgeon Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: procedure_description
+      label: Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: risks
+      label: Risks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: complications
+      label: Complications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: anesthesia
+      label: Anesthesia
+      hint: Please select the type of anesthesia
+      type: select_one
+      options:
+      - General Anesthesia
+      - Sedation
+      - Local Anesthesia
+      - None
+      required: true
+    - id: 13
+      name: consent_to_procedure
+      label: Consent To Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true

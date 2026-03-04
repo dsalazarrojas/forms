@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Learning Consultant Contact Form
+    pages:
+    - id: 1
+      name: project_inquiries
+      label: Project Inquiries
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_details
+      label: Consultant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultant_experience
+      label: Consultant Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultant_interests
+      label: Consultant Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: consultant_availability
+      label: Consultant Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_lead_source
+      label: Project Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''High''}'
+      - '{''option2'': ''Medium''}'
+      - '{''option3'': ''Low''}'
+      required: true
+    - id: 15
+      name: project_lead_status
+      label: Project Lead Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Lead''}'
+      - '{''option2'': ''Not Lead''}'
+      required: true
+    - id: 16
+      name: project_scheduling
+      label: Project Scheduling
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Scheduled''}'
+      - '{''option2'': ''Unscheduled''}'
+      required: false
+    - id: 17
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Active''}'
+      - '{''option2'': ''Inactive''}'
+      required: true
+    - id: 18
+      name: consultant_scheduling
+      label: Consultant Scheduling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: project_follow_up
+      label: Project Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      - '{''option3'': ''N/A''}'
+      required: false
+    - id: 20
+      name: project_scheduling_frequency
+      label: Project Scheduling Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: consultant_lead_source
+      label: Consultant Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Website''}'
+      - '{''option2'': ''Social Media''}'
+      - '{''option3'': ''Referral''}'
+      required: false
+    - id: 22
+      name: project_status_update
+      label: Project Status Update
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''New''}'
+      - '{''option2'': ''Update''}'
+      - '{''option3'': ''Closed''}'
+      required: false
+    - id: 23
+      name: consultant_next_steps
+      label: Consultant Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: project_next_steps
+      label: Project Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

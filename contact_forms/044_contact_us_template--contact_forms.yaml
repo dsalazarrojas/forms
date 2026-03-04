@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Template
+    pages:
+    - id: 1
+      name: intro
+      label: Contact Us
+      hint: Send us your message
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: Message subject
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: Inquiry type
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Billing
+      - General
+      - Feedback
+      required: true
+    - id: 7
+      name: message
+      label: Message
+      hint: Your message
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: Priority
+      hint: Urgency level
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachment
+      hint: Optional file
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: Preferred Contact Method
+      hint: How to respond
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 11
+      name: consent
+      label: Consent to Terms
+      hint: Agree to privacy policy
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

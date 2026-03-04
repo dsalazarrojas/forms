@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Promotional Content Consent Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Promotional Content Consent --
+      hint: authorization for usage of images and testimonials in marketing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content_header
+      label: -- Content Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: content_types
+      label: Types of content authorized - Photographs, Video Footage, Quotes/Testimonials,
+        Social Media Posts
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Professional Photographs
+      - Video Footage or Interviews
+      - Written Testimonials / Quotes
+      - Social Media Tagging and Posts
+      - Audio Recordings
+      required: true
+    - id: 7
+      name: project_description
+      label: Description of specific project or event - if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_duration
+      label: Duration of Consent - 1 Year, 3 Years, Indefinite
+      hint: how long can we use this content
+      type: select_one
+      options:
+      - 1 Year from date of signing
+      - 3 Years from date of signing
+      - Indefinite (Perpetual use)
+      - Specific Campaign Duration only
+      required: true
+    - id: 9
+      name: rights_header
+      label: -- Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: grant_statement
+      label: I grant the Agency the right to use the selected content for promotional
+        and marketing purposes.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approval_requirement
+      label: Do you require prior approval for final content pieces?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I must approve final versions
+      - No, the Agency has full discretion
+      required: true
+    - id: 12
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: revocation_notice
+      label: This consent can be revoked at any time by providing written notice to
+        the Agency.
+      hint: null
+      type: note
+      options: []
+      required: false

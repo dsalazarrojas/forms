@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: portfolio_consultation_feedback
+    pages:
+    - id: 1
+      name: portfolio_consultation_feedback
+      label: Portfolio Consultation Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ratings
+      label: How would you rate our services
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Unsatisfied''}'
+      - '{''label'': ''2 - Neutral''}'
+      - '{''label'': ''3 - Satisfied''}'
+      - '{''label'': ''4 - Very Satisfied''}'
+      - '{''label'': ''5 - Extremely Satisfied''}'
+      required: false
+    - id: 3
+      name: suggestions
+      label: What would you like to see changed or added
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Any comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: How do you think we could improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next steps
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Schedule a follow-up meeting''}'
+      - '{''label'': ''2 - Continue with our collaboration''}'
+      - '{''label'': ''3 - Do not schedule a follow-up meeting''}'
+      required: false
+    - id: 7
+      name: contact_details
+      label: How may we contact you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

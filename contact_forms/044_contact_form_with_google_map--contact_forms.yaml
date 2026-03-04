@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Google Map
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_full_name
+      label: Your Full Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_address
+      label: Your Email Address
+      hint: Primary email for contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_number
+      label: Your Phone Number
+      hint: Mobile or home phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_location_inquiry
+      label: -- Location Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_store_location
+      label: Preferred Store Location
+      hint: Which store location is this about?
+      type: select_one
+      options:
+      - Main Street Office
+      - Downtown Showroom
+      - Northside Warehouse
+      - Westgate Retail
+      - Other
+      required: true
+    - id: 7
+      name: map_usage_feedback
+      label: Was the map helpful in finding our location?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, very helpful
+      - Somewhat helpful
+      - No, not helpful
+      - Didn't use the map
+      required: false
+    - id: 8
+      name: section_message_details
+      label: -- Message Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: message_subject
+      label: Inquiry Subject
+      hint: Provide a brief summary
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: detailed_message
+      label: Your Detailed Message
+      hint: Please provide more information
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_response_method
+      label: Preferred Response Method
+      hint: How should we reach back out?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

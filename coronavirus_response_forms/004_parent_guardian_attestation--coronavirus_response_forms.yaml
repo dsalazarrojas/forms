@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Guardian Attestation
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parents Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: Parents Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parents Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_symptoms
+      label: Has Student Exhibited Any Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parent_symptoms
+      label: Have the Parents Exhibited Any Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parent_symptom_start_date
+      label: When did you start showing symptoms
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_attending_school
+      label: Will the Student be attending school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: parent_attending_school
+      label: Will you be attending school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

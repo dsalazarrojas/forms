@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Code Of Conduct Agreement
+    pages:
+    - id: 1
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of the emergency contact.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_relationship
+      label: Relationship To Participant
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Other
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: staff_signature
+      label: Staff/Operator Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: This field should match the assigned tool used to generate this form.
+      type: select_one
+      options:
+      - Assigned Tool
+      - Other
+      required: true
+    - id: 11
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true

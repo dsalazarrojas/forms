@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_content_submission_form_template
+    pages:
+    - id: 1
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: submission_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 7
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publish_status
+      label: Publish
+      hint: null
+      type: select_multiple
+      options:
+      - Published
+      - Pending
+      - Draft
+      required: false
+    - id: 11
+      name: submission_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - Video
+      required: true
+    - id: 12
+      name: content_url
+      label: Content URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: review_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: true
+    - id: 17
+      name: publish_date
+      label: Publish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - Pending
+      required: true

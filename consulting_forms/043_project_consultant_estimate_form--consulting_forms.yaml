@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Consultant Estimate Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: proposed_services
+      label: Proposed Services
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting Services
+      - Project Management
+      - Business Analysis
+      required: false
+    - id: 4
+      name: anticipated_costs
+      label: Anticipated Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: consultant_details
+      label: Consultant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - Google Forms
+      - MS Project
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 10
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

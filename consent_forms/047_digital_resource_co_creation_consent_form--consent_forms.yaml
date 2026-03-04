@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Resource Co Creation Consent Form
+    pages:
+    - id: 1
+      name: contributor_details
+      label: Contributor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_information
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permissions
+      label: Permissions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_leader_information
+      label: Project Leader Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: co_creation_info
+      label: Co-Creation Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resource_version
+      label: Resource Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contributor_agreement
+      label: Contributor Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contributor_consent
+      label: Contributor Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: resource_owner
+      label: Resource Owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: co_creation_license
+      label: Co-Creation License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: resource_license
+      label: Resource License
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

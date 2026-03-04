@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Dance Competition Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dance_style
+      label: Dance Style
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ballet''}'
+      - '{''value'': ''contemporary''}'
+      - '{''value'': ''hip-hop''}'
+      - '{''value'': ''jazz''}'
+      - '{''value'': ''modern''}'
+      - '{''value'': ''tap''}'
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''5-8''}'
+      - '{''value'': ''9-12''}'
+      - '{''value'': ''13-18''}'
+      - '{''value'': ''19-24''}'
+      - '{''value'': ''25-30''}'
+      - '{''value'': ''31-40''}'
+      - '{''value'': ''41-50''}'
+      - '{''value'': ''51-60''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dance_partner
+      label: Dance Partner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''no-partner''}'
+      - '{''value'': ''partner-included''}'
+      required: false
+    - id: 7
+      name: dance_partner_name
+      label: Dance Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: dance_experience
+      label: Dance Experience
+      hint: null
+      type: text
+      options: []
+      required: false

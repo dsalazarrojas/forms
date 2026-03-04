@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Value Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Enter your full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultation_service_received
+      label: Consultation Service Received
+      hint: Select the primary service provided
+      type: select_one
+      options:
+      - Strategic Planning
+      - Operations Management
+      - Financial Advisory
+      - HR Consulting
+      - Technology Implementation
+      - Marketing Strategy
+      - Other
+      required: true
+    - id: 3
+      name: project_duration_months
+      label: Project Duration (Months)
+      hint: How long was the engagement?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: section_value_assessment
+      label: -- Service Value Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating_strategic_insight
+      label: Strategic Insight and Advice
+      hint: Value of the strategic direction provided
+      type: select_one
+      options:
+      - 1 - Low Value
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - High Value
+      required: true
+    - id: 6
+      name: rating_problem_resolution
+      label: Effectiveness in Problem Resolution
+      hint: How well were your issues addressed?
+      type: select_one
+      options:
+      - 1 - Not Effective
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Very Effective
+      required: true
+    - id: 7
+      name: rating_roi
+      label: Return on Investment (ROI)
+      hint: Perceived value relative to cost
+      type: select_one
+      options:
+      - 1 - Poor ROI
+      - 2
+      - 3 - Average
+      - 4
+      - 5 - Excellent ROI
+      required: true
+    - id: 8
+      name: section_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rating_overall_experience
+      label: Overall Experience with Consultant
+      hint: General satisfaction with the engagement
+      type: select_one
+      options:
+      - 1 - Dissatisfied
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Satisfied
+      required: true
+    - id: 10
+      name: recommendation_likelihood
+      label: Likelihood to Recommend
+      hint: Would you recommend us to a colleague?
+      type: select_one
+      options:
+      - 0 - Not Likely
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5 - Neutral
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10 - Extremely Likely
+      required: true
+    - id: 11
+      name: most_valuable_aspect
+      label: Most Valuable Aspect of the Service
+      hint: What did you find most helpful?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can we make our services better?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: future_service_interest
+      label: Interest in Future Services
+      hint: Would you consider us for future projects?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 14
+      name: completion_date
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true

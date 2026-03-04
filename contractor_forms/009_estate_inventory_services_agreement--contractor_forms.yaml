@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: estate-inventory-services-agreement
+    pages:
+    - id: 1
+      name: service_definition_page
+      label: Service Definition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_approval_page
+      label: Client Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 3
+      name: client_signature_page
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_provider_signature_page
+      label: Service Provider Signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: property_address_page
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_description_page
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_provider_name_page
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true

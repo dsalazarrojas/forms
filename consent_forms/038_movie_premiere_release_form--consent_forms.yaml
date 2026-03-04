@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Premiere Release Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: email_2
+      label: confirm_email
+      hint: Please confirm your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: time_2
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: select_one
+      label: what_do_you_like
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''option 1''}'
+      - '{''id'': 2, ''value'': ''option 2''}'
+      - '{''id'': 3, ''value'': ''option 3''}'
+      required: true
+    - id: 10
+      name: select_multiple
+      label: what_do_you_like-2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''option 1''}'
+      - '{''id'': 2, ''value'': ''option 2''}'
+      - '{''id'': 3, ''value'': ''option 3''}'
+      - '{''id'': 4, ''value'': ''option 4''}'
+      - '{''id'': 5, ''value'': ''option 5''}'
+      required: true
+    - id: 11
+      name: note_2
+      label: notes-2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: note_3
+      label: notes-3
+      hint: null
+      type: note
+      options: []
+      required: false

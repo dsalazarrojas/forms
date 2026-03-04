@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_declaration_form
+    pages:
+    - id: 1
+      name: travel_declaration_form_page
+      label: travel_declaration_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_declaration_form_questions
+      label: travel_declaration_form_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_declaration_form_symptoms
+      label: travel_declaration_form_symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Difficulty breathing
+      - Sore throat
+      required: false
+    - id: 4
+      name: travel_declaration_form_symptom_frequency
+      label: travel_declaration_form_symptom_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_declaration_form_temperature
+      label: travel_declaration_form_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_declaration_form_travel_status
+      label: travel_declaration_form_travel_status
+      hint: null
+      type: select_one
+      options:
+      - Arriving from a high-risk area
+      - Traveling to a high-risk area
+      - Neither of the above
+      required: false
+    - id: 7
+      name: travel_declaration_form_travel_history
+      label: travel_declaration_form_travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_declaration_form_declaration
+      label: travel_declaration_form_declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_declaration_form_declaration_status
+      label: travel_declaration_form_declaration_status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Declined
+      - Unknown
+      required: false
+    - id: 10
+      name: travel_declaration_form_declaration_date
+      label: travel_declaration_form_declaration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: travel_declaration_form_declaration_time
+      label: travel_declaration_form_declaration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: travel_declaration_form_declaration_notes
+      label: travel_declaration_form_declaration_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_declaration_form_declaration_email
+      label: travel_declaration_form_declaration_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: travel_declaration_form_declaration_phone
+      label: travel_declaration_form_declaration_phone
+      hint: null
+      type: text
+      options: []
+      required: false

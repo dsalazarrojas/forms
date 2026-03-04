@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Talent Partnership Contact Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Primary contact full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or team name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Best email to contact you
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Optional phone for scheduling calls
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role_of_contact
+      label: Role of contact
+      hint: Job title or function
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partnership_interest
+      label: Area of partnership interest
+      hint: Select primary area of interest
+      type: select_one
+      options:
+      - Talent sourcing
+      - Training and development
+      - Strategic advisory
+      - Contract staffing
+      - Other
+      required: true
+    - id: 8
+      name: project_timeline
+      label: Desired project timeline
+      hint: Approximate start and end or duration
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: summary_of_need
+      label: Summary of need
+      hint: Brief description of partnership goals
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_preference
+      label: Follow up preference
+      hint: How would you like us to follow up
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

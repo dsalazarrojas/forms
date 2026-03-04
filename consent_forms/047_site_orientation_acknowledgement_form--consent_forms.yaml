@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Orientation Acknowledgement Form
+    pages:
+    - id: 1
+      name: site_orientation_acknowledgement_form
+      label: Employee Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: site_orientation_form
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: site_orientation_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: eCommerce_Marketing_Consultant_Estimate_Form
+    pages:
+    - id: 1
+      name: form_information
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''project_type'', ''label'': ''Project Type'', ''type'':
+        ''select_one'', ''options'': []}'
+      - '{''id'': 2, ''name'': ''project_duration'', ''label'': ''Project Duration'',
+        ''type'': ''select_one'', ''options'': []}'
+      - '{''id'': 3, ''name'': ''project_budget'', ''label'': ''Project Budget'',
+        ''type'': ''select_one'', ''options'': []}'
+      required: true
+    - id: 3
+      name: consultant_details
+      label: Consultant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: ecommerce_platform
+      label: Ecommerce Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: social_media_integration
+      label: Social Media Integration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: content_creation
+      label: Content Creation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email_marketing
+      label: Email Marketing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reporting
+      label: Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false

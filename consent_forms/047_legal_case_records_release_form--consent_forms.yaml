@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_case_records_release_form
+    pages:
+    - id: 1
+      name: legal_case_records_release_form_page
+      label: legal_case_records_release_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_info
+      label: case_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_id
+      label: case_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: case_status
+      label: case_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Open
+      - Closed
+      required: false
+    - id: 6
+      name: case_type
+      label: case_type
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - Family
+      - Civil
+      - Criminal
+      required: true
+    - id: 7
+      name: case_priority
+      label: case_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: authorized_officer
+      label: authorized_officer
+      hint: null
+      type: select_one
+      options:
+      - Judge
+      - Prosecutor
+      - Defender
+      - Clerk
+      required: true
+    - id: 9
+      name: date_of_authorization
+      label: date_of_authorization
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_authorization
+      label: time_of_authorization
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: authorized_agent
+      label: authorized_agent
+      hint: null
+      type: text
+      options: []
+      required: false

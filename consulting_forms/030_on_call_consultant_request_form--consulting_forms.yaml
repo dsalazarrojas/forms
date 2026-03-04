@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: On Call Consultant Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: consultant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consultant_email
+      label: consultant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: consultant_phone
+      label: consultant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: schedule_note
+      label: schedule_note
+      hint: null
+      type: note
+      options: []
+      required: false

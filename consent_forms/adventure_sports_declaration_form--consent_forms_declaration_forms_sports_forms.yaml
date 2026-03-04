@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ADVENTURE SPORTS Declaration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will use this to send confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Preferred contact number
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Enter your age in years
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relation
+      label: Relationship to you
+      hint: e.g., Parent, Friend, Spouse
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Phone number of the emergency contact
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: section_header_sports
+      label: '--- Adventure Sports Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sport_type
+      label: Primary sport of interest
+      hint: Select one
+      type: select_one
+      options:
+      - Rock Climbing
+      - Whitewater Rafting
+      - Bungee Jumping
+      - Mountain Biking
+      - Skydiving
+      - Paragliding
+      required: true
+    - id: 12
+      name: experience_level
+      label: Experience level
+      hint: Your current skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: preferred_location
+      label: Preferred location
+      hint: e.g., Colorado Rockies, Colorado River
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time
+      label: Preferred workout time
+      hint: "e.g., 08:00 AM"
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: weekly_sessions
+      label: Workout sessions per week
+      hint: How many times per week do you plan to train?
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: fitness_level
+      label: Current fitness level
+      hint: Choose your overall fitness status
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Competitive
+      required: true
+    - id: 17
+      name: goals
+      label: Fitness goals (select all)
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Weight loss
+      - Muscle gain
+      - Endurance
+      - Flexibility
+      - Stress relief
+      - Competition prep
+      required: false
+    - id: 18
+      name: injuries
+      label: Current injuries or limitations
+      hint: Briefly describe any ongoing issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_conditions
+      label: Medical conditions
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Asthma
+      - Diabetes
+      - Heart disease
+      - Allergies
+      - None
+      required: false
+    - id: 20
+      name: medical_clearance
+      label: Medical clearance
+      hint: Have you received medical clearance to participate?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Do you agree to the liability waiver terms?
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: date_of_declaration
+      label: Date of declaration
+      hint: The date you are filling out this form
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like to provide
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_name
+      label: Signature (print name)
+      hint: Please print your full name as your signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature date
+      hint: Date of your signature
+      type: date
+      options: []
+      required: true

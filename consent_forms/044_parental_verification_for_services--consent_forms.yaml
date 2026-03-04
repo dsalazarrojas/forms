@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Verification For Services
+    pages:
+    - id: 1
+      name: guardian_info
+      label: Guardian Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: guardian_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guardian_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Service A''}'
+      - '{''value'': ''Service B''}'
+      required: true
+    - id: 9
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: guardian_notes
+      label: Guardian Notes
+      hint: null
+      type: note
+      options: []
+      required: false

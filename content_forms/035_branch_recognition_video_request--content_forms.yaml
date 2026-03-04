@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branch Recognition Video Request
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Person submitting request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: For video delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: branch_name
+      label: Branch Name
+      hint: Which branch being recognized
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_video
+      label: -- Video Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: video_purpose
+      label: Video Purpose
+      hint: What is the video for
+      type: select_one
+      options:
+      - Employee recognition
+      - Achievement celebration
+      - Milestone announcement
+      - Team highlight
+      - Training or education
+      - Promotional content
+      - Other
+      required: true
+    - id: 8
+      name: video_subject
+      label: Video Subject or Focus
+      hint: Who or what to feature
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: video_length
+      label: Desired Video Length
+      hint: Approximate duration
+      type: select_one
+      options:
+      - 30 seconds
+      - 1 minute
+      - 2-3 minutes
+      - 5 minutes
+      - 10+ minutes
+      - Flexible
+      required: true
+    - id: 10
+      name: section_header_style
+      label: -- Creative Direction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: style_preference
+      label: Video Style Preference
+      hint: Select style
+      type: select_one
+      options:
+      - Professional documentary
+      - Upbeat and energetic
+      - Emotional and heartfelt
+      - Humorous
+      - Educational
+      - Mixed/flexible
+      required: false
+    - id: 12
+      name: music_preference
+      label: Music Preference
+      hint: Background music style
+      type: select_one
+      options:
+      - Uplifting and motivational
+      - Corporate and professional
+      - Casual and modern
+      - Emotional and dramatic
+      - No music
+      - Flexible
+      required: false
+    - id: 13
+      name: section_header_content
+      label: -- Content Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: key_messages
+      label: Key Messages to Convey
+      hint: Main points for video
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: people_to_feature
+      label: People to Feature
+      hint: Names and roles of people
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_delivery
+      label: -- Delivery and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: due_date
+      label: Delivery Due Date
+      hint: When video is needed
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where video will be shared
+      type: select_multiple
+      options:
+      - Internal company portal
+      - Email
+      - Social media
+      - Website
+      - Event/presentation
+      - Video conference
+      - Multiple channels
+      required: false
+    - id: 19
+      name: section_header_notes
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: supporting_files
+      label: Attached Files or Resources
+      hint: Photos, logos, scripts
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false

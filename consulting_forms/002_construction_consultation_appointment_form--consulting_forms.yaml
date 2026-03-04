@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Consultation Appointment Form
+    pages:
+    - id: 1
+      name: section_client_information
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email used for appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Best phone number to reach the client
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_address
+      label: Project address
+      hint: Address or site location for consultation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred consultation date
+      hint: Choose a preferred date for the appointment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred consultation time
+      hint: Provide a preferred time window
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: consultation_type
+      label: Consultation type
+      hint: Select the most relevant service
+      type: select_one
+      options:
+      - Site visit
+      - Remote meeting
+      - Phone call
+      - Project review
+      required: true
+    - id: 9
+      name: brief_project_description
+      label: Brief project description
+      hint: Provide key details to help prepare for the consultation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachments_needed
+      label: Attachments needed
+      hint: List any documents to bring or upload
+      type: text
+      options: []
+      required: false

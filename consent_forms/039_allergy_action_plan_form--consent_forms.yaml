@@ -1,0 +1,321 @@
+inputSchema:
+  type: object
+  properties:
+    title: Allergy Action Plan Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: Patient First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_photo
+      label: Patient Photo
+      hint: Optional photo attachment
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: plan_date
+      label: Plan Date
+      hint: Date this plan was created
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: plan_review_date
+      label: Plan Review Date
+      hint: When to review/update
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_1_name
+      label: Parent/Guardian 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_1_phone
+      label: Parent/Guardian 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_2_name
+      label: Parent/Guardian 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_2_phone
+      label: Parent/Guardian 2 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: home_address
+      label: Home Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: physician_name
+      label: Physician Name
+      hint: Treating doctor
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: physician_email
+      label: Physician Email
+      hint: Doctor email
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_facility
+      label: Healthcare Facility
+      hint: Clinic/hospital name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specific_allergies
+      label: Specific Allergies
+      hint: List all allergies
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: allergy_triggers
+      label: Allergy Triggers
+      hint: What causes reactions?
+      type: select_multiple
+      options:
+      - Food ingestion
+      - Food contact (skin)
+      - Food airborne
+      - Insect stings
+      - Medications
+      - Latex
+      - Exercise
+      - Environmental
+      - Other
+      required: true
+    - id: 18
+      name: typical_symptoms_mild
+      label: Mild Symptoms
+      hint: What mild symptoms occur?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: typical_symptoms_severe
+      label: Severe Symptoms
+      hint: What severe symptoms occur?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: anaphylaxis_history
+      label: History of Anaphylaxis
+      hint: Has patient had anaphylaxis?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 21
+      name: prescribed_medications
+      label: Prescribed Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: epinephrine_auto_injector
+      label: Epinephrine Auto-Injector
+      hint: Type and dosage
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: epinephrine_dose
+      label: Epinephrine Dose
+      hint: Dosage amount
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: number_of_injectors
+      label: Number of Injectors Available
+      hint: How many on hand?
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: injector_locations
+      label: Injector Locations
+      hint: Where are they kept?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: antihistamine_dosage
+      label: Antihistamine Dosage
+      hint: Type and amount
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: asthma_medications
+      label: Asthma Medications
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: mild_reaction_treatment
+      label: Treatment for Mild Reactions
+      hint: What to do for mild symptoms
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: severe_reaction_treatment
+      label: Treatment for Severe Reactions
+      hint: What to do for severe symptoms
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: when_to_administer_epinephrine
+      label: When to Administer Epinephrine
+      hint: Specific instructions
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: emergency_instructions
+      label: Emergency Instructions
+      hint: What to do after epinephrine
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: call_911
+      label: Call 911 Instructions
+      hint: When to call emergency
+      type: select_one
+      options:
+      - Always call 911 after epinephrine
+      - Call if symptoms persist
+      - Call based on severity
+      required: true
+    - id: 33
+      name: emergency_contact_1
+      label: Emergency Contact 1
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_contact_2
+      label: Emergency Contact 2
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: school_workplace_instructions
+      label: School/Workplace Instructions
+      hint: Special instructions
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Foods to avoid
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: cross_contamination_concerns
+      label: Cross-Contamination Concerns
+      hint: Prevention measures
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: patient_can_self_administer
+      label: Can Patient Self-Administer?
+      hint: If age appropriate
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: false
+    - id: 39
+      name: physician_signature
+      label: Physician Signature
+      hint: Doctor authorization
+      type: select_one
+      options:
+      - I authorize this action plan
+      - Not yet signed
+      required: true
+    - id: 40
+      name: physician_signature_date
+      label: Physician Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 41
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: Parent authorization
+      type: select_one
+      options:
+      - I authorize this action plan
+      - Not yet signed
+      required: true
+    - id: 42
+      name: parent_signature_date
+      label: Parent Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

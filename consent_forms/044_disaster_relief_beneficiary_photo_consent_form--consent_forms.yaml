@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Relief Beneficiary Photo Consent Form
+    pages:
+    - id: 1
+      name: beneficiary_name
+      label: Beneficiary Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: permission_to_share
+      label: Permission to Share
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: permission_to_publish
+      label: Permission to Publish
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''On Social Media''}'
+      - '{''label'': ''On Print Media''}'
+      - '{''label'': ''On Digital Media''}'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_permission
+      label: Photo Permission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Publicly''}'
+      - '{''label'': ''Privately''}'
+      required: false
+    - id: 13
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General''}'
+      - '{''label'': ''Specific''}'
+      required: false
+    - id: 14
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false

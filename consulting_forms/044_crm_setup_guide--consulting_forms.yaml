@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Setup Guide
+    pages:
+    - id: 1
+      name: project_name
+      label: CRM Setup Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_manager
+      label: Project Manager Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: implementation_date
+      label: Planned Implementation Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: go_live_date
+      label: Planned Go-Live Date
+      hint: When system goes into production
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: crm_system_selected
+      label: CRM System Selected
+      hint: null
+      type: select_one
+      options:
+      - Salesforce
+      - HubSpot
+      - Microsoft Dynamics
+      - Pipedrive
+      - Zoho
+      - Other
+      required: true
+    - id: 9
+      name: crm_edition
+      label: CRM Edition or Plan
+      hint: Version or package level
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_size
+      label: Total CRM User Count
+      hint: How many people will use it
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: data_volume
+      label: Estimated Data Volume
+      hint: Contacts, leads, accounts etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: configuration_needs
+      label: Configuration and Setup Requirements
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Custom fields
+      - Custom objects
+      - Workflow rules
+      - Approval processes
+      - Custom reports
+      - Dashboards
+      - Process automation
+      - Multi-language support
+      required: true
+    - id: 13
+      name: integration_systems
+      label: Systems to Integrate With
+      hint: List all systems needing connection
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: data_migration_scope
+      label: Data Migration Scope
+      hint: What data needs to migrate
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: role_structure
+      label: User Role Structure
+      hint: Number and types of user roles
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: testing_approach
+      label: Testing Approach
+      hint: How will system be tested
+      type: select_one
+      options:
+      - Unit testing
+      - System testing
+      - User acceptance testing
+      - All of the above
+      required: true
+    - id: 17
+      name: training_plan
+      label: Training Plan
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - In-person training
+      - Virtual training
+      - Documentation and guides
+      - Video tutorials
+      - One-on-one coaching
+      - Train-the-trainer
+      required: true
+    - id: 18
+      name: support_plan
+      label: Post-Implementation Support Plan
+      hint: Ongoing support structure
+      type: select_one
+      options:
+      - Dedicated support team
+      - Help desk
+      - Knowledge base
+      - Vendor support
+      - Mixed approach
+      required: true
+    - id: 19
+      name: success_metrics
+      label: Success Metrics or KPIs
+      hint: How will success be measured
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_mitigation
+      label: Key Risks and Mitigation Strategies
+      hint: Potential challenges and solutions
+      type: text
+      options: []
+      required: false

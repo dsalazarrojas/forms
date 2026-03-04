@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Waiver Form Template
+    pages:
+    - id: 1
+      name: section_participant_consent
+      label: -- Participant Release and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_name_location
+      label: Event Name and Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_terms
+      label: -- Terms of Agreement --
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: age_verification_confirmation
+      label: I confirm I am of legal drinking age
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 8
+      name: consumption_responsibility
+      label: I accept full responsibility for my alcohol consumption
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 9
+      name: release_of_liability
+      label: I release the organizers from any liability related to alcohol consumption
+      hint: Includes injury, property damage, or legal consequences
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 10
+      name: driving_prohibition
+      label: I agree not to operate a motor vehicle while impaired
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 11
+      name: transportation_plan
+      label: My plan for safe transportation after the event
+      hint: null
+      type: select_one
+      options:
+      - Designated Driver
+      - Rideshare (Uber/Lyft)
+      - Public Transportation
+      - Walking
+      - Staying Overnight
+      required: true
+    - id: 12
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name_waiver
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone_waiver
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: waiver_signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: final_waiver_acceptance
+      label: I have read and fully understand this waiver and release
+      hint: null
+      type: select_one
+      options:
+      - I accept the terms
+      - Other
+      required: true

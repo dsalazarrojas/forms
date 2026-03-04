@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapel Absence Permission Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: School ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level or Year
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 5
+      name: school_name
+      label: School or Institution Name
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If student is minor
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_email
+      label: Parent Email
+      hint: Parent contact email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Parent contact phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: religious_affiliation
+      label: Religious Affiliation
+      hint: Student's faith tradition
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: absence_date
+      label: Date of Chapel Absence
+      hint: When student will be absent
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: absence_frequency
+      label: Frequency of Absence
+      hint: Is this regular or one-time
+      type: select_one
+      options:
+      - One-time
+      - Weekly
+      - Monthly
+      - Ongoing
+      required: true
+    - id: 12
+      name: absence_reason
+      label: Reason for Absence
+      hint: Why student is missing chapel
+      type: select_one
+      options:
+      - Religious Observance
+      - Medical Reason
+      - Family Emergency
+      - Alternative Worship
+      - Personal Belief
+      - Other
+      required: true
+    - id: 13
+      name: absence_reason_details
+      label: Detailed Explanation
+      hint: Further explanation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: religious_accommodation_needed
+      label: Religious Accommodation Needed
+      hint: Does student need accommodations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: accommodation_details
+      label: Accommodation Details
+      hint: What accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: alternative_activity
+      label: Alternative Activity or Service
+      hint: Will student attend different service
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_acknowledgment
+      label: Student Understanding of Absence Request
+      hint: Student understands request
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: parent_consent
+      label: Parent or Guardian Consent
+      hint: Parent approves absence
+      type: select_one
+      options:
+      - Yes, I Consent
+      - 'No'
+      required: false
+    - id: 19
+      name: chaplain_awareness
+      label: Chaplain Aware of Request
+      hint: Chaplain has been informed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 20
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Conditional
+      - Denied
+      required: true

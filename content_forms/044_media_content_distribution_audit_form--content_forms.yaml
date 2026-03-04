@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Content Distribution Audit Form
+    pages:
+    - id: 1
+      name: channel_name
+      label: Channel name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: published_at
+      label: Published at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: media_type
+      label: Media type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: media_link
+      label: Media link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: distribution_channels
+      label: Distribution channels
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Email
+      - Website
+      - Mobile app
+      - Other
+      required: false
+    - id: 8
+      name: assessment_notes
+      label: Assessment notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: effectiveness_rating
+      label: Effectiveness rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: channel_published_by
+      label: Channel published by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: published_by
+      label: Published by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_goals
+      label: Campaign goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: channel_goals
+      label: Channel goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: campaign_budget
+      label: Campaign budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: channel_budget
+      label: Channel budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: campaign_duration
+      label: Campaign duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: channel_duration
+      label: Channel duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: media_content_distribution
+      label: Media content distribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

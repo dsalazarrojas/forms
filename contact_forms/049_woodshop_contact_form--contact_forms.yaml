@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Woodshop Contact Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_form_agreement
+      label: Contact Form Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree with the terms and conditions.''}'
+      - '{''label'': ''I do not agree with the terms and conditions.''}'
+      required: true
+    - id: 12
+      name: custom_order_details
+      label: Custom Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

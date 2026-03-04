@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Testing Entry Consent Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: testing_date
+      label: Testing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: testing_time
+      label: Testing Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: testing_time_preferred
+      label: Testing Time Preferred
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: testing_notes
+      label: Testing Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_contact
+      label: Assigned Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tenant_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

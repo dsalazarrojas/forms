@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: email_signup_form
+    pages:
+    - id: 1
+      name: name
+      label: Enter your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Enter your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: confirm_email
+      label: Confirm your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: How would you like to be contacted?
+      hint: Choose an option
+      type: select_one
+      options:
+      - By Phone
+      - By Email
+      - By Mail
+      required: true
+    - id: 9
+      name: contact_preferences
+      label: Do you want to receive updates?
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Newsletters
+      - Promotions
+      - Surveys
+      required: true
+    - id: 10
+      name: agreement
+      label: I agree to terms and conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: privacy_policy
+      label: I agree to privacy policy
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: spam_policy
+      label: I agree to anti-spam policy
+      hint: null
+      type: note
+      options: []
+      required: true

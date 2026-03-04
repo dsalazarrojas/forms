@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Porcelain Slab Agreement Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - John
+      - 2 - Jane
+      required: false
+    - id: 2
+      name: slab_details
+      label: Slab Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: select_one
+      options:
+      - 1 - I agree to install the porcelain slab on 123 Main Street
+      - 2 - I disagree to install the porcelain slab on 123 Main Street
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_installed
+      label: Date Installed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: installation_notes
+      label: Installation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_acceptance_date
+      label: Customer Acceptance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: customer_acceptance_status
+      label: Customer Acceptance Status
+      hint: null
+      type: select_one
+      options:
+      - 1 - Accepted
+      - 2 - Denied
+      required: false
+    - id: 11
+      name: customer_signature_date
+      label: Customer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: installer_name
+      label: Installer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: installer_employee_id
+      label: Installer Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - 1 - Active
+      - 2 - Inactive
+      required: false
+    - id: 19
+      name: installation_notes_2
+      label: Installation Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - 1 - Paid
+      - 2 - Outstanding
+      required: false
+    - id: 25
+      name: agreement_comments
+      label: Agreement Comments
+      hint: null
+      type: text
+      options: []
+      required: false

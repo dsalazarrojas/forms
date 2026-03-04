@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Chat Health Interaction Consent Form
+    pages:
+    - id: 1
+      name: consent_section_header
+      label: '--- AI Chat Health Interaction Consent ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name exactly as it appears on official ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_age
+      label: Age
+      hint: Enter whole years
+      type: integer
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the U.S.; optional
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: We will use this to send visit summaries and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: visit_date
+      label: Date of visit / chat
+      hint: Date of the AI-assisted interaction
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: symptoms
+      label: Current symptoms (select all that apply)
+      hint: Select all symptoms relevant to your current visit
+      type: select_multiple
+      options:
+      - Fever
+      - Headache
+      - Fatigue
+      - Cough
+      - Pain
+      - Nausea
+      - Other
+      required: false
+    - id: 9
+      name: pain_level
+      label: Pain level (0-10)
+      hint: 0 = no pain, 10 = worst pain imaginable
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: current_medications
+      label: Current medications
+      hint: List medication name, dose and frequency (if known)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Known allergies
+      hint: Include drug, food, or environmental allergies; leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Relevant medical history
+      hint: Include chronic conditions, recent surgeries, or major diagnoses
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Optional; person to contact if needed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: false
+    - id: 15
+      name: ai_consent
+      label: Do you consent to an AI-assisted chat for health guidance?
+      hint: Consent allows AI to provide suggestions which will be reviewed by a clinician
+        when applicable
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I decline
+      required: true
+    - id: 16
+      name: consent_understanding
+      label: '--- Understanding ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: understanding_statement
+      label: I understand the AI may provide guidance but is not a substitute for
+        professional medical diagnosis or emergency care.
+      hint: Check consent above to proceed
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: signature_name
+      label: Signature (type full name)
+      hint: Typing your full name constitutes an electronic signature for this consent
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: consent_date
+      label: Consent date
+      hint: Date you signed this form
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: consent_time
+      label: Consent time
+      hint: Local time of signature (optional)
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: Describe any questions, clarifications, or special needs
+      type: text
+      options: []
+      required: false

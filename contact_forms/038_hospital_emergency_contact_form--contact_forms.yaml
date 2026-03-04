@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Emergency Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Enter address in address bar
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_occupation
+      label: Emergency Contact Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

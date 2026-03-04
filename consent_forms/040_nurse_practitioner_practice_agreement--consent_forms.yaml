@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Practitioner Practice Agreement
+    pages:
+    - id: 1
+      name: collaboration_details
+      label: Collaboration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_agreement
+      label: Practice Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signatures
+      label: Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

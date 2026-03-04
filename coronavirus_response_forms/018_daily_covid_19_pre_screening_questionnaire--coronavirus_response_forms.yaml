@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: DailyCovid19PreScreeningQuestionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - ShortnessOfBreath
+      - SoreThroat
+      - RunnyNose
+      - Headache
+      - Fatigue
+      - ChestPain
+      required: false
+    - id: 7
+      name: travel_history
+      label: travelhistory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_history
+      label: contacthistory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: medicalcondition
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Asthma
+      - HeartDisease
+      - Cancer
+      - LiverDisease
+      - KidneyDisease
+      required: false
+    - id: 10
+      name: previous_vaccine
+      label: previousvaccine
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: consent
+      label: consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

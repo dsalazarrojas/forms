@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: TANF Information Disclosure Form
+    pages:
+    - id: 1
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - Client consent given
+      - Client consent not given
+      required: false
+    - id: 2
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: share_information_with
+      label: Share Information With
+      hint: null
+      type: select_multiple
+      options:
+      - First Party
+      - Third Party
+      required: false
+    - id: 4
+      name: authorization_details
+      label: Authorization Details
+      hint: Briefly describe the purpose of sharing TANF information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorized_to_share_with
+      label: Authorized To Share With
+      hint: null
+      type: select_multiple
+      options:
+      - First Party
+      - Third Party
+      required: false
+    - id: 6
+      name: share_date
+      label: Share Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: Additional Information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: first_party
+      label: First Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: third_party
+      label: Third Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: purpose_of_sharing
+      label: Purpose of Sharing
+      hint: Briefly describe the purpose of sharing TANF information
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_phone_number
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: first_party_address
+      label: First Party
+      hint: null
+      type: text
+      options: []
+      required: false

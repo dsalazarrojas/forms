@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Shot Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vaccination_header
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: initial_vaccine_type
+      label: Initial vaccine received
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Other
+      required: true
+    - id: 8
+      name: first_dose_date
+      label: Date of first dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: second_dose_date
+      label: Date of second dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: booster_interest
+      label: Interested in receiving booster shot
+      hint: null
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Yes, Somewhat Interested
+      - No, Not Interested
+      - Unsure
+      required: true
+    - id: 11
+      name: reasons_header
+      label: -- Booster Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: concerns
+      label: Any concerns about booster shot
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safety Concerns
+      - Side Effects
+      - Effectiveness Questions
+      - Medical Conditions
+      - No Concerns
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Any pre-existing medical conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: condition_details
+      label: Please describe medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Any known allergies to vaccine components
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: allergy_description
+      label: Describe allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consent
+      label: I consent to receive the booster shot
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 18
+      name: appointment_date
+      label: Preferred appointment date
+      hint: null
+      type: date
+      options: []
+      required: false

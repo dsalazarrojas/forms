@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Show Auditions Sign Up Form
+    pages:
+    - id: 1
+      name: contestant_name
+      label: Contestant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: talent_type
+      label: Talent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Singing''}'
+      - '{''option2'': ''Dancing''}'
+      - '{''option3'': ''Playing Instrument''}'
+      required: false
+    - id: 5
+      name: act_length
+      label: Act Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Organizer''}'
+      - '{''option2'': ''Parent/Guardian''}'
+      - '{''option2'': ''Self''}'
+      required: false

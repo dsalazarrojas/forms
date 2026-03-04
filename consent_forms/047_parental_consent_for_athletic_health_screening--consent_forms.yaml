@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent For Athletic Health Screening
+    pages:
+    - id: 1
+      name: guardian_authorization
+      label: guardian_authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false

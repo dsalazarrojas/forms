@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: TV Series Catalog Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: show_title
+      label: Show Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_date
+      label: Release Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: genre
+      label: Genre
+      hint: null
+      type: select_one
+      options:
+      - Drama
+      - Comedy
+      - Action
+      - Romance
+      required: true
+    - id: 6
+      name: season_count
+      label: Season Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: episode_count
+      label: Episode Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Released
+      - Canceled
+      required: true
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: image_caption
+      label: Image Caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: director
+      label: Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: writer
+      label: Writer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: network
+      label: Network
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: creator
+      label: Creator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cast
+      label: Cast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: crew
+      label: Crew
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: awards
+      label: Awards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tags_list
+      label: Tags List
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 23
+      name: tags_list_other
+      label: Other Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tags_list_tag
+      label: Tag
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: tags_list_tags
+      label: Tag
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false

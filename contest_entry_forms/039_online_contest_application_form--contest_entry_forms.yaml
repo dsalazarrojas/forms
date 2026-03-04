@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Contest Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contest_type
+      label: Contest Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: contest_date
+      label: Contest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contest_time
+      label: Contest Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contest_note
+      label: Contest Note
+      hint: null
+      type: note
+      options: []
+      required: false

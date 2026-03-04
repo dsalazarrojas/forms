@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Progress Report Form
+    pages:
+    - id: 1
+      name: section_report_header
+      label: -- Report Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project name
+      hint: Project being reported on
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report date
+      hint: Date of this report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reporting_contractor
+      label: Reporting contractor
+      hint: Company submitting the progress report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_completed_summary
+      label: Work completed summary
+      hint: Brief description of activities completed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issues_and_delays
+      label: Issues and delays
+      hint: Note any current issues affecting schedule
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_incidents
+      label: Safety incidents this period
+      hint: Number or brief description of incidents
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_period_plan
+      label: Plan for next reporting period
+      hint: Key tasks planned for the next period
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: percent_complete
+      label: Percent complete
+      hint: Estimated percent complete at reporting
+      type: number
+      options: []
+      required: false

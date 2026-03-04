@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Contest Authorization Form
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contest_name
+      label: Contest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Agreement
+      - 'False'
+      required: true

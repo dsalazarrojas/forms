@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: outreach-guest-post-submission
+    pages:
+    - id: 1
+      name: title
+      label: guest-post-submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: Briefly describe the guest post.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_bio
+      label: author-bio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bio_link
+      label: author-blog
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: article_link
+      label: article-link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: categories_selected
+      label: categories
+      hint: null
+      type: select_multiple
+      options:
+      - category-one
+      - category-two
+      - category-three
+      required: true
+    - id: 9
+      name: tags
+      label: tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: draft
+      label: draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bio_image
+      label: bio-image
+      hint: null
+      type: text
+      options: []
+      required: false

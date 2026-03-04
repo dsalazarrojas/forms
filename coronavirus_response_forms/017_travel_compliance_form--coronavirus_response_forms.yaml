@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Compliance Form
+    pages:
+    - id: 1
+      name: traveler_info
+      label: Traveler Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: select_multiple
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Other
+      - Unknown
+      - Multiple
+      - All of the above
+      - None
+      required: false
+    - id: 3
+      name: travel_reason
+      label: Travel Reason
+      hint: Please specify your travel reason.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: return_location
+      label: Return Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - On a trip
+      - Not on a trip
+      - Other
+      - Unknown
+      - None
+      required: false
+    - id: 10
+      name: travel_comments
+      label: Travel Comments
+      hint: Additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_complete
+      label: Form Complete
+      hint: null
+      type: select_one
+      options:
+      - I am traveling on a trip
+      - I am not traveling on a trip
+      - Other
+      required: false
+    - id: 12
+      name: e_signature
+      label: E Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

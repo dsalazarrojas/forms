@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact The Webmaster Form 3
+    pages:
+      - id: 1
+        name: header
+        label: -- Contact the Webmaster --
+        hint: Use this form to report website issues or request updates
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inquiry_type
+        label: Inquiry type
+        hint: Select the category that best fits your request
+        type: select_one
+        options:
+          - Bug report
+          - Content update
+          - Design request
+          - Other
+        required: true
+      - id: 3
+        name: page_url
+        label: Page URL affected
+        hint: Provide the page address if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: description
+        label: Description of issue or request
+        hint: Provide details so the webmaster can reproduce or implement changes
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: browser_and_device
+        label: Browser and device used
+        hint: Helpful for debugging responsive issues
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: severity
+        label: Severity level
+        hint: How critical is the issue
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 7
+        name: screenshot_note
+        label: Attach screenshots via email
+        hint: For large images use email for attachments
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: recommended_action
+        label: Recommended action
+        hint: If you have a suggestion for a fix, specify it here
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: contact_email
+        label: Contact email
+        hint: Email so the webmaster can follow up
+        type: email
+        options: []
+        required: true
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other information for the web team
+        type: text
+        options: []
+        required: false

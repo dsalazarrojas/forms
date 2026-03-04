@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Removal Cost Estimate Form
+    pages:
+    - id: 1
+      name: tree_removal_request
+      label: Tree Removal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tree_type
+      label: Tree Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tree_height
+      label: Tree Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: stump_type
+      label: Stump Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tree_location
+      label: Tree Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: removal_date
+      label: Removal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

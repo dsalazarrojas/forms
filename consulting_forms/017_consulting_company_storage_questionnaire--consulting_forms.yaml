@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Company Storage Questionnaire
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: storage_type
+      label: Storage Type Needed
+      hint: Select your storage requirements
+      type: select_one
+      options:
+      - Document Storage
+      - Digital Data Storage
+      - Physical Inventory
+      - Equipment Storage
+      - Archive Storage
+      - Mixed Storage
+      required: true
+    - id: 10
+      name: storage_space_needed
+      label: Storage Space Needed
+      hint: Estimated space requirements
+      type: select_one
+      options:
+      - Small - Under 100 sq ft
+      - Medium - 100-500 sq ft
+      - Large - 500-1000 sq ft
+      - Extra Large - 1000-5000 sq ft
+      - Warehouse - 5000+ sq ft
+      required: true
+    - id: 11
+      name: storage_duration
+      label: Storage Duration
+      hint: How long do you need storage
+      type: select_one
+      options:
+      - Short-term - Less than 6 months
+      - Medium-term - 6-12 months
+      - Long-term - 1-3 years
+      - Permanent - 3+ years
+      - Indefinite
+      required: true
+    - id: 12
+      name: climate_controlled
+      label: Climate Control Required
+      hint: Do you need climate controlled storage
+      type: select_one
+      options:
+      - Yes, Required
+      - Preferred but Not Required
+      - Not Necessary
+      required: true
+    - id: 13
+      name: security_requirements
+      label: Security Requirements
+      hint: Select security features needed
+      type: select_multiple
+      options:
+      - 24/7 Surveillance
+      - Access Control System
+      - On-site Security
+      - Alarm System
+      - Secure Locks
+      - Background Check Access
+      - Insurance Coverage
+      required: true
+    - id: 14
+      name: access_frequency
+      label: Access Frequency
+      hint: How often will you need access
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      required: true
+    - id: 15
+      name: access_hours
+      label: Preferred Access Hours
+      hint: When do you need access
+      type: select_one
+      options:
+      - 24/7 Access
+      - Business Hours Only
+      - Extended Hours
+      - By Appointment
+      required: true
+    - id: 16
+      name: items_to_store
+      label: Items to Store
+      hint: Describe what you will be storing
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: estimated_volume
+      label: Estimated Volume
+      hint: Approximate quantity or volume
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Any special care or handling needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hazardous_materials
+      label: Will You Store Hazardous Materials
+      hint: Select if storing any hazardous items
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: insurance_needed
+      label: Storage Insurance Needed
+      hint: Do you need insurance coverage
+      type: select_one
+      options:
+      - Yes, Provide Insurance
+      - I Have My Own Insurance
+      - Not Sure
+      required: false
+    - id: 21
+      name: budget_range
+      label: Monthly Budget Range
+      hint: Select your budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,000 - $2,500
+      - $2,500 - $5,000
+      - Over $5,000
+      required: false
+    - id: 22
+      name: current_storage
+      label: Currently Using Storage
+      hint: Are you currently using storage services
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When do you need storage to begin
+      type: date
+      options: []
+      required: false

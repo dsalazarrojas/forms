@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Call Release Form
+    pages:
+    - id: 1
+      name: release_header_section
+      label: -- Release Form Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: production_title
+      label: Production Title
+      hint: Name of film, show, or project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: production_company
+      label: Production Company or Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: performer_information_section
+      label: -- Performer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: performer_name
+      label: Performer Name
+      hint: Legal or professional name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: performer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: performer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: performer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: production_details_section
+      label: -- Production Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: role_played
+      label: Role Played
+      hint: Character name or description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: filming_dates
+      label: Filming Dates
+      hint: Approximate or specific dates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: filming_locations
+      label: Filming Locations
+      hint: Where filming will take place
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rights_granted_section
+      label: -- Rights and Permissions Granted --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: likeness_rights
+      label: Grant rights to use your likeness and image
+      hint: null
+      type: select_one
+      options:
+      - Yes, I grant these rights
+      - No, I do not grant
+      required: true
+    - id: 17
+      name: voice_rights
+      label: Grant rights to use your voice
+      hint: null
+      type: select_one
+      options:
+      - Yes, I grant these rights
+      - No, I do not grant
+      required: true
+    - id: 18
+      name: performance_rights
+      label: Grant rights to use your performance
+      hint: null
+      type: select_one
+      options:
+      - Yes, I grant these rights
+      - No, I do not grant
+      required: true
+    - id: 19
+      name: distribution_section
+      label: -- Distribution and Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: distribution_types
+      label: Permitted Distribution Methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Theatrical Release
+      - Television Broadcast
+      - Streaming Services
+      - Film Festival
+      - Online Platforms
+      - DVD/Blu-Ray
+      - International Distribution
+      - Educational Use
+      required: true
+    - id: 21
+      name: compensation_section
+      label: -- Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: compensation_received
+      label: Compensation Received or Expected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: credit_section
+      label: -- Credits and Attribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: screen_credit_requested
+      label: Screen Credit Requested
+      hint: null
+      type: select_one
+      options:
+      - Yes, requested
+      - No, not needed
+      required: true
+    - id: 25
+      name: release_confirmation
+      label: I confirm I understand and agree to this release
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I do not confirm
+      required: true

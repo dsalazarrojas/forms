@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: telehealth_consent_form_colorado
+    pages:
+    - id: 1
+      name: form_title
+      label: telehealth_consent_form_colorado
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: state
+      hint: Colorado
+      type: select_one
+      options:
+      - Colorado
+      - Other
+      required: false
+    - id: 6
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - telehealth_services
+      - in-person_services
+      required: false
+    - id: 7
+      name: terms_accepted
+      label: user_terms
+      hint: null
+      type: select_one
+      options:
+      - accept
+      - decline
+      required: false
+    - id: 8
+      name: terms_agreed
+      label: terms_agreed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: user_signature
+      hint: null
+      type: text
+      options: []
+      required: false

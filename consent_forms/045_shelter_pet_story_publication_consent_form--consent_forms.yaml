@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Pet Story Publication Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media_types
+      label: Media Types
+      hint: null
+      type: select_multiple
+      options:
+      - Image
+      - Video
+      - Audio
+      required: false
+    - id: 5
+      name: media_permissions
+      label: Media Permissions
+      hint: null
+      type: select_one
+      options:
+      - Upload
+      - Publish
+      - Share
+      required: false
+    - id: 6
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: story_description
+      label: Story Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: story_story
+      label: Story
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: story_time
+      label: Story Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: story_time_end
+      label: Story Time End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: story_date
+      label: Story Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: story_date_end
+      label: Story Date End
+      hint: null
+      type: date
+      options: []
+      required: false

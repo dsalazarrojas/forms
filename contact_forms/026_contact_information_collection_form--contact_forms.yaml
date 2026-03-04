@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Collection Form
+    pages:
+    - id: 1
+      name: header_note
+      label: -- Contact Information Collection --
+      hint: Use this form to collect contact details for signup or newsletters
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: Family name or surname
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Preferred email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Include country code if outside local area
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company name
+      hint: Employer or organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: Your role at the organization
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: subscribe_newsletter
+      label: Subscribe to newsletter
+      hint: Consent to receive periodic communications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: interests
+      label: Areas of interest
+      hint: Choose topics you are interested in
+      type: select_multiple
+      options:
+      - Product updates
+      - Events
+      - Promotions
+      - Research
+      required: false
+    - id: 11
+      name: referral_source
+      label: How did you hear about us
+      hint: Optional referral source information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information you want to provide
+      type: text
+      options: []
+      required: false

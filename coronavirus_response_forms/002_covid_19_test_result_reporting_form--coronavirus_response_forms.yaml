@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Test Result Reporting Form
+    pages:
+    - id: 1
+      name: personal_info_note
+      label: -- Personal Information --
+      hint: Please provide your basic information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: In format MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your primary email for result notification
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for test result follow-up
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_student_id
+      label: Employee or Student ID Number
+      hint: Your organizational identification number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_info_note
+      label: -- Test Information --
+      hint: Details about your COVID-19 test
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: test_date
+      label: Test Date
+      hint: Date when the COVID-19 test was administered
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: test_type
+      label: Type of Test Performed
+      hint: What type of test was conducted
+      type: select_one
+      options:
+      - Rapid Antigen Test
+      - PCR Molecular Test
+      - Antibody Test
+      - At-Home Test
+      - Other
+      required: true
+    - id: 10
+      name: testing_facility
+      label: Testing Facility Name
+      hint: Name of clinic, hospital, or facility where test was done
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_address
+      label: Facility Address
+      hint: Street address of testing location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_result_note
+      label: -- Test Result --
+      hint: Report the outcome of your COVID-19 test
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: test_result
+      label: Test Result
+      hint: What was your test result
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Pending
+      required: true
+    - id: 14
+      name: result_date
+      label: Result Date
+      hint: Date when result was reported
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: symptoms_present
+      label: Were You Experiencing COVID-19 Symptoms at Time of Test
+      hint: Did you have symptoms when tested
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: symptoms_list
+      label: Symptoms Experienced
+      hint: Select any symptoms you had
+      type: select_multiple
+      options:
+      - Fever or Chills
+      - Cough
+      - Shortness of Breath
+      - Loss of Taste or Smell
+      - Fatigue or Body Aches
+      - Headache
+      - Congestion or Runny Nose
+      - Nausea or Vomiting
+      - Diarrhea
+      required: false
+    - id: 17
+      name: result_document_upload
+      label: Upload Test Result Document
+      hint: Attach a copy of your test result or test documentation
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_trace_note
+      label: -- Contact and Exposure --
+      hint: Information regarding close contacts
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: close_contacts_count
+      label: Number of Close Contacts
+      hint: How many people did you have close contact with
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: household_members_count
+      label: Number of Household Members
+      hint: How many people live in your household
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: notify_close_contacts
+      label: Have You Notified Your Close Contacts
+      hint: Have you informed exposed individuals
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 22
+      name: follow_up_note
+      label: -- Follow-Up Information --
+      hint: Additional details for our records
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_notes
+      label: Additional Medical Notes
+      hint: Any relevant medical information or concerns
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Reading Broadcast Consent Form
+    pages:
+    - id: 1
+      name: script_reading_broadcast_consent_form_1
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_contact
+      label: User Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: script_id
+      label: Script ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: script_title
+      label: Script Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: broadcast_permission
+      label: Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: broadcast_method
+      label: Broadcast Method
+      hint: null
+      type: select_one
+      options:
+      - Radio
+      - Live
+      - Live with Video
+      required: false
+    - id: 9
+      name: start_date_time
+      label: Start Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date_time
+      label: End Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool_version
+      label: Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: script_reading_id
+      label: Script Reading ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: script_reading_title
+      label: Script Reading Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: script_reading_note
+      label: Script Reading Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: script_reading_method
+      label: Script Reading Method
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: script_reading_broadcast_permission
+      label: Broadcast
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: script_reading_start_date
+      label: Start Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: script_reading_end_date
+      label: End Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: script_reading_consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

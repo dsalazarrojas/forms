@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agent Survey
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenge_faced
+      label: Challenges Faced
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: affected_business
+      label: Affected Business
+      hint: null
+      type: select_one
+      options:
+      - Agency Name
+      - Number of Employees
+      - Revenue
+      - Other
+      required: false
+    - id: 7
+      name: affected_sector
+      label: Affected Sector
+      hint: null
+      type: select_one
+      options:
+      - Airline
+      - Hotel
+      - Tour Company
+      - Other
+      required: false
+    - id: 8
+      name: affected_duration
+      label: Affected Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 4-6 weeks
+      - More than 6 weeks
+      required: false
+    - id: 9
+      name: affected_date
+      label: Affected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: prophets
+      label: Prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: affected_amount
+      label: Affected Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: affected_percentage
+      label: Affected Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_employees
+      label: Total Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: affected_employees
+      label: Affected Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: revenue_loss
+      label: Revenue Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: affected_revenue_loss
+      label: Affected Revenue Loss
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: affected_revenue_loss_percentage
+      label: Affected Revenue Loss Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: affected_financial_impact
+      label: Affected Financial Impact
+      hint: null
+      type: select_one
+      options:
+      - No Impact
+      - Minor
+      - Moderate
+      - Significant
+      required: false
+    - id: 19
+      name: affected_financial_loss
+      label: Affected Financial Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: affected_financial_loss_percentage
+      label: Affected Financial Loss Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: affected_travel_agencies
+      label: Affected Travel Agencies
+      hint: null
+      type: select_multiple
+      options:
+      - Airline
+      - Tour Operator
+      - Travel Agency
+      - Hotel
+      - Other
+      required: false
+    - id: 22
+      name: affected_financial_loss_description
+      label: Affected Financial Loss Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: affected_financial_recovery
+      label: Affected Financial Recovery
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Partial
+      - Full
+      required: false
+    - id: 24
+      name: affected_financial_recovery_description
+      label: Affected Financial Recovery Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: affected_financial_recovery_amount
+      label: Affected Financial Recovery Amount
+      hint: null
+      type: number
+      options: []
+      required: false

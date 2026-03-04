@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Document Authorization Form
+    pages:
+    - id: 1
+      name: travel_document_authorization_form
+      label: Travel Document Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_phone_number
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: minor_dob
+      label: Minor DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_documents
+      label: Travel Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: authorized_documents
+      label: Authorized Documents
+      hint: null
+      type: select_multiple
+      options:
+      - ID Number
+      - Passport
+      - Visa
+      - Other
+      required: false
+    - id: 8
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 10
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false

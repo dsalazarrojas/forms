@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Review Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_organization
+      label: Customer Organization
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: sales_representative_name
+      label: Sales Representative Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sales_representative_email
+      label: Sales Representative Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: sales_representative_phone
+      label: Sales Representative Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contract_type
+      label: Contract Type
+      hint: Type of agreement
+      type: select_one
+      options:
+      - Service agreement
+      - Product purchase
+      - Subscription
+      - Licensing
+      - Partnership
+      - Other
+      required: true
+    - id: 11
+      name: contract_title
+      label: Contract Title
+      hint: Name of contract
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contract_description
+      label: Contract Description
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contract_value
+      label: Contract Value
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contract_duration
+      label: Contract Duration
+      hint: Length of agreement
+      type: select_one
+      options:
+      - One-time
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: true
+    - id: 15
+      name: start_date
+      label: Start Date
+      hint: When to begin?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: End Date
+      hint: When to end?
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payment work?
+      type: select_one
+      options:
+      - Upfront payment
+      - Net 15
+      - Net 30
+      - Net 60
+      - Installments
+      - Milestone-based
+      required: true
+    - id: 18
+      name: deliverables
+      label: Deliverables
+      hint: What will be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any unique needs?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_expectations
+      label: Customer Expectations
+      hint: What does customer expect?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: review_status
+      label: Review Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending review
+      - In review
+      - Approved
+      - Requires revision
+      - Denied
+      required: true
+    - id: 22
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to follow up?
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

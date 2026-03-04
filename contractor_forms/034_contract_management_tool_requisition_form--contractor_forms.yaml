@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Management Tool Requisition Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Legal
+      - Procurement
+      - Operations
+      - Finance
+      - IT
+      - Sales
+      - Human Resources
+      - Executive
+      - Other
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tool_name
+      label: Tool Name
+      hint: Name of software or tool
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tool_vendor
+      label: Tool Vendor
+      hint: Company providing the tool
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tool_category
+      label: Tool Category
+      hint: Type of tool
+      type: select_one
+      options:
+      - Contract lifecycle management
+      - Document management
+      - E-signature platform
+      - Compliance tracking
+      - Analytics and reporting
+      - Collaboration tool
+      - Storage solution
+      - Other
+      required: true
+    - id: 8
+      name: business_justification
+      label: Business Justification
+      hint: Why is this needed?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_process
+      label: Current Process
+      hint: How do you manage now?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pain_points
+      label: Pain Points
+      hint: What problems will this solve?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What improvements expected?
+      type: select_multiple
+      options:
+      - Time savings
+      - Cost reduction
+      - Better compliance
+      - Improved tracking
+      - Enhanced collaboration
+      - Reduced errors
+      - Better reporting
+      - Risk mitigation
+      required: true
+    - id: 12
+      name: number_of_users
+      label: Number of Users
+      hint: How many will use it?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: user_types
+      label: User Types
+      hint: Who will use it?
+      type: select_multiple
+      options:
+      - Legal team
+      - Procurement team
+      - Management
+      - Contractors
+      - Vendors
+      - All employees
+      - Specific departments
+      required: true
+    - id: 14
+      name: licensing_model
+      label: Licensing Model
+      hint: Type of license
+      type: select_one
+      options:
+      - Per user
+      - Per organization
+      - Tiered pricing
+      - Enterprise
+      - Unsure
+      required: false
+    - id: 15
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Annual cost
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: budget_code
+      label: Budget Code
+      hint: Cost center
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: funding_source
+      label: Funding Source
+      hint: Where is funding from?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: How long to deploy?
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 19
+      name: integration_requirements
+      label: Integration Requirements
+      hint: What systems to integrate?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: security_requirements
+      label: Security Requirements
+      hint: Any security needs?
+      type: select_multiple
+      options:
+      - SSO integration
+      - Two-factor authentication
+      - Data encryption
+      - Role-based access
+      - Audit logging
+      - Compliance certification
+      - Data residency
+      required: true
+    - id: 21
+      name: it_approval_status
+      label: IT Approval Status
+      hint: Has IT reviewed?
+      type: select_one
+      options:
+      - Approved
+      - Pending review
+      - Not yet submitted
+      - Not required
+      required: true
+    - id: 22
+      name: legal_approval_status
+      label: Legal Approval Status
+      hint: Has legal reviewed?
+      type: select_one
+      options:
+      - Approved
+      - Pending review
+      - Not yet submitted
+      - Not required
+      required: true
+    - id: 23
+      name: priority_level
+      label: Priority Level
+      hint: How urgent?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 24
+      name: requested_start_date
+      label: Requested Start Date
+      hint: When to begin?
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Worker Liability Waiver Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_hire_agreement
+      label: New Hire Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''I have read and agree to the terms and conditions''}'
+      - '{''value'': ''I have not read and do not agree to the terms and conditions''}'
+      required: false
+    - id: 3
+      name: employer_liability
+      label: Employer Liability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_liability
+      label: Employee Liability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Self-Inflicted''}'
+      - '{''value'': ''Others''}'
+      required: false
+    - id: 5
+      name: waiver
+      label: Waiver
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Signature''}'
+      - '{''value'': ''No Signature''}'
+      required: false
+    - id: 11
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''I understand the terms and conditions''}'
+      - '{''value'': ''I do not understand the terms and conditions''}'
+      required: false
+    - id: 12
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_status
+      label: Job Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: date_sent
+      label: Date Sent
+      hint: null
+      type: date
+      options: []
+      required: false

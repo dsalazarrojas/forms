@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tooth Whitening Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dental_health
+      label: Dental Health
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''healthy'', ''value'': ''Healthy''}'
+      - '{''id'': 2, ''name'': ''unhealthy'', ''value'': ''Unhealthy''}'
+      required: true
+    - id: 3
+      name: question1
+      label: Have you had any previous dental work?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: question2
+      label: Do you have a history of dental issues?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 5
+      name: question3
+      label: Have you experienced any gum problems?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: waiver
+      label: Waiver and Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''sign'', ''value'': ''Sign''}'
+      - '{''id'': 2, ''name'': ''decline'', ''value'': ''Decline''}'
+      required: true
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waiver_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: waiver_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

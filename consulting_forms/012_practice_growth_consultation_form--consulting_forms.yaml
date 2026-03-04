@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practice Growth Consultation Form
+    pages:
+    - id: 1
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_goals
+      label: Practice Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consultation_schedule
+      label: Consultation Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consultant_info
+      label: Consultant Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''label'': ''Consultant 1''}'
+      - '{''id'': 11, ''label'': ''Consultant 2''}'
+      required: true
+    - id: 5
+      name: practice_info
+      label: Practice Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''label'': ''Practice 1''}'
+      - '{''id'': 21, ''label'': ''Practice 2''}'
+      required: true
+    - id: 6
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: lead_phone
+      label: Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false

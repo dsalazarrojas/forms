@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freelance Editor Agreement Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_terms
+      label: Project Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Done''}'
+      - '{''value'': ''Cancelled''}'
+      required: true
+    - id: 7
+      name: freelancer_info
+      label: Freelancer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hourly''}'
+      - '{''value'': ''Fixed''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_email
+      label: Client E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: freelancer_rate
+      label: Freelancer Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: true
+    - id: 18
+      name: client_review
+      label: Client Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: freelancer_signature
+      label: Freelancer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: project_status_change
+      label: Project Status Change
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Done''}'
+      - '{''value'': ''Cancelled''}'
+      required: true
+    - id: 22
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Website''}'
+      - '{''value'': ''Blog''}'
+      - '{''value'': ''E-book''}'
+      required: true
+    - id: 23
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contract_expiration
+      label: Contract Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: contract_start
+      label: Contract Start
+      hint: null
+      type: date
+      options: []
+      required: false

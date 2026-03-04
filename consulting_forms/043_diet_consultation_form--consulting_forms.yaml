@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diet Consultation Form
+    pages:
+    - id: 1
+      name: diet_consultation_form
+      label: diet_consultation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height_units
+      label: height_units
+      hint: null
+      type: select_one
+      options:
+      - ft
+      - in
+      - cm
+      - m
+      required: false
+    - id: 5
+      name: blood_pressure
+      label: blood_pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pulse
+      label: pulse
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions_other
+      label: other_medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_history
+      label: family_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_tests
+      label: medical_tests
+      hint: null
+      type: select_multiple
+      options:
+      - test1
+      - test2
+      - test3
+      required: false
+    - id: 13
+      name: medical_tests_other
+      label: other_medical_tests
+      hint: null
+      type: select_multiple
+      options:
+      - test4
+      - test5
+      required: false
+    - id: 14
+      name: diet_preferences
+      label: diet_preferences
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: diet_restrictions
+      label: diet_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

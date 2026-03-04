@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Futsal Registration Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Tournament
+      - Friendly
+      - League
+      - Practice
+      required: false

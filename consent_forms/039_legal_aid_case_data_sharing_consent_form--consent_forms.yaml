@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Aid Case Data Sharing Consent Form
+    pages:
+    - id: 1
+      name: legal_aid_case_data_sharing_consent_form
+      label: Legal Aid Case Data Sharing Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: selected_parties
+      label: Selected Parties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sharing_method
+      label: Sharing Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: share_with
+      label: Share With
+      hint: Enter the names and titles of the parties you want to share the legal
+        aid case information with.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: share_with_multiple
+      label: Share With Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_sharing_began
+      label: Date Sharing Began
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: date_sharing_ends
+      label: Date Sharing Ends
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consent
+      label: I understand that sharing this information may expose me to harm, risk,
+        or liability.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false

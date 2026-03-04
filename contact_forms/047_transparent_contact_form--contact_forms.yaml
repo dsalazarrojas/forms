@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transparent Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: music_type
+      label: Music Type
+      hint: null
+      type: select_one
+      options:
+      - Classical
+      - Jazz
+      - Pop
+      - Rock
+      required: false
+    - id: 7
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Message Form
+      required: false
+    - id: 8
+      name: date_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: background_color
+      label: Background Color
+      hint: null
+      type: select_one
+      options:
+      - Transparent
+      - Solid
+      - Gradient
+      - Pattern
+      required: false
+    - id: 13
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Dark
+      - Custom
+      required: false
+    - id: 14
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - Arial
+      - Times New Roman
+      - Courier
+      required: false
+    - id: 15
+      name: font_size
+      label: Font Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 16
+      name: submit_button_text
+      label: Submit Button Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submit_button_color
+      label: Submit Button Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 18
+      name: submit_button_background
+      label: Submit Button Background
+      hint: null
+      type: select_one
+      options:
+      - Translucent
+      - Solid
+      - Gradient
+      required: false
+    - id: 19
+      name: animation
+      label: Animation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Fade In
+      - Fade Out
+      - Rotate
+      required: false
+    - id: 20
+      name: animation_speed
+      label: Animation Speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: animation_repeat
+      label: Animation Repeat
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Repeatedly
+      - Until Submission
+      required: false
+    - id: 22
+      name: background_image
+      label: Background Image
+      hint: null
+      type: select_one
+      options:
+      - No Image
+      - Image
+      - Video
+      required: false
+    - id: 23
+      name: background_repeat
+      label: Background Repeat
+      hint: null
+      type: select_one
+      options:
+      - No Repeat
+      - Repeat
+      required: false
+    - id: 24
+      name: background_transparency
+      label: Background Transparency
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '50'
+      - '100'
+      required: false
+    - id: 25
+      name: background_repeat_style
+      label: Background Repeat Style
+      hint: null
+      type: select_one
+      options:
+      - No Repeat
+      - Repeat X
+      - Repeat All
+      required: false

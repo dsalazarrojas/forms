@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Consulting Efficiency Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultant_title
+      label: Consultant Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      - Outcome 4
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true
+    - id: 9
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: consultant_satisfaction
+      label: Consultant Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,323 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Release Form
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: Date of release
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: Full name of author
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Author Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_phone
+      label: Author Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: author_address
+      label: Author Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: article_title
+      label: Article Title
+      hint: Title of the article
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: article_description
+      label: Article Description
+      hint: Brief description of article content
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: article_word_count
+      label: Article Word Count
+      hint: Approximate word count
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: publication_name
+      label: Publication Name
+      hint: Name of publication or platform
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: publisher_name
+      label: Publisher Name
+      hint: Name of publisher or editor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: release_type
+      label: Release Type
+      hint: Type of release
+      type: select_one
+      options:
+      - First Publication Rights
+      - One-Time Publication
+      - Non-Exclusive License
+      - Exclusive License
+      - Work for Hire
+      - Full Copyright Transfer
+      required: true
+    - id: 12
+      name: territory
+      label: Territory
+      hint: Geographic territory for publication
+      type: select_one
+      options:
+      - Worldwide
+      - North America
+      - United States Only
+      - Europe
+      - United Kingdom
+      - Other
+      required: true
+    - id: 13
+      name: language_rights
+      label: Language Rights
+      hint: Languages covered by this release
+      type: select_one
+      options:
+      - English Only
+      - All Languages
+      - English and Spanish
+      - English and French
+      - Other
+      required: true
+    - id: 14
+      name: duration
+      label: Duration
+      hint: How long does this release last
+      type: select_one
+      options:
+      - Perpetual
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - 10 Years
+      - Until Withdrawn
+      required: true
+    - id: 15
+      name: compensation_type
+      label: Compensation Type
+      hint: Type of compensation
+      type: select_one
+      options:
+      - One-Time Payment
+      - Royalty Based
+      - Exposure Only
+      - Contributor Copy
+      - Volunteer
+      - Other
+      required: true
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: Payment amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: royalty_percentage
+      label: Royalty Percentage
+      hint: Royalty percentage if applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: byline_credit
+      label: Byline Credit
+      hint: How should you be credited
+      type: select_one
+      options:
+      - Full Name
+      - Pen Name
+      - Initials Only
+      - Anonymous
+      - No Credit Required
+      required: true
+    - id: 19
+      name: credit_format
+      label: Credit Format
+      hint: Preferred credit format
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: moral_rights
+      label: Moral Rights
+      hint: Are you retaining moral rights
+      type: select_one
+      options:
+      - Yes - Retaining Moral Rights
+      - No - Waiving Moral Rights
+      required: true
+    - id: 21
+      name: editing_rights
+      label: Editing Rights
+      hint: Can the publisher edit your work
+      type: select_one
+      options:
+      - Yes - Full Editing Rights
+      - Yes - With Author Approval
+      - Yes - Minor Edits Only
+      - No - No Changes Allowed
+      required: true
+    - id: 22
+      name: derivative_works
+      label: Derivative Works
+      hint: Can derivative works be created
+      type: select_one
+      options:
+      - true
+      - false
+      - With Permission Only
+      required: true
+    - id: 23
+      name: digital_rights
+      label: Digital Rights
+      hint: Are digital rights included
+      type: select_one
+      options:
+      - Yes - Included
+      - No - Separate Agreement
+      - Website Only
+      - Social Media Only
+      required: true
+    - id: 24
+      name: reprint_rights
+      label: Reprint Rights
+      hint: Can the article be reprinted
+      type: select_one
+      options:
+      - Yes - Unlimited
+      - Yes - With Permission
+      - No - One Time Only
+      - Yes - After Specific Period
+      required: true
+    - id: 25
+      name: syndication_rights
+      label: Syndication Rights
+      hint: Are syndication rights included
+      type: select_one
+      options:
+      - true
+      - false
+      - With Additional Compensation
+      required: true
+    - id: 26
+      name: withdrawal_terms
+      label: Withdrawal Terms
+      hint: Can you withdraw this release
+      type: select_one
+      options:
+      - Yes - With Written Notice
+      - Yes - After Specific Period
+      - No - Release is Final
+      - Case by Case
+      required: true
+    - id: 27
+      name: original_work
+      label: Original Work
+      hint: I certify this is my original work
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true
+    - id: 28
+      name: not_previously_published
+      label: Not Previously Published
+      hint: Has this work been published before
+      type: select_one
+      options:
+      - Yes - Previously Published
+      - No - First Publication
+      required: true
+    - id: 29
+      name: previous_publication_details
+      label: Previous Publication Details
+      hint: Where was it previously published
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: no_infringement
+      label: No Infringement
+      hint: I certify this does not infringe on others rights
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true
+    - id: 31
+      name: indemnification
+      label: Indemnification
+      hint: I agree to indemnify against claims
+      type: select_one
+      options:
+      - Yes - I Agree
+      - false
+      required: true
+    - id: 32
+      name: additional_terms
+      label: Additional Terms
+      hint: Any additional terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: author_signature
+      label: Author Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if required
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature
+      type: text
+      options: []
+      required: false

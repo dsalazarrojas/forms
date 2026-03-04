@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Consultation Form
+    pages:
+    - id: 1
+      name: fashion_consultation_form
+      label: fashionConsultationForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: firstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: lastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_visit
+      label: dateOfVisit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_visit
+      label: timeOfVisit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: consultation_type
+      label: consultationType
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Wardrobe'', ''label'': ''Wardrobe''}'
+      - '{''value'': ''Styling'', ''label'': ''Styling''}'
+      - '{''value'': ''Personalized Fashion Advice'', ''label'': ''Personalized Fashion
+        Advice''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: style_preferences
+      label: stylePreferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fashionable'', ''label'': ''Fashionable''}'
+      - '{''value'': ''Elegant'', ''label'': ''Elegant''}'
+      - '{''value'': ''Trendy'', ''label'': ''Trendy''}'
+      - '{''value'': ''Classic'', ''label'': ''Classic''}'
+      - '{''value'': ''Quirky'', ''label'': ''Quirky''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: color_preferences
+      label: colorPreferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Black'', ''label'': ''Black''}'
+      - '{''value'': ''White'', ''label'': ''White''}'
+      - '{''value'': ''Red'', ''label'': ''Red''}'
+      - '{''value'': ''Blue'', ''label'': ''Blue''}'
+      - '{''value'': ''Green'', ''label'': ''Green''}'
+      - '{''value'': ''Yellow'', ''label'': ''Yellow''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: clothing_size
+      label: clothingSize
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''2-4'', ''label'': ''2-4''}'
+      - '{''value'': ''6-8'', ''label'': ''6-8''}'
+      - '{''value'': ''10-12'', ''label'': ''10-12''}'
+      - '{''value'': ''14-16'', ''label'': ''14-16''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: available_days
+      label: availableDays
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monday'', ''label'': ''Monday''}'
+      - '{''value'': ''Tuesday'', ''label'': ''Tuesday''}'
+      - '{''value'': ''Wednesday'', ''label'': ''Wednesday''}'
+      - '{''value'': ''Thursday'', ''label'': ''Thursday''}'
+      - '{''value'': ''Friday'', ''label'': ''Friday''}'
+      - '{''value'': ''Saturday'', ''label'': ''Saturday''}'
+      - '{''value'': ''Sunday'', ''label'': ''Sunday''}'
+      required: false
+    - id: 15
+      name: time_of_visit_duration
+      label: timeOfVisitDuration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_method
+      label: preferredContactMethod
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Mail'', ''label'': ''Mail''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false

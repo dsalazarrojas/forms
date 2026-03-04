@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Vaccination Consent Form
+    pages:
+    - id: 1
+      name: pet_vaccination_benefits
+      label: Pet Vaccination Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_vaccination_risks
+      label: Pet Vaccination Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent_to_vaccination
+      label: Consent to Vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vaccination_type
+      label: Type of Vaccination
+      hint: null
+      type: select_one
+      options:
+      - Rabies
+      - Flu
+      - Parvo
+      required: false
+    - id: 5
+      name: vaccination_frequency
+      label: Frequency of Vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - One-time
+      - Recurring
+      required: false
+    - id: 6
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinarian_contact
+      label: Veterinarian Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: veterinarian_signature
+      label: Veterinarian Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

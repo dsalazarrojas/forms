@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavation Safety Checklist
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: site_description
+      label: site_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_concerns
+      label: safety_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: precautions
+      label: precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_used
+      label: equipment_used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false

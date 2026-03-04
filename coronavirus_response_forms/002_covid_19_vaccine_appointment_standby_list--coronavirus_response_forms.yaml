@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Appointment Standby List
+    pages:
+    - id: 1
+      name: header_info
+      label: -- Vaccine Standby List Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will use this to contact you about availability
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_vaccine
+      label: Preferred Vaccine Type (if any)
+      hint: Leave blank if no preference
+      type: select_one
+      options:
+      - No preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson and Johnson
+      - Other
+      required: false
+    - id: 9
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-5PM)
+      - Evening (5PM-8PM)
+      - No preference
+      required: false
+    - id: 10
+      name: availability_flexibility
+      label: How flexible are you with appointment dates?
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Limited availability
+      required: true
+    - id: 11
+      name: accessibility_needs
+      label: Do you have any accessibility needs?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Wheelchair accessibility
+      - Interpreter needed
+      - Other
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Information or Preferences
+      hint: Optional field for any other details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirmation
+      label: I wish to be added to the standby list
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

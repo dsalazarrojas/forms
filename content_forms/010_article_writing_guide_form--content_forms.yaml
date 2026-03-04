@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Article Writing Guide Form
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Project Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: writer_name
+        label: Writer Name
+        hint: Name of the content creator
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: writer_email
+        label: Writer Email
+        hint: Primary contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: assignment_date
+        label: Assignment Date
+        hint: When was this article assigned?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: deadline_date
+        label: Deadline Date
+        hint: When is the article due?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_2
+        label: -- Article Brief --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: article_title
+        label: Article Title
+        hint: Proposed or confirmed title
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target Audience
+        hint: Who is this article written for?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: article_purpose
+        label: Purpose of the Article
+        hint: What should this article accomplish?
+        type: select_one
+        options:
+          - Inform/Educate
+          - Persuade/Advocate
+          - Entertain
+          - Instruct/How-to
+          - Report/News
+          - Analysis/Opinion
+          - Promotional
+        required: true
+      - id: 10
+        name: main_topic
+        label: Main Topic or Thesis
+        hint: Core idea or argument
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_header_3
+        label: -- Content Direction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: key_points
+        label: Key Points to Cover
+        hint: List main ideas to include (comma-separated)
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: tone_style
+        label: Tone and Style
+        hint: Describe the desired tone
+        type: select_one
+        options:
+          - Formal and Academic
+          - Professional and Business
+          - Conversational and Friendly
+          - Humorous and Casual
+          - Technical and Detailed
+          - Inspirational
+        required: true
+      - id: 14
+        name: length_guidelines
+        label: Word Count Target
+        hint: Desired length of the article
+        type: select_one
+        options:
+          - 500-1000 words
+          - 1000-1500 words
+          - 1500-2000 words
+          - 2000-3000 words
+          - 3000+ words
+          - Flexible
+        required: true
+      - id: 15
+        name: research_requirements
+        label: Research Requirements
+        hint: What research or sources should be used?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_header_4
+        label: -- Format and Structure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: required_sections
+        label: Required Sections or Headings
+        hint: What sections must be included?
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: visual_elements
+        label: Include Visual Elements?
+        hint: Should images, charts, or graphics be included?
+        type: select_one
+        options:
+          - Yes, images required
+          - Yes, suggested but not required
+          - No visuals needed
+        required: false
+      - id: 19
+        name: citation_style
+        label: Citation Style Required
+        hint: Which format for references?
+        type: select_one
+        options:
+          - APA
+          - MLA
+          - Chicago
+          - Harvard
+          - IEEE
+          - None
+        required: false
+      - id: 20
+        name: section_header_5
+        label: -- Additional Guidelines --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: seo_keywords
+        label: SEO Keywords or Focus Terms
+        hint: Primary keywords to target
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: brand_guidelines
+        label: Brand or Style Guide to Follow
+        hint: Link to or describe brand guidelines
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: reference_materials
+        label: Reference Materials or Examples
+        hint: Links to articles to emulate or avoid
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: special_instructions
+        label: Special Instructions or Notes
+        hint: Any additional requirements or preferences
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: editor_contact
+        label: Editor Contact Name
+        hint: Who should the writer contact with questions?
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Telemedicine Consent Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: patient information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature_1
+      label: signature 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: signature_2
+      label: signature 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: signature
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature_time
+      label: signature time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: patient_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_version
+      label: version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_provider
+      label: provider
+      hint: null
+      type: text
+      options: []
+      required: false

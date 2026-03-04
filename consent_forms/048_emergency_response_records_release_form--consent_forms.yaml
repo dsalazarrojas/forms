@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Response Records Release Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_response
+      label: Emergency Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false

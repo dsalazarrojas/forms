@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anthology Submission Application Form
+    pages:
+    - id: 1
+      name: section_author_information
+      label: -- Author Information --
+      hint: Provide details for submission tracking
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_name
+      label: Author full name
+      hint: As you wish it to appear in the anthology
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Contact email
+      hint: Used for submission correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submission_title
+      label: Submission title
+      hint: Title of the piece being submitted
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission_type
+      label: Type of submission
+      hint: Choose the appropriate category
+      type: select_one
+      options:
+        - Poem
+        - Short story
+        - Essay
+        - Artwork
+        - Other
+      required: true
+    - id: 6
+      name: cover_letter
+      label: Cover letter or notes
+      hint: Optional message to editors
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age_confirmation
+      label: Confirm age if required by submission guidelines
+      hint: Authors under certain ages may need permission
+      type: select_one
+      options:
+        - Over 18
+        - Under 18 with guardian consent
+      required: false
+    - id: 8
+      name: file_link_or_text
+      label: Upload file or paste text link
+      hint: Provide a link to the manuscript or paste text
+      type: text
+      options: []
+      required: true

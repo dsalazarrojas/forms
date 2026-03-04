@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Borehole Drilling Service Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Company or individual requesting service
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_contact_email
+      label: Client contact email
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: project_site_address
+      label: Project site address
+      hint: Full address of drilling location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scope_of_work
+      label: Scope of work summary
+      hint: Describe drilling scope and deliverables
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Expected start date
+      hint: Anticipated project start date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: estimated_duration_days
+      label: Estimated duration days
+      hint: Number of calendar days expected
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment terms
+      hint: Brief payment and invoicing terms
+      type: select_one
+      options:
+      - Net 30
+      - Net 14
+      - Due on receipt
+      required: true
+    - id: 8
+      name: safety_requirements
+      label: Safety requirements
+      hint: Any site safety protocols or PPE
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: acceptance_signature_email
+      label: Acceptance signature email
+      hint: Email to confirm agreement acceptance
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: additional_terms
+      label: Additional terms
+      hint: Any other contractual notes
+      type: text
+      options: []
+      required: false

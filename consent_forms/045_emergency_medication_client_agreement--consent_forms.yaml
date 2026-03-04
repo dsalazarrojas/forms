@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Medication Client Agreement
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: medication_administration_location
+      label: Medication Administration Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reason_for_administration
+      label: Reason for Administration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dosage_instructions
+      label: Dosage Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: administration_frequency
+      label: Administration Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: administration_route
+      label: Administration Route
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_medication_policy
+      label: Emergency Medication Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_permission
+      label: Emergency Contact Permission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: signature_name
+      label: Signature Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: printed_name
+      label: Printed Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: printed_date
+      label: Printed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: printed_time
+      label: Printed Time
+      hint: null
+      type: time
+      options: []
+      required: true

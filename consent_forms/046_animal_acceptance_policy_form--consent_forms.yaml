@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Acceptance Policy Form
+    pages:
+    - id: 1
+      name: section_policy_header
+      label: -- Animal Acceptance Policy and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_owner_name
+      label: Pet Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: animal_type
+      label: Type of Animal
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Reptile
+      - Small Mammal
+      - Other
+      required: true
+    - id: 5
+      name: section_policy_terms
+      label: -- Policy Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_info
+      label: Animals must be up to date on all core vaccinations.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_status_confirmation
+      label: Is your pet currently up to date on all vaccinations?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Up to date
+      - No - Needs update
+      required: true
+    - id: 8
+      name: liability_info
+      label: I agree to be financially responsible for any damage or injury caused by my animal.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: liability_agreement
+      label: Do you agree to the liability terms?
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 10
+      name: restraint_policy_info
+      label: Animals must be on a leash or in a carrier at all times in common areas.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: restraint_policy_acknowledgment
+      label: Do you acknowledge the restraint policy?
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 12
+      name: section_consent
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: final_consent_to_policy
+      label: Final Consent to Animal Acceptance Policy
+      hint: null
+      type: select_one
+      options:
+      - I Consent to all Terms
+      - I Do Not Consent
+      required: true
+    - id: 14
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: digital_signature
+      label: Digital Signature
+      hint: Type your full name to sign
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Label Redesign Challenge Registration
+    pages:
+    - id: 1
+      name: section_header_contestant
+      label: -- Contestant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact for challenge communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_professional
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: profession
+      label: Your Profession or Main Role
+      hint: What is your professional background?
+      type: select_one
+      options:
+      - Graphic designer
+      - Artist
+      - Student
+      - Marketing professional
+      - Package designer
+      - Other creative professional
+      - Hobbyist
+      required: true
+    - id: 8
+      name: experience_years
+      label: Years of Design Experience
+      hint: Approximate professional experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      - No professional experience
+      required: true
+    - id: 9
+      name: company_affiliation
+      label: Company or Organization (if applicable)
+      hint: Your employer or agency name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: portfolio_website
+      label: Portfolio Website or Link
+      hint: URL to your design portfolio
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_beverage
+      label: -- Beverage Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: beverage_category
+      label: Which Beverage Category Are You Redesigning
+      hint: Select the type of beverage
+      type: select_one
+      options:
+      - Soft drink
+      - Energy drink
+      - Juice or smoothie
+      - Water or sports drink
+      - Coffee or tea
+      - Alcoholic beverage
+      - Other
+      required: true
+    - id: 13
+      name: target_beverage_name
+      label: Specific Beverage Name or Brand
+      hint: What existing or new beverage are you designing for?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_demographic
+      label: Target Demographic
+      hint: Who is your label designed for?
+      type: select_multiple
+      options:
+      - Children
+      - Teens
+      - Young adults
+      - Adults
+      - Health-conscious consumers
+      - Eco-conscious consumers
+      - All ages
+      required: true
+    - id: 15
+      name: section_header_concept
+      label: -- Design Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: design_concept
+      label: Briefly Describe Your Design Concept
+      hint: What inspired your label design?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: key_features
+      label: Key Design Features
+      hint: What makes your design unique?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: color_palette
+      label: Primary Colors Used
+      hint: List main colors in your design
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sustainability_focus
+      label: Does Your Design Emphasize Sustainability
+      hint: null
+      type: select_one
+      options:
+      - Yes, eco-friendly materials
+      - Yes, sustainable messaging
+      - Somewhat
+      - false
+      required: false
+    - id: 20
+      name: section_header_submission
+      label: -- Design Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: design_software
+      label: What Software Did You Use
+      hint: Adobe, Canva, other?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: file_format
+      label: Design File Format
+      hint: What format is your design in?
+      type: select_one
+      options:
+      - PDF
+      - AI or EPS
+      - PSD
+      - PNG
+      - JPG
+      - Other
+      required: true
+    - id: 23
+      name: high_resolution
+      label: Is This a High-Resolution Design
+      hint: Suitable for professional printing?
+      type: select_one
+      options:
+      - Yes, 300 DPI or higher
+      - Yes, 150 DPI
+      - Yes, screen resolution
+      - Not sure
+      required: true
+    - id: 24
+      name: section_header_terms
+      label: -- Challenge Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: original_work
+      label: This Is My Original Work
+      hint: You created this design
+      type: select_one
+      options:
+      - Yes, entirely original
+      - Yes, with some stock elements
+      - No, based on existing design
+      required: true
+    - id: 26
+      name: rights_grant
+      label: I Grant Rights to Use My Design
+      hint: For judging and potential use
+      type: select_one
+      options:
+      - Yes, fully grant rights
+      - Yes, for judging only
+      - I need to negotiate rights
+      required: true
+    - id: 27
+      name: terms_acceptance
+      label: I Accept the Challenge Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 28
+      name: additional_notes
+      label: Additional Comments or Information
+      hint: Anything else about your entry?
+      type: text
+      options: []
+      required: false

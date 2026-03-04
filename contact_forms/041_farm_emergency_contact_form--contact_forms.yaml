@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Emergency Contact Form
+    pages:
+    - id: 1
+      name: emergency_contact_form
+      label: Emergency Contact Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

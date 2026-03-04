@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coloring Contest Entry Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Name of the person submitting the entry
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_age
+      label: Participant Age
+      hint: Age of the participant
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age category verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required for participants under 18
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email for contest updates and results
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for winner notification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_entry_details
+      label: -- Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: entry_title
+      label: Entry Title
+      hint: Give your coloring entry a creative name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: age_category
+      label: Age Category
+      hint: Your competition category based on age
+      type: select_one
+      options:
+      - Children (5-8 years)
+      - Kids (9-12 years)
+      - Teens (13-17 years)
+      - Adults (18+ years)
+      - Seniors (65+ years)
+      required: true
+    - id: 10
+      name: coloring_template
+      label: Coloring Template Used
+      hint: Which template did you color
+      type: select_one
+      options:
+      - Nature Scene
+      - Animal Kingdom
+      - Fantasy World
+      - Mandala Design
+      - City Landscape
+      - Underwater Scene
+      - Space Adventure
+      - Garden Paradise
+      required: true
+    - id: 11
+      name: medium_used
+      label: Coloring Medium Used
+      hint: What did you use to color your entry
+      type: select_multiple
+      options:
+      - Colored Pencils
+      - Markers
+      - Crayons
+      - Watercolors
+      - Oil Pastels
+      - Gel Pens
+      - Digital Tools
+      required: true
+    - id: 12
+      name: time_spent
+      label: Time Spent
+      hint: Approximate hours spent on your entry
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - 5-10 hours
+      - More than 10 hours
+      required: false
+    - id: 13
+      name: section_header_submission
+      label: -- Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: artwork_file
+      label: Upload Your Artwork
+      hint: Upload a clear photo or scan of your colored entry
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: artist_statement
+      label: Artist Statement
+      hint: Briefly describe your creative choices
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspiration
+      label: What Inspired Your Color Choices
+      hint: Tell us about your inspiration
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_contests
+      label: Have You Entered Before
+      hint: Have you participated in our contests before
+      type: select_one
+      options:
+      - Yes This Is My First Time
+      - Yes I Have Entered Before
+      - Yes I Am A Previous Winner
+      required: false
+    - id: 18
+      name: section_header_agreements
+      label: -- Contest Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: original_work
+      label: Original Work Declaration
+      hint: I confirm this is my original work
+      type: select_one
+      options:
+      - Yes I Confirm
+      - No I Do Not Confirm
+      required: true
+    - id: 20
+      name: publicity_rights
+      label: Publicity Rights
+      hint: Allow us to display your artwork
+      type: select_one
+      options:
+      - Yes You May Display
+      - No Do Not Display
+      required: true
+    - id: 21
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I have read and accept the contest rules
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 22
+      name: how_to_improve
+      label: How Can We Improve
+      hint: Suggestions for future contests
+      type: text
+      options: []
+      required: false

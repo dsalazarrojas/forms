@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: News Entry Submission Form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: headline
+      label: Headline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: summary
+      label: Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: content
+      label: Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false

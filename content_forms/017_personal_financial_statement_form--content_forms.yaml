@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_financial_statement_form
+    pages:
+    - id: 1
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assets
+      label: Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Investments
+      - Real estate
+      - Vehicles
+      - Other
+      required: false
+    - id: 3
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: select_multiple
+      options:
+      - Credit card debt
+      - Mortgages
+      - Loans
+      - Alimony
+      - Other
+      required: false
+    - id: 4
+      name: assets_value
+      label: Assets Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: liabilities_value
+      label: Liabilities Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: assets_currency
+      label: Asset Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: financial_statement_date
+      label: Financial Statement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: financial_statement_period
+      label: Financial Statement Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: financial_statement_total_value
+      label: Financial Statement Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - Current
+      - Potential
+      - Other
+      required: false
+    - id: 11
+      name: financial_status_note
+      label: Financial Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assets_notes
+      label: Assets Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: liabilities_notes
+      label: Liabilities Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: other_assets
+      label: Other Assets
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Investments
+      - Real estate
+      - Vehicles
+      - Other
+      required: false
+    - id: 15
+      name: other_liabilities
+      label: Other Liabilities
+      hint: null
+      type: select_multiple
+      options:
+      - Credit card debt
+      - Mortgages
+      - Loans
+      - Alimony
+      - Other
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_currency_other
+      label: Asset Currency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: financial_statement_other
+      label: Financial Statement Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: financial_statement_other_notes
+      label: Financial Statement Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: financial_statement_other_assets_notes
+      label: Financial Statement Other Assets Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: financial_statement_other_liabilities_notes
+      label: Financial Statement Other Liabilities Notes
+      hint: null
+      type: note
+      options: []
+      required: false

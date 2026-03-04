@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chas Everitt Mandate Renewal and Lease Termination
+    pages:
+    - id: 1
+      name: mandate_header_section
+      label: -- Real Estate Mandate Renewal and Termination notice --
+      hint: Final documentation for mandate renewal or lease termination.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: landlord_legal_name
+      label: Landlord/Property Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_physical_address
+      label: Physical Address of Property
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_tenant_name
+      label: Current Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lease_termination_date
+      label: Date of Normal Lease Termination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: renewal_option_decision
+      label: Landlord's Decision on Mandate Renewal
+      hint: null
+      type: select_one
+      options:
+      - Renew Mandate with Chas Everitt
+      - Terminate Mandate upon Lease Expiry
+      required: true
+    - id: 7
+      name: new_mandate_period
+      label: Requested Renewal Period (Months)
+      hint: If renewing
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: proposed_new_rental_amount
+      label: Proposed New Monthly Rental Amount
+      hint: For the renewal period
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: inspection_date_scheduled
+      label: Scheduled Date for Final Exit Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: mandate_terms_acknowledgment
+      label: I acknowledge and agree to the revised mandate terms
+      hint: Refer to the standard Chas Everitt Mandate document.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 11
+      name: marketing_permission_renewal
+      label: Permission to begin marketing for new tenant immediately?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: deposit_handling_confirmation
+      label: I confirm the security deposit is being held in a compliant account
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true
+    - id: 13
+      name: additional_mandate_instructions
+      label: Special Instructions for the Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: landlord_signature_digital
+      label: Landlord Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: mandate_renewal_submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Testing Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_phone_number
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: disease_diagnosis
+      label: Disease Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - COVID-19
+      - Malaria
+      - Influenza
+      required: false
+    - id: 5
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_phone_number
+      label: Doctor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Rejected
+      - Pending
+      required: false
+    - id: 12
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false

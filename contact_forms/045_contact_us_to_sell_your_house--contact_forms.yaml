@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us To Sell Your House
+    pages:
+    - id: 1
+      name: header
+      label: Sell Your House - Contact Us
+      hint: Get a free home valuation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: homeowner_name
+      label: Homeowner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_city
+      label: City
+      hint: Property city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_state
+      label: State
+      hint: Property state
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_zip
+      label: ZIP Code
+      hint: Property ZIP
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: Type of home
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Multi-Family
+      - Land
+      - Other
+      required: true
+    - id: 10
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: Bedroom count
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: Bathroom count
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: square_footage
+      label: Square Footage
+      hint: Approximate size
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: timeline
+      label: When Do You Want to Sell
+      hint: Selling timeline
+      type: select_one
+      options:
+      - Immediately
+      - Within 30 days
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Just curious
+      required: true
+    - id: 15
+      name: mortgage_status
+      label: Mortgage Status
+      hint: Do you have a mortgage
+      type: select_one
+      options:
+      - Yes - Paying Mortgage
+      - Yes - Almost Paid Off
+      - No - Owned Free and Clear
+      - Pre-foreclosure
+      required: false
+    - id: 16
+      name: estimated_value
+      label: Estimated Home Value
+      hint: What do you think it is worth
+      type: select_one
+      options:
+      - Under $200000
+      - $200000 to $400000
+      - $400000 to $600000
+      - $600000 to $800000
+      - $800000 to $1000000
+      - Over $1000000
+      required: false
+    - id: 17
+      name: reason_selling
+      label: Reason for Selling
+      hint: Why are you selling
+      type: select_one
+      options:
+      - Relocating
+      - Upsizing
+      - Downsizing
+      - Financial Reasons
+      - Investment Property
+      - Inherited Property
+      - Other
+      required: true
+    - id: 18
+      name: condition
+      label: Property Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Repairs
+      - Needs Major Work
+      required: true
+    - id: 19
+      name: renovations
+      label: Recent Renovations
+      hint: Any updates made
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: showing_availability
+      label: Availability for Showings
+      hint: When can we visit
+      type: select_one
+      options:
+      - Weekdays
+      - Weekends
+      - Evenings
+      - Flexible
+      - Not Yet
+      required: false
+    - id: 21
+      name: additional_info
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

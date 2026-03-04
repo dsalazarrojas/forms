@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Us Form Pin Theme With Captcha
+    pages:
+    - id: 1
+      name: header
+      label: Contact Us
+      hint: Secure contact form
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: Message topic
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: Select category
+      type: select_one
+      options:
+      - General Question
+      - Technical Support
+      - Sales
+      - Feedback
+      - Other
+      required: true
+    - id: 7
+      name: message
+      label: Your Message
+      hint: Message details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: captcha
+      label: Security Verification
+      hint: Enter the code shown
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Privacy Consent
+      hint: Agree to terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

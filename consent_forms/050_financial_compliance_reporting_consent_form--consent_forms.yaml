@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Compliance Reporting Consent Form
+    pages:
+    - id: 1
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

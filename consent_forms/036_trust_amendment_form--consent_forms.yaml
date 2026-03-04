@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trust Amendment Form
+    pages:
+    - id: 1
+      name: grantor_wishes
+      label: Grantor Wishes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trust_terms
+      label: Trust Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: amendments
+      label: Amendments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: changes_in_circumstances
+      label: Changes in Circumstances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: legal_requirements
+      label: Legal Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trust_management
+      label: Trust Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grantor_info
+      label: Grantor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trusteed_info
+      label: Trustee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notary_public
+      label: Notary Public
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Other Notary
+      required: true
+    - id: 10
+      name: date_of_signing
+      label: Date of Signing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: notary_public_fee
+      label: Notary Public Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: grantor_signature
+      label: Grantor Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: notary_public_signature
+      label: Notary Public Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: trusteed_signature
+      label: Trustee Signature
+      hint: null
+      type: note
+      options: []
+      required: true

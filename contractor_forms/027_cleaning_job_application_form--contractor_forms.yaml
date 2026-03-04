@@ -1,0 +1,428 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Job Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be at least 18 years old
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_header_position
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: position_applying_for
+      label: Position Applying For
+      hint: Which position are you interested in
+      type: select_one
+      options:
+      - Residential Cleaner
+      - Commercial Cleaner
+      - Janitorial Staff
+      - Floor Care Specialist
+      - Window Cleaner
+      - Carpet Cleaning Technician
+      - Cleaning Team Leader or Supervisor
+      - Other
+      required: true
+    - id: 13
+      name: availability
+      label: Availability
+      hint: When are you available to work
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Weekends Only
+      - Evenings Only
+      - Flexible Schedule
+      - Temporary or Seasonal
+      required: true
+    - id: 14
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you begin working
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: section_header_experience
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: cleaning_experience
+      label: Cleaning Experience Level
+      hint: How much cleaning experience do you have
+      type: select_one
+      options:
+      - No Experience - Willing to Learn
+      - Less than 1 Year
+      - 1-3 Years
+      - 3-5 Years
+      - 5 or more Years
+      required: true
+    - id: 17
+      name: previous_employer_1
+      label: Most Recent Employer
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_job_title_1
+      label: Previous Job Title
+      hint: Your title at this job
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_employer_dates_1
+      label: Dates of Employment
+      hint: From and to dates
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_employer_2
+      label: Previous Employer
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_job_title_2
+      label: Previous Job Title
+      hint: Your title at this job
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_employer_dates_2
+      label: Dates of Employment
+      hint: From and to dates
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reasons_for_leaving
+      label: Reasons for Leaving Previous Positions
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_skills
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: cleaning_skills
+      label: Cleaning Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Cleaning
+      - Carpet Cleaning
+      - Floor Stripping and Waxing
+      - Window Cleaning
+      - Pressure Washing
+      - Upholstery Cleaning
+      - Disinfection and Sanitization
+      - Biohazard Cleanup
+      - Post-Construction Cleaning
+      - Green or Eco-Friendly Cleaning
+      required: true
+    - id: 26
+      name: equipment_experience
+      label: Equipment You Have Experience With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vacuum Cleaners (All Types)
+      - Floor Buffers or Polishers
+      - Carpet Extractors
+      - Floor Scrubbers
+      - Pressure Washers
+      - Steam Cleaners
+      - Industrial Cleaning Equipment
+      - None
+      required: true
+    - id: 27
+      name: chemical_safety_training
+      label: Chemical Safety Training
+      hint: Have you been trained in safe chemical use
+      type: select_one
+      options:
+      - Yes - Certified
+      - Yes - Trained on the job
+      - No - But willing to be trained
+      required: true
+    - id: 28
+      name: reliable_transportation
+      label: Reliable Transportation
+      hint: Do you have reliable transportation
+      type: select_one
+      options:
+      - Yes - Personal Vehicle
+      - Yes - Public Transportation
+      - No - Need transportation assistance
+      required: true
+    - id: 29
+      name: valid_drivers_license
+      label: Valid Driver License
+      hint: Do you have a valid driver license
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: able_to_lift
+      label: Able to Lift 50 Pounds
+      hint: Can you lift up to 50 lbs
+      type: select_one
+      options:
+      - true
+      - false
+      - With Accommodations
+      required: true
+    - id: 31
+      name: section_header_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: highest_education
+      label: Highest Level of Education
+      hint: Your education level
+      type: select_one
+      options:
+      - Less than High School
+      - High School Diploma or GED
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: true
+    - id: 33
+      name: certifications
+      label: Relevant Certifications
+      hint: List any cleaning or safety certifications
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: languages_spoken
+      label: Languages Spoken
+      hint: What languages do you speak
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Cantonese
+      - Vietnamese
+      - Korean
+      - Other
+      required: true
+    - id: 35
+      name: section_header_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do you know this person
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: How do you know this person
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: criminal_background
+      label: Have You Ever Been Convicted of a Crime
+      hint: This does not automatically disqualify you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 44
+      name: background_explanation
+      label: Explanation
+      hint: If yes, please explain
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: eligible_to_work
+      label: Are You Legally Eligible to Work
+      hint: Are you authorized to work in this country
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: how_did_you_hear
+      label: How Did You Hear About This Position
+      hint: How did you find this job opening
+      type: select_one
+      options:
+      - Company Website
+      - Job Board
+      - Social Media
+      - Friend or Family Referral
+      - Newspaper
+      - Employment Agency
+      - Other
+      required: false
+    - id: 47
+      name: why_do_you_want_to_work
+      label: Why Do You Want to Work Here
+      hint: Brief statement
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: applicant_signature
+      label: Applicant Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Conservation Participation Consent Form
+    pages:
+    - id: 1
+      name: water_conservation_participation_consent_form
+      label: Water Conservation Participation Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: conservation_programs
+      label: Conservation Programs
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Participant Email Address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: water_use
+      label: Water Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: text
+      options: []
+      required: false

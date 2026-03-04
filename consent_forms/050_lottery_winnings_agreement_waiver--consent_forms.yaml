@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lottery Winnings Agreement Waiver
+    pages:
+    - id: 1
+      name: lotto_winnings
+      label: Lottery Winnings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Participant Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: winnings
+      label: Total Winnings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: share_winnings
+      label: Share Winnings
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 50}'
+      - '{''id'': 2, ''label'': 75}'
+      - '{''id'': 3, ''label'': 100}'
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false

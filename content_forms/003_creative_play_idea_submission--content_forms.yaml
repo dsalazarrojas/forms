@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Play Idea Submission
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: play_idea
+      label: play_idea
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - arts
+      - music
+      - drama
+      required: true
+    - id: 4
+      name: activity_type
+      label: activity_type
+      hint: null
+      type: select_multiple
+      options:
+      - art
+      - music
+      - dance
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: materials
+      label: materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: uploaded_files
+      label: uploaded_files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

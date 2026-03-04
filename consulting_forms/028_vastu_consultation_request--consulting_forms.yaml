@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vastu Consultation Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concerns
+      label: Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: consultant
+      label: Consultant
+      hint: null
+      type: select_one
+      options:
+      - Consultant 1
+      - Consultant 2
+      - Consultant 3
+      required: false
+    - id: 10
+      name: architect
+      label: Architect
+      hint: null
+      type: select_one
+      options:
+      - Architect 1
+      - Architect 2
+      - Architect 3
+      required: false
+    - id: 11
+      name: wellness_professional
+      label: Wellness Professional
+      hint: null
+      type: select_multiple
+      options:
+      - Wellness Professional 1
+      - Wellness Professional 2
+      - Wellness Professional 3
+      - Wellness Professional 4
+      required: false
+    - id: 12
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: consultation_notes
+      label: Consultation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - Follow Up 1
+      - Follow Up 2
+      - Follow Up 3
+      required: false
+    - id: 17
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_method_2
+      label: Follow Up Method 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

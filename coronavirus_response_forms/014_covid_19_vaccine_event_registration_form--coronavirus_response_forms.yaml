@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Event Registration Form
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: Please provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_address
+      label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city_state_zip
+      label: City, State, and ZIP Code
+      hint: Your location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_info_header
+      label: -- Event Details --
+      hint: Information about this vaccination event
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Vaccination Event Name
+      hint: Name of this event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: When is this vaccination event
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: Where is the vaccination event being held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: preferred_time_slot_event
+      label: Preferred Time Slot
+      hint: Select your preferred vaccination time
+      type: select_one
+      options:
+      - Early Morning - 8 AM to 10 AM
+      - Morning - 10 AM to 12 PM
+      - Afternoon - 12 PM to 2 PM
+      - Late Afternoon - 2 PM to 4 PM
+      - Evening - 4 PM to 6 PM
+      required: false
+    - id: 14
+      name: vaccination_history_header
+      label: -- Vaccination History --
+      hint: Your previous COVID-19 vaccination
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_covid_doses
+      label: Number of Previous COVID-19 Vaccine Doses
+      hint: How many doses have you received
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: previous_vaccine_product
+      label: Previous Vaccine Product
+      hint: Type of vaccine you received before
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - Unsure
+      - None
+      required: false
+    - id: 17
+      name: last_dose_date
+      label: Date of Last COVID-19 Vaccine Dose
+      hint: When was your most recent dose
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: vaccine_preference_event
+      label: Vaccine Type Preference for This Event
+      hint: Your preference if options available
+      type: select_one
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No Preference
+      required: false
+    - id: 19
+      name: health_screening_header
+      label: -- Health Screening --
+      hint: Quick health questions before vaccination
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_symptoms
+      label: Do You Currently Have Any Symptoms
+      hint: Fever, cough, shortness of breath, etc.
+      type: select_one
+      options:
+      - No symptoms
+      - Mild symptoms
+      - Moderate symptoms
+      - Severe symptoms
+      required: true
+    - id: 21
+      name: current_illness_event
+      label: Are You Currently Ill with Any Condition
+      hint: Any current acute illness
+      type: select_one
+      options:
+      - false
+      - true
+      - Possibly
+      required: true
+    - id: 22
+      name: known_allergies_event
+      label: Severe Allergies to Vaccine Components
+      hint: Any allergies that may affect vaccination
+      type: select_one
+      options:
+      - No known allergies
+      - Yes, have allergies
+      - Unsure
+      required: true
+    - id: 23
+      name: accessibility_needs_event
+      label: Do You Require Any Accommodations
+      hint: Special needs or accessibility requirements
+      type: select_multiple
+      options:
+      - Wheelchair Access
+      - Sign Language Interpreter
+      - Large Print Materials
+      - Mobility Assistance
+      - Language Translation
+      - Childcare Assistance
+      - No Accommodations Needed
+      required: false
+    - id: 24
+      name: questions_or_comments
+      label: Additional Questions or Comments
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_statement
+      label: I Confirm That All Information is Accurate
+      hint: All provided information is correct and true
+      type: select_one
+      options:
+      - I confirm
+      - Needs correction
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Integration Consulting Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Consulting Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Organization applying for consulting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for the project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For project communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_scope
+      label: Project scope
+      hint: Describe the integration needs and objectives
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: timeline_expectation
+      label: Timeline expectation
+      hint: Expected start and end dates or duration
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: estimated_budget
+      label: Estimated budget
+      hint: Budget range for the consulting engagement
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: key_stakeholders
+      label: Key stakeholders
+      hint: List stakeholders to involve in the project
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_systems
+      label: Current systems
+      hint: Main systems to be integrated
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_to_terms
+      label: Agree to consulting terms
+      hint: Confirm agreement to our engagement terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

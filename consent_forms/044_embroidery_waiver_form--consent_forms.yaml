@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: embroidery_waiver_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: order_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: waiver_terms
+      label: waiver_terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_footer
+      label: form_footer
+      hint: null
+      type: text
+      options: []
+      required: false

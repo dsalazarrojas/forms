@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: submit_a_forum_post
+    pages:
+    - id: 1
+      name: submit_a_forum_post
+      label: Forum Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: forum_post_tag
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - User's consent
+      - No consent
+      - Declined
+      required: false
+    - id: 5
+      name: rule_consent
+      label: Rule Consennt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: forum_post_rule_consent
+      label: Rule Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

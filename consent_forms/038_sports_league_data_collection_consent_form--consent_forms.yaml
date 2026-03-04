@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports League Data Collection Consent Form
+    pages:
+    - id: 1
+      name: league_details
+      label: League Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: Please provide your consent by signing this form
+      type: select_one
+      options:
+      - I consent to the collection of my data
+      - I do not consent
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: league_admin
+      label: League Admin
+      hint: null
+      type: select_one
+      options:
+      - League Admin 1
+      - League Admin 2
+      required: true
+    - id: 11
+      name: emergency_name
+      label: emergency_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_email
+      label: Emergency E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false

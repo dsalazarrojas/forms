@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Sharing Consent Form
+    pages:
+    - id: 1
+      name: content_owner_name
+      label: Content Owner Name
+      hint: Full name of content owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: content_owner_email
+      label: Content Owner Email
+      hint: Email address of content owner
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: content_owner_phone
+      label: Content Owner Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting to share
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_email
+      label: Requester Email
+      hint: Email address of requester
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requester_organization
+      label: Requester Organization
+      hint: Organization or company of requester
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: Date of this consent request
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: content_title
+      label: Content Title
+      hint: Title of content to be shared
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: content_description
+      label: Content Description
+      hint: Describe the content
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: content_type
+      label: Content Type
+      hint: What format is the content?
+      type: select_one
+      options:
+      - Article
+      - Blog Post
+      - Photograph
+      - Video
+      - Audio
+      - Infographic
+      - Presentation
+      - Document
+      - Multiple Types
+      required: true
+    - id: 11
+      name: content_url
+      label: Content URL
+      hint: Where is the content located?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sharing_purpose
+      label: Sharing Purpose
+      hint: Why do you want to share this content?
+      type: select_one
+      options:
+      - Educational Use
+      - Research
+      - Marketing
+      - Internal Training
+      - Presentation
+      - Social Media
+      - News Article
+      - Other
+      required: true
+    - id: 13
+      name: sharing_platforms
+      label: Sharing Platforms
+      hint: Where will the content be shared?
+      type: select_multiple
+      options:
+      - Website
+      - Blog
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
+      - YouTube
+      - Email Newsletter
+      - Internal Network
+      - Print Publication
+      required: true
+    - id: 14
+      name: audience_type
+      label: Audience Type
+      hint: Who will see the shared content?
+      type: select_one
+      options:
+      - General Public
+      - Students
+      - Employees
+      - Clients
+      - Members Only
+      - Specific Group
+      required: true
+    - id: 15
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Where will content be shared?
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Worldwide
+      required: true
+    - id: 16
+      name: sharing_duration
+      label: Sharing Duration
+      hint: How long will content be shared?
+      type: select_one
+      options:
+      - One-Time Share
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - Indefinite
+      required: true
+    - id: 17
+      name: modification_allowed
+      label: Modification Allowed
+      hint: Can the content be modified?
+      type: select_one
+      options:
+      - No Modifications
+      - Minor Edits Only
+      - Significant Edits Allowed
+      - Full Modification Rights
+      required: true
+    - id: 18
+      name: attribution_required
+      label: Attribution Required
+      hint: How should owner be credited?
+      type: select_one
+      options:
+      - Full Attribution Required
+      - Partial Attribution
+      - No Attribution Required
+      - Anonymous Sharing
+      required: true
+    - id: 19
+      name: attribution_format
+      label: Attribution Format
+      hint: How should credit appear?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: commercial_use
+      label: Commercial Use
+      hint: Will this be used for commercial purposes?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: compensation
+      label: Compensation
+      hint: Is there payment for sharing?
+      type: select_one
+      options:
+      - No Compensation
+      - One-Time Fee
+      - Royalty
+      - Revenue Share
+      required: true
+    - id: 22
+      name: compensation_amount
+      label: Compensation Amount
+      hint: Specify amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: exclusivity
+      label: Exclusivity
+      hint: Is this sharing exclusive?
+      type: select_one
+      options:
+      - Exclusive
+      - Non-Exclusive
+      required: true
+    - id: 24
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_granted
+      label: Consent Granted
+      hint: Do you grant permission to share?
+      type: select_one
+      options:
+      - Yes, I Grant Consent
+      - No, I Do Not Grant Consent
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
